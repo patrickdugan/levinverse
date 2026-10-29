@@ -17,6 +17,10 @@ from .harvest import Fetcher, authorization_basis, merge_video, save_transcript,
 from .store import read_jsonl, upsert
 
 
+def commentary_title(title: str) -> bool:
+    return bool(re.search(r"\b(?:reaction|reacting|review|analysis|summary|critique)\b.{0,80}\b(?:Michael|Mike) Levin\b|\b(?:Michael|Mike) Levin['’]s\b", title, re.I))
+
+
 def match_video(title: str, references: list[str], known: dict, allow_single_reference: bool = True) -> str | None:
     stop = {"michael", "mike", "levin", "the", "of", "and", "with", "on", "a", "is", "what", "how", "why", "podcast", "dr", "prof"}
     words = lambda text: set(re.findall(r"[a-z0-9]+", text.lower())) - stop
@@ -62,7 +66,8 @@ def stored_episode(title: str, source: str, audio: str, feed: dict, records: lis
 
 
 def episode_source(feed_url: str, guid: str, link: str | None) -> str:
-    if link and urlparse(link).path not in ("", "/", "/TheoriesOfEverything"):
+    generic_pages = {"", "/", "/theoriesofeverything", "/podcast", "/episodes", "/show"}
+    if link and urlparse(link).path.rstrip("/").casefold() not in generic_pages:
         return safe_url(link)
     return feed_url + "#episode=" + quote(guid, safe="")
 
@@ -123,6 +128,12 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
         items = document.findall("./channel/item")
         for item in items:
             title = item.findtext("title") or ""
+            if commentary_title(title):
+                guid = item.findtext("guid") or item.findtext("link") or title
+                ident = "rss-" + hashlib.sha256((feed["url"] + guid).encode()).hexdigest()[:16]
+                event = {"episode_id": ident, "episode_guid": guid, "title": title, "show": feed["show"], "feed_url": feed["url"], "source_url": episode_source(feed["url"], guid, item.findtext("link")), "status": "participation_review_required", "reason": "Commentary title does not establish Levin's participation", "retrieved_at": timestamp()}
+                upsert(root / "catalog/rss-episodes.jsonl", [event], "episode_id")
+                continue
             explicitly_named = re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I)
             verified_title = any(term.casefold() in title.casefold() for term in feed.get("confirmed_title_contains", []))
             if not explicitly_named and not verified_title:

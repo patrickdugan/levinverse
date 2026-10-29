@@ -111,6 +111,7 @@ def generate_report(root: Path) -> str:
         "official_non_youtube_source_links": len(read_jsonl(root / "catalog/nonvideo-sources.jsonl")),
         "publisher_pages_scanned": len(publisher_pages),
         "publisher_rss_episode_records": len(read_jsonl(root / "catalog/rss-episodes.jsonl")),
+        "rss_episodes_requiring_participation_review": sum(r.get("status") in {"participation_review_required", "subject_identity_review_required"} for r in read_jsonl(root / "catalog/rss-episodes.jsonl")),
         "podcast_directory_candidate_records": len(directory),
         "podcast_directory_confirmed_subject_records": sum(r.get("status") == "subject_confirmed" for r in directory),
         "public_audio_job_statuses": {status: sum(j.get("status") == status for j in audio_jobs) for status in sorted({j.get("status", "unknown") for j in audio_jobs})},

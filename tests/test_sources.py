@@ -50,6 +50,8 @@ class SourceTests(unittest.TestCase):
     def test_directory_rejects_political_names_and_unverified_mentions(self):
         self.assertEqual("unrelated_name", classify({"trackName": "Mike Levin - United States Congressman"}, set(), {})[0])
         self.assertEqual("unrelated_name", classify({"trackName": "A Coequal Branch (feat. Rep. Mike Levin)", "description": "Unrelated news about Tufts"}, set(), {})[0])
+        self.assertEqual("participation_review_required", classify({"trackName": "Reaction to Michael Levin: Bioelectricity", "description": "Michael Levin researches bioelectricity at Tufts"}, set(), {})[0])
+        self.assertEqual("participation_review_required", classify({"trackName": "Michael Levin's Unseen World", "description": "A discussion of bioelectricity"}, set(), {})[0])
         self.assertEqual("reference_review_required", classify({"trackName": "Another guest", "description": "Michael Levin at Tufts"}, set(), {})[0])
         self.assertEqual("subject_identity_review_required", classify({"trackName": "Michael Levin interview"}, set(), {})[0])
         self.assertEqual("subject_confirmed", classify({"trackName": "Michael Levin interview", "description": "Professor of biology at Tufts"}, set(), {})[0])
@@ -67,6 +69,7 @@ class SourceTests(unittest.TestCase):
         feed = "https://example.org/rss"
         channel = "https://youtube.com/TheoriesOfEverything"
         self.assertNotEqual(episode_source(feed, "one", channel), episode_source(feed, "two", channel))
+        self.assertNotEqual(episode_source(feed, "one", "https://example.org/podcast/"), episode_source(feed, "two", "https://example.org/podcast/"))
 
     def test_related_video_links_require_specific_title_match(self):
         known = {"primary": {"title": "Michael Levin Karl Friston Chris Fields on The Meta Hard Problem"}, "related": {"title": "Michael Levin on Morphogenetics and Xenobots"}}
@@ -112,6 +115,20 @@ class SourceTests(unittest.TestCase):
             self.assertEqual(0, result["audio_queued"])
             self.assertEqual("covered_by_stored_transcript", read_jsonl(root / "catalog/audio-queue.jsonl")[0]["status"])
             self.assertEqual("Original title", read_jsonl(root / "catalog/videos.jsonl")[0]["title"])
+
+    def test_rss_commentary_is_kept_for_review_without_queueing_audio(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
+            feed = "https://example.org/rss"
+            (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [{"show": "Example", "url": feed}]}))
+            class Client:
+                def get(self, url):
+                    return b'<rss><channel><item><title>Reaction to Michael Levin and bioelectricity</title><guid>commentary-1</guid><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
+            collect(root, Client())
+            self.assertEqual([], read_jsonl(root / "catalog/audio-queue.jsonl"))
+            self.assertEqual("participation_review_required", read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["status"])
 
     def test_fallback_uses_published_group_clock_not_guessed_element_ids(self):
         groups = ''.join(f'<div class="single-sentence"><span class="pod_timestamp_indicator">Starting point is 00:00:{i:02d}</span><span class="transcript-text" id="sentenceid_{i + 1}">Fixture text.</span></div>' for i in range(20))

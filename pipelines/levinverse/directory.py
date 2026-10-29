@@ -8,7 +8,7 @@ from pathlib import Path
 from urllib.parse import urlencode
 
 from .expand import safe_url
-from .feeds import publisher_title_match
+from .feeds import commentary_title, publisher_title_match
 from .harvest import Fetcher, timestamp
 from .store import read_jsonl, upsert
 
@@ -20,6 +20,8 @@ def classify(item: dict, configured_ids: set[int], known: dict) -> tuple[str, st
         return "unrelated_name", "Episode identifies a political officeholder"
     if not re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I):
         return "reference_review_required", "Name not explicit in episode title; search mentions alone do not establish participation"
+    if commentary_title(title) or re.search(r"\b(?:speaks|talks|discusses) about (?:the )?(?:work|research) (?:of|or) (?:Michael|Mike) Levin\b", description[:700], re.I):
+        return "participation_review_required", "Title or description indicates commentary on Levin; his participation is not established"
     if re.search(r"\b(Tufts|drmichaellevin|bioelectric\w*|xenobot\w*|anthrobot\w*|morphogen\w*)\b", title + " " + description[:700], re.I):
         return "subject_confirmed", "Episode names Michael Levin and identifies his institution or distinctive research"
     if item.get("collectionId") in configured_ids:
