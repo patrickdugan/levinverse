@@ -1,0 +1,17 @@
+version: 0.1.0
+entities:
+  Appearance: {key: appearance_id, description: "An event or spoken-work appearance; may have multiple video uploads."}
+  Video: {key: video_id, description: "A specific hosted upload, distinct from the underlying appearance."}
+  Claim: {key: claim_id, description: "A timestamp-linked statement, labeled by evidence class."}
+  Experiment: {key: experiment_id, description: "An experiment relevant to a claim, with publication reference."}
+  Publication: {key: publication_id, description: "A paper or other citable research output."}
+  Concept: {key: concept_id, description: "A controlled-vocabulary topic."}
+relations:
+  - {from: Video, type: documents, to: Appearance}
+  - {from: Claim, type: stated_in, to: Video, required: [start_seconds, end_seconds]}
+  - {from: Claim, type: concerns, to: Concept}
+  - {from: Claim, type: supported_by, to: Experiment}
+  - {from: Claim, type: counterevidenced_by, to: Experiment}
+  - {from: Claim, type: cites, to: Publication}
+claim_fields: [claim_id, text, evidence_class, source_video_id, start_seconds, end_seconds, attribution, uncertainty, revision_notes, counterevidence]
+evidence_class: [empirical, interpretive, speculative]
