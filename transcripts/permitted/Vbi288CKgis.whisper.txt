@@ -1,0 +1,574 @@
+[0.00 --> 5.16] Michael Levin is a distinguished professor in the biology department at Tufts University
+[5.16 --> 10.56] and the holder of the Vannevar Bush Endowed Chair. He's the director of the Allen Discovery
+[10.56 --> 15.26] Centre at Tufts and also the Centre for Regenerative and Developmental Biology.
+[15.92 --> 20.78] His research focuses on understanding the biophysical mechanisms of pattern regulation
+[20.78 --> 26.64] and harnessing endogenous bioelectric dynamics for rational control of growth and form.
+[26.64 --> 34.54] Now the capacity to generate a complex behaving organism from the single cell of a fertilised
+[34.54 --> 40.72] egg is one of the most amazing aspects of biology. Levin's lab integrates approaches from
+[40.72 --> 45.98] developmental biology, computer science and cognitive science to investigate the emergence
+[45.98 --> 52.06] of form and function. Using biophysical and computational modelling approaches they seek
+[52.06 --> 57.56] to understand the collective intelligence of cells as they navigate physiological,
+[58.12 --> 65.08] transcriptional, morphogenetic and behavioural spaces. They develop conceptual frameworks for
+[65.08 --> 70.58] basal cognition and diverse intelligence, including synthetic organisms and AI.
+[71.44 --> 77.98] Also joining us this evening is Irina Risch. Irina is a full professor at the University of
+[77.98 --> 83.32] Montreal's Computer Science and Operations Research Department, a core member of MILA,
+[83.58 --> 90.40] the Quebec AI Institute, as well as the holder of the Canada CIFAR AI Chair and the Canadian
+[90.40 --> 98.46] Excellence Research Chair in Autonomous AI. She has a PhD in AI from UC Irvine and her research
+[98.46 --> 104.92] focuses on machine learning, neural data analysis, neuroscience-inspired AI, continual lifelong learning,
+[104.92 --> 110.24] optimisation algorithms, sparse modelling, probabilistic inference, dialogue generation,
+[110.84 --> 116.30] biologically plausible reinforcement learning and dynamical systems approaches to brain imaging
+[116.30 --> 123.26] analysis. Anyway folks, I really hope you enjoy this conversation today. So without any further delay,
+[123.56 --> 129.26] I give you Professor Michael Levin and Professor Irina Risch. Enjoy.
+[130.06 --> 134.60] Michael, it's an absolute honour to meet you. You've got a very interesting background.
+[134.60 --> 140.08] Now I discovered your work when we did a show on emergence and I was looking into graph cellular
+[140.08 --> 145.96] automata actually and I was looking into that the CNN version which did this concept called
+[145.96 --> 152.00] morphogenetic engineering which is this idea that you can almost transgress ladders, you know,
+[152.08 --> 158.54] like levels of the emergence ladder by describing something at the microscopic scale and then getting
+[158.54 --> 164.96] this kind of emergent global coherence. And in that particular case it kind of emerged as the shape
+[164.96 --> 169.80] of a gecko. I'm not sure if you're familiar with that particular thing but so emergence is fascinating
+[169.80 --> 175.58] but coming at it from your angle in biology, how do you see the interplay between what you do in
+[175.58 --> 180.88] artificial intelligence? Well thanks very much. I'm very happy to be here and have the chance to talk to you
+[180.88 --> 189.38] about these things. A couple of things. I think that intelligence is baked in basically at the very
+[189.38 --> 196.34] bottom of the multi-scale architecture that we have in living organisms and so what I think is very
+[196.34 --> 201.78] powerful is this interplay where we can of course use AI and machine learning to try to understand the
+[201.78 --> 207.46] biology better and at the same time we can take all these unconventional examples of intelligence and
+[207.46 --> 213.40] cognition that we find all the way down to molecular networks and use them as inspirations for things that
+[213.40 --> 220.70] we build, right? Either hybrid systems or fully engineered systems. And I think one of the key things to say
+[220.70 --> 226.56] from my perspective is that emergence is not the whole story. So I think emergence is very powerful and
+[226.56 --> 233.22] emergence certainly happens and we have many, many, many scenarios in which highly parallel active
+[233.88 --> 238.32] implementation of local simple rules gives you some kind of complex emergent outcomes. We certainly
+[238.32 --> 244.36] see that. But I think the magic of biology isn't just that. I think the real magic of biology is that
+[244.36 --> 250.36] at every level these are not sort of feed forward emergent processes where you follow the rules,
+[250.48 --> 255.06] something comes out and you know there you go whatever comes out comes out. I think that the key
+[255.06 --> 261.58] to understanding the power of biology is that all of these things at all scales are closed loop
+[261.58 --> 266.10] goal-directed in the cybernetic sense, not in the magical sort of supernatural sense, but in the
+[266.10 --> 272.98] cybernetic sense, goal-directed agents that are able to detect error from specific set points and are
+[272.98 --> 278.44] doing their best in terms of using energy and sometimes actually very clever kinds of policies
+[278.44 --> 285.00] to achieve specific goals and specific problem spaces. And I think scaling that up gets us much
+[285.00 --> 286.32] further than emergence alone.
+[287.26 --> 293.64] Interesting. So I read a book by Douglas Hofstadter called The Strange Loop and he has this idea of all sorts of
+[293.64 --> 298.70] interesting causal relations between the scales. And this is something that I find it a bit difficult to get my
+[298.70 --> 303.10] head around. So, you know, the mind, for example, is an emergent phenomenon and we have this thing called
+[303.10 --> 310.70] agency and I direct my hand and I tell my hand to move. But if everything does emerge from the lower level
+[310.70 --> 313.92] domain, how does that work? How do you get these feedback mechanisms?
+[314.86 --> 320.44] Yeah. Well, a couple of things. First of all, you know, this notion of
+[323.40 --> 330.94] reducibility to the lower level. So for a really long time, for centuries, this was a philosophical debate
+[330.94 --> 335.46] in that people could argue there were reductionists and they would say, well, ultimately everything's
+[335.46 --> 339.34] reducible and people would say, no, no, there's a strong emergence and things happen at the top.
+[339.34 --> 345.72] So the amazing thing to me is that this debate has been actually moved from the area of philosophy to
+[345.72 --> 351.46] the area of mathematics and rigorous science by people like Giulio Tononi and Eric Hole, who have
+[351.46 --> 358.22] actually produced new advances in information theory, where you can actually calculate which level of your
+[358.22 --> 362.60] system does the most work. It is no longer up for philosophical debate. You can actually do the
+[362.60 --> 367.62] calculation. So there are literally, there's a software toolkit that you can use and for a given,
+[367.62 --> 371.36] and sometimes you will find out that yes, indeed, it is reducible to the lower level.
+[372.02 --> 376.20] And if for other systems, you find out that actually, no, the higher levels do more work,
+[376.30 --> 381.52] more causal work than the lower levels. And this has been, this has been obvious in, in, in biology,
+[381.52 --> 388.64] I think for, for a really long time, because we as a, we, we, as scientists and engineers, other organisms,
+[388.94 --> 397.82] and in fact, the evolutionary process itself uses higher level control knobs, exploits them very,
+[397.84 --> 402.64] very significantly. The kind of things that we, we, for example, study is membrane voltage. So resting
+[402.64 --> 409.98] potential is a kind of aggregate coarse graining of, of the positions of the individual ions, but you get much
+[409.98 --> 414.18] further in terms of regenerative medicine and other applications. If you track the voltage,
+[414.20 --> 418.94] not the molecular details of the ions, it actually, it actually helps you do new experiments, produce
+[418.94 --> 424.42] therapeutics by tracking this, this, this high level thing that, that, that, that a reductionist
+[424.42 --> 428.12] might say, well, it doesn't even exist in the first place. So I think, so I think these higher levels
+[428.12 --> 434.86] absolutely have, have causal power. And the way that I would put this strange loop idea, and I think,
+[434.86 --> 440.12] you know, Hofstadter has many kind of ingenious concepts in his various books. The way, the way I
+[440.12 --> 446.06] would put the strange loop idea is like this. Many of the things we are interested in, so, so, so memory,
+[446.28 --> 452.08] cognition, all, all, all, all these kinds of things. In my framework, I have a particular framework for
+[452.08 --> 456.10] thinking about these things in my framework are observer dependent. So when you have a particular
+[456.10 --> 462.84] system, the claim that it occupies some level along this, this continuum of agency, and I do think
+[462.84 --> 469.16] it's a continuum, it's not binary. The claim that it occupies some particular place along that continuum
+[469.16 --> 475.58] is an observer relevant, relative claim. In other words, it's not an objective fact about it. It's, it's,
+[475.66 --> 479.70] here's an observer, that observer can formulate some, some particular model of this thing.
+[480.94 --> 486.08] As a, as a, as a, as a cognitive agent, at some level of sophistication, there's a different observer
+[486.08 --> 491.40] that has a different model, and each of them can interact with that system well or poorly, to the extent
+[491.40 --> 496.62] that their model allows. And so where you get the, where you get the strange loop is that the observer,
+[496.96 --> 502.12] which is necessary to define all, you know, things like problem spaces and the goals, these are all observer
+[502.12 --> 507.92] dependent. The observer might be the system itself. So, so when you get the real, the real boot up of agency
+[507.92 --> 514.60] comes when the system becomes its own observer, and starts to make internal models of its own parts and, and models
+[514.60 --> 519.90] that help it, uh, control itself in its own, in its own lower levels, when the high levels start to
+[519.90 --> 520.88] control the lower levels.
+[521.54 --> 526.22] Yes. And that's somewhat reminiscent of Carl Friston. He has his, uh, free energy principle and the
+[526.22 --> 530.90] concept of a Markov blanket and being able to predict external states probabilistically. But yeah,
+[530.96 --> 536.64] there's two things you said there. So first of all, um, this notion of things at different levels of
+[536.64 --> 542.42] the emergence ladder doing different amounts of work. And that suggests to me a kind of form of
+[542.42 --> 548.38] strong emergence, which is an affront on physicalism. So, um, I wondered if you could
+[548.38 --> 552.64] pick up on, on that. And, and the other thing you said in terms of this observer relative thing
+[552.64 --> 557.32] that gets rather to this kind of ultra relativistic or even, you know, like in the
+[557.32 --> 562.96] Wittgensteinian sense of, or the Putnam sense that you can take any computation, represent it in any
+[562.96 --> 568.14] physical system and the kind of the meaning of that computation is in its use. So it doesn't
+[568.14 --> 577.37] really have any agency or valence in of itself. Uh, yeah, yeah. So, um, I think that, uh, well,
+[577.47 --> 583.97] so, so the first question first, I guess, um, it's only an affront on physicalism if you assume from
+[583.97 --> 589.95] the beginning that physicalism has to be ultimately reductive. So I, I, I don't believe that to be the
+[589.95 --> 596.69] case. And so I'm, I'm, I'm okay with, with a certain kind of physicalism that does, um, that
+[596.69 --> 601.41] does real justice to the fact that, uh, and, and I think, you know, Ian McGilchrist says this, he says,
+[601.61 --> 605.97] uh, you know, a lot of physicalists under, uh, really, really underestimate matter. Matter is
+[605.97 --> 609.99] amazing and it does some amazing things. And when you say, wow, that can't be, you know, matter,
+[610.11 --> 614.03] you know, that, that can't just be matter. You're not understanding what, what matter is actually
+[614.03 --> 618.71] capable of. And I think if we, uh, take, take seriously the fact that, yeah, it can be matter and
+[618.71 --> 623.89] also higher levels of organization can do work that is not apparent at lower levels. I think
+[623.89 --> 628.73] that's totally compatible. Um, and I'm sorry, I forgot. What was the second part? The second
+[628.73 --> 634.11] question? The, um, the observer relative, let's say the partner idea of being a, yeah. Yeah. Yeah.
+[634.25 --> 638.23] I think, I think that, I think that's, that's pretty necessary. I think that gets you very far
+[638.23 --> 643.27] actually, because, uh, a lot of times we get stuck in these pseudo problems when you try to make
+[643.27 --> 649.67] objective claims, um, about this area, you get into real problems where that, that resolve once
+[649.67 --> 655.23] you specify from whose vantage point are these things true or false. And so you get into this
+[655.23 --> 660.05] observer relativity, but I think it's really, really critical to say that the system itself
+[660.05 --> 665.93] is also a valid observer. So it's not just that, well, you have no meaning of your own. It's up to
+[665.93 --> 671.27] us to interpret you. I mean, we can interpret you, but you can also interpret yourself and you're not
+[671.27 --> 675.09] dependent on, you're not dependent on external observers to define these things for you. You are
+[675.09 --> 678.85] also a bonafide observer, but I do think, and this is work that we've done with Chris Fields,
+[679.05 --> 684.43] um, the role of an observer in all of these things, I think in the end, this is really critical.
+[686.56 --> 689.30] Wonderful. Um, Irina, thank you so much for joining us today.
+[690.42 --> 696.10] Thank you. And, uh, yeah, really good to see both of you. And, uh, I'm also looking forward to,
+[696.10 --> 702.30] uh, seeing Michael's talk at the workshop that we're running next week at the AAA conference.
+[704.12 --> 711.28] So, uh, yeah, I joined a bit late. Uh, so were specific questions you were kind of, uh, discussing?
+[711.58 --> 714.76] Well, I just caught the last one. Uh, anything?
+[715.42 --> 721.78] Well, um, so we just did, um, uh, I'm really interested in the, um, the rungs of the emergence
+[721.78 --> 727.86] ladder and how different rungs do different amounts of work. They have complex causal relationships
+[727.86 --> 733.76] between them. Is it an affront, an affront on physicalism and reductionism? And we're also
+[733.76 --> 740.34] talking about this very slippery notion of agency and where do you draw the boundary? And if, if you
+[740.34 --> 747.10] can draw a boundary. Yeah. Yeah. I mean, I, yeah, I was, I was saying that I, I, I, I don't even think
+[747.10 --> 753.98] that it's a primarily an emergence, uh, continuum. I think that it's a, well, I call it a persuadability
+[753.98 --> 758.36] continuum, but it's basically, it really is a continuum of agency. And I don't think there
+[758.36 --> 764.18] are any sharp boundaries. I think sharp categories are what we as observers bring to an underlying
+[764.18 --> 769.32] continuous phenomenon. And we can, we can try to impose categorical boundaries on things that make
+[769.32 --> 773.92] it easier for us to do specific things. But the underlying phenomena, I think are, are completely
+[773.92 --> 784.30] continuous. I, I do agree with that. And yet, um, there is a notion of transitions in certain metrics
+[784.30 --> 792.52] of behavior. Uh, I'm talking purely from kind of practical examples saying behavior of large scale,
+[792.78 --> 801.18] um, say AI systems, neural networks. So we know, and that's been observed recently. So that was say
+[801.18 --> 808.06] scaling the amount of data or model, you might for a while still not be able to do certain tasks well.
+[808.38 --> 814.62] And then at some particular kind of critical size, something happens and model suddenly like a grok set.
+[814.96 --> 820.98] So this grokking behavior have been observed over and over in the past like year. And so in, um,
+[821.34 --> 827.52] large scale machine learning models, which is essentially kind of emergence of certain ability.
+[828.96 --> 835.46] And while, I mean, it is still continuous, but there is a change in the slope and the change can be
+[835.46 --> 842.90] quite dramatic. Yeah. Yeah. So, yeah. So in a sense, it also resonates with other examples where
+[842.90 --> 848.98] transitions were happening, uh, in AI, but not necessarily in machine learning going all the way
+[848.98 --> 856.32] back to good old, like, uh, satisfability problems or constraint satisfaction problems. Uh, in general,
+[856.42 --> 862.14] even other, it'd be hard problems like discrete problems where you may have a network of variables
+[862.14 --> 869.20] or nodes that can take different values. And you're trying to, uh, basically increase, uh, the density
+[869.20 --> 875.06] in terms of number of constraints and see what happens. And the property of being satisfiable problem
+[875.06 --> 883.86] to unsatisfiable changes continually, but that probability experiences sharp drop at certain
+[883.86 --> 889.64] critical value, uh, say number of constraints in the system divided by the number of variables.
+[889.86 --> 895.84] So this constrainedness plays a role of critical parameters, similar to critical parameters,
+[896.04 --> 903.76] such as temperature or pressure in physical systems, which undergo like, uh, um, state of matter
+[903.76 --> 909.14] transitions with our, uh, water to solid and vice versa. And similar, like ferromagnetics,
+[909.36 --> 917.12] when the temperature increases and the ferromagnetic basically stops being magnetic. And, uh, the analogy
+[917.12 --> 923.68] was made in some cases quite clearly with those AI problems and their properties and those transitions
+[923.68 --> 931.90] in them. It's also kind of relates closely to like random graph theory. There is a famous old theorem
+[933.42 --> 939.80] that if you consider random graph and say P is probability that there is an edge in that graph
+[939.80 --> 946.00] and that probability keeps increasing. When it's zero, the graph is fully disconnected, no links at all.
+[946.24 --> 954.70] If it's one, everything is connected as complete graph. In the middle, say, if you look at connectedness
+[954.70 --> 960.24] of a graph as a property, what's the probability that from any point you can get to any other point
+[960.24 --> 967.42] and there is a path, that's what means graph is connected. That property, its probability again sharply goes
+[967.42 --> 973.68] from zero to one around certain critical value of that parameter. And then any other property,
+[973.80 --> 979.22] what was the beauty of that result? Any property doesn't have to be connectivity. That's monotonic
+[979.22 --> 987.34] in edge addition will far-face transition. So though it's continuous change, the shape of it is highly
+[987.34 --> 994.44] non-linear. Yeah, yeah. So that's super interesting. And of course, there are many phenomena in physics
+[994.44 --> 1001.22] and in math that show this kind of non-linear change, and that's fine. I'm interested in how
+[1001.22 --> 1006.40] sharp it really is, and in particular in the cases that you talked about. Because what happens in biology
+[1006.76 --> 1012.84] is that people will sort of, they look at the adult and, or let's say a human, and they say,
+[1012.92 --> 1017.54] okay, this human has true cognition and, you know, real, real, you know, hopes and dreams and whatnot.
+[1017.76 --> 1021.90] Then they look at the, at the one cell, you know, one cell egg at fertilization. They say, wow,
+[1021.92 --> 1027.80] that's just a chemical system. And so the theory is that at some point, right, so people assume that
+[1027.80 --> 1031.46] at some point there's some sort of phase transition. And a lot of people will talk about this phase
+[1031.46 --> 1036.92] transition. But if you really dig into this and ask them to specify, so what is that phase transition,
+[1037.26 --> 1041.72] right? So, so in biology, at least in that, in that, in the same thing happens in evolution,
+[1041.74 --> 1048.68] on the evolutionary timescale, I have never heard a plausible story of where is it? So, so at this
+[1048.68 --> 1053.44] moment, boom, so, so that, that, that thing moved from here to there. Ah, now we have this like crazy,
+[1053.64 --> 1058.64] you know, large transition. And it's, it's actually quite smooth, even though people tend to assume
+[1058.64 --> 1063.72] there must be some kind of phase transition. And so I wonder, just out of curiosity, because I'm not
+[1063.72 --> 1068.04] super familiar with the examples that you're talking about, if you were to zoom in, right,
+[1068.12 --> 1071.66] so let's just magnify it. So, so clearly you have some sort of sigmoid. So now we're, we're sort of
+[1071.66 --> 1078.54] zooming in. How sharp is it actually? Is there an atomic operation where I add one edge to this graph
+[1078.54 --> 1082.52] and bam, now, now I'm somewhere else? Like, how sharp is it really?
+[1082.52 --> 1090.00] Uh, yeah. So just like phase transitions in statistical physics, uh, the sharpness increases
+[1090.00 --> 1098.04] with the size of the system. Say you have any finite size graph, transition is, well, you're
+[1098.04 --> 1104.36] sigmoid. When you grow the size of this graph, say you grow that satisfability problem or whatever,
+[1104.64 --> 1109.64] uh, the transition becomes sharper and sharper. So in the limit, when the system is infinite,
+[1109.64 --> 1118.14] that, that basically the exponent diverges. Yeah. So it is getting sharper. So yeah, in,
+[1118.14 --> 1124.10] in empirical results, people were, uh, kind of doing in constraint satisfaction problems,
+[1124.22 --> 1130.54] satisfability problems while ago in random graphs, but that was happening indeed. So as essentially
+[1130.54 --> 1139.46] in similar physical system, sharpness depends on the size of the model and, uh, or the number
+[1139.46 --> 1146.98] of, uh, I don't know, units, particles, variables, nodes, while the critical parameter is another
+[1146.98 --> 1152.54] thing. Uh, and, uh, at the same value of that critical parameter, like for example, a ratio
+[1152.54 --> 1158.22] between constraints and, uh, variables, uh, the transition happens. And then all the pictures
+[1158.22 --> 1163.98] indeed were that you see sharper and sharper and sharper or increasing number of variables
+[1163.98 --> 1170.72] in, uh, that problem. So in a sense, yeah, it behaved pretty much just like it was supposed to
+[1170.72 --> 1178.38] behave with certain physical phenomena, uh, like, uh, yeah, phases of, uh, states of matter,
+[1178.64 --> 1184.82] for example, or ferromagnetics, like Ising models. Yeah. So, um, it's not always like that. I'm not
+[1184.82 --> 1191.70] saying, uh, well, of course people try to exercise caution when they see rapid improvement in,
+[1191.70 --> 1197.54] uh, performance of machine learning models. For example, GPT-3 on particular tasks, like
+[1197.54 --> 1205.76] arithmetic, uh, it was observed that while on other tasks and just on measuring how the loss function
+[1205.76 --> 1212.70] during training behaves, it's used to be like quite common to observe power loss. And that was a
+[1212.70 --> 1219.82] famous Jared Kaplan's and his colleagues from open AI paper on, uh, uh, basically the scaling loss
+[1219.82 --> 1225.82] behavior in, uh, language models. And then they found in other modalities. Anyway, so it's a whole
+[1225.82 --> 1233.78] field, uh, power loss kind of ruled for a year or so. And then people started digging into more complex
+[1233.78 --> 1241.44] behaviors because for certain tasks, like, as I said, arithmetic or any discrete operation that can be
+[1241.44 --> 1250.26] described as a table, uh, people discovered that, say, GPT-3 may not do that task well until certain
+[1250.26 --> 1258.30] size. And after certain size of the model, it rapidly improves its performance. Another example was a
+[1258.30 --> 1263.36] so-called grokking paper. Also, it was in the, I think, I clear workshop and paper, I think was from
+[1263.36 --> 1271.98] OpenAI, where they, by mistake, uh, just left model running and training on the data at multiple epochs. So they
+[1271.98 --> 1279.52] were not really scaling model or data, but just let it run. So compute was growing. And it wasn't doing well. The
+[1279.52 --> 1287.04] accuracy was kind of low. And at some point, it's certainly later on, they saw when they looked at their, uh,
+[1287.04 --> 1292.76] process they forgot to kill. They looked at it kind of groked the problem. And at some point, it
+[1292.76 --> 1300.48] suddenly improved, uh, first training loss and then test loss. Now there are multiple groups very
+[1300.48 --> 1306.48] actively kind of studying this phenomenon. We got very interested back in, uh, I guess, September 2021
+[1306.48 --> 1314.72] and, um, submitted a paper just now. Um, Max Tegmark's group worked on that and, uh, they have some papers
+[1314.72 --> 1320.76] now, um, Jacob Steinhardt from Berkeley. They just had, uh, accepted paper at the clear. So anyway,
+[1320.88 --> 1327.14] people very much got interested in grokking behavior, not necessarily this specific example,
+[1327.32 --> 1335.80] but in general, when parameter of interest, which might be critical, increases on the x-axis. It could
+[1335.80 --> 1342.50] be a compute data size, model size, perhaps something else. And then you have whatever performance metric
+[1342.50 --> 1349.38] on y-axis could be accuracy, could be loss, could be something else. And trying to understand when
+[1349.38 --> 1357.68] those sharp changes may happen and how sharp they are. So, so we recently actually got this paper at
+[1357.68 --> 1364.44] like clear, uh, with, um, my collaborators with the first author is Ethan Caballero and, uh,
+[1364.44 --> 1373.46] Shittish Gupta is, uh, second author. And, uh, anyway, uh, basically trying to fit all these strange
+[1373.46 --> 1379.64] behaviors with one functional form. It's so-called broken neural scaling loss paper because it's much
+[1379.64 --> 1385.40] richer behavior than previously assumed just power loss. And those sharp transitions are not so sharp
+[1385.40 --> 1392.00] transitions, but transitions may happen. Anyway, so it's a bit maybe off tangent. It's about, is there a one
+[1392.00 --> 1398.34] functional form to capture them all? But what I'm trying to say, those behaviors keep happening.
+[1398.64 --> 1404.58] There is a paper, I guess, from Stanford on like emergent behaviors and language models, and they show
+[1404.58 --> 1413.76] many, many empirical examples of when this type of behavioral change happens. And needless to say,
+[1414.00 --> 1419.76] people are very interested in, well, you don't have to call that emergent behavior, but people interested
+[1419.76 --> 1427.20] in, um, unexpected changes in, um, unexpected changes in performance or other metrics, which may
+[1427.20 --> 1433.04] relate to like AI safety, AI alignment, like truthfulness of the system, uh, robustness of the
+[1433.04 --> 1440.12] system or any other property of interest. So it would be really interesting to understand better
+[1440.90 --> 1447.88] when and why behavior may change. So this broken neural scaling loss was just trying to do it
+[1447.88 --> 1453.34] as a black box, looking at the system from outside and trying to statistically predict where it
+[1453.34 --> 1459.92] happens. But many people also look inside, trying to understand what dynamics of solutions can possibly
+[1459.92 --> 1467.66] lead to, and can allow you to predict what's about to happen. So actually our studies, it seems to be
+[1467.66 --> 1474.24] related to certain oscillation frequencies and the training laws, but you might be able to tell from
+[1474.24 --> 1479.74] the beginning of the run for given initialization of system, if it's going to grok or not, which is
+[1479.74 --> 1484.98] good to know. Yeah, no, I think, I think it's, I think it's super interesting. And, and, and of course,
+[1485.20 --> 1492.06] uh, the, I mean, the, I, I'm not doubting that these things exist. I, what I don't know is to what
+[1492.06 --> 1497.64] extent these are good models for what goes on in the biology, because the biology seems to be quite
+[1497.64 --> 1502.92] continuous, right? So these may be two different, two different ways to, to, to look at this. And, um,
+[1503.58 --> 1510.44] and also my sort of big, the, the, the reason I emphasize that the continuity is not that I want
+[1510.44 --> 1515.04] to minimize the importance of, um, great transitions, because I do think, of course, there are great
+[1515.04 --> 1523.12] transitions, uh, in behavior. Um, I, what I want to do is emphasize the continuity of substrate, because,
+[1523.12 --> 1530.94] because a lot of, uh, the, the discourse, uh, you know, the, the, the, the human does this and the
+[1530.94 --> 1534.82] human does that. And they say, okay, so, so which, which, which kind of human, like how far back? And
+[1534.82 --> 1538.96] you can do this in, in evolutionary scale, you can do it in developmental scale, right? But eventually
+[1538.96 --> 1545.36] you, you, you follow the human back and you end up with a single cell and we just have to deal with
+[1545.36 --> 1549.90] the fact that there is no magic bright line that somebody can draw. Okay, boom, at this, at this
+[1549.90 --> 1555.64] point in embryonic development, like that's it now. And, and so, and so what we have to understand,
+[1555.70 --> 1562.60] of course, there can be, there can be, um, uh, uh, non-monotonic, uh, you know, non-linear changes
+[1562.60 --> 1567.90] and all that, but, but, but, but, but it's a transformation of the exact same substrate.
+[1568.12 --> 1571.98] It isn't, it isn't something magical that gets added at some particular point that, and then
+[1571.98 --> 1576.70] everything else. So, so I'm, I, you know, I'm sort of all about that aspect of continuity. It doesn't
+[1576.70 --> 1582.04] have to be linear per se, but, but we have to come to grips with people who think that, that it's
+[1582.04 --> 1587.38] crazy to attribute, you know, they say it's anthropomorphic to attribute, um, certain kinds
+[1587.38 --> 1593.60] of, uh, uh, cognitive, uh, claims to a single cell. They owe a story, a very specific story of
+[1593.60 --> 1599.02] how you get from a single cell to a human. You can't simply say that, well, you know, uh, there's
+[1599.02 --> 1603.56] some magic that happens in the middle. You actually have to lay out, uh, what, what is it? What, what's
+[1603.56 --> 1606.90] the, you know, what's the phase transition actually? And people sort of assume there
+[1606.90 --> 1610.66] is one, but I've never heard of one. I've never heard of a good one. And so, and so it's quite
+[1610.66 --> 1614.84] interesting to me that these, that these do come up in the, in the, um, in the machine
+[1614.84 --> 1616.64] learning world. It's interesting that these come up.
+[1616.70 --> 1622.50] But there is still continuity because, yeah, I mean, you essentially, well, to some extent
+[1622.50 --> 1629.76] the X axis is, well, not exactly, maybe absolutely continually growing the size, but for all
+[1629.76 --> 1635.38] practical purposes. So the curves are usually always continuous. There is no discontinuous
+[1635.38 --> 1644.06] jumps, but continuity with kind of different, indeed, uh, speed of development, those things
+[1644.06 --> 1648.92] change. And, uh, yeah, but I, I basically agree with your point completely that there is
+[1648.92 --> 1655.56] no magic sauce or ingredient. Well, unless you believe in divine intervention or something
+[1655.56 --> 1661.76] like that, but, uh, yeah, if you kind of keep this hypothesis as more complicated and prefer
+[1661.76 --> 1670.68] simpler based on just things you observe, then indeed there is, there is continuum of intelligence
+[1671.52 --> 1678.06] from human and back to the cell. Uh, but then of course, a good question is like, if you start
+[1678.06 --> 1686.18] decomposing cell and go deep dive inside, then what? So, so, yeah. So, so, uh, we and other
+[1686.18 --> 1691.92] people have, have looked at this. And in fact, if you look at something as, as, as, um, ostensibly,
+[1691.92 --> 1697.24] uh, mechanical as a gene regulatory network, right? So you just look at a model of genes into
+[1697.24 --> 1703.26] turning each other on and off. Uh, we, and, and, and others have shown that that kind of thing
+[1703.26 --> 1708.04] is capable of six different kinds of learning, including associative conditioning. Just, just for
+[1708.04 --> 1714.14] the dynamical systems properties of the gene regulation, nothing else. So there are, and now
+[1714.14 --> 1719.40] I was just looking today, there is apparently a literature on, um, uh, chemotaxis in individual
+[1719.40 --> 1727.02] molecules and right, which, uh, I mean, I mean, uh, some of these things, but individual molecules,
+[1727.20 --> 1732.46] right? And so, and, and, and then you can go below that and the kind of stuff that we've, we've done
+[1732.46 --> 1738.46] with Carl Friston and Chris Fields and really start looking at very fundamental particle
+[1738.46 --> 1746.72] interactions as having sort of, uh, extremely, um, uh, kind of primitive levels of, uh, non-zero
+[1746.72 --> 1750.40] competencies. So, so that's, it's a really good question, right? If you have a continuum. So the
+[1750.40 --> 1760.32] question is, is there a zero, right? Is there, is there anything? And, you know, and, and Chris and I
+[1760.32 --> 1766.36] have talked about this and, um, because, because my claim is, is this, if you think about what would
+[1766.36 --> 1770.72] the absolute minimum of intelligence look like, right? Like what's the, what, what's, what's the
+[1770.72 --> 1774.98] absolute minimum. And so to me, I would, if I had to come up with the absolute minimum, I would, I would
+[1774.98 --> 1781.66] lean on two things. I would say, I would say the first thing is, uh, some level of, uh, of goal
+[1781.66 --> 1786.42] directedness, some ability to pursue a particular outcome out of a set of other outcomes. And we have
+[1786.42 --> 1792.08] this in, um, least action principles and, and even in particles. And then, and then some level
+[1792.08 --> 1796.26] of indeterminacy such that local conditions don't fully determine what this thing is going to do.
+[1796.32 --> 1801.08] And we have that in particles. And so I would claim that it doesn't actually bottom out at zero,
+[1801.28 --> 1807.30] even at the atomic scale. And so I said to Chris one day, um, could we have a world with no least
+[1807.30 --> 1812.64] action laws that where, where it literally would be zero. And he, his, he, what he said was, uh,
+[1813.04 --> 1816.20] yes, but it would have to be a universe in which nothing ever happened.
+[1816.42 --> 1821.02] So it would have to be a completely static universe that one, one, the, in which things
+[1821.02 --> 1826.82] happen, you're going to be able to, to derive some sort of, um, least action kind of thing,
+[1826.96 --> 1830.06] which looks like the basement of cognition to me.
+[1832.34 --> 1844.52] Yeah. Very interesting. So it was always kind of an open question, how to link this to what
+[1844.52 --> 1849.98] people are, say, doing right now, developing, uh, like artificial neural networks and those
+[1849.98 --> 1857.88] systems, uh, basically how that would translate in the AI domain. What would it mean for this modeling?
+[1858.62 --> 1865.74] Like, can we indeed, well, I mean, I think people did try to define, um, intelligence and its units,
+[1866.14 --> 1871.68] although it's not something that people commonly use. Like I, I wouldn't claim that there were no such
+[1871.68 --> 1881.58] attempts, but nevertheless, I mean, we're still not really doing that. Uh, and, uh, here and there
+[1881.58 --> 1887.50] people say, well, probably should be measuring, uh, more formally what we want from our model in terms
+[1887.50 --> 1893.02] of intelligence and like how those things compare. And can you say that it's as intelligent as like
+[1893.02 --> 1899.64] that type of the organism or this, or yeah. So some, um, basically making this whole engineering
+[1899.64 --> 1908.78] field, a bit more of a science like, well, physics or even biology in terms of, in order to make claim
+[1908.78 --> 1917.22] that something is intelligent would be at least good to define it more formally. Again, going back to
+[1917.22 --> 1924.26] physics and, uh, have some, uh, notion of units or something. So you can say that in that units, you can
+[1924.26 --> 1930.56] say this is larger than that. Yeah. Yeah. Yeah. Yeah. So, so like predictive accuracy of models can be a proxy
+[1930.56 --> 1938.08] for that. Yeah. Um, so, so Chris and I tackled this in a, in a recent paper, starting off with the idea that
+[1938.08 --> 1943.56] making claims about something, the intelligence of something is really taking an IQ test ourselves, because
+[1943.56 --> 1950.82] you have to be smart enough to, to, to, to, to pick a problem space and identify the, the, uh, the degree
+[1950.82 --> 1955.58] of cleverness of the policy that the system is following in that space. And, and, and, and you may
+[1955.58 --> 1960.64] not see it, right? It's not obvious that we can always detect it. And so in biology, we are very used
+[1960.64 --> 1966.74] to seeing mid, mid-sized objects moving at medium speeds in three-dimensional space and saying, oh, look,
+[1966.84 --> 1970.90] well, you know, look at what that crow is doing. That's intelligent, but there are other spaces,
+[1970.90 --> 1975.88] right? So physiological space, metabolic space, transcriptional space, um, uh, anatomical
+[1975.88 --> 1982.54] morphous space, which my lab studies, uh, cells and tissues do amazing things in those spaces that
+[1982.54 --> 1987.14] are absolutely, if, if, if that, if they, they navigate those spaces in a way that if we had a
+[1987.14 --> 1993.60] robot or an autonomous vehicle doing that, this would be off the charts performance. And, and, and it's not
+[1993.60 --> 1998.66] in the, it's not in the domain of classical three-dimensional behavior. It's, it's behavior in
+[1998.66 --> 2002.42] these other spaces and learning to recognize that is very hard for us because as humans,
+[2002.66 --> 2008.46] all of our sense organs sort of tend to point outwards. If you had, um, if you had an innate
+[2008.46 --> 2013.32] feeling of your blood chemistry, you would know without a doubt that your liver and your kidneys
+[2013.32 --> 2016.70] were intelligent because you could, you would see how they navigate that space. You could, you would
+[2016.70 --> 2020.42] directly feel it the way that we currently see each other navigate and say, ah, that's pretty clever.
+[2020.42 --> 2027.60] You know, so, so, so the, right. So, so, so what we try to do is to lay out, um, and this was, this
+[2027.60 --> 2031.82] was, it goes back to like the forties, you know, Wiener and Rosenbluth had this, this scale, right.
+[2031.92 --> 2036.28] Of, of, of, from all the way from passive materials, all the way up to second order, like, um, you know,
+[2036.42 --> 2041.40] metacognition and whatnot, and everything in between the kinds of competencies that different
+[2041.40 --> 2048.32] systems have in navigating these spaces. And one way to do it is, uh, and I, I, I repeat this quote a lot,
+[2048.32 --> 2052.44] and I wish I could remember who said it, but somebody said this, it's, it's the continuum
+[2052.44 --> 2057.90] between the way that two magnets try to get together and how Romeo and Julia try to get
+[2057.90 --> 2063.06] together, right. What's the difference? The difference is in the degree of ability to overcome
+[2063.06 --> 2067.58] obstacles along the way. So, so you can be extremely simple and all you know how to do is, is go down an
+[2067.58 --> 2072.96] energy gradient and magnets can, can do that. Or you can be extremely complex and be able to, but in
+[2072.96 --> 2077.74] the middle, there's all this, there's all this stuff, right. And so you can kind of start and, and, and we,
+[2077.74 --> 2082.38] this is what we do experimentally. We put these systems in ways where we start to challenge their
+[2082.38 --> 2088.14] normal behavior and we find very surprising things, things that we, that people always thought were
+[2088.14 --> 2092.78] like, um, hardwired and, and just sort of, uh, you know, this, well, of course this is, you know,
+[2092.84 --> 2097.62] it's all it knows how to do is things rolling downhill and that's it. Once you start to challenge
+[2097.62 --> 2102.82] it with various perturbations, then you get to find out what it actually knows how to do. And then you
+[2102.82 --> 2107.10] can form specific hypotheses. Does it, you know, how far ahead can it plan? Does it see,
+[2107.10 --> 2111.30] does it have a memory? Does it, you know, you can, but the way you find out is by challenging all
+[2111.30 --> 2116.66] these things and, you know, like, um, like the frog face example and, and, and, and many other
+[2116.66 --> 2120.44] things you find, you, you, you find out that these things are actually way more clever than,
+[2120.54 --> 2122.14] than they seem at first, you know?
+[2123.96 --> 2131.56] Yeah, I definitely remember how you gave that talk in December, 2018 at New Reap's World
+[2131.56 --> 2138.56] Bodies Think About and the message to people studying neural networks that, yeah, intelligence
+[2138.56 --> 2146.14] was there way before the first neuron appeared. So maybe we should look, but still the common
+[2146.14 --> 2152.02] part was networks. They doesn't have to be neural. They don't have to be neural, but like
+[2152.02 --> 2156.98] essentially, yeah, I do remember all these experiments were essentially about changing the network
+[2156.98 --> 2165.02] communication so that the organism as a whole or the part of it changes its form to whatever
+[2165.02 --> 2174.48] you kind of wanted it to be. But I think even if we scratch neural from that, the key essence of
+[2175.38 --> 2178.10] kind of phenomenon will be always network.
+[2178.68 --> 2185.48] I mean, I would, I would, yes, but I would extend that to say that it can't be a single
+[2186.04 --> 2192.62] level of, of, um, of organization, right? So, so in biology, the trick is that every network is a
+[2192.62 --> 2198.36] network of networks and each one is as goal directedness. So every, every level is trying
+[2198.36 --> 2203.12] to accomplish specific things in specific spaces and they all cooperate or compete with each other.
+[2203.12 --> 2208.22] So, uh, you know, this is, this is another talk that I give sometimes why it's called why robots
+[2208.22 --> 2212.76] don't get cancer, right? Well, why, why don't, why don't our robotics get cancer? And, and, and,
+[2212.86 --> 2217.66] and it's, it's because they're not made of parts that have the capacity to go off on their own and do
+[2217.66 --> 2222.94] their own thing. In biology, every single part is basically being held against its will by the level
+[2222.94 --> 2228.40] above. So everything, if you were to just like release the top levels, um, uh, goal directedness,
+[2228.56 --> 2233.02] the parts would go off and do other things. And sometimes they do. And, and we get phenotypes like,
+[2233.02 --> 2240.20] cancer. I remember really well, I thought this, uh, five hour discussion in the IBM research
+[2240.20 --> 2246.82] cafeteria in New York town a few years ago. And yeah, that was really very insightful,
+[2247.54 --> 2255.80] making analogy between kind of the cell going cancerous or coming back to its senses. And essentially
+[2255.80 --> 2263.66] the notion of at what scale the objective of the cell to survive and thrive is applied because yeah,
+[2263.82 --> 2268.82] if you single cell in the environment, you treat it as a source of food, that's environment, right?
+[2269.30 --> 2275.10] Yeah. But if you become part of the organism, yeah, you're under pressure to behave in the best interest
+[2275.10 --> 2281.68] of organism. If you forget about that due to changes in your communication with other members of
+[2281.68 --> 2289.42] organism society, then you start acting, uh, selfishly and too bad that's cancer.
+[2289.74 --> 2294.52] Could I, could I put a quick question to you, Michael? Cause you, you've, I'm very interested
+[2294.52 --> 2301.38] in the definition of intelligence and you're saying words like, uh, goal directedness, um, agents,
+[2302.00 --> 2308.14] planning, and these terms are a little bit anthropomorphic, but you could argue that they
+[2308.14 --> 2312.54] are universal primitives. And you're also talking along the lines of intelligence being almost like,
+[2313.02 --> 2317.16] uh, I mean, some people describe it as, as capability or with an underlying principle,
+[2317.86 --> 2323.00] but it's almost like it's a continuum. And there are people who believe that humans are special.
+[2323.50 --> 2327.96] We think, you know, the, the behaviorists thought that it was just a very simple stimulus
+[2327.96 --> 2332.74] response. The monkeys don't have a flash of inspiration. They don't plan how to get the banana.
+[2332.74 --> 2342.18] We have something different. What do you think? Well, uh, I, I, I, I'm, I'm, I'm certainly not
+[2342.18 --> 2348.30] saying that we don't think, or that there is no material difference between us and, and let's say,
+[2348.40 --> 2355.04] a paramecium. So the, the differences are of course real. I, I, I, I insist on one thing and then,
+[2355.04 --> 2361.72] and then I have hypotheses about other stuff. The thing that I insist on is that, uh, when we make a,
+[2362.14 --> 2367.02] um, a claim about the level of cognition of some system, real artificial, you know,
+[2367.10 --> 2373.04] evolved artificial, whatever, you cannot make those claims from an armchair. You have to do
+[2373.04 --> 2376.78] experiments. And so you cannot have feelings about these things. People say to me all the time,
+[2376.92 --> 2382.02] oh, well, well, you know, it was antibodies. Well, it's frog skin. That can't X, Y, Z, you know,
+[2382.12 --> 2386.58] you name it, whatever it can't say, well, how did you arrive at this conclusion? You cannot just have
+[2386.58 --> 2391.06] feelings about this stuff. You have to do experiments. And when you do experiments as, as we found,
+[2391.06 --> 2396.34] and, and, and other people have found, you get surprised because it is not obvious, uh,
+[2396.66 --> 2401.82] what the capabilities of something is until you start to perturb it and see what happens. And the
+[2401.82 --> 2406.12] thing, and, and, and to, to, to, to find out. So, so in order to make a, an intelligence claim,
+[2406.28 --> 2410.92] you need a couple of things. You need to pick a space within which you think it's solving problems,
+[2411.02 --> 2415.30] right? So, so you as the observer have to make, have to say, I think this is the space in which it
+[2415.30 --> 2419.50] works. Then you have to say, here is the goal. I think this thing is pursuing in a,
+[2419.50 --> 2425.00] in a cybernetic sense. And then you have to say, and now I have a hypothesis about how clever this
+[2425.00 --> 2429.72] is. What can it do? Can it go around obstacles? Is it trapped by local minima? Does it have path
+[2429.72 --> 2434.04] history? Does it have this, that you make some sort of, some sort of claim, having made those
+[2434.04 --> 2439.48] three claims, we can then empirically see how well does that work out for you? What does that enable
+[2439.48 --> 2444.98] you to do? And so then, then multiple observers. So, so someone can come along and say, you're crazy.
+[2444.98 --> 2448.66] This thing doesn't have any of that. Somebody else can say, oh no, it's actually much more clever than
+[2448.66 --> 2453.68] that. And then we all interact with the system and we see who wins. It's an, it's, it's, it's an
+[2453.68 --> 2459.58] empirical question that has to be put. So the only thing that, that I insist on is that this charge
+[2459.58 --> 2465.78] of anthropomorphism, it has to be quite specific. We have to make a specific claim. What do we think
+[2465.78 --> 2470.72] this thing is able to do? And then we get to find out, is, is that a useful lens onto the system or not?
+[2471.64 --> 2476.80] Okay. But just a quick follow-up. I mean, what, what is a goal? Cause a goal feels like it's a
+[2476.80 --> 2482.68] wicked form of reductionism along the lines of we, what we were talking about before. And even if,
+[2482.74 --> 2486.90] because you know, Shane Legg has this idea that the definition of intelligence is an agent being able
+[2486.90 --> 2492.08] to solve a variety of tasks in different environments and so on. And, and even if there
+[2492.08 --> 2496.54] were such a goal, why would it be intelligible to us?
+[2497.56 --> 2503.44] Uh, I, I don't believe that there is an objective goal that is intelligible in the sense that we get
+[2503.44 --> 2509.22] to discover it once and for all, and then we're done. I think that when, when somebody says, uh,
+[2509.50 --> 2514.22] that this system has a particular goal, what they're saying is they have discovered a, a lens,
+[2514.36 --> 2521.18] a perspective on the behavior such that, um, positing that it has a goal and some set of competencies
+[2521.18 --> 2526.52] to reach that goal gives you increased ability to predict and control that system. So, so, so,
+[2526.64 --> 2532.40] so here, so, so, so we come across a thermostat and, um, you look at this thing and, uh, you know,
+[2532.50 --> 2537.62] you're, you're, you're a reductionist and you say, well, okay, uh, I can sort of calculate, uh, what,
+[2537.74 --> 2543.02] what all the particles are doing and that's great. And I look at it and say, Hmm, I see this and this,
+[2543.10 --> 2546.64] and I think this is the set point. And you say, there's no such thing as a set point. There's just
+[2546.64 --> 2551.00] atoms in the thing. And I say, well, well, here's the thing though. I will exert much
+[2551.00 --> 2555.72] less energy and effort in changing the temperature of the room while you're running around pushing on
+[2555.72 --> 2559.94] all the individual, uh, you know, atoms of this thing. I'm just going to change the set point and
+[2559.94 --> 2566.18] let the thing take care of itself. So, so the level of what, what it affords you is a more powerful
+[2566.18 --> 2571.46] level of, um, relationship to the system for, for simple systems, that's prediction and control
+[2571.46 --> 2576.70] for complex systems. That may be, uh, everything from, from training to friendship to who knows,
+[2576.70 --> 2581.88] you're right for complex system. What we're looking at is, um, what level of agency gives
+[2581.88 --> 2587.00] me the best interaction with the system. And I can, I can guess too high, right? If I'm standing
+[2587.00 --> 2590.98] there arguing, you know, pleading with my thermostat, you know, here are all the reasons you should
+[2590.98 --> 2596.40] change. Like that's not going to work. And at the same time, if, if I have, um, uh, a system that's a,
+[2596.46 --> 2601.14] that's a learning agent, like a, you know, a horse or a dog, uh, humans thousands of years ago
+[2601.14 --> 2604.88] figured out that you don't need to know the neuroscience of what's between their ears. You can train the
+[2604.88 --> 2609.26] thing. And, right. So, so you found an interface that, that, that allows you to do amazing things
+[2609.26 --> 2614.32] because you understood that this is not the same as, as a complex, you know, set of bowling balls
+[2614.32 --> 2619.28] that you would have to engineer bottom up. So, so that, that's all, uh, the, these things are just
+[2619.28 --> 2623.26] meant to be, I don't, I don't believe there's anything that I don't believe there's any such
+[2623.26 --> 2628.32] thing as anthropomorphism. Anthropomorphism sounds to me like we're still working with a garden of Eden
+[2628.32 --> 2633.82] story that, that you've got the human, the human has this magic glow about them and trying to,
+[2633.82 --> 2639.70] uh, uh, sort of, sort of, uh, shade that into other things is, is a, you know, is a major
+[2639.70 --> 2645.06] transgression. I don't buy it. I think that what you have to do is you have to make very specific
+[2645.06 --> 2651.94] claims. This human or this robot or this cell can do X, Y, Z, and then we find out it can or it can't.
+[2652.08 --> 2656.46] And, and then we, you know, we sort of empirically, we know, did we guess correctly? Did we overdo it?
+[2656.52 --> 2662.08] Did we under, underappreciate it? In, in my experience, we tend to underappreciate intelligence
+[2662.08 --> 2666.08] way more than we overappreciate it. That's just, that's just what I see in the, in the, in the
+[2666.08 --> 2676.38] biosciences. Yeah, I, I do agree with the point that, uh, it's perhaps, uh, human's ego would like
+[2676.38 --> 2683.20] to think that there is something absolutely special in humans. And that's all, but indeed, I mean,
+[2683.20 --> 2690.98] the continuum is there. So, and humans developed from something much simpler and they inherited
+[2690.98 --> 2699.26] properties of that. And, uh, yeah, so basically I think, I think it's much better probably even for
+[2699.26 --> 2705.10] the field of artificial intelligence. It would be much better to look at the intelligence from this
+[2705.10 --> 2713.28] perspective rather than from the, well, as you said, garden of Eden type of, uh, uniqueness of
+[2713.28 --> 2721.34] human abilities or intelligence being just really bound to being human. Yeah. Yeah. I mean, I, I'm
+[2721.34 --> 2726.46] certainly not arguing that, that, that, uh, humans, uh, have, uh, some interesting capacities that are,
+[2726.64 --> 2733.04] that are hard or impossible to find elsewhere right now. But this, this way of thinking about them as
+[2733.04 --> 2738.58] natural kinds as sharp, natural kinds, I think is, is philosophically really problematic because
+[2739.04 --> 2743.72] biology is so, so I have this diagram that I sort of beat people over the head with and, and it's got,
+[2743.80 --> 2749.68] it's got like a standard human in the center, right? And then up above is a, is a very, um, high
+[2749.68 --> 2755.02] resolution, uh, evolutionary series going all the way back to, you know, you name it, some sort of,
+[2755.08 --> 2759.36] some sort of microbe, right? And so whatever you think this human has, you have to tell me where it
+[2759.36 --> 2764.66] peters out. Like where, at what, where did you have these two parents that were not whatever,
+[2764.88 --> 2768.38] right? They gentle, and then bam, they had a child and now the child has, you know, true,
+[2768.56 --> 2772.08] whatever, right? Like, where is that line? That's impossible. Then down below, it's got the same
+[2772.08 --> 2775.98] sort of thing developmentally. So again, I could take you all the way back to the single cell oocyte,
+[2776.10 --> 2780.30] a little pile of chemicals, and you have to tell me where things peter out if they do. And then
+[2780.30 --> 2785.72] laterally it gets even worse because, uh, in one direction, what you can do is you, but biology is so
+[2785.72 --> 2791.44] interoperable, you can start to make, um, uh, chimeras and hybrids between biological tissues
+[2791.44 --> 2797.34] and, uh, and, and machines. So we can make you, I can have over here somebody that's, uh, you know,
+[2797.46 --> 2802.82] 99% human and a little bit of, you know, chips in the brain, right? Uh, with some AI over here,
+[2802.94 --> 2807.46] it's the opposite. It's 99% Roomba with some human brain cells living in it that sort of are
+[2807.46 --> 2813.28] instrumented to it. And we can fill in every single point in the middle. Every point in the middle is,
+[2813.28 --> 2818.90] is, is occupied by a possible being 50, 50, you know, 60, 30, 60, 40, you, you name it. Right.
+[2819.16 --> 2825.24] And, and if you're saying this is a machine and this is a human, and these are binary categories,
+[2825.40 --> 2829.06] then you've got a real problem telling me where we're going to shift over, right? Where are we
+[2829.06 --> 2832.88] going to click over? And the same thing with the, on the biological, the bioengineering. And so,
+[2833.14 --> 2837.38] so, so here's a human at some point, we're going to want some gills and somebody is going to want a
+[2837.38 --> 2841.32] tail and somebody is going to want a third brain hemisphere. All of this is completely doable,
+[2841.78 --> 2845.52] completely doable. And, uh, we, we could, we could do, we could do much of this to, you know,
+[2845.62 --> 2852.16] tomorrow. Uh, and so, uh, then again, you have to tell me what's, where are they, when are they not
+[2852.16 --> 2858.14] human anymore? I feel like, you know, these, these categories are, um, treating them as, as natural
+[2858.14 --> 2863.04] kinds is, is, is limiting more than it is facilitating for, for ideas in this field.
+[2863.04 --> 2872.58] Well, we very kind of clearly going into transhumanism, which is indeed quite a natural
+[2872.58 --> 2879.84] progression because you, yeah, you keep extending your capabilities with, uh, any kind of automation
+[2879.84 --> 2885.82] or tools starting from glasses or whatever. And yeah, you keep extending yourself, you keep morphing
+[2885.82 --> 2892.36] with it. And indeed it's a good question. Like, okay, so yeah, where is a, where is the line that
+[2892.36 --> 2899.48] are, of course, many interesting, controversial questions about that. We probably should not go into that
+[2899.48 --> 2907.92] because it's kind of worms about the side of all the things that we discussed. I can only imagine
+[2907.92 --> 2915.06] questions coming from that side. I, I, one of my favorite stories I came across is, uh, the first
+[2915.06 --> 2920.98] guy to use an umbrella in London, right? I mean, this was considered scandalous. He was pelted with
+[2920.98 --> 2925.94] garbage because it was, he was upsetting the natural order of things that, well, how, who is he not to
+[2925.94 --> 2929.88] get wet? This is unnatural. We're all walking around under the rain, getting wet. And look at this guy,
+[2930.04 --> 2935.28] there was an umbrella and right. And so I, you know, uh, I didn't know this story. It's yeah,
+[2935.28 --> 2939.38] yeah, yeah, yeah. Well, it's, I mean, look, I got it off the internet. So, so maybe it's,
+[2939.54 --> 2944.46] I assume, who knows? I'll definitely use this story in some of my arguments. Thank you. People,
+[2944.70 --> 2949.78] I, I, I get, I get this from people all the time. Oh my God. It's, you know, it's, it's on,
+[2949.90 --> 2954.38] you know, it's unnatural. Look, natural is getting, is getting scratched in the forest,
+[2954.54 --> 2958.38] getting an infection and dying because you don't, you know, because you got scratched or because you,
+[2958.44 --> 2962.10] we don't know how to brush our teeth. Like natural is terrible. Natural is absolutely terrible.
+[2962.46 --> 2966.36] And, and we can do better, we can do better than this. And, and I think that, um, you know,
+[2966.48 --> 2970.08] all of these, all of these things are going to be, people are going to, people are going to laugh
+[2970.08 --> 2974.56] at us in the future. I think, uh, thinking about the things that we were concerned with here,
+[2974.68 --> 2978.66] the same way that we think of, you know, back in the day, the first person to come up with some
+[2978.66 --> 2983.30] crutches or, or, or some, you know, for glasses, I mean, forget it. Uh, you know, this kind of stuff.
+[2983.50 --> 2986.36] It's just, it's just, yeah, I don't, you know, I don't know.
+[2986.62 --> 2988.80] Yeah. That's, that's a hilarious. Flash of inspiration.
+[2989.40 --> 2996.30] Yeah. Another argument could be, well, what is really natural? Like if we are natural and
+[2996.30 --> 3001.72] naturally our brains are coming up with those extensions, they are natural therefore as well.
+[3001.82 --> 3007.00] Sure. Sure. Sure. I think all of this stuff, you know, all of this stuff, I think even, even
+[3007.00 --> 3012.76] in, in, in very modern, you know, sort of scientific thinkers, a lot of this stuff goes back to a
+[3012.76 --> 3018.52] Garden of Eden view. Of course, if it was the case that somebody has prepped all of this for us in the
+[3018.52 --> 3023.42] best possible way, then of course the answer is, Hey, you scientists don't screw it up. It's already
+[3023.42 --> 3027.52] as good as it's going to be. All you're going to do is make it worse. That made sense when people
+[3027.52 --> 3033.00] thought that this was all created for us in the best possible way. That picture, that, that, that
+[3033.00 --> 3039.56] story has, has, has crumbled long ago. There's no way I think rationally to look around at, um,
+[3039.56 --> 3044.86] the, the, the health disparities worldwide, the, um, the, the incredible suffering due to disease
+[3044.86 --> 3049.54] and aging and everything else. And to say that, well, natural is fantastic. Let's just make sure
+[3049.54 --> 3055.12] that, okay, natural is horrible. And, and, and up until now, there's, there's been no way to get
+[3055.12 --> 3059.50] around it. Now, finally we have, you know, we're, we're the adults in the room now. We, we, we have
+[3059.50 --> 3063.44] some of the, of course, we're going to mess things up too, of course, but, but we have now some ability
+[3063.44 --> 3070.44] to do better than natural. And let's just remember that natural is not, someone has prepped this for
+[3070.44 --> 3075.50] us, uh, you know, in accordance to our values of happiness and fulfillment, all that. Nobody's done
+[3075.50 --> 3081.20] that. Evolution, evolution, um, optimizes for biomass, basically. Like that's it. That's it.
+[3081.24 --> 3085.18] It doesn't optimize for intelligence. Really. It doesn't optimize for happiness, for, for any of
+[3085.18 --> 3089.06] those things. Evolution just makes sure that the next observer is going to observe a bunch of, um,
+[3089.06 --> 3092.56] stuff, you know, running around and interesting things. That's it. That's it.
+[3092.62 --> 3099.04] Yeah. I, I, I really vividly remember when you first shown the videos with those flatworms,
+[3099.18 --> 3104.98] the proverbial flatworms by now. And essentially once you get the two-headed or three-headed
+[3104.98 --> 3111.78] and those kind of, uh, tractors in the space of the dynamical system, they are, they're stable,
+[3111.94 --> 3116.88] right? They replicate and they are still two-headed and essentially say, well, one-headed worm was a
+[3116.88 --> 3124.04] solution, some local minimum found by evolutionary stochastic gradient descent, or you name it.
+[3124.20 --> 3129.08] And it could have been another solution and another solution. And some of them maybe have
+[3129.08 --> 3134.92] lower loss or higher reward or whatever. Right. So why won't we just look for them?
+[3135.46 --> 3145.66] Yeah. Yeah. Yeah. So that was quite an eye opener yet, yet, uh, it's very strong
+[3147.84 --> 3155.70] bias against transhumanism quite often. And, um, right. Uh, it's understandable because
+[3155.70 --> 3162.36] the chances of kind of screwing things up are definitely non-zero. Sure. Sure. But they are
+[3162.36 --> 3169.38] also not 100%. Yeah. I think the difference between people is in their kind of estimation,
+[3169.58 --> 3174.62] whether their glass is half full or half empty. It's also, it's that, and it's also, so,
+[3174.62 --> 3179.58] so I get a lot of phone calls every week and I get two kinds of phone calls. Uh, the young,
+[3179.80 --> 3185.16] healthy people are calling me saying, knock this off. It's like, it's, it's, it's scary. It's
+[3185.16 --> 3190.22] dangerous, whatever. The people with various medical problems or with children with medical
+[3190.22 --> 3195.22] problems call me yelling, uh, what's taking you so long? Like, hurry up. We, we have problems
+[3195.22 --> 3199.18] like we need. And so, you know, and, and I just always want to like try to connect these people
+[3199.18 --> 3203.62] to each other because, because, you know, of, of, of, yeah, of everything's all well
+[3203.62 --> 3207.50] and good until, until you need to go to the doctor and then you hope they figured some
+[3207.50 --> 3212.04] of this out. Uh, it's, it's, it's, you know, it's all scary until, until you need something
+[3212.44 --> 3217.94] and, and add something real and much scarier happens to you. Yeah. Yeah. Yeah. Yeah. And
+[3217.94 --> 3222.86] it's just being scared of imaginary things. Yeah. That's, that's, that's, yeah, that's,
+[3222.90 --> 3227.62] that's exactly right. Yeah. And, and change, you know, change is scary too. And, and I,
+[3227.62 --> 3231.00] and, and the interesting thing about, about change, the fundamental change is that your
+[3231.84 --> 3237.00] values can change. I re, I distinctly remember being, being a young kid looking at some of
+[3237.00 --> 3241.66] the older kids and thinking, wow, uh, you know, and they, you know, they were day, you
+[3241.66 --> 3245.24] know, they're dating and all this stuff. I'm like, oh my God, I'm going to, I'm going
+[3245.24 --> 3249.96] to have to, um, it looks, it will be based on what I see here. I'm going to end up like
+[3249.96 --> 3253.44] one of them. And then I'm just going to be interested in all this kind of crazy stuff
+[3253.44 --> 3257.34] that I have zero interest. This is, this is unbelievable. Is there a way to like, like
+[3257.34 --> 3260.58] not do that? And, and of course, but then of course, once you make that transition,
+[3260.58 --> 3264.30] you think, well, that was dumb because now I like all this stuff. And, and so you
+[3264.30 --> 3267.54] can, you know, it's, it's scary because when you change the things that are
+[3267.54 --> 3273.26] important to you will change. Yeah. Well, the good thing is once you change, you
+[3273.26 --> 3277.64] will not care anymore about the values you had before you change. Exactly. At least
+[3277.64 --> 3283.08] it will go along with that. Yes. Yeah. I remember like before I had first child, like
+[3283.08 --> 3286.36] everybody would say, oh, now you're going to be crazy busy. You will not have time
+[3286.36 --> 3290.78] for work, forget about friends. You'll just have no time for anything. And it
+[3290.78 --> 3294.78] looked like, oh my gosh, it's awful. Then you transition and say, well, but I
+[3294.78 --> 3299.48] don't care about that stuff anymore. I care about this and I'm happy as well. And
+[3299.48 --> 3307.40] that's it. So, yeah. Amazing. Amazing. Well, um, professor Michael Levin and
+[3307.40 --> 3312.04] professor Irina Risch, it's been an absolute honor to have you on today. Thank you so
+[3312.04 --> 3316.96] much. Yeah. Really. Thank you so much. Good to meet you. Good to see you.

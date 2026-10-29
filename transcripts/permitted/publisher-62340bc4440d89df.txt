@@ -294,7 +294,7 @@ You can override this. If we inject an oncogene and they make these tumors, they
 
 Dominant negative KRAS, p53, while blazingly expressed, there's no tumor. It's the same animal. There's no tumor because these cells are coupled to this electrical network that forces them towards a proper tissue fate.
 
-That's where our cancer applications are going: That's where our cancer applications are going: we've done this with light, with optogenetics, and now we're in human cells to try to use this to target carcinogenic behavior.
+That's where our cancer applications are going: we've done this with light, with optogenetics, and now we're in human cells to try to use this to target carcinogenic behavior.
 
 Slide 48/54 · 49m:34s
 
@@ -302,7 +302,7 @@ The other thing that is important is to think about the level of control that's 
 
 You can build a computational model. This is the work of Alexis Pytak, who's a staff scientist in my group, and a few collaborators. You can build a computational model that asks a simple question: what determines the shape and size of the brain? There's a particular bioelectrical pattern that's required for the brain. On these backgrounds of teratogens or even Notch mutation, you can ask the model a question. You can say, if this pattern is disturbed, such as it is here, what channels would I have to open or close to get back to the correct pattern? The model told us there's a particular channel, HCN2, which can help us sharpen these boundaries. Even though there are massive defects in the Notch signaling and with these various other pathways, you can still reinforce these boundaries by opening HCN2. Sure enough, if you do it with drugs or just misexpress HCN2, you can get back to a normal brain shape, a normal brain gene expression, and in fact, normal IQ. These animals get their behaviors back and their learning rates back.
 
-So here's what this is: So here's what this is: using a very specific computational model to rationally manipulate the electrical signaling to get back to a very complex organ morphogenesis.
+So here's what this is: using a very specific computational model to rationally manipulate the electrical signaling to get back to a very complex organ morphogenesis.
 
 Slide 49/54 · 51m:32s
 
@@ -310,7 +310,7 @@ The whole roadmap looks like this. We have expression data, profiling data on wh
 
 Slide 50/54 · 51m:48s
 
-This needs a lot more work: This needs a lot more work: if you knew what the voltage pattern was supposed to be in various healthy tissues under various conditions. Physiomic profiling is needed. Then we have this computational simulation engine, which is able to say, if you want to go from the incorrect pattern to the correct pattern, which of these channels you would have to open and close. That tells you immediately what cocktail of ion channel drugs you would need to use.
+This needs a lot more work: if you knew what the voltage pattern was supposed to be in various healthy tissues under various conditions. Physiomic profiling is needed. Then we have this computational simulation engine, which is able to say, if you want to go from the incorrect pattern to the correct pattern, which of these channels you would have to open and close. That tells you immediately what cocktail of ion channel drugs you would need to use.
 
 Slide 51/54 · 52m:16s
 

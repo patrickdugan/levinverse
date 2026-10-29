@@ -1,0 +1,935 @@
+[0.34 --> 6.76] Each one of us, and also us as the current implementation of humanity, are going to be replaced.
+[7.24 --> 9.48] Persistence in current form is impossible.
+[9.76 --> 11.38] It's impossible in biology.
+[11.66 --> 16.88] Every species will either die out or it will change and adapt, in which case it is, again, not the same species.
+[17.12 --> 21.28] So the next question is, once you've given up the idea that you can stay exactly as you are,
+[21.50 --> 23.90] the next question is, what would you like to be replaced by?
+[25.24 --> 29.10] Michael Levin is a distinguished professor at Tufts University.
+[29.10 --> 35.80] His research spans multiple fields, including developmental biology, bioengineering, and cognitive science.
+[36.30 --> 43.24] Levin is known for his groundbreaking research on bioelectricity, regeneration, and what he calls diverse intelligence.
+[43.66 --> 45.98] What do we actually mean by humanity?
+[46.10 --> 48.08] What is the important feature about being a human?
+[48.36 --> 50.94] Do we mean that you have to have modern Homo sapiens DNA?
+[51.14 --> 55.22] Do you mean that they have to have the kind of standard human organs and a human anatomy,
+[55.32 --> 58.92] and they better not, you know, have pieces replaced by some sort of cyborg technology?
+[59.10 --> 66.82] I do think that it's possible to create beings that are highly intelligent in the sense of problem-solving capacity,
+[67.00 --> 69.38] but that don't necessarily share these things with us.
+[69.48 --> 71.64] I think probably that is what we will have first.
+[71.88 --> 74.30] I mean, that's certainly where I see modern efforts at AI going.
+[76.34 --> 79.60] Professor Levin, it's such an honor to have you on MLST.
+[79.76 --> 80.78] Thank you so much for joining us.
+[81.18 --> 81.68] Thank you so much.
+[81.78 --> 82.42] Thank you for having me.
+[82.42 --> 88.04] So I've just enjoyed reading your paper, A Bridge Towards Diverse Intelligence and Humanity's Future.
+[88.34 --> 89.68] Can you tell us about that?
+[89.94 --> 90.20] Yeah.
+[90.82 --> 96.90] Well, basically what I'm working on is considered part of the field of diverse intelligence.
+[97.28 --> 104.62] And this is the overall, the large project of trying to understand what it means to be an intelligent agent,
+[104.80 --> 106.80] in particular, an embodied intelligent agent.
+[106.80 --> 115.62] And my claim is that we, as humans and as scientists, are really only calibrated for a very particular kind of,
+[116.70 --> 119.50] for detecting only a very particular kind of intelligent agent.
+[119.72 --> 127.28] We're good at noticing minds that are embodied medium-sized scale, medium speed, moving at three, you know, in the three-dimensional space.
+[127.42 --> 128.94] We're okay at noticing those things.
+[129.04 --> 131.84] And then we have some trouble, maybe a whale or an octopus or something like that.
+[131.84 --> 137.26] But I actually think that there are many other spaces in which minds are embodied.
+[137.92 --> 143.96] And this is present throughout biology and I think wider, even wider than what we would consider biology.
+[144.22 --> 151.94] And I think that we need to develop principled theories for how to detect, how to communicate with,
+[151.96 --> 155.04] and how to rationally relate to these other minds that are out there.
+[155.12 --> 156.42] And I think it's a very important project.
+[156.62 --> 158.88] This is maybe a fun question here.
+[158.88 --> 165.06] I get the impression from reading some of your work that you're either a fan of science fiction
+[165.06 --> 169.80] or you've at least, you know, you know enough about it because, I mean, is that true?
+[169.90 --> 172.40] Are you, or is it fair to say you're a fan of science fiction?
+[172.92 --> 174.12] Yes, I think that's fair.
+[174.26 --> 177.46] I mean, I grew up reading all of the, you know, classic science fiction.
+[177.62 --> 178.40] I was, I'm a huge fan.
+[178.58 --> 185.82] I mean, honestly, I think that what people call science fiction just means you have a faster Gantt chart than everybody else.
+[185.82 --> 190.24] You know, that's really, you know, people say, well, this is sci-fi.
+[190.36 --> 197.14] But to me, anything that isn't forbidden by the laws of physics, and I'm not sure we know that much about what's actually forbidden,
+[198.48 --> 204.02] is possible and probably likely, assuming that, you know, we don't kill ourselves off and so on.
+[204.14 --> 207.74] So I don't see, you know, some of these things that science fiction has dealt with,
+[207.74 --> 214.14] I see as very practical kind of issues and fodder for philosophical and scientific discussion.
+[214.62 --> 223.10] Yeah, and I mean, the reason why I ask is, I view science fiction as really writing where you have the entire palette of possibility, if you will.
+[223.20 --> 228.20] And so you can explore essentially any topic you want to, as you said, you know,
+[228.20 --> 234.16] as long as it doesn't violate the laws of physics, it's at least soft science, maybe hard sci-fi even, right?
+[234.60 --> 237.90] And for me, it's been extremely useful.
+[237.92 --> 241.36] And I get made fun of a lot on the show for mentioning it.
+[241.46 --> 247.16] But like you, I find a lot of inspiration and really just thought process that happens in science fiction.
+[247.16 --> 255.06] Like, let's explore the idea, what if, you know, what if there was an intelligence that was the size of a cloud as large as the solar system,
+[255.06 --> 260.02] and it showed up and it didn't even really recognize that there was intelligent life on Earth, you know,
+[260.50 --> 263.08] until after it had done tremendous damage, you know, what happened?
+[263.20 --> 266.32] I mean, so it's just the ability to explore these ideas, right?
+[266.44 --> 271.64] And I think there's a lot of thought-provoking thinking that happens in science fiction.
+[271.90 --> 272.60] Yeah, absolutely.
+[272.60 --> 277.02] And it also reminds us to be humble about our choice of perspective, right?
+[277.02 --> 283.98] So what science fiction to us today, you know, just about everything that you and I did today in our daily course of life
+[283.98 --> 286.36] would have been utter science fiction not that long ago.
+[286.76 --> 290.96] And it would have seemed completely, you know, ridiculous, except to a few, you know, right?
+[291.08 --> 293.40] There are a few visionaries that see some of this stuff early.
+[293.56 --> 295.90] But so it's a moving target.
+[296.18 --> 297.80] You know, these goalposts are constantly moving.
+[298.08 --> 304.66] And I think that's critical is to remember that our current perspective is not privileged in any way,
+[304.66 --> 308.64] that the things that seem sci-fi to us now may well be commonplace.
+[308.68 --> 310.86] And we need to think about what that means for us.
+[311.08 --> 315.36] Professor Levin, one of the reads I got from reading your paper was almost,
+[316.38 --> 319.20] I guess you were railing against human chauvinism.
+[319.66 --> 325.04] And there were elements of what, I don't know whether you would be comfortable with me saying this,
+[325.04 --> 328.72] but transhumanism and this idea of a space of possible minds.
+[328.86 --> 333.52] I mean, Aaron Sloman, of course, wrote about that in 1984, if I remember correctly.
+[333.52 --> 335.62] And we spoke with Murray Shanahan about that recently.
+[335.68 --> 336.84] And it's fascinating.
+[336.84 --> 340.16] But we as humans, we tend to anthropomorphize.
+[340.30 --> 344.84] We think that our form of humanity is the only valid one.
+[344.96 --> 348.22] And we're constantly making distinctions between us and machines
+[348.22 --> 352.22] and talking about things like agency and so on from our own lens.
+[352.32 --> 353.88] And you spoke to this beautifully.
+[354.06 --> 356.72] But one thing I want to talk about is losing our humanity.
+[356.94 --> 362.48] So you said, personally, if I and humanity are supplanted by a population of highly intelligent,
+[363.12 --> 368.28] motivated, creative agents with a huge radii of compassion and meaningful lives
+[368.28 --> 371.02] who transcend our current limitations in every way,
+[371.18 --> 373.56] what better outcome could I hope for?
+[373.78 --> 374.80] What's your take on that?
+[374.94 --> 377.62] Yeah, well, I want to talk about two things there.
+[377.62 --> 384.86] First, you know, each one of us and also us as the current implementation of humanity
+[384.86 --> 386.54] are going to be replaced.
+[387.12 --> 389.00] There's no other alternative, right?
+[389.08 --> 390.88] Each one of us, we're all going to die.
+[391.02 --> 392.20] We're going to be replaced by something.
+[392.34 --> 394.44] So persistence indefinitely.
+[394.60 --> 397.10] I mean, there are some anti-aging things coming down and so on.
+[397.40 --> 401.42] But overall, persistence in current form is impossible.
+[401.50 --> 403.28] It's impossible in biology.
+[403.28 --> 406.64] Every species will either die out or it will change and adapt,
+[406.64 --> 408.84] in which case it is, again, not the same species.
+[409.16 --> 411.40] All of us start out life as a single cell.
+[411.56 --> 413.98] We become an embryo, a child.
+[414.22 --> 415.76] We learn, we grow, we change.
+[416.62 --> 418.78] You know, persistence in the current form is impossible.
+[418.80 --> 423.06] So the next question is, once you've given up the idea that you can stay exactly as you are,
+[423.22 --> 425.70] the next question is, what would you like to be replaced by?
+[425.70 --> 433.74] And I do think that this idea that we should remain as we are is, I don't know, I can't wrap my mind around it.
+[433.82 --> 440.52] Because if I think of humanity, you know, maturing as a species and we come back, let's say, a hundred years later,
+[440.52 --> 448.22] are we still walking around with lower back pain and astigmatism and with whatever kind of body you happen to have been born into
+[448.22 --> 452.20] because some cosmic ray hit an embryonic cell and all these limitations?
+[452.30 --> 455.80] It seems impossible that this is the future that people want to paint.
+[455.80 --> 465.90] These limitations that we face today were not given to us by any kind of rational process that had our values or our welfare in mind.
+[465.90 --> 471.48] This is just where evolution happens to have dropped us off at the point where we can now participate in that creative process.
+[471.88 --> 476.22] And I think it's inevitable and I think this is what we should want.
+[476.32 --> 478.50] We should want the future to be better than the past.
+[478.98 --> 483.90] And we should be thinking about what is it that we are inevitably going to be replaced by
+[483.90 --> 488.10] and what are our values in terms of what kinds of things do we want to populate the universe?
+[488.44 --> 489.30] So that's the first thing.
+[489.36 --> 492.66] The second thing I would say is about humanity and losing our humanity.
+[492.82 --> 496.86] So the first thing to think about is what do we actually mean by humanity?
+[497.00 --> 499.20] What is the important feature about being a human?
+[500.52 --> 507.18] I've heard people are working on proof of humanity certificates in the face of AI-generated content and things like this.
+[507.30 --> 508.74] So that raises an interesting question.
+[508.86 --> 513.04] When you say someone is a human, what's actually important about that?
+[513.04 --> 518.58] And one very kind of simple way to visualize it is you're going on a journey to Mars.
+[518.84 --> 519.96] You're going to be there for 30 years.
+[520.48 --> 522.86] Who do you want to have with you, right?
+[522.96 --> 524.66] So you'd like a human companion.
+[524.84 --> 526.36] What does that actually mean?
+[527.48 --> 529.10] So let's run down some options.
+[529.66 --> 531.30] Well, do we mean the DNA?
+[531.60 --> 534.12] Do we mean that you have to have modern Homo sapiens DNA?
+[534.36 --> 534.82] I don't know.
+[534.98 --> 536.90] I don't care about DNA that much.
+[538.82 --> 548.52] What do you mean that they have to have the kind of standard human organs and a human anatomy and they better not be replaced, you know, have pieces replaced by some sort of cyborg technology?
+[548.66 --> 549.08] I don't know.
+[549.10 --> 550.08] I don't really care about that either.
+[550.64 --> 562.20] I think as we think carefully about what is it that we do want to have a meaningful human-level relationship as opposed to a rumba or, you know, a pet snake or something, then the question is what do you actually want?
+[562.26 --> 563.96] So I think we want two things overall.
+[564.24 --> 574.62] We want a similar or at least – so when we say human, what I think we mean is at least a human-level radius of compassion.
+[574.62 --> 584.02] That means you can actually in the, you know, sort of in the linear range, you can generate the – and respond to a certain level of compassion for others.
+[584.12 --> 587.38] I think that is a – what we really mean by humans.
+[588.28 --> 596.32] And then the other thing I think we mean is being able to share existential – the same existential concerns.
+[597.26 --> 606.24] So we – you know, you want to have a relationship with another being that has roughly a kind of impedance match with respect to their cognitive light cone.
+[606.34 --> 611.06] So the size of goals that they can pursue, right, should be roughly similar to yours.
+[611.10 --> 614.38] And they should be able to understand your existential concerns.
+[614.38 --> 616.64] So they, like us, should be made of parts.
+[616.78 --> 628.02] They should be, you know, what you can think of as a kind of mortal computation, meaning that, you know, they're perpetually at risk of disappearing, basically, right?
+[628.14 --> 630.28] So none of us are invulnerable and so on.
+[630.40 --> 632.68] So these kinds of, you know, be open to these questions.
+[632.92 --> 634.32] What – where did I come from?
+[634.38 --> 635.50] What does life mean to me?
+[635.50 --> 644.22] This is what we mean, the ability to raise those questions and to have those concerns and to have the degree of compassion of a standard human or up.
+[644.40 --> 646.26] That is what I think we mean.
+[646.52 --> 647.60] Just a quick point on that.
+[647.72 --> 654.30] So this sounds like you're making an argument for goal canalization or – it's very similar to Bostrom's instrumental convergence,
+[654.30 --> 660.68] which is basically that for an intelligent living entity to exist in our physical world,
+[660.82 --> 665.24] they would probably exhibit things like compassion and existential concerns.
+[665.48 --> 669.34] And, of course, they make the argument they would probably exhibit power seeking.
+[669.56 --> 671.80] But why do you draw that inference?
+[672.22 --> 674.64] Well, I'm not actually suggesting that they have to.
+[674.64 --> 683.60] I do think that it's possible to create beings that are highly intelligent in the sense of problem-solving capacity,
+[684.70 --> 687.38] but that don't necessarily share these things with us.
+[687.48 --> 688.98] I think that's entirely possible.
+[689.72 --> 693.30] I think probably that is what we will have first.
+[693.54 --> 695.98] I mean, that's certainly where I see modern efforts at AI going,
+[696.14 --> 700.78] which is that they're not really bio-inspired in the relevant way.
+[701.68 --> 705.24] They are very good at solving certain kind of problems,
+[705.40 --> 709.74] but they actually don't have some of the key features that are – at least as far as we know.
+[709.84 --> 712.56] I think we have to be very careful with any kind of blanket statement here.
+[713.12 --> 715.74] So I don't think those things necessarily go together.
+[715.76 --> 719.50] My claim is simply that the latter is what we should care about.
+[719.78 --> 725.00] In other words, if you want to maintain humanity, I don't think you should be maintaining physical embodiment.
+[725.00 --> 728.96] I don't think the anatomical description of a modern human matters for anything.
+[728.96 --> 735.92] I think what you should be really thinking about is wisdom and compassion, basically.
+[736.50 --> 737.80] That's what you're looking for.
+[737.98 --> 743.64] So you've chosen a couple of the properties of what I think – if you went around and just interviewed humans,
+[743.86 --> 745.02] what does humanity mean?
+[745.02 --> 746.88] They would have a list, right?
+[746.98 --> 750.38] And so you've chosen a few, compassion and wisdom.
+[750.38 --> 753.86] At the same time, those are – in some ways, just like our biology,
+[753.86 --> 759.78] they're kind of accidental, right, as to where we are currently in our evolutionary state and how we got here.
+[760.12 --> 762.34] Why should we care about those two in particular?
+[762.62 --> 768.46] Like, you know, maybe the best form of life or future intelligence has no compassion.
+[768.64 --> 772.68] Like, why should we care about these two in particular that you've selected?
+[773.34 --> 782.28] Yeah, I mean, I think we are getting here to very fundamental values that I – you know, it's like – they're like axioms.
+[782.46 --> 788.82] I don't – I can't give you an argument that those – that the two features that I've chosen are better than anybody else's features.
+[788.82 --> 797.10] But we have to choose something, and I don't think there are any arguments to be made for any of these that are sort of knocked down logical proofs that,
+[797.22 --> 798.88] okay, this is the way that you should go.
+[798.96 --> 805.88] I think this is where we have to pick some axioms and see what the implications are.
+[806.18 --> 810.12] I mean, so this is – and, you know, and again, to be clear, this is my personal view.
+[810.26 --> 814.40] This isn't – I'm not saying that I can prove this or that everybody else should think of it this way or anything else.
+[814.94 --> 821.76] It's entirely possible that somebody wants to emphasize something else, but I think mine are pretty, you know, pretty reasonable.
+[822.40 --> 822.88] Sure.
+[823.16 --> 835.56] I mean, well, one thing about that, which I find kind of interesting, is that a lot of things that we perceive as limitations, if you will, of human cognition, human biology, whatever,
+[835.56 --> 847.78] if you kind of look more deeply and you look at the, you know, the algorithm, if you will, of evolution and the fact that what it cares about is essentially the long-term survival of life overall,
+[847.78 --> 858.64] not even a particular species, but the entire life ecosystem, if you will, then they start to actually be less limitations and or things that actually have value.
+[858.64 --> 867.00] So you bring up this concept of bow tie, right, which is like the fact that I have to take my thoughts, compress it into a language, communicate them to you,
+[867.18 --> 871.24] then you sort of decompress those into, you know, thinking in your head.
+[871.60 --> 873.88] It seems like, you know, maybe a disadvantage.
+[873.88 --> 880.52] The fact that we take our genetics, compress it into an egg and a sperm, and then they combine and reproduce an individual.
+[880.72 --> 883.56] There are all these bottlenecks everywhere, these kind of bow ties, right?
+[883.56 --> 888.46] Very similar to AI, you know, coder, decoder architectures, right?
+[888.62 --> 895.72] And most people look at those like, this sucks, you know, if only I could just have a neural link to transfer, like, data directly to you.
+[896.02 --> 901.66] Like, if I could just clone myself instead of going through this whole sexual, you know, reproduction kind of thing.
+[901.78 --> 905.76] Like, they see limitations where actually a lot of the points that you make in your work are, no,
+[905.76 --> 914.54] these actually have, like, tremendous value when you're a life form in an environment of insufficient knowledge and limited resources.
+[914.82 --> 917.80] You have to survive under variation, variability.
+[918.26 --> 920.64] Can you kind of talk about that in two perspectives?
+[920.86 --> 922.16] Like, one, did I get that correct?
+[922.66 --> 928.00] And then secondly, why do you think it is that people always perceive these things as limitations?
+[928.00 --> 933.14] Like, their frame is all about their own personal limitations rather than seeing the bigger picture.
+[933.14 --> 939.12] Yeah, yeah, well, so first, you know, to talk about evolution and the goals of evolution and so on,
+[939.14 --> 940.48] you guys should have Richard Watson on.
+[940.92 --> 946.72] He's a computer scientist from the University of Southampton, and he has a very interesting kind of new take on evolution.
+[946.90 --> 949.84] So that's, you know, I'll let him handle that one.
+[949.96 --> 952.92] But I think that, I think you're right.
+[953.08 --> 958.70] I think people, you know, I think in general, and this is totally like armchair psychology, right?
+[958.70 --> 976.92] I don't really know, but I suspect that people tend to project a lot, and in a lot of what I see as resistance to some of the things that I and others have written about, you know, the continuum between humanity and other kinds of forms of mind and so on.
+[976.92 --> 983.24] And I think what a lot of people see there is a projection of their own limitations.
+[983.34 --> 996.40] You know, when people talk about what is impossible for machines, and of course, they say machines as though this was some kind of crisp category when we know we have to deal with cyborgs and hybrids and chimeras of all kinds.
+[996.40 --> 1006.20] You know, I think that there's a real undercurrent of limitation in the sense that compassion and those kinds of things are a zero-sum game.
+[1006.44 --> 1011.72] You know, that if we recognize too many other minds that we then have to care about, there won't be enough.
+[1011.90 --> 1016.42] There won't be enough for us, and we may not be able to muster sufficient care.
+[1016.42 --> 1030.30] And so I have a feeling that a lot of this kind of resistance really does come from a deep, you know, and as I pointed out in this paper and another one that's in review now, these are fundamental, very ancient human issues.
+[1030.46 --> 1034.74] You know, being supplanted by the next generation, this is not a new AI thing.
+[1034.82 --> 1041.42] This is as old as the hills where you know you are making high-level intelligences that are going to probably be better than you.
+[1041.42 --> 1048.08] You have no idea – I mean, you do your best or not, but you have no idea that they're going to value any of the things that you value.
+[1048.72 --> 1051.26] You know, in fact, through their teenage years, they will tell you that they don't.
+[1051.46 --> 1054.50] And so, you know, and so who are you going to get replaced by?
+[1054.60 --> 1056.76] This is a very old problem.
+[1056.90 --> 1057.80] This is not new with AI.
+[1057.94 --> 1063.32] So I think all of these things are bubbling up to the surface now, but they've been with us all along.
+[1064.30 --> 1065.64] And the thing about the boat –
+[1065.64 --> 1068.90] That's like Socrates, the kids of today, right?
+[1068.98 --> 1069.10] Yeah.
+[1069.10 --> 1070.28] Or the youth of today.
+[1070.28 --> 1071.32] Yeah, exactly.
+[1072.18 --> 1075.48] Yeah, and the thing with a bow tie – so let me talk about that for a second.
+[1075.62 --> 1088.06] So I do think that this basic architecture is incredibly important because what I think it does in biology is set up the intelligence ratchet that we see in the living world.
+[1088.24 --> 1091.02] And roughly speaking, it works like this.
+[1091.02 --> 1104.20] As a being that is limited in terms of – a finite being under limited resources and limited time, you don't have the luxury of being a Laplacian demon.
+[1104.24 --> 1105.54] You can't track microstates.
+[1105.54 --> 1107.46] You have to compress your experience.
+[1107.60 --> 1115.96] You have to learn and squeeze lots of particular events into some kind of a compressed representation.
+[1115.96 --> 1124.88] You're throwing away all kinds of correlations and you're hoping to capture a pattern, ignore all kinds of things and capture a pattern.
+[1124.88 --> 1126.84] And that's how you form memories.
+[1127.06 --> 1138.28] Well, and this is true behaviorally, but it is also true on a developmental evolutionary timescale, as you pointed out, squeezing down to a genetic representation and then re-expanding.
+[1138.28 --> 1150.10] So the thing about that is that there's an algorithmic process on the left side of that bow tie which takes the experiences you've had and squeezes them down into a representation.
+[1150.40 --> 1153.68] But the other side is not purely algorithmic.
+[1153.78 --> 1154.34] It's creative.
+[1154.40 --> 1162.00] And it has to be because by throwing away all that stuff, you now don't really know what the past actually was.
+[1162.00 --> 1164.40] You just have a representation that you then have to interpret.
+[1164.40 --> 1178.70] The necessity to interpret that in real time is what gives rise to not only behavioral intelligence, meaning flexible, adaptive behavior, because your allegiance is to the salience of the information, not the fidelity.
+[1178.70 --> 1181.18] You actually have no idea what the original memory was.
+[1181.18 --> 1182.52] All you have is your memory trace.
+[1182.68 --> 1191.42] And in real time, you have to continuously do this kind of like storytelling about yourself and the outside world based on whatever engrams you happen to have at the time, right?
+[1191.46 --> 1192.78] Because we don't have access to the past.
+[1192.78 --> 1195.90] And the same thing – so that's cognitively, I think, what's happening.
+[1196.06 --> 1204.98] And developmentally, what's happening is that biology, unlike our computer technology, biology is dealing with a very unreliable medium.
+[1205.08 --> 1209.26] So we work very hard so that every layer is isolated, right, from the layers above.
+[1209.26 --> 1218.72] And when you're writing a high-level computer code, you're not worried that the metal is going to act weird and that suddenly your registers, the numbers are going to float off and be something else.
+[1218.72 --> 1222.96] You can trust, right, you have full trust in the layers underneath, you know.
+[1224.16 --> 1228.00] Biology has the exact opposite approach because everything is unreliable.
+[1228.10 --> 1230.24] You have no idea exactly how many copies of anything.
+[1230.38 --> 1233.92] You're going to have molecules come and go, things degrade, things misfold.
+[1233.92 --> 1238.82] It's – and you know on an evolutionary timescale, you know things are going to change, guaranteed.
+[1238.98 --> 1242.76] Not only the environment is going to change, but your own parts are going to change because you're going to mutate.
+[1242.92 --> 1244.78] Everything is different each time.
+[1244.78 --> 1254.18] And for this reason, I think that evolution does not overtrain on the past, and this is why – and we could talk about it, but I have – in my papers, I show many, many examples of this.
+[1254.66 --> 1264.98] Biology is incredibly good at solving novel problems and making some kind of coherent being in all kinds of crazy configurations that either nature has done or that we do in the lab.
+[1265.12 --> 1270.30] And the reason is is because even the normal embryo was not a mechanical construction to begin with.
+[1270.30 --> 1273.14] It is solving that problem every single time, you know.
+[1273.26 --> 1274.92] I like this idea of beginner's mind.
+[1275.06 --> 1279.18] It's like you're given some tools or you're given some hardware that's encoded by the genetics.
+[1279.38 --> 1280.94] You have no idea what it used to mean.
+[1281.06 --> 1290.18] You have no idea what kind of environment, you know, and how it was meant to be interpreted, and you have no allegiance to that, and you have no ability to know exactly what that is.
+[1290.34 --> 1295.54] All you know is you're going to use that information as best you can right now to do whatever the next thing is.
+[1295.54 --> 1315.96] And that creativity, that – the requirement to confabulate, really, to tell a new story without any allegiance to what the story used to be, is the intelligence ratchet that starts off in physiological and metabolic space and proceeds through anatomical morphous space and eventually behavioral space and linguistic space and so on.
+[1315.96 --> 1327.30] And I think that aspect of it, having to compress and then creatively figure out what do my memories mean, I think is foundational to being a real agent, and I think that's what biology does.
+[1327.60 --> 1333.62] Yeah, reading through your work, and of course we can debate what the definition of intelligence is, but you framed it as some kind of general problem-solving ability.
+[1333.74 --> 1337.28] We've been debating it on the channel for years, so we'll skip that one just for the time being.
+[1337.28 --> 1356.24] But, you know, when you spoke about the metamorphosis from a caterpillar to a butterfly, and also in your work in xenobots and anthrobots, you seem to be making the argument that evolution is bestowing the capacity for intelligence rather than solving specific problems or having a specific morphology.
+[1356.24 --> 1366.48] And you demonstrated in your work that you could repurpose low-level cells, if you like, into completely different spaces, and they could exhibit intelligent behavior.
+[1366.84 --> 1373.88] And to me, that suggests that you're making an argument which is kind of leaning towards primordial agency at the lowest level.
+[1373.98 --> 1376.08] I mean, we've spoken to panpsychists like Philip Goff.
+[1376.22 --> 1377.96] You're not making an ontological argument.
+[1377.96 --> 1383.34] You're just saying that the locus or the lens of agency and intelligence should be at the very lowest level.
+[1383.34 --> 1386.82] And it's, you know, it has incredible plasticity and generalization.
+[1387.66 --> 1390.46] Yeah, I mean, I would like to make two arguments.
+[1390.64 --> 1405.54] One is that I am not sure there's any truth of the matter in the sense that some kind of objective, unique view from nowhere that where you can say this is what has mind and this is what doesn't.
+[1405.66 --> 1408.46] I think that all of this is observer relative.
+[1408.82 --> 1412.26] Now, for complex agents, that observer is the system itself.
+[1412.26 --> 1416.02] So there is this strange loop that kind of reifies itself in certain organisms.
+[1416.02 --> 1419.24] But basically, all of this is from the perspective of an observer.
+[1419.48 --> 1426.48] And so what you can say is, from my perspective, I look at very basal systems.
+[1426.48 --> 1431.40] And we've now done this not only in cells and tissues, but we've done this in molecular pathways.
+[1431.60 --> 1435.26] We've done it in very simple computer algorithms, like sorting algorithms.
+[1435.26 --> 1436.12] We can talk about that.
+[1436.12 --> 1441.90] But the idea is, when you look at a system like this, what set of tools are appropriate?
+[1442.12 --> 1444.20] Are they tools of mechanical rewiring?
+[1444.30 --> 1445.48] Are they the tools of cybernetics?
+[1445.54 --> 1449.42] Are they the tools of behavior science, of psychoanalysis, and so on, right?
+[1449.42 --> 1461.00] And I, you know, I'm a panpsychist in the sense that I think that the utility of these kinds of approaches becomes clear very low down.
+[1461.24 --> 1470.20] In other words, you don't need anything remotely like a cell or anything that complex before you have to start thinking about, from the perspective of the system itself, what does it learn?
+[1470.28 --> 1470.98] What does it measure?
+[1471.10 --> 1471.82] What does it remember?
+[1472.00 --> 1472.68] What are the valences?
+[1472.90 --> 1475.36] I think all of that stuff starts very low down.
+[1475.60 --> 1477.78] But I don't think this is a philosophical position.
+[1477.78 --> 1479.34] I think this is an empirical claim.
+[1479.86 --> 1483.64] So, in other words, someone might say, I don't believe any of that.
+[1483.76 --> 1487.92] I'm looking at the system, and I'm going to use good old physical rewiring.
+[1488.08 --> 1494.06] Somebody else says, no, I think this system has memory and preferences and goals, and they use a certain other set of tools.
+[1494.34 --> 1501.26] And then we all get to find out who, you know, who had more, better research programs emerging from that, you know.
+[1501.56 --> 1505.64] So, I'm not talking about the hard problem of consciousness here or anything like that.
+[1505.72 --> 1507.48] That's a little bit of a different kettle of fish.
+[1507.48 --> 1519.74] But in terms of, you know, cognition and intelligence, which I'm not defining intelligence that way, but for the purpose of our work, that is the slice of intelligence that I'm interested in, which is problem solving.
+[1519.74 --> 1523.46] I do think there are other aspects to it, but I don't know of an experimental way to get at it.
+[1523.52 --> 1524.96] So, I'm sticking with problem solving.
+[1525.42 --> 1528.36] Yeah, I think it might have been better if I used the term panigentialism.
+[1528.48 --> 1530.34] I mean, of course, you're not an ontological pan.
+[1530.54 --> 1533.96] You know, you don't think that the bits of the universe have phenomenal experience.
+[1534.48 --> 1543.10] But I think you do think that at the lowest level in the biosphere, that there is either the facility or the capacity for agency.
+[1543.10 --> 1552.32] And if I understand you correctly, it's this diffusion or collective agency, which is the most important lens to understand systems.
+[1552.72 --> 1559.80] And another interesting thing about this is, I know we talked about transhumanism earlier, but I do feel that the lens of analysis determines the viewpoint.
+[1559.80 --> 1564.14] So, a lot of social scientists, for example, they look in the non-physical world.
+[1564.28 --> 1567.60] They don't pay attention to individual human, physical humans.
+[1567.82 --> 1573.64] They look at culture and they look at language and they diminish the individual agency that we have.
+[1573.92 --> 1578.88] Whereas yourself, for example, you're looking at the individual microorganisms in the biosphere.
+[1579.06 --> 1582.22] And there are some intermediate views like Dawkins' view or even Yoshibak.
+[1582.32 --> 1583.50] We spoke with him a couple of weeks ago.
+[1583.62 --> 1589.46] He's talking about cyber animism, which is the embodiment of information into our physical beings.
+[1589.46 --> 1592.18] So, do you think that lens of analysis changes the perspective?
+[1592.94 --> 1595.28] Yeah, yeah, I really think it does.
+[1595.54 --> 1608.00] And I think that, yes, I think that as a matter of empirical discovery, we are finding that using agential lenses on systems starts very early.
+[1608.18 --> 1610.30] You know, way below what most people.
+[1610.38 --> 1618.22] So, I think intelligence and cognition and agency are a bigger circle in terms of this Venn diagram kind of thing.
+[1618.22 --> 1621.40] It's a bigger circle than life, than what we would call life today.
+[1621.56 --> 1627.50] When we estimate the agency, the intelligence of any system, we're basically taking an IQ test ourselves.
+[1627.70 --> 1631.42] What we're saying is this is what I am smart enough to notice about this system.
+[1631.58 --> 1636.26] And I think we're just at the beginning of getting at all good at noticing that.
+[1636.42 --> 1640.20] We're just beginning to develop tools to recognize these other minds.
+[1640.20 --> 1645.26] Yes, I mean, I think a physicist might kind of challenge that, right?
+[1645.38 --> 1653.06] And say, I have no need for the assumption of agency to explain, like, celestial mechanics or, like, anything else, actually.
+[1653.24 --> 1661.52] Like, you know, nowhere in the sort of standard model of physics will you find anything that has to do with what a human being would normally associate with agency.
+[1661.52 --> 1670.32] Now, you can, like, reduce your concept of agency all the way down to, no, if, like, a photon and electron interact and they wanted to do that or they had some.
+[1670.58 --> 1672.34] But, I mean, physicists don't do that.
+[1672.34 --> 1686.14] So, can you give an example where in physics, like, we benefit from taking this perspective of agency to better explain anything that cosmologists, physicists, solid state guys, any bread and butter physicist would care about?
+[1686.36 --> 1688.60] A couple things, and I'll give you a very specific example.
+[1688.60 --> 1696.08] So, one thing I think that there needs to be, again, an impedance match between the tools you're using and what you hope to see.
+[1696.40 --> 1704.10] So, if you insist on using low agency tools, so rulers, voltmeters, that kind of stuff, you're guaranteed to see that kind of thing.
+[1704.22 --> 1710.36] And the field of folks who look at that stuff, we call those physicists, and they see certain things.
+[1710.36 --> 1719.34] Now, we have to remember, so my claim is not that human-level cognition is usefully painted onto electrons.
+[1719.34 --> 1720.10] That's not what I'm saying.
+[1720.24 --> 1721.68] What I'm saying is it's a continuum.
+[1721.86 --> 1725.04] And what we can do is we can ask a very simple question.
+[1726.00 --> 1729.82] What would the most basic version of agency have to look like?
+[1729.90 --> 1734.84] Not the human-level version, but, like, stepping it all the way down because, you know, we were unfertilized oocytes once.
+[1734.84 --> 1738.58] And so, clearly, somehow that gets scaled up during development and during evolution.
+[1738.76 --> 1739.96] There's a continuum.
+[1740.22 --> 1742.52] So, what does the basement version of it look like?
+[1742.52 --> 1746.16] What do you have to have in order to be on the spectrum at all?
+[1746.16 --> 1754.98] Well, and that's important because if we look for human-sized versions of this at other levels, of course, we're not going to find it.
+[1755.06 --> 1762.24] But we have to reduce our expectations concomitantly to going down on that continuum.
+[1762.52 --> 1767.82] So, I actually think if you do that, you find something that physicists absolutely deal with, which is least action principles.
+[1767.82 --> 1780.10] So, the very basic version of having goals and having some problem-solving capacity to meet those goals is the kind of thing you see, for example, when you find out that light chooses paths that are the least action.
+[1780.42 --> 1782.54] It doesn't look – of course, it doesn't look like human agency.
+[1782.72 --> 1791.34] The question is, is there a story of scaling by which you can go from something that's simple like that to concepts that we need in neuroscience?
+[1791.56 --> 1795.24] And so, one example of that scaling is free energy minimization.
+[1795.24 --> 1810.30] And there are – you know, that's a story in which, for example, Carl Friston and Chris Fields and colleagues have used the same conceptual framework to talk about what particles do and eventually talk about what humans and, in fact, ecosystems do.
+[1810.30 --> 1826.84] So, what we're looking for here is stories of scaling that allow us to say, okay, this is the very basic, the most primitive version of what, through various dynamics with life and maybe other versions, will become eventually the things that we recognize as human-level agency.
+[1827.02 --> 1829.20] But I'll give you a very specific example.
+[1830.90 --> 1832.80] Consider gene regulatory networks.
+[1832.80 --> 1838.08] So, what you have there is – never mind the nucleus, you know, all that machinery, just the very simple thing.
+[1838.20 --> 1843.52] You've got, let's say, half a dozen nodes – these are chemicals – that turn other nodes on and off.
+[1843.70 --> 1844.12] That's it.
+[1844.26 --> 1845.12] You don't have anything else.
+[1845.16 --> 1845.76] You don't have a cell.
+[1845.88 --> 1853.72] You don't have any – and, you know, all it is is half a dozen or more chemicals that turn other chemicals in that set on and off.
+[1854.02 --> 1858.32] Now, when you look at that – and so, let's say we're going to model it, and this is what we've done.
+[1858.32 --> 1864.16] People model them with ordinary differential equations, and you can see exactly what's going to happen when these things interact.
+[1864.42 --> 1869.04] Now, one way to look at this is to say, okay, it's completely deterministic.
+[1869.10 --> 1870.26] It's fully transparent.
+[1870.64 --> 1872.30] There isn't any magic here.
+[1872.52 --> 1883.14] So, this is going to be a dumb mechanical system, and I've got, you know, a dynamical systems theory by which I'm going to just make predictions about what this thing is going to do.
+[1883.14 --> 1893.88] Okay, so that's one set of tools where you say, I don't see anything here that would warrant any kind of, you know, any kind of agency talk or anything like that.
+[1893.92 --> 1894.26] And that's fine.
+[1894.30 --> 1900.60] And if you do that, you get certain kinds of capabilities, but you're also precluded from other kinds of capabilities.
+[1900.76 --> 1910.36] For example, these gene regulatory networks are very important in health and disease, and if you wanted to manipulate their behavior, that viewpoint makes a specific prediction.
+[1910.36 --> 1914.58] What it means is that if you're going to change the behavior of this thing, what you have to do is rewire it.
+[1914.62 --> 1920.60] You have to introduce new nodes or cut the connections between certain nodes and other nodes, and in biomedicine, that's gene therapy.
+[1920.72 --> 1923.22] The way you would do that is through gene therapy.
+[1923.32 --> 1929.20] So, that philosophical outlook has very specific implications for your roadmap for regenerated medicine, for example.
+[1929.60 --> 1938.24] Okay, and so we looked at that, and we said, well, yeah, it's transparent, and it's relatively simple, and there isn't any magic.
+[1938.24 --> 1942.00] But, of course, that's also true if we look inside of human brains.
+[1942.00 --> 1944.44] There's no magic there that we're ever going to find either.
+[1944.62 --> 1945.82] So, let's do this.
+[1945.86 --> 1952.40] Let's not assume we know what this thing is, and let's just try things on that spectrum of agency to see what other tools are appropriate.
+[1952.68 --> 1958.18] So, one other tool that you might try is something that's used for brainy systems, and that's training.
+[1958.38 --> 1960.64] So, taking advantage of a learning interface.
+[1960.76 --> 1962.80] How might you train a gene regulatory network?
+[1962.80 --> 1966.78] Well, what you might do is you might choose some of the nodes.
+[1967.06 --> 1971.02] So, let's look at, for example, in the case of Pavlovian conditioning, just as an example.
+[1971.14 --> 1977.76] We actually found six different kinds of learning in these gene regulatory networks.
+[1977.90 --> 1979.74] So, let's take Pavlovian conditioning.
+[1979.96 --> 1981.84] So, you know, you've got a dog.
+[1982.06 --> 1984.62] You normally, you ring a bell.
+[1984.70 --> 1985.98] The dog responds not at all.
+[1986.06 --> 1986.84] You show him some meat.
+[1986.84 --> 1987.50] He salivates.
+[1987.50 --> 1992.86] Then, eventually, you pair the bell and the meat, and then, eventually, he'll salivate at the sound of the bell, for example.
+[1993.74 --> 1994.18] So, okay.
+[1995.90 --> 1997.62] So, we have three things here.
+[1997.68 --> 2000.26] We have the unconditioned stimulus, that being the meat.
+[2000.42 --> 2002.28] We have the response, that being the salivation.
+[2002.38 --> 2010.08] And you have something that's initially a neutral stimulus, the bell, that eventually becomes the conditioned stimulus after you've exposed the thing.
+[2010.26 --> 2015.42] So, you take your gene regulatory network, and you pick some nodes, and you say, okay, this node is going to be my response.
+[2015.42 --> 2016.96] I'm just going to watch what this node does.
+[2017.20 --> 2024.48] This node over here, I'm going to find a node that's an unconditioned stimulus, meaning when I trigger this chemical, the response gets upregulated.
+[2024.64 --> 2031.18] And then, I'm going to find some other node, and I'm going to treat that as a neutral stimulus, meaning when you tickle that node, nothing happens to the response.
+[2031.46 --> 2035.84] Now, I'm going to do paired presentations, and I'm going to see what happens.
+[2035.84 --> 2039.24] So, if you do – so, this is a very standard kind of behaviorist approach.
+[2040.22 --> 2046.48] Black boxes, you know, you don't have to know, is it an animal, is it a gene regulatory network, is it a – you know, you don't have to know what it is.
+[2046.56 --> 2048.04] You can just kind of do it and see what happens.
+[2048.36 --> 2053.86] If you do that, what you find out is that biological networks, but not so much random networks, so that's interesting.
+[2053.98 --> 2055.56] I think evolution actually likes this feature.
+[2055.56 --> 2060.66] So, random networks don't do this, but biological networks have six different kinds of memory.
+[2060.78 --> 2061.84] They can do habituation.
+[2061.84 --> 2064.56] They can do sensitization.
+[2065.46 --> 2066.62] They can do associative learning.
+[2066.80 --> 2067.88] They can do some other things.
+[2068.00 --> 2069.76] They can count to low numbers and things like that.
+[2070.92 --> 2079.68] None of that is obvious or visible by taking the sort of chemistry and dynamical systems theory approach, and you wouldn't find it unless you tried it.
+[2079.74 --> 2079.86] Why?
+[2079.96 --> 2081.76] Because we are not good at guessing these things.
+[2081.76 --> 2086.00] Like most people's intuitions, when they look at this thing, they would not say that this thing is smart.
+[2086.24 --> 2088.68] And I'm not saying it's – you know, I'm not saying it's human level.
+[2088.82 --> 2090.50] I'm not saying it's sitting there having hopes and dreams.
+[2090.58 --> 2092.48] What I'm saying is it is on the continuum.
+[2092.70 --> 2099.12] It is on the continuum of agency because there are tools that you would apply to learning systems that get you to new capabilities.
+[2099.12 --> 2100.66] And so what are those new capabilities?
+[2100.66 --> 2108.58] Well, now that you know you can train the thing, you have all sorts of possibilities in terms of drug habituation and all kinds of biomedical, you know, drug association,
+[2109.04 --> 2117.54] all kinds of cool biomedical applications, which we are now pursuing in the lab, that don't require you to use gene therapy because now you understand that you have a system that has priors,
+[2117.62 --> 2124.92] it stores those priors, and that future behavior is a trainable outcome of past experiences.
+[2124.92 --> 2127.30] So my point is simply this.
+[2127.72 --> 2132.28] We have to be humble about the fact that we don't know how to just, you know, notice these things.
+[2132.40 --> 2135.04] And these are not – you can't have philosophical feelings about it.
+[2135.10 --> 2137.68] You have to do experiments and see what that does for you.
+[2137.78 --> 2137.94] Okay.
+[2138.04 --> 2148.52] So it's almost like a more sort of holistic approach to, let's say, the gene regulatory network, a more holistic approach to trying to solve the issue.
+[2148.52 --> 2155.60] And the reason why I say that is because no matter how many ODEs or PDEs I wrote down with all the, you know, gene regulation,
+[2155.60 --> 2164.80] it's still only because of how insanely complex, you know, biology is, it's probably still only a projection of what's actually happening.
+[2165.04 --> 2171.38] And so, for example, you may find that, yeah, every time we introduce too much sugar and we brush your hair,
+[2171.38 --> 2176.76] like it seems there should be no connection there, but somehow brushing your hair, we've learned,
+[2177.04 --> 2180.92] can correlate with, you know, proper insulin, you know, functioning or something.
+[2181.00 --> 2186.40] It's entirely possible, right, just because of the insane complexity of the feedback of your biology,
+[2186.74 --> 2188.62] you know, tactile influences, things like that.
+[2188.70 --> 2195.46] So it sounds like it could lead to more holistic or at least exploratory rather than very analytic
+[2195.46 --> 2199.10] and reductionary kinds of approaches to treatments.
+[2199.10 --> 2205.78] Well, it's definitely not reductionist, but it's, my claim is not that things are so complicated
+[2205.78 --> 2208.00] that we should try random stuff because we'll be surprised.
+[2208.12 --> 2211.50] I mean, that's true too, no doubt that's true too, but that isn't my claim.
+[2211.70 --> 2218.26] I mean, this learning capacity shows up in a network that has, the minimal network that we found has four nodes.
+[2218.78 --> 2223.86] And so you really don't need to be that complex for some of these things to happen.
+[2223.86 --> 2229.84] But also to be clear, the things that we found were not random things that we were poking and we just happened to notice it.
+[2229.96 --> 2233.76] We took very specific protocols from behavioral science.
+[2233.90 --> 2238.60] And this is what we've been doing for 30 years is stealing stuff from neuroscience and applying it other places
+[2238.60 --> 2242.34] because I think that this is not just the random vagaries of complex systems.
+[2242.52 --> 2248.44] I think these are common threads that run through systems, which don't even have to be that complex.
+[2248.90 --> 2249.60] Okay, interesting.
+[2249.82 --> 2251.92] So it's kind of a, it's an interesting middle ground.
+[2252.20 --> 2258.26] It's sort of like, on the one hand, you kind of like have some holistic kind of a woo approach
+[2258.26 --> 2259.38] where we don't even have it.
+[2259.46 --> 2263.32] We just try different things and we found that crystals correlate with something or another.
+[2263.50 --> 2269.08] On the other hand, you have the break it down, the very extremely analytical, find the gene, you know, to cut.
+[2269.22 --> 2275.24] This is an interesting middle ground closer actually to that traditional, you know, sort of scientific approach,
+[2275.24 --> 2282.34] but guided by a set of principles that came from like, let's say, a higher level of emergence.
+[2282.96 --> 2283.52] So I don't know.
+[2283.62 --> 2284.78] I mean, it seems pretty interesting.
+[2284.98 --> 2285.10] Yeah.
+[2285.18 --> 2291.48] One way to think about it is, look, humans have been training dogs and horses for thousands of years knowing zero neuroscience.
+[2292.16 --> 2292.60] Right, exactly.
+[2292.92 --> 2295.06] We knew absolutely nothing what was between their ears.
+[2295.06 --> 2300.94] And the reason that we were successful at it was because living systems control,
+[2301.12 --> 2303.40] they don't control themselves by micromanagement.
+[2303.40 --> 2308.70] They encapsulate, right, trainability and behavior shaping all throughout.
+[2308.90 --> 2310.68] We're just hijacking that normal interface.
+[2310.84 --> 2315.92] So that learning interface that the system is using encapsulates all that crazy complexity.
+[2316.12 --> 2322.06] So I actually think there's this kind of weird uncanny valley with complexity where for very simple systems,
+[2322.06 --> 2325.80] we can kind of micromanage them and we can tell what's going on and we can control them.
+[2325.92 --> 2329.38] Then things get really complex and we don't have a good way of handling it.
+[2329.38 --> 2334.74] But when things get not just complex enough, but the kind of thing that life is doing,
+[2335.36 --> 2340.46] which is this multi-scale competency architecture, then even though the complexity has gone through the roof,
+[2340.76 --> 2342.58] the controllability actually gets better again.
+[2342.58 --> 2350.58] Because now they're offering this top-down, goal-directed behavior and you can, those are now your control knobs,
+[2350.66 --> 2353.94] not the materials, not the physical properties, not what each part is doing.
+[2354.08 --> 2357.26] You're not trying to micromanage symptoms, which is mostly what our biomedicine does.
+[2357.46 --> 2360.92] You are trying to convince, literally, I'm using these words quite literally,
+[2361.16 --> 2367.94] you're trying to convince the system to be on the same page with you about what the set points of that homeostatic process should be.
+[2367.94 --> 2373.86] You're trying to get buy-in so that it's not going to resist whatever medical intervention you've just done.
+[2374.06 --> 2380.18] This is, I think, another way to think about this is the way you engineer with agential materials.
+[2380.50 --> 2384.78] So engineering with passive matter, even with active matter or computational matter,
+[2384.82 --> 2387.62] is different than engineering with an agential material.
+[2387.78 --> 2394.60] You use a completely different set of tools because you're working with a material that has competencies and agendas of its own,
+[2394.60 --> 2397.98] and you just have to engineer differently in those cases.
+[2398.16 --> 2400.08] Yeah, I'm a big fan of much of this.
+[2400.22 --> 2403.22] I mean, you know, with mortal computation and biomimetic intelligence, you know,
+[2403.34 --> 2406.94] we're moving away from a paradigm of abstractions and instructions,
+[2406.94 --> 2410.32] and we're moving more towards training, as you said.
+[2410.44 --> 2414.06] But you were saying some interesting things about agential material,
+[2414.52 --> 2420.52] and your definition of agency in the paper was basically a kind of cybernetic loop.
+[2420.52 --> 2425.46] And philosophers talk about it in terms of, like, self-causation and intentionality.
+[2425.62 --> 2428.14] Of course, they're not talking about micro-causation.
+[2428.26 --> 2429.82] They're talking about it as a lens.
+[2430.18 --> 2433.08] Many of the FEP people, I've interviewed quite a few of them at this point,
+[2433.36 --> 2437.10] they talk about agency as an instrumental fiction or, you know,
+[2437.18 --> 2439.40] basically an as-if property or a model.
+[2439.62 --> 2441.70] And even the free energy principle itself,
+[2441.70 --> 2447.34] it doesn't talk about the micro-physical processes which lead to the emergence of things and agents.
+[2447.34 --> 2450.96] It's just a property that those things have after they coalesce.
+[2451.08 --> 2453.38] We've got this abstraction called agency.
+[2453.88 --> 2457.72] And then we use this abstraction to design AI systems
+[2457.72 --> 2461.76] and to reason about new forms of intelligence and so on.
+[2461.92 --> 2463.46] Is it a lossy abstraction?
+[2463.98 --> 2464.98] Well, yeah.
+[2465.18 --> 2465.48] Okay.
+[2465.62 --> 2471.58] First of all, my sort of metaphysical position is that everything is an abstraction
+[2471.58 --> 2473.18] and everything is a lossy abstraction.
+[2473.18 --> 2476.76] In other words, you know, people, sometimes people will say,
+[2477.14 --> 2478.50] well, that's just a metaphor, you know,
+[2478.58 --> 2481.50] when you're talking about intelligence and memory and tissue and whatever,
+[2481.60 --> 2482.24] that's just a metaphor.
+[2482.60 --> 2483.36] Well, yeah.
+[2483.50 --> 2487.14] And what are pathways and what are genes and what are, I mean, all of it.
+[2487.26 --> 2488.62] I think all we have is metaphor.
+[2488.78 --> 2489.68] That's, I think that.
+[2490.02 --> 2493.70] And the only question remains is, what does your metaphor let you do?
+[2493.82 --> 2496.20] So I don't believe that metaphors are exclusive.
+[2496.50 --> 2500.08] There are multiple different metaphors that you can have about the exact same thing.
+[2500.08 --> 2502.66] This is the kind of the nature of the polycomputing paradigm
+[2503.44 --> 2505.30] that Josh Bongard and I have been working on.
+[2505.70 --> 2506.90] So I think it's all metaphor.
+[2507.24 --> 2509.80] But what we want are enabling metaphors.
+[2509.92 --> 2513.16] We want metaphors that help us reuse concepts across fields
+[2513.16 --> 2516.60] to develop new concepts, to drive new research programs.
+[2516.76 --> 2518.14] So is it a metaphor?
+[2518.60 --> 2518.76] Yep.
+[2518.90 --> 2519.68] Is it a construction?
+[2519.92 --> 2520.04] Yep.
+[2520.14 --> 2522.38] I don't know what else we have besides those things.
+[2522.52 --> 2525.32] And so now the only thing that we have to work on
+[2525.32 --> 2533.32] is to improve the ones we have now, you know, in terms of are we going to miss things?
+[2533.66 --> 2534.64] Most certainly.
+[2535.14 --> 2538.04] And so that's, you know, that's as scientists and philosophers,
+[2538.22 --> 2541.64] that's I think what we're in the business of is trying to open up our metaphors
+[2541.64 --> 2543.42] so that we see more interesting stuff.
+[2543.72 --> 2543.96] Yeah.
+[2544.02 --> 2545.58] So just one point on that then,
+[2545.68 --> 2550.38] because you said that you don't support a deflationary reductionist account
+[2550.38 --> 2553.64] of biological agency, you know, which is to say we're just chemical machines
+[2553.64 --> 2557.44] because you said that framing is utterly insufficient for progress in science and engineering.
+[2557.46 --> 2561.02] But I did get the read, though, earlier on that you were making that argument.
+[2561.18 --> 2564.10] And one of the reasons for that is I think when you were talking about embodiment,
+[2564.20 --> 2566.36] for example, you said, yeah, embodiment is crucial.
+[2566.56 --> 2571.02] And by the way, the reason why a lot of cognitive scientists love embodiment
+[2571.02 --> 2572.76] is from this externalist tradition, you know,
+[2572.82 --> 2576.22] that they think that the intelligence is actually outside in the physical world.
+[2576.44 --> 2578.44] And when we interact with the physical world,
+[2578.44 --> 2584.48] we can kind of, you know, basically curry a lot of that intelligence in some indirect way.
+[2584.60 --> 2587.24] But you said, you know, this goes beyond robotics,
+[2587.24 --> 2591.02] which gives an AI an actual body to cohabit an environment alongside us
+[2591.02 --> 2593.42] and beyond the coming revolution in virtual reality,
+[2593.42 --> 2597.00] where many of us will spend a considerable amount of time in interesting worlds.
+[2597.22 --> 2598.78] So which is it?
+[2598.88 --> 2602.26] Presumably, you do think that we can have very rich intelligences
+[2602.26 --> 2605.64] completely in silico away from the biological world.
+[2606.72 --> 2611.34] That's, yeah, and that's because I see embodiment slightly differently.
+[2611.74 --> 2616.48] So typically when people say embodiment, they mean the 3D physical world
+[2616.48 --> 2618.82] and you're moving around in the 3D physical world.
+[2618.90 --> 2621.18] And that's what they, you know, they say that organoids,
+[2621.52 --> 2623.50] let's say brain organoids in a dish are not embodied.
+[2623.80 --> 2626.22] And, you know, certain kinds of AI is not embodied and so on.
+[2626.96 --> 2633.08] What I think is important about embodiment is the necessity of doing this perception,
+[2633.24 --> 2634.44] prediction, action loop.
+[2634.68 --> 2638.50] And that loop can happen in lots of different spaces that are not obvious to us at all.
+[2638.66 --> 2642.60] So biology, and this is not just for robotics and AI, for example, biology.
+[2642.84 --> 2649.54] So you could have, in fact, we do have cells and tissues that may be going nowhere in the physical world
+[2649.54 --> 2652.14] and nothing much is happening as far as we can tell.
+[2652.30 --> 2655.64] But what they're doing is they're solving problems in physiological space,
+[2655.84 --> 2657.28] in gene transcription space.
+[2657.54 --> 2660.02] Once you get a multicellular kind of thing going,
+[2660.20 --> 2662.50] you can do solve problems in anatomical morphous space.
+[2662.82 --> 2665.30] All of this taking measurements,
+[2666.26 --> 2669.76] judging them against your preferences, your valence and your set points,
+[2669.80 --> 2673.52] and then figuring out what do I do next to improve my situation.
+[2673.80 --> 2675.72] All of this happens in all kinds of spaces,
+[2675.72 --> 2679.04] only one or two of which we know how to visualize at this point.
+[2679.48 --> 2683.82] And so I think we have to be very careful about what we call not embodied.
+[2684.06 --> 2688.46] And also, I think the choice of spaces is very much up to the observer.
+[2688.98 --> 2692.72] As a simple example, imagine you have a bacterium
+[2692.72 --> 2695.42] and the bacterium is trying to go up a sugar gradient, right?
+[2695.56 --> 2698.64] So what we see is this loop that says take a measurement
+[2699.16 --> 2702.64] and depending on what you see and what your memory is of the previous values,
+[2702.70 --> 2705.20] you can either go up the gradient or tumble and go somewhere else.
+[2705.48 --> 2706.20] That's what we see.
+[2706.20 --> 2709.94] But actually, one other thing the bacterium might do is turn on a different gene
+[2709.94 --> 2713.26] that lets it metabolize a different sugar that's at a much higher local concentration
+[2713.26 --> 2714.20] than what we were looking at.
+[2714.38 --> 2717.26] So for the bacterium, taking a step in transcriptional space,
+[2718.44 --> 2722.56] does it represent that differently than taking a space in physical space?
+[2722.76 --> 2723.98] I'm not sure, right?
+[2724.08 --> 2726.60] For us as humans, those are completely different things.
+[2726.60 --> 2731.24] And when I talk about problem solving and movement in transcriptional spaces,
+[2731.24 --> 2733.60] a lot of people are like, well, that's not real, you know, that's not real space.
+[2735.30 --> 2737.90] But I don't know that the bacterium sees it that way.
+[2737.98 --> 2741.72] This is a, you know, a formalization that we've made.
+[2741.94 --> 2743.98] And so I think we have to be very careful.
+[2744.14 --> 2746.88] And I think that kind of embodiment is critical,
+[2746.88 --> 2749.84] but it's not the physical space or the physical body that's critical.
+[2750.00 --> 2750.74] It's the loop.
+[2750.90 --> 2753.74] It's this having to be an agent to say, what do I do next?
+[2753.74 --> 2756.86] And having a set of options and a set of pressures and constraints
+[2756.86 --> 2763.16] and enough of a cognitive system, which can be very minimal,
+[2763.42 --> 2766.92] that lets you do things where the future is going to be different from the past.
+[2767.52 --> 2769.10] That's what I mean by embodiment.
+[2769.22 --> 2774.34] I guess maybe I want to throw in one little tiny, perhaps, caveat in there.
+[2774.44 --> 2778.12] And when Stephen Wolfram pressed me on giving a definition for an agent,
+[2778.75 --> 2782.04] I said almost the exact same thing, except I added one additional thing,
+[2782.04 --> 2786.10] which is the actions I take need to affect the environment I'm perceiving.
+[2786.62 --> 2789.30] Otherwise, like I don't actually have this loop.
+[2789.46 --> 2791.94] I'm perceiving something and then I'm acting in some other space
+[2791.94 --> 2795.00] that has no influence on the space I'm perceiving.
+[2795.22 --> 2798.56] Like in your definition, does that also have to be true?
+[2798.60 --> 2802.26] Or can you be embodied by perceiving one space
+[2802.26 --> 2805.90] and acting in a completely different one and there's never any loop?
+[2806.12 --> 2807.04] Yeah, no, no.
+[2807.10 --> 2808.64] I like the emphasis on that.
+[2808.82 --> 2810.76] You know, it's a kind of niche construction, right?
+[2810.76 --> 2815.02] It's the, you know, you can think about niche construction
+[2815.02 --> 2816.84] and stigmergy, you know, leaving,
+[2817.10 --> 2820.22] use it writing to the outside world as memory and so on.
+[2820.36 --> 2821.06] I like it.
+[2821.14 --> 2822.22] I think it's a continuum.
+[2822.44 --> 2825.60] So I think some spaces are much more easily bent than other spaces.
+[2825.98 --> 2828.34] And so, you know, in transcriptional space,
+[2828.66 --> 2830.42] yes, you've got the possible,
+[2831.24 --> 2833.38] all these possible dimensions of gene expression.
+[2833.38 --> 2838.42] You can bend that space by changing your own transcriptional machinery,
+[2838.64 --> 2839.70] your own translational machinery.
+[2839.70 --> 2841.90] So you can act on the space.
+[2841.94 --> 2845.80] And then what you do next is now is going to perceive as somewhat of a different space.
+[2845.88 --> 2847.10] So I completely agree with you.
+[2847.16 --> 2849.32] But I think there are degrees, right?
+[2849.40 --> 2852.00] Some spaces are more easily deformed than others.
+[2852.16 --> 2854.16] But yeah, I think that's an important part of agency.
+[2854.16 --> 2857.82] Do you think there are any useful physical bounds to intelligence?
+[2858.04 --> 2861.42] I mean, I know we've just been saying that the future eludes us
+[2861.42 --> 2862.78] and we always have people who are,
+[2862.96 --> 2865.22] they just, they can't conceive of the future
+[2865.22 --> 2867.30] and they think what we have now is very good.
+[2867.38 --> 2868.52] But one of the things you've said, of course,
+[2868.60 --> 2871.92] is that potentially what supersedes us could be a being with,
+[2872.52 --> 2874.76] you know, much, much higher intelligence.
+[2875.58 --> 2876.64] What are your thoughts on that?
+[2876.76 --> 2878.92] How could it be potentially limited by the physical world?
+[2878.92 --> 2887.20] I think it would be extraordinarily foolish of me to try to put limitations on intelligences
+[2887.20 --> 2889.64] that by definition are smarter than I am.
+[2889.78 --> 2891.18] So I don't know.
+[2891.34 --> 2895.30] You know, I would not, I think we need to be very careful with limitations, period.
+[2895.58 --> 2899.84] I mean, again, just to go back, I don't think that intelligence is all there is.
+[2900.08 --> 2907.74] And there may be some kind of a filter whereby if intelligence proceeds too far ahead of things
+[2907.74 --> 2911.22] like compassion and, you know, I'm not even sure we have the vocabulary for it,
+[2911.42 --> 2916.64] but, you know, some kind of, you know, life positive features,
+[2916.64 --> 2919.24] it may spontaneously self-destruct.
+[2919.38 --> 2922.42] So there may be this kind of feature of the world where just by itself,
+[2922.52 --> 2926.12] raw intelligence does hit a ceiling because then there's some kind of destructive,
+[2926.12 --> 2928.96] you know, outcomes that prevent it from going further.
+[2929.14 --> 2934.10] But aside from that, if you, you know, if you manage that,
+[2934.10 --> 2940.04] if the intelligence manages that aspect of it to keep up the growth and wisdom
+[2940.04 --> 2943.14] with the growth of intelligence, I wouldn't dare put a limit on it.
+[2943.18 --> 2944.70] I don't even know how you could put a limit on it.
+[2944.76 --> 2947.36] It's like giving an IQ test to somebody way smarter than you.
+[2947.44 --> 2948.46] I just don't know how we would do it.
+[2948.74 --> 2948.92] Yeah.
+[2949.02 --> 2953.70] I mean, the evolution of our biosphere certainly seems like almost a flash
+[2953.70 --> 2956.58] compared to the history of the universe.
+[2957.24 --> 2959.66] And people do get worried about this rapid expansion.
+[2959.66 --> 2963.78] So, of course, the AI risk people, they say we could have an intelligence system
+[2963.78 --> 2967.42] which is 10,000 times smarter than us, whatever that means.
+[2967.64 --> 2972.42] And, of course, externalists think that we're all part of a big collective intelligence anyway
+[2972.42 --> 2975.70] and there's already some kind of homeostasis or some kind of limit.
+[2975.74 --> 2980.06] But you seem to be saying a little bit in your paper that we think of ourselves
+[2980.06 --> 2982.38] as a distinct entity.
+[2982.54 --> 2984.92] You know, we're this humanity.
+[2985.58 --> 2986.42] We're humans.
+[2986.42 --> 2989.84] And I guess you're arguing that it's a category error to think of ourselves
+[2989.84 --> 2991.04] as distinct in the first place.
+[2991.66 --> 2995.80] You know, I don't love fixed categories at all.
+[2995.88 --> 2998.54] And so it might be an error from some perspectives.
+[2998.54 --> 3000.22] It's probably not an error from others.
+[3000.52 --> 3008.18] I want to emphasize, I guess, one aspect of it, which is that just because we're a part
+[3008.18 --> 3011.82] of a higher collective intelligence, which we may well be, I'm not sure,
+[3011.82 --> 3016.92] that doesn't mean that everything is great and our interests are taken care of.
+[3017.12 --> 3026.96] So we actually are not very good at predicting or knowing about the goals that the composite
+[3026.96 --> 3031.30] systems will have and that the emergent goal-seeking systems.
+[3031.38 --> 3033.28] We're not very good at knowing what the goals will be.
+[3033.28 --> 3037.70] And if we just look at the, you know, one clear example where we see this happening is
+[3037.70 --> 3039.06] in multicellular bodies.
+[3040.40 --> 3044.46] So, you know, you could obviously make the argument that a lot of new and interesting
+[3044.46 --> 3049.74] things happened when you became an emergent human and not a pile of individual cells.
+[3051.64 --> 3056.30] But, you know, when you go, I don't know, this is for some reason, this is an example I
+[3056.30 --> 3056.96] always go to.
+[3057.02 --> 3060.74] When you go rock climbing, you know, you're going to have a great day and you're going to
+[3061.16 --> 3064.12] achieve some personal goals, you're going to achieve some social goals, you're going
+[3064.12 --> 3064.66] to have a great time.
+[3064.88 --> 3067.24] You're going to leave a whole bunch of your skin cells on that rock face.
+[3067.50 --> 3071.98] And they didn't get to ask, you know, they were not asked whether this was a good deal
+[3071.98 --> 3072.36] for them.
+[3073.04 --> 3075.98] You know, people do all kinds of stuff to their bodies for various reasons.
+[3076.52 --> 3080.64] Just because your collective, something is, you know, is part of a collective intelligence
+[3080.64 --> 3084.50] does not necessarily mean that that collective intelligence is looking out for you at all.
+[3085.18 --> 3086.94] So maybe, but maybe not.
+[3086.94 --> 3091.68] And so we need to, you know, I don't think we can just assume that because we are part
+[3091.68 --> 3095.04] of a greater system that there's some kind of benevolent homeostasis.
+[3095.72 --> 3100.00] I think we have to be very careful with what kind of emergent systems we create.
+[3100.00 --> 3102.14] And this is the reason why this is so important.
+[3102.36 --> 3107.42] I think that developing this field of diverse intelligence is an existential level task for
+[3107.42 --> 3113.10] humanity because we are constantly building large scale emergent cognitive systems where we
+[3113.10 --> 3118.36] have no idea, we're just very bad at predicting when it's going to happen, knowing or shaping
+[3118.36 --> 3120.90] their goals, communicating with them in any way.
+[3121.04 --> 3125.00] You know, we make social structures, financial structures, the Internet of Things, robotics.
+[3125.22 --> 3131.16] We make these things in various spaces and we still have no idea what we're really making
+[3131.16 --> 3135.78] because we assume that it's either going to be mechanical and controllable or random and
+[3135.78 --> 3136.10] chaotic.
+[3136.10 --> 3140.92] But we don't understand that many of these things are, in fact, goal-driven systems.
+[3141.24 --> 3146.00] I'm glad you brought up sort of, you know, leaving the skin cells on the rock face because
+[3146.00 --> 3151.72] it's the same point I made earlier about people being so myopically focused on their own individual
+[3151.72 --> 3157.74] existence and opining about how all these imperfections that the human cognition, brain,
+[3157.90 --> 3163.08] body, et cetera, has where they don't understand they're part of an evolutionary algorithm that
+[3163.08 --> 3166.50] has goals like that transcend their individual goals.
+[3166.62 --> 3172.02] So like a skin cell could sit there and say like, why is it that the, you know, I'm in epithelial cells.
+[3172.02 --> 3174.76] Why are my fibrinogen bonds so weak?
+[3174.88 --> 3177.42] You know, how come I just, it's so easy to get sloughed off.
+[3177.52 --> 3179.02] Why is my lifespan so short?
+[3179.28 --> 3183.16] Well, because you've been optimized for something that actually has nothing to do with you as
+[3183.16 --> 3183.72] an individual.
+[3184.12 --> 3186.92] It's you as a component of a larger system, right?
+[3186.92 --> 3191.98] Yeah, and, you know, and there are defections from that system.
+[3192.12 --> 3197.30] So for example, Tasmanian devils have a weird kind of mouth cancer that propagates from animal
+[3197.30 --> 3200.00] to animal when they bite each other in, you know, when they fight.
+[3200.18 --> 3208.28] And so cancer in general is a shifting of the cognitive light cone from, let's say, organ
+[3208.28 --> 3209.90] level down to individual cell levels.
+[3209.90 --> 3211.62] So cells roll back in their sort of amoebas.
+[3211.62 --> 3216.68] And typically that goes very poorly for them because, you know, they have kind of a short
+[3216.68 --> 3219.86] term vision where they're like, okay, I'm leaving this collective.
+[3219.86 --> 3220.86] I'm going out on my own.
+[3220.96 --> 3222.88] That doesn't typically work out very well.
+[3223.02 --> 3232.86] But for, I think the one in, if I'm not mistaken, I think the lineage of mouth cancer in Tasmanian
+[3232.86 --> 3235.42] devils is like 11,000 years old or something like that.
+[3235.56 --> 3238.80] So, and there's another example with clams.
+[3238.80 --> 3242.84] So clams, cancer cells in clams get released into the water.
+[3243.06 --> 3245.78] They hang out as single cells for a while, you know, no problem.
+[3245.88 --> 3248.52] Eventually they'll find another clam, settle in, and, you know, there they go.
+[3248.74 --> 3252.72] So typically that kind of defection from the body plane is a dead end, but not always.
+[3253.48 --> 3259.60] And yeah, I mean, you know, biology has observers and goal-seeking agents at every level competing
+[3259.60 --> 3260.82] and cooperating with each other.
+[3261.10 --> 3265.80] And just because you're part of a larger system doesn't mean that it's looking out for you.
+[3265.80 --> 3269.84] On the cancer thing, you've done some talks about this where you've got a new way of thinking
+[3269.84 --> 3273.16] about oncology almost as a subdivision of the self.
+[3273.28 --> 3276.90] So it's like a new part of yourself which has its own goals.
+[3277.06 --> 3280.96] But that lens, I think, actually could lead to new forms of treatment, right?
+[3281.40 --> 3282.08] Yeah, yeah.
+[3282.08 --> 3289.38] I mean, I think one way to think about it is to ask, why do we ever have anything but cancer?
+[3289.60 --> 3293.04] In other words, we start, life started as individual cells.
+[3293.60 --> 3297.76] Then they started cooperating towards these grandiose construction projects, building,
+[3297.76 --> 3299.96] you know, livers and hearts and things like that.
+[3300.16 --> 3301.46] Why do they do that?
+[3301.62 --> 3305.54] So I think one thing that we've been working on is this notion of a cognitive light cone,
+[3305.54 --> 3308.92] which is the size of the biggest goal that a system can pursue.
+[3309.16 --> 3314.10] And we've characterized the number of mechanisms that allow individual cells to bind together.
+[3314.10 --> 3316.94] And the network has bigger cognitive light cone than the pieces.
+[3317.14 --> 3321.16] So suddenly when you're an individual cell, you care about your own metabolic state and
+[3321.16 --> 3322.00] things like that.
+[3322.16 --> 3325.70] When you're a part of a network, there's a little bit of a mind meld that happens with
+[3325.70 --> 3327.92] these other cells, which we characterize molecularly.
+[3328.28 --> 3332.42] And now you're working on very large scale goals in the anatomical morphous space.
+[3332.42 --> 3339.28] Well, that, that process, that, that goal scaling process has failure modes and we know how
+[3339.28 --> 3340.38] to, how to induce it.
+[3340.56 --> 3342.60] And then of course in nature, it happens from time to time.
+[3342.86 --> 3346.56] And then what happens is that cognitive light cone, basically the cells disconnect from
+[3346.56 --> 3350.26] the network, that cognitive light cone shrinks to now being the size of a single cell.
+[3350.64 --> 3354.92] And so now you're back to it's, you know, it's not anything crazy or novel that's happened.
+[3354.92 --> 3355.68] You're back to an amoeba.
+[3355.84 --> 3359.04] As far as you're concerned, the rest of the body is just external environment to you.
+[3359.04 --> 3362.52] Everything you care about is around a very tiny little, little radius, both in terms
+[3362.52 --> 3363.32] of space and time.
+[3364.12 --> 3369.18] And that suggests thinking about it that way, that, that basically these cells are not any
+[3369.18 --> 3370.54] more selfish than other cells, right?
+[3370.60 --> 3373.62] Like in game theory, modeling of cancer, you would, you could say they're less cooperative,
+[3373.72 --> 3373.80] whatever.
+[3374.02 --> 3375.94] I don't think they're any more selfish than any other cell.
+[3376.08 --> 3377.34] I think their selves are smaller.
+[3377.50 --> 3377.88] That's all.
+[3378.14 --> 3381.18] They're, they're, they're still, they're as selfish as the collective.
+[3381.32 --> 3382.50] It's just their self is tiny now.
+[3382.50 --> 3387.82] And so that, that way of thinking about it leads to a very specific roadmap, which, which
+[3387.82 --> 3391.76] we've been following, which is let's just try to reinflate their cognitive, like, oh,
+[3391.78 --> 3395.66] let's, let's reconnect them to the electrical and physiological network of the other cells.
+[3395.76 --> 3396.70] We're not going to try to kill it.
+[3396.78 --> 3398.88] We're not necessarily going to try to look for a hardware defect.
+[3398.88 --> 3400.54] Some cells have it and some cells don't.
+[3401.02 --> 3406.08] You don't need any kind of genetic defect to, to, to have this kind of trans, carcinogenic
+[3406.08 --> 3406.64] transformation.
+[3407.86 --> 3408.92] Let's reconnect them.
+[3408.92 --> 3412.32] And, and so we've done that in animal model systems and it works really well.
+[3412.60 --> 3415.60] And so now the question is, can we, you know, move it to human medicine?
+[3415.66 --> 3420.32] But this is that, that's, that's another example where taking these different perspectives,
+[3420.50 --> 3423.26] which almost see, almost seem like philosophical perspectives.
+[3423.26 --> 3429.32] They lead directly to, uh, uh, actionable policies in, in experimental work.
+[3429.38 --> 3433.02] I guess it'd be good to get some of your comments on large language models and what they're
+[3433.02 --> 3434.00] good at and what they're bad at.
+[3434.06 --> 3438.78] I mean, I, I certainly think they are lacking in creativity and agency, but they are surprisingly
+[3438.78 --> 3439.86] good, right?
+[3439.98 --> 3443.48] They, they have somehow inferred all of this information.
+[3443.48 --> 3448.46] We have phenomenal sensations and we understand each other with this, you know, physically embodied
+[3448.46 --> 3450.86] informed, um, you know, setting.
+[3451.10 --> 3455.20] And then the language models act as if they have a similar kind of understanding, but, but
+[3455.20 --> 3459.14] they don't, but of course they, they don't actually have agency, but is that a useful
+[3459.14 --> 3459.58] distinction?
+[3459.58 --> 3466.30] I think it's a reasonable distinction and I share your intuitions about it, but I want
+[3466.30 --> 3472.34] to say that I think we need to be very, very careful about, um, feeling certain about these
+[3472.34 --> 3472.60] things.
+[3472.78 --> 3480.90] And the reason is, is that we have, uh, by, by exploring extremely minimal systems, like sorting
+[3480.90 --> 3486.50] algorithms, like gene regulatory networks, we have found massive surprises, not just emergent
+[3486.50 --> 3490.20] complexity, emergent complexity is easy, emergent unpredictability is, you know, it's cheap.
+[3490.44 --> 3494.02] It's, it's emergent cognition, basal, but emergent cognition.
+[3494.48 --> 3500.08] And so, you know, what, if, if, if I had to, if I had to bet money, do I think that today's
+[3500.08 --> 3501.72] language models have high agency?
+[3502.06 --> 3503.04] No, I don't.
+[3503.16 --> 3504.20] Am I certain of it?
+[3504.30 --> 3504.92] Absolutely not.
+[3504.94 --> 3509.60] Because, because my, the lesson I've learned is if I don't even know what, uh, bubble sort
+[3509.60 --> 3513.50] does, then I probably don't know what these things are really doing.
+[3513.50 --> 3518.38] We, we, we are very, it's, I, I think it's very early in the field of diverse intelligence
+[3518.38 --> 3520.34] to be able to be certain about any of these things.
+[3520.86 --> 3526.54] Um, I, you know, ostensibly, I don't see when I, when I look at the, at the structure of
+[3526.54 --> 3532.00] these, uh, of, of, of today, you know, language models and so on, I don't see the explicit,
+[3532.00 --> 3536.36] um, kinds of processes that I, that I think are important for agency.
+[3536.70 --> 3540.70] But I've also learned that just because we don't see them and we don't know how to look
+[3540.70 --> 3541.58] for them, that they're not there.
+[3541.58 --> 3543.36] So I think we should be, we should be very careful.
+[3543.48 --> 3545.30] I don't think there are anything like human minds.
+[3545.42 --> 3546.72] I think that's very unlikely.
+[3546.94 --> 3551.08] I think that, you know, for the first time we've, so, so it used to be that if you see
+[3551.08 --> 3556.12] something that speaks, you put, you're pretty sure that it's like you in, in a lot of ways.
+[3556.26 --> 3560.10] So I think we've now, we've now, you know, got, we've dissociated those two things and
+[3560.10 --> 3563.92] we now have things that talk and put up a really good, you know, a really good performance
+[3563.92 --> 3565.44] in, in, in having a conversation.
+[3565.80 --> 3571.56] I don't think they're like us at all, but I think we need to be really careful about
+[3571.56 --> 3576.74] what we, you know, what, what we're sure of that they do and don't do, because our intuitions
+[3576.74 --> 3582.38] fail at such a low, at such a simple minimal level that extra, you know, I've met all sorts
+[3582.38 --> 3585.40] of people who say, well, you know, language models don't have this and that.
+[3585.40 --> 3586.52] I know I built them.
+[3586.74 --> 3587.82] Like I, I, I write the code.
+[3587.92 --> 3591.06] I know they don't have, and I'm like, well, you don't even know what bubble sort does.
+[3591.20 --> 3593.28] I don't think we can say what, what this thing does.
+[3593.62 --> 3595.68] So we just, I just think we have to be careful.
+[3595.90 --> 3596.10] Yeah.
+[3596.14 --> 3596.52] It's weird.
+[3596.52 --> 3599.48] You say they're not like us, but they, they kind of are like us.
+[3599.66 --> 3604.30] And then there's the, the, um, the realization that when it becomes indistinguishable, you know,
+[3604.38 --> 3605.26] does it really matter?
+[3605.44 --> 3610.22] But I think it's instructive though, because in, in the, in the virtual world, there seems to
+[3610.22 --> 3611.42] be a couple of differences, right?
+[3611.50 --> 3615.38] So agency, of course, it's about, you know, having goals and intentionality.
+[3615.40 --> 3620.12] But it's also about causation and power and the ability to realize those goals, the ability
+[3620.12 --> 3622.46] to change the world, to meet your goals.
+[3622.64 --> 3628.74] And what would it mean to have a collective, agential AI running out there on, on the internet?
+[3629.12 --> 3633.56] You know, do you think it could actually, does it make sense to call it agency in the
+[3633.56 --> 3635.88] same way we do in the physical, biological world?
+[3636.04 --> 3641.86] Again, I, I am not, I don't have any evidence that today's architectures have what's necessary
+[3641.86 --> 3642.48] to do it.
+[3642.48 --> 3648.74] And, and, um, uh, so, so, but, but, but in, but in general, I think it absolutely makes
+[3648.74 --> 3654.28] sense because you could have a system that's doing the kinds of things that we're talking
+[3654.28 --> 3658.76] about in a, um, in a, in the, in a non-physical world.
+[3658.98 --> 3663.28] Now, having said that, I don't believe that our algorithmic, um, model.
+[3663.44 --> 3667.60] So, so having algorithms, having a Turing machine metaphor, I don't think any of that is sufficient
+[3667.60 --> 3668.18] for this.
+[3668.34 --> 3673.06] So this is not a computationalist argument, um, that says that, uh, you know, any, any
+[3673.06 --> 3675.78] kind of algorithm will automatically, can automatically do it.
+[3675.90 --> 3681.36] I, I don't think that's necessarily the case, but I neither think that you actually need the
+[3681.36 --> 3682.48] physical world for it.
+[3682.72 --> 3687.90] And by the way, these things, these things are embodied to an extent we are their body.
+[3688.02 --> 3691.94] I, I, I'm not even sure that, uh, that these kinds of things are truly disembodied in,
+[3691.94 --> 3693.50] in an important sense, we are their body.
+[3693.72 --> 3698.46] We move massive amounts of energy, you know, money, resources, whatever, based on the things
+[3698.46 --> 3699.64] these things do and don't say.
+[3699.82 --> 3703.58] And again, I don't have any evidence that, uh, today's language models have anything like
+[3703.58 --> 3709.94] a, um, a core goal-driven, uh, agential component, but I think it's completely possible.
+[3709.94 --> 3715.20] And I think we need to be very, um, very humble about, um, feeling certain about what they,
+[3715.28 --> 3716.86] what they do or don't, um, don't have.
+[3716.96 --> 3718.34] Just a quick, a quick point on that.
+[3718.34 --> 3722.76] There's this interesting kind of agency sharing between the physical and virtual worlds, right?
+[3722.86 --> 3728.02] So you can think of a meme on Twitter as having agency because it's expressed by physical actors
+[3728.02 --> 3729.56] in, in the real world.
+[3729.76 --> 3734.80] So in a sense, there's a transfer, but maybe purely in the virtual world, there could be
+[3734.80 --> 3735.80] no, no agency.
+[3736.42 --> 3741.68] Uh, well, look, it, it, you know, in an important sense that you and I are living in a virtual
+[3741.68 --> 3745.64] world, we, we don't have access to, and I'm not talking about a simulation, you know,
+[3745.72 --> 3747.26] with an alien zoo or something like that.
+[3747.26 --> 3753.14] I'm just, I'm just pointing out that, you know, you and I are conducting, uh, our behavior
+[3753.14 --> 3760.06] under extremely limited, um, uh, transduction from an outside reality that we don't really
+[3760.06 --> 3761.08] have any access to.
+[3761.22 --> 3764.44] Uh, you know, there's a, there's a, there's a big hole in our, you know, in our, in our
+[3764.44 --> 3765.68] visual field that we don't see.
+[3765.78 --> 3768.98] There's a million other things that are very different to how we perceive them.
+[3769.14 --> 3771.80] There are massive amounts of information that are inaccessible to us.
+[3771.80 --> 3778.12] Um, everything that you and I do are, is, is within a construction that we have pulled
+[3778.12 --> 3782.04] together ourselves as our, the best story of an outside world that we can tell.
+[3782.44 --> 3787.42] And, you know, yes, the physics of it are cool and they give rise to all kinds of morphological
+[3787.42 --> 3791.18] computations, but there are properties like that in other virtual spaces.
+[3791.18 --> 3797.26] And I don't think we should be, you know, uh, uh, uh, too, too tied to this, this, this,
+[3797.60 --> 3799.78] what we see here as some kind of privileged reality.
+[3799.92 --> 3801.60] That is the only way that agency can be done.
+[3802.00 --> 3803.06] Professor Levin, it's been an honor.
+[3803.18 --> 3804.48] Thank you so much for joining us today.
+[3804.90 --> 3805.50] Thank you so much.
+[3805.64 --> 3805.72] Yeah.
+[3805.82 --> 3806.18] I had a good time.
+[3806.32 --> 3806.50] Thank you.
+[3806.76 --> 3806.90] Yeah.

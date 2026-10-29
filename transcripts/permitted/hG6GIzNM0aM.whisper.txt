@@ -1,0 +1,996 @@
+[0.00 --> 4.74] We have a world exclusive today. By the time this airs, it will have just been announced that
+[4.74 --> 9.62] two of your papers with you, Michael Levin, have been published with your co-authors,
+[9.78 --> 16.38] which are here, Gizem Gomeskaya and Angela Tung. So Michael, I'd like you to explain what these
+[16.38 --> 21.96] papers are. And then Gizem and Angela, I'd like you to explain respectively the significance of
+[21.96 --> 29.10] those papers. So Michael, please. Yeah, sure. Yeah, it's really interesting to me that these
+[29.10 --> 33.54] are all coming out at the same time because there's a kind of a fundamental similarity
+[33.54 --> 40.80] here. One, so Gizem's has to do with something we call anthrobots, which are these, it's a new
+[40.80 --> 49.74] biorobotics platform. They're made of human cells and they're kind of a self-motile construct that
+[49.74 --> 55.92] has all kinds of possibilities for medicine. And we're telling us about evolution and development
+[55.92 --> 61.88] and so on. And so Gizem, we'll talk about that. Angela's paper is about the ability of embryos
+[61.88 --> 67.14] to communicate with each other and to help each other resist various teratogenic influences. So
+[67.14 --> 72.14] things that would normally cause developmental defects, it turns out that in a group, embryos
+[72.14 --> 79.96] are able to work together to better overcome those kinds of influences. And so what these things have
+[79.96 --> 86.34] in common is really our attempts to understand where biological information comes from. Because
+[86.34 --> 94.02] in the one case, so in the anthrobot case, we have this coherent construct that is using a completely
+[94.02 --> 100.66] wild type human genome to make a form and function that are not the typical things you see in the normal
+[100.66 --> 106.72] human target morphology. In the case of Angela's paper, what you see is that the robustness of development
+[106.72 --> 113.12] is not just the property of a single embryo with its own genome, but actually a group phenomenon
+[113.12 --> 118.98] where a number of, in fact, the larger the group, the better, large collections of embryos are able
+[118.98 --> 124.34] to together solve the problem of morphogenesis better than individuals or small groups. And so in both
+[124.34 --> 131.14] cases, it's this really interesting dynamic of where biological control information comes from.
+[132.08 --> 136.48] All right, great. Gizem, if you don't mind, please, what is the significance of that?
+[138.20 --> 144.24] Sure. So like at a high level, what is really exciting about this work, I think, is this paradigm
+[144.24 --> 149.86] shift in our thinking about biology and nature. We tend to think about nature as this thing sitting
+[149.86 --> 156.26] outside waiting to be investigated by scientists and written books about. But in reality, what I came
+[156.26 --> 163.30] to realize as a designer sort of eight years ago, that nature can actually be a design medium through
+[163.30 --> 169.36] this new field called synthetic biology, which recognizes that biological structures have embodied
+[169.36 --> 175.74] computational frameworks that determine their architecture and their function. So I became really
+[175.74 --> 183.86] interested personally in trying to get new architectures to build themselves with sort of
+[183.86 --> 190.38] composed of biological tissues. And why biology? Because biology has a lot of properties that the
+[190.38 --> 199.16] sort of traditional sort of construction methods don't. Well, properties like carbon negativity,
+[199.16 --> 205.32] it can take carbon from the environment in building itself. This idea of self-construction,
+[205.76 --> 212.42] you know, starting from a single seed and becoming a fully fleshed structure. Healing, ability to
+[212.42 --> 220.38] take information from the environment, process that and give a output. Regeneration. So a lot of
+[220.38 --> 227.40] different properties that we don't see in human designed and built frameworks. So specifically for
+[227.40 --> 235.30] anthrobots, why it's really exciting. So traditionally, what's been done in the field of synthetic morphogenesis,
+[235.30 --> 243.22] which is this idea of creating new biological structures, is to try to edit the DNA, the genetic
+[243.22 --> 252.02] code, to create new patterns with cells. But that is currently has been really limited in the type of
+[252.02 --> 260.20] complexity and the scale that the structures can be generated. So anthrobots is looking into biology and
+[260.20 --> 267.78] the morphogenetic code as a sort of more layered enterprise. So it's not only genetics, but also
+[267.78 --> 274.64] epigenetics, which, you know, consists of bioelectricity, as we'll discuss in the episode, as well as
+[275.36 --> 284.78] other sort of like methylation type of changes in the genome. So with anthrobots, we wanted to leverage
+[284.78 --> 291.90] that. Like, can we start with one structure that is known to build something in the body, in this case,
+[292.16 --> 300.54] human trachea? But then can we, by giving it environmental inputs, can we get it to create a
+[300.54 --> 305.14] completely novel structure without touching the genome? So we still don't know what epigenetic
+[305.14 --> 310.88] factors and of which there are a lot of different possibilities that exactly give rise to the anthrobot.
+[310.88 --> 318.00] So the process is something we're investigating. But what we've seen is that we were able to get
+[318.00 --> 327.80] these cells to create a new architecture that we had designed a priori. So yeah, like in summary,
+[327.96 --> 334.36] they are the first sort of fully cellular living, self-constructing biological robots,
+[334.36 --> 343.32] and they build themselves from single cells. And they don't have sort of electrical wiring or
+[343.32 --> 351.02] mechanical parts as a traditional sort of robot would have. But they are still sort of programmed
+[351.02 --> 356.84] anatomies. In that sense, we call them biobots. That's where the sort of robotics aspect is coming
+[356.84 --> 364.04] from. And also, like the bots we know of, they can do useful work. So we show that they are able to
+[364.04 --> 372.72] traverse wounded human neuronal tissues and induce repair in those wounds in the course of like three
+[372.72 --> 380.00] days. So in a nutshell, that's the aspiration and the summary.
+[380.76 --> 386.08] Okay. Yeah. I mean, that's actually, that's a really important point. Because when we made the
+[386.08 --> 391.74] xenobots, some people thought that this might be some sort of result that's specific to amphibians. I mean,
+[391.74 --> 396.18] we know amphibians are kind of plastic with this embryonic tissues or tend to be plastic. And so
+[396.18 --> 401.52] there's this temptation to think of this as a kind of a very specialized result, you know,
+[401.62 --> 408.00] due to the embryonic activities of frog tissue. And so we wanted to get as far away from that as
+[408.00 --> 416.40] possible. And so here we have full adult human cells doing the same type of, you know, the same type of
+[416.40 --> 421.88] thing. All right, Angela, your work on embryos assisting one another. Can you please explain
+[421.88 --> 428.52] why is that consequential? Yeah. So I think the significance of this work is that it's taking a
+[428.52 --> 434.76] step in addressing this knowledge gap that exists within the field with respect to these instructive
+[434.76 --> 440.96] lateral interactions that can be used to correct any developmental defects that are at a level that
+[440.96 --> 447.06] occurs above just the cells, tissues, DNA or organs. So we're looking at whole organisms and how they
+[447.06 --> 451.98] can interact with each other and aid each other. And all of this, I guess, is important because
+[451.98 --> 458.68] we're able to if we're able to understand and harness these instructive cues, then we can use cells and
+[458.68 --> 465.16] tell them what to build and when to stop building and use them to fix defects and disease. So there's
+[465.16 --> 470.84] kind of this application for medicine potentially in the future. Yeah. And you said that when you had
+[470.84 --> 476.58] first brought it up to Michael, you thought it was crazy and you weren't sure what he was going to say
+[476.58 --> 483.80] about it. So why is it so ludicrous? I guess in the field like of biology, everyone studies the
+[483.80 --> 489.34] genome. So the idea that our genome is going to predict what we're going to look like in our future.
+[489.46 --> 493.94] So our genome leads to our phenotype. And that's kind of the underlying, one of the underlying
+[493.94 --> 500.70] principles of biology. My work is kind of looking at, okay, well, what about things outside of the
+[500.70 --> 506.68] genome and kind of contradicting that a little bit because it's looking at now our genomes are
+[506.68 --> 511.70] not being changed, but we're able to change all these other things without affecting the genome in
+[511.70 --> 516.78] any way. So I thought that this is crazy. Like I'm not doing anything to the genome, but all of these
+[516.78 --> 521.40] different defects are forming. And the only thing that's different is the number of embryos in a cohort.
+[521.40 --> 524.56] Um, so I think to me, that was very shocking.
+[525.24 --> 530.40] Uh-huh. Okay. So Gazem, I would like you to explain this simply. Suppose we were to isolate
+[530.40 --> 536.02] a cell from a human lung and we put it in a Petri dish. Okay. Does this cell exhibit the
+[536.02 --> 540.50] characteristics that are consistent with an anthrobot? Now I imagine not. So what modifications
+[540.50 --> 545.70] are necessary for this cell to attain the anthrobotic status?
+[546.34 --> 552.70] Sure. So our starting question was, how do we get to this target morphology, which is this
+[552.70 --> 559.08] multicellular spheroid with cilia on the surface? And where that target morphology comes from is the
+[559.08 --> 566.70] xenobats, except that we wanted to change how we get there. So we talked about self-construction.
+[566.70 --> 571.92] We wanted a single cell to give rise to that target architecture. And then we also talked about
+[571.92 --> 579.74] necessity to use human cells as well as the necessity to use adult cells. So our starting
+[579.74 --> 585.54] material for that reason could have been a progenitor cell from any one of the ciliated
+[585.54 --> 601.54] epithelial tissues in the body. So not just the airway, you also have the ciliated epithelia in the
+[601.54 --> 607.34] research that's out there. There's a lot of sort of material available for lung research due to cancer
+[607.34 --> 614.40] and other diseases. So for that reason, our starting material was the human airway epithelium
+[614.40 --> 621.22] progenitor cells. So these cells are already committed to becoming any one of the cell types
+[621.22 --> 627.60] in the human airway. So they could be secretory cells or ciliated cells. And what was already known
+[627.60 --> 635.14] in the literature is that if you culture these cells in a rich matrix, extracellular material rich
+[635.14 --> 642.88] matrix, they will form the spheroid. And a single cell will give rise to that spheroid.
+[643.04 --> 650.56] The problem was that in that configuration, the cilia would be looking inside to the lumen.
+[650.56 --> 658.76] Because the goal of those types of culture methods, which touches to the field of organoids,
+[658.90 --> 663.94] is to recapitulate the native tissue architecture. So when you look at the human lung to trachea,
+[664.08 --> 670.12] you have cilia inside and you have these sort of basal cells outside. So the protocol that was
+[670.12 --> 675.90] already developed in the literature was mimicking that. But for us, for our purposes, to get the cilia
+[675.90 --> 682.02] to look outside so they can be motile like the xenobats, we had to come up with a way to get
+[682.02 --> 687.26] them to flip inside out. So that's what we've accomplished. And we've tried a lot of different
+[687.26 --> 695.00] approaches for this. And what ended up working for us was to sort of trick those ciliated cells that
+[695.00 --> 702.90] develop and look inside to migrate outward. So how we've accomplished that was by two things,
+[702.90 --> 708.78] by changing the growth phase. So these spheroids are again embedded in a matrix and that's what's
+[708.78 --> 716.78] making the cilia to look inside. So if we remove that matrix and instead supply a low phase liquid
+[716.78 --> 724.46] based environment, that would make the ciliated cells to sort of undergo eversion. And then the
+[724.46 --> 730.06] second thing we did was to sort of bombard them with something called retinoic acid, which is known
+[730.06 --> 737.86] to play a critical role in ciliogenesis, as well as other developmental pathways. So basically by
+[737.86 --> 742.78] tricking these airway organoids to flip inside out, we got them to form the target architecture.
+[743.48 --> 747.64] So human cells are already known for being plastic in a certain manner?
+[748.90 --> 753.62] Human lung cells, and that's lung cells in general or human lung cells in particular?
+[755.92 --> 763.10] So all tissues, like cells that have the progenitor status, are known to be plastic
+[763.10 --> 769.24] into a degree. I mean, the plasticity drops as you move in. Mike and Angela can also speak to this.
+[770.68 --> 776.64] What's known is that it drops from the embryonic state to the sort of adult and elderly state,
+[776.64 --> 784.72] but it's never sort of a binary thing. It is for some organisms, but for humans, it's not a binary
+[784.72 --> 789.36] thing because there are a lot of protocols out there that use the progenitor cells, which are
+[789.36 --> 800.16] sort of semi-stem-like and semi-committed cells that form different structures in vitro. It's just a
+[800.16 --> 807.78] question of how do you get it to form the structure of interest for you. And the method that's used in
+[807.78 --> 814.82] the literature a lot is to use genetic circuits to do this, to get that cell to execute certain
+[814.82 --> 820.24] morphogenetic functions. But using that method, getting to something as complex as a ciliated
+[820.24 --> 826.50] spheroid would not be possible. And that's why we wanted to play into the native plasticity of these
+[826.50 --> 833.44] cells. Now, before we get to Angela, Michael, I would like you to talk about the correlation
+[833.44 --> 842.76] between the structure and the motility. Yeah. So when you look at any kind of animal,
+[843.50 --> 849.30] you always wonder what the relationship is between the structure and the function. In other words,
+[849.68 --> 854.96] typically in a standard kind of creature that our model system that we study, there's a long history
+[854.96 --> 861.18] of evolutionary selection that makes sure that the structure that it has is actually perfectly
+[861.18 --> 866.02] suited for the functionality that you want it to have. And so this means moving around in the
+[866.02 --> 870.84] three-dimensional world, but also physiological kinds of actions and so on. And so in this case,
+[871.00 --> 875.60] what we're dealing with here is something super interesting. It's a creature that, although it has
+[875.60 --> 881.22] a perfectly standard human genome, is not something that's ever been specifically under selection before
+[881.22 --> 886.90] to be a good anthrobot. There's never been any anthrobots. And so what we're looking at is a new
+[888.18 --> 892.98] functionality, right? A new set of behaviors and a new structure that underlies it. But we didn't know
+[892.98 --> 898.86] ahead of time what that relationship was going to be. And so Gazem and the team did this really amazing
+[898.86 --> 903.88] job characterizing two things. First of all, characterizing all the different shapes that they
+[903.88 --> 909.02] come in, that these anthrobots come in. And there are a few discrete forms. And so they're actually,
+[909.02 --> 914.66] we call them morphotypes because they're actually discrete types of shape that you have in terms
+[914.66 --> 919.84] of the distribution of the cilia and what the overall shape is and so on. And then we characterize
+[919.84 --> 925.76] the behaviors and they have a variety of different paths that they can take through the medium.
+[926.12 --> 932.94] And that looks very much like there's a notion in behavior science of an ethogram, which is basically
+[932.94 --> 938.38] just a diagram of the different behaviors that an animal can do and which of those behaviors can
+[938.90 --> 943.36] statistically likely to follow which other behaviors. So for some sort of fish, you'll do
+[943.36 --> 948.14] like there's this particular kind of mating behavior that does. And so if it darts a certain way, then
+[948.14 --> 952.42] next it'll do something else. And that's a 50% chance of doing something else. So you can start to
+[952.42 --> 958.04] build up this diagram. And so what we did was to study these anthroots as if they were a new kind
+[958.04 --> 962.10] of creature, because in an important sense, they were. We didn't know what all the behaviors were going
+[962.10 --> 966.02] to be. And we didn't know what the relationship with the, what the shape was going to be. And so
+[967.30 --> 973.32] they, because I'm worked out how the different shapes produce the different motions and really
+[973.32 --> 978.62] what, what the behaviors are and how they, how they tend to follow each other, you know, one after the
+[978.62 --> 984.76] other. And, and I, I really think that this is also just the beginning because you know, this is the
+[984.76 --> 989.68] first paper on anthrobrots. This is a very basic characterization. We need to do all kinds of
+[989.68 --> 993.82] interesting things now to see how they react to their environment, how they interact with each
+[993.82 --> 997.46] other, how they perceive certain cues. There's a million things that you would want to do like with
+[997.46 --> 1002.26] any new, you know, any new model system. Were you surprised that they split into these distinct
+[1002.26 --> 1010.62] forms? Uh, yeah, I mean, pretty much everything here was, was an interesting surprise. Um, it, it, it,
+[1010.64 --> 1016.82] it really, uh, it, we, we, it, there were many possibilities. So, so one possibility is that they would
+[1016.82 --> 1021.34] have no behavior at all. And other possibility would be that they would only have one type of
+[1021.34 --> 1026.38] behavior. Another possibility would be that there would be multiple behaviors, but any given bot could
+[1026.38 --> 1031.78] only do one of those behaviors. So you really don't know what to expect. And, uh, the fact that
+[1031.78 --> 1037.20] these behaviors are discrete that you can, you can characterize, and this is, uh, you know, unbiased
+[1037.20 --> 1042.02] statistical analysis showed us that there were in fact classes of, uh, classes of behavior. Um, the fact
+[1042.02 --> 1047.74] that they fall into these classes is super interesting. Um, and, uh, yeah, and, and I just, uh, I look
+[1047.74 --> 1051.86] forward to discovering what other, what other classes of behavior there are, and then really
+[1051.86 --> 1058.44] fleshing out the, the ethology of, of, uh, this new form to understand why it changes behaviors, uh, when
+[1058.44 --> 1063.58] it does. Great. Angela, there's a term in your paper called cross embryo morphogenetic
+[1063.58 --> 1069.82] assistance. So it's this mouthful, which is abbreviated to SEMA. So did you coin SEMA? And what is it?
+[1069.82 --> 1078.08] What does it mean? Yeah. So Mike and I wanted something that was catchy, um, and very obvious.
+[1078.24 --> 1083.70] So the long form of it, what you just said is kind of very obvious. It's how embryos can communicate
+[1083.70 --> 1089.56] with each other and assist each other. Um, and then just to make it not so much of a hand, a mouthful,
+[1089.70 --> 1096.74] we decided that we would just call it SEMA for short. Um, and then the whole phenomenon is this idea
+[1096.74 --> 1103.26] that these larger groups are able to help each other out. So if you're like being stressed out
+[1103.26 --> 1108.32] by the tratogen by yourself, you're not really sure how you're supposed to handle it. And so you're,
+[1108.32 --> 1113.68] um, you're unable to handle it versus when you're in larger groups of, let's say like a hundred,
+[1113.98 --> 1119.48] um, you have others around you that may be able to handle the stressor and can give you these little,
+[1119.48 --> 1125.14] um, little packets of information, like, Hey, this is how I handled it. And now you too can survive
+[1125.14 --> 1132.80] the stressor. So what we see is that as we increase our, um, cohort size, we see an increase in
+[1132.80 --> 1138.52] survival depending on the tratogen that we're using, but also as our group size increase,
+[1138.62 --> 1145.42] we also see a decrease in the types of certain types of defects that we know. Um, so this is both
+[1145.42 --> 1149.80] increasing survival and decreasing the, um, the frequency of defects.
+[1150.60 --> 1158.04] Okay. So I'd like to attempt to explain this extremely elementary. So people have embryos.
+[1158.18 --> 1164.32] So embryos are like the seeded babies, single cell babies or extremely small babies. Okay.
+[1164.48 --> 1167.48] When you have just one of them and you give it something called a teratogen,
+[1167.86 --> 1174.92] which is something that disrupts the development of one of these little guys. So they grow up abnormal.
+[1175.62 --> 1181.28] It turns out that when you have multiple embryos next to one another, that if you give it a
+[1181.28 --> 1188.94] teratogen, it's more resilient to these perturbations, it's more stable. So it's as if
+[1188.94 --> 1194.74] they're communicating somehow, these embryos are communicating and saying, Hey, don't mess up
+[1194.74 --> 1199.28] your arm like this. Here's how to make a correct arm. Is that approximately correct?
+[1200.10 --> 1205.94] Yeah. That's, um, I think the, how we're envisioning this happening, kind of someone
+[1205.94 --> 1210.80] able to take the stressor in and figure out, you know, this is how I'm supposed to develop
+[1210.80 --> 1215.50] normally correctly. And then they're able to pass along this kind of these instructive
+[1215.50 --> 1220.46] cues to surrounding neighbors so that their surrounding neighbors can survive, um, whatever
+[1220.46 --> 1222.00] stressor that's put on them as well.
+[1222.48 --> 1226.56] Michael, there's this concept called group wisdom. Is this some variation of that?
+[1226.56 --> 1231.30] Yeah. Yeah. Yeah. You know, we, we know, um, this, there's this phenomenon called wisdom
+[1231.30 --> 1236.28] of the crowds and it's, uh, there used to be this old, um, thing where they'd be in certain
+[1236.28 --> 1240.28] in stores, it'd be this giant jar of jelly beans, right? And, and people will try to guess
+[1240.28 --> 1245.20] how many jelly beans. And so the result there is that every individual person is quite off
+[1245.20 --> 1250.60] and nobody has any idea how many jelly beans are there. But if you, uh, just average all the
+[1250.60 --> 1255.08] guesses, it turns out that the crowd is, is spot on. And so, so this, this phenomenon
+[1255.08 --> 1260.24] has been known for a long time. And our, our initial hypothesis was that something like
+[1260.24 --> 1264.78] that was happening, that basically, uh, that basically every embryo was contributing some
+[1264.78 --> 1271.10] amount of information and, uh, together they were able to have a much more steady, uh, view
+[1271.10 --> 1275.18] of what a correct, uh, embryo was supposed to be. And remember these are frog embryos. So
+[1275.18 --> 1278.70] these start out as frog eggs and, you know, they, these little, um, they're about a millimeter,
+[1278.92 --> 1282.94] a millimeter in, in diameter. And there's, there's many of them in a, in a Petri developing
+[1282.94 --> 1287.26] in a Petri dish. So originally that's, that's the thought we had, but, but then, um, Angela
+[1287.26 --> 1291.60] found a very interesting piece of data, which suggests that the real story is, uh, more,
+[1291.68 --> 1296.90] more complex and more interesting, which is that if you were to, uh, if you were to compose
+[1296.90 --> 1303.04] a group of some embryos that were exposed to teratogens and some embryos that were never
+[1303.04 --> 1307.84] exposed, the simple model would suggest that it would actually work quite well because the
+[1307.84 --> 1311.36] animals that were never exposed to the teratogens, well, they have a very good idea of how to
+[1311.36 --> 1314.76] make their, their body and their organs. And they should, they should do a great job of
+[1314.76 --> 1319.52] informing the others of, uh, of, of any information that they might be missing. Right. And in terms
+[1319.52 --> 1325.06] of that teratogen, but it turns out that actually, um, that doesn't work. You need the, the optimal
+[1325.06 --> 1331.06] effect is when everybody was affected by the teratogen. And it's the, it's the, um, it's the
+[1331.06 --> 1336.24] result of, of, uh, having confronted this, uh, this influence and having overcome it. That
+[1336.24 --> 1340.42] is actually what's necessary. Everyone has to have seen it in order for the group to know
+[1340.42 --> 1344.86] what to do, which is, which is super interesting. And it means that it's, it's a much more active,
+[1344.86 --> 1349.26] uh, process. It isn't just that, uh, you know, I, I know what I know, and I'm just going to
+[1349.26 --> 1353.92] spread that information and everybody else can make use of it. No, it's actually, um, that most
+[1353.92 --> 1359.46] likely what's happening is that that information is being derived on the fly. As embryos are
+[1360.20 --> 1365.26] encountering these, uh, these external threats, they are deriving signals that are important for
+[1365.26 --> 1369.86] them to, um, uh, to reinforce the normal path that they take through this, this, uh, space
+[1369.86 --> 1373.52] of possible configurations. And they're sharing that information with each other.
+[1374.42 --> 1380.14] Now, Michael, is it less harmful because you're giving the same amount of teratogen to two embryos
+[1380.14 --> 1384.10] that you would to one, or are you titrating proportionately? So you'd give three X if there
+[1384.10 --> 1384.84] are three embryos.
+[1386.56 --> 1391.12] That's it. That's a, that's a great question. Now we, of course, we, we, uh, we titrated
+[1391.12 --> 1396.06] everything. This is, uh, we, we scale up the amount of teratogen based on how many embryos
+[1396.06 --> 1399.16] there are. So they're all, yeah, everybody's still getting the same amount of influence.
+[1399.78 --> 1405.10] So Angela, in the paper, there's the term interembryonic communication and interembryonic
+[1405.10 --> 1408.32] interaction. So what would be the difference between those two?
+[1409.28 --> 1417.08] Yeah. So I'm thinking interembryo communication is in our paper, we talk about like a potential
+[1417.08 --> 1421.98] molecule calcium and ATP that can be used as a communicator. So it's almost like a little
+[1421.98 --> 1429.44] message that's being sent between embryos. Um, interembryo communication, uh, interembryo
+[1429.44 --> 1434.06] interactions is when these embryos are able to grow together. So now if you have an N of
+[1434.06 --> 1438.78] one, you may still be sending out messages, but you have no other embryos to interact with
+[1438.78 --> 1443.66] versus in these larger groups, we have both the message and people to receive the message.
+[1444.28 --> 1451.40] You also mentioned that it doesn't rely on genetic homogeneity. So how much of a variation is
+[1451.40 --> 1459.52] tolerable? Yeah. So within an individual cohort, we have, um, I don't know, like they're, they're
+[1459.52 --> 1464.84] not all the same. They're not all homogeneous. Um, and none of that's not really important to us
+[1464.84 --> 1471.44] either. So there's a part of our paper in which we look at, um, embryos or embryos from two different
+[1471.44 --> 1477.54] lineages. So we have wild type and albino embryos. Um, so they have different phenotypes and different
+[1477.54 --> 1483.68] genomes. And what we see is when we treat them both with stressor, um, there's no difference
+[1483.68 --> 1488.80] between the two. Um, so that indicates that, you know, you don't need to have a same genome to be
+[1488.80 --> 1495.98] impacted the same way. Yeah. And can you explain what a wild type is? Because I know before reading
+[1495.98 --> 1501.36] this paper, I never encountered that term outside of Pokemon and in Pokemon wild type just means you
+[1501.36 --> 1506.00] find it in the wild. It doesn't belong to a trainer. So I'm like, okay, what does a wild type
+[1506.00 --> 1511.20] cell mean? That's basically it. I was going to say that's pretty spot on. Um, so wild type,
+[1511.30 --> 1516.52] genotype or wild type, anything really just means how this organism exists in nature. So it's
+[1516.52 --> 1519.90] unperturbed. There's no changes that we've done to it. No genetic modification.
+[1520.58 --> 1524.96] I see, but you could still have wild type. So it has to be some relative term because
+[1524.96 --> 1530.34] every cell is mutated. So it can't just be like a non-mutated cell. It has to be with respect to
+[1530.34 --> 1535.12] something like it's relevant in a scientific experiment. You can't just find some cells and
+[1535.12 --> 1539.08] say, these are wild type. You have to say, these are wild type relative to something else or no?
+[1540.16 --> 1545.22] Yeah. Well, yeah, yeah, no, that's, you're, you're correct. It's, it's the wild type of a given
+[1545.22 --> 1550.62] species just means that that is the standard genome that you will find out in nature. It has
+[1550.62 --> 1554.68] not been modified by the experiment. Okay. So it's, it's just a genetics, it's just a genetics
+[1554.68 --> 1559.26] term. It means, it means that it's not a mutant of some sort. It's just the natural. Now, now having
+[1559.26 --> 1563.04] said that, of course, you're absolutely right. Even within the natural population, you're obviously
+[1563.04 --> 1567.88] going to get variability. So it's not, and in fact, with these frogs, these are not an inbred
+[1567.88 --> 1572.40] population the way that you might have with, with certain model systems. These are, this is an
+[1572.40 --> 1576.64] outbred population. And so, of course, there are genetic differences even between individual
+[1576.64 --> 1581.24] frogs in our colony. But wild type just means that there's no, there's not been any specific
+[1581.80 --> 1585.06] mutation performed on them. Like in the lab by a scientist.
+[1586.02 --> 1590.72] Exactly. Great. Great. Gazem, how do you think different cell types would affect the formation
+[1590.72 --> 1595.76] and the behavior of the biobots? And I just noticed I used the word biobot. Okay. Not anthrobot,
+[1595.86 --> 1600.72] because that's in the titles, but then in the paper. So I also want to know, why did you all title
+[1600.72 --> 1605.12] it biobots, but then also coin the term anthrobot? But that's a separate question. So how do you
+[1605.12 --> 1608.58] think different cells would affect the formation of these anthrobots slash biobots?
+[1609.92 --> 1616.28] I mean, I guess like just kind of taking a step back and establishing the terminology there,
+[1616.98 --> 1624.02] biobot is not a term we've coined. It's something that has already been discussed in the literature.
+[1624.02 --> 1633.10] What that essentially refers to is programmable anatomy. I mean, that's sort of using biological
+[1633.10 --> 1638.88] cells, either completely biological, like in the case of anthrobots or xenobots, or some sort of a
+[1638.88 --> 1646.48] hybrid between biological and a mechanical or chemical scaffold carrying those cells and providing
+[1646.48 --> 1652.04] mechanical support. So there could be a lot of different types of biobots. And there have been,
+[1654.68 --> 1660.96] I guess the field really started flourishing around like 2013. But we have been trying to do
+[1662.04 --> 1668.70] is to create biobots that are fully cellular. And the first example of that is xenobots, right? So
+[1668.70 --> 1680.06] in creating xenobots, no external gel or mechanical or electrical substance was used. So anthrobots are
+[1680.06 --> 1686.52] another example of that, again, fully biological. And the name is coming from the human origin.
+[1686.76 --> 1691.14] So biobots, the more general term, and an anthrobot and a xenobot are examples of them.
+[1691.54 --> 1691.78] Exactly.
+[1691.96 --> 1698.22] All fully cellular biobots, yes. And there could be more in the future that could be named differently.
+[1699.24 --> 1706.76] And so your original question was like, how different types of cells could create different
+[1706.76 --> 1712.24] types of biobots. So it all depends on what you're trying to accomplish. No one biobot is better or
+[1712.24 --> 1717.04] worse than the other one. It just depends on what your goals are. For xenobots, for example,
+[1717.44 --> 1723.98] like the goal was to create something that could, or rather, I should say, if your goal is to create
+[1723.98 --> 1731.82] something that could survive outside, like in the wild, xenobots is a better way to go than
+[1731.82 --> 1736.70] anthrobots. Because anthrobots are, because they're derived from human cells, they have
+[1736.70 --> 1744.00] sterility requirements. And they are better for, say, medicine. Whereas like anthrobots...
+[1744.00 --> 1746.14] I'm sorry to interrupt. They have what kind of requirement?
+[1746.14 --> 1754.58] So, sterility, which means that they cannot come across, they cannot interface with pathogens
+[1754.58 --> 1764.20] of any kind, bacteria or viruses or fungi. This is a general requirement for mammalian cell
+[1764.20 --> 1773.06] culture. When we do cell culture for any purpose, making biobots or investigating diseases, there
+[1773.06 --> 1779.52] are strict sterility requirements. We work inside these sort of hoods with laminar flow that push
+[1779.52 --> 1785.58] air out to prevent anything kind of coming and landing on the cells. So with these strict sterility
+[1785.58 --> 1792.04] requirements, for example, if you're trying to build something that will go into the rivers and try to
+[1792.04 --> 1798.02] detect the presence of a certain toxin and report back, you would not want to use a mammalian cell or
+[1798.02 --> 1803.56] an anthrobot. And like xenobot would be perfect for that. Or like another example, if you're trying
+[1803.56 --> 1809.62] to build something where you want to mass fabricate, then you would want to have a property like self
+[1809.62 --> 1815.96] construction, as I mentioned, because then you have, you know, each biobot building itself, which means
+[1815.96 --> 1820.96] you can build like thousands of them in parallel without having to, you know, do anything like
+[1820.96 --> 1826.18] otherwise you would have to individually sculpt thousands. So it all depends on what your goals are.
+[1826.18 --> 1834.80] And that also impacts the decision of what cell type to use. So yeah, I mean, it's a lot of
+[1834.80 --> 1839.80] different cell types could be used for a lot of different biobots. It all depends on what the
+[1839.80 --> 1848.40] design specifications are. We're just trying to bring the idea of design into biology, bring the two
+[1848.40 --> 1857.68] together and harnessing some of the properties that only biology has, such as like healing after damage
+[1857.68 --> 1864.42] or self replication or self construction, and bring that into this process of fabrication of new
+[1864.42 --> 1872.62] structures that does not exist with the traditional materials like bricks and concrete. And none of those
+[1872.62 --> 1879.24] things can like heal themselves or self replicate or self construct. So it's, it's a merge between the two fields
+[1879.24 --> 1887.68] that, that really, the idea is to empower the designer, the engineer to come up with their own design
+[1887.68 --> 1888.38] specifications.
+[1888.88 --> 1891.96] Yeah, could you please speak to the potential medical applications?
+[1893.80 --> 1902.30] Yeah, so again, one of our design specifications was that we want to use this in medicine. And like Angela was
+[1902.30 --> 1911.16] talking about, having them be vial type was really important for us. So we're not sort of inserting any
+[1911.16 --> 1919.44] foreign DNA that could, when in turn deployed in the human body, could have off target effects. So for that reason, it was
+[1919.44 --> 1927.54] important for us to keep the human DNA vial type. So we've tried from more than 20 different human donors, and in every
+[1927.54 --> 1935.48] single time, we're able to create an anthrobat. And that's across a lot of different ages, and, you know, genders and
+[1935.48 --> 1943.36] races. And we've seen that this works with a lot, you know, diverse, like human genomes. So what sort of more
+[1943.36 --> 1950.02] specifically in the medical field that we are hoping to accomplish is can we take a cell from a human
+[1950.02 --> 1955.30] donor? So currently, as we mentioned, we're taking these from the human airway epithelium. But down the
+[1955.30 --> 1963.60] line, you can envision taking a cell from a human patient's skin, and then turning it into a induced
+[1963.60 --> 1970.16] pluripotent stem cell, which in turn would basically revert the clock and have the ability to then be
+[1970.16 --> 1976.12] differentiated into all these different kinds of tissues in the human body, including the human lung. So in terms of
+[1976.12 --> 1980.70] application, that's what we're envisioning. That's not something we've shown in the paper, but that protocol has already been
+[1980.70 --> 1988.82] worked out in the literature. So starting with a human skin cell and then turning it into an anthrobat that is geared
+[1988.82 --> 1997.42] towards a specific application based on what that patient might need. And then when we put that into the body, it's it is a
+[1997.42 --> 2004.40] synthetic construct. It's something that doesn't, you know, there's no such thing as an anthrobat in the
+[2004.40 --> 2009.26] human body. It is a synthetic construct, it has a new architecture, but it has the exact same genome
+[2009.26 --> 2016.76] as that patient. So the body won't recognize it as a, or that's our current hypothesis, as a foreign
+[2016.76 --> 2019.98] object and won't like trigger immune system and inflammation.
+[2020.48 --> 2025.98] Yeah, I was going to ask about if you all have tested biocompatibility or immunogenicity, if you're
+[2025.98 --> 2027.94] already envisioning it for medical applications.
+[2029.80 --> 2037.84] Not yet. Our preliminary experiments have been with human cells, but in vitro only. So next step for us
+[2037.84 --> 2045.34] would be ex vivo tissues. So human cells extracted from humans. And then after that, it would be in vivo
+[2045.34 --> 2051.00] or proxies for in vivo experiments. So that would be step three.
+[2052.58 --> 2057.20] Yeah. But the, but you know, the, I mean, these cells are already coming from the, they've already
+[2057.20 --> 2063.92] been inside the patient. So, so while, while we haven't specifically tested the immunogenicity in
+[2063.92 --> 2068.56] vivo, the chances are very high that it's going to work. I mean, these are, these are, the idea is
+[2068.56 --> 2075.24] personalized medicine. That's a bespoke kind of construct that's made of each patient's own cells.
+[2075.24 --> 2081.24] So it's likely fine. And I just, I want to, I just want to underscore the amazing, the thing that
+[2081.24 --> 2085.38] just, just blows my mind every time I think about it, you know, that last figure in that, in that
+[2085.38 --> 2090.44] paper is basically showing just one initial thing that we found that, that these guys can do, which
+[2090.44 --> 2096.86] is to, to help neurons heal across a scratch wound in two-dimensional culture. Just, just to think
+[2096.86 --> 2101.48] about that, the tracheal cells that are sitting in your body and they sort of sit there quietly for
+[2101.48 --> 2106.14] decades doing their thing and, and, and using their cilia to waft the little particles and
+[2106.14 --> 2112.88] mucus and stuff up, you know, out of your lungs. The fact that if, if liberated from their environment
+[2112.88 --> 2118.60] and given a chance to kind of reboot their, their, their multicellularity, they now have the ability
+[2118.60 --> 2124.54] to go around and repair defects in other types of cells. Like we would have never known that. It's
+[2124.54 --> 2129.82] just amazing to me that, that, that they have that capacity. And it, and it makes me wonder what,
+[2129.82 --> 2134.22] what else, you know, what other cells are sitting around the, your, your body with capacities to,
+[2134.28 --> 2139.56] to heal other components and to have other beneficial, you know, pro-regenerative types of
+[2140.58 --> 2146.08] outcomes on different parts of the body. Like that, that idea of releasing the, the native healing
+[2146.08 --> 2150.88] potential of your own cells and letting them do new things that might be beneficial for the body.
+[2151.00 --> 2156.12] I think, I think is incredibly powerful. I think we're just seeing the first glimpses of that here.
+[2156.12 --> 2162.64] Mm-hmm. Can you talk about how this fits into the larger framework of your work? Because as I heard
+[2162.64 --> 2168.66] Gazem say, take a skin cell and turn it into a pluripotent cell. It reminds me of our previous
+[2168.66 --> 2177.94] conversations. Yeah. Yeah. There's a few, the, the, the kind of applications of these are, are in
+[2177.94 --> 2181.96] several different directions. On the one hand, we certainly want to use this for very specific
+[2181.96 --> 2189.00] practical purposes. So we think that once we gain a better understanding of their kind of native
+[2189.00 --> 2194.00] functions and, and a little bit better on the programming, and we will be able to address all
+[2194.00 --> 2198.76] sorts of very specific conditions and we can sort of run down some of the early ideas that, that,
+[2198.80 --> 2205.56] that we have. But there's a bigger picture here, which is using the, using this, this biorebotics
+[2205.56 --> 2212.26] platform as a kind of a simplified model system in which to crack the morphogenetic code.
+[2213.70 --> 2219.68] Think about all of the problems of biomedicine, including birth defects, traumatic injury, or,
+[2219.68 --> 2224.72] or thus failing to heal from traumatic injury, cancer, degenerative disease. All of these things
+[2224.72 --> 2230.20] have one thing in common, which is that they would go away if we had the ability to tell groups of
+[2230.20 --> 2236.00] cells what to build, right? That's, that's the major rate limiting step for regenerative medicine
+[2236.00 --> 2240.22] is that we do not understand how cellular collectives make decisions. We're pretty good
+[2240.22 --> 2245.20] on the hardware side for individual cells, right? So we know how cells differentiate. We know what the,
+[2245.20 --> 2250.14] what the various, lots of various genes do and how they interact with each other and so on.
+[2250.26 --> 2254.82] But, but this, this idea of how do collections of cells make decisions that they're going to make a
+[2254.82 --> 2259.74] hand versus a foot versus something else. And more importantly, how we communicate our
+[2259.74 --> 2263.82] patterning goals to them. That is, if you want to build a new organ or you want to repair an
+[2263.82 --> 2267.92] existing organ, or you want to make something that has never existed before, what information
+[2267.92 --> 2272.82] do you need to give to these cells and what interface can you use to get your, your, your
+[2272.82 --> 2278.76] goals across to the, to the cellular collective. And that I think is, is critically important for
+[2278.76 --> 2282.90] unlocking the promise of regenerative medicine. And so that's, that's what we're starting off here
+[2282.90 --> 2288.96] because you really have to under, before you can, you can use all these fancy programming
+[2288.96 --> 2292.46] techniques. And that includes not just the traditional symbiote that people are using,
+[2292.56 --> 2297.08] but also the stuff that we do in our lab, which is bioelectrical kinds of communication with
+[2297.08 --> 2302.24] networks and so on. You really need to understand what are the baseline plasticities and competencies
+[2302.24 --> 2307.04] of these cells? What do they already know how to do and why, why do they make decisions and to
+[2307.96 --> 2313.14] take specific paths through anatomical space and build specific kinds of anatomies and so on.
+[2313.14 --> 2317.84] And so I think that's what it, you know, in the greater scheme of our lab's work, which is
+[2317.84 --> 2323.20] to understand how to communicate with the collective intelligence of cells. This is a very important
+[2324.38 --> 2330.22] model system in which we can now ask, okay, what kinds of stimuli, what kinds of information can we
+[2330.22 --> 2334.80] be giving to these cells to get them to build various things? Much like with the Xenobots, you know,
+[2334.86 --> 2340.48] these first papers were all about characterizing their background kind of native competencies.
+[2340.48 --> 2345.16] We didn't engineer the heck out of them with new genes and all this stuff. We can, and we probably
+[2345.16 --> 2350.10] will in the future, but step one is to understand how do collections of cells make decisions about
+[2350.10 --> 2356.42] what they're going to do. Michael, can you also indicate again, these are two different papers here
+[2356.42 --> 2362.30] that have an overarching theme, but outline how are they distinct and how are they the same? So one has
+[2362.30 --> 2366.44] to do with anthrobots or biobots, and then the other has to do with this embryonic communication and
+[2366.44 --> 2372.86] the resilience. So please. Sure. Yeah. There are many common themes, but one important one is
+[2372.86 --> 2378.08] collective decision-making. So it's again, this idea of, so in the case of the anthrobots, it's a
+[2378.08 --> 2385.60] question of understanding how groups of normal cells with normal human genome derived molecular
+[2385.60 --> 2393.54] hardware are going to decide to work together to make a specific new coherent construct with new
+[2393.54 --> 2398.74] behaviors, new, new functionalities, and so on. In the case of Angela, this is a, and the, and the
+[2398.74 --> 2404.90] cross embryo morphogenetic assistance. It's the idea that standard developmental biology studies, how
+[2405.56 --> 2411.26] cells cooperate to make a nice embryo. Well, it turns out that there's a, this actually works on a higher
+[2411.26 --> 2418.00] level as well. So groups of embryos also work together to complete morphogenesis. And in both of these
+[2418.00 --> 2422.66] cases, what we want to understand is where is the information? What is the collective intelligence of
+[2422.66 --> 2426.26] these cells? What are they, what kind of problems are they able to solve? So in the case of the
+[2426.26 --> 2433.86] anthrobots, they're, they're able to, they find themselves in a new environment, in the new kind
+[2433.86 --> 2440.24] of a new scenario, and they're able to put together a very coherent form that is able to, to live for
+[2440.24 --> 2445.02] weeks and, and, and, and have certain functions and so on. In the case, in Angela's case, what you're
+[2445.02 --> 2450.02] seeing is again, a kind of collective problem solving, but this time at the level of whole animals. So not
+[2450.02 --> 2453.82] down at the cellular level, which is standard developmental biology, it's kind of a, you
+[2453.82 --> 2459.30] know, maybe this is the beginnings of a kind of a sort of hyper developmental biology or something
+[2459.30 --> 2464.06] where what you're really trying to work out is the rules by which whole bodies communicate
+[2464.06 --> 2471.22] to better achieve, better solve the problem of, of, of embryogenesis. Because one of the things
+[2471.22 --> 2477.24] that, well, many people have studied in our lab focuses on in particular is in biological
+[2477.24 --> 2481.12] intelligence in the sense of problem solving. That means when you're confronted with a new
+[2481.12 --> 2485.32] scenario that you haven't seen before, especially a new scenario that you haven't seen before,
+[2485.94 --> 2490.98] are you able to complete your goals in the, in case of development, are you able to make the
+[2490.98 --> 2494.96] target morphology that, that, that you want to make, you know, a correct embryo or some other
+[2494.96 --> 2499.24] functional thing in the case of, in the case of anthrobots. And so that's what, what, that's what
+[2499.24 --> 2503.98] we're seeing in both of these, in both of these projects, we're seeing new unexpected
+[2503.98 --> 2510.28] competencies at different levels, at the level of cells, and then at the level of organisms to do
+[2510.28 --> 2516.14] something helpful and coherent in novel circumstances. Angela, can you please talk to how
+[2516.14 --> 2523.44] this robustness increases with more embryos? So one embryo fails more often than if you have a
+[2523.44 --> 2532.20] collective and how you found that out? Yeah. Yeah. So whenever I do my treatment groups,
+[2532.20 --> 2537.26] so when I start stressing out these embryos, an N of one will almost never survive by itself.
+[2537.54 --> 2544.60] I probably did like 50 dishes of just one embryo each and never did I ever really have a survivor. So
+[2545.22 --> 2550.18] there was something about that, just the fact that it's getting the same amount of drug as my larger
+[2550.18 --> 2556.82] groups. So it's not like any individual embryo is getting more teratogen or stressor or whatever
+[2556.82 --> 2560.96] perturbation that I'm putting on it. It's just something about being by itself.
+[2560.96 --> 2565.70] Um, and then as we kind of scale away from there, so now I'm increasing my group sizes.
+[2566.06 --> 2570.92] If we're just looking at survival by itself, I see that survival starts increasing once you hit,
+[2571.04 --> 2576.34] like, I think something around a group of 50, then you'll see an increase in survival. And then as you
+[2576.34 --> 2581.20] go up to like a hundred, you get like 80% survival. And then once you hit like a group of 300, you get
+[2581.20 --> 2587.98] almost everyone surviving. So the whole premise of this was I had been given a teratogen and someone
+[2587.98 --> 2593.68] told me, Hey, this works in my hands. You want to try it out. And no matter what I did, I could not
+[2593.68 --> 2599.16] replicate that. And I could not figure out why, because I had this person telling me exactly what
+[2599.16 --> 2604.90] they did. And it came down to the number of embryos that she was using versus the number of embryos that
+[2604.90 --> 2609.70] I was using. And so to me, I was like, that's crazy that, you know, everything else was held
+[2609.70 --> 2614.94] constant. But the only thing that was different between the, our two experiments was just purely the
+[2614.94 --> 2622.08] number of embryos that we were using. So you stumbled upon this. Yeah. Interesting. Interesting.
+[2622.56 --> 2626.42] Yeah. And, and, and I just, you know, I want to, I want to emphasize a couple of things here,
+[2626.52 --> 2632.68] which again are really, really striking to me. One is that what this means and what Angela just
+[2632.68 --> 2637.32] pointed out is that a lot of people, when they report toxicity values for different drugs, right?
+[2637.38 --> 2641.54] So there are thousands and thousands of papers in the literature saying that here's this new,
+[2642.12 --> 2646.26] you know, potential toxin or a drug or something else that can end up in the environment.
+[2646.56 --> 2653.32] And there are these tests using frog and zebrafish embryos that attempt to quantify how disruptive it
+[2653.32 --> 2657.50] is to development, right? And they'll list a number and they'll say that, okay, you know, it's maybe
+[2657.50 --> 2663.92] causes defects in let's say 20% of the embryo or something like that. So what we now know, and a lot
+[2663.92 --> 2669.18] of people don't control for actually the number of embryos that you had in your cohort, they just do a
+[2669.18 --> 2674.86] percentage and call it a day. So what this is telling us is that many, many studies in the
+[2674.86 --> 2680.64] literature are not actually reporting the raw danger value for these chemicals. They're reporting
+[2680.64 --> 2686.64] the corrected value after the group has been able to resist it. Right. And so, so what, what you just
+[2686.64 --> 2693.14] heard was that if you do, if you do these things on, on single embryos, the actual teratogenicity is,
+[2693.14 --> 2698.20] is very high. You know, it's, it's, it's extremely potent, but you start to, you start to be
+[2698.20 --> 2702.80] blinded to that effect, the more embryos you put in, because what you're seeing is how dangerous
+[2702.80 --> 2707.96] it is after the embryos have had a good chance to correct for it. And so that's, that's really
+[2707.96 --> 2714.34] important that, that now, now we know that when we examine the potential of, of various interventions
+[2714.34 --> 2719.04] to cause developmental defects, we have to ask what's the, what's the raw effect size, right?
+[2719.08 --> 2724.50] What's the actual teratogenicity and then how well do the embryos do to correct for it? So that's kind
+[2724.50 --> 2729.16] of a very practical thing that, that, that we now know that I think is important. And the other thing
+[2729.16 --> 2736.00] that is really striking is that the standard story of developmental biology and where the information
+[2736.00 --> 2740.20] comes from for you to be able to build a normal embryo is basically supposedly just two things.
+[2740.34 --> 2745.02] It's, it's your actual genome, and then it's the maternal components that are in the egg. So
+[2745.02 --> 2749.24] basically your, your parental genome that are, you know, there's some stuff provided for you in the
+[2749.24 --> 2754.60] egg for the, for the zygote. And that's it. And the idea is that the genome has everything you need
+[2754.60 --> 2762.02] to complete development and development is rightly so described as a very robust process. Most of the
+[2762.02 --> 2766.12] time it goes correctly, despite its incredible complexity. And what we're seeing here is that
+[2766.12 --> 2773.06] that purely vertical view, the idea is that, that you could be one embryo sort of far away from anything
+[2773.06 --> 2777.80] else. You've got your own genome and that gives you everything you need to know. That story is clearly
+[2777.80 --> 2783.04] only partially true that yes, you've got, you've got the hardware that you need, but actually that,
+[2783.16 --> 2789.54] that hardware is not as robust as you think without other individuals around. So development in a sense
+[2789.54 --> 2797.06] is a group phenomenon. It's a, that, that traditional robustness level of development is, is actually a
+[2797.06 --> 2802.60] collective, it's a collective property. It's, it's, it doesn't work as well in a purely vertical sense
+[2802.60 --> 2805.70] being passed down from, from a genome to one, to one organism.
+[2806.34 --> 2809.98] And does that contradict the current thinking in developmental biology?
+[2813.00 --> 2818.14] Well, in the sense that this, this, this kind of effect has not been described before. I mean,
+[2818.32 --> 2824.88] people have seen things like alley effects and, and, and in terms of groups of animals surviving in
+[2824.88 --> 2829.24] some environment better than individuals. So, so that, that, that has been noted, but, but it wasn't
+[2829.24 --> 2836.20] known why that happens. And, and I do think that it, it contradicts the, the emphasis on purely
+[2836.20 --> 2841.42] vertical transmission and the idea that one embryo has everything it needs in its own genome. I mean,
+[2841.78 --> 2848.82] these are otherwise fairly conventional mechanisms that we're studying. For example, one of the, one of
+[2848.82 --> 2854.64] the other amazing things about that, about that paper is that they were able to, Angela and Megan
+[2854.64 --> 2860.94] were able to literally visualize waves of information passing across embryos. We have videos
+[2860.94 --> 2865.54] of where, where you can actually see. And, and in order to make it easier, what we did was
+[2866.50 --> 2871.90] exert a very specific event. So, so basically like a needle poke into one of the, one of the embryos.
+[2872.02 --> 2876.74] So that way, you know exactly when it starts. Right. And then you can actually see using this calcium
+[2877.24 --> 2882.98] indicator fluorescent dye, you can actually see this wave of information passing through from the point
+[2882.98 --> 2887.72] of injury through the animal and then to the next animal. And then to the next one, it's, you can just
+[2887.72 --> 2892.28] watch these signals propagate. It's just absolutely striking. Now, Angela, this wave of information,
+[2892.52 --> 2897.60] what is the mechanism? What is its physical component? Is it an electrical field? Is it just
+[2897.60 --> 2906.48] calcium ions being thrown? Is it something else? Yeah. So our current hypothesis for the mechanism
+[2906.48 --> 2913.32] behind all of this is that some sort of injury occurs. And then the embryo that's receiving this
+[2913.32 --> 2920.10] injury elicits a calcium response, this calcium response, then releases ATP into the media and
+[2920.10 --> 2925.60] then surrounding embryos are able to uptake this ATP and then elicit their own calcium response.
+[2925.90 --> 2932.42] So there's kind of a, an innate response to the trigger or the, the insult, and then a little
+[2932.42 --> 2937.86] message that gets sent on for anyone receiving it to kind of protect themselves against it.
+[2937.86 --> 2944.36] Yeah. This reminds me of trees, some trees in some forests, when one gets infected, it sends a signal
+[2944.36 --> 2950.00] through the roots and the others start producing antibodies before they even receive the, it wouldn't
+[2950.00 --> 2956.02] be a teratogen in that case, it would be some virus or whatever, maybe a fungus. So is this similar?
+[2956.30 --> 2962.60] Yeah, animals, animals, it is. And, and, and animals and plants both can signal to others when they're
+[2962.60 --> 2969.20] being preyed upon. So there are, there are examples like this where some predator is, is munching on a
+[2969.20 --> 2973.22] leaf or something. Then there are volatiles released where, where other, other plants in the, in the
+[2973.22 --> 2979.32] environment can feel it. One interesting thing about this though, is that we're dealing here with fairly
+[2979.32 --> 2984.62] complex processes. So it's not a binary yes or no, right? It's not a binary. Am I being attacked or
+[2984.62 --> 2992.50] aren't I? It's sort of well, normally I would build a head of a certain shape and size and, and now I'm
+[2992.50 --> 2997.86] unable to do that. And so passing information on how to build a tadpole head requires lots of
+[2997.86 --> 3002.74] information. And this is one of the big mysteries going forward is how do you encode all that
+[3002.74 --> 3010.60] information in a single, you know, a single signaling molecule that's passed, right? Because it's not just
+[3010.60 --> 3015.46] the yes or no, you have to actually, I think you, you have to actually encode considerable amount of
+[3015.46 --> 3020.00] information to, for the embryos to help each other. So whether that's happening through some sort of
+[3020.00 --> 3025.04] modulation of, of pulsing through the water, or, you know, it's gotta be something other than just
+[3025.04 --> 3029.04] simple, like here's your ATP concentration and that's it. It's a single number. You're not going to
+[3029.04 --> 3034.58] encode head morphogenetic data in one number. And, and the other thing, the other thing to mention is
+[3034.58 --> 3038.36] that these, you know, these projects are also going to come together because one of the, one of the
+[3038.36 --> 3044.42] things that I would really love to see is how this shapes out in the anthrobot case. So one of the
+[3044.42 --> 3049.08] things that we will be doing in the future is, is looking to see, do the anthrobots communicate with
+[3049.08 --> 3053.38] each other? Do they communicate with the other tissues that, that they find themselves in an
+[3053.38 --> 3058.74] environment with, you know, what's the, like how general is this? Because obviously it begins in,
+[3058.78 --> 3063.46] in the fraud model, but of course, as Angela said earlier, ultimately you might want to
+[3064.34 --> 3070.74] basically fake it for, for biomedical purposes. So whatever signal is allowing tissues and organs
+[3070.74 --> 3075.18] to form properly, you would, in this, in this high, in these, in these high density groups,
+[3075.34 --> 3079.90] you would want to be able to induce that on demand in the patient. And so the next step
+[3079.90 --> 3085.64] leads through biological tissues and especially anthrobots to see whether that kind of phenomenon
+[3085.64 --> 3088.84] is, is general and whether we can harness it for biomedicine.
+[3088.84 --> 3094.86] So what I see is if this wasn't a breakthrough enough, both of these papers, so one, the
+[3094.86 --> 3099.78] anthrobots, and then some of these anthrobots, I believe heal other cells or other tissue.
+[3100.20 --> 3101.66] Is that correct? Okay. Yeah.
+[3101.96 --> 3102.08] Yeah.
+[3102.46 --> 3108.66] And then number two, the interembryo communication or the SEMA effect that you have where different
+[3108.66 --> 3116.12] tiny babies can tell other tiny babies like, hey, protect yourself. And hey, let me help you with
+[3116.12 --> 3122.04] your morphogenesis. So not only that, but number three, there may be large discrepancies in the
+[3122.04 --> 3127.68] literature or misleading effects because you mentioned this word raw terogen, raw tero, sorry,
+[3127.90 --> 3129.72] raw. Can you repeat it for me, please?
+[3130.54 --> 3131.02] Teratogenicity.
+[3131.58 --> 3138.02] Yeah. I'm not a, I'm not a biologist. So raw teratogenicity, that someone may be throwing out
+[3138.02 --> 3143.62] some harmful chemicals to a single embryo and then someone else may be testing it on 10 embryos,
+[3143.62 --> 3148.82] but then I need to be clear here. When you're saying that there's some discrepancy in the
+[3148.82 --> 3153.32] literature, are you saying that they're reporting the raw amount? So let's say 10 milligrams of some
+[3153.32 --> 3157.96] teratogen, but they test that on 10 embryos. Do they then divide that by 10? Or are you saying
+[3157.96 --> 3161.24] that they don't do that because they don't even tell you the amount of embryos to begin with?
+[3162.56 --> 3168.44] Well, what I'm saying is that because no one had known before that the number of embryos actually
+[3168.44 --> 3175.20] determines how effective your teratogen is going to be. It means that when, when they report, I mean,
+[3175.46 --> 3178.76] they're, they're really other, other than testing it on different size cohorts, there's no way to
+[3178.76 --> 3183.88] know it. You can't simply divide it by the number of embryos. And so, um, when somebody says, uh, a
+[3183.88 --> 3189.04] certain, um, and, and, and by the way, uh, in, in Angela's work, this, this is important. It's not
+[3189.04 --> 3196.02] just about chemical teratogens. She also tested, um, RNA, so mutant proteins. And, and so, so this is,
+[3196.02 --> 3200.48] this is a much more general thing. This is not just about chemicals. And so anything me in,
+[3200.58 --> 3208.06] including potentially, uh, a wide range of genetic, um, mutations or, or, or drugs or others,
+[3208.30 --> 3212.34] other kinds of interventions, you know, it could be, who knows, maybe it works for radiation,
+[3212.34 --> 3217.30] maybe it works for temperature induced defects. We don't, we don't know, but the idea is that what
+[3217.30 --> 3223.40] you're seeing isn't the, the real effect. What you're seeing is the effect after it has been
+[3223.40 --> 3228.70] corrected by the group. And so we really need to be sensitive to that. We need to understand that,
+[3228.70 --> 3234.42] that depending on the size of the group, you may be, um, under reporting the actual disruptive power
+[3234.42 --> 3238.20] of this thing, because if the group had corrected it, there's a similar, there's actually a really
+[3238.20 --> 3243.50] interesting, similar phenomenon, which affects evolution, which is that, um, a lot of these, uh,
+[3244.28 --> 3249.56] model systems and, and, and animals have ways during embryogenesis of ways of repairing certain
+[3249.56 --> 3254.12] defects. So this is just as an example, and many people have published other examples, but in our,
+[3254.18 --> 3259.84] in our work from years ago, if you scramble the craniofacial organs of a tadpole, so, you know,
+[3259.88 --> 3263.24] the eyes on the side of the head, the jaws are off to the side, like everything's, everything's
+[3263.24 --> 3267.64] scrambled. They, they will actually find their way back to the right, um, locations, right? They,
+[3267.66 --> 3271.98] they have the ability to individual embryos have some ability to fix these things. And so what that
+[3271.98 --> 3277.48] means for evolution, just think about, um, if when, when selection gets hold of that embryo and,
+[3277.48 --> 3281.56] and everything is in the correct place and it's a beautiful embryo selection, doesn't actually know,
+[3281.56 --> 3286.30] was it beautiful because the genetics were amazing or was it beautiful because actually it started
+[3286.30 --> 3292.56] kind of a mess, but it's really good at fixing things. And so that, that, that problem is not
+[3292.56 --> 3297.28] just for human scientists. It's also for the evolutionary process itself that you're often
+[3297.28 --> 3302.48] not seeing the actual phenomenon. What you're seeing is what's left over after the competent
+[3303.04 --> 3308.92] material, which is, which is cells and tissues have had their say. And we have been talking about
+[3308.92 --> 3314.62] this for, for a long time in terms of individual cells, but now, um, in, in this work, you're seeing
+[3314.62 --> 3320.02] that it's also a property of groups of embryos, you know, this ability to, to mask defects and to,
+[3320.18 --> 3326.06] um, uh, and to really, uh, can kind of, uh, not let you see the full impact of, of what the disruption
+[3326.06 --> 3331.12] would have been. So what if someone says, okay, Angela, this is all nice and good, but how does
+[3331.12 --> 3336.86] this apply to our species where we have predominantly one embryo? So in other words,
+[3336.96 --> 3342.46] we're not all octomoms. So who cares? Let alone 50 omoms or a hundred omoms.
+[3343.82 --> 3350.78] Yeah. So I guess for humans, we look at this phenomenon and it can occur post like birth. So
+[3350.78 --> 3356.78] things like looking at how skin to skin to skin affects mother's newborns, right? Like that's
+[3356.78 --> 3361.78] a communication just in a different type of way, not no longer like this chemical strategy and
+[3361.78 --> 3366.18] embryo to embryo stuff, but there's still this communication interaction between mother and
+[3366.18 --> 3372.08] child. Um, also if we look at like other things such as, um, emotionally, right? Like humans talk
+[3372.08 --> 3378.12] to each other, we take care of each other. Um, talking is a type of communication. So we see that,
+[3378.64 --> 3384.46] um, in the case of humans, it might not be a particular molecule that's being passed along,
+[3384.68 --> 3391.38] but it could be different forms of this interaction, whether that is contact or, uh, word-based. Um,
+[3391.88 --> 3398.06] I think that the phenomenon still holds in people. And by the way, you can see in the, in, in, in the,
+[3398.12 --> 3403.22] uh, in the anthropot case, you can see a microcosm of that happening because these, these anthropots
+[3403.22 --> 3408.90] are actually helping to heal the neurons that, uh, the, the neural scratch that they come across.
+[3409.04 --> 3414.64] Right. And so, so again, it's this, it's this notion of, um, cross, um, I don't know you,
+[3414.82 --> 3419.70] they're not embryos, but the, but there's some, some sort of, you know, uh, organism to organism,
+[3419.70 --> 3424.74] uh, uh, that you're seeing, right? Like I have a feeling, I have a feeling it's a, it's a much more,
+[3424.92 --> 3431.18] um, kind of, uh, general, uh, and, and, and fundamental property, but obviously that that a lot of that
+[3431.18 --> 3435.96] remains to be discovered. Yeah. Well, something I was going to ask is what are the boundaries
+[3435.96 --> 3442.30] associated with this morphogenetic assistance? So you've established the cellular and what about
+[3442.30 --> 3449.06] organ level or tissue level or cytoskeletal, or what about us as people? Is there some analogous
+[3449.80 --> 3453.40] mechanism through which we as humans, as people, we're influencing one another right now?
+[3454.38 --> 3460.28] Yeah, quite, quite, quite possibly. And, um, you know, and there's even, uh, so, so, um, um, this,
+[3460.28 --> 3466.18] this, this business of, uh, having, having had to be, uh, exposed to the teratogen before you become
+[3466.18 --> 3470.76] helpful as part of the group, like maybe there's a human analogy to, you know, Mark Solms told me
+[3470.76 --> 3475.60] that, um, to be a good psychoanalyst, you have, you have to have been psychoanalyzed yourself,
+[3475.78 --> 3481.24] right. And gone through that process. Um, so maybe, yeah, maybe, maybe this is truly scale-free
+[3481.24 --> 3486.00] in the sense that you see it in cells and tissues and, and, uh, and, and all the way up, but,
+[3486.06 --> 3489.82] but of course, yeah, this remains. So, so we, um, with, with, uh, support from the
+[3489.82 --> 3493.46] Emerald Gate Foundation, we have a new, uh, we have a new project starting now where we're
+[3493.46 --> 3499.36] going to look at that and we're going to look at, um, what, what, what the limits are of this.
+[3499.54 --> 3503.12] And, uh, so, so that's, so, so in the, in the frogs and so on, we're going to look at,
+[3503.24 --> 3508.02] uh, what the, uh, kind of how, how, how general this, this phenomenon is. And then the same thing
+[3508.02 --> 3513.24] on the, on the, uh, on the Anthrobot side, uh, we're working with a company called Astonishing
+[3513.24 --> 3518.76] Labs, which again, is going to let us really, um, go, go wider and try to understand, okay,
+[3518.76 --> 3523.14] so they heal neural scratches. What else, what else can they heal and how much of that is innate and
+[3523.14 --> 3527.02] how much of that can we bring out and how much of it is programmable and how much of it is inducible
+[3527.02 --> 3533.90] and so on. Gazem, I have some notes here that I wrote down from going through your paper. I have
+[3533.90 --> 3538.52] it written down here as capable of navigating and promoting repair, at least in cultured human
+[3538.52 --> 3543.32] neural cell sheets. And they're formed without genetic editing, which seems to highlight the
+[3543.32 --> 3548.50] morphogenetic plasticity of wild type cells. Okay. So something I want to know is in science fiction,
+[3548.50 --> 3554.14] there's this trope where you swallow a pill and it has nanobots inside and these little
+[3554.14 --> 3559.88] robots operate and heal you. So the deleterious effects are vanquished, at least ameliorated.
+[3560.00 --> 3564.34] Maybe injuries are repaired because of the operations of these tiny machines. So do you see a future
+[3564.34 --> 3571.00] where your Anthrobots can serve this purpose? Or in other words, were these movies talking about
+[3571.00 --> 3573.58] your work, Gazem, and they just didn't know it?
+[3574.90 --> 3583.14] Um, yeah, I mean, I think that it's been kind of fantasized on a lot, um, for kind of harnessing
+[3583.14 --> 3592.32] what nature can do, um, in contexts that are not expected or unconventional. Um, so exploring human
+[3592.32 --> 3599.74] body, it's sort of as difficult as exploring the outer space and we have spacecraft and we're,
+[3599.74 --> 3608.12] you know, doing a lot of efforts on that front. But, um, I think that sort of brings, um, really
+[3608.12 --> 3613.80] triggers the science fiction community to think about how that kind of exploration can be extended
+[3613.80 --> 3620.38] into other unknown frontiers like the human body. Um, so yeah, I mean, we are really interested in,
+[3620.70 --> 3628.00] uh, seeing if the Anthrobots can be deployed in tissues that are otherwise, uh, inaccessible to direct
+[3628.00 --> 3636.86] operation or accessible, but invasive like surgery. Um, I, one of the things we are really trying to
+[3636.86 --> 3642.52] understand here, and we talked about the morphogenetic code is to, um, see if we can leverage
+[3642.52 --> 3651.94] this computational ability that's inherent in biology. So what that, and that comes in two layers,
+[3651.94 --> 3658.50] right? So the computational ability to build itself. So by taking environment from the environment,
+[3658.78 --> 3665.82] um, information from the environment and processing that to, um, to, to, to grow its body,
+[3665.82 --> 3673.08] as well as once its morphogenesis is complete or, um, adult sort of stable state, uh, to take
+[3673.08 --> 3678.96] information from the environment and process that and turn that into behavior. So, um, I guess in the
+[3678.96 --> 3685.96] context of navigating the body, it would be more the latter, a, um, evolved and, um, well, developed
+[3685.96 --> 3691.56] and, um, sort of, um, matured Anthrobot, can it go through different tissues and collect information
+[3691.56 --> 3698.10] or trigger, um, change? So that's, there are a lot of different sort of avenues there. One could,
+[3698.24 --> 3706.50] um, follow. We have so far only looked at the healing, um, in, in the context of neuronal damage,
+[3706.50 --> 3712.12] but yeah, very hoping to look at other things like, can they clear plague from the arteries,
+[3712.38 --> 3718.32] um, by again, when encountered with a, like a piece of plague, like adipose tissue, can it,
+[3718.32 --> 3724.86] um, detect that and then release some sort of a, uh, molecule that would help it bulldoze. So
+[3724.86 --> 3731.98] combining the ability to release molecules as well as its, uh, physical thrust. So like bulldozing
+[3731.98 --> 3736.74] while releasing some sort of a molecule that would melt the, melt out the adipose tissue,
+[3736.94 --> 3744.16] um, or can it, um, again, want to make it very clear that these are some things we're kind of
+[3744.16 --> 3750.30] aiming for and, uh, would require more research for us to demonstrate in the lab. We have not yet,
+[3750.46 --> 3753.78] but these are just pretending you're just keeping all the goods for yourself,
+[3754.90 --> 3759.00] pacing out the papers. Um, I'm going to tell the Emerald Gates Foundation.
+[3760.06 --> 3765.78] Since we're talking about sci-fi, uh, you know, we can elaborate on, I mean, I personally think
+[3765.78 --> 3773.48] that enthrobats or other synthetic, uh, living biological tissues can, if you can scale them up,
+[3773.62 --> 3781.58] could even be used for, um, like construction, like for actual inhabitable structures. So I actually
+[3781.58 --> 3787.70] have a background in architecture, um, and what really brought me into this field of, um, that's
+[3787.70 --> 3797.54] interesting. Yeah. I mean, I recognize that, um, in biology, there is this, um, ability to embody,
+[3797.74 --> 3804.78] you know, um, self-construct with, um, sort of this embodied morphogenetic code. And as Mike was
+[3804.78 --> 3810.52] talking about the, this comes in layers. We're often sort of conditioned maybe from, you know,
+[3810.52 --> 3816.98] middle school biology classes to think about DNA as the rule book for everything. But what we're
+[3816.98 --> 3822.96] discovering, um, is that yes, genetic code is important, but there are additional layers.
+[3823.22 --> 3830.12] Um, you know, there's epigenetics or bioelectricity that together make up this morphogenetic code.
+[3830.12 --> 3837.84] And how can we edit this code to steer, um, these, um, cells into completely new architectures that
+[3837.84 --> 3843.80] never existed before, whether to use it, um, either to use it in medicine in these ways that
+[3843.80 --> 3848.12] we're talking about, or again, since we were talking about sci-fi, I'm personally interested
+[3848.12 --> 3854.66] in scaling this up, um, into building like self-constructing bricks. And then, you know,
+[3854.72 --> 3861.00] by using those bricks can we build living architectures because, um, you know, yeah. I mean,
+[3861.00 --> 3867.36] when you look at, um, the, you know, global warming, like more than 40% of the CO2 released
+[3867.36 --> 3871.76] to the environment is coming from the construction industry, just trying to like build things.
+[3871.96 --> 3872.92] Yes. Yes. Yeah.
+[3873.38 --> 3879.66] And that's using the knowledge that we have developed as humans for thousands of years in
+[3879.66 --> 3883.86] the field of architecture, civil engineering. But at the same time, when you look at nature,
+[3883.86 --> 3890.96] it's also able to build, um, structures that scale like oak trees or, um, a lot of, you know,
+[3891.14 --> 3897.50] like you see a whale and a biology can build, you know, large things, um, without let alone
+[3897.50 --> 3901.82] releasing carbon, but by sucking carbon from the environment. So it's literally carbon negative,
+[3901.96 --> 3908.20] the exact opposite of what we are, um, doing as humans. Um, and now like in the, you know,
+[3908.50 --> 3913.44] 21st century, we're learning that that's actually also programmable. It's not set in stone.
+[3913.44 --> 3919.38] You're not limited to only what's evolved out there, but as a biologist, engineer, designer,
+[3919.38 --> 3925.48] you can actually edit nature and create new structures. So why not create structures that
+[3925.48 --> 3932.68] we can use to solve some of the other problems, um, like sustainable construction or even space
+[3932.68 --> 3939.24] exploration. I mean, right now it's real difficult to leave the planet, um, because of the gravitational
+[3939.24 --> 3945.32] pull. So the more weight you have, you know, aboard in your spacecraft, the more you're being pulled
+[3945.32 --> 3950.90] back, you'd have larger rockets to get you out, but then those rockets also, uh, pull you down even
+[3950.90 --> 3955.84] more because of their weight and so, you know, um, intricate balance. And are you really going to put
+[3955.84 --> 3963.16] in a bunch of like dead weight, like bricks, um, you know, um, or concrete, um, precursors to build
+[3963.16 --> 3969.72] in like outer space? Instead, instead, can you just take a tube of engineered cells that weigh
+[3969.72 --> 3975.78] nothing? And then once you leave the gravitational pull, you can just grow them up into new structures
+[3975.78 --> 3981.10] that you can use to, you know, build in, um, in outer space. So if you look at a lot to medicine,
+[3981.16 --> 3982.88] but I think there are applications in other fields too.
+[3983.26 --> 3988.90] Right. That's super cool. So Gazem, you don't know this, but my background's in math and physics,
+[3988.90 --> 3993.74] and I often wonder what would I do if I had to do it over and I had to choose something else? What
+[3993.74 --> 3999.06] would I choose? And I think it would be civil engineering. Well, I often say this because
+[3999.58 --> 4003.94] I look at houses and how they're constructed and it looks the same as it's looked for the past few
+[4003.94 --> 4009.24] decades and it takes just as long. And I always think, man, I wish that that could be done much
+[4009.24 --> 4013.88] quicker. I'm also a germaphobe. So in addition to being in mathematical physics, there's germaphobia
+[4013.88 --> 4018.58] and I'm a nerd. So Dragon Ball Z and Dragon Ball Z, I don't know if you know this show, but
+[4018.58 --> 4022.08] you have this little capsule you bring with you and then you throw it on the ground and it becomes
+[4022.08 --> 4025.44] a house or it becomes whatever. Yeah. So that's really the dream.
+[4026.06 --> 4031.36] Yes. I like this idea of building a robot from smaller pieces. Also because like I'm a germaphobe
+[4031.36 --> 4037.48] and I want robots to clean washrooms. I just feel horrible for janitors. I feel like, oh my gosh,
+[4038.34 --> 4042.42] how do they do that? And they should be paid so much more. I wish a robot could just go and do
+[4042.42 --> 4045.46] that. And then a robot would deconstruct because then you'd wonder how do you clean the robot?
+[4045.46 --> 4050.68] Yeah. Biodegrade. Yeah. So I hope that you could make some inroads there.
+[4052.28 --> 4057.62] Yeah. I mean, we have microphages that go down like chase bacteria and swallow it and degrade it.
+[4057.62 --> 4063.62] So we can maybe transfer the same principle to biobots. What's the lifespan or functional
+[4063.62 --> 4070.54] lifespan of the anthrobots that you've been studying? So yeah. So for them to build themselves,
+[4070.54 --> 4077.98] it's about two weeks. And then for this, so we, at the very beginning, talked about releasing them
+[4077.98 --> 4082.36] from the matrix and then having them sort of turn inside out that morphological reorganization that
+[4082.36 --> 4090.38] takes sort of another week or so. So three weeks is for their developmental phase, which we now work,
+[4090.60 --> 4096.68] we're working on a follow-up paper to characterize those stages more. But once it's a sort of adult bot
+[4096.68 --> 4106.56] that is able to move around, there is a variability there. We've seen them living from sort of month to
+[4106.56 --> 4116.48] multiple months. But what happens in every single case, if you're not giving them different drugs or
+[4116.48 --> 4122.74] anything in their vial type anthrobot case, what happens at the end of these multi-month period is
+[4122.74 --> 4130.34] every single time just degradation into individual cells and to debris. So they're able to naturally
+[4130.34 --> 4136.10] biodegrade, which sort of helps with the concerns around, well, if you put them into body, then what's
+[4136.10 --> 4141.14] going to happen? Will they ever like create clogs? What we have seen in the lab is every single time
+[4141.14 --> 4144.54] they degrade into individual cells. So then that's not going to be any different than the individual
+[4144.54 --> 4146.44] cells that your body disposes of.
+[4147.56 --> 4151.98] Now, I understand you didn't genetically modify these, but did you observe any other
+[4151.98 --> 4155.60] changes that were epigenetic or bioelectric?
+[4157.74 --> 4161.84] We haven't looked at their bioelectricity. As Mike said, that's definitely one of the next things
+[4161.84 --> 4168.66] to look at because there's so much there. And that concept was foreign to me until I came to Mike's lab.
+[4169.90 --> 4176.28] Until my PhD, I was doing a lot of actually genetic editing, synthetic circuits to change morphology,
+[4176.44 --> 4181.40] and it was here that I'm realizing that there are all these other layers, like the complete
+[4181.40 --> 4186.02] morphogenetic code. So no, that's not something we've done yet, but we would love to look at.
+[4187.98 --> 4194.28] But other epigenetic, so I mean, this whole thing that we talked at the beginning about character
+[4194.28 --> 4203.32] formation, right? So no two answer bots are identical, but we have these morphotypes and behavioral
+[4203.32 --> 4212.12] classes that also happen to influence each other. So figures 2, 3, 4 in the paper. I mean, that has got
+[4212.12 --> 4219.32] to be a result of some sort of epigenetic influence. Because again, every single anthropot starts with
+[4219.32 --> 4227.68] the exact same DNA, but they end up in different sort of morphological flavors. One is fully covered
+[4227.68 --> 4234.40] with cilia, one sort of morphotype. Another morphotype is fully polarized, so half of it is covered with
+[4234.40 --> 4240.10] cilia, the other half is bald. The third type is, again, cilia everywhere, but much more sparse,
+[4240.22 --> 4245.82] so like a checkerboard pattern. I mean, if all of these bots have started with the same DNA,
+[4245.82 --> 4252.02] what's causing this morphological variability? And that has got to be epigenetics.
+[4252.84 --> 4262.50] We don't yet know what those epigenetic knobs are. We have some supplementary data in the paper that
+[4263.72 --> 4271.54] discuss matrigel, the matrix viscosity as a potential factor, or their initial, you know,
+[4271.62 --> 4277.38] cell density. So that's sort of reminiscent of Angela's work. Like, based on how many cells we start with,
+[4277.38 --> 4284.72] the resulting answer about population profile is different. So those are the only two things we've
+[4284.72 --> 4289.82] looked at, and we have some significant differences. So those seem to be like maybe one of the first
+[4289.82 --> 4295.74] couple knobs, but we still have a long way to understand what are the knobs, and then what's
+[4295.74 --> 4301.06] the underlying sort of mechanism that's making those knobs to be the ones that are influential.
+[4301.58 --> 4308.04] Yeah. One thing that I just wanted to add on top of that is that the original meaning of the word
+[4308.04 --> 4313.30] epigenetics was basically everything that's not the genome, right? So that includes bioelectricity,
+[4313.50 --> 4317.38] that, right? So traditionally, that would include biophysical factors, biomechanical factors,
+[4318.08 --> 4324.32] ionic factors, and so on. So when we say, at least when I say epigenetic, I don't just mean the
+[4324.32 --> 4328.28] chromatin modifications that people focus on today, you know, the methylation, the cetylation,
+[4328.28 --> 4331.80] all that stuff, but actually all these other things. So we don't know. I mean, there could
+[4331.80 --> 4335.70] be, of course, there could be chromatin modification effects, but we're, you know,
+[4335.76 --> 4342.62] the next step is to look at the bioelectrics and probably biomechanics too, and other aspects of the
+[4342.62 --> 4343.50] physiology of it.
+[4343.68 --> 4349.36] So there was a term, Gazem, that was used, and Michael, I'd like you to explain it just for the
+[4349.36 --> 4354.70] audience to know. It was matrix, and the term escaping the matrix was used. And so because we're
+[4354.70 --> 4359.94] dealing with people thinking you've cracked the code, you need to explain what's meant by that,
+[4360.04 --> 4364.74] because people are going to think everyone here is 95 years old, and you just made yourselves look
+[4364.74 --> 4365.06] younger.
+[4365.32 --> 4371.34] That's right. It's the cosmic matrix. No, it's not the cosmic matrix. It's, yeah, so cells produce
+[4371.34 --> 4376.62] this stuff called extracellular matrix, and it's basically just a, it's a collection of important
+[4376.62 --> 4382.52] molecules that sit on the outside of cells and between cells. And they, it has all sorts of functions,
+[4382.52 --> 4387.68] including as a repository for information. So much like ants, we leave each other messages
+[4387.68 --> 4392.24] in their environment, right? And it's a thing called stigmergy when you can, when you use the
+[4392.24 --> 4398.58] environment as a scratch pad. So extracellular matrix in vivo is this kind of like rich set of
+[4398.58 --> 4404.00] molecules that are hanging out between and outside of cells that can also be used as information and
+[4404.00 --> 4410.18] influence. And so Gazem, she could tell you more about the specifics of it, but she's, she's using a
+[4410.18 --> 4414.38] specific matrix to support these cells in their journey to becoming an answer bot.
+[4415.38 --> 4419.94] Angela, what happened when you tried to block communication or were you unable to, because
+[4419.94 --> 4421.88] you didn't know what the communication was?
+[4422.84 --> 4427.80] Yeah. So based off of our hypothesis that communication was occurring through this
+[4427.80 --> 4434.30] calcium ATP signaling mechanism, we did try to use different inhibitors of calcium and ATP.
+[4434.30 --> 4441.06] And what we see is that when we inhibit either, or, um, the survival of our embryos actually
+[4441.06 --> 4446.90] decrease. So they basically become, um, singletons. So they act as if they're being raised by themselves.
+[4447.12 --> 4451.78] So for, by blocking those messages, these embryos now think, oh no, I have no neighbors,
+[4451.98 --> 4455.08] even though they are still in a group of 100 or 300.
+[4456.26 --> 4463.88] Uh-huh. And so it would go down to the level of what it would be if it was a single embryo.
+[4464.64 --> 4471.02] Mm-hmm. Um, so yeah, so what we saw was simply by blocking these communication, um, avenues that
+[4471.02 --> 4475.52] these embryos are no longer able to basically sense each other. Now they think that they're
+[4475.52 --> 4479.12] just being raised by themselves, um, despite that not being the case.
+[4479.62 --> 4483.74] Are you able to test it also without the teratogens, but with the communication blockers?
+[4484.42 --> 4489.78] Yes. Yeah. Yeah. So we did, um, just regular, um, media in which we grow up our embryos and just
+[4489.78 --> 4494.20] added the, uh, the inhibitor to see, okay, does the inhibitor have some sort of effect?
+[4494.30 --> 4499.58] And we see that, um, by itself, the inhibitor doesn't, but with a teratogen on top of, um,
+[4499.66 --> 4502.64] the inhibitor, then we see this communication basically going to zero.
+[4503.26 --> 4507.98] And so what were the controls that you used to establish that the group size was the factor,
+[4508.08 --> 4511.50] not some other environmental variable that is somehow correlated with the group size?
+[4512.54 --> 4518.50] Yeah. So there is a number of things that I tried to normalize. So we tried to scale up dish size.
+[4518.50 --> 4522.68] So whether the embryos have more space or not, that was a concern. So I just would
+[4522.68 --> 4529.32] increase group size or dish sizes as group sizes increase. Um, obviously the media and the teratogen.
+[4529.66 --> 4535.18] So how much, um, each embryo is being exposed to was a major concern because the first thought is,
+[4535.28 --> 4540.10] okay, well, if you have an N of one, the N of one is being hit with all the teratogen versus if you
+[4540.10 --> 4544.68] have an N of 300, now you have more individuals to help you break that up.
+[4545.16 --> 4550.12] And so to address that, I scaled up both the amount of media that each embryo is getting as
+[4550.12 --> 4556.00] well as the drug. Now, kind of like what you and Mike were saying, where one X, um, an embryo of
+[4556.00 --> 4560.74] one, we'll get a one X versus an embryo of three, we'll get three X of that. And so we try to
+[4560.74 --> 4565.82] normalize for as much as we can so that whatever we see is purely due to group size.
+[4566.26 --> 4570.82] But also the other important thing there is that in, in addition to these drug, um, you know,
+[4570.82 --> 4575.74] if, if it were just drugs, then you have to deal with a drug breakdown and all this stuff.
+[4575.90 --> 4580.58] So, so the other important set of data in that paper is doing the same thing, but with RNA
+[4580.58 --> 4585.08] injected directly into embryos. So there are no drugs. There's no issue of, of what happens to
+[4585.08 --> 4589.82] the drug in the medium is just every embryo gets, gets the same amount of RNA that normally would
+[4590.52 --> 4594.64] destabilize development in a, in a particular way. And, and the other, you know, the other thing to
+[4594.64 --> 4599.60] add here, which is important is that it's actually, it's actually doubly surprising because the
+[4599.60 --> 4604.88] standard, if you, if you were to ask somebody, okay, uh, I, I have, uh, whatever, 50 embryos
+[4604.88 --> 4608.60] in addition, what I'm going to do is instead put 300 embryos in the dish. What do you think
+[4608.60 --> 4612.42] is going to happen to their health? Typically the expectation would be, it should get worse
+[4612.42 --> 4617.26] because by, by having more embryos together, you have more opportunity for, uh, crowding
+[4617.26 --> 4622.92] effects for, uh, you know, uh, toxic by-products to accumulate for, you know, oxygen to be, um,
+[4623.32 --> 4627.46] pulled out of the medium and all that kind of stuff. So you would typically, you, you wouldn't
+[4627.46 --> 4631.84] just not expect this effect. You would actually expect it backwards. You would expect to do worse
+[4631.84 --> 4635.40] in a larger group. And this is that, that's why this is so remarkable. You know, this is,
+[4635.48 --> 4638.32] this is really just completely counter, counter expectation.
+[4639.90 --> 4645.76] So Angela, have you extended your study to see if any of the advantages observed in the early
+[4645.76 --> 4651.50] development with the SEMA effect have led to better or different outcomes as the embryos grow further?
+[4654.41 --> 4662.09] Yeah. So, I mean, we've taken our, um, embryos and we stress them out early, but then we follow
+[4662.09 --> 4667.59] their growth. So we follow their development until they hit basically, um, stage 45, which is as long
+[4667.59 --> 4674.07] as IACUC allows us to grow, um, to raise these embryos. And so by stage 45 is when I look at everyone
+[4674.07 --> 4679.55] and say, okay, do you have a defect or not? Um, and basically also do a rough count of, okay, how many
+[4679.55 --> 4685.79] of this group is still alive? Um, so we do follow their development kind of as long as we can, at
+[4685.79 --> 4691.71] least, um, from the, the one cell stage up until stage 45.
+[4692.95 --> 4698.43] And Gizem, um, what's the, uh, talk a little bit about the range of ages of the donors from which
+[4698.43 --> 4700.89] we get our anthrobots just since we're talking about age.
+[4700.89 --> 4711.49] Yeah. So we've, uh, we've, we have an age range from 21 to 76 years old humans, um, donating
+[4711.49 --> 4718.59] their sort of the lung tissue at the bifurcation point. And this, uh, these progenitor cells that
+[4718.59 --> 4726.17] sit at the base of the, uh, trachea, the, the tracheal epithelium looking directly to the
+[4726.17 --> 4732.07] matrix in the body, extracellular matrix in the body, um, those cells from all these different,
+[4732.07 --> 4741.23] um, patients were able to give rise to anthrobots. One thing to clarify here is like for a specific
+[4741.23 --> 4747.87] anthrobot population, we start with, um, in a, you know, single sort of dish, let's say, um,
+[4747.87 --> 4756.35] um, we start with, uh, 15,000 cells, um, and we only get actually like hundreds of bots. Um,
+[4756.83 --> 4761.95] and, and the dish is sort of a centimeter across. So it's a very, very tiny dish. Um,
+[4762.63 --> 4769.99] so not every single cell becomes an anthrobot, but every anthrobot, um, you know, based on what
+[4769.99 --> 4777.51] we're seeing is coming from a single cell. So in other words, from a human donor, it's not guaranteed
+[4777.51 --> 4782.29] that every single human lung progenitor cell will become an anthrobot, but enough, many of them,
+[4782.39 --> 4789.11] and this is due to the senescence, um, but enough, many of them become, um, that it's every single
+[4789.11 --> 4794.33] time we have a high throughput, um, method that give us a sizable population.
+[4795.49 --> 4802.13] Well, this is also fascinating and I'm very much looking forward to seeing the follow-up research,
+[4802.41 --> 4805.95] man oh man. The two papers will be linked in the description. They're also on screen.
+[4805.95 --> 4810.19] And by the way, if you're just listening to this, I recommend you watch it on YouTube because
+[4810.19 --> 4815.53] at any point when something is brought up, for instance, Michael, you referenced a result,
+[4815.67 --> 4821.05] a graph that's on screen at the same time. So what I want to know is what's next for you all,
+[4821.61 --> 4826.55] both personally, I understand that some of you are getting your PhD soon. So both personally,
+[4826.55 --> 4830.61] and then also as follow-up research with regard to what we were talking about today,
+[4831.05 --> 4835.01] Gazem, I'll start with you and then Angela, and then Michael, I want to know about what's next
+[4835.01 --> 4838.33] for you, especially the Mind Everywhere project. So Gazem, please.
+[4839.39 --> 4846.67] Sure. Um, I actually just defended my PhD a few weeks ago. Um, so I'm in the, thank you. I'm in
+[4846.67 --> 4853.03] a transition phase and, um, what's next is to trying to understand the capabilities of native
+[4853.03 --> 4860.49] capabilities of these anthrobots, as well as starting to, uh, engineer them for specific outcomes,
+[4860.49 --> 4869.55] um, based on sort of what target, um, morphological and functional sort of goals we may have. Um,
+[4870.05 --> 4876.09] so yeah, controlling to, uh, continuing to explore what can they do and what we can get them to do.
+[4876.47 --> 4880.97] How does it feel to be done your PhD or at least to almost be done completely?
+[4881.67 --> 4887.57] Thank you. It's so surreal. It's been, uh, more than five years that I've been working on this project.
+[4887.57 --> 4897.35] Um, and I've, it's been sort of the, because when I first started, I was, um, I, I really wanted to
+[4897.35 --> 4902.93] work with Mike because I knew that he was really interested in cracking the morphogenetic code and
+[4902.93 --> 4910.07] understanding, you know, like for me, understanding how the hell the, you know, the, this natural
+[4910.07 --> 4915.59] architectures build themselves, like how is it exactly happening? What are the control sort of
+[4915.59 --> 4922.19] parameters? Um, so that's why I was really, um, interested in conducting the research, PhD research
+[4922.19 --> 4930.29] in this lab and, um, learning about all these new sort of non-genetic approaches to, um, doing that
+[4930.29 --> 4940.35] was new for me. So, um, and I've just been really surprised by the level of, uh, change we were able to
+[4940.35 --> 4945.97] induce in these cells. I mean, this is really radical going from a single cell to something as
+[4945.97 --> 4953.13] complex as an anthrobat. Uh, so far, what I had done like in my master's was, uh, the more sort of
+[4953.13 --> 4958.59] genetic approach. Okay. If I put in this gene, this will happen that gene. So, so those were really
+[4958.59 --> 4963.95] small changes. Um, the trade-off is that you know exactly what you're putting in there. So you have a lot
+[4963.95 --> 4969.67] of control. So yeah, I just was not expecting that, um, we would really be able to accomplish
+[4969.67 --> 4976.45] something, uh, sort of as radical as this. So yeah, it's been, it's been great. Great, great.
+[4977.57 --> 4984.03] Angela, what's next for you? Yeah. So I will hopefully be following to them and graduating
+[4984.03 --> 4989.97] fairly soon. Um, now that this paper is done and it's out for the world to see, um, it's kind of been
+[4989.97 --> 4995.05] a long process. I started it in my rotation like six years ago and it survived a pandemic and
+[4995.05 --> 5001.87] everything. So it feels good to, to at least be close to the finish line. Um, and then, yeah, I
+[5001.87 --> 5008.17] hope to be able, so afterwards I'll, um, continue in Mike's lab for a little bit after just to wrap
+[5008.17 --> 5015.45] things up and hopefully continue to pursue this idea of looking at how genomics aren't really
+[5016.25 --> 5023.09] responsible for everything of an organism. Um, so yeah, we're, we're hopefully going to continue
+[5023.09 --> 5027.67] to look into this project, look at different avenues of communication, look at some of these
+[5027.67 --> 5031.93] things that we didn't really have time to look at with this first paper, but hopefully follow-up,
+[5032.07 --> 5038.01] um, experiments are going to be very exciting. And by the way, what surprised you most about this
+[5038.01 --> 5043.11] research like during it or from the reception? I understand that, Hey, it's being released today,
+[5043.11 --> 5049.71] so it wouldn't be reception from the public, but you get the idea. Yeah. So I think, um, for me,
+[5049.97 --> 5056.93] this whole idea of, um, how our genome doesn't encode for our anatomy, right? So if you think about
+[5056.93 --> 5061.07] a tadpole and a frog, they have the same genome, but their morphologies are completely different.
+[5061.39 --> 5068.39] And so kind of diving into this little hole of like looking into, okay, given that, you know,
+[5068.39 --> 5073.07] the whole field is focused on genomics and genetics, but what else is there that can
+[5073.07 --> 5078.07] contribute to our morphology? So what other instructive information can we receive or that
+[5078.07 --> 5082.33] we can give in order to form, um, to form properly?
+[5082.93 --> 5088.23] Angela, the frog that you used, it's a certain species called the Xenopus laevis. And for people
+[5088.23 --> 5092.83] who don't know, that was the embryos. The embryos we keep talking about are from that species. Now
+[5092.83 --> 5099.85] that's been a staple of Michael's work for at least a decade. Why, what separates this frog,
+[5100.51 --> 5105.59] this species from other frogs and other species? What useful properties does it have?
+[5106.21 --> 5111.79] Yeah. So I think Xenopus laevis is one of the reasons that we use it is because the genome is
+[5111.79 --> 5116.83] well-studied. So there's something called Zenbase, which has all the genomic, um, information. It has
+[5116.83 --> 5121.53] expression. It has a lot of staining that people are interested in. So having that database,
+[5121.53 --> 5130.05] I think is very useful. Um, also another perk of uniting, um, Xenobot or Xenopus is that, um,
+[5130.11 --> 5136.23] the embryos develop, um, outside of the, outside of the organism. And when you can, you can see it,
+[5136.33 --> 5140.33] the embryos are quite large. You can see them with the naked eye. And then with the help of a microscope,
+[5140.35 --> 5144.97] you can track them and you can watch them develop from a single cell to a two cell to a four cell stage.
+[5144.97 --> 5152.83] So it's, um, it's an ease almost, um, being able to just watch it and having a database to compare
+[5152.83 --> 5158.31] it to, I think makes it a very strong model organism. Um, and I mean, there's, there's going
+[5158.31 --> 5163.27] to be perks and cons to every organism. I think, I mean, obviously I have a preference for those
+[5163.27 --> 5170.11] Xenobots, but yeah. Angela, something else is that with the RNA sequencing, you uncovered that
+[5170.11 --> 5176.31] there were transcriptional changes associated with the SEMA effect. So were you able to identify
+[5176.31 --> 5181.19] any genes that responded differently in the small groups versus the large groups?
+[5182.35 --> 5189.27] Yeah. So in our paper, we do an RNA seek. So we look at the RNA of these embryos. Um,
+[5189.27 --> 5194.15] and essentially what I do is I have a large group of 300 embryos and a small group of 100 embryos.
+[5194.21 --> 5199.49] So we're comparing the group sizes of both treated and untreated individuals. For the purpose of the
+[5199.49 --> 5205.01] paper, we focus on, um, the two group sizes that are being treated. And we see is that there's a
+[5205.01 --> 5212.03] total of like 16 genes that are up and down regulated. Um, and there's specific, um, types
+[5212.03 --> 5216.89] of pathways that are being used in the small groups and specific types of pathways being used in the
+[5216.89 --> 5222.43] large groups. So it almost indicates that if you're in a large group, you're coping with the stress in
+[5222.43 --> 5227.49] one way versus when you're in a, uh, in the smaller group, you're coping with the stress in a different
+[5227.49 --> 5234.21] way. Uh-huh. And so transcriptional changes mean that the gene is then expressed differently or
+[5234.21 --> 5240.65] what, what does it mean? Yeah. So with RNA seek, we're looking at the, uh, how many copies of the
+[5240.65 --> 5246.57] gene there is essentially. So looking at the profile of the RNA, so what RNA is present and how much of
+[5246.57 --> 5253.65] it is present. Great. Michael, what's next for you? Yeah. Well, uh, you know, the first thing I want to
+[5253.65 --> 5258.73] say is just how, how incredibly proud I am of both of, of Gizem and Angela and, and the rest of the
+[5258.73 --> 5262.87] teams, because, uh, there were, there were lots of other people, collaborators, undergrads and other,
+[5263.09 --> 5268.59] other postdocs. And, um, but just like, uh, they've done such an amazing job pushing forward this
+[5268.59 --> 5274.11] project. And, uh, everybody needs to understand it is really hard, not only to it, like innovating in
+[5274.11 --> 5278.43] science is hard and getting something to work is hard. And, and, and both Angela and Gizem have been,
+[5278.43 --> 5283.41] uh, you know, faced all kinds of issues to get this stuff to work, but, but then just, just the
+[5283.41 --> 5288.61] idea of being a young person at that stage of the career and, um, having something that's so
+[5288.61 --> 5294.63] different and kind of counter expectation, it's a lot of pressure and it's a lot of, um, it's a lot
+[5294.63 --> 5298.03] of responsibility. And I just, you know, I think people should understand that. Like it's hard for
+[5298.03 --> 5301.89] anybody else listening to this, um, you know, who might be in that position or might be considering
+[5301.89 --> 5307.77] going into it. Um, I don't know what, what you all feel, but to me it's as hard and, and as, um,
+[5308.19 --> 5313.11] uh, as much pressure as it is, it's the most fun you can have, I think. So, you know, that's just,
+[5313.19 --> 5316.71] I just want you and want everybody to understand, like it's, it's, it's, um, yeah, it's not just,
+[5316.83 --> 5320.41] it's not just standard incremental science. Like this was like, they did an amazing thing.
+[5320.83 --> 5324.99] So, um, so that's, that's the first thing I wanted to just say that, uh, you know, um, super,
+[5325.11 --> 5331.61] super proud of, of, of you both. Um, yeah. Um, let's see, uh, next. Well, uh, obviously we're going to
+[5331.61 --> 5336.65] continue with some of the stuff that we talked about. So, so the use, uh, the practical uses of,
+[5336.75 --> 5343.37] of on the Anthrobots, the practical uses of them, uh, the ability to, um, try to, uh, understand how
+[5343.37 --> 5350.53] to program them towards new and controllable shapes and functions. And also because we, in my group,
+[5350.67 --> 5355.87] we're very interested in, uh, basal cognition in general and diverse intelligence more, more broadly,
+[5355.97 --> 5361.19] um, really understanding what are the properties of the, the proto-cognitive properties of this new
+[5361.19 --> 5364.85] model system. What, what do they know how to do? Do they, can they form memories? Can they learn
+[5364.85 --> 5369.65] from their environment? Can they, um, do they have preferences about different, uh, different
+[5370.39 --> 5374.91] lifestyles or different outcomes that, that can befall them and so on. And none of this is known.
+[5375.05 --> 5380.55] We've made no claims yet as to their level on the sort of, you know, the spectrum of, of cognition.
+[5380.55 --> 5385.13] We have no idea where they, where they fit, but the one thing I know for sure is that we, we don't
+[5385.13 --> 5389.17] guess we have to do experiments and find out. So, so we're going to find out. So that's,
+[5389.17 --> 5395.59] that's those are the anthrobot stuff. Um, um, um, on the, on the SEMA front, uh, clearly trying to,
+[5395.79 --> 5400.67] of course, uh, better understand how it works and how the information is encoded that goes between
+[5400.67 --> 5406.13] the, um, the, the, uh, embryos and really to make models of this as a collective intelligence.
+[5406.13 --> 5410.35] So we already know we've already, we've already made models that, and, and other people have to,
+[5410.45 --> 5415.79] that treat individual cells within the growing embryo as a collective intelligence. But it turns out
+[5415.79 --> 5419.75] there are multiple levels to this, maybe not surprising in the end that, um, that maybe the
+[5419.75 --> 5426.89] group is also has a, a, a, the ability to compute, um, the path through anatomical space. So, so really
+[5426.89 --> 5431.01] understanding this. And then on the biomedical side, learning to, um, induce it at will, because
+[5431.01 --> 5434.33] as you said, you know, in the human case where you, where you have a patient, not necessarily an
+[5434.33 --> 5439.47] embryo, but a better patient, um, they're not part of a 500, uh, you know, a connected 500
+[5439.47 --> 5444.23] individual cohort, but could we, could we fake it? Could we, you know, is there a way to, uh,
+[5444.23 --> 5448.29] is there a way to give that information that they would have had if they had been? So,
+[5448.35 --> 5453.23] so those are the kinds of things. And then again, to really understand how the, you know,
+[5453.31 --> 5457.61] we, we, we think individual cells are using bio, like the bioelectric networks as a cognitive
+[5457.61 --> 5462.93] medium. Um, what are, what are embryos using such that the group has the ability to solve
+[5462.93 --> 5468.47] certain problems? Is it, is it, uh, you know, a field of, um, of ATP and, and, and calcium and,
+[5468.55 --> 5471.19] and who knows what else, right? So these are all, these are all things that we're going
+[5471.19 --> 5473.87] to be, uh, that we're going to be tackling next. I think it's going to be very exciting.
+[5474.83 --> 5479.45] And the mind everywhere project. Yeah. I mean, this is both, both of these, uh, both of
+[5479.45 --> 5484.89] these projects are, are key, uh, elements of that. Uh, you know, this is, uh, uh, yeah,
+[5485.03 --> 5489.15] I'm, I'm working on that. So, so that tame paper, um, was sort of version 1.0. So I'm,
+[5489.15 --> 5492.81] I'm working on the next one. It's going to be a little while still, but, um, we've learned,
+[5492.93 --> 5498.61] we've learned a lot, uh, since, since that first one, the, we were getting, um, I think better,
+[5498.61 --> 5504.09] uh, better, uh, better, better conceptual foundations, better computer models of what
+[5504.09 --> 5508.11] it takes to scale cognition. You know, this, this idea of the cognitive glue, what is it
+[5508.11 --> 5514.61] that enables competent individuals like cells or even molecular networks to scale up into
+[5514.61 --> 5520.03] larger IQ individuals that solve problems in other spaces, bigger, bigger boundaries of
+[5520.03 --> 5523.79] the self and so on. So we had the, I mean, two, two, these two projects that are part of it.
+[5523.79 --> 5527.61] There are many other projects that contribute as well. So yeah, moving, moving along.
+[5528.23 --> 5533.23] Are you planning on writing a book, Michael, to introduce your studies to a lay audience?
+[5534.17 --> 5539.75] Yeah. So, so there's, so, so I'm, I'm committed to one book. So, so, um, O'Nay Pagan and I are
+[5539.75 --> 5546.15] writing a book on bioelectricity. We have a contract with Norton. It's due, um, towards the end of 24.
+[5546.51 --> 5550.87] So that's, that's something that's, that we're definitely doing. Um, so that's, that's a,
+[5550.87 --> 5556.37] basic book on, on bioelectricity and it's, um, kind of import for medicine and so on. Um, in my
+[5556.37 --> 5561.51] head, I sort of rattling around, have two other books, one that's on this basal cognition kind of
+[5561.89 --> 5567.49] topic that sort of talks about the, um, the scaling of intelligence from, from, uh, very minimal
+[5567.49 --> 5572.31] systems, um, all the way up. Um, and then maybe one after that, we'll see, we'll, we'll see for,
+[5572.39 --> 5576.53] first, I, you know, I, I can't even imagine finishing this, uh, this, this first one that I'm
+[5576.53 --> 5578.39] doing. So I need to, I need to get past that.
+[5578.39 --> 5580.33] Yeah. Thank you. Thank you all for coming.
+[5580.71 --> 5581.77] Thanks for having us.
+[5582.19 --> 5583.55] Yeah. Thank you for having us.
+[5583.69 --> 5586.39] Thank you so much. Yeah. Thanks. Thanks for having us. Yeah. Great discussion.
+[5586.49 --> 5590.13] Thanks for the great questions. I was surprised when you said you were not a biologist.
+[5591.19 --> 5595.47] I was sure you must have had like some sort of maybe at least like undergrad or master's
+[5595.47 --> 5597.81] training in biology because the questions were really good.
+[5598.47 --> 5600.17] Thank you. Thank you. Yeah. Spot on.
+[5600.91 --> 5606.25] The podcast is now concluded. Thank you for watching. If you haven't subscribed or clicked
+[5606.25 --> 5611.65] that like button, now would be a great time to do so as each subscribe and like helps YouTube
+[5611.65 --> 5616.21] push this content to more people. You should also know that there's a remarkably active discord
+[5616.21 --> 5621.35] and subreddit for theories of everything where people explicate toes, disagree respectfully
+[5621.35 --> 5627.43] about theories and build as a community, our own toes. Links to both are in the description.
+[5627.43 --> 5632.97] Also, I recently found out that external links count plenty toward the algorithm, which means
+[5632.97 --> 5637.19] that when you share on Twitter, on Facebook, on Reddit, et cetera, it shows YouTube that
+[5637.19 --> 5642.17] people are talking about this outside of YouTube, which in turn greatly aids the distribution
+[5642.17 --> 5647.03] on YouTube as well. Last but not least, you should know that this podcast is on iTunes.
+[5647.23 --> 5653.15] It's on Spotify. It's on every one of the audio platforms. Just type in theories of everything
+[5653.15 --> 5657.31] and you'll find it. Often I gain from rewatching lectures and podcasts, and I
+[5657.31 --> 5661.93] read that in the comments. Hey, toe listeners also gain from replaying. So how about instead
+[5661.93 --> 5668.07] re-listening on those platforms? iTunes, Spotify, Google Podcasts, whichever podcast catcher you
+[5668.07 --> 5673.83] use. If you'd like to support more conversations like this, then do consider visiting patreon.com
+[5673.83 --> 5679.19] slash Kurt Jai Mungle and donating with whatever you like. Again, it's support from the sponsors
+[5679.19 --> 5684.69] and you that allow me to work on toe full time. You get early access to ad free audio episodes
+[5684.69 --> 5688.77] there as well. For instance, this episode was released a few days earlier. Every dollar
+[5688.77 --> 5693.31] helps far more than you think. Either way, your viewership is generosity enough.
+[5693.31 --> 5693.37] You'll see you guys have plenty on poetry, which is like that just the Sanskrit god's
+[5693.37 --> 5693.45] Shepherd guy's feet is also in the last of the Commonwealth.
+[5693.79 --> 5693.91] If you can edit on the content and show it a fair saxophone, you'll see this piece surface

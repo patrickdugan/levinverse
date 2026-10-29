@@ -18,7 +18,7 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
     if permission_record.get("permission_confirmed") is not True or not permission_record.get("permission_basis"):
         raise PermissionError("A permission record with permission_confirmed=true and permission_basis is required.")
     try:
-        from faster_whisper import WhisperModel
+        from faster_whisper import BatchedInferencePipeline, WhisperModel
     except ImportError as exc:
         raise RuntimeError("Install the optional 'whisper' extra to enable local transcription.") from exc
 
@@ -30,9 +30,16 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
                     dll_handles.append(os.add_dll_directory(str(folder.resolve())))
                     os.environ["PATH"] = str(folder.resolve()) + os.pathsep + os.environ.get("PATH", "")
     name = model_name or os.getenv("LEVINVERSE_WHISPER_MODEL", "turbo")
+    batch_size = int(os.getenv("LEVINVERSE_WHISPER_BATCH_SIZE", "1"))
+    if not 1 <= batch_size <= 16:
+        raise ValueError("LEVINVERSE_WHISPER_BATCH_SIZE must be between 1 and 16")
     os.environ.setdefault("HF_HOME", str(root / ".cache/huggingface"))
     model = WhisperModel(name, device="cuda", compute_type="float16", download_root=str(root / ".cache/whisper"))
-    segments, info = model.transcribe(str(media_path), word_timestamps=True, vad_filter=True)
+    engine = BatchedInferencePipeline(model=model) if batch_size > 1 else model
+    options = {"word_timestamps": True, "vad_filter": True}
+    if batch_size > 1:
+        options["batch_size"] = batch_size
+    segments, info = engine.transcribe(str(media_path), **options)
     output_segments = []
     text_parts = []
     for segment in segments:
@@ -47,6 +54,8 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
             ],
         })
     output_dir = root / "transcripts/permitted"
+    if not any(part.strip() for part in text_parts):
+        raise ValueError("ASR produced no speech; no transcript stored")
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / f"{media_path.stem}.whisper.json"
     payload = {
@@ -56,6 +65,7 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
         "media_sha256": permission_record.get("media_sha256"),
         "audio_url": permission_record.get("audio_url"),
         "model": name, "device": "cuda", "compute_type": "float16",
+        "batch_size": batch_size,
         "runtime_versions": {package: __import__(package).__version__ for package in ("faster_whisper", "ctranslate2", "av")},
         "language": info.language, "duration_seconds": info.duration,
         "created_at": datetime.now(timezone.utc).isoformat(),

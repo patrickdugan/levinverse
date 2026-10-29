@@ -52,6 +52,8 @@ def generate_report(root: Path) -> str:
     candidates = read_jsonl(root / "catalog/discovery_candidates.jsonl")
     video_ids = {v["video_id"] for v in videos}
     publisher_pages = read_jsonl(root / "catalog/publisher-pages.jsonl")
+    audio_jobs = read_jsonl(root / "catalog/audio-queue.jsonl")
+    directory = read_jsonl(root / "catalog/podcast-directory.jsonl")
     status: dict[str, int] = {}
     role: dict[str, int] = {}
     for video in videos:
@@ -87,9 +89,12 @@ def generate_report(root: Path) -> str:
         "transcripts_stored_locally": len(text_files),
         "unique_transcript_texts": len(hashes),
         "stored_transcript_words": sum(len(t.split()) for t in texts),
-        "publisher_transcript_records_stored": sum(not r.get("model") and r.get("source_kind") not in {"local_whisper", "platform_caption"} for r in stored_registry),
-        "platform_caption_transcripts_stored": sum(r.get("source_kind") == "platform_caption" for r in stored_registry),
-        "local_whisper_transcripts_stored": sum(bool(r.get("model")) or r.get("source_kind") == "local_whisper" for r in stored_registry),
+        "word_count_definition": "Whitespace-delimited tokens in stored TXT, including source speaker labels and timestamps",
+        "publisher_transcript_records_stored": sum(not r.get("model") and r.get("source_kind") not in {"local_whisper", "platform_caption", "third_party_transcript"} for r in stored_registry),
+        "third_party_transcripts_stored": len({r["text_path"] for r in stored_registry if r.get("source_kind") == "third_party_transcript"}),
+        "platform_caption_transcripts_stored": len({r["text_path"] for r in stored_registry if r.get("source_kind") == "platform_caption"}),
+        "local_whisper_transcripts_stored": len({r["text_path"] for r in stored_registry if r.get("model") or r.get("source_kind") == "local_whisper"}),
+        "local_whisper_source_records": sum(bool(r.get("model")) or r.get("source_kind") == "local_whisper" for r in stored_registry),
         "stored_transcript_source_records": len(stored_registry),
         "publisher_duplicate_sources": sum(bool(r.get("duplicate_of")) for r in stored_registry),
         "video_ids_with_stored_transcripts": len(stored_video_ids),
@@ -100,6 +105,10 @@ def generate_report(root: Path) -> str:
         "unverified_additional_video_ids": len({c["video_id"] for c in candidates if c.get("video_id") not in video_ids}),
         "official_non_youtube_source_links": len(read_jsonl(root / "catalog/nonvideo-sources.jsonl")),
         "publisher_pages_scanned": len(publisher_pages),
+        "publisher_rss_episode_records": len(read_jsonl(root / "catalog/rss-episodes.jsonl")),
+        "podcast_directory_candidate_records": len(directory),
+        "podcast_directory_confirmed_subject_records": sum(r.get("status") == "subject_confirmed" for r in directory),
+        "public_audio_job_statuses": {status: sum(j.get("status") == status for j in audio_jobs) for status in sorted({j.get("status", "unknown") for j in audio_jobs})},
         "publisher_page_request_failures": sum(p.get("status") == "request_failed" for p in publisher_pages),
         "video_transcript_checks_failed": sum(e.get("status") == "failed" for e in panels.values()),
         "video_transcript_panels_saved": sum(e.get("status") == "saved" for e in panels.values()),
@@ -115,7 +124,9 @@ def generate_report(root: Path) -> str:
         "source_index_fetch_failures": source_failures,
         "caption_checks_blocked_by_missing_tools": blocked,
         "caption_storage_skipped_pending_rights_review": rights_skipped,
-        "persistent_worker_running": active_worker(root),
+        "local_batch_worker_running": active_worker(root),
+        "persistent_worker_running": False,
+        "scheduled_continuation_status": "not_configured",
     }
     (root / "reports").mkdir(parents=True, exist_ok=True)
     backlog = []

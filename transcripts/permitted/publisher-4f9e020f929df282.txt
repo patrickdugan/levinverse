@@ -72,7 +72,7 @@ What they did was to take planaria and put them in a solution of barium. Barium 
 
 That seemed very strange to us. How could that be? We did a very simple experiment, which was to compare the gene expression of barium-adapted heads with normal heads. We found that only a small number of genes are different. Out of the whole genome, tens of thousands of genes, they found exactly the right transcripts to up- and down-regulate in order to make up for this drastic environmental stressor.
 
-Here's the most amazing part: Here's the most amazing part: planaria never encounter barium in the wild. There is no evolutionary pressure to know what to do when you encounter barium. So what we're looking at here is an amazing ability to navigate the very large dimensional space of gene expression to find exactly the ones you need to solve your problem.
+Here's the most amazing part: planaria never encounter barium in the wild. There is no evolutionary pressure to know what to do when you encounter barium. So what we're looking at here is an amazing ability to navigate the very large dimensional space of gene expression to find exactly the ones you need to solve your problem.
 
 I often envision this as being stuck in a nuclear reactor control room with the things melting down. You have 20,000 different buttons. How do you know what to do if you've never seen the stressor before? The key is that you don't have time to simply start turning genes on and off to see what happens. Most of that would make things worse, not better.
 
@@ -82,7 +82,7 @@ Slide 12/52 · 14m:22s
 
 Now, this is transcriptional and there are many such examples that I could give you, but I want next to focus on morphogenetic space, problem-solving in anatomical morphospace.
 
-We start life like this: We start life like this: a collection of embryonic blastomeres, and then eventually, we get to something like this: a cross-section through a human torso. Look at the amazing order. Look at all the organs, the structures. Everything is in the right place, the right shape and size relative to each other.
+We start life like this: a collection of embryonic blastomeres, and then eventually, we get to something like this: a cross-section through a human torso. Look at the amazing order. Look at all the organs, the structures. Everything is in the right place, the right shape and size relative to each other.
 
 So you might ask, where is this pattern encoded? It's got to be somewhere. One is tempted to say DNA, but we can read genomes now. We know what's in the DNA. What's in the DNA is the descriptions of the micro-level hardware that every cell gets to have, the proteins. The genome doesn't say anything directly about what the layout here is, what kind of symmetry it has, whether it's regenerative, how many fingers. The DNA doesn't say anything like that any more than the DNA directly specifies the shape of termite colony nests or spider webs. These are all the results of a physiological software layer that sits between the genome and the anatomy.
 
@@ -212,7 +212,7 @@ Here are some examples of interesting things that you can get that way. I showed
 
 Notice a couple of critical things. First of all, these eyes have the same sort of internal components that normal eyes are supposed to have: lens, retina, optic nerve. But we didn't give them enough information to specify any of that complexity. All we did was specify a very informationally poor stimulus that didn't include all the details. This means it's a modular, almost subroutine call. It's a trigger. The cleverness isn't in what we put in. That's just a simple trigger. All the intelligence is in the rest of the tissue, which can see that simple signal and interpret that at the scale of organs. We're not telling individual cells that this stem cell should become a retinal cell. The information is an organ-level modular trigger.
 
-The second amazing thing is this. Look here: The second amazing thing is this. Look here: this is a lens, an ectopic lens sitting out in the tail of a tadpole somewhere. These blue cells, which are labeled with a beta-galactosidase lineage label, are the ones that we injected with the potassium channel. But there's not enough of them to make a proper lens. What do they do? They do exactly what another familiar kind of collective intelligence does, which is ants: they get their neighbors, they recruit their neighbors to participate. While there's not enough of these cells to build a proper lens, they take cells that are perfectly wild type that were never directly modified by us, and they recruit them into this project to build a lens of the right size and shape.
+The second amazing thing is this. Look here: this is a lens, an ectopic lens sitting out in the tail of a tadpole somewhere. These blue cells, which are labeled with a beta-galactosidase lineage label, are the ones that we injected with the potassium channel. But there's not enough of them to make a proper lens. What do they do? They do exactly what another familiar kind of collective intelligence does, which is ants: they get their neighbors, they recruit their neighbors to participate. While there's not enough of these cells to build a proper lens, they take cells that are perfectly wild type that were never directly modified by us, and they recruit them into this project to build a lens of the right size and shape.
 
 Not only the ability to specify organs at a high level, but the ability to take care of all the morphogenesis and, in fact, the recruitment, the scaling of agents to your task is done in an automatic way that we do not have to micromanage. This is great for engineering, for bioregenerative medicine. These things have all kinds of interesting capacities that we do not need to micromanage. We can take advantage of them.
 
@@ -338,7 +338,7 @@ Instead, here's what they do. They coalesce together into this little fragment, 
 
 Slide 46/52 · 54m:07s
 
-And what it does is this: And what it does is this: it becomes a xenobot. Xenopus laevis is the name of the frog, biobots, so we call them xenobots. They're using the little hairs that they normally have for pulling mucus down their bodies. They use them to swim. The ones on this side row to the left, the ones on this side row to the right, and this little patch of skin starts moving around. They can go in circles, they can go back and forth. We can track collective motion like this, where they interact with each other when they take various long journeys; we can make them into various shapes. Doug does all this. Under the directions of this AI program that Josh and Sam have written, he can make various shapes.
+And what it does is this: it becomes a xenobot. Xenopus laevis is the name of the frog, biobots, so we call them xenobots. They're using the little hairs that they normally have for pulling mucus down their bodies. They use them to swim. The ones on this side row to the left, the ones on this side row to the right, and this little patch of skin starts moving around. They can go in circles, they can go back and forth. We can track collective motion like this, where they interact with each other when they take various long journeys; we can make them into various shapes. Doug does all this. Under the directions of this AI program that Josh and Sam have written, he can make various shapes.
 
 Slide 47/52 · 54m:50s
 
@@ -358,7 +358,7 @@ Because of that, these little balls become xenobots. Overnight, they mature to b
 
 Slide 50/52 · 56m:45s
 
-Here's the most amazing piece of this: Here's the most amazing piece of this: what did the Xenopus laevis genome actually learn during evolution? You might think that it learned to make this. It learned through eons of shaping, through selection. It makes this developmental sequence, then it makes tadpoles.
+Here's the most amazing piece of this: what did the Xenopus laevis genome actually learn during evolution? You might think that it learned to make this. It learned through eons of shaping, through selection. It makes this developmental sequence, then it makes tadpoles.
 
 But actually, under this scenario, the skin cells have an invariant outcome. They have this boring two-dimensional life as the outer layer of the embryo. But that's not the only thing they know how to do. If you take away all of the other cells — we don't engineer by adding different transgenes or circuits; all we do is take away the other instructive influences that bully these cells into being this boring two-dimensional layer — you then find out that in the absence of that behavior shaping, this is what those cells actually know how to do, and this is what they do by default. This is what they want to do, which is to form a xenobot with its own bizarre developmental sequence. This is several weeks of development. What this is, nobody knows.
 

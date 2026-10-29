@@ -2,7 +2,7 @@
 
 For the full publisher crawl, channel candidate review, local CUDA audio fallback and continuation workflow, see [COLLECTION.md](COLLECTION.md). Actual counts and remaining video IDs are in `reports/coverage.json` and `catalog/backlog.jsonl`.
 
-An incremental, evidence-grounded catalog of Michael Levin's public spoken work. The first collection pass is a verified seed set from the Levin Lab's [Audio & Video Interviews archive](https://www.drmichaellevin.org/presentations/audiovideo.html). It is not an exhaustive inventory.
+An incremental, source-linked corpus of Michael Levin's public spoken work, collected from his [official appearance indexes](https://www.drmichaellevin.org/presentations/audiovideo.html), publisher transcripts, public podcast feeds and authorized local transcription. Full authorized transcript text is stored in this repository. Coverage remains incomplete; the generated report separates confirmed sources from unresolved candidates.
 
 ## Quick start
 
@@ -24,7 +24,7 @@ python -m levinverse discover --metadata
 python -m levinverse ingest --captions --store-captions
 ```
 
-Caption files are written under `transcripts/permitted/` and committed only when the source record is marked `caption_storage_authorized: true`. The pipeline records caption languages, unavailable status, rights skips, failures, retry times, and source links. It never downloads full audiovisual media. Respect source terms, rate limits, copyright, and privacy. Private/local transcripts should not be included unless redistribution is authorized.
+Caption files are written under `transcripts/permitted/` when storage is authorized. The pipeline records caption languages, availability, failures, retry times and source links. The separate audio worker downloads explicitly permitted public podcast audio into the ignored local media directory. Transcript redistribution authorization is recorded in configuration.
 
 For permitted local recordings, create a JSON permission record containing `permission_confirmed: true`, a `permission_basis`, and a `source_url`; put media under `media/permitted/`. Then install `python -m pip install -e ".[whisper]"` and run:
 
@@ -37,7 +37,7 @@ The optional `faster-whisper` worker uses CUDA FP16 by default, records word and
 ## Data
 
 - `catalog/videos.jsonl`: one upload per video, including source, role (original/mirror/excerpt/dub/unknown), transcript status, and retrieval provenance.
-- `catalog/appearances.jsonl`: one public event or appearance; multiple uploads may refer to one appearance.
+- `catalog/appearances.jsonl`: provisional appearance records; cross-upload event identity remains under review.
 - `catalog/provenance.jsonl`: append-only discovery and ingestion events.
 - `transcripts/metadata/`: rights and availability notes, not transcript text.
 - `reports/coverage.md`: generated coverage and backlog snapshot.
@@ -54,7 +54,7 @@ levinverse ingest [--captions] [--limit N] [--delay SECONDS]
 levinverse report
 ```
 
-Set `LEVINVERSE_USER_AGENT` to identify a responsible crawler. Network failures are recorded and retried with bounded exponential backoff on later runs. No background worker is configured or started.
+Set `LEVINVERSE_USER_AGENT` to identify the crawler. Network failures and provider cooldowns are recorded for later runs. Collection runs when invoked; the repository does not install a recurring worker. `reports/coverage.json` distinguishes a running local batch from scheduled continuation.
 
 ## Research policy
 

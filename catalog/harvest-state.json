@@ -1,4 +1,10 @@
 {
+  "http://cdnapi.kaltura.com/api_v3/service/caption_captionasset/action/serve/captionAssetId/1_9g73rylr": {
+    "bytes": 127622,
+    "checked_at": "2026-10-29T11:44:08.194448+00:00",
+    "sha256": "a9d0aada743973bf8b9e6fbfd6a5e1ef0e94641df5be52d2a9125b8fc74c980b",
+    "status": "fetched"
+  },
   "http://vimeo.com/65772782": {
     "bytes": 11361,
     "checked_at": "2026-10-29T10:06:52.427118+00:00",
@@ -29,6 +35,147 @@
     "sha256": "f6f711dc98235b07874cab6c088de78cfb83c8be6fe3dcf70e3e4918a0e20afa",
     "status": "fetched"
   },
+  "https://anchor.fm/s/100db9614/podcast/rss": {
+    "bytes": 309287,
+    "checked_at": "2026-10-29T11:29:12.475738+00:00",
+    "sha256": "8614943056597c37d7ad462d520f386f33ab8670429f74e4f316bbfa8e80bb6e",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/114dd2538/podcast/rss": {
+    "bytes": 1886651,
+    "checked_at": "2026-10-29T11:25:20.826519+00:00",
+    "sha256": "8ab8e9af81813081611e4033d863b1ac3c2a195f7cb9e8b7c6b5710f4cd97dad",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/1e4a0eac/podcast/rss": {
+    "bytes": 2133496,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.868013+00:00",
+    "sha256": "147421fc47bdf0b321f14f7e2875bbee7c7619488673120a8047920fc7f6ddba",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/2be66934/podcast/rss": {
+    "bytes": 3311875,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:58.301136+00:00",
+    "sha256": "f4ab1d088d054e9f8d086d52d4f66fda582fb426089eb4c006b239b391d51619",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/3fdede44/podcast/rss": {
+    "bytes": 2810729,
+    "checked_at": "2026-10-29T11:24:45.160373+00:00",
+    "sha256": "01c95f477642ba15e74f6e1284e0f19f2e4cf15739de484c8b0ca9a2bea5db71",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/460631dc/podcast/rss": {
+    "bytes": 2550,
+    "checked_at": "2026-10-29T11:29:06.803432+00:00",
+    "sha256": "7456b95cf362b36b68bc62e0abc1501a55fca9424e38a2a4d875d57cc53f3c0d",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/56c24e48/podcast/rss": {
+    "bytes": 504540,
+    "checked_at": "2026-10-29T11:24:46.430979+00:00",
+    "sha256": "143e4e0a7713746b28d48e2fcb7fec57b9f35746192ebc69290f6b3658826043",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/588e224c/podcast/rss": {
+    "bytes": 223334,
+    "checked_at": "2026-10-29T11:29:07.931109+00:00",
+    "sha256": "bce7114df170da09dc85464d91ebc90c907433c84d16e043b3962c801c9fffad",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/62cbf1e4/podcast/rss": {
+    "bytes": 421385,
+    "checked_at": "2026-10-29T11:25:00.784730+00:00",
+    "sha256": "103613304a6664e58f896501ce7c4dac7a9b2dd8ff1929f0c4ba11f9ad24ab55",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/7330de0/podcast/rss": {
+    "bytes": 3457076,
+    "checked_at": "2026-10-29T11:25:06.581790+00:00",
+    "sha256": "1c65304012e90523a26b0006386f2d7dac2b429c99905adbf4d925e276010fa6",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/a8f55520/podcast/rss": {
+    "bytes": 1509731,
+    "checked_at": "2026-10-29T11:24:59.571539+00:00",
+    "sha256": "16d900f8bf0a191d53371109a3078e64e1d0810967c41da19e65e5a8a8478163",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/b23246e8/podcast/rss": {
+    "bytes": 501563,
+    "checked_at": "2026-10-29T11:25:09.107881+00:00",
+    "sha256": "9b8cc70169d157fa8b92467f88141b89a37114ec372aadb9ef2e8189bb3f067a",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/da913edc/podcast/rss": {
+    "bytes": 102555,
+    "checked_at": "2026-10-29T11:25:07.819100+00:00",
+    "sha256": "e3d0c5fabf51b28f0582f22d5bd4b7fbc3932592b27dc5b67818a78baef9cc90",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/dd88f274/podcast/rss": {
+    "bytes": 331535,
+    "checked_at": "2026-10-29T11:29:09.259538+00:00",
+    "sha256": "7c95d90193151cbc61b470c59266760a47a97d2187d0d84a704445681ec87cf4",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/e658c898/podcast/rss": {
+    "bytes": 965059,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.969451+00:00",
+    "sha256": "0ac3520ee43db24f727f7fd136ffb037fcbfd0e1d9ec365b3e058c4b2fcab28b",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/ed9117c8/podcast/rss": {
+    "bytes": 890168,
+    "checked_at": "2026-10-29T11:29:11.164800+00:00",
+    "sha256": "e6e5fd798afcdd622187904d6607877303c3d3292d6704bbaed5ebd9161f64b0",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/f592b1d4/podcast/rss": {
+    "bytes": 1283419,
+    "checked_at": "2026-10-29T11:24:49.192925+00:00",
+    "sha256": "e46b7b856a09d76e4a712b9cd12487e75e317b676a3a19e9c2b738d197ff65a2",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2f881efb-1e86-4169-aba9-b3b9003bf1a4/transcript?format=WebVTT&t=1766203696": {
+    "bytes": 44890,
+    "checked_at": "2026-10-29T11:28:53.073504+00:00",
+    "sha256": "5fcc1c2f98a356f4da4264daf356534db8bfb054948277172f2606d314b0b9f2",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/53ed3470-f571-490c-bced-b232016d81e8/transcript?format=WebVTT&t=1732486456": {
+    "bytes": 46254,
+    "checked_at": "2026-10-29T11:28:54.031934+00:00",
+    "sha256": "3242d198ccbfe166a545600b7d7092046fffd32c7594aecfef437c4bcf89a4dc",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5fc8283-cd51-4ebf-9a31-b23900847bc3/transcript?format=WebVTT&t=1733040507": {
+    "bytes": 114584,
+    "checked_at": "2026-10-29T11:24:56.563137+00:00",
+    "sha256": "41ffcdb1d929b1697c4cc7cbe1a5a155e31ad7237073ef816312365e6fa67066",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d7b6bac4-68f5-4c82-86c3-b313005d97bb/transcript?format=WebVTT&t=1751905793": {
+    "bytes": 101668,
+    "checked_at": "2026-10-29T11:24:55.541423+00:00",
+    "sha256": "2819b1715fc4efb83dbe5ee8f3938253485b0f9f747bfbdd935616d277af3273",
+    "status": "fetched"
+  },
+  "https://api.substack.com/feed/podcast/7273078.rss": {
+    "bytes": 108234,
+    "checked_at": "2026-10-29T11:25:22.892238+00:00",
+    "sha256": "8c6d58be9ddd105909567c3aaed7fb35770eb81f8ee25c0955da6edb50fdb099",
+    "status": "fetched"
+  },
+  "https://api.substack.com/feed/podcast/847348.rss": {
+    "bytes": 129674,
+    "checked_at": "2026-10-29T11:35:15.932362+00:00",
+    "sha256": "ffcdcf9ca8705bbd82fa32d0efea6c405a88371b8374a20f4b483631af8b8ac0",
+    "status": "fetched"
+  },
   "https://changingacademiclife.captivate.fm/episode/mike-levin-cal145-s8-e10": {
     "bytes": 46979,
     "checked_at": "2026-10-29T10:05:20.618686+00:00",
@@ -36,11 +183,10 @@
     "status": "fetched"
   },
   "https://computingup.com/michael-levin-tames-life-66th-conversation": {
-    "checked_at": "2026-10-29T10:05:47.539178+00:00",
-    "http_status": null,
-    "reason": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-    "retry_after": "2026-10-29T11:05:47.539178+00:00",
-    "status": "failed"
+    "bytes": 41414,
+    "checked_at": "2026-10-29T11:41:26.593813+00:00",
+    "sha256": "a8b021df97993ab957eebf7e8ae30e1e4a3e2e6051b5b5c41748ea6288277ec1",
+    "status": "fetched"
   },
   "https://creators.spotify.com/pod/show/anirban-mukhopadhyay7/episodes/Michael-Levin-Collective-and-Diverse-Intelligence-e2qhe0h": {
     "bytes": 453752,
@@ -58,6 +204,74 @@
     "bytes": 79625,
     "checked_at": "2026-10-29T10:07:07.617956+00:00",
     "sha256": "001a1bc09c1eb4b834462570e7c55bac8c3d914fee7f215215e0add6179a23f2",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/escapedsapiens/feed.xml": {
+    "bytes": 614208,
+    "checked_at": "2026-10-29T11:24:47.572976+00:00",
+    "sha256": "ab559b40dfb97c863d3eed99f0fefaacca6a5c864053e77eede1f3227cf3f485",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/musingmind/feed.xml": {
+    "bytes": 121399,
+    "checked_at": "2026-10-29T11:29:02.300676+00:00",
+    "sha256": "7c165d2a0cbbb64968be52aee131d71748de59a9ab839503d0430598b5892365",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/therationalview/feed.xml": {
+    "bytes": 1133341,
+    "checked_at": "2026-10-29T11:28:59.013249+00:00",
+    "sha256": "b0c53ef1958aa73f771537ccf7845893e68683f797e800511025424c51230ec0",
+    "status": "fetched"
+  },
+  "https://feeds.acast.com/public/shows/5b4590cd802e4c0919bef6da": {
+    "bytes": 396976,
+    "checked_at": "2026-10-29T11:25:19.476997+00:00",
+    "sha256": "daeb3cc43bf54a39c1796840d43b8ca206b1423e147482597105072270234f16",
+    "status": "fetched"
+  },
+  "https://feeds.captivate.fm/changingacademiclife/": {
+    "bytes": 2070908,
+    "checked_at": "2026-10-29T11:35:19.112862+00:00",
+    "sha256": "c8b56ce0c760e092a7060ee3a8be7d6c3cb3792364c0d6991d2e65fbc14f6a31",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/PHTE5224366695": {
+    "bytes": 2203023,
+    "checked_at": "2026-10-29T11:24:39.602636+00:00",
+    "sha256": "3f42545121ddb28099698897b05db34d606b53042445fd6dcdbed869c14cee4f",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/RINTP3108857801": {
+    "bytes": 4485078,
+    "checked_at": "2026-10-29T11:24:58.337947+00:00",
+    "sha256": "14ec8688a18f9b4e9b61fe7ec5275e7dbb97b6880676ecde0d921af507d4de17",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/TOE4643226064": {
+    "bytes": 3808534,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.637031+00:00",
+    "sha256": "e851f9f81031e96a0f286a308183623612bf33f7eecb599ad7b0d312d601188a",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/intotheimpossible": {
+    "bytes": 6378125,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:58.186491+00:00",
+    "sha256": "e81a7fdcffb717ce87ed04670a4d726224f9e56ba02c2567eeeead4e9739580c",
+    "status": "fetched"
+  },
+  "https://feeds.soundcloud.com/users/soundcloud:users:672859199/sounds.rss": {
+    "bytes": 602022,
+    "checked_at": "2026-10-29T11:29:04.922693+00:00",
+    "sha256": "edb1eea25a5683c6d418e8b53d6a5ecf32782886882e3d256a63c53ecf53a143",
+    "status": "fetched"
+  },
+  "https://feeds.transistor.fm/632nm": {
+    "bytes": 580246,
+    "checked_at": "2026-10-29T11:34:47.776101+00:00",
+    "sha256": "fa0519de2b7a66d1f038599759dd08a7e300c501f3ee599ff52678edb61fc09a",
     "status": "fetched"
   },
   "https://feeds.transistor.fm/thoughtforms-life": {
@@ -85,6 +299,234 @@
     "sha256": "147ec7ef29ef993a7fbda133e4a07e7adbec206dc03b5c3fd2c3737acac1b52e",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Adventures+in+Awareness&entity=podcast&limit=3": {
+    "bytes": 1672,
+    "checked_at": "2026-10-29T11:22:55.145515+00:00",
+    "sha256": "e20d66c0db720b9c2210ed6d7e9acf9b44b3435f4b941aa66088e3d3963205e6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Artificiality+Dave+Helen+Edwards&entity=podcast&limit=3": {
+    "bytes": 1765,
+    "checked_at": "2026-10-29T11:27:40.300529+00:00",
+    "sha256": "cf79b66e6243fd8400c3f957fbb139462794e38cbd49e955fdd1f95b12505186",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Bold+Conjectures+Paras+Chopra&entity=podcast&limit=3": {
+    "bytes": 3223,
+    "checked_at": "2026-10-29T11:27:33.441983+00:00",
+    "sha256": "890dd0777284c28e9d6022a26309f48a8c1a4ce716afdc946db7ff35019b4d01",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Brain+We+Are&entity=podcast&limit=3": {
+    "bytes": 4746,
+    "checked_at": "2026-10-29T11:22:46.190325+00:00",
+    "sha256": "a679d4eefd0de65841437b7f41b5cac86f9508195bee4916e4083cac8a7a4ac3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Cognitive+Revolution+Nathan+Labenz&entity=podcast&limit=3": {
+    "bytes": 1720,
+    "checked_at": "2026-10-29T11:22:43.125491+00:00",
+    "sha256": "02e750e5db9de8de4ccdcf68cc920475cb0e8552b936076478faea4398e84629",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Escaped+Sapiens&entity=podcast&limit=3": {
+    "bytes": 1683,
+    "checked_at": "2026-10-29T11:22:39.400943+00:00",
+    "sha256": "c545d43fc8f2344ec96bf106babd39c90cbceaae78548601233f91ef0a766ec1",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Evolution+2.0+Perry+Marshall&entity=podcast&limit=3": {
+    "bytes": 1653,
+    "checked_at": "2026-10-29T11:22:50.128172+00:00",
+    "sha256": "bd6f6fe1076619d904396a8d85005f78c9cd978ab746cfdd6d55ddb93e398c17",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=External+Medicine+Michael+Levin&entity=podcast&limit=3": {
+    "bytes": 4833,
+    "checked_at": "2026-10-29T11:27:27.553341+00:00",
+    "sha256": "72ed7d75ec491e713e04f4a05e692c0bb59d921e59865499e71af1977a415bf0",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=First+Principles+First&entity=podcast&limit=3": {
+    "bytes": 4897,
+    "checked_at": "2026-10-29T11:27:32.462325+00:00",
+    "sha256": "4d09456bfb2fddf184166573e9ff4b292981068362977b75f01bfe66645eb93b",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=For+the+Sake+of+Argument+Podcast&entity=podcast&limit=3": {
+    "bytes": 5067,
+    "checked_at": "2026-10-29T11:27:35.421564+00:00",
+    "sha256": "a17547fd627457c2a228ecab5479c54cb230ebeb91d2219108a45287c7e9c817",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Future+of+Being+Human+Andrew+Maynard&entity=podcast&limit=3": {
+    "bytes": 4907,
+    "checked_at": "2026-10-29T11:22:51.076548+00:00",
+    "sha256": "cf662fc54bd48fa1dbacd6ffafbf1c095e33a16e66371fb78e8c6c2ce48ae158",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Giant%E2%80%99s+Shoulder&entity=podcast&limit=3": {
+    "bytes": 4823,
+    "checked_at": "2026-10-29T11:22:40.364694+00:00",
+    "sha256": "6d28183b1e466ed43d7360e2183a0902c7f091027562e335a044d64e421a79e4",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=In+Vivo+Podcast+Medical&entity=podcast&limit=3": {
+    "bytes": 4608,
+    "checked_at": "2026-10-29T11:27:38.346154+00:00",
+    "sha256": "6aa8897ce59cb0096bb76b6b98d3c4a7af9d41b53919dd62b7643348d1695995",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Inner+Cosmos+David+Eagleman&entity=podcast&limit=3": {
+    "bytes": 1856,
+    "checked_at": "2026-10-29T11:22:42.177743+00:00",
+    "sha256": "575d599f707503634613eb6d36ce4d1ebf4d73843dc818c5f73f8f4c09a3c4fb",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Live+Longer+World&entity=podcast&limit=3": {
+    "bytes": 3130,
+    "checked_at": "2026-10-29T11:22:45.171215+00:00",
+    "sha256": "7445c121bcf7abfdd23282c3dc56cbc300be7b33c94a6bf712742c38b6aee602",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Living+Mirrors+James+Cooke&entity=podcast&limit=3": {
+    "bytes": 1799,
+    "checked_at": "2026-10-29T11:22:36.645831+00:00",
+    "sha256": "f4d2e02c8c6a7f54387b23feff54f40dd28bab51a2d41b6ad0d889886d7ccf72",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mayim+Bialik+Breakdown&entity=podcast&limit=3": {
+    "bytes": 1700,
+    "checked_at": "2026-10-29T11:22:48.069100+00:00",
+    "sha256": "0a82c364117bfea8b2e1124da571b4d46b794f7c21d7ccaddc2d6fa8f23f66b3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Meaning+Code+Karen+Wong&entity=podcast&limit=3": {
+    "bytes": 1637,
+    "checked_at": "2026-10-29T11:22:49.100584+00:00",
+    "sha256": "382f06639ad4b52932b7591edb7ef6e2830670d01b0804e6638ec054777076d7",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 295185,
+    "checked_at": "2026-10-29T11:30:27.327930+00:00",
+    "sha256": "36eba254a649aa6425b14c6acf9cd0f703348c93cf1251682b4dde943808e737",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mike+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 338565,
+    "checked_at": "2026-10-29T11:30:29.616115+00:00",
+    "sha256": "b8ac5582bcb440abfaae54ee32cfbe13c7fc986ba4fec420876ca7449957b803",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mind+Matter+Nick+Jikomes&entity=podcast&limit=3": {
+    "bytes": 1588,
+    "checked_at": "2026-10-29T11:22:41.291537+00:00",
+    "sha256": "57ba2e887731ca5aead59446c2337bd8a789e65aebebfd6c91c1dafc6d516d9b",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Musing+Mind+Oshan+Jarow&entity=podcast&limit=3": {
+    "bytes": 1669,
+    "checked_at": "2026-10-29T11:27:30.399451+00:00",
+    "sha256": "7835f45e6b9b868808d6853d2039e0b8437e52c50f754a8d8cb45ef271ed1e79",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mystics+and+Muons&entity=podcast&limit=3": {
+    "bytes": 1597,
+    "checked_at": "2026-10-29T11:27:36.386081+00:00",
+    "sha256": "4cfcca0c0e682dcc44f33fbc4ae661ba42fa4a00ea873d3bf8ae7f0e3a6aebb6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Nature+and+Nurture+Adam+Omary&entity=podcast&limit=3": {
+    "bytes": 1649,
+    "checked_at": "2026-10-29T11:22:38.410193+00:00",
+    "sha256": "fb376bdd99b0b43ed99933336a8eb91d82f960af5fcf57514799f0e0ddb16ace",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Reason+with+Science&entity=podcast&limit=3": {
+    "bytes": 4862,
+    "checked_at": "2026-10-29T11:22:47.157009+00:00",
+    "sha256": "1b58cf7ce38bc4ba47737722f42fc2d967a613e0615e0359250de2b47b5e6f9d",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Robinson+Erhardt+Podcast&entity=podcast&limit=3": {
+    "bytes": 1634,
+    "checked_at": "2026-10-29T11:22:44.131587+00:00",
+    "sha256": "e5c1d842aa33950e57e44b83ee2991a722d7562ab6645c8aa0cfb62753acb121",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Science+Rehashed&entity=podcast&limit=3": {
+    "bytes": 4759,
+    "checked_at": "2026-10-29T11:27:29.502580+00:00",
+    "sha256": "c467f8cfb01ee6ce7ca6fba895e20ebcac608890add2010054830bf8bb3e1ccb",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Sentientism+Jamie+Woodhouse&entity=podcast&limit=3": {
+    "bytes": 1587,
+    "checked_at": "2026-10-29T11:22:37.525897+00:00",
+    "sha256": "af821ac229887b08c102c7cad6547357f288774a30aa995917b83bfc48e0234d",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Soft+Robotics+Podcast&entity=podcast&limit=3": {
+    "bytes": 5187,
+    "checked_at": "2026-10-29T11:27:31.485850+00:00",
+    "sha256": "a459cd2bd8cafda38c831ed9cd4b9e9e26b2aa718212c4915a7cc6b6b7b9a5f8",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Orthogonal+Bet+Lux+Capital&entity=podcast&limit=3": {
+    "bytes": 1590,
+    "checked_at": "2026-10-29T11:27:41.208049+00:00",
+    "sha256": "988147476d50cd745a2a300fed91b55fcaf054c756de863728b107f8f5e4ca14",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Rational+View+Al+Scott&entity=podcast&limit=3": {
+    "bytes": 1804,
+    "checked_at": "2026-10-29T11:27:28.432130+00:00",
+    "sha256": "d9008a5a4b3cc7e40597696c18e0d857a47320e77f5993dd0af045b1acb9f9a3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Symbolic+World+Jonathan+Pageau&entity=podcast&limit=3": {
+    "bytes": 1603,
+    "checked_at": "2026-10-29T11:22:52.009304+00:00",
+    "sha256": "2ecc0a70b3b149d1d71ab376ec73d4eed8c4c4f0c3a9b00c484ab2e6d40b0a29",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Truth+Carlos+Farias&entity=podcast&limit=3": {
+    "bytes": 5218,
+    "checked_at": "2026-10-29T11:27:37.301027+00:00",
+    "sha256": "550265b5401d57bd9901663c0393ceb0835e7927fdc8cfc63588d64b72c641d6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Third+Eye+Drops+Michael+Phillip&entity=podcast&limit=3": {
+    "bytes": 1663,
+    "checked_at": "2026-10-29T11:22:35.736629+00:00",
+    "sha256": "70996c7faeb4a0bc315e543a739b4c4b9a69457cf78da077fe5aeeb1764b4aba",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=This+Mind+of+Ours&entity=podcast&limit=3": {
+    "bytes": 42,
+    "checked_at": "2026-10-29T11:27:39.284885+00:00",
+    "sha256": "7f5ce663b726607eae2fde2a6dc438052ac0d1681e636de7cc3377c0bb77e047",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Variable+Minds+Andrea+Morris&entity=podcast&limit=3": {
+    "bytes": 4788,
+    "checked_at": "2026-10-29T11:27:34.382792+00:00",
+    "sha256": "57aec04e6dd9cbf01615f1b09b9d1bccb6e5cb40f3f595475a07f87068b7784c",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Worthy+Successor+Trajectory&entity=podcast&limit=3": {
+    "bytes": 4807,
+    "checked_at": "2026-10-29T11:22:52.970016+00:00",
+    "sha256": "b3d9db31d335638ba1bf2e36c6db340fb2c26fbdd30195fe64c1c267e41d8383",
+    "status": "fetched"
+  },
+  "https://lexfridman.com/feed/podcast/": {
+    "bytes": 2091849,
+    "checked_at": "2026-10-29T11:35:05.558528+00:00",
+    "sha256": "5aac4b1901d5551636af3e4149cc7c00260a57389c8ac45c0513b8f511fe8d06",
+    "status": "fetched"
+  },
   "https://lexfridman.com/michael-levin-2-transcript/": {
     "bytes": 413463,
     "cache_hit": true,
@@ -98,12 +540,17 @@
     "sha256": "f3b1f29c8d28183b3c3b065d6a8d23a7a9dae827f5981acd1962c4c1df0b0d6b",
     "status": "fetched"
   },
+  "https://media.rss.com/themeaningcode/feed.xml": {
+    "bytes": 408859,
+    "checked_at": "2026-10-29T11:25:17.301935+00:00",
+    "sha256": "5d4f777f6e061b991bd2161994c8c8d9b384b2d92a740546696ccf31ca1b953b",
+    "status": "fetched"
+  },
   "https://mediaspace.illinois.edu/media/t/1_nyse6h3z": {
-    "checked_at": "2026-10-29T10:07:00.973376+00:00",
-    "http_status": null,
-    "reason": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>",
-    "retry_after": "2026-10-29T11:07:00.973376+00:00",
-    "status": "failed"
+    "bytes": 230132,
+    "checked_at": "2026-10-29T11:41:24.763707+00:00",
+    "sha256": "6944533ad995b55feea9837d4f69adc37510893eab5eee6e0081c3ffd1189183",
+    "status": "fetched"
   },
   "https://open.spotify.com/episode/2yxUKGXFvf3lKwm71j60bY": {
     "checked_at": "2026-10-29T10:05:16.071989+00:00",
@@ -131,10 +578,65 @@
     "sha256": "de4b0748f1effd57327aa80ec4ce16e5287833cbfae72c0fc34ce76b1740b94e",
     "status": "fetched"
   },
+  "https://podscripts.co/podcasts/lex-fridman-podcast/325-michael-levin-biology-life-aliens-evolution-embryogenesis-xenobots": {
+    "bytes": 1088800,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:33:53.709077+00:00",
+    "sha256": "94a00ab7fcc0625b4298724309f17406a8f67b81833703f7a5738790d230bc7c",
+    "status": "fetched"
+  },
   "https://radioideaxme.com/2020/07/22/bio-electricity-for-regeneration-and-cancer-control": {
     "bytes": 195571,
     "checked_at": "2026-10-29T10:07:09.798568+00:00",
     "sha256": "00b1b2b365694183b95252f7c3d518256aa3088cd36aa5e06b1f68b6ec7b2226",
+    "status": "fetched"
+  },
+  "https://rss.art19.com/the-psychology-podcast": {
+    "bytes": 3073678,
+    "checked_at": "2026-10-29T11:35:14.761435+00:00",
+    "sha256": "42144549c3e190351595d5b246b9883ac3691962b79d6fd2cf1ae9caaf29b9e0",
+    "status": "fetched"
+  },
+  "https://rss.art19.com/tim-ferriss-show": {
+    "bytes": 30595203,
+    "checked_at": "2026-10-29T11:35:02.057338+00:00",
+    "sha256": "f4c3baf5386c0c9ba4482b21793f327f1a7013934ba487cbb35c3c2c06d7a6f4",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/1535644.rss": {
+    "bytes": 1998173,
+    "checked_at": "2026-10-29T11:24:52.338811+00:00",
+    "sha256": "d1c71c53ee921ec8f4539cbc7ea81c9feb69cb2d32d0cbce1c47ae6574db562c",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/1695103.rss": {
+    "bytes": 292155,
+    "checked_at": "2026-10-29T11:28:55.953074+00:00",
+    "sha256": "d31539f1eefca0f6a97b80957957d2919b6fcc554b3c41fbef5c15f268f1eb1e",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/2308422.rss": {
+    "bytes": 479916,
+    "checked_at": "2026-10-29T11:25:21.629435+00:00",
+    "sha256": "564d2f6123529ad4dda51f7a2101ccdcbb184095f2680257ff32405d718d9d28",
+    "status": "fetched"
+  },
+  "https://rss.libsyn.com/shows/276104/destinations/2112968.xml": {
+    "bytes": 432870,
+    "checked_at": "2026-10-29T11:24:42.258770+00:00",
+    "sha256": "cfd2d5638cc296da8e1cc38f379d08151662f1c725623b0f43bc9252e1cc572e",
+    "status": "fetched"
+  },
+  "https://rss.libsyn.com/shows/604590/destinations/5264190.xml": {
+    "bytes": 2627792,
+    "checked_at": "2026-10-29T11:35:10.537622+00:00",
+    "sha256": "5bb9f47c58aa935aace87c43e284b353d4398e8b5d763767778011b0939769b9",
+    "status": "fetched"
+  },
+  "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/": {
+    "bytes": 4929994,
+    "checked_at": "2026-10-29T11:25:15.037215+00:00",
+    "sha256": "00378b6e185c694d3ab1d1b59cd966eac737a38ba55b01ac5ca0a7149caf01eb",
     "status": "fetched"
   },
   "https://sciencerehashed.podbean.com/e/xenobots-ai-enabled-first-living-robots": {
@@ -1663,6 +2165,36 @@
     "sha256": "c8d36aaf757906aef19fbdf0f378c763911c330d78b96a93e1670ecd69b4f1fc",
     "status": "fetched"
   },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/5YYGtgnhx3PnwhLzQvoqiO/transcript.srt": {
+    "bytes": 141998,
+    "checked_at": "2026-10-29T10:56:50.677780+00:00",
+    "sha256": "764d26e9aa937fcc3ffdecc77e495bb628e1e830b85fe0a03d8c0438e486aad9",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/5vpbfIPIQeDKuWH6Haa5Hy/transcript.srt": {
+    "bytes": 150473,
+    "checked_at": "2026-10-29T10:56:52.089445+00:00",
+    "sha256": "3278f2599c24fe19c3d5f92307223f7467e7c4a9cccc41d7806564a5981a9e0d",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/7M0PX7lzUKaBBcEPHt6FtC/transcript.srt": {
+    "bytes": 197897,
+    "checked_at": "2026-10-29T10:56:54.041937+00:00",
+    "sha256": "da164a7190cd65255101cd52ce0edf5253990bf7fea987732966a1950127e940",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2Zc65BZb02msGuF9ujBThC/1fYrXtfv384lUyRweQ9KKn/transcript.srt": {
+    "bytes": 108284,
+    "checked_at": "2026-10-29T11:25:04.603086+00:00",
+    "sha256": "b364efe23946fd1329e93edda32b8405ed21df09cd5ccd34d855ffa2642d524f",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2Zc65BZb02msGuF9ujBThC/2wWFwzrKpMgo0rb9pTSqgx/transcript.srt": {
+    "bytes": 84997,
+    "checked_at": "2026-10-29T11:25:02.526072+00:00",
+    "sha256": "bc789a8aa86a6e3c996245f3dbd155fb0ce5b81b2d948b1af27da8df39911a82",
+    "status": "fetched"
+  },
   "https://troscriptions.com/blogs/podcast/michael-levin": {
     "bytes": 240063,
     "checked_at": "2026-10-29T10:05:26.149026+00:00",
@@ -1834,6 +2366,12 @@
     "bytes": 146840,
     "checked_at": "2026-10-29T10:05:24.871354+00:00",
     "sha256": "a56ff63f296123b7b71f263ca35afd3d51a9a4efb4299fe2c5b32e9c5c9b8498",
+    "status": "fetched"
+  },
+  "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/534dc725-2971-42a1-b1bf-afaa0107416e/bee00526-7528-4581-b6b6-afaa01083a3d/podcast.rss": {
+    "bytes": 691959,
+    "checked_at": "2026-10-29T11:24:54.566050+00:00",
+    "sha256": "faded7d0b86b9e96a335782404e1e2e854454ee2934c9a984bfe711d9e071d3b",
     "status": "fetched"
   },
   "https://www.preposterousuniverse.com/podcast/2021/02/01/132-michael-levin-on-growth-form-information-and-the-self/": {

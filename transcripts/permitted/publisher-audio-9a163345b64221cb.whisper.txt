@@ -1,0 +1,856 @@
+[0.00 --> 4.46] Welcome everyone again to another episode of the IDME show that showed the profiles,
+[4.60 --> 9.76] the humans behind the really big ideas that are shaping our world, inspiring future and future
+[9.76 --> 15.72] creators. And for all those that like really great stories, I'm Ira Pastor, your life sciences
+[15.72 --> 25.80] ambassador along for the journey today. So today we have a really exciting topic. So form is
+[25.80 --> 33.22] generally defined as the shape and structure of something as distinguished from the materials
+[33.22 --> 39.68] that it's constructed from. And specifically the branch of biology that deals with form and living
+[39.68 --> 46.88] organisms and the relationships between the various structures is known as morphology. Every level of
+[46.88 --> 53.36] the human body, animal body for that matter, requires very complex form control mechanisms to
+[53.36 --> 58.88] be functional throughout our lifetime across the many hierarchies, DNA, cell, tissue, organ,
+[59.00 --> 64.80] limb, and body segment, in order to accomplish a range of biologic outputs, everything from
+[64.80 --> 70.74] embryogenesis to growth, repair, regeneration, preventing tumor formation, even in the
+[71.36 --> 78.18] neuroplasticity of the human brain. Yet when it comes to topics like shape, size, polarity, position,
+[78.18 --> 84.60] where both the properties and characteristics of the system and the sort of reciprocal interplay
+[84.60 --> 90.80] between the components are extremely important, we need to go a little bit beyond just studying the
+[90.80 --> 99.44] particular gene or protein or that stem cell to a range of very fascinating top-down control processes
+[100.16 --> 104.54] in the sort of biological, morphological architecture of life.
+[105.74 --> 112.28] Today we have the honor of being joined by a true thought leader in this space, Dr. Michael Levin,
+[112.68 --> 117.56] who is Tufts University professor who holds the Vannevar Bush Endowed Chair in Biology,
+[118.36 --> 122.44] who also serves as both Director of the Tufts Center for Regenerative and Developmental Biology,
+[122.66 --> 125.62] and also as Director of the Allen Discovery Center.
+[125.62 --> 131.46] Dr. Levin's group focuses on understanding biophysical mechanisms that implement decision-making
+[131.46 --> 138.26] during complex pattern regulation and harnessing endogenous bioelectric dynamics towards rational
+[138.26 --> 145.10] control of form and growth. His lab's current directions involve understanding how somatic cells form
+[145.10 --> 151.58] bioelectric networks and store and recall pattern memories that guide morphogenesis. He's involved in
+[151.58 --> 157.02] creating next-generation artificial intelligence tools, helping scientists understand top-down control
+[157.02 --> 162.84] mechanisms in pattern regulation, sort of a new bioinformatics of shape, and ultimately using
+[162.84 --> 167.08] these insights to help develop new capabilities in both regenerative medicine and engineering.
+[167.90 --> 174.74] Dr. Levin got dual degrees in his bachelor's in both computer science and biology at Tufts,
+[174.78 --> 179.42] and then received his PhD from Harvard. He did his post-doc training at Harvard Medical School,
+[179.42 --> 184.06] where he began to uncover this new bioelectrical language that cells use to coordinate their
+[184.06 --> 190.90] activity during embryogenesis. His independent labs at both Harvard and Tufts are actively involved
+[190.90 --> 196.40] in developing new molecular genetic and conceptual tools to probe large-scale information processing
+[196.40 --> 201.68] during regeneration, embryogenesis, and cancer suppression. He has a variety of publications,
+[202.18 --> 206.96] endless financial publications, and many honors, including the Scientist Division Award and Distinguished
+[206.96 --> 211.88] Scholar Award. All that being said, welcome Dr. Mike Levin to the show today. Thanks so much for
+[211.88 --> 216.70] joining us. Thank you so much. Very happy to be here. Yeah, no, it's a real honor. I'm looking
+[216.70 --> 222.06] forward to doing this show for a while, and I'm really glad to have you. Mike, typically, you know,
+[222.16 --> 227.44] we start off the show just by, you know, giving our guests the floor for a little bit so you can
+[227.86 --> 232.78] tell us a little bit about yourself, you know, sort of where you grew up, how you got interested in
+[232.78 --> 238.64] both sort of the electrical engineering side of things and biology, and a little bit of your journey
+[238.64 --> 245.30] into what, you know, what I'll sort of broadly call sort of the frontiers of biological science.
+[245.58 --> 253.78] Sure. Well, when I was fairly young, we're talking basically around six, seven, eight, nine years old,
+[254.40 --> 262.76] two things I remember that distinctly kind of set me on this path. One was a love of engineering,
+[262.76 --> 267.90] engineering, and it all started with my dad taking the back off of our television set. We had this
+[267.90 --> 273.48] large kind of ancient TV set, and he would take the back off, and you could sort of see all the
+[273.48 --> 278.82] components inside, and I remember being incredibly impressed that there was somebody who knew how to
+[278.82 --> 282.64] put those things together in exactly the right way, and it was pretty clear that you couldn't just
+[282.64 --> 288.58] randomly jumble them together, so somebody knew how to do that in order to make the cartoons come out
+[288.58 --> 295.66] the other end. So this idea that we have this rational engineering where we can take parts that
+[295.66 --> 301.04] by themselves don't do much of anything and put them together in a particular pattern, an organization
+[301.04 --> 307.42] that ends up being the more than the sum of its parts, okay? So that was kind of something profound,
+[307.42 --> 311.20] and I remember thinking that whoever it was that knew how to do that, that's what I would like to do.
+[311.20 --> 317.46] I'd like to be the guy that knows how to do it. In parallel, I had a friend who was very much into
+[317.46 --> 322.76] bugs and insects, and so we would go outside, and he was an older kid, and he knew everything there
+[322.76 --> 327.06] was to know about insects, and he would show me all these caterpillars and beetles and things,
+[327.06 --> 335.72] and I was really amazed that these things had very complex behaviors and morphology, of course.
+[335.84 --> 343.66] They look like very specific shapes, and I always remember thinking that, well, they also must be
+[343.66 --> 349.30] made of parts. They also came together in some fashion or other, and wouldn't it be amazing if
+[349.30 --> 353.90] we understood how that worked, and what could we do if we really understood how parts come together,
+[353.90 --> 360.48] and in particular, I was always interested in these living things as primarily a cognitive system,
+[360.64 --> 364.86] meaning that it was clear that they had goals they were trying to reach, and they liked certain
+[364.86 --> 368.76] things, and they didn't like other things, and if you put things in their way, they'd figure out a
+[368.76 --> 376.30] way around it, and I was always really interested in trying to understand how it is that pieces of
+[376.30 --> 382.78] matter, physical stuff like things you might have in your kitchen, come together to form a creature
+[382.78 --> 387.36] that has preferences. It might have memories. It might have a mind. It might have an internal
+[387.36 --> 394.12] perspective, and for sure, it has complex behaviors and goal-directed activity, so I was always
+[394.12 --> 401.40] interested at the intersection of those two kinds of areas, and then being older and then emigrating. I was
+[401.40 --> 410.10] born in Moscow, Russia. We left in 1978 when I was nine, and I remember coming here, and after my dad got a
+[410.10 --> 416.18] job at a computer company, he was able to introduce me to some computer hardware. I mean, this was, you
+[416.18 --> 422.30] know, fairly ancient stuff at this point, but I remember thinking that, well, this is very interesting
+[422.30 --> 429.36] because here's something that follows rules exactly, and so there, if we understood what the rules ought to
+[429.36 --> 434.64] be, we might have a shot at putting together some of the stuff from scratch, right? Could we build some of
+[434.64 --> 440.46] these things from the ground up if we understood how they work, and so right around this intersection
+[440.46 --> 449.06] of biology and engineering and computer science is where my interests lay, and I did a lot of coding
+[449.06 --> 457.88] growing up. I had a software company briefly, but really, I was interested in working in artificial
+[457.88 --> 463.74] intelligence in the broad sense, so not specifically in any one technology, but this idea that could we
+[463.74 --> 470.34] create minds from scratch, where mind could be anything from a very simple thing that exhibits
+[470.34 --> 476.40] memory and behavior to something very complex, which, you know, something like general AI, so these were,
+[476.52 --> 482.00] this was my interest growing up. And, you know, thinking along those lines and sort of
+[483.44 --> 490.68] dealing with the, I won't say dumb parts, but I don't want to call cells dumb, but in the context of
+[490.68 --> 498.22] sort of this theme of the so-called morphogenetic field, sort of a concept that is quite old. I mean,
+[498.28 --> 504.92] it goes back all over a century now, where, you know, we have this process, this mysterious process,
+[504.92 --> 511.92] where we take dumb cells that, in some fact, you know, they know what their neighbor is doing, but
+[511.92 --> 517.00] when it comes to sort of developing a complex structure, whether it's an organ or a limb,
+[517.34 --> 522.32] not just in the right size and shape, but also position, you know, that, hey, this is my left hand,
+[522.48 --> 529.38] a right hand does not go here, and my heart is here and not inside my skull, and so forth.
+[530.16 --> 535.74] So these are really, you know, these concepts go back a while, but even well before sort of we
+[535.74 --> 542.50] really understood a lot about DNA. There's versions of this concept that have popped up in literature
+[542.50 --> 549.04] in terms of embryonic fields and embryogenesis, the symplasmic fields and plant development,
+[549.04 --> 554.42] but sort of they all come down to, as you were to sort of this top-down concept that, yes, we can look
+[554.42 --> 559.56] at these genes and these proteins, but at the end of the day, there's a little more going on
+[560.16 --> 564.88] controlling the shots. Can you talk a little bit about this field concept? Because in many ways,
+[564.96 --> 570.48] I look at you as sort of reawakening, sort of something that, you know, people talked about 100
+[570.48 --> 575.34] years ago, but sort of forgot, and now you're bringing it back with a lot of the new tools that
+[575.34 --> 579.06] you have in the 21st century. If you could go a little further with that, I think it'd be great.
+[579.06 --> 586.82] Sure. So let's talk about this. The reason that the field concept was so attractive for these
+[586.82 --> 594.00] questions is not simply the kind of physical definition of what a field is from physics,
+[594.16 --> 601.48] but actually the real point is that in biology, we often see decisions that are being made about
+[601.48 --> 608.42] fairly large-scale structures, things that individual cells don't have access to. And I'll
+[608.42 --> 614.88] give some examples momentarily, but the idea is that if individual cells, and actually all across
+[614.88 --> 620.42] scale, so molecules into molecular networks, into cells, tissues, and so on, at each level,
+[620.50 --> 627.70] you find that in biology, these levels are able to integrate into a coherent functional system that
+[627.70 --> 634.08] exists at the next higher level. And so this means that the system is making non-local decisions,
+[634.08 --> 641.56] and this requires some sort of integration both across space and time, which is why field concepts
+[641.56 --> 650.48] immediately come to mind. Spatial, because you're finding that cells now have to make decisions about
+[650.48 --> 655.24] very large things, as you say, about the shape of an eye, or the identity of an organ, or the length of
+[655.24 --> 660.60] a hand, or things like this. And so there must be some way of integrating information across space,
+[660.60 --> 665.36] but also time in the sense that the larger collective may have a kind of memory of what
+[665.36 --> 671.14] happened before. It may even have some anticipatory activity in terms of, well, if the same thing
+[671.14 --> 676.66] happened X number of times before, then eventually it may learn to anticipate it. So these kinds of
+[676.66 --> 683.42] things are what is really was driving people who think about fields in this scenario, is that how do
+[684.38 --> 690.34] local agents, whatever their scale, integrate together to become a bigger agent? And when I say agent,
+[690.34 --> 696.38] I simply mean that the bigger system is not just an emergent collection of whatever the smaller
+[696.38 --> 703.10] subsystems are doing, but it has its own integrated goals. So some people are comfortable with this.
+[703.32 --> 709.62] For example, in when you study ants and termites, people often talk about the colony, it measures
+[709.62 --> 713.96] things, remembers things, and tries to achieve things that the individual ants do not. So there's this,
+[713.96 --> 720.14] in an important sense, there's a new level forming. And of course, in cybernetics and control theory,
+[720.32 --> 725.28] we're very comfortable with the fact that you could take parts that by themselves don't try to do
+[725.28 --> 730.52] anything. But if you arrange it into a thermostat kind of loop, then you've got a system that tries
+[730.52 --> 734.54] to keep to a certain temperature range, for example, right? So it takes a measurement of the temperature,
+[734.54 --> 739.40] it compares to a set point, and then it heats or cools depending on whether you're out of that
+[739.40 --> 747.08] system or not. So there's a range of other phenomena where these kind of goal-directed
+[747.08 --> 755.26] systems that arise from a particular combination of subunits are studied. And this is what drives
+[755.26 --> 760.80] this idea of trying to understand fields. Basically, it's collectives, right? It's what does a
+[760.80 --> 765.48] collective of smaller agents, what does it remember, what does it want, what does it try to do that's
+[765.48 --> 770.76] distinct from what the individual agents do? And I think, you know, I would give you just a couple
+[770.76 --> 776.46] of examples from biology that can get us thinking about this. So here's something that, and there are
+[776.46 --> 781.72] many examples like this, but here's just one that we discovered a couple years ago. So tadpoles,
+[782.02 --> 788.24] frog tadpoles, have a very particular arrangement of the face. So there's a couple of eyes, there's a jaw,
+[788.44 --> 795.06] there's some gills, there's some nostrils, all kinds of organs. And in order for a tadpole to become
+[795.06 --> 800.80] a frog, it has to rearrange its face, because frog faces don't look like tadpole faces, so you have to
+[800.80 --> 804.32] move the nostrils, you have to move the jaw, you have to move the eyes, a bunch of things have to move.
+[804.66 --> 812.22] So in the past, it was thought that what the frog's genome encodes is a set of hardwired movements.
+[812.40 --> 816.76] Never mind how a genome is supposed to encode movements, we'll get to that. But it was thought
+[816.76 --> 822.38] that this process was hardwired, in the sense that all tadpoles look the same, all frogs look the same.
+[822.38 --> 827.02] So if you move everything in a very particular way, you will get from here to there, and then
+[827.02 --> 833.64] life is good. So what we found is that if you, in fact, take a tadpole, and you produce it in a way
+[833.64 --> 837.50] that we call them Picasso tadpoles, because everything's in the wrong place. The eyes are up
+[837.50 --> 841.06] here, the jaws are off to the side, the nostrils are up here, you know, everything is just mixed
+[841.06 --> 846.60] around. The amazing thing is that largely, they become perfectly normal frogs. And the reason is
+[846.60 --> 851.92] because all the pieces move around through fairly unnatural paths that they would never normally do.
+[852.04 --> 857.40] And they end up in a correct frog-like face pattern. And then they stop, then the system stops
+[858.64 --> 865.10] metamorphosing. So what you have then, is the fact that the genetics doesn't in some way specify a set
+[865.10 --> 871.40] of movements. What the genetics specifies is a machine that can do an amazing thing. It can ascertain its
+[871.40 --> 877.80] current configuration. It has some representation of what the correct configuration is. And then it
+[877.80 --> 882.74] can progressively reduce the error. So what you have is, we call this pattern homeostasis, or
+[882.74 --> 888.78] anatomical homeostasis. And it's very much like that thermostat loop to which I alluded, you have the
+[888.78 --> 896.22] ability to progressively reduce the error toward some particular encoded goal state. You have a set point
+[896.22 --> 901.54] towards which you progressively reduce the error. And it turns out that this ability to be plastic,
+[901.72 --> 907.24] to issue commands to the individual cells, which is what you have to do in order to get the organs to
+[907.24 --> 914.66] move, in order to reduce the error of a very large thing. So a frog face is a massive thing from the
+[914.66 --> 921.72] scale of a single cell. No individual cell knows what the face looks like. This is not a property of any of
+[921.72 --> 926.82] the individual cells. This is a property of the collective. And so what you have here is a situation
+[926.82 --> 935.22] where the collective has a particular set point. It's an anatomical set point. And it works to reduce
+[935.22 --> 940.56] the error to achieve it. So this is the sort of thing we need to be able to explain, right? And think
+[940.56 --> 947.86] about how far any kind of genetic explanation is from something like this, because it's not enough
+[947.86 --> 956.34] to think about how individual cells execute specific rules according to what their genome says. And
+[956.34 --> 960.88] then there's this emergent phenomenon. That's how a lot of people think about development this way,
+[960.90 --> 967.28] right? It's emergent. Every cell does something and outcomes, you know, something amazing. But this
+[967.28 --> 977.84] is much more complex than that. This is actually a system that is able to ascertain its configuration,
+[978.58 --> 983.98] after really pretty drastic deformations, you know, and then still get to where it's going,
+[984.12 --> 988.30] despite the fact that it's starting from the wrong place. And you may intervene with it in the middle,
+[988.54 --> 993.84] but it still gets to where it's going. And this is the grand challenge of biology. It's not just to
+[993.84 --> 999.56] understand the mechanisms. It's not just about understanding the hardware, which is genomically
+[999.56 --> 1004.48] encoded, the hardware that every cell has, all the proteins. We really need to understand the
+[1004.48 --> 1010.38] software. We really need to understand how collectives follow large scale goals. And I think
+[1010.38 --> 1016.12] this is, you know, maybe the most exciting question in biology, and it bleeds into everything from swarm
+[1016.12 --> 1021.14] robotics, to philosophy of mind, to regenerative medicine. Like this is the, I think this is the
+[1021.14 --> 1028.78] central question. And a major aspect of your research over the years has of course been the area of
+[1030.38 --> 1035.88] developmental bioelectricity, and the, you know, the concept that, and I'm, well, I'm sorry if I
+[1035.88 --> 1042.54] butcher this, but I'll ask you to sort of take us on a path through this as well. Cells and tissues
+[1042.54 --> 1047.90] throughout the human body use all sorts of different ion channels to communicate with one another,
+[1048.34 --> 1054.60] process of electrotaxis and so forth. These are endogenous electrical currents and fields,
+[1054.60 --> 1063.58] there's different fluxes, different resting potentials. Obviously, people may be most familiar
+[1063.58 --> 1070.02] with the 18th century work of Luigi Galvani and his dancing frog legs and so forth from that
+[1070.02 --> 1077.66] perspective. But take us a little bit, if you would, on sort of the 20th century domain of
+[1077.66 --> 1082.86] bioelectricity and sort of how you've now taken sort of what's been done there and taken it to a whole
+[1082.86 --> 1087.58] other level. I think this is a very important connection. Sure. A couple of different ways to
+[1087.58 --> 1094.96] think about it. I mean, one thing you might do is ask the question of where did nerves come from? So
+[1094.96 --> 1099.58] we're most familiar with electricity in the nervous system. So muscle and nerve, of course, use
+[1099.58 --> 1106.42] electricity to do their thing. And if you sort of, a lot of people make a very sharp distinction
+[1106.42 --> 1113.68] between neuroscience and non-neural, you know, non-neural biology. And actually, there is no
+[1113.68 --> 1119.92] sharp, there is no sharp dividing line. And in fact, we and others have been using concepts and
+[1119.92 --> 1125.44] tools of neuroscience to study all sorts of things about development. And this is for a simple reason
+[1125.44 --> 1131.46] that nerves did not just suddenly spring into being. So nerves evolved from other cell types. And those
+[1131.46 --> 1137.66] cell types were using electricity long before brains showed up. Electricity is an ancient, ancient way of
+[1137.66 --> 1143.68] processing information. It was discovered at the very least around the time of bacterial biofilms,
+[1143.80 --> 1152.22] maybe before that. And so evolution discovered really early on in the process that bioelectricity
+[1152.22 --> 1157.40] or electricity is a really convenient way to do computation. It is not an accident that our brains are
+[1157.40 --> 1161.34] built on this principle. It is not an accident that our current computer technology is built
+[1161.34 --> 1167.44] on this. Electrical circuits are really convenient for information, for distributed, integrated
+[1167.44 --> 1174.86] problem solving, for memory, for decision making. Electricity is really excellent at this. So it was
+[1174.86 --> 1181.34] recognized for many years, actually. And there have been some great people right from around the 1900s
+[1181.34 --> 1188.10] to now that have studied electricity and bioelectricity in embryonic development. They've studied how
+[1188.10 --> 1194.38] cells communicate with each other during regeneration, during cancer suppression, and so on. And
+[1195.28 --> 1202.42] one sort of traditional way to look at it would be that, well, bioelectricity is one more set of
+[1202.42 --> 1209.78] mechanisms like biomechanics, like physical forces, chemical gradients. It's one more physical mechanism
+[1209.78 --> 1216.74] that is required for pattern formation, for complex anatomies. And that's all true,
+[1216.74 --> 1222.02] but I think there's a much deeper truth here. And the deeper truth is that what it's actually used
+[1222.02 --> 1227.32] for, it's not just another mechanism. It's actually a computational medium. This is what this, these
+[1227.32 --> 1234.96] bioelectric networks are actually what mediates cognitive-like processes in living tissues. So all
+[1234.96 --> 1240.18] of the things that brains do in terms of driving behavior, moving the body around through space,
+[1240.84 --> 1246.80] non-neural electric networks in the rest of the body do the same thing. They do it more slowly,
+[1246.80 --> 1252.98] and their output is not controlling muscles to move through space. Their output, which is a much
+[1252.98 --> 1259.44] more ancient system, this is how it was at the beginning, their system is designed to control all
+[1259.44 --> 1267.06] the different cells and make sure that you get the correct configuration in anatomical morphous space.
+[1267.06 --> 1272.64] So instead of guiding you through three-dimensional space, they're guiding an embryo or a developing limb
+[1272.64 --> 1278.40] or anything like that. They're guiding it through a complex anatomical morphous space by moving,
+[1278.52 --> 1281.68] by telling the cells to differentiate, to migrate, to proliferate, and so on.
+[1283.20 --> 1290.04] So the reason we're so excited about bioelectricity is not just that it's cool and it's a really
+[1290.04 --> 1297.72] interesting area of biophysics, but because by reading and then controlling these bioelectric
+[1297.72 --> 1304.10] gradients, we get a glimpse of the computations that are happening inside the tissue. It's very
+[1304.10 --> 1310.12] similar to how nowadays there's this project of neural decoding, right? So neuroscientists would like
+[1310.12 --> 1314.82] to read the electrical activity of the brain, and if we knew what we were doing, we could sort of
+[1314.82 --> 1321.24] convolve that into some sort of representation of what the creature was thinking about. So is it,
+[1321.30 --> 1326.46] you know, maybe a visual image, or maybe there's a plan or a goal or a, you know, something's going
+[1326.46 --> 1330.94] on in that brain, and we're going to read it out. We're going to read out the cognitive content of
+[1330.94 --> 1336.70] the mind by looking at the electrical activity of the brain, and maybe even predict what that
+[1336.70 --> 1341.46] creature is going to do before they do it, right? Because we get to read the information
+[1341.46 --> 1346.16] structures that guide behavior. We are doing the exact same thing for the rest of the body.
+[1346.30 --> 1352.28] So the idea is that by tracking and learning to decode, we call this cracking the bioelectric code,
+[1352.36 --> 1358.94] and by learning to decode this information, we are getting a glimpse of what information is being
+[1358.94 --> 1366.66] processed by the cells of tissues, and better yet, we can now rewrite that information. So just like
+[1366.66 --> 1371.92] people like Tonegawa at MIT, who are using optogenetics and those kind of tools to
+[1371.92 --> 1382.26] incept false memories into brains, we can now insert artificial bioelectric anatomical memories
+[1382.26 --> 1388.34] into tissue and get them to build something else. And we think this is really exciting for
+[1388.34 --> 1392.76] regenerative medicine, because it offers a whole new set of opportunities than kind of traditional
+[1392.76 --> 1400.62] bioengineering and genomic editing approaches. Absolutely. Absolutely. Let's talk about a
+[1400.62 --> 1409.46] couple of these areas in terms of what I'll call modulating anatomical morpho space. You know,
+[1409.58 --> 1418.54] I know that you work with pharmaceutical compounds, bioactive substances that modulate
+[1420.36 --> 1426.34] ion channels and so forth to have different effects. But then there's also sort of my previous employer
+[1426.34 --> 1431.34] from several years ago, GlaxoSmithKline, investing in sort of this term, electroceuticals nowadays,
+[1431.36 --> 1437.82] where you're getting the drug out of the way entirely, and just, you know, the zap, what I'll
+[1437.82 --> 1445.00] genetically call it. Let's talk a little bit about, there's two areas of morpho space modulation that I
+[1445.00 --> 1449.10] think are fascinating. I mean, everything you do is fascinating, but I thought we'd touch on these
+[1449.10 --> 1458.60] two. And what is this general theme of normalizing cancer? And so this fascinating ability, we've seen
+[1458.60 --> 1464.20] this in the literature for a while, it hasn't really been known about why it happens. You know, when you
+[1464.20 --> 1470.10] take a regenerating limb, and you stuff it full of tumor cells, and a regular limb regenerates, or the work
+[1470.10 --> 1475.68] that was actually done here in Philadelphia back in the 1970s by Beatrice Mintz's group, in
+[1475.68 --> 1484.00] teratocarcinoma and embryos. Talk a little bit about this, using the ability to modulate more for space
+[1484.00 --> 1489.74] to normalize cancer, if you would. I think it's a fascinating topic. Sure. Yep. Let me start out
+[1489.74 --> 1499.18] with the electroceutical idea. So at the risk of making people upset, I will claim that
+[1499.18 --> 1509.02] one. I will say that I think using electrodes to impact bioelectric state is not the future of this
+[1509.02 --> 1515.16] field. I think that's actually a step backwards. And the reason is because what we are trying to do
+[1515.16 --> 1522.40] here is to modulate the information flow that is happening inside the system and get it to do
+[1522.40 --> 1531.30] something else. Physically, trying to alter resting potential patterns, stable developmental resting
+[1531.30 --> 1537.34] potential patterns with electrodes is incredibly hard. It's good for spiking. So if your target is the
+[1537.34 --> 1542.48] nervous system, and a lot of those applications like GSK and other people are using this to target the
+[1542.48 --> 1549.74] peripheral nervous system. So spiking neurons, the electrodes are a perfectly good way to go. For anything
+[1549.74 --> 1555.84] other than that, for targeting other cell types, and in fact, managing three-dimensional structures,
+[1556.06 --> 1559.78] so we're talking birth defects, cancer, which I'll talk about in a minute, regeneration, and so on.
+[1560.64 --> 1565.72] Electrodes are not a good way to, just because of the physics of it, they're not a good way to
+[1565.72 --> 1573.68] establish standing resting potential gradients. Instead, I think, and people sort of love this idea
+[1573.68 --> 1577.06] of getting away from the drugs, but I actually think that's the wrong way to think about it.
+[1577.06 --> 1583.56] You see, what you have in the system itself is a bunch of ion channels that the system is using to
+[1583.56 --> 1589.56] drive its signaling, its information dynamics. And what you would really like to do, rather than
+[1589.56 --> 1595.26] trying to impose fields externally, which is really hard to be specific about it, you would really like
+[1595.26 --> 1599.98] to control the knobs that the system itself is using. You want to be able to open and close those
+[1599.98 --> 1604.74] channels. And nowadays, the best way to open and close those channels is with drugs.
+[1604.74 --> 1609.94] Now, you might, in some systems, you might be able to use optogenetics, so you might be able to use
+[1609.94 --> 1614.34] light. In the future, there might be acoustic technologies, there might be, who knows, there
+[1614.34 --> 1619.14] might be other ways to do it. But I think there's no getting around the fact that the most specific
+[1619.14 --> 1624.68] and the most powerful interventions are going to be when you take advantage of what the system is doing
+[1624.68 --> 1632.24] normally. And that means that you need to have a model, a computational model of how those channels
+[1632.24 --> 1639.06] are contributing to specific information dynamics. And you need to then be able to open and close those
+[1639.06 --> 1646.68] channels to set up standing resting potentials in tissue that are what you want. There's an analogy,
+[1646.86 --> 1656.44] you can think about this as an analogy. A lot of modern biomedicine is still focused on forcing
+[1656.44 --> 1660.66] the hardware. You're trying to literally, you know, people are very excited about single molecule
+[1660.66 --> 1665.60] approaches, genomic editing, you're working down at the level of the hardware, you're really trying to
+[1666.16 --> 1672.88] micromanage the process and get everything where it needs to be. Applied electric fields are that type
+[1672.88 --> 1677.54] of thing, you're really trying to force the correct electric pattern with an external stimulation.
+[1678.12 --> 1683.10] For certain things, there'll be some low hanging fruit where that's great, and that works great.
+[1683.10 --> 1688.40] But anybody who programs or has looked at the history of computer science from the beginnings
+[1688.40 --> 1693.46] in the 40s, all the way through this amazing information technology revolution that we have,
+[1693.62 --> 1698.56] understands that programming at the level of hardware is brutal. Programming in machine code
+[1698.56 --> 1703.80] is only marginally better. And what you would really like to do is program at a particularly high
+[1703.80 --> 1708.24] level. Now, when I give a talk, I often show a picture of what programming looked like in the 40s.
+[1708.34 --> 1712.36] There's a great photo of a woman, and she's sitting there, and she's physically
+[1712.36 --> 1717.50] replugging wires. She's physically moving wires from here to there. That's how you used to have
+[1717.50 --> 1722.98] to program. That is where biology is today. We are all about rewiring pathways, transcriptional
+[1722.98 --> 1729.72] networks. It's all about the hardware. The thing is that wouldn't it be amazing if in biology,
+[1729.72 --> 1734.60] we could do what we do in computer science, which when you have a laptop and you want to switch from
+[1734.60 --> 1738.64] Microsoft Word to Photoshop, you don't get out your soldering iron and start rewiring.
+[1738.64 --> 1743.88] What you do is you manipulate the system with inputs. You give it experiences. In this case,
+[1744.00 --> 1749.16] through a keyboard. In my case, through ion channel modulation or optical modulation.
+[1749.46 --> 1753.16] But what you're trying to do is you're not trying to micromanage the system. You're trying to
+[1753.16 --> 1759.26] provide stimuli or inputs that you know will drive the system to the correct state.
+[1759.50 --> 1765.68] Now, this requires, this whole strategy of motivating the system instead of forcing it
+[1765.68 --> 1771.06] requires something very particular. It requires that the system itself be reprogrammable. It
+[1771.06 --> 1775.60] requires that what you're dealing with is a cognitive system. And some people, some people
+[1775.60 --> 1779.80] get, get really upset about this because it sounds like you're sort of bringing back some sort of
+[1779.80 --> 1787.78] weird animism or, or, or, you know, anthropomorphism. But if, if we take evolution seriously and we realize
+[1787.78 --> 1792.60] that whatever our cognitive capacities are, they have to have a smooth evolutionary history all the way
+[1792.60 --> 1798.32] back. We have to ask ourselves. And, and, and of course, engineers, people who work in, in cybernetics
+[1798.32 --> 1803.60] control theory and so on are super comfortable with non-magical devices that make decisions that
+[1803.60 --> 1808.66] have memories, right? I mean, we have a science of this. We don't need to be afraid of it. So, so what,
+[1808.84 --> 1813.90] what I'm going to claim is that biology, and we can get into why I think this, how this evolved,
+[1813.90 --> 1821.34] but I think most current biology is, is, is, is, is a, is a, is a primitive cognitive system. It
+[1821.34 --> 1825.22] exhibits what, what we call basal cognition, meaning, you know, of course it's not sitting
+[1825.22 --> 1830.64] there and thinking, you know, wouldn't it be nice if I had another finger? It's, it's not a high order
+[1830.64 --> 1835.78] cognitive system, but it is one that has memory and can make decisions and can take measurements and
+[1835.78 --> 1842.06] can anticipate simple patterns and stimuli. So, so if we understood how this worked, then what we would
+[1842.06 --> 1846.50] be doing is we wouldn't be trying to micromanage it and, and sort of, you know, put, put specific
+[1846.50 --> 1850.74] stem cells in specific areas and, and growth factors and all that. We would be trying to figure
+[1850.74 --> 1857.34] out what are the stimuli that drive the system to decide to make a limb or an eye or a heart of a
+[1857.34 --> 1863.02] particular size. And we would be operating at a much, at a, at a much higher level. The benefit of
+[1863.02 --> 1867.60] this, of course, is that it's so much easier. I'll just give a very simple example from, from
+[1867.60 --> 1871.90] neuroscience. If you have a rat and you want the rat to do a circus trick, put a little
+[1871.90 --> 1876.84] ball in the hoop, right? You have two, two, two ways to go about it. You can, if you know
+[1877.64 --> 1882.96] neuroscience to the, to a degree that we, that we don't, you could try to manipulate every nerve
+[1882.96 --> 1886.88] in that rat's brain, play it like a puppet and get the body to move in a particular way
+[1886.88 --> 1892.12] to get it to do what it, what it needs to do. And maybe that's possible someday. Maybe we'll
+[1892.12 --> 1897.84] be able to do that. But the, the great thing is that, is that humans figured out probably 10,000
+[1897.84 --> 1902.34] years ago that you can achieve the same result without knowing anything at all about what's
+[1902.34 --> 1906.80] between the rat's ears. You train the rat, you provide rewards and punishments. You
+[1906.80 --> 1911.82] incentivize the system. You offload all of that complexity onto the system itself. And
+[1911.82 --> 1918.90] that works because what you're dealing with is a complex cognitive system that, that you
+[1918.90 --> 1923.64] can communicate with, not just force at the lowest level. Now we have to be careful. This
+[1923.64 --> 1927.44] is all an empirical. So people sometimes say, oh my God, so a ball rolling down the hill.
+[1927.56 --> 1931.74] Now you're going to say is a cognitive system. No, this is a very empirical kind of thing.
+[1931.88 --> 1938.74] You only, right. You only ascribe enough cognitive metaphors to be the optimal way to control the
+[1938.74 --> 1942.70] system. So if you're dealing with a cuckoo clock or a ball rolling down the hill, you
+[1942.70 --> 1945.98] don't need this. You, you, in fact, you, you don't have it. You don't have access to any
+[1945.98 --> 1949.34] of this stuff. It's not that kind of a system. You have to, you have to interact with it
+[1949.34 --> 1952.84] via Newtonian mechanics at the lowest level. You have no choice. But if you're dealing
+[1952.84 --> 1956.82] with a rat at the top of the hill, you'd be crazy to, to rely on, on something like
+[1956.82 --> 1959.84] Newtonian mechanics to figure out where this thing is going to go, that you have a much
+[1959.84 --> 1965.22] better, you have a much better set of handles on the system. If you acknowledge the fact
+[1965.22 --> 1970.56] that it has preferences, it has inputs, it has outputs, it has things that can learn and
+[1970.56 --> 1977.54] things that it can't learn. Right. So this is, this is why I think fundamentally this question
+[1977.54 --> 1981.96] of electrodes versus, versus drugs is just a microcosm of that whole, of that whole issue.
+[1981.96 --> 1984.94] And then we need to, we need to learn it for, we need to learn these things from the
+[1984.94 --> 1990.64] informational concept. Now, the cancer, the cancer question. So let's talk about what
+[1990.64 --> 1995.66] cancer really is. And, and, and I preface this by saying that cancer is not just one
+[1995.66 --> 1999.46] thing, right? There's, there's lots of, lots of phenomenon we call cancer, but let's just,
+[1999.70 --> 2005.66] let's pare it down a little bit. One way to think about cancer, and this is a way that was
+[2005.66 --> 2010.56] popular a long time ago, really fell out of favor in the genetics revolution and is now
+[2010.56 --> 2017.74] slowly coming back, is the idea that the real question isn't, why do we get cancer? The real
+[2017.74 --> 2023.50] question is, why is there ever anything but cancer? If you look at individual cells, right? Amoebas,
+[2023.70 --> 2028.70] I often show a video of a thing called lacrimaria. You can, we can, we can put a link to it. Maybe
+[2028.70 --> 2032.92] it's an, it's an amazing little, little organism. You look at an individual cell and you see how
+[2032.92 --> 2038.42] competent these agents are. They are in their own scale. So at the scale of a single cell,
+[2038.42 --> 2045.00] they are handling their physiology, their behavior and their morphology in the case of cells that
+[2045.00 --> 2049.34] change their shape all the time, like this lacrimary, they're handling it all in real time,
+[2049.46 --> 2055.90] no brain needed, incredibly competent. And so one might ask, how do you convince a bunch of these free
+[2055.90 --> 2061.92] agents to work together to toward a common goal? The common goal being build a frog or a fish or a
+[2061.92 --> 2068.76] human, right? Build a body. And, uh, this is a profound question is how do, how do you get a
+[2068.76 --> 2073.48] collective to have a common goal that is so much larger than any of the members of the, of the
+[2073.48 --> 2078.28] collective? And whatever that mechanism turns out to be, you would necessarily expect that
+[2078.28 --> 2084.64] occasionally there will be breakdowns inevitably. So at some point, what will happen is a single cell
+[2084.64 --> 2089.46] in this body. So, so these, these cells are connected there, they're have kind of a large,
+[2089.60 --> 2095.76] um, shared, uh, uh, goal space that they're working on. And for whatever reason, imagine that
+[2095.76 --> 2101.60] one cell gets disconnected from this information, um, flow. So, so there's current, there's, there are a
+[2101.60 --> 2106.80] bunch of, uh, cues that are telling all the cells what to do to work towards this, you know, this massive
+[2106.80 --> 2110.88] thing. And then all of a sudden there's one cell that doesn't get the message. It can't get the
+[2110.88 --> 2116.96] message for whatever reason. As far as that cell is concerned, it is now reverted back to its ancient
+[2116.96 --> 2123.76] unicellular past. It, it has shrunk its computational boundary. And in fact, um, in, in, in a different
+[2123.76 --> 2128.20] publication, I call this the, the boundary of the self, you know, for the body, because all the share,
+[2128.32 --> 2133.76] all the cells share physiological information, the unit of, of, of work, the goal directed unit is
+[2133.76 --> 2138.16] large. The self is huge. It's a body of some size or it's an organ or something like that. But in
+[2138.16 --> 2143.32] individual cell, all of that shrinks just to the sort of area around that cell. And as soon as that
+[2143.32 --> 2149.56] happens, the rest of the body is just environment. As far as that cell is concerned, it, it, it, the
+[2149.56 --> 2154.02] self is small. It's that cell. Everything it does is for the benefit of that cell and everything else
+[2154.02 --> 2160.56] is just the outside world. So that boundary where, where you and, and, and the world begins can shrink
+[2160.56 --> 2165.26] and grow during the lifetime of an individual. Normally it's, it's, it's fairly massive, but, but
+[2165.26 --> 2170.16] individual cells can, can, can get out. And then they're, um, uh, they're in, once they're
+[2170.16 --> 2175.18] informationally cut off, they become single cell amoebas for, for all intents and purposes.
+[2175.52 --> 2180.46] Well, what do, what do single cell organisms do? They go wherever life is good. They proliferate as
+[2180.46 --> 2185.60] much as they can. So this is metastasis and, and, and, and over proliferation. And in fact,
+[2185.94 --> 2191.88] recent data have even, um, looked at the transcriptomes of these individual cells and notice that
+[2191.88 --> 2196.04] literally at the level of gene expression, you can see them rolling back to an ancient,
+[2196.26 --> 2202.06] uh, a really ancient type of, um, transcriptome that belongs to single cell, ancient single cell
+[2202.06 --> 2208.50] creatures. So, so this is, this is my view of, of, of cancer in that it's an information disorder.
+[2208.66 --> 2216.72] It's a disorder of the computational boundary between self and world. And, uh, what we, what we did in,
+[2216.72 --> 2222.12] in my lab was to start to say, okay, if, if that's true, and if what you're looking at is,
+[2222.18 --> 2227.12] is the importance of the connection between the cell and its, uh, the, the, its neighbors,
+[2227.22 --> 2232.88] uh, we already know that bioelectric networks provide a massive amount of that information,
+[2232.98 --> 2237.08] not alone, of course, chemical signals are critical. Biomechanics is critical, but we, we work
+[2237.08 --> 2243.38] on bioelectricity. Then we said, okay, that view makes three predictions. It predicts that number one,
+[2243.38 --> 2249.02] uh, if you do have an event where a cell becomes transformed and starts to make a tumor instead of
+[2249.02 --> 2254.38] a good organ, you should be able to see this very early on by an aberrant bioelectrical signature.
+[2254.56 --> 2258.28] You should be able to see that this cell is not connected to its neighbors. Okay. So you should be
+[2258.28 --> 2263.52] able to detect cancer this way. And we've shown, in fact, using voltage sensitive fluorescent dyes
+[2263.52 --> 2269.12] that as soon as, uh, you introduce an, for example, an oncogene, let's say a nasty human oncogene,
+[2269.12 --> 2276.40] like KRAS mutations into a perfectly normal cell. The first thing that it does is depolarize so that
+[2276.40 --> 2279.76] the gap junctions, meaning these electrical synapses that connect it to its neighbors,
+[2279.92 --> 2285.20] they close and it becomes electrically isolated. And that, that bare fact has been known since I think
+[2285.20 --> 2290.08] the eighties, but it hadn't been really plugged into this, to this, um, kind of protocognitive view
+[2290.08 --> 2295.36] of, of life. Uh, so that's the first prediction. The second prediction is that you ought to be able to
+[2295.36 --> 2301.38] induce cancer and a cancer phenotype without anything being wrong with the genome. And,
+[2301.40 --> 2305.12] and we've done this. So what we've shown is in the frog model, we've shown that you can cause
+[2305.12 --> 2311.74] basically, um, full on metastatic melanoma in tadpoles that have no genetic mutations,
+[2311.96 --> 2317.08] no oncogenes, no exposure to carcinogens, nothing genomically wrong with them. Nothing that you would
+[2317.08 --> 2322.62] ever know from, uh, sequencing anything up until the tumor gets advanced enough that you're now seeing
+[2322.62 --> 2328.90] markers come up, you know, physiological markers come up. And so we can do this simply by temporarily,
+[2328.90 --> 2333.90] uh, disrupting the electrical communication between two cell types and, and you get, you get
+[2333.90 --> 2339.72] metastatic melanoma. The third and, and probably most, uh, most, most exciting, uh, implication of
+[2339.72 --> 2345.54] this is that you ought to be able to go in reverse. So if there is a cell that has gone rogue in terms
+[2345.54 --> 2351.62] of disconnecting from its neighbors and shrinking its goals to unicellular goals of proliferation and
+[2351.62 --> 2356.84] migration, what you ought to be able to do is force it to reconnect. It wouldn't be amazing if you,
+[2356.84 --> 2363.14] if you forced it to reconnect and then the other cells around it normalized it and, uh, and, and,
+[2363.14 --> 2367.58] and, and rolled back this kind of cancer phenotype. And we've shown this now, as you say,
+[2367.74 --> 2372.22] Beatrice Mintz and other people, Mary Hendricks, other people since then, um, have shown that
+[2373.78 --> 2378.88] complex patterning environments, scenarios in which a lot of information is coming down from the body
+[2378.88 --> 2382.98] about what cells should be doing. This is not only embryogenesis, but regeneration. So tumor,
+[2383.12 --> 2387.52] tumors in the middle of a regenerating limb, for example, in salamanders, people have shown that
+[2387.52 --> 2392.28] that kind of environment can normalize cancer cells. And, and maybe people have, people have been
+[2392.28 --> 2397.74] focusing on some biochemical signals, but it's completely unclear why, why this happens. We think,
+[2397.86 --> 2402.58] or at least I think that it's partly because of this, uh, electric connection. And so what we've done
+[2402.58 --> 2409.76] is we've taken, uh, tadpoles into which we, we insert, uh, human oncogenic mutations. So like,
+[2409.78 --> 2415.28] like KRAS, normally they make tumors and you can see these tumors on the tadpoles. And then what we
+[2415.28 --> 2421.14] do is we go back in and we use either light with optogenetics or drugs that target the ion channels,
+[2421.16 --> 2427.34] or, uh, uh, we, we, we could miss express channels directly. You go back in and you force a, an
+[2427.34 --> 2431.62] electrical state that will cause it to stay connected with via gap junctions to its neighbors.
+[2431.62 --> 2438.32] And when you do this, you see a drastic reduction of tumorigenesis, existing tumors, uh, start to
+[2438.32 --> 2442.98] disappear. Now they don't die. The key to this is that these cells, this is, this is not any kind
+[2442.98 --> 2449.16] of chemotherapy because the, the, the tumor cells do not die. What they do is they, uh, they normalize
+[2449.16 --> 2454.34] some of them move off. The thing basically sort of disbands the tumor disbands, the cells join, uh,
+[2454.60 --> 2459.32] other tissues in their vicinity and they go on as a perfectly normal, uh, perfectly normal animal.
+[2459.32 --> 2465.08] So I think, and we're now, so, so all of this stuff was done in frog, uh, a lot, lots of, um,
+[2465.28 --> 2471.32] papers in the frog model. Now we're starting to look at human, uh, cells and tissues. And we hope
+[2471.32 --> 2478.24] that this is a, um, uh, an approach to cancer that's different from chemo. So the idea is not to kill off
+[2478.24 --> 2482.50] as many of these cells as you can and hope you don't kill the healthy ones. The idea is to normalize
+[2482.50 --> 2486.92] or reprogram those cells back towards the large scale morphogenetic goals.
+[2487.44 --> 2494.30] You know, working off that same theme, um, you know, you spent a lot of time, uh, studying
+[2494.30 --> 2501.18] regeneration in various models. Um, we, we, we, we have this term epimorphic where, you know, as you were
+[2501.18 --> 2509.04] saying before, we have a, a process of not just, uh, cells, um, that are remain after a, um,
+[2509.98 --> 2517.60] a, a decapacity, a destruction event, um, erasing their history, but also this process of sort of
+[2518.42 --> 2524.74] intercalation where cells know once again, specifically how to fill in, uh, where they
+[2524.74 --> 2530.06] should be, where, you know, this whole, you know, uh, I'll, I'll refer to sort of what, uh, this sort
+[2530.06 --> 2534.78] of this concept of these different regenerative laws that exist in nature. You know, you, you're really
+[2534.78 --> 2540.30] well aware of them that no matter how many times you chop off that salamander leg, you know, you're
+[2540.30 --> 2544.60] never going to get a foot up here. You're always going to have a proper progression of regeneration
+[2544.60 --> 2550.74] based on a lot of this. Um, I love to talk a little bit about some of your work in terms, you know,
+[2550.80 --> 2555.50] you've done stuff where you've created eyeballs on tails, things of this nature, which is pretty cool.
+[2555.64 --> 2561.40] At the same time, a couple of years ago, you had this fascinating paper. Uh, it was titled
+[2561.40 --> 2567.28] knowing one's place, a free energy approach to pattern regulation was, uh, in the Royal Society,
+[2567.28 --> 2573.18] uh, magazine, um, where you have a model in terms of, you know, for lack of a better,
+[2573.34 --> 2577.62] where do these patterns exist? Um, you know, where are they hiding out? You know, we can't find them
+[2577.62 --> 2581.76] in the genome. Can you talk a little bit about from sort of this physical perspective, you know,
+[2581.80 --> 2588.32] your concepts on, you know, where the limb pattern sort of exists in the context of the body
+[2588.32 --> 2593.08] remembering it. I think this is really neat stuff. Sure. Sure. Um, so, so let's start,
+[2593.22 --> 2598.60] let's start by, by, uh, coming back to, uh, our, our, my, my particular hypothesis, which is,
+[2598.70 --> 2603.76] which is that, um, and this is, this is very much, I mean, I should, I should tell, uh, tell the
+[2603.76 --> 2609.24] listeners, this is very much not a standard way to look at this. Okay. So this is not, I'm not giving
+[2609.24 --> 2614.06] you the standard view that you will get from a developmental biology textbook. Uh, my, my perspective
+[2614.06 --> 2618.76] on this is that regeneration and regulative development and those kinds of tumor suppression,
+[2619.10 --> 2625.16] all of those things are examples of, uh, error minimization. So there are examples of a system
+[2625.16 --> 2629.10] that in some simple way, not down to each individual cell position, but in some simple
+[2629.10 --> 2635.84] general coarse grained map of, of large scale body features, it stores a representation of what a
+[2635.84 --> 2642.10] correct salamander leg looks like. This is, um, uh, what we ought to, in a minute, we ought to also
+[2642.10 --> 2647.28] talk about, um, some gaps in the modern paradigm that, that I think drive us into this kind of
+[2647.28 --> 2652.96] conclusion, but let's just, let's just talk about, uh, what, what, what that entails. If that's true.
+[2653.32 --> 2656.48] And, and the reason that the, by the way, the reason this is very much a non-standard view
+[2656.48 --> 2662.92] is that, um, in modern, uh, modern fields like this, it is very fashionable for, for many years now
+[2662.92 --> 2668.58] to, uh, really try to avoid anything that sounds like teleology. So anything that sounds like the
+[2668.58 --> 2673.28] system has a goal or that it's trying to get to a particular place, what people really love
+[2673.28 --> 2679.04] nowadays is emergence. So this idea that, um, there are complex systems that when you turn the crank and,
+[2679.04 --> 2684.04] and, and lots of subunits do simple rules again and again, complex things emerge. And there's
+[2684.04 --> 2689.06] absolutely no doubt that emergence is important. Um, that emergence is critical for lots of interesting
+[2689.06 --> 2693.22] phenomena. But, um, but I want to talk for a minute about this, this idea that there is a
+[2693.22 --> 2699.68] representation of the goal state. It, that, that model makes a really peculiar prediction. What it
+[2699.68 --> 2707.84] predicts is that if you want to make changes to the large scale system, you might not have to rewire
+[2707.84 --> 2714.86] the individual cells or components. You could change the goal state because, because if the, if what the, if
+[2714.86 --> 2721.40] what the system is doing is trying to, to get to whatever the, the, the memory of the goal state is, you might
+[2721.40 --> 2727.00] just rewrite that and let the cells build to whatever, to the memory, right? That's a, it's a
+[2727.00 --> 2731.44] completely different approach because if there is no, if there is no memory, if there is no pattern
+[2731.44 --> 2735.92] memory that the system is trying to get to, if it's fully emergent, then you have no choice. There's,
+[2735.94 --> 2741.36] there's really nothing to do except to, to, to, to, um, try to alter those low level rules that the
+[2741.36 --> 2747.04] cells are following. And, uh, it's, the problem is, is, is, is really, really hard. And you can think
+[2747.04 --> 2752.02] about it in the following way. Let's say, let's say you have a, a, a termite mound and it has a
+[2752.02 --> 2756.76] particular kind of chimney, right? And you say, okay, I want, you know what I want? I, I would like
+[2756.76 --> 2761.96] them to build a chimney that has, it's forked. It's got, it's got two. And so now the question
+[2761.96 --> 2767.08] is, okay, how do I change the rules that every single termite follows to give you a forked chimney
+[2767.08 --> 2771.92] instead of a straight one? Well, this is incredibly hard. It's called an inverse problem because what you
+[2771.92 --> 2777.22] care about is the large scale, uh, uh, final outcome. But what you are trying to make changes
+[2777.22 --> 2781.98] in is the, is a completely different level of events. It's the rules that every ant, every
+[2781.98 --> 2785.96] termite has like, Hey, if I meet another termite with a particular chemical, I will drop a piece
+[2785.96 --> 2790.42] of dirt or I'll pick up a piece of dirt, you know, these kinds of things. And going from one to the
+[2790.42 --> 2796.00] other is really hard. The same thing happens to us in, uh, in biomedicine. What you really care
+[2796.00 --> 2799.80] about is how many fingers your patient has or how long their leg is or things like this.
+[2799.80 --> 2807.94] But the tools we have are things like, you know, protein factors and, and, and, and transcription
+[2807.94 --> 2813.38] factors and knowing how to change those things to get to the correct large scale outcome is
+[2813.38 --> 2820.22] incredibly hard. Uh, this is, this is one reason I think that the techniques like genomic editing
+[2820.22 --> 2825.72] and so on, while really important are going to hit a limit if we, if we exclusively try to
+[2825.72 --> 2834.32] use bottom up approaches. So, uh, so, so, so, so my, my approach is, is, is that if we hypothesize
+[2834.32 --> 2839.68] that there is a pattern memory to which the system works, let's not try to address it from a, from a
+[2839.68 --> 2844.88] different lower level of the individual rules. Let's try to change the pattern memory. Okay. And
+[2844.88 --> 2847.96] remember on the, on the, on the traditional view, there is no such thing. So there's nothing to change.
+[2847.96 --> 2852.90] Yeah. So, okay. So, so what we've done is we've asked the question, if, if that's true,
+[2853.40 --> 2859.98] could we find the, could, could we see, detect and, and characterize this representation? And if we
+[2859.98 --> 2864.14] could find it, could we change it and get the cells to do something else? So I'm going to tell you the
+[2864.14 --> 2870.22] story of, of one particular example where we've done that. So, um, think about, uh, these things
+[2870.22 --> 2876.12] called planaria. So planaria are flatworms. They are, uh, similar to our ancestor. They're not like
+[2876.12 --> 2879.48] earthworms. They're good. They're true by light. They have true bilateral symmetry. They have a
+[2879.48 --> 2885.14] brain. Most of the neurotransmitters like you and I have, um, complex organisms. The amazing thing
+[2885.14 --> 2890.98] about planaria is that they are champions of regeneration. So you can cut them in any way that
+[2890.98 --> 2897.02] you like. Uh, the record, I think is something like 273 pieces back in the, back in the day. And
+[2897.02 --> 2902.88] every single piece will grow exactly what's needed. No more, no less, and make a tiny little worm.
+[2902.88 --> 2908.70] Now, the most amazing thing about regeneration, of course, is that it stops. It's easy enough to
+[2908.70 --> 2912.96] say that, well, we're just going to, uh, we're going to crank up cell division after injury. I
+[2912.96 --> 2918.36] mean, that's fine. But what happens is they stop when they, or let's say in a salamander limb,
+[2918.64 --> 2924.36] once it gets to be a correct salamander limb, wherever that means, then it stops. So, so, so clearly
+[2924.86 --> 2929.10] operationally the system knows what a correct, uh, a limb looks like or a correct worm, and then it
+[2929.10 --> 2933.82] stops. So, so we asked the following question. Okay. Um, we have these, we have these planaria.
+[2935.56 --> 2939.64] Um, what is it that enables them to know? And we asked the simple question, uh, head number,
+[2939.74 --> 2943.84] how many heads is a, is a worm supposed to have? The standard worm has one head, one head,
+[2943.92 --> 2949.82] one tail. And so we asked this question. Uh, and, and so what we started to do was to look at the
+[2949.82 --> 2956.12] bioelectrics of this process and to observe fragments, uh, via these voltage sensitive fluorescent
+[2956.12 --> 2960.48] dyes that give us a kind of readout. It's, it's, it's, you know, it's all, it's, it's almost like
+[2960.48 --> 2965.14] a, uh, like a, like an EEG, but, but, but for the whole, for every cell. So you can see all the
+[2965.14 --> 2969.08] surface, you can, you know, as long as you can see them optically, you see what all these cells
+[2969.08 --> 2975.38] are doing electrically. And what we found is that, uh, the way that the planarian piece knows where to
+[2975.38 --> 2980.26] put the head and where to put the tail is that it has this really interesting bioelectrical pattern
+[2981.20 --> 2985.72] where the depolarization is telling you where the head is going to be. The hyperpolarization is
+[2985.72 --> 2990.64] telling you where the tail is going to be. And there's one of each. So then we were able to go
+[2990.64 --> 2995.92] in and, and artificially change this electrical pattern. And we were able to, let's say, take
+[2995.92 --> 3002.02] the posterior wound and say, you're going to be, we're going to depolarize you. So now the cells look
+[3002.02 --> 3005.62] and they say, well, I guess we make heads on both sides. And now you get a two headed worm. So you
+[3005.62 --> 3010.98] literally get a two headed planarian with heads on, on, on each end, right. And perfectly viable. Um,
+[3010.98 --> 3015.64] the cells are totally happy to build two normal, normal heads. If that's what the bioelectric pattern
+[3015.64 --> 3019.70] says. And so, so that was the, that was kind of the first amazing thing is that it's clear that
+[3019.70 --> 3023.94] this pattern is instructive. It doesn't just read out where the head and tail used to be. It's
+[3023.94 --> 3027.68] actually instructive for what's going to happen in the future, because if you rewrite it, you get a
+[3027.68 --> 3033.56] different anatomy. The most amazing thing about this is that when you take those two headed worms
+[3034.26 --> 3039.44] and you recut them again in plain water, no more manipulations of any kind. So originally we use drugs
+[3039.44 --> 3043.64] to target the electrical, you know, um, the electrogenic proteins, no, no more of that,
+[3043.64 --> 3048.12] just plain old water. So you take these worms. And of course, uh, when I, when I give talks
+[3048.12 --> 3051.78] about this, I usually ask people, I say, well, look, we have this two headed worm.
+[3052.06 --> 3056.12] I'm going to cut off the ectopic head. I'm going to cut off the original head. I'm just going to
+[3056.12 --> 3061.02] keep the middle gut fragment. The genetics are untouched. We haven't re we, we haven't edited
+[3061.02 --> 3065.68] the genome or the genomic sequence is exactly normal. What is this, this weird head tissue that
+[3065.68 --> 3069.42] people say, well, it's epigenetically reprogrammed. Okay. So it goes in the garbage. We, we cut that
+[3069.42 --> 3073.10] off and we take this, this remaining gut fragment. I said, what do you think this thing's going to do?
+[3073.10 --> 3077.98] And of course the standard paradigm is, well, it has to go back to the default anatomy that
+[3077.98 --> 3082.58] the cells have a standard genome. Uh, if you sequence them, there's nothing wrong with it.
+[3082.94 --> 3087.56] Therefore they're going to make what, what planarian cells make, which is a normal planarian.
+[3088.06 --> 3093.20] That's absolutely not what happens. So you, so you take this two headed worm and it is forever,
+[3093.20 --> 3098.52] as far as we can tell, um, through many rounds of, of regeneration, it is now permanently two headed.
+[3098.52 --> 3104.94] Hmm. So, so worth pausing for a moment to think about what that means. So, so the number of, and
+[3104.94 --> 3111.10] the, and the, and the spatial distribution of heads is determined by the memory of an electric circuit,
+[3111.32 --> 3115.44] the electric circuit. Um, and there's some other stuff involved too, but, but, but these electric
+[3115.44 --> 3123.20] circuits store a pattern that tells the cells what on this large anatomical scale, what they're going
+[3123.20 --> 3130.52] to build and not only, uh, can it be changed, but it persists. So once you change it, it, it keeps.
+[3130.64 --> 3134.72] So it's a, it's a true electrical memory. Actually, we've learned to take it the other way. So we can
+[3134.72 --> 3141.58] now take a two worm and a two headed worm and change it back to being a one headed. Um, so a worm's
+[3141.58 --> 3148.68] body can hold at least two, probably more different memories of what a correct planarian looks like.
+[3148.68 --> 3154.14] This is the, this is the information to which the cells will build if they are damaged.
+[3154.88 --> 3160.28] Now, so, so, so why do I call it a memory? Well, first of all, because it's stable, like a memory
+[3160.28 --> 3166.98] is supposed to be, it's labile or rewritable like a memory is supposed to be. Uh, it is, um, there is
+[3166.98 --> 3173.92] also such a thing as, um, uh, latent versus recalled memory. So we can take a worm, we can alter the
+[3173.92 --> 3180.08] electrical pattern. And as long as we don't cut it, it stays one headed because that, that memory
+[3180.08 --> 3184.14] is latent. No, but no one's calling it up. It's not being used for anything. As soon as we injure
+[3184.14 --> 3189.32] the worm, that's when it becomes active and the cells consult the pattern, then they build a two
+[3189.32 --> 3195.76] headed worm. But in the meantime, that body can store one of two, uh, one of two patterns, at least
+[3195.76 --> 3201.20] probably more. So, so what we're able to do is we're able to directly look at a worm. We're able to
+[3201.20 --> 3208.08] see that pattern memory. Now we're able to rewrite it and, and we can see that, uh, the gene expression
+[3208.08 --> 3214.50] and the cell behaviors are controlled by this pattern. So this is just one example of the fact
+[3214.50 --> 3219.96] that, yeah, absolutely. We can see these target states. They're absolutely represented. Now we've
+[3219.96 --> 3223.72] gone, we've gone further than this. And the other thing you can do, which is also kind of wild
+[3223.72 --> 3229.08] is the two other things should be, should be mentioned. One is that there's this electrical
+[3229.08 --> 3234.60] system, uh, aside from head number, you can think about head shape. And so one of the
+[3234.60 --> 3238.28] different planaria have different shaped heads. So there's triangular ones, flat ones, round
+[3238.28 --> 3242.84] ones, all different kinds of heads. So what we can do is we can take a planarian with a triangular
+[3242.84 --> 3250.82] head shape, cut off the head and basically prevent that, uh, bioelectrical network from
+[3250.82 --> 3254.88] communicating very well. We can shut down these gap junctions, these electrical synapses for
+[3254.88 --> 3260.32] about 48 hours. So the network, uh, enters this really chaotic state and then it settles
+[3260.32 --> 3264.30] back down. When you pull the drug out, it settles back down. The thing is that when it settles
+[3264.30 --> 3269.20] back down, some percentage of the time it goes back to the same attractor that it used to
+[3269.20 --> 3275.02] live in, which is a normal planarian head, but it turns out there's some others and the others
+[3275.02 --> 3280.32] are, and sometimes the system stochastically will land in one of these other attractors. And,
+[3280.32 --> 3286.16] and believe it or not, these other attractors are, uh, the, represent the head shapes of other
+[3286.16 --> 3291.38] species of planaria. So what we can do is without touching the genome in any way, we can take that
+[3291.38 --> 3297.78] fragment and make it, uh, regrow the head belonging to a different species of worm. It'll have a
+[3297.78 --> 3301.64] different shape. The brain will be a different shape. The distribution of stem cells will be
+[3301.64 --> 3306.58] different exactly like these other species. These other species about, oh, probably between a hundred
+[3306.58 --> 3312.26] and 150 million years of evolutionary distance. So what you have here is this really amazing
+[3312.26 --> 3319.84] divergence between the genomic information and the actual, uh, physiological information that guides
+[3319.84 --> 3325.64] what the cells are actually doing. And, uh, the, the way, the way to understand this, there's,
+[3325.64 --> 3330.02] there's a couple of different ways that we use this, but the way to understand it is that what the
+[3330.02 --> 3335.70] genome does is it nails down the hardware. A lot of people think of the genome as the software of the
+[3335.70 --> 3339.98] cell. So, so I, I, I think, I think that's not the best metaphor. I think, I think a better way to
+[3339.98 --> 3345.48] think about this is that what the genome does is it tells every cell what proteins it gets to have.
+[3345.60 --> 3350.34] That's your hardware. Some of those proteins are electrical signaling machinery, some chemical,
+[3350.58 --> 3355.66] physical forces, whatever. Um, but once you put all those things together, there's a new layer
+[3355.66 --> 3362.36] that shows up, which is a computational layer that, uh, is the software that runs on this hardware.
+[3362.36 --> 3367.12] And the hardware is amazing. The reason the hardware is so, so cool is because first of all,
+[3367.20 --> 3372.44] it's very stable. So most of the time it does exactly the right thing. It always does the same,
+[3372.54 --> 3377.58] you know, planaria regenerate correctly, just about 100% of the time. But once you know how to give it
+[3377.58 --> 3382.78] correct inputs, which it took us, you know, what, 10, 10, 12 years to learn to how to do this.
+[3383.06 --> 3388.26] Once you know how to, how to put in the correct inputs, you can shift that software to a different
+[3388.26 --> 3393.92] mode to a different activity mode. And you don't have to rewire it. You don't have to, um, in fact,
+[3394.02 --> 3398.90] if we wanted to rewire it, we wouldn't know how, if you wanted to do genomic editing to make, to go
+[3398.90 --> 3403.86] from a round head or to a triangular head, how would you do it? We have absolutely no idea. And so, uh,
+[3404.00 --> 3409.94] and so, but luckily you don't have to, because the system is modular and, and, and it represents
+[3409.94 --> 3414.74] these goal states that you can sort of choose among. You can also, we have the third thing is that
+[3414.74 --> 3419.86] we've also made, uh, some, some really, um, wacky things that don't look anything like planaria
+[3419.86 --> 3425.42] out of normal planarian cells, because, uh, there are regions of that morpheus space that are on
+[3425.42 --> 3429.02] evolution doesn't use. I mean, they're not viable out in the, out in the wild. So it doesn't,
+[3429.02 --> 3433.24] doesn't see them, but, but you can, in fact, you can make it, you can make some really wild creations
+[3433.58 --> 3437.58] if you, if, if you're operating at the level of, uh, body plane information.
+[3439.22 --> 3447.34] Let's, let's take the planarian for a moment and then, um, go in a direction. I mean, I have tons of
+[3447.34 --> 3453.30] your, I have tons of your, um, your manuscripts around here, uh, and I, it's hard to pick my
+[3453.30 --> 3458.62] favorite, but clearly, um, your paper, the stability of memories during brain remodeling,
+[3458.76 --> 3464.68] the perspective in a communicative and integrated biology is at one of the ones at the top. So,
+[3464.68 --> 3472.12] um, here you, you know, earlier on, you talked a little bit about the, um, the ancient, uh,
+[3472.60 --> 3478.70] the ancientness of, uh, these bioelectric networks, that neurons, you know, they came on the scene
+[3478.70 --> 3482.48] a couple hundred million years ago, whatever, but there was a lot happening before them.
+[3482.70 --> 3488.58] Uh, you highlight in this paper, obviously that we're on a planet where we have many
+[3488.58 --> 3496.56] a neural organisms that don't have brains at all. Uh, we have these, uh, bioelectric networks,
+[3496.56 --> 3501.86] not just, you know, in our nervous system, but we have them in heart and bone and pancreas and so
+[3501.86 --> 3506.96] forth. And then we have obviously, and this is other, I'll get to this another question, but
+[3506.96 --> 3512.32] we have, um, you know, single cell organisms that you pointed out that like to get together with other
+[3512.32 --> 3520.10] organisms that create all sorts of interesting structures. Um, that being said, uh, going into
+[3520.10 --> 3527.54] the concept of remodeling of the brain, uh, obviously the work by, uh, McConnell in the 1950s
+[3527.54 --> 3533.94] and Paul Peash at the university of Indiana and the seventies, uh, showed that, um, you know,
+[3534.10 --> 3540.80] you can destroy quite a bit of the stuff in there of the planarians and the frogs. And you've also
+[3540.80 --> 3547.10] pointed out, uh, uh, metamorphic insects and so forth in the paper, uh, take us on a little path
+[3547.10 --> 3553.00] into the area of non-central nervous system information processing, as far as, uh, what we think
+[3553.00 --> 3558.54] of as humans are our memories. Uh, and I know this is a little more esoteric area, but it is
+[3558.54 --> 3563.98] clearly something that, you know, I think you are leading the, the, the march towards us really
+[3563.98 --> 3571.52] understanding what all these other potential implications are for storing this cognitive stuff.
+[3571.78 --> 3577.42] Yeah. Um, that's it. So that's a very interesting question. And, and because I think that, uh,
+[3577.56 --> 3582.90] evolution is very continuous in the sense that, uh, somatic information and behavior
+[3582.90 --> 3588.70] information are all have, all have fundamentally the same, the same roots. And so even, even
+[3588.70 --> 3594.38] unicellular organisms can learn, they can store memories. Some of them can anticipate. So we have
+[3594.38 --> 3601.24] to ask, uh, what does it mean to store learned information in living tissue? This is a really
+[3601.24 --> 3604.84] a basic fundamental thing. Like what, what is it, what is a memory? And these are the kinds of things
+[3604.84 --> 3609.80] that, um, Warren McCulloch, uh, you know, and the founders of connectionism really struggled with,
+[3609.80 --> 3613.96] like, what, what does it actually mean to store a memory, a proposition, a, you know,
+[3614.04 --> 3621.68] a, a, a, a logical proposition in, in memory. So there is of course, uh, this current paradigm,
+[3622.00 --> 3627.42] which is very much, um, they call it a neural network or, or a connectionist type of idea,
+[3627.70 --> 3632.56] which is that, look, what you have is these, you have a, you have a, you have a network of these,
+[3632.64 --> 3639.04] of these, uh, individual, uh, units or cells, and they can, uh, be triggered by inputs and they can
+[3639.04 --> 3644.34] pass on their outputs. And when through various means, when the whole thing gets trained on a
+[3644.34 --> 3649.22] bunch of stimuli, all those little, the, the likelihood of one thing triggering another thing
+[3649.22 --> 3655.74] gets adjusted to just the right level. So that as a whole, it's able to, let's say sort, uh, you know,
+[3656.14 --> 3660.02] pictures of dogs from pictures of cats or some such thing, you know, this is like modern deep,
+[3660.14 --> 3666.30] deep nets and so on. So the, the, the, the, the thing with this is, and, and of course, of course,
+[3666.30 --> 3672.14] it's, it's had lots of success in specific, um, specific fields. There are, uh, there's a problem
+[3672.14 --> 3678.36] with that as a general, uh, explanation for how memory is stored. And, and I'm not, I'm certainly
+[3678.36 --> 3683.42] not, um, the, the only one to have said this and the most, like some of the recent excellent work
+[3683.42 --> 3690.22] comes from, uh, Glansman, the Glansman lab, uh, on, on transfer of, of chemical memory. It's been known
+[3690.22 --> 3698.50] for a long time that, as you say, that memory is remarkably, uh, robust to changes of the underlying
+[3698.50 --> 3703.68] medium. So for example, a caterpillar will learn something, uh, on the, during the process of
+[3703.68 --> 3710.70] metamorphosis of becoming a butterfly, the brain gets mostly dissolved, remodeled. A lot of the,
+[3710.74 --> 3715.98] the neurons either, either die or, or, or the synaptic connections are broken. A completely different
+[3715.98 --> 3721.88] brain is rebuilt and the butterfly remembers the original information. Yep. So what is this telling
+[3721.88 --> 3727.82] us about, uh, of, of course, of course, uh, the artificial neural networks don't, don't have this
+[3727.82 --> 3732.60] property. Right. And we don't, in fact, we don't have, this is something we're actually, um, actively
+[3732.60 --> 3741.00] trying to develop in our lab is the, uh, is a, is a set of, um, policies for a kind of, uh, ANN like, uh,
+[3741.00 --> 3745.82] uh, scheme that would be robust to these incredible deformations. You know, when you regenerate a
+[3745.82 --> 3751.76] portion of your brain, what happens? All of this is, has, has clinical implications because pretty
+[3751.76 --> 3757.54] soon we'll be injecting, uh, naive stem cells into the brain of 60 year old patients that have,
+[3757.64 --> 3762.30] you know, six decades of, of memories. And then what happens to personal identity, what happens to,
+[3762.40 --> 3767.74] right. Um, so, but, but it also has really fundamental implications of what does it actually mean
+[3767.74 --> 3773.04] for a bunch of, uh, neurons to store something you've learned? We really don't know. I mean,
+[3773.16 --> 3779.76] people study LTP and things like this, but it's completely unclear what it is. So, um,
+[3780.22 --> 3785.22] Warren McCulloch was looking for an invariant. He was looking for some physical thing that is the
+[3785.22 --> 3789.84] same whenever you think about a particular concept that's the same, right. And if you think about your
+[3789.84 --> 3793.90] memory of, you know, you probably have a memory from, from your early childhood, let's say before you
+[3793.90 --> 3800.06] were 10 and, and now, however many decades later, here we are. The question is what physical structure
+[3800.06 --> 3805.02] has actually stayed the same in your brain that could possibly, right. What, what's a candidate for,
+[3805.08 --> 3809.46] for something that's that long lived that doesn't change really hard to visualize how that would work.
+[3810.10 --> 3818.02] So, so between that and these kinds of experiments on brain regeneration, uh, moving of memories via
+[3818.02 --> 3824.22] chemical extracts, the old stuff from, from, um, uh, uh, uh, Ungar and, uh, and McConnell and now the
+[3824.22 --> 3828.38] latest work by Glantzman and others, there's something fundamental that we're missing about
+[3828.38 --> 3833.76] what memory is. And one possibility, and I'm just, I don't have any proof of this. I'm throwing this out
+[3833.76 --> 3840.72] as a, as a possibility. One possibility is that what the nervous system is for is not storing the memories.
+[3840.72 --> 3847.22] What the nervous system is for is for interpreting the information in the cells, which might be
+[3847.84 --> 3852.22] cytoskeletal. It might be biochemical. I mean, Glantzman thinks it's RNA. You may be the other,
+[3852.32 --> 3856.26] but a lot of people like RNA as a medium, whatever it is, you need to be able to interpret it.
+[3856.54 --> 3860.58] And one possibility is that what the networks are for are neural networks are for, are for
+[3860.58 --> 3865.68] interpreting that information and turning it into signals to behavior, muscles, glands, whatnot.
+[3865.68 --> 3870.32] So, so that's, that's, that's something, that's the kind of thing we, we think about. It is, it is
+[3870.32 --> 3879.48] entirely unknown. Uh, it's saying that memory is in the brain is like, is like saying that the anatomy
+[3879.48 --> 3885.02] of the body is somehow in the DNA. I mean, it's a, it's an, it's a simple thing to say, and people say
+[3885.02 --> 3891.02] it all the time. It's very hard to cash that out in a way that actually makes sense. You know,
+[3891.02 --> 3896.18] specifically it had, there are lots of difficulties with, with understanding how this works. So, um,
+[3896.44 --> 3900.72] yeah, I think, I think it's a profound question of, of what, what, what actually it means to store
+[3900.72 --> 3907.18] memory. Yeah, totally agree. But I, I, I like the fact that you're out there, uh, asking these
+[3907.18 --> 3912.46] questions. So I mean, it's, uh, extremely important that someone has to, and it, uh, it obviously falls
+[3912.46 --> 3919.76] within your, within your specialty. So I think it's great. Um, you know, coming back to, um, you were
+[3919.76 --> 3928.62] sort of the funding and, uh, of, of your programs and so forth, you know, you, um, you had a rather
+[3928.62 --> 3935.82] large grant from, uh, Paul Allen's, um, frontiers group a couple of years ago, the late co-founder
+[3935.82 --> 3942.14] of Microsoft, uh, which whose mission in this group was to sort of look at this frontiers of science
+[3942.14 --> 3947.04] and identifying pioneer explorers like yourself. Can you just talk a little bit, because, you know,
+[3947.42 --> 3951.04] obviously I come out of the traditional pharmaceutical industry and, you know, I've had
+[3951.04 --> 3955.70] my feet in sort of the venture capital space and know how sort of traditional investors think. And,
+[3955.86 --> 3959.98] you know, they like, you know, it's a lot of times sort of a lemming effect. What has it been like,
+[3960.08 --> 3965.70] what's your experience? What's it been like in sort of championing some of these new ideas? Um,
+[3965.86 --> 3971.72] I mean, do you find it easier nowadays that you have some of this, these other big guns behind
+[3971.72 --> 3977.82] you, um, because you are sort of really on, on the bleeding edge of stuff. Let's talk a little
+[3977.82 --> 3983.04] about just sort of what you've experienced out there in terms of, uh, sort of 2020 funding for
+[3983.04 --> 3988.20] some of this really cutting edge work. Yeah. Uh, you know, I, I, I'll preface everything by saying
+[3988.20 --> 3994.58] that, um, I, I'm not complaining in the sense that we, you know, it's been 20 odd years and we've
+[3994.58 --> 4000.76] been, uh, generously supported by NIH, NSF, DARPA, you know, so, so, so I'm not complaining by any
+[4000.76 --> 4009.90] means. Uh, the reality is that a lot of funders are very risk averse and, um, things that look like
+[4009.90 --> 4016.80] obvious, great things that, uh, once they're done and published are inevitably the things that people
+[4016.80 --> 4020.96] originally said, okay, but that's never going to work. The previous X number of things work, but that,
+[4021.04 --> 4023.84] that right there, that's never going to work. And then afterwards people are like, ah,
+[4023.84 --> 4028.16] that's cool. But you're the next thing that that's definitely not going to work. So, so, so people,
+[4028.30 --> 4034.28] people are tend to be quite risk averse. And I think it's, it's people as successful people are
+[4034.28 --> 4039.78] very well calibrated on their own field and they have their own frontier ideas that they're willing
+[4039.78 --> 4045.00] to take bets on, but things that are in a different, slightly different field that, that, um, you know,
+[4045.08 --> 4050.52] is not their favorite cup of tea. They're much less willing to, to give a benefit of the doubt for,
+[4050.52 --> 4055.44] for novel, just new ways of thinking about it. So, um, that's just been my, my experience. So,
+[4055.48 --> 4064.42] uh, I think what we have tried to do is to really, um, target, uh, correctly what the needs of a
+[4064.42 --> 4070.70] particular funder are. So, so, so for example, if we're going for a relationship with biotech,
+[4070.84 --> 4076.46] we have to be very clear about, there's going to be a particular biomedical application at the end of
+[4076.46 --> 4080.16] this. You know, they don't really want to hear about philosophical questions about what memory is and
+[4080.16 --> 4084.90] things like this. They want a clear path to, here's how we're going to, we're going to cure X, Y, Z,
+[4085.02 --> 4089.82] right? So, so we have, we have, um, work in limb regeneration, for example, inducing limb regeneration.
+[4090.42 --> 4095.62] And, um, these are, uh, you know, this is, this, there's, there's some, uh, there's some,
+[4095.66 --> 4101.94] there's some biotech funding around that. Um, there are other, uh, funders that are interested in
+[4101.94 --> 4107.54] much more basic kinds of things. So there was a, you know, there was a, the Mathers foundation was very
+[4107.54 --> 4112.30] good to us for some very basic initial work on cracking the bioelectric code. Of course,
+[4112.80 --> 4119.70] um, the Allen frontiers group, which really got, got, got our center, uh, started, um, looking at
+[4119.70 --> 4124.50] this, uh, at this, at this morphogenetic code, what they call the dark matter of biology. That was Paul's,
+[4124.52 --> 4130.80] Paul's phrase. Um, so we're, we're, we're very grateful, uh, very grateful for, for those kinds of
+[4130.80 --> 4138.34] things that support frontier efforts in areas where you're not sure what exactly yet, you're not sure
+[4138.34 --> 4143.38] what exactly the outcome is going to look like, you know? And, uh, that's very important because
+[4143.80 --> 4148.68] when, for, for traditional funders, you need to be very clearly specifying, you need to very clearly
+[4148.68 --> 4152.30] specify what the success and failure criteria are and what are you going to produce? What are the
+[4152.30 --> 4157.02] deliverables? And in order to do that, you kind of have to already have mapped your area out pretty
+[4157.02 --> 4161.06] well if you know what you're going to get out the other end. And some projects are very much like
+[4161.06 --> 4166.76] that where you can do that and other projects you really can't. So we, we try for a mix of funders
+[4166.76 --> 4171.10] with different preferences. There are some that really want the frontier stuff. They want to be
+[4171.10 --> 4175.64] at the cutting edge of, of, of new things and others that really want to be pretty practical about,
+[4175.78 --> 4179.68] okay, what are you going to get at the end of three or four years? And, and it's a patchwork of it's,
+[4179.68 --> 4185.52] it's a lot of, it's a lot of work actually. It's a lot of, um, hard work, uh, producing a best case
+[4185.52 --> 4191.02] for whatever we want to do for these, for these various things. And, uh, and it's a real mix of,
+[4191.06 --> 4197.42] of private, um, and, um, and, and, and public funders to try to try to keep all this stuff afloat
+[4197.42 --> 4201.00] because they all have, they all have different preferences of areas that they want to advance.
+[4202.98 --> 4210.54] Great. Just a, two more, two more questions. Um, one, um, as people who watch the show, I usually give
+[4210.54 --> 4215.80] the, uh, the bio of my guests to my kids to, to come up with some interesting questions. Um,
+[4215.80 --> 4222.44] and this one is from my, uh, my 12 year old daughter. Uh, she actually, uh, you know, a couple
+[4222.44 --> 4227.58] of several months ago, Josh Bongard came on the show to talk about, uh, your, your work with xenobots.
+[4227.74 --> 4232.66] Um, and actually right before that, we had the Penny Boston from NASA who was running things in
+[4233.44 --> 4239.24] astrobiology and, uh, my daughter just wanted to, and nothing confidential of course, but, uh, she was
+[4239.24 --> 4243.72] rather, you know, impressed by all the potential stuff that had to do with space and that these xenobots
+[4243.72 --> 4249.10] may be, uh, good alternatives to either sending humans or robots, uh, to colonize plants. Any,
+[4249.22 --> 4254.38] any interesting cosmo-biological stuff that, uh, that you can talk about that you're doing or
+[4254.38 --> 4257.72] anything new on the xenobots front for that matter? She was rather interesting.
+[4258.06 --> 4266.80] Yeah, sure. Let's see. Um, well, so, so for now the xenobots, uh, only, um, operate in a,
+[4266.88 --> 4271.66] in a water environment of, uh, probably, you know, pretty reasonable room temperature. So I think,
+[4271.66 --> 4278.32] I think, uh, it, it remains to be seen exactly what the role of something like a xenobot would be
+[4278.32 --> 4285.46] in, uh, in, in unknown environments where things are, things are very different. Um, I, I, I think
+[4285.46 --> 4291.00] about it in, in a slightly different way. However, I, I think I see the xenobots as a new model system
+[4291.00 --> 4298.74] for life as it could be. And the idea is, you know, when we go out there, we are going to, uh, I,
+[4298.74 --> 4304.82] I hopefully, uh, encounter some really interesting, uh, different kinds of environments and we're
+[4304.82 --> 4310.18] going to have to answer an interesting question. Is there life there? And right now we're operating
+[4310.18 --> 4315.70] with an N of one example of what life looks like. It's the life here on earth. And, and even there,
+[4315.76 --> 4320.86] there are some corner cases where like, it's kind of unclear what's going on there. Uh, there are some,
+[4321.04 --> 4325.14] in fact, we're writing, I'm writing a review right now of some of these weird cases where it's
+[4325.14 --> 4329.80] completely unclear what the individual is. What's the organism is that, you know, because
+[4329.80 --> 4333.62] there are all kinds of weird configurations of different types of cells living together and so
+[4333.62 --> 4342.24] on. So, so I think that one thing we need to really do is nail down what we mean by the words
+[4342.24 --> 4350.54] organism, alive, evolution, body, uh, death, all of these things. Uh, we, we throw these words
+[4350.54 --> 4356.84] around. They're not obvious at all. And, um, we're going to, we, we should nail them down for
+[4356.84 --> 4361.28] our work here on earth, but even more importantly, it's going to be, it's going to be critical so that
+[4361.28 --> 4366.34] we, we have some idea of knowing what we're looking at when we see, uh, lots of complex things
+[4366.34 --> 4372.30] happening and we have to say, so is that a biofilm? Is that a single organism? Is that a, you know,
+[4372.34 --> 4375.90] you can imagine these scenarios where you don't even know the right scale. Is that just chemistry
+[4375.90 --> 4380.18] or is that actually alive? Is this thing learning? Is it what, what, what, what, where's the, which
+[4380.18 --> 4384.96] part of this is the organism? So, um, it's much less obvious than it seems. And the xenobots are a
+[4384.96 --> 4391.38] good example of that. So, um, I'm, I'm in the process now of, of writing a paper on, on the sort
+[4391.38 --> 4398.62] of, uh, philosophical implications of these xenobots. And one of the things about the, the, the ones that
+[4398.62 --> 4406.10] we've made is you, you take cells from an organism and you liberate them from the, the, the, you know,
+[4406.18 --> 4413.34] the, the, the frog as it were, and they re-envision their multicellularity and they assemble something
+[4413.34 --> 4417.10] completely different this time around. They do, they, they have a different shape and structure.
+[4417.48 --> 4422.60] And if you, um, chop them into pieces, the pieces do something else that's completely different.
+[4422.60 --> 4429.34] And so one thing you could imagine is, uh, is, and, and, and I start off this paper like, like this,
+[4429.46 --> 4434.84] um, imagine, imagine the following scenario. So you're exploring a planet and you see this animal
+[4434.84 --> 4441.12] and the animals running around doing things and then it dies, the animal dies. But we all know that
+[4441.12 --> 4447.24] when a body dies, most of the cells are usually alive, right? It's right. And so, and in fact,
+[4447.32 --> 4452.16] there have been studies of people, you know, recovering and culturing cells from cadavers that are quite old
+[4452.16 --> 4457.36] and things like this, right? So in the, in an appropriate environment, so let's say this is
+[4457.36 --> 4463.64] an aquatic animal, like a frog or a fish, it's entirely feasible that the individual cells,
+[4463.76 --> 4469.18] or at least some individual cells after the organism dies, disband and continue their life
+[4469.18 --> 4474.14] as unicellular forms. Tumor cells can do this. We already know they can do this. And so you might
+[4474.14 --> 4479.34] imagine this, this on another planet, you might imagine this interesting life cycle where there's a
+[4479.34 --> 4485.36] multicellular body, but after death, the body's gone, but most of the cells go on and the genome
+[4485.36 --> 4490.92] continues itself as a kind of unicellular, you know, as, as, as a set of amoebas basically. And
+[4490.92 --> 4496.58] we know that being an amoeba is a viable lifestyle, plenty of amoeba can do it. So there's really no
+[4496.58 --> 4502.44] reason why that couldn't be. And then some of them may or may not get together again, as, um, as for
+[4502.44 --> 4509.18] example, dictostelium amoebas do and form a new body reverse. So it's sort of a reversal back and forth of a
+[4509.18 --> 4515.32] developmental process. Um, and they could, they may or may not recombine with others. It may be
+[4515.32 --> 4520.60] cyclical, it may not, but you could imagine these really weird cases in the biosphere that becomes,
+[4520.74 --> 4526.04] so now, you know, uh, you, you have an organism where the genome of the amoeba is exactly the same
+[4526.04 --> 4530.26] as the genome of the organism. And so that might be your first clue that something like this is
+[4530.26 --> 4534.68] happening. Uh, whether that happens on earth, I have no idea. We can certainly do it artificially
+[4534.68 --> 4541.04] as, as we all know, uh, in the lab, but whether that happens in nature, we don't know. Um, I mean,
+[4541.14 --> 4546.24] some cancer cells, you know, like, uh, Tasmanian devil, uh, cancer spreads, it hops from animal to
+[4546.24 --> 4551.24] animal. So those cells, those animals, those cells can actually move on when, if, despite whatever
+[4551.24 --> 4556.16] else happens to the host, they can move on. Uh, so, so I, I only bring up that example to say that
+[4556.16 --> 4563.20] the xenobots, aside from like very practical applications, you know, maybe they're cleaning up
+[4563.20 --> 4567.00] for something, maybe they're working inside the body to clean out cancer. So there's a million
+[4567.00 --> 4574.40] applications, but aside from all of that, uh, I think what they're telling us is that life is
+[4574.40 --> 4579.86] incredibly plastic, even life that occurred here. And I'm sure, I'm sure Josh, um, Bongard mentioned
+[4579.86 --> 4586.82] this, but our xenobots are, as far as I'm aware, the only creature whose evolution didn't take place
+[4586.82 --> 4591.22] in the biosphere. Their evolution took place in a virtual world of Bongard's computers.
+[4591.66 --> 4598.38] The cells evolved here, but those cells evolved to sit quietly on the outer, outside of a frog and
+[4598.38 --> 4602.62] keep out the pathogens. They certainly, the, the bodies of these xenobots that run around and do
+[4602.62 --> 4607.96] various things that has never existed in their history before they, they were not that. And so
+[4607.96 --> 4612.10] that just tells you this. So, so I think, I think what's, what's important about this and, and, and,
+[4612.10 --> 4618.70] and space exploration is that it opens your eyes to the, the, the no doubt immense variety that we
+[4618.70 --> 4624.48] can see out there of, of ways of being alive. And, uh, I think, you know, our, our imagination for
+[4624.48 --> 4629.62] sure is, is too tightly constrained by this one example that we've seen, which is the earth.
+[4630.12 --> 4634.64] Sure. Yeah. It'd be amazing if that, uh, that shape-shifting
+[4636.34 --> 4641.24] organism potentially keeps the memory of every multicellular one that died before it.
+[4641.24 --> 4648.10] Yeah. I mean, that's, that's kind of what planaria do, right? So planaria reproduced by
+[4648.10 --> 4653.98] fissioning and, uh, planaria definitely learned from experience. Now, how long do they remember?
+[4654.12 --> 4659.06] We don't know. Is there much for them to learn sitting in a, in a Tupperware container of water?
+[4659.20 --> 4663.50] I'm not sure, you know, if there's anything exciting for them to remember, but, uh, it's not
+[4663.50 --> 4671.52] impossible. I think it's, it's, it's a possibility. Really fascinating. Uh, Mike, last question we,
+[4671.60 --> 4679.50] we, uh, we have our guests, uh, respond to just really about, um, the influencers and mentors sort
+[4679.50 --> 4685.80] of that have been with you along this path that have, you know, kept you interested in this, um,
+[4686.28 --> 4690.60] domain as you've gone along. And if, you know, if it wasn't for them that, you know, you'd be off
+[4690.60 --> 4694.82] doing something totally different and any specific people, no doubt you've known a lot
+[4694.82 --> 4699.54] throughout your career, but anyone you want to highlight here, shout out to, uh, at this point
+[4699.54 --> 4705.34] in the show. Yeah, there, there've been, there've been a lot of, uh, mentors and people that I look
+[4705.34 --> 4711.80] up to. Um, I think, uh, the most obvious one is Susan Ernst, who, um, she's now retired, but she was
+[4711.80 --> 4718.58] a developmental biologist at Tufts when I was a student and making my decision to, uh, get into biology
+[4718.58 --> 4724.22] in addition to the computer science that I was doing. I knew zero biology. I, uh, I approached
+[4724.22 --> 4730.24] her to do research in the lab and, um, we worked together for, uh, for, for several years and, uh,
+[4730.44 --> 4736.76] and, and she, she was really instrumental in my, uh, entry into, into biology. Um, and then of course
+[4736.76 --> 4742.24] during grad school, um, my, my PhD mentor, Cliff Tabin, with whom I still work, he's in fact a member
+[4742.24 --> 4748.44] of our Allen Discovery Center. Uh, he really was that, that, that time period and his, his mentorship
+[4748.44 --> 4755.20] was instrumental for, for me to see what modern biology was like, what the tools are, what, you
+[4755.20 --> 4759.54] know, what, what are the, what are the state of the art approaches to genetic, um, understanding of,
+[4759.62 --> 4765.40] of life. And, and he both, both in the subject matter, but also, um, how to do, uh, high, um,
+[4766.04 --> 4770.86] high impact science with, with real integrity. You know, he was kind of a, uh, an amazing example
+[4770.86 --> 4779.36] of that. Uh, my, my postdoc mentor, um, Mark Mercola, who, uh, by then, uh, I, I was sort of
+[4779.36 --> 4783.42] talking to people about some of my crazy ideas, whereas before I kind of kept it, kept things
+[4783.42 --> 4786.82] under wraps, but, but by, by the time I was in Mark's lab, I started talking about these things
+[4786.82 --> 4792.90] and, and, and he was pretty helpful in, uh, in guiding me, uh, to, um, to, to, to funding and to
+[4792.90 --> 4797.74] get my first independent position and so on. Um, lots of other people I work with, you know,
+[4798.22 --> 4802.92] Don Ingber was always a huge inspiration to me because of his work and just, uh, his approach
+[4802.92 --> 4809.06] to science. Um, uh, people, people like that. So, uh, yeah, lots, I mean, too, too many to
+[4809.06 --> 4816.10] mention, but those are some big names. Sure. Sure. Well, it's, it's really been, um, an honor
+[4816.10 --> 4820.88] happy you joined us today. I mean, every, as I said, I've followed you for years. I've always
+[4820.88 --> 4826.74] been amazed by your, your thought leadership in, in this really, this frontier area, uh,
+[4826.96 --> 4834.86] that, that has so wide, uh, a set of potential from embryology, regenerative medicine to oncology
+[4834.86 --> 4840.44] and to, to understanding the basics of, you know, what goes on in here. It's, uh, it's
+[4840.44 --> 4844.88] really great stuff and I really wish you the best on it. And, um, for everybody that's, uh,
+[4845.12 --> 4849.60] that's going to be listening on the various podcast networks or watching on the YouTube channel,
+[4849.60 --> 4855.28] you've had the, the honor of being joined by Dr. Michael Levin, Tufts university professor,
+[4855.86 --> 4860.02] uh, Vannevar Bush, endowed chair in the biology department, director of the Tufts center for
+[4860.02 --> 4864.72] regenerative developmental biology and director of the Allen discovery center at Tufts. Uh,
+[4865.08 --> 4869.22] Mike, thank you for, for taking the time to come on the show. Thank you for everything that you've
+[4869.22 --> 4873.98] been doing and continue to do. And as we say, thank you for moving the human story forward,
+[4874.12 --> 4878.34] but in this case, thank you for moving the xenobot story forward as well. Uh, and we're really
+[4878.34 --> 4882.16] going to be watching this as everything moves forward because it's, it's, it's truly amazing.
+[4882.30 --> 4885.22] Thank you so much. I really appreciate the chance to talk to you about this. It's been
+[4885.22 --> 4887.14] a lot of fun. Um, and thank you for your support.

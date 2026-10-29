@@ -4,7 +4,9 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
 import re
+import ssl
 import time
 import urllib.error
 import urllib.request
@@ -40,6 +42,16 @@ def authorization_basis(root: Path) -> str | None:
 
 def timestamp() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+def tls_context():
+    if os.name == "nt":
+        try:
+            import truststore
+            return truststore.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
+        except ImportError:
+            pass
+    return ssl.create_default_context()
 
 
 def seconds(label: str) -> int | None:
@@ -85,7 +97,7 @@ class Fetcher:
         time.sleep(self.delay)
         try:
             request = urllib.request.Request(url, headers={"User-Agent": "LevinverseCorpusBuilder/0.2 (public research archive)", "Accept": "text/html,application/json,application/xml"})
-            with urllib.request.urlopen(request, timeout=45) as response:
+            with urllib.request.urlopen(request, timeout=45, context=tls_context()) as response:
                 raw = response.read()
             temporary = cached.with_suffix(".tmp")
             temporary.write_bytes(raw)
@@ -248,8 +260,23 @@ def parse_publisher(raw: bytes, url: str) -> dict:
     return {"source_url": url, "title": title, "publication_date": date.get("content", "")[:10] if date else None, "video_ids": ids[:1], "segments": segments, "relevance_confirmed": True, "relevance_evidence": "publisher identifies Michael Levin as interview guest", "transcript_quality": "human generated" if "lexfridman" in url else "publisher transcript", "host": urlparse(url).netloc, "language": "en"}
 
 
+def render_transcript(segments: list[dict]) -> str:
+    lines = []
+    for segment in segments:
+        text = segment["text"]
+        speaker = segment.get("speaker")
+        embedded = speaker and re.match(r"^(?:\[[\d:.]+\]\s*)?" + re.escape(speaker) + r":\s", text)
+        lines.append((f"{speaker}: " if speaker and not embedded else "") + text)
+    return "\n\n".join(lines) + "\n"
+
+
 def save_transcript(root: Path, item: dict, authorization: str | None) -> dict:
     source = item["source_url"]
+    reviews_path = root / "config/participation-reviews.json"
+    if reviews_path.is_file():
+        review = next((r for r in json.loads(reviews_path.read_text(encoding="utf-8"))["reviews"] if r["source_url"] == source and r.get("decision") == "confirmed"), None)
+        if review:
+            item.update(relevance_confirmed=True, relevance_evidence=review["basis"], participation_review_evidence_urls=review["evidence_urls"])
     known = read_jsonl(root / "catalog/videos.jsonl")
     indexed = [v for v in known if v["video_id"] in item["video_ids"] and any("drmichaellevin.org/" in s for s in v.get("discovery_sources", []))]
     if indexed and not item["relevance_confirmed"]:
@@ -259,13 +286,13 @@ def save_transcript(root: Path, item: dict, authorization: str | None) -> dict:
         item["video_ids"] = [v["video_id"] for v in known if "tim ferriss" in (v.get("host") or "").lower() and v.get("publication_date") == item.get("publication_date")]
     ident = "publisher-" + hashlib.sha256(source.encode()).hexdigest()[:16]
     record = {k: v for k, v in item.items() if k != "segments"}
-    record.update(transcript_id=ident, retrieved_at=timestamp(), status="available_metadata_only", source_kind="publisher_hosted")
+    record.update(transcript_id=ident, retrieved_at=timestamp(), status="available_metadata_only", source_kind=item.get("source_kind", "publisher_hosted"))
     if not item["relevance_confirmed"]:
         record.update(status="participation_review_required")
     elif not item["segments"]:
         record.update(status="no_publisher_transcript", reason="No transcript paragraphs were present in the source HTML")
     elif authorization:
-        text = "\n\n".join((f"{s['speaker']}: " if s.get("speaker") else "") + s["text"] for s in item["segments"]) + "\n"
+        text = render_transcript(item["segments"])
         digest = hashlib.sha256(text.encode()).hexdigest()
         duplicates = [t for t in read_jsonl(root / "catalog/transcripts.jsonl") if t.get("text_sha256") == digest and t.get("transcript_id") != ident]
         text_path = Path(duplicates[0]["text_path"]) if duplicates else Path("transcripts/permitted") / f"{ident}.txt"
@@ -281,13 +308,24 @@ def save_transcript(root: Path, item: dict, authorization: str | None) -> dict:
     if item["relevance_confirmed"] and not item["video_ids"]:
         upsert(root / "catalog/appearances.jsonl", [{"appearance_id": ident, "video_ids": [], "title": item["title"], "source_url": source, "publication_date": item.get("publication_date"), "appearance_type": "publisher_hosted_interview", "transcript_status": record["status"], "transcript_path": record.get("text_path")}], "appearance_id")
     for vid in item["video_ids"] if item["relevance_confirmed"] else []:
-        video = {"video_id": vid, "canonical_url": f"https://www.youtube.com/watch?v={vid}", "title": item["title"], "publication_date": None, "publisher_publication_date": item.get("publication_date"), "duration_seconds": None, "role": "unknown", "discovery_sources": [source], "host": item.get("host"), "transcript_url": source, "transcript_status": "publisher_transcript_stored" if record["status"] == "stored" else record["status"], "transcript_language": "en", "participation_evidence": item["relevance_evidence"]}
+        stored_status = {"third_party_transcript": "third_party_transcript_stored", "platform_caption": "captions_stored_locally"}.get(record["source_kind"], "publisher_transcript_stored")
+        video = {"video_id": vid, "canonical_url": f"https://www.youtube.com/watch?v={vid}", "title": item["title"], "publication_date": None, "publisher_publication_date": item.get("publication_date"), "duration_seconds": None, "role": "unknown", "discovery_sources": [source], "host": item.get("host"), "transcript_url": source, "transcript_status": stored_status if record["status"] == "stored" else record["status"], "transcript_language": "en", "participation_evidence": item["relevance_evidence"]}
         if record.get("text_path"):
             video["transcript_path"] = record["text_path"]
         # The publisher page date is recorded separately; do not replace a known upload date.
         prior = next((v for v in read_jsonl(root / "catalog/videos.jsonl") if v["video_id"] == vid), {})
+        video["transcript_publisher_title"] = item["title"]
+        video["transcript_publisher"] = item.get("host")
+        if prior.get("title"):
+            video["title"] = prior.get("metadata_video_title") or prior["title"]
+        if prior.get("host"):
+            video["host"] = prior["host"]
         if prior.get("publication_date"):
             video["publication_date"] = prior["publication_date"]
+        if record["status"] != "stored" and prior.get("transcript_path") and (root / prior["transcript_path"]).is_file():
+            for key in ("transcript_status", "transcript_path", "transcript_url", "transcript_language", "transcript_publisher_title", "transcript_publisher"):
+                if key in prior:
+                    video[key] = prior[key]
         merge_video(root, video, bool(authorization))
     return record
 

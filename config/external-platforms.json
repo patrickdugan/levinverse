@@ -1,0 +1,20 @@
+{
+  "sources": [
+    {
+      "platform": "kaltura",
+      "media_id": "1_nyse6h3z",
+      "extractor_url": "kaltura:1329972:1_nyse6h3z",
+      "source_url": "https://mediaspace.illinois.edu/media/t/1_nyse6h3z",
+      "host": "University of Illinois",
+      "participation_evidence_url": "https://www.drmichaellevin.org/presentations/"
+    },
+    {
+      "platform": "vimeo",
+      "media_id": "65772782",
+      "extractor_url": "https://vimeo.com/65772782",
+      "source_url": "https://vimeo.com/65772782",
+      "host": "Vimeo publisher",
+      "participation_evidence_url": "https://www.drmichaellevin.org/presentations/audiovideo.html"
+    }
+  ]
+}

@@ -76,13 +76,21 @@ def queue_audio(root: Path, source: dict, media_url: str):
     upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
 
 
-def collect(root: Path, client: Fetcher, limit: int | None = None):
+def collect(root: Path, client: Fetcher, limit: int | None = None, source_urls: list[str] | None = None):
     sources = read_jsonl(root / "catalog/nonvideo-sources.jsonl")
-    known = {r.get("source_url", "").rstrip("/") for r in read_jsonl(root / "catalog/transcripts.jsonl") if r.get("status") == "stored"}
-    result = {"scanned": 0, "stored": 0, "failed": 0, "audio_queued": 0}
+    if source_urls:
+        sources = [source for source in sources if source["source_url"] in source_urls]
+    known_records = {r.get("source_url", "").rstrip("/"): r for r in read_jsonl(root / "catalog/transcripts.jsonl") if r.get("status") == "stored"}
+    known = set(known_records)
+    result = {"scanned": 0, "stored": 0, "failed": 0, "audio_queued": 0, "already_stored": 0}
     for source in sources:
         url = source["source_url"]
-        if url.rstrip("/") in known or (limit is not None and result["scanned"] >= limit):
+        if url.rstrip("/") in known:
+            record = known_records[url.rstrip("/")]
+            upsert(root / "catalog/publisher-pages.jsonl", [{"source_url": url, "title": source["title"], "checked_at": timestamp(), "status": "stored", "transcript_id": record["transcript_id"], "transcript_path": record.get("text_path")}], "source_url")
+            result["already_stored"] += 1
+            continue
+        if limit is not None and result["scanned"] >= limit:
             continue
         result["scanned"] += 1
         event = {"source_url": url, "title": source["title"], "checked_at": timestamp()}
@@ -111,6 +119,10 @@ def collect(root: Path, client: Fetcher, limit: int | None = None):
                     media = []
                     for node in doc.select("audio[src],source[src],a[href]"):
                         href = urljoin(url, node.get("src") or node.get("href") or "")
+                        if re.search(r"\.(mp3|m4a|ogg)(?:[?#]|$)", href, re.I) and href not in media and safe_url(href) == href:
+                            media.append(href)
+                    for node in doc.select('meta[name="twitter:player:stream"],meta[property="og:audio"],meta[property="og:audio:secure_url"]'):
+                        href = urljoin(url, node.get("content") or "")
                         if re.search(r"\.(mp3|m4a|ogg)(?:[?#]|$)", href, re.I) and href not in media and safe_url(href) == href:
                             media.append(href)
                     # Avoid guessing among multiple recordings or ad/media assets.
@@ -165,10 +177,11 @@ def main():
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--limit", type=int)
     parser.add_argument("--linked-pdfs", action="store_true")
+    parser.add_argument("--source", action="append", help="Scan only this officially indexed source URL; repeatable")
     args = parser.parse_args()
     root = args.root.resolve()
     client = Fetcher(root)
-    print(json.dumps(collect_pdf_links(root, client) if args.linked_pdfs else collect(root, client, args.limit)), flush=True)
+    print(json.dumps(collect_pdf_links(root, client) if args.linked_pdfs else collect(root, client, args.limit, args.source)), flush=True)
 
 
 if __name__ == "__main__":

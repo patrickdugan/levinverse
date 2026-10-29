@@ -262,7 +262,7 @@ Slide 40/54 · 41m:50s
 
 We decided to go after one of the most unlikely examples we would be able to fix, and that is a genetic mutation of notch. Notch is an important neurogenesis gene. If you introduce a dominant mutation — the overactive notch ICD — here's what you see. The forebrain is gone. The midbrain and hindbrain are basically a bubble of water. These animals have no behavior, profoundly defective.
 
-We asked the model: We asked the model: we know what goes wrong with the bioelectrics once you've done this; how can we fix it? The model said it turns out that there's this specific channel called HCN2 that will sharpen the bioelectric pattern back to normal. If you do that, even animals expressing high levels of this notch ICD get normal brain structure, normal brain gene expression, and normal behavior. In other words, their IQs are indistinguishable from controls.
+We asked the model: we know what goes wrong with the bioelectrics once you've done this; how can we fix it? The model said it turns out that there's this specific channel called HCN2 that will sharpen the bioelectric pattern back to normal. If you do that, even animals expressing high levels of this notch ICD get normal brain structure, normal brain gene expression, and normal behavior. In other words, their IQs are indistinguishable from controls.
 
 You can do this either by opening existing HCN2 channels or introducing new HCN2 channels. What you're seeing here is that with the right computational model, we can address the bioelectric layer to overcome, in some cases, even hardware defects. I'm not saying this is going to work in all cases, but in some cases the hardware is fixable by physiological stimuli.
 

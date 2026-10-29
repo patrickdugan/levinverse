@@ -14,7 +14,7 @@ Before I get going and show you a bunch of biology, here's an outline of my poin
 
 Second, when I say teleology, I don't mean human-level purpose, meaning that it's a second-order kind of thing where I know what my goal is and I know that I'm pursuing a goal. I don't necessarily mean that, but it's on the spectrum. What I mean by teleology is the kind of thing that cybernetics does for us. It gives us a non-mysterious science of systems that are consistent with both the laws of physics and the ideas in cognitive science about systems that have goals. Cybernetics tells us about how systems can have goals, and computer science tells us how to study the ingenuity of these systems to meet those goals under different circumstances. We have these sciences now and we no longer have to freak out about goals being some sort of magical thing that somehow science isn't going to be able to get a handle on.
 
-Part of my argument: Part of my argument: there are two main things I want to do today. First, I'm going to show you the data for a very simple argument. Goal-directedness and teleology, here I'm using interchangeably. The first uncontroversial point is that whatever goals are, they're the sort of thing that humans have. We all know we can represent goals in our minds. We can undergo actions to pursue them. We have some degree of ingenuity to meet those goals. Sometimes we succeed, sometimes we fail. But if goals mean anything at all, we as humans are an example of it. That's point #1.
+Part of my argument: there are two main things I want to do today. First, I'm going to show you the data for a very simple argument. Goal-directedness and teleology, here I'm using interchangeably. The first uncontroversial point is that whatever goals are, they're the sort of thing that humans have. We all know we can represent goals in our minds. We can undergo actions to pursue them. We have some degree of ingenuity to meet those goals. Sometimes we succeed, sometimes we fail. But if goals mean anything at all, we as humans are an example of it. That's point #1.
 
 Point #2, we actually know something about the mechanisms that enable goal-directed behavior in brainy organisms like us. We know something about the electrophysiological networks in our brain that enable goal-directedness. But remarkably, those mechanisms are ancient. They are highly conserved. They are not unique to brains and nervous systems. There is a very deep and fascinating evolutionary homology, not just analogy, not just metaphorical thinking, but actual homology between cognition and morphogenesis. This is seen most clearly in developmental bioelectricity, which is what I'm about to show you.
 
@@ -178,7 +178,7 @@ The ability of cells to control this kind of electrical state. This is what it n
 
 Slide 16/42 · 37m:40s
 
-Here's my claim: Here's my claim: goals exist if and only if you can rewrite them. If I can't rewrite, if I can't change the goal and have the exact same hardware execute a totally novel goal, then I can't say that there's a goal.
+Here's my claim: goals exist if and only if you can rewrite them. If I can't rewrite, if I can't change the goal and have the exact same hardware execute a totally novel goal, then I can't say that there's a goal.
 
 This is back to my claim that this is not a philosophical debate. This is practical. This is my criterion: can I hack these things specifically by rewriting goal states?
 
@@ -266,7 +266,7 @@ Slide 26/42 · 54m:28s
 
 The first example that I want to show you has to do with planaria. We discovered this a few years ago. Here is a flatworm. You put the flatworms in a solution of barium. Barium is a non-specific potassium channel blocker. It blocks all the potassium channels. The heads are very unhappy. It's got neurons and so on. They're very unhappy about not being able to pass potassium. The whole head explodes. Basically, it has blown off within 24 to 48 hours — just gone.
 
-Then something amazing happens: Then something amazing happens: if you leave them in the barium, they eventually regenerate a new head, and the new head is totally fine in the barium. It's somehow barium-adapted or insensitive. We did an experiment to try to figure out how this was possible. We did RNA-seq to look at all the genes that were expressed in barium-adapted heads versus normal heads, and we did a subtraction and asked what was the difference. It's really only a handful of genes that are different.
+Then something amazing happens: if you leave them in the barium, they eventually regenerate a new head, and the new head is totally fine in the barium. It's somehow barium-adapted or insensitive. We did an experiment to try to figure out how this was possible. We did RNA-seq to look at all the genes that were expressed in barium-adapted heads versus normal heads, and we did a subtraction and asked what was the difference. It's really only a handful of genes that are different.
 
 I'm always amazed by this example, and I visualize it like being inside a nuclear reactor control room and the thing's melting down, and there's a million different buttons and knobs, and figuring out which ones I need to flip in order to solve my problem.
 
@@ -280,7 +280,7 @@ How is it that they navigate that transcriptional space to find a solution to a 
 
 Slide 27/42 · 57m:46s
 
-Another example that I really like is this: Another example that I really like is this: it is a morphogenetic one.
+Another example that I really like is this: it is a morphogenetic one.
 
 This is a cross-section of a kidney tubule. It's got a lumen and a bunch of cells making the actual tubule. What you see is that there's maybe 8 to 10 cells working together to form this kind of structure normally.
 
@@ -338,7 +338,7 @@ So we call this kinematic self-replication. It is von Neumann's dream of a robot
 
 I think it's really important that there's a research program to help us get better at predicting these kinds of things, to not be surprised and simply label them as emergent when we do get surprised, but to really understand what are the competencies of the material that we're working with that are not well explained or made predictable by knowing the history of selection under which the genome arose. Because, of course, with everything else I showed you, this is a wild-type genome. So when you ask, what does a Xenopus laevis, which is the frog we're working with, what does that genome encode? Well, it encodes tadpoles and frogs, sure, but it also encodes this, and who knows how many other things that have very different lifestyles. And you get all of that as a software byproduct in the biological hardware that genome encodes.
 
-And so we asked one other question recently: And so we asked one other question recently: these creatures with their new lifestyle have the same genome, but what's their transcriptome look like?
+And so we asked one other question recently: these creatures with their new lifestyle have the same genome, but what's their transcriptome look like?
 
 Slide 33/42 · 1h:07m:00s
 
@@ -386,7 +386,7 @@ The final part of this story is that the same issue with an unreliable medium af
 
 Slide 41/42 · 1h:16m:51s
 
-The actual final thing I'll say is this: The actual final thing I'll say is this: what we've been looking at today during this talk is different aspects of intelligence in the living material.
+The actual final thing I'll say is this: what we've been looking at today during this talk is different aspects of intelligence in the living material.
 
 Unexpected cognitive competencies, like goal directedness, like different kinds of problem solving, are not just the province of complex biological systems. It turns out that even extremely minimal deterministic simple systems. In this paper we studied sorting algorithms, things like bubble sort that people have been studying for probably 60 years or more. We found that even in that system, if you look at it the right way, it's actually doing some very interesting side quests that are not anything that the algorithm is telling them to do.
 

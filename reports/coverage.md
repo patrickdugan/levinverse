@@ -1,18 +1,18 @@
 # Corpus coverage report
 
-Generated: 2026-10-29T10:22:40.713151+00:00
+Generated: 2026-10-29T11:54:25.508507+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
 ## Coverage
 
 - Cataloged video uploads: **388**
-- Provisional appearance records (not deduplicated): **394**
+- Provisional appearance records (not deduplicated): **423**
 - Unique appearance count: **not verified**
 - Duplicate video-ID rows merged: **0**
 - Confirmed cross-upload duplicates: **0 (identity review pending)**
-- Transcript text files stored in this repository: **208**
-- External transcript links identified: **195**
+- Transcript text files stored in this repository: **244**
+- External transcript links identified: **203**
 - Caption availability confirmed missing: **0**
 - Caption availability not checked: **387**
 - Caption retrieval failures: **2**
@@ -24,22 +24,22 @@ Generated: 2026-10-29T10:22:40.713151+00:00
 
 ### Transcript status
 
-- captions_stored_locally: 1
+- captions_stored_locally: 2
 - deferred: 1
-- local_whisper_stored: 1
-- no_publisher_transcript: 14
-- publisher_transcript_stored: 179
+- local_whisper_stored: 6
+- publisher_transcript_stored: 194
 - retrieval_failed: 1
-- unavailable: 33
-- unknown: 158
+- third_party_transcript_stored: 1
+- unavailable: 31
+- unknown: 152
 
-- Distinct transcript texts: **208**
-- Words in stored text files: **1,795,486**
+- Distinct transcript texts: **244**
+- Words in stored text files: **2,395,285**
 - Publisher transcript source records stored: **203**
-- Video IDs with stored text: **195**
-- Video IDs still awaiting text: **193**
-- Publisher entries requiring participation review: **19**
-- Publisher episode pages without transcript text: **17**
+- Video IDs with stored text: **203**
+- Video IDs still awaiting text: **185**
+- Publisher entries requiring participation review: **11**
+- Publisher episode pages without transcript text: **25**
 
 Missing transcript controls are access outcomes, not proof that captions do not exist. Collector version 1 checked before description expansion; its negative outcomes require retry. Speaker labels are retained only when present in the source. Publisher dates are distinct from video upload dates.
 

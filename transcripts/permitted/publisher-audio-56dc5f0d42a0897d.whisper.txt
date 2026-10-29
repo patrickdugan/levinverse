@@ -1,0 +1,547 @@
+[29.09 --> 36.23] hi nico so we've been asking throughout the season what intelligence is dozens of different
+[36.23 --> 43.37] people and also of course what makes something an organism an artificial system and so intelligent
+[43.37 --> 50.71] and we got very different answers absolutely and sometimes we didn't even get any answer at all
+[50.71 --> 56.03] because people just didn't want to answer could you tell us like what is intelligence no
+[57.69 --> 62.57] i guess we cannot really blame anyone here right so intelligence just seems to be something
+[62.57 --> 67.81] that appears in so many different contexts and has so many different senses
+[67.81 --> 74.77] so it's very difficult to pin down exactly you know how we should talk about this notion and what
+[74.77 --> 80.95] it actually means so it's difficult to blame them for this right for you know refusing to answer or
+[80.95 --> 86.51] thinking that perhaps giving an answer to that specific question is not you know the central or
+[86.51 --> 93.35] the most important thing anyways today we're going to look at some cases that may seem particularly
+[94.73 --> 101.43] strange to talk about when we talk about intelligence right so we're going to talk about some edge cases
+[101.43 --> 107.83] when it comes to the question of what counts as intelligence especially where should we draw the
+[107.83 --> 116.87] line between what is intelligent and what is not is there such a line where does it you know go where
+[116.87 --> 123.17] does it cross the animal kingdom so that's what we are going to be talking about today if i get you
+[123.17 --> 130.45] correctly nico right absolutely all right so well i'm dimitri molo and i'm nicolas rohr by the science
+[130.45 --> 135.19] of intelligence cluster in berlin this is punching cards the podcast about all things intelligent
+[135.19 --> 150.40] as we've seen over the last episodes it's already quite hard to say what we mean by intelligence
+[150.40 --> 157.96] when talking just about humans but us hairless apes are by far not the only animals to show
+[157.96 --> 164.34] intelligent behavior as we've seen and even some animals which appear to be quite limited in what
+[164.34 --> 170.22] they can do can actually show incredibly impressive behavior when for example they are put in a group
+[170.22 --> 175.74] in a collective right and it doesn't even stop there we also talked about how increasing computing
+[175.74 --> 181.88] power clever algorithms and elegantly designed robots lead to increasingly impressive results in
+[181.88 --> 188.18] artificial intelligence so with a concept so broad and hard to pin down there is always the danger of
+[188.18 --> 194.50] it just becoming an empty phrase an empty term that doesn't really mean much i guess however that we
+[194.50 --> 203.08] can agree that pretty much all humans are somewhat intelligent but also all animals maybe even plants
+[203.08 --> 209.44] bacteria or cells there's a similar argument to be had in artificial intelligence if we had a robot
+[209.44 --> 213.90] that could do anything that a human can do we would probably have no problem calling that machine
+[213.90 --> 220.36] intelligent but what about systems that can do only very few things like playing chess which are often
+[220.36 --> 227.18] called narrow ai is this still intelligence or for example how about a thermostat that might sound
+[227.18 --> 234.66] silly but a thermostat does check quite a few boxes it senses the state of its environment it has an internal
+[235.34 --> 242.38] desired state so the temperature that you set it to and that it tries to achieve and it then computes the
+[242.38 --> 249.78] difference between perception so how the room is now what the temperature is and desire what it wants
+[249.78 --> 255.90] so to speak the temperature should become and uses that to solve the problem of maintaining the
+[255.90 --> 262.04] specific room temperature that you set yeah on the other hand like just because that fulfills some of
+[262.04 --> 267.56] the criterions that we think intelligence should have maybe that doesn't really tell so much about the
+[267.56 --> 272.58] intelligence of the thermostat but really more about our pretty poor criterions and definitions
+[272.58 --> 278.38] yeah that sounds fair enough but anyways this is what we have experts in our podcast for
+[278.38 --> 283.88] right and this is why today we look into the tree of life and discuss where it really makes sense to
+[283.88 --> 289.30] talk about intelligence and what the good criteria really are we will encounter some radical ideas and
+[289.30 --> 294.88] pretty mind-boggling experiments that show some unbelievable capacities of pretty simple organic systems
+[305.13 --> 312.87] what comes as intelligent if i play hide and seek with someone and we are trying to hide behind
+[312.87 --> 322.55] a bush and let someone says no don't go there you can be seen from the side then i'd say yes this is very intelligent
+[322.55 --> 332.47] well according to me what counts as intelligent is the ability of an individual to apply the knowledge in real-time
+[332.47 --> 338.99] situations or in other words applying our common sense so intelligence is a word that is used to describe
+[338.99 --> 344.29] mental performance but if you look into the details about how it's historically been used it's incredibly
+[344.29 --> 350.49] diverse if you look into intelligence tests for example it's not clear whether these intelligence tests
+[350.49 --> 362.05] really capture intelligence is an agent's autonomous problem solving capacity intelligence is recognizing
+[362.05 --> 369.95] rules in an unknown system and make them work for you intelligence is the ability to learn from your
+[369.95 --> 386.85] environment and use that to make predictions or plans for the future welcome back to punching cards
+[386.85 --> 393.03] today we have solvek in the studio many thanks for joining my pleasure as referred there are so many
+[393.03 --> 398.33] different takes on what it really is that makes a human or an animal or basically anything intelligent
+[398.33 --> 403.61] and now we're already in the sixth episode of our podcast and it seems like we still don't really
+[403.61 --> 409.23] have a definition of the very thing that we are always talking about so if we don't even know what
+[409.23 --> 414.49] to look for how do we know where to look for it i guess different people and disciplines have very
+[414.49 --> 419.71] different answers to that most psychologists look for intelligence by investigating the human mind and
+[419.71 --> 426.57] behavior behavioral biologists show us how clever other animals can be and most roboticists have no problem
+[426.57 --> 431.53] calling their creations intelligent and experts today look for intelligence where only few people would
+[431.53 --> 436.45] expect it yeah that's great i wonder if they can really provide us now with a definition for it
+[436.45 --> 443.87] well the answer is not that i cannot but that i shouldn't so this was pacco calvo professor of
+[443.87 --> 449.53] philosophy of science and author of the newly released book planta sapiens the new science of plant
+[449.53 --> 455.73] intelligence i'm pacco calvo i direct the minimal intelligence lab at the university of murcia in
+[455.73 --> 463.95] spain and i'm a philosopher which makes things a bit more exciting because i'm a philosopher of plant
+[463.95 --> 473.39] science so this is kind of you know sounds like difficult to swallow at first sight but it does make sense
+[473.39 --> 481.59] and it makes sense because we try to raise the type of questions that you wouldn't hear in a plant
+[481.59 --> 488.47] biology course like mainstream or orthodox plant biology course for plant biology students widening
+[488.47 --> 494.73] opening the broad of questions that we are able to ask right so that's what sort of what we do we are
+[494.73 --> 499.99] sort of in between the biology the psychology the cognitive sciences the neurosciences the robotics
+[499.99 --> 505.01] the artificial intelligence any field whatsoever that has something that any type of light they
+[505.01 --> 510.87] can throw up on the understanding of plant life and plant intelligence right pacco and his team
+[510.87 --> 516.13] stepped out of traditional academic disciplines and started to ask questions about plant intelligence
+[516.13 --> 521.77] which is at the intersection of biology philosophy and cognitive science which are as intriguing as
+[521.77 --> 526.67] they are controversial yeah that's great but i can imagine that not everybody is really on board with
+[526.67 --> 531.19] that idea that plants might have cognition or intelligence but if we think about that wouldn't
+[531.19 --> 537.19] it be good to have one definition of intelligence and if an organism fulfills their criterions it is
+[537.19 --> 544.01] intelligence and if not then well it's not isn't that a clear way to distinguish that well there are
+[544.01 --> 549.67] two big problems with that any definition of intelligence that we might try to apply
+[550.37 --> 557.85] pre-theoretically might be biased might be too biased towards the type of intelligence that by default
+[557.85 --> 562.53] we think that should apply to other forms of life in so far that it applies to ourselves
+[562.53 --> 569.01] yeah i can totally see that bias issue one of many good examples for such a bias is actually also in
+[569.01 --> 574.09] artificial intelligence research where for a long time people considered playing chess as a measure of
+[574.09 --> 579.95] for progress and intelligence but that is of course a very biased human thing to think of and to quote
+[579.95 --> 585.87] the influential ai researcher rodney brooks elephants don't play chess and it would be very unfair to
+[585.87 --> 590.65] claim that an elephant has no intelligence worth studying just because it doesn't play chess right
+[590.65 --> 596.87] right and the other problem is that definitions can actually hinder scientific progress we are far too
+[596.87 --> 604.07] used to setting definitions in stone and then try to make progress out of some definition that we are
+[604.09 --> 608.41] not going to question throughout the whole project right so you move on from okay let's define
+[608.41 --> 615.33] intelligence is this this and that and then we set you know we design a set of experimental designs
+[615.33 --> 623.09] we make this project and then we never go back and revise our definition so we we become enslaved by the type
+[623.09 --> 629.31] of definitions that we are using and that's why i resist myself to providing one single definition that you
+[629.31 --> 633.89] know like okay this sets the stage and maybe this question of whether something is
+[633.89 --> 642.11] intelligent or not is not the right question to ask after all i don't accept the the dichotomy of
+[642.11 --> 646.87] intelligence versus lack of intelligence right so so that that's actually very important because
+[646.87 --> 652.39] when people do the same thing with cognition with with consciousness with many things and once you do that
+[652.39 --> 657.37] you you basically have made the assumption of a binary variable right you're saying that something
+[657.37 --> 662.77] either is or is not and i think this is fundamentally a mistake it leads to all kinds of pseudo problems and all kinds of
+[662.77 --> 669.65] issues so to me the question is uh for any given system the question is what kind of intelligence
+[669.65 --> 675.11] it has and how much and it may be very little but but but it's always to me that's always a continuous
+[675.11 --> 680.07] measure not not not a not a binary thing this was professor michael levin from tufts university
+[680.07 --> 686.73] he is the director of the allen discovery center and tufts center for regenerative and developmental biology
+[686.73 --> 693.31] my background is originally in computer science i did some software engineering i did my undergraduate
+[693.31 --> 701.81] degree first in computer science and then in biology and phd in genetics my group right now works
+[701.81 --> 709.01] on a number of issues related to decision making in particular problem solving among cellular collectives
+[709.01 --> 715.31] so it's very much at the intersection of cognitive science computer science and developmental biology
+[715.31 --> 722.47] so we're interested in how uh cells and cell groups make decisions in various spaces this is you know
+[722.47 --> 728.45] anatomical space and and physiological space and so on exciting stuff i guess cellular collectives are also
+[728.45 --> 736.31] not really on everybody's list on what counts as intelligent yet but before we go into that if pretty much
+[736.31 --> 741.87] everything is more or less intelligent what is the value of asking how intelligent the system is in the
+[741.87 --> 747.61] first place just why is it important for us as scientists to have a correct this level of
+[747.61 --> 752.35] intelligence estimate for various things there's this there's this idea of morgan's canon which is
+[752.35 --> 758.31] this idea that you should ascribe the least amount of intelligence to any process that you possibly can
+[758.31 --> 764.17] right to describe it in the most mechanistic terms possible and what the problem with with that is that
+[764.17 --> 769.99] it goes only in one direction so so so people are really afraid of making the mistake of ascribing too much
+[769.99 --> 775.17] agency to things but it's so it's a kind of teleophobia that i call it which would you know that people
+[775.17 --> 779.91] are really afraid to to kind of go overboard in that direction but it's actually just as bad to go in
+[779.91 --> 786.05] the other direction and to uh to to miss a kind of intelligence that exists in your system that that
+[786.05 --> 793.15] you don't see and as a scientist and as as engineers it's exactly the same issue of of prediction and control
+[793.15 --> 801.11] if if you have uh if you have a ball sitting at the top of a hill you'd be pretty um pretty successful
+[801.11 --> 805.73] in using let's say newton's laws to figure out where it's going to go if you have a mouse at the top of
+[805.73 --> 813.57] the hill those will be hopeless and you need something completely different and so uh to be able to control
+[813.57 --> 821.17] and predict complex systems it helps to have the right level of uh cognition and intelligence ascribed to
+[821.17 --> 825.83] the system not too much not too little but the exactly the amount that gives you the most optimal
+[825.83 --> 830.71] insight into what the system is going to do next and how you can relate to it how you may control it
+[830.71 --> 835.71] how you may communicate with it whatever it's going to be that our job as scientists i think is to pick
+[835.71 --> 840.51] out the right level of agency for any organism and he also points out that being good at such
+[840.51 --> 846.15] predictions has given us evolutionary advantages so maybe the search for intelligence is rooted deeply in
+[846.15 --> 851.59] our evolution yeah i mean as someone working on intelligence i really love that idea but coming
+[851.59 --> 856.21] back to morgan's canon and always looking for the least advanced description of any behavior i can
+[856.21 --> 860.89] imagine that paco finds this concept problematic too right this came up when we were talking about
+[860.89 --> 866.91] whether plants are capable of making decisions so if you are not in the business of making predictions
+[867.81 --> 876.45] you are doomed you cannot simply be waiting for things to happen to you and then oh what should i do
+[876.99 --> 883.21] you've got to anticipate the states of uncertainty you've got to be at the wheel you've got to be
+[883.21 --> 888.69] sitting at the wheel and take decisions plants don't make choices they simply grow towards the light
+[889.31 --> 896.55] how do you mean if you see an animal making decisions taking choices well they have a b when plants do it
+[896.55 --> 902.89] plants can grow one way they can grow another way when plants do it we say no it's just a
+[902.89 --> 909.37] physiological matter for example plant phototropic behavior they grow towards the source of light
+[909.37 --> 915.99] because it's food to them right now that's a mistake because that would mean that plant behavior
+[915.99 --> 921.37] would be purely reactive and if well this is a working hypothesis i'm not saying this is correct
+[921.37 --> 926.59] i don't mean to say it as set in stone it's precisely what i why i don't want to give a
+[926.59 --> 933.25] definition so if plant life happens to proceed along these lines then this is the type of experimental
+[933.25 --> 940.07] designs we should be making to try to unearth that or to try to test those working hypotheses right
+[940.07 --> 949.83] if plausibly enough they need to deal with future states of affairs and they need to do it in a flexible
+[949.83 --> 956.75] enough manner then how could we test for the possibility that they are anticipating those
+[956.75 --> 962.47] states of affairs now this is a question that we are able to set to raise in the first place remember
+[962.47 --> 967.73] because we are not doing it from the plant biology department they wouldn't be doing this so i'm
+[967.73 --> 974.61] juggling with all these concepts in a way that avoids setting definitions in stone true but now i'm
+[974.61 --> 979.81] wondering what does mike say about defining the term intelligence i think he found a way that
+[979.81 --> 985.37] also paco would agree with i think it has nothing to do with what you're made of it doesn't require
+[985.37 --> 991.47] brains it doesn't require specific kinds of synapses nothing like that those are all contingent facts
+[991.47 --> 998.01] i think that a useful general definition of intelligence has to do with the ability to
+[998.69 --> 1004.27] solve problems in some appropriate space and that's the important part is that the space could be
+[1004.27 --> 1008.61] almost anything in other words it could be the familiar three-dimensional space in which case
+[1008.61 --> 1012.09] you're dealing with a kind of behavioral intelligence you're watching the kind of behavior
+[1012.09 --> 1016.31] that we're used to when we talk about intelligent animals and birds and things like that but it can
+[1016.31 --> 1022.11] also be other spaces it could be a metabolic space it could as bacteria do it could be physiological space
+[1022.11 --> 1027.75] it could be anatomical space which is what my group at the allen discovery center works on so
+[1028.65 --> 1035.45] intelligence is the degree of of competency with which you navigate this particular space to solve
+[1035.45 --> 1040.53] problems in an adaptive way right that's that would be that would be my my definition of intelligence
+[1040.53 --> 1046.43] that makes sense but what kinds of problems are collectives or cells solving well developing a normal
+[1046.43 --> 1051.15] organism can already be a very challenging problem at least for the cells in mike's lab
+[1051.93 --> 1057.71] this has to do with with a process with that we study called anatomical homeostasis so so if you take
+[1057.71 --> 1063.23] just as one example there are many examples but here's one example if you take a a tadpole of a frog
+[1063.93 --> 1068.25] and uh tadpoles you know they need to become frogs and so to become frogs they have to rearrange their
+[1068.25 --> 1072.69] face so the eyes have to move forward the jaws have to everything has to move and so what we found is
+[1072.69 --> 1078.71] that uh if you take a tap if you create a tadpole where all of the organs are in abnormal starting
+[1078.71 --> 1082.67] positions okay so the eyes are on the back of the head the jaws are off to the side everything is off
+[1082.67 --> 1089.11] all of these individual pieces will move in novel paths and sometimes they even go too far and have to
+[1089.11 --> 1095.19] come back but they'll all rearrange until you get to a pretty normal frog now this is a a single
+[1095.19 --> 1101.43] system solving a problem in morpheus space meaning that you it it matches william james's definition
+[1101.43 --> 1106.63] of intelligence as in being able to achieve your goal despite start different starting states and
+[1106.63 --> 1113.29] different perturbations along the way so so this is a a basal intelligence that's able to uh you you've
+[1113.29 --> 1117.99] deformed it to a different region of that space and it can still find its way through normal through
+[1117.99 --> 1123.89] through novel paths to where it wants to go so individual cells follow quite simple rules but
+[1123.89 --> 1128.95] through communication they achieve really remarkable behavior now this it also happens to be a collective
+[1128.95 --> 1133.61] intelligence because it's it's made up of cells and tissues we are also a collective intelligence
+[1133.61 --> 1137.87] we're bags of neurons right so every every intelligence is a collective intelligence and
+[1137.87 --> 1144.75] this is not an evolutionary process evolution has given us some hardware that it's able to execute
+[1144.75 --> 1152.33] this amazing process basically in software guided by decision making along the way that is able to
+[1152.33 --> 1158.75] solve new problems in morpheus space so it's not only that we as an individual are intelligent we're also
+[1158.75 --> 1165.89] made of intelligence exactly and that view opens up some totally new research questions it helps us to
+[1165.89 --> 1171.31] interact with the system better to get better prediction and control so in my lab we work on applications
+[1171.31 --> 1177.91] such as regenerative medicine trying to grow and repair organs remodel tumors reprogram tumors fixed
+[1177.91 --> 1183.41] birth defects these kinds of things when you do this having the right level of interaction with the
+[1183.41 --> 1189.65] system is really important because if you accept the standard assumptions of molecular medicine you
+[1189.65 --> 1195.49] basically are forced to interact with the system at the hardware level you're editing genes you're rewiring
+[1195.49 --> 1199.75] pathways it's the way we used to program computers in the 50s you physically have to change the
+[1199.75 --> 1204.11] hardware you have to rewire the hardware that's okay and you can achieve certain things that way but
+[1204.11 --> 1209.35] you know nowadays when you switch from photoshop to microsoft word you don't get out your soldering
+[1209.35 --> 1214.67] iron why not because we figured out that if your hardware is good enough you can interact with it by
+[1214.67 --> 1218.87] experiences by inputs that you provide right you can program at the level of software you don't have
+[1218.87 --> 1225.09] to rewire the machine and so this is an extremely powerful abstraction that we've used in our work once you
+[1225.09 --> 1230.11] understand what the capabilities of the system are in terms of what is it measuring what is it optimizing
+[1230.11 --> 1234.95] what are the motivations when you know these things you can interact with it at a much higher level
+[1234.95 --> 1239.69] you can you can get it to do things without understanding or or or knowing what all the
+[1239.69 --> 1246.03] lowest level components are doing and in fact that means you can you can reach very complex outcomes with
+[1246.03 --> 1251.33] with fairly little uh input of complexity you can you can trigger very complex subroutines you can
+[1251.33 --> 1257.11] right so that aspect of of programming uh at the right level is is is really critical and it offers
+[1257.11 --> 1262.73] us all kinds of new capacities that we've shown in the lab as far as triggering organ regeneration
+[1262.73 --> 1268.85] reprogramming tumors repairing birth defects of the of the head and face and so on that are very difficult
+[1268.85 --> 1273.27] with other approaches and the better we understand the behavior of these collectives the better we
+[1273.27 --> 1278.99] might understand our own behavior this early developmental bioelectricity that we work on this idea that all
+[1278.99 --> 1284.83] cells in your body are forming electrical networks that process information not just your brain does
+[1284.83 --> 1290.73] that understanding how that works first of all provides a simplified context for understanding
+[1290.73 --> 1296.27] cognition and neuroscience so maybe we crack that first before we crack the problem of the brain and
+[1296.27 --> 1302.07] second it helps us to really understand you know why is there so much overlap between processes involved
+[1302.07 --> 1306.63] in morphogenesis and processes involved in behavior well that's because they're both solving a kind of
+[1306.63 --> 1310.91] problem so it may may help us understand some of these things yeah that's amazing i love this
+[1310.91 --> 1316.59] separation of biological hardware encoded in the dna of cells and then the software the communication
+[1316.59 --> 1322.23] between the cells which we can interact with and reprogram essentially like a computer software
+[1322.23 --> 1327.61] this could give us a super powerful tool right i'm wondering how close this metaphor really is to
+[1327.61 --> 1334.51] reality right according to mike every description of reality is some sort of a metaphor the only question is
+[1334.51 --> 1341.17] how much use and understanding do we get out of it i want to be clear i'm certainly not making the claim
+[1341.17 --> 1346.03] that living things are like the kinds of computers that you and i deal with on a daily basis that's
+[1346.03 --> 1351.37] obviously not not true but there are fundamental truths of computer science that are i think really
+[1351.37 --> 1356.81] powerful for biology and it's and it's uh you know people often do freak out when you compare um living
+[1356.81 --> 1364.41] things to biology and to to living things in biology to computers and they say oh that's like uh that's just the
+[1364.41 --> 1368.13] favorite technology of the day you know we used to think things were like steam engines and then we
+[1368.13 --> 1373.55] thought they were like uh you know mechanical pulleys before that and so on actually it's it's
+[1373.55 --> 1379.65] it's funny because the more that that's that's a naive uh i think uh interpretation of of that
+[1379.65 --> 1384.85] phenomenon i think we certainly learned a lot of things from steam engines having to do with entropy and
+[1384.85 --> 1390.39] and and basic physics that are absolutely true of life and it's not because living things are like steam
+[1390.39 --> 1395.67] engines it's because both things are examples of laws of right of thermodynamics and and i think
+[1395.67 --> 1399.95] the same is true of computers i think the point isn't to say that that we're like computers the point
+[1399.95 --> 1407.35] is the the computation is a powerful uh powerful metaphor and it has lots of things of use for us here
+[1408.35 --> 1414.71] can you give an example then where this reprogramming metaphor is especially useful sure mike has a whole
+[1414.71 --> 1419.39] number of crazy experiments that are pretty much impossible to explain by just looking at the hardware
+[1419.83 --> 1424.03] okay so structurally everybody knows that biology is hierarchical right organs are made of tissues
+[1424.03 --> 1429.01] are made of cells and so on and so on that's structural that's obvious just as a simple example
+[1429.63 --> 1435.77] when you take an eye from a tadpole and you put that eye you move that that eye in the embryo you
+[1435.77 --> 1441.59] move it to the to the tail okay those animals can still see perfectly well why because the new cells
+[1441.59 --> 1447.09] finding themselves at the tail they still know how to make an eye and they do and then the optic nerve
+[1447.09 --> 1453.47] comes out and it's sort of it it it wants to hook up to the biggest uh uh sort of neural path that
+[1453.47 --> 1457.79] it can find so it finds a spinal cord and it attaches to the spinal cord and so that information gets
+[1457.79 --> 1462.45] up to the brain and the brain sort of knows how to do this predictive loop and this input output
+[1462.45 --> 1467.29] relation and so it gets these data okay so they come from a different place you know fine and so so
+[1467.29 --> 1471.51] so that plasticity is is incredibly important because think about evolution it means that
+[1471.51 --> 1476.31] every time you make a mutation that moves some stuff around you don't automatically your behavior
+[1476.31 --> 1479.89] doesn't just fall apart and everything doesn't fall apart now you're dead and so evolution never
+[1479.89 --> 1485.91] sees any of the beneficial uh um implications of whatever that mutation was but but but the fact
+[1485.91 --> 1490.59] that your parts are locally competent to do specific things even when the environment changes
+[1490.59 --> 1495.47] means that evolvability goes through the roof you have this plasticity that you're able to tolerate
+[1495.47 --> 1500.63] all kinds of things and explore that that neighborhood much better wow yeah i guess i agree now that
+[1500.63 --> 1507.07] this kind of plasticity is at least some indication of intelligence right and this robustness seems to be
+[1507.07 --> 1513.95] a general property of biological systems paco refers to this in the context of plants so i like to say
+[1513.95 --> 1522.33] that you know in so far as plants behave adaptively certainly that's a requisite so i mean if if you if
+[1522.33 --> 1528.69] your behavior wasn't adaptive first you wouldn't be here in the sense the fact that you are here means
+[1528.69 --> 1534.15] something right we are passing our genes oh there's something we've got to be doing which is pretty
+[1534.15 --> 1538.99] right but yet that might not have to do with intelligence i mean it's just a matter of evolution
+[1538.99 --> 1543.23] it's just an adaptation the guys that got the adaptation are the ones that are here end of the
+[1543.23 --> 1549.67] story right so we need to add something on top of active behavior and that's the fact that this behavior
+[1549.67 --> 1557.91] has got to be flexible enough flexible enough so not to be hardwired such that in a soft wire
+[1557.91 --> 1565.81] manner the organism the individual can deal with contingencies that relate so closely to its own
+[1565.81 --> 1572.33] history that cannot be cannot possibly be coded in their genes so we need to move away from the
+[1572.33 --> 1577.69] phylogenetic considerations related to the tree of life to what matters to the individual the here and
+[1577.69 --> 1583.81] now to me to paco calvo to you to you right yeah great also interesting that they both point out that
+[1583.81 --> 1589.59] genes are just not enough to explain this kind of behavior so being adaptive and flexible are good
+[1589.59 --> 1595.47] first criterions for intelligence but there has to be more to it right absolutely one criterion that
+[1595.47 --> 1600.53] many people also would mention here is generality so it is not enough to be good at only one thing
+[1600.53 --> 1608.19] but paco is not too convinced here i would say that we need to operate the other way around and question
+[1608.19 --> 1619.19] um generality itself i think it's one of these um concepts that we haven't been critical enough with
+[1620.01 --> 1626.59] so when you look at what you do longitudinal studies in infants and human infants and then you see how
+[1626.59 --> 1633.63] they acquire competencies throughout you know primary school and things like this then you see hey it's not that
+[1633.63 --> 1640.39] they got the rule and then now once you get it you apply it across the board because why why would you
+[1640.39 --> 1647.87] say i can do five times four equals four times five but not the same when it's a big number if you have
+[1647.87 --> 1656.21] the rule you just manipulate abstract symbols so you say alpha times beta equals beta times alpha well we
+[1656.21 --> 1661.81] don't quite do that until we reach a certain age so it seems that when you look for example at development
+[1662.37 --> 1668.29] this this solid edifice of the cartoon in my opinion cartoon understanding of generalization
+[1668.29 --> 1672.59] starts to fall into pieces one thing that is less controversial is that intelligent behavior
+[1672.59 --> 1679.67] also has to have a goal intelligence cannot reside in the organizing itself because behavior apart from
+[1679.67 --> 1686.19] being flexible has got to be goal directed goal directed towards the type of goals that matter to me
+[1686.19 --> 1690.69] and those relates to the local environment hey what's going on there it's not just what's
+[1690.69 --> 1696.39] happening within Paco Calvo's skull it's not what's happening in my head it's how my head relates to
+[1696.39 --> 1701.81] what's out there it's the coupling in between the organism and the environment that counts i see but
+[1701.81 --> 1707.27] how do you measure if a behavior is actually goal directed i guess especially in plants this is not really
+[1707.27 --> 1712.41] obvious is it there's definitely some creativity needed especially since plants show their behavior
+[1712.41 --> 1718.05] in growing which of course is much slower than what we're used to from animals but nevertheless
+[1718.79 --> 1724.97] and in fact most of the tools you find in the animal sciences can be applied customized but can be
+[1724.97 --> 1731.29] applied to plant research yeah but how how does that work for example you can just record videos of how a plant
+[1731.29 --> 1737.35] grows and then speed it up but we do time lapse so we try to observe their behavior their over behavior
+[1737.35 --> 1743.83] by speeding it up right then on top of that we register the electrical activity so we insert
+[1743.83 --> 1749.63] electrodes and register the electrical activity going on within the plant and think just think of a now
+[1749.63 --> 1754.91] one of the subjects we are right now time lapsing imagine a climbing being so it's circundating
+[1754.91 --> 1760.33] is revolving around in circles to try to reach for a pole for a target remember goal directed behavior
+[1760.33 --> 1766.53] so it's reaching for the pole the pole is there it's a climbing being so it matters for it so it
+[1766.53 --> 1771.39] cares about having a support finding some scaffolding to reach out there and do photosynthesis right
+[1771.39 --> 1776.75] so the pole should matter to it because it's a climb but interesting but even with this kind of data
+[1776.75 --> 1782.37] it's still pretty hard to interpret no right but paco and his team have a very interesting approach for
+[1782.37 --> 1786.53] that imagine you walk through a dark room in your house and you want to approach the light switch
+[1786.53 --> 1792.13] but then you stumble over a toy on the floor and then boom you just bump into it you can see it
+[1792.13 --> 1797.19] right it's different from the type of movement exploratory movement that you make when you try to
+[1797.19 --> 1802.19] reach the switch on the wall to switch the light on so you are kind of gently because you know it's all
+[1802.19 --> 1807.97] over there so this controlled approach this control maneuver is something that you can tell out of
+[1807.97 --> 1813.89] velocities rates of acceleration this type of information and that's the type of information
+[1813.89 --> 1820.83] that you can record when you are time-lapsing the plant so if there is the pole and then you just see
+[1820.83 --> 1826.55] the plant simply growing and growing and then bumps onto the pole that's the type of reactive behavior
+[1826.55 --> 1831.49] we said reactive not proactive say oh i bumped into oh thank god that's very different from from
+[1831.49 --> 1839.57] growing in a controlled manner towards the pole so if we can tell that out of the analysis of the
+[1839.57 --> 1845.41] time-lapse footage plus the electrical activity being recorded with the electrodes so you can see
+[1845.41 --> 1850.83] what's happening within the plant and you can find correlates with the over behavioral activity as
+[1850.83 --> 1856.29] it emerges on the time-lapse footage yeah that's interesting but what does the data now say so the
+[1856.29 --> 1861.51] jury's still out on that one the data is not completely conclusive yet if you ask what have
+[1861.51 --> 1871.17] you found already i would say none so far because i want to be extra careful and this means that when
+[1871.17 --> 1878.29] when you are after a phenomenon that is so wild the burden of proof is on yours so i assume the burden of
+[1878.29 --> 1884.33] proof and this means i don't want to fall prey of a confirmation bias and i see that happening all over
+[1884.33 --> 1890.15] the place and i think that's dangerous because if you get overexcited and you try to see intelligence
+[1890.15 --> 1894.75] all over the place then you run the risk of of shooting yourself on the foot yeah i guess it makes
+[1894.75 --> 1899.55] sense to be to be cautious there and yeah i'm excited what we're going to hear about that in the future
+[1899.55 --> 1906.03] so going back to to cell collectors can you see some goal directedness in there mike and his group
+[1906.03 --> 1911.51] actually have a lot of fascinating examples for how amazingly general and goal directed sales can be
+[1911.51 --> 1916.85] my favorite is probably this one in in the salamander there is a tube called a kidney
+[1916.85 --> 1921.13] tubule think about like it's like a like a it's a tube okay if you take a cross section through this
+[1921.13 --> 1927.27] tube you see that in a normal salamander there are eight to ten cells that that make up the diameter of
+[1927.27 --> 1932.29] the the sorry the the circumference of this tube okay they go around so in order to do this the cells
+[1932.29 --> 1938.27] have to communicate with each other um and they uh and they and they they they communicate with each
+[1938.27 --> 1942.35] other and they may they they make this this tubule right and people say ah you know the genetics the
+[1942.35 --> 1947.63] genetics tells the cells what to do okay so one cool thing you can do with newts is that you can
+[1947.63 --> 1953.65] make what's called polyploid newts which means that they will have multiple times the normal number of
+[1953.65 --> 1960.47] chromosomes so if the normal number of uh of genetic material is 2n you can have 4n 6n 8n newts right so
+[1960.47 --> 1966.05] every cell has more chromosomes when that happens the cells get really huge okay the cells get bigger and
+[1966.05 --> 1970.51] bigger the more genetic material the more bigger the cells get but the animal stays the same size
+[1971.01 --> 1974.69] so now that's interesting what that what does that mean that means that every structure has to be made
+[1974.69 --> 1979.97] a fewer number of cells so if you take a cross section of a tubule of a 4n newt you will see
+[1979.97 --> 1984.35] that instead of eight to ten cells there are now four to five cells that's already fascinating right
+[1984.35 --> 1988.13] amazing the cells are making up for this but here's the best part it gets even better than that the best
+[1988.13 --> 1993.85] part is that if you make enormous cells uh that they're like an 8n newt what does the kidney
+[1993.85 --> 1999.77] tubule look like one single cell bends around itself leaving a hole in the middle and makes a
+[1999.77 --> 2004.93] tubule now you may why is this amazing because now no more cell to cell communication now the molecular
+[2004.93 --> 2008.37] mechanism of how you did this is completely different now what you're doing is you're
+[2008.37 --> 2013.27] controlling the cytoskeleton so that the cell itself is deformed in a particular way so what you have here
+[2013.27 --> 2022.35] is uh you have a a higher level goal the anatomical goal state of having a tubule kick-starting
+[2022.35 --> 2027.41] different molecular mechanisms to make it happen in one case cell to cell signaling in the other
+[2027.41 --> 2033.55] case the cytoskeleton rearrangements so this is a system that if we had some swarm robotics that
+[2033.55 --> 2037.21] could do this we would be over the moon this would be collective intelligence like nobody had ever seen
+[2037.21 --> 2043.45] before if you could say here's my robot i've now made every component uh five times larger by the way
+[2043.45 --> 2048.39] it still works right this would this is so far beyond our capabilities that you know and and so so
+[2048.39 --> 2055.39] biology has this amazing ability to not only to solve problems but to harness different underlying
+[2055.39 --> 2061.97] modules to get to the same higher level goal well yeah crazy how adaptive this the system is and i
+[2061.97 --> 2067.19] can't believe that i never heard before of what kind of crazy behavior cell collectives can can show
+[2067.19 --> 2072.31] like i think you're not the only one who's surprised by that even though maybe we could have known
+[2072.87 --> 2077.33] on the one hand it's amazing right and i'm always like just stunned to see these things on the other
+[2077.33 --> 2083.01] hand we should have been able to predict this from first principles like darwin should have already
+[2083.01 --> 2088.21] been able to predict this in the following sense if that kind of thing didn't work if your pieces were
+[2088.21 --> 2093.99] not themselves competent evolution would never be able to get off the ground not that it wouldn't happen
+[2093.99 --> 2099.51] but but the efficiency of it the time scales would be incompatible with the with what we see in the
+[2099.51 --> 2106.09] living world it's things are actually evolvable because small changes do not wreck the whole thing
+[2106.63 --> 2111.19] right and that's i don't know about you but when i when i first heard about the theory of evolution
+[2112.03 --> 2119.09] uh i you know the first thing that came to mind was let me see uh i have some working device and now
+[2119.09 --> 2123.53] i start making random changes to it are you kidding what what are the odds that like we know how hard
+[2123.53 --> 2127.23] that is well what are the odds that that any of this is ever going to be useful the thing will be dead
+[2127.23 --> 2131.79] long before right and the and and so and that's a pretty good argument actually and the reason that
+[2131.79 --> 2136.55] is not a problem is not just because we have billions of years because evolution is actually
+[2136.55 --> 2142.01] very quick it's because the parts are competent so when you make these small changes a bunch of
+[2142.01 --> 2147.91] stuff adjusts to it and it's fine it smooths out the selection landscape yeah i guess it makes a lot of
+[2147.91 --> 2152.65] sense i agree and there are more things that most people might not quite get about evolution especially
+[2152.65 --> 2158.77] when it comes to the role that dna plays or doesn't play i want to be clear that i did not invent the
+[2158.77 --> 2164.37] idea that genes are not a blueprint okay the next question becomes though is what do we say about where
+[2164.37 --> 2170.45] actually does anatomy come from i want to i want to say a couple things about that one is that again i
+[2170.45 --> 2178.93] think the hardware software distinction helps us here and what you can you can sort of uh you can imagine
+[2178.93 --> 2186.19] is someone gives you a bag of electronic parts with a uh with a piece of paper that describes that that
+[2186.19 --> 2191.71] labels each part and tells you uh how they connect to each other so that's the genome the genome it
+[2191.71 --> 2196.41] tells you that's your bag of parts it just tells you what your parts are now when you wire up those parts
+[2196.41 --> 2201.49] and you turn on the juice for the first time it does something by default what it does is because
+[2201.49 --> 2207.19] the parts were were actually they happen to define a calculator you see a little zero on the lcd
+[2207.19 --> 2212.23] say oh that's a default behavior 100 of the time when you build this thing you see the zero
+[2212.23 --> 2217.95] okay and say that's amazing so this this genome gives us a very robust embryo it under default
+[2217.95 --> 2222.93] normal conditions it gives us this thing every single time right now you find out that wait a
+[2222.93 --> 2227.59] minute this isn't just a calculator this is a programmable calculator amazing i can get it to
+[2227.59 --> 2232.67] do different things i don't have to change out the parts the parts are good as is i can give it inputs
+[2232.67 --> 2238.39] right stimuli experiences of various types and it will do these amazing things it will plot you know
+[2238.39 --> 2246.17] sine curves and and calculate pi and do all these cool things so so so so one thing that we can
+[2246.17 --> 2253.61] understand from this is the idea that yes there is what what evolution of course uh is shape is is um
+[2253.61 --> 2259.55] is doing a very good job of is giving you hardware that by default gives you a reliable outcome that's
+[2259.55 --> 2263.45] very important right because embryos have to be reliable and they're robust and all of that but
+[2263.45 --> 2267.39] the other thing we find out is that actually the hardware is pretty cool not only is it reliable
+[2267.39 --> 2274.91] it actually is reprogrammable and can do multiple things multiple things like when we take uh when we
+[2274.91 --> 2280.09] take cells out of a frog embryo and we the skin cells when we take some skin cells out of a frog
+[2280.09 --> 2285.01] embryo and we set them aside and we say okay you are now liberated from all of the signals that
+[2285.01 --> 2290.45] were determining your actions in the rest of the embryo what are you going to do you can re re re
+[2290.45 --> 2294.27] imagine your multi-cellularity what are you going to do they make a new creature which we call a
+[2294.27 --> 2299.69] xenobot wait hold on so you're telling me that they're taking the skin cell of a frog and out of
+[2299.69 --> 2305.19] that grows a completely new organism whether xenobots are organisms robots or something completely
+[2305.19 --> 2310.21] different is still up for debate but yes they're synthetic life forms and their name comes from the
+[2310.21 --> 2316.95] african clawed frog xenopus laevis they make these novel proto creatures that have a completely different
+[2316.95 --> 2325.53] behavior morphology uh all these different things that uh and um and they're just they're just they're
+[2325.53 --> 2330.31] just skin with a wild type genome in fact i sometimes give a talk on this i spend 20 minutes showing these
+[2330.31 --> 2334.65] xenobots running around and doing things i don't tell people what they are and i say what and i say ask the
+[2334.65 --> 2339.79] audiences what do you think this is and they'll say oh uh this is uh you got this from the bottom of a pond
+[2339.79 --> 2343.83] somewhere it's a it's an organism you know and i say okay well guess what we've sequenced the genome
+[2343.83 --> 2347.55] they say oh fantastic now we'll get to the bottom of this you know you've got the genome now so let's
+[2347.55 --> 2352.39] see you know what do we learn i said well the genome is 100 xenopus laevis it's frog i said well
+[2352.39 --> 2358.31] what do we do with that that that predicted nothing about what this thing looks like right so uh so what
+[2358.31 --> 2366.53] that tells us is that uh what the genome actually gives you is a bunch of um that are so uh cleverly made
+[2366.53 --> 2371.55] that in collectives they are able to deploy intelligence in novel circumstances they can
+[2371.55 --> 2375.17] do different things these cellular collectives can do different things is it actually the cells
+[2375.17 --> 2380.19] doing different things and forming these new life forms or are mike and his team designing them
+[2380.19 --> 2385.37] actually both options are possible but mike wants to make sure that we give credit what credit is due
+[2385.37 --> 2391.83] we didn't edit the genome we didn't provide any weird new nano materials we didn't put in a scaffold
+[2391.83 --> 2397.43] for the cells to grow around they're really taking advantage of the native competencies of the cells
+[2397.43 --> 2403.71] but it's it's really important to note that what's what's going in here is not just the cells in there
+[2403.71 --> 2411.65] in their genome uh in fact one can think about the xenobot as not just the construct made of frog cells
+[2411.65 --> 2418.85] but the entire system the the actual xenobot is the cells but it's also doug blackiston and sam
+[2418.85 --> 2425.33] kriegman and josh bongard and i and the ai that is running on the university of vermont's clusters
+[2425.33 --> 2432.33] that was simulating the the bots and telling uh telling doug ways to sculpt them for specific tasks
+[2432.33 --> 2438.21] and in that it actually mirrors what happens to uh living beings as well because because all of us
+[2438.21 --> 2444.55] are in some ways uh being being modified and hacked and behavior shaped by aspects of the environment
+[2444.55 --> 2451.21] by our microbiome by other beings who send us stimuli and signals and so the xenobot is a kind of
+[2451.21 --> 2457.89] collaboration it's a kind of working together between uh scientists ai and the biology and i think
+[2457.89 --> 2463.27] this is uh this is just the future of many more such such collaborations oh so that really sounds like
+[2463.27 --> 2468.47] the journey has just begun absolutely from what i can tell the traditional artificial intelligence research
+[2468.47 --> 2474.91] can learn a lot from artificial life something that also paco is alluding to so we try to throw light
+[2474.91 --> 2483.77] upon issue of how to devise how to design our toys with plants as a source of inspiration and not animal
+[2483.77 --> 2489.89] models and there are already plant-inspired robots now there are many examples of inspiration in robotics
+[2489.89 --> 2495.51] that bring this idea they call them grow bots like robot that grows so a robot for example is something
+[2495.51 --> 2500.49] that can inflate from the inside out so it's a pneumatic actuator right so now now all the all the
+[2500.49 --> 2506.43] discussion has to do with those actuators right how so how can you build a robot that is being controlled
+[2506.43 --> 2512.33] how with a pneumatic actuator you can see how much it inflates and in which direction like a plant you can
+[2512.33 --> 2518.51] say okay if i inflate more this side and this side it's gonna turn left is i if i inflate more this
+[2518.51 --> 2524.31] side that i just want to turn light so differential pressure can give you directed growth so this is a new
+[2524.31 --> 2529.81] type of robot that solves problems very differently not by moving around like animals but by growing
+[2529.81 --> 2535.93] interesting so i guess that opens a whole other design dimension yeah i'm really curious what kinds
+[2535.93 --> 2541.11] of artificial life we're going to see in the future but one last question about the xenobots
+[2541.73 --> 2546.91] if the researchers don't tell the cells how to arrange themselves and the genome has nothing
+[2546.91 --> 2553.33] but frog dna how on earth does that work this is still an open question and answering it might lead
+[2553.33 --> 2559.61] to some deeper insights along the way where does the shape actually come from so i don't have a
+[2559.61 --> 2563.81] great answer but i have an analogy that i think is useful this is this is this is a thing called
+[2563.81 --> 2568.13] a galton board i don't know if you've ever seen it imagine a vertical piece of wood just vertical
+[2568.13 --> 2572.33] like this and what you do is you take a bunch of nails and you bang a bunch of nails into it at regular
+[2572.33 --> 2577.91] intervals okay and then you take a bucket of marbles and then you dump it in the top of this thing and
+[2577.91 --> 2581.03] they go boom boom boom boom they go you know they kind of go everywhere then they land on the bottom
+[2581.03 --> 2584.69] how do they land on the bottom it's always the same they make a lovely bell curve okay and they
+[2584.69 --> 2588.85] have they have cool toys like this you can get on amazon and so on and so no matter how you do it
+[2588.85 --> 2594.01] each individual um each individual marble goes however it's stochastic but then in the end if you
+[2594.01 --> 2599.13] have enough marbles you get this lovely bell curve fine now you ask the question okay where is the shape
+[2599.13 --> 2605.43] of this bell curve uh determined in the system is it in the my description of the board no is it in the
+[2605.43 --> 2611.49] nails no do i learn it from staring at the metal of the nails or the or the structure of the wood no
+[2611.49 --> 2617.79] what you've done is you've created a particular machine you've you've arranged the hardware in a
+[2617.79 --> 2625.25] way that manifests laws of physics and laws of computation that you don't get to interact with
+[2625.25 --> 2629.81] unless you have the right hardware once you have the right hardware you are coupled to these powerful
+[2629.81 --> 2635.95] laws that do things that were never in your hardware directly they are sort of floating out there
+[2635.95 --> 2640.35] somewhere like the fact that if you know two angles of a triangle you automatically know the third yeah
+[2640.35 --> 2646.19] i think that's that's beautiful so intelligence is somewhere out there and yeah i'm really excited
+[2646.19 --> 2662.06] what else we will discover thank you so much solvek for all of this input my pleasure nico so you've
+[2662.06 --> 2668.66] been and i've been as well asking and we've been in general in this podcast asking a lot of people
+[2668.66 --> 2678.14] about what intelligence is now let me return the favor what do you think intelligence is so the main
+[2678.14 --> 2684.38] thing that i myself learned by asking this question and also asking if something in particular is
+[2684.38 --> 2691.72] intelligent that it says actually much more about ourselves than that thing in question at least in our
+[2691.72 --> 2697.72] everyday use of the word it really comes down to what we are proud of or value or find impressive
+[2697.72 --> 2702.72] and as we've talked about previously in the ai episode so the the third episode in our season
+[2702.72 --> 2708.86] right exactly and i've already said there that what i'm impressed by has pretty much changed over the
+[2708.86 --> 2715.48] last few years and in particular also doing during doing this podcast and now i find it much more
+[2715.48 --> 2720.78] impressive if some cells can imagine their own body than if some transistors are beating me in the
+[2720.78 --> 2725.26] board game but i still think that coming up with a proper scientific definition for intelligence
+[2725.26 --> 2730.32] is a whole different piece of cake and i'm pretty happy that we have philosophers like you that are
+[2730.32 --> 2733.12] actually working on that yeah i'm pretty happy about that
+[2735.16 --> 2739.44] so what what do you think then about especially about paco's take that
+[2739.44 --> 2745.44] saying such definitions are not really helpful and they might actually harm our research yeah i agree i
+[2745.44 --> 2751.76] think there is definitely a danger of sticking too tightly to definitions right and and missing lots of
+[2751.76 --> 2761.82] interesting uh options and uh uh uh possibilities of different ways in which you know uh organic systems but
+[2761.82 --> 2770.02] also artificial systems might uh count as intelligent right perhaps we do not we cannot have a nice neat
+[2770.94 --> 2776.98] definition one and for all that applies you know to everything but i think we do need something that
+[2776.98 --> 2784.02] at least at least guides research that tells us well you know we have this paradigmatic cases it's clear cases
+[2784.58 --> 2791.60] like you know humans and chimpanzees and perhaps you know beehives and then we can say well you know
+[2791.60 --> 2798.12] these are the things that are going on and that you know are in common between all of these cases i think
+[2798.12 --> 2805.96] we need something like that so not uh um you know clear definition that says well these things count
+[2805.96 --> 2812.14] these other things do not but we do need something that at least allows us to say well when you're
+[2812.14 --> 2819.72] talking about intelligence that's the domain which we are you know that's the the kind of game that we
+[2819.72 --> 2826.48] are playing that makes sense and what what would you say are these general or like these common common
+[2826.48 --> 2834.38] ideas or common principles that beehives humans and maybe super smart robots share right so of course
+[2834.38 --> 2840.22] i'm a bit suspicious to talk about that because i have as you know uh a stake in this discussion right so
+[2840.22 --> 2847.94] i have also done work on this question so on my own view some of the important criteria as you mentioned
+[2847.94 --> 2853.86] at the beginning of these this episode that we should uh pay attention to in you know trying as i
+[2853.86 --> 2861.30] mentioned earlier to delineate this kind of fuzzy domain of what counts as intelligent this criteria
+[2861.30 --> 2868.82] go from things like generality so being able to do to behave successfully in uh in very different
+[2868.82 --> 2874.00] circumstances right so not being able to do just one thing very well like you know playing chess very
+[2874.00 --> 2879.88] well that's nice but it's not enough for intelligence i think we need something that can play chess well
+[2879.88 --> 2886.40] can play you know draughts but can also pick up a bottle can also you know open a door or you know
+[2886.40 --> 2892.72] plan your holiday vacations and stuff like that but beehives are also not really good at doing that
+[2892.72 --> 2900.42] right right but they are good at doing all sorts of other things right so if you uh uh poke them or if
+[2900.42 --> 2905.50] you put obstacles in front of the direction in which the bees are building their beehive they are going to
+[2905.50 --> 2911.94] be able to adapt you know this new circumstance and you know find uh new solutions to that right so
+[2911.94 --> 2919.16] they are able to you know uh fight to navigate to food sources to communicate with each other about
+[2919.16 --> 2924.36] whether those food sources are and so on right so they they do lots of things you're right to say well
+[2924.36 --> 2931.52] it's nowhere close to what we can do right we seem to be to be able to do things in a much broader sense
+[2931.52 --> 2936.32] right so we have different so many different contexts in which we are able to adapt our behavior
+[2936.32 --> 2942.54] and do well in those circumstances and of course bees and many other animals cannot but then i think
+[2942.54 --> 2948.96] it's more a master of a degree of generality right so humans have a high degree of generality
+[2949.68 --> 2956.54] bees have a much lower degree perhaps you know baboons chimpanzees and so on are closer to us and then we
+[2956.54 --> 2963.26] have you know simpler and simpler organisms or even saying simply somewhat misleading but we have
+[2963.26 --> 2968.84] other kinds of organisms that have lower degrees of that another thing that i think is important
+[2968.84 --> 2975.90] another criterion is flexibility which i i think we also mentioned quite often in this podcast um
+[2976.68 --> 2983.76] having your own goals right and trying to uh and i think you also have thought quite a bit about this
+[2983.76 --> 2989.06] issue of goals right yeah i think goal directiveness is particularly interesting because it it already
+[2989.06 --> 2995.02] tells us that it doesn't make sense to look at intelligence just in isolation it's always connected
+[2995.02 --> 3000.36] and you also have to somewhat interact with your environment otherwise there is no intelligent behavior
+[3000.36 --> 3007.14] obviously and what i found also equally revealing is that um as much as intelligence doesn't just occur
+[3007.14 --> 3012.92] in isolation it also never comes alone so in our first episodes we talked about the individual
+[3012.92 --> 3019.74] intelligence of humans and animals but as mike pointed out there we all kind of are to some
+[3019.74 --> 3025.96] extent what we would call collective intelligence it's just like the behavior of a swarm emerges from
+[3025.96 --> 3031.94] collective efforts of the individuals our behavior is also the collaboration of a lot of cells and
+[3031.94 --> 3038.40] they do quite some problem solving by themselves as we we heard in the interview yeah and and i think
+[3038.40 --> 3045.42] also connecting to some things that we talked about in the previous episode on episode five uh when we
+[3045.42 --> 3053.86] talk about humans i mean there isn't only as you were saying a sort of society of cells but we are ourselves
+[3053.86 --> 3059.76] parts of society of humans and as uh we discussed last time with cecilia hayes and ali boyle
+[3059.76 --> 3067.76] uh part of our intelligence may be due to this fact so to the fact that we are social cultural
+[3067.76 --> 3074.62] beings yeah absolutely so yeah i think it's it's it's uh in general impressive what collectives can do
+[3074.62 --> 3081.86] right as we've seen be them collectives of cells as you mentioned in us as uh we we saw also in
+[3081.86 --> 3087.24] interviews for today right for for these episodes but also collectives in a different sense right
+[3087.24 --> 3093.84] collectives of people like us right and what we've been able to build in terms of institutions
+[3093.84 --> 3101.24] tools that then help us be more intelligent right so there are tools for us to keep improving our
+[3101.24 --> 3105.98] capacities our abilities and might even be intelligent themselves i mean this is the whole
+[3106.31 --> 3111.70] exactly that's that's the ambition right that at some point the tools that for now are just
+[3112.34 --> 3118.80] helping us right be more intelligent and do more stuff are going to themselves become intelligent
+[3118.80 --> 3124.88] right so that that's a dream i think that lots of us are pursuing exactly and i guess what what we
+[3124.88 --> 3131.56] talked about in episode three with uh lisa miraki and and oliver brock is that we are already pretty
+[3131.56 --> 3138.14] fine we have already a lot of tools in order to perceive that goal but what might still be be missing to
+[3138.14 --> 3143.18] some extent is something that already these very simple cells have and this is this sense of
+[3143.18 --> 3149.52] autonomy that we still with all kinds of machines that we have we still tell them what to do and i
+[3149.52 --> 3155.30] mean we can do that as or at least mike can do that apparently but they they don't really need our
+[3155.30 --> 3161.40] instructions they just build pretty robust and pretty cool stuff by themselves and i guess this is
+[3161.40 --> 3168.52] what we're still away from with artificial intelligence right right yeah so yeah i agree i think the
+[3168.52 --> 3173.22] autonomy is is very important right and it connects i think also to the point you were making earlier
+[3173.22 --> 3180.28] about goals right so one thing is if the system has its own goals right another is if the goal is just
+[3180.28 --> 3187.74] imposed from outside right as you're saying today we have systems that do what we want them to do so
+[3187.74 --> 3193.34] the goals are actually ours right of the designers or the users they are not the goals of the system
+[3193.34 --> 3200.16] itself right what it needs to do because you know it wants or it needs to do because it needs that to
+[3200.16 --> 3205.70] you know keep going on right and then there's a whole other debate to be had if we even want that if
+[3205.70 --> 3213.84] right well maybe in the future we'll we'll cover that let's see let's see all right so thanks a lot
+[3213.84 --> 3222.42] nico this was lots of fun and very very fascinating as you promised at the beginning really uh impressive
+[3222.42 --> 3230.22] stuff and really unexpected stuff i think uh today in this episode and uh difficult it's difficult to
+[3230.22 --> 3237.70] to to to really figure out well are these edge cases where do they lie in this you know line or is
+[3237.70 --> 3243.72] there a line at all as we mentioned earlier i think uh lots of questions still to be answered here
+[3244.46 --> 3251.62] a lot of additional topics to cover hopefully in future episodes yes for sure for sure but this
+[3251.62 --> 3258.28] already sums it up for our not only episode but the whole first season of our punching card podcast
+[3258.28 --> 3265.46] yeah it was great having you and uh having you as well uh listeners to join us for these episodes
+[3265.46 --> 3270.84] for this first season so i'm looking forward to keep working on these questions and perhaps
+[3270.84 --> 3278.94] also in this podcast uh with you so that's all for our first season thanks for joining us here
+[3278.94 --> 3295.76] at punching cards the podcast about all things intelligence and now time for some fun facts it's been a few
+[3295.76 --> 3300.90] months since we recorded the interview with mike levin in the meantime his xenobots have shown even
+[3300.90 --> 3306.78] more mind-boggling behavior they can now reproduce they do this by finding and combining loose cells
+[3306.78 --> 3312.60] into clusters that look and move like they do which is called kinematic reproduction we will probably
+[3312.60 --> 3324.20] have to come back to that in a later episode punching cards the podcast about all things intelligent is
+[3324.20 --> 3329.30] a production of the science of intelligence cluster in berlin part of the excellence initiative of the
+[3329.30 --> 3335.30] german research foundation the podcast is produced scripted and coordinated by arvid batage dimitri
+[3335.30 --> 3343.58] coelho mollo benjamin lang nicolas rot olga shurigina and solvig steinhardt editing by valeria beccatini the music was
+[3343.58 --> 3348.72] composed and performed by solvig steinhardt and dimitri coelho mollo and mixed and produced by arvin batage
+[3349.10 --> 3354.66] you can find and follow our podcast on spotify and apple music and all your favorite podcast platforms
+[3355.26 --> 3360.80] for show notes links to additional material more information to contact us visit
+[3360.80 --> 3368.30] www.scienceofintelligence.de slash punching cards or follow science of intelligence on twitter

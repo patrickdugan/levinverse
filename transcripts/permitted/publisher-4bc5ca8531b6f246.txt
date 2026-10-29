@@ -36,7 +36,7 @@
 
 [05:04] Braitenberg showed that these little, very minimal vehicles had really interesting behaviors. The contents were extremely sparse. And yet, it's very charming to read about what the behaviors are from simple motors and light sensors and so on. He said, “We will be tempted to use psychological language in describing their behavior.” The reason you're tempted is not just because you're anthropomorphic. You're tempted because it actually works. In other words, behavior science offers all kinds of tools that are actually useful for certain kinds of systems.
 
-Here's where I think he made a capital error: [05:04] Here's where I think he made a capital error: “And yet we know very well there is nothing in these vehicles that we have not put in ourselves.” Physically, that's true. There are no physical components that you put in yourself. There is no software. And yet there is something in there, I think, that we did not put in ourselves, and I think that's the most interesting part.
+[05:04] Here's where I think he made a capital error: “And yet we know very well there is nothing in these vehicles that we have not put in ourselves.” Physically, that's true. There are no physical components that you put in yourself. There is no software. And yet there is something in there, I think, that we did not put in ourselves, and I think that's the most interesting part.
 
 [05:04] If we get anything for free in these cases, what do we get for free? There's a whole spectrum between order—the kinds of stuff that Stuart Kauffman was studying—and actual behavioral competencies, a.k.a. kinds of minds. One reason that it's important is because this is the future we're talking about.
 
@@ -66,7 +66,7 @@ Here's where I think he made a capital error: [05:04] Here's where I think he ma
 
 [10:08] Here's somebody who put their turtle on a little skateboard, and that's it. You unlock this amazing, novel set of behaviors. The turtle now wants to play with the cat. He's chasing him around. The cat seems a little freaked out, but that seems apropos. And the turtle is now moving at that speed. No problem. It's mind-boggling.
 
-You ask yourself: [10:08] You ask yourself: Have turtles for millions of years been ready for this? How do you unlock this amazing thing? You didn't really have to do anything. Just realize that all of this happened from just putting in a passive skateboard. Imagine all the things we're building now with these smart prosthetics. What could they unlock?
+[10:08] You ask yourself: Have turtles for millions of years been ready for this? How do you unlock this amazing thing? You didn't really have to do anything. Just realize that all of this happened from just putting in a passive skateboard. Imagine all the things we're building now with these smart prosthetics. What could they unlock?
 
 [10:08] The latent space of possibilities is incredibly wide and also incredibly weird. In all of these examples, the amount of effort that we had to put in for these neural changes has been shockingly low. It's really strange that it works out of the box like this.
 
@@ -76,7 +76,7 @@ You ask yourself: [10:08] You ask yourself: Have turtles for millions of years b
 
 [15:10] Now, how would I find such a network? These features together make an amazing asymmetric ratchet that points upwards in learning and agency. If we had chemical pathways like this, you could immediately see that they would eventually ratchet themselves up to who knows what level of intelligence and agency. But how would we find such a thing? Surely, if anything, this is a needle in a haystack.
 
-Turns out, no: [15:10] Turns out, no: random—not designed, not selected, and not pretrained—networks are incredibly close to optimal for this kind of ratchet. The fact that random networks are already doing this—they are optimized for intelligence and for agency, locked in an asymmetric spiral—is a free gift from mathematics. It doesn't come from physics. There's no law of physics that has anything to do with this. It doesn't come from selection or biology. There's no history of selection here. It is a free gift from the mathematics of how networks work and how the math of causal emergence works. Remarkable—it is already there at the molecular network level long before you have cells or replicators or anything like that. Random networks already do this.
+[15:10] Turns out, no: random—not designed, not selected, and not pretrained—networks are incredibly close to optimal for this kind of ratchet. The fact that random networks are already doing this—they are optimized for intelligence and for agency, locked in an asymmetric spiral—is a free gift from mathematics. It doesn't come from physics. There's no law of physics that has anything to do with this. It doesn't come from selection or biology. There's no history of selection here. It is a free gift from the mathematics of how networks work and how the math of causal emergence works. Remarkable—it is already there at the molecular network level long before you have cells or replicators or anything like that. Random networks already do this.
 
 [15:10] So that was going from the neural level down to the molecular level. Let's go sort of mid-level. Suppose I told you that I wanted an autonomous organism. I want it to be motile. I want it to move around. It's not gonna have any neurons, but I want it to make copies of itself from cells in the environment, kind of like von Neumann's dream of a machine that makes copies of itself from stuff it finds in the world. I want it to have hearing. I want it to respond to sound, and I'm only gonna use wild-type frog cells. How much bioengineering and synthetic biology do you think you would need to do for something like that?
 
@@ -166,7 +166,7 @@ Turns out, no: [15:10] Turns out, no: random—not designed, not selected, and n
 
 [35:40] Here's Wiener and Rosenblueth's spectrum in the forties. I have a different one that I put out in this paper, basically leading from just passive, static patterns that don't do anything and just sit there, all the way through various kinds of low-level protocognitive activity and up through very sophisticated navigational patterns that we see as human metacognition and so on. I think that what we're getting for free is, in various systems, somewhere along this spectrum. These things are projected into different spaces depending on what kind of system we've made.
 
-Second question: [35:40] Second question: these are patterns of navigation of diverse types of intelligence. Where does it come from? When I ask most people in my field, "Where did these competencies come from? If they didn't come from the three things we discussed, where do they come from?" people say, "Emergence." I say, "What does that mean?" They say, "Just the facts that happen to hold in our one universe. We have one realm."
+[35:40] Second question: these are patterns of navigation of diverse types of intelligence. Where does it come from? When I ask most people in my field, "Where did these competencies come from? If they didn't come from the three things we discussed, where do they come from?" people say, "Emergence." I say, "What does that mean?" They say, "Just the facts that happen to hold in our one universe. We have one realm."
 
 [35:40] Monism is really attractive to people, in particular physicalist monism: the physical universe. We just have to write these down; we get surprised occasionally, and that's it. I think this is a very defeatist and nonscientific attitude. I don't think we can just accept the grab bag of weird facts that happen to hold in our realm. I think we need to do what the mathematicians do.
 
@@ -182,7 +182,7 @@ Second question: [35:40] Second question: these are patterns of navigation of di
 
 [35:40] What I think this Platonic space is full of is not just the static facts of mathematics, but other kinds of patterns of diverse levels of agency that are recognizable as kinds of minds.
 
-Final question: [35:40] Final question: how would you study something like this? In our group, we have a research program that, first of all, tries to formalize and quantify that degree of delta between the effort you put in and what you got out. You've made something, but you get something more than the effort you put in. What is that? What did you get extra in all sorts of interfaces? We make biological interfaces. We make minimal engineered interfaces. We make hybrids and cyborgs and all kinds of things like that.
+[35:40] Final question: how would you study something like this? In our group, we have a research program that, first of all, tries to formalize and quantify that degree of delta between the effort you put in and what you got out. You've made something, but you get something more than the effort you put in. What is that? What did you get extra in all sorts of interfaces? We make biological interfaces. We make minimal engineered interfaces. We make hybrids and cyborgs and all kinds of things like that.
 
 [40:48] And what we're doing by making these new interfaces is we're providing a conduit into this latent space of patterns and seeing what comes out. We provide a new interface that maybe has never existed before, and we see what you get. And this is just the very first part of a probably infinite effort to understand what that space actually consists of. And how do you optimize for what you're gonna get out of that space?
 
@@ -206,7 +206,7 @@ Final question: [35:40] Final question: how would you study something like this?
 
 [40:48] So I think all of these physical embodiments are a kind of thin client. They're an interface hosting these patterns that come at very diverse levels of agency and intelligence, like an ecosystem. All of these things are sort of hacking each other and cooperating and competing with each other and so on.
 
-I think the research program is this: [40:48] I think the research program is this: We have to map the space. We have to learn to optimize or suppress these ingressions. This is not about finding bugs. This is about finding unexpected competencies that are not reflected in the architecture or the algorithm or anything else that you think you did. So I don't think we make intelligence. I think we facilitate its ingression to different degrees.
+[40:48] I think the research program is this: We have to map the space. We have to learn to optimize or suppress these ingressions. This is not about finding bugs. This is about finding unexpected competencies that are not reflected in the architecture or the algorithm or anything else that you think you did. So I don't think we make intelligence. I think we facilitate its ingression to different degrees.
 
 [40:48] I was told that in this audience there are some artists and so on. So I think this is actually really important.
 
@@ -220,7 +220,7 @@ I think the research program is this: [40:48] I think the research program is th
 
 [45:55] We certainly, I think, are the beneficiaries of these, but I wouldn't feel too special because “machines” get them too. I think inspiration goes all the way down.
 
-One final crazy idea: [45:55] One final crazy idea: I don't think we are primarily physical beings that are sometimes affected by patterns. You might think that we're physical beings. The laws of physics and cybernetics and so on determine how we work. And then every once in a while, we host a pattern that changes things up. I don't think that's what's going on here.
+[45:55] One final crazy idea: I don't think we are primarily physical beings that are sometimes affected by patterns. You might think that we're physical beings. The laws of physics and cybernetics and so on determine how we work. And then every once in a while, we host a pattern that changes things up. I don't think that's what's going on here.
 
 [45:55] There's this paper on thoughts and thinkers with Chris Fields and then this thing in IAI that I put out on patterns. I think, actually, we are patterns. And we project into the physical world through our bodies. Because thoughts are thinkers, meaning there's a symmetry, there is no sharp distinction between active agent and passive data. Thoughts have other thoughts. All of this basically has a two-part dynamic, which includes physical interfaces but also this incredible space of beings, including ones as large as ourselves and possibly much, much larger.
 

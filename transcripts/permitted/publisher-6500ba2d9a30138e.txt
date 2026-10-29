@@ -10,7 +10,7 @@ I often start by thinking about Alan Turing, who needs no introduction. He was v
 
 Some people may not know that he was also interested in morphogenesis, the generation of biological shape. One might wonder why the same person interested in intelligence would be interested in the kinds of questions developmental biologists deal with. He saw a very deep symmetry between these two fields, which is very important and still not really appreciated sufficiently.
 
-This is what we work on: This is what we work on: the idea of problem-solving living machines.
+This is what we work on: the idea of problem-solving living machines.
 
 One thing we have to think about as we drill down in the biology is the traditional distinction that termite mounds, bee colonies and large flocks are collective intelligence, while humans are centralized intelligences. The idea is that actually all intelligence, certainly in biology, is collective intelligence, because we are all made of parts and components. And in fact, Ricard Soleil calls this kind of thing a liquid brain in the sense that the components are not fixed with respect to their spatial relationships.
 
@@ -72,7 +72,7 @@ Slide 10/58 · 10m:49s
 
 Finally, I want to show you an example. This bears on some of the evolutionary topics. This is a tadpole of a frog. So here are the nostrils, here's the mouth, here's a brain, here's the gut, here's the tail.
 
-Now you'll notice something very strange: Now you'll notice something very strange: the eyes should be here, but they're missing. Instead there's one on the tail. We engineered it this way, and I can talk later about how that's done. But the interesting thing is that when you make a tadpole with an eye on its tail, despite the fact that for millions of years everything was perfectly set up to expect visual input from two regions right here into the optic tectum, these animals can see quite well. We made a machine that tests their learning and visual assays. This eye, in fact, makes an optic nerve. It synapses on the spinal cord, not on the brain. That apparently is sufficient for the brain to recognize this.
+Now you'll notice something very strange: the eyes should be here, but they're missing. Instead there's one on the tail. We engineered it this way, and I can talk later about how that's done. But the interesting thing is that when you make a tadpole with an eye on its tail, despite the fact that for millions of years everything was perfectly set up to expect visual input from two regions right here into the optic tectum, these animals can see quite well. We made a machine that tests their learning and visual assays. This eye, in fact, makes an optic nerve. It synapses on the spinal cord, not on the brain. That apparently is sufficient for the brain to recognize this.
 
 You can imagine this weird information bus onto which this organ is putting data, and the brain says, yes, I know what that is. That's visual data, even though it's coming in from a completely bizarre location. No problem. That kind of plasticity is going to be a major, major theme today because one of the things that I think is a constant theme in biology is that it does not overtrain on priors, meaning that it plays the hands that it's dealt at any given moment. What evolution is making is hardware that is very good at dealing with novelty because it doesn't actually have exact expectations, and we'll get to some of that later.
 
@@ -100,7 +100,7 @@ There is a very deep set of questions about how the cellular collective knows wh
 
 The reason this question is important is this. In addition to all the basic stuff, pretty much every aspect of medicine, with the exception of infectious disease—birth defects, traumatic injury, cancer, aging, degenerative disease—would be completely solved if we knew how to tell collections of cells what to build. If we could specify what three-dimensional structure we wanted the cells to build, all of this would go away.
 
-This is kind of the end game for this whole field: This is kind of the end game for this whole field: what we really want is a kind of anatomical compiler. We want to sit down and draw the animal or plant that we want, not at the level of gene pathways. You want to be able to draw the final goal here. I want a three-headed flatworm like this, and then with this kind of nervous system, this is what I want.
+This is kind of the end game for this whole field: what we really want is a kind of anatomical compiler. We want to sit down and draw the animal or plant that we want, not at the level of gene pathways. You want to be able to draw the final goal here. I want a three-headed flatworm like this, and then with this kind of nervous system, this is what I want.
 
 And if we knew what we were doing, this compiler would take that description and convert it to a set of stimuli that would have to be given to cells to get them to build exactly that. Now, we don't have anything remotely like this, despite all the incredible progress in genetics and biology. Why not? Here's one simple example. This is a baby axolotl. Axolotls are a kind of salamander. Baby axolotls have legs. This is a tadpole of a frog. Frogs don't have legs.
 
@@ -300,13 +300,13 @@ This is the big area where we need to understand lots more. These are the models
 
 For the last couple of minutes, I want to talk about this idea of novel organisms. I have to do another disclosure. We also have a spin-off company for biorobotics called Fauna Systems. This is all the work with Josh Bongard at University of Vermont, with whom we've started the Institute for Computationally Designed Organisms.
 
-We wanted to ask a simple question: We wanted to ask a simple question: how far does this plasticity go? I've shown you that normal embryos are able to adapt to changes in cell number, cell shape, amount of DNA. You can push them to make worms with heads that belong to other species and worm bodies that are not normal planaria at all. In particular, if you take cells away from their normal context, can they reboot their multicellularity? What will they do?
+We wanted to ask a simple question: how far does this plasticity go? I've shown you that normal embryos are able to adapt to changes in cell number, cell shape, amount of DNA. You can push them to make worms with heads that belong to other species and worm bodies that are not normal planaria at all. In particular, if you take cells away from their normal context, can they reboot their multicellularity? What will they do?
 
 Slide 34/58 · 51m:13s
 
 We did this experiment. This is a frog embryo in cross-section. If you take off this top part, all of these cells up here are going to be skin. They're all fated to be different kinds of epidermis.
 
-We asked this question: We asked this question: if I take these cells, I dissociate them. I put a little drop of them in a separate environment away from all of this stuff. The person who physically does this is Doug Blackiston in our group. He's a staff scientist who perfected a lot of these protocols. We're not adding synthetic biology constructs. We're not changing the DNA. We're not putting any weird nanomaterials. We're engineering by subtraction. We're taking away the instructive signals from all of this stuff.
+We asked this question: if I take these cells, I dissociate them. I put a little drop of them in a separate environment away from all of this stuff. The person who physically does this is Doug Blackiston in our group. He's a staff scientist who perfected a lot of these protocols. We're not adding synthetic biology constructs. We're not changing the DNA. We're not putting any weird nanomaterials. We're engineering by subtraction. We're taking away the instructive signals from all of this stuff.
 
 What would they do? They might die. They might spread out and crawl away from each other. They might form a two-dimensional monolayer like cell culture. We don't know, but those are some things they might do. Instead, what they do is: here these are loose cells. This is time-lapse. Overnight, they come together and merge into this little thing, this little round thing. The flashes are calcium flashes. We'll talk about that momentarily. What does it do? This is a little ball of skin. What does a little ball of skin do?
 
@@ -428,7 +428,7 @@ Slide 50/58 · 1h:06m:18s
 
 That's an amazing free lunch, as the physicists would say. And the same thing with computation. So once you evolve that ion channel, and that's basically a transistor. So now you get to have logic gates and truth tables. Did you have to evolve a truth table? No, you got that for free. Where do truth tables live?
 
-But I think you're absolutely right: But I think you're absolutely right: what evolution does is it builds machines that couple to these amazing affordances. So, in behavioural ecology, they would call these affordances, these incredible affordances provided by physics, by computation, by geometry, by mechanics. I think that's really an important way to look at evolution.
+But I think you're absolutely right: what evolution does is it builds machines that couple to these amazing affordances. So, in behavioural ecology, they would call these affordances, these incredible affordances provided by physics, by computation, by geometry, by mechanics. I think that's really an important way to look at evolution.
 
 Daniel, yes.
 

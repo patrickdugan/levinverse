@@ -1,9 +1,9 @@
 {
   "valid": true,
-  "catalog_jsonl_files_checked": 13,
+  "catalog_jsonl_files_checked": 18,
   "unique_video_ids": 388,
-  "stored_transcript_source_records_checked": 208,
-  "text_files_checked": 208,
-  "cuda_transcripts_checked": 4,
+  "stored_transcript_source_records_checked": 244,
+  "text_files_checked": 244,
+  "cuda_transcripts_checked": 29,
   "errors": []
 }

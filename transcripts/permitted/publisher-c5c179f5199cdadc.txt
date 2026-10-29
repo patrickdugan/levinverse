@@ -146,7 +146,7 @@ I guess a two-part question. First, do we know or have a rough idea of when gap 
 
 Two things. Gap junctions are pretty ancient, but even before that, it doesn't actually have to be a gap junction. I've pushed this idea into a roboticist working in a completely different medium. It doesn't have to be an actual gap junction. It has a few features that are important to reproduce, which gap junctions meet, but even bacterial — there's some kind of bacterial thing where they dock with each other that has the same property. It has to wipe ownership information on whatever molecules come through it, and it has to be able to be gated, being open and closed. Even as far back as bacteria, before true gap junctions evolved, those already existed. But gap junctions are themselves voltage sensitive, at least some are, which gives you an extra level of control, which is why it's so much better in metazoan organisms.
 
-As far as what this means for scaling: As far as what this means for scaling: yes, anything that meets some functional criteria would contribute to that scaling. It doesn't actually have to be a gap junction, but I think that's what evolution did. That's how evolution does it.
+As far as what this means for scaling: yes, anything that meets some functional criteria would contribute to that scaling. It doesn't actually have to be a gap junction, but I think that's what evolution did. That's how evolution does it.
 
 Okay, let's look at some specific examples. Now, one of the things I'm interested in is morphogenesis and why, if we're into cognition, we're talking about morphogenesis. What does that have to do with it?
 
@@ -308,7 +308,7 @@ Slide 38/50 · 57m:20s
 
 One simple example is fixing a really complicated birth defect.
 
-Here's a normal brain: Here's a normal brain: forebrain, midbrain, hindbrain. Here's an animal with a genetic mutation; it works the same way with alcohol poisoning, fetal alcohol syndrome, and so on. This brain: the forebrain is gone; the midbrain and hindbrain are a bubble.
+Here's a normal brain: forebrain, midbrain, hindbrain. Here's an animal with a genetic mutation; it works the same way with alcohol poisoning, fetal alcohol syndrome, and so on. This brain: the forebrain is gone; the midbrain and hindbrain are a bubble.
 
 If we make a computational model of this electric circuit and ask it what channels to open or close to recover the correct memory from this state, it actually suggests a drug that already exists. In fact, it's human-approved and targets a specific channel. These animals get their brains back despite the fact that the gene is still mutated, and they get their brain structure back and their IQs back; their learning rates are indistinguishable from controls.
 

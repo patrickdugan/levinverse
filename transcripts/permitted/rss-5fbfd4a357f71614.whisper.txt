@@ -1,0 +1,1487 @@
+[0.00 --> 3.40] There's bioelectrical events, there's biomechanical events, there's biochemical events.
+[3.70 --> 6.56] All those things are happening at the same time.
+[6.72 --> 14.56] But what's really important to ask is what is each layer doing and what does each layer give us the opportunity to do?
+[14.72 --> 17.92] I would argue that the genome is actually not the software.
+[18.12 --> 20.72] I think what the genome does is actually nail down the hardware.
+[21.00 --> 24.92] I think the genome tells every single cell what proteins it gets to have.
+[25.38 --> 30.68] And so from that perspective, what the genome is giving you is a specification of the lowest level hardware.
+[31.08 --> 34.04] You can do a lot by manipulating the hardware.
+[34.26 --> 41.12] But when you're on your laptop and you want to switch from Microsoft Word to Photoshop, you don't get out your soldering iron and start rewiring.
+[41.38 --> 48.32] Because making system level changes by manipulating things at the lowest level of your machine, of the hardware, is super hard.
+[48.44 --> 50.00] And that's not how evolution does it.
+[50.00 --> 67.86] One of the nice things that this bioelectrical level of control gives you is it actually gives you control over some of the really important physiological software that deals with large-scale concepts like the size of certain organs, the shape of certain organs, the positioning, how many heads do you have.
+[67.86 --> 71.96] And therefore, when you interact with that layer, you get to program top-down.
+[72.10 --> 82.26] It's almost as if you are working in a higher-level language that doesn't require you to understand, well, gee, you know, I'm programming on this thing of copper and silicon and aluminum and God knows what else is in there.
+[82.30 --> 86.20] You don't need to know all of that because you have access to these higher-level controls.
+[102.02 --> 105.18] Welcome to the first Demystifying Science Podcast of the new year.
+[105.34 --> 115.22] I'm very, very excited to be here with Dr. Michael Levin, whom has been brought to our attention by you guys, by some of our listeners who posted his TED Talk.
+[115.48 --> 127.60] It was really exciting to see that Dr. Levin had been building a framework for development that didn't rely on typical chemical signaling.
+[127.72 --> 137.80] So he has this bioelectric network conception of development, which is fascinating because it's both primitive and sophisticated at the same time.
+[138.14 --> 145.22] He was also in the news this year for these xenobots, and there's plenty of podcasts and other YouTube shows about that stuff.
+[145.76 --> 147.38] Maybe we'll talk about it a bit today, too.
+[147.54 --> 155.16] But what I really wanted to get into was Dr. Levin's philosophy of the self and cognition, which I think is really interesting.
+[155.54 --> 156.88] Thank you for being here, Dr. Levin.
+[156.88 --> 158.16] Thank you so much.
+[158.26 --> 159.04] Yeah, thank you for having me.
+[159.52 --> 173.12] Why do you avoid the word consciousness and stick with these other terms like agency and cognition, as opposed to the most popular word in philosophy right now, which is consciousness?
+[173.48 --> 179.42] Can you tell us a bit about the distinction between those two ideas, and then maybe we'll get into the nitty-gritty of your ideas?
+[180.44 --> 181.18] Sure, sure.
+[181.18 --> 181.26] Sure, sure.
+[181.36 --> 194.38] And if you don't mind, I just want to address one super quick thing from the introduction, which is that my work on bioelectricity is certainly not meant to be instead of understanding biochemical signaling.
+[194.38 --> 207.98] So I'm in no way suggesting that the traditional gene regulatory networks, chemical gradients, biochemical pathways, I'm in no way suggesting that those things aren't important or that somehow bioelectricity will do it all by itself.
+[207.98 --> 210.46] So those things are absolutely critical mechanisms.
+[211.38 --> 214.04] And hopefully we can talk about that later today.
+[214.24 --> 226.90] I think bioelectricity has some really interesting, unique properties that make it something that is very worthwhile to track in addition to the canonical mainstream stuff that has been going on for years.
+[226.90 --> 232.10] But so I just want to be clear that I'm not trying to downplay any of that.
+[232.34 --> 234.48] So it's like you see those happening in parallel.
+[234.66 --> 241.30] There's all these different systems throughout the organism that are contributing to memory and intelligence.
+[241.30 --> 243.90] It's like this is just another track that's happening.
+[243.90 --> 253.86] And of course, like, I guess the traditional paradigm where DNA is, you know, this what we would say, I guess, the software and the or the genetic information is the software.
+[254.08 --> 261.80] And then there's this kind of machine running the body is a bit different from the way you see things, which is more hierarchically dispersed, I suppose.
+[262.58 --> 264.74] I mean, so I would say it a little differently.
+[265.56 --> 267.48] Certainly all those things are happening simultaneously.
+[267.48 --> 271.94] So there's bioelectrical events, there's biomechanical events, there's biochemical events.
+[271.94 --> 275.10] All those things are happening at the same time.
+[275.24 --> 280.74] But what's what's really important to ask is what is each layer doing?
+[281.10 --> 285.42] And but what what does each layer give us the opportunity to do?
+[285.56 --> 290.76] So when you target the bioelectrics or when you target the biochemistry or the genetics, what does that allow you to do?
+[290.86 --> 297.18] And I think I would argue and I have argued that what the genome the genome is actually not the software.
+[297.30 --> 299.94] I think what the genome does is actually nail down the hardware.
+[299.94 --> 304.18] I think the genome tells every single cell what proteins it gets to have.
+[304.48 --> 310.12] And so from that perspective, what the genome is is giving you is a specification of the lowest level hardware.
+[310.38 --> 318.94] Now, now, as we know, from from from working with with computer technology, you can do a lot by manipulating the hardware.
+[318.94 --> 329.12] But, you know, why do we and this is kind of a silly example I use all the time when you when you're on your laptop and you want to switch from Microsoft Word to Photoshop, you don't get out your soldering iron and start rewiring.
+[329.34 --> 330.30] Now, why don't you do that?
+[330.38 --> 330.42] Right.
+[330.48 --> 331.22] You could.
+[331.26 --> 335.50] And in the 50s, when I give a talk, I have this picture of what programming looked like in the 40s and 50s.
+[335.50 --> 338.44] And there's this woman and she's literally like like moving wires around.
+[338.56 --> 338.60] Right.
+[338.62 --> 339.82] That's what reprogramming looked like.
+[339.92 --> 340.80] You could do that.
+[340.88 --> 341.86] But why don't we do that anymore?
+[342.02 --> 343.14] Because it's brutally difficult.
+[343.56 --> 351.78] Because because making making system level changes by manipulating things at the lowest level of your machine, of the hardware is super hard.
+[351.90 --> 352.22] Right.
+[352.28 --> 353.64] It's just it's just incredibly hard.
+[353.64 --> 356.44] And that's not how evolution does it either.
+[356.74 --> 382.60] And so what what one thing I am we can get into this, I think that what one of the nice things that this bioelectrical level of control gives you is it actually gives you control over some of the really important physiological software that deals with large scale concepts like the size of certain organs, the shape of certain organs, the positioning, how many heads do you have like that, that kind of a thing.
+[382.60 --> 387.50] And therefore, when you interact with that layer, you get to program top down.
+[387.68 --> 400.32] It's almost as if and it's almost as if you were working in a higher level language that doesn't require you to understand, well, gee, you know, I'm programming on this thing of copper and silicon and aluminum and God knows what else is in there.
+[400.40 --> 404.26] You don't need to know all of that because you have access to these higher level controls.
+[404.40 --> 410.38] Now, I'm certainly not saying that biology resembles the kind of computers that you and I use today.
+[410.54 --> 410.60] Right.
+[410.70 --> 412.48] That's that's that's you know, that's for sure.
+[412.60 --> 417.18] That gets that gets people very agitated when they when they think that that's being claimed.
+[417.28 --> 418.32] And so I'm certainly not saying that.
+[418.42 --> 434.72] But but there is something very profound about computers in general, which is this idea of reprogrammability and the idea of separation of data from machine and the idea of having different levels of control where where, yes, sometimes you want to go to the very lowest level and deal with the with the you know, what are the chips made of?
+[434.72 --> 441.58] And other times you don't want to know that whatsoever, you want to say, well, this is my algorithm and I wanted to compute this and that and I don't care what's underneath.
+[441.58 --> 443.72] Right. And so and so and so that gives you a lot of power.
+[443.88 --> 451.58] So so I think what what evolution discovered very early on, like around the time of bacterial biofilm.
+[451.58 --> 459.64] So really early on is that and there's some there's some beautiful work out of UCSD on that.
+[459.64 --> 466.34] But I think what evolution discovered is that bioelectric networks are are really good at processing information.
+[466.60 --> 482.26] They make it really easy to do computations, to do memory, to integrate information from from across a distance, to have reprogrammability, to have this kind of nested architecture where you have subroutines where you can say, build an eye here.
+[482.26 --> 486.48] And you don't need to know how to build an eye. You just need to be able to specify that that's where the eye goes.
+[486.62 --> 491.06] And there are other modules underneath that, you know, do the do the do the nitty gritty work.
+[491.20 --> 492.96] Are those genetic modules at that point?
+[494.08 --> 496.32] Yeah, they involve they involve lots of things.
+[496.32 --> 504.18] They involve genetics. They involve biomechanics because you have to bend, you know, tissues and you have to exert forces and of course other bioelectrics as well.
+[504.34 --> 510.04] Right. But but that's what I think is really kind of unique and interesting about bioelectricity.
+[510.04 --> 513.16] And we could have already guessed that because that's what the brain does.
+[513.48 --> 523.40] Right. Why? You know, the brain uses that same kind of kind of architecture to exploit to exploit bioelectrics to get all these cool features.
+[523.54 --> 526.62] Like, for example, you can learn things during your lifetime.
+[526.80 --> 530.94] You don't need to completely replace your brain every time you want to learn something new.
+[531.04 --> 538.64] That same hardware can can store one of numerous possible, you know, control algorithms for what what's going to happen.
+[538.64 --> 548.92] And if I can interrupt you, this is sort of the place where the distinction between cognition and consciousness and the way that you prefer to use cognition becomes relative.
+[549.10 --> 562.10] Right. Because if you're talking about the human that's going out and learning something, there is all of this sort of self generative material that is necessary to create the motivation to go out and to learn something.
+[562.10 --> 569.60] But for a cell, is it considered cognition by you simply because the instruction has to come from somewhere else to tell it what to do?
+[570.84 --> 574.44] No. So so let's so so let me let me address that that question.
+[574.58 --> 576.92] Then what's what the what the deal with consciousness is?
+[576.92 --> 582.46] So so so my distinction of consciousness versus cognition is not about the level of it.
+[582.50 --> 592.52] So I'm not avoiding consciousness because I want to reserve consciousness for like a really high order, self-reflective, you know, metacognition where I know what I know.
+[592.64 --> 594.64] And I, you know, I'm not talking about any of that stuff.
+[594.76 --> 602.78] I'm I actually, you know, long story short, I actually think that consciousness is something that goes all the way down.
+[602.78 --> 608.66] I mean, I'm in no way trying to reserve that for the kind of human like conscious experience that we have.
+[608.78 --> 611.18] I think I think consciousness goes goes way all the way down.
+[611.42 --> 613.92] The distinction the distinction I make is somewhat different.
+[614.02 --> 623.50] The thing about the thing about cognition, agency, behavior, intelligence, memory, problem solving, all these nice terms that I use all the time in the work.
+[623.68 --> 628.04] The thing about those words is that they are they're functional words.
+[628.20 --> 630.66] In other words, we can study them in third person.
+[630.66 --> 647.88] You and I can look at something, we can define this as a function of what it's doing, we can assign criteria that we that are easy to measure, all of these things are measurable, we can agree on whether that did or didn't happen, or it happened to with a 75% quality or whatever it's going to be.
+[647.88 --> 657.96] And we have theories that are where the outcome of those theories are, let's say, their numbers predictions of those theories are numbers, I can say I think that's memory.
+[658.12 --> 665.46] And because I think that under those same circumstances, we've got an 80% chance that past experience is going to make this thing do XYZ in the future, right?
+[665.46 --> 674.18] These are, these are all third person kind of objective science experiments that we can do consciousness, and this is a controversial view, not everybody agrees with this.
+[674.18 --> 685.08] Because I think that consciousness is unique and special in the sense that it's really only applicable to the experience of a first person observer.
+[685.78 --> 695.40] It's, and this has been one way that people who have done way more work on consciousness than I have put it is, what's it, it's the sort of what is it like to be a, you know, whatever.
+[695.92 --> 699.58] And, and the thing I want to, I want to say about, there's a couple of things I want to say about consciousness.
+[699.84 --> 709.78] One is, you have to be very careful, because I think a lot of people who say they're studying consciousness, are in fact studying correlates of consciousness, they're studying behaviors, they're studying structures.
+[709.78 --> 732.54] And the way you know that is, if there's a couple of, there's a couple of ways you know that one is, if somebody gives you a theory of consciousness, right, let's say, let's say it has to do with a particular structure in the brain or a particular organization, or some sort of frequency of, of, of binding of, you know, neural activity, or whatever it's going to be, just ask yourself this question.
+[732.54 --> 750.74] If, if somebody gave this to this, this story to me on a piece of paper, and said, this happens, this happens, if they didn't tell me that this was meant to be a story about consciousness, and I read about all these events going on, what I ever in a million years have said, oh, that is amazing, I can, from that, I can see that, that, wow, there must be a subject home inside there.
+[750.88 --> 756.88] And, you know, and it's that, that, you know, that subject will have an experience of what it's like to be, that never happens, right?
+[756.88 --> 785.68] Any story about consciousness, and, and I'm, you know, probably lots of people will be mad at this, but, but, but in my experience, when somebody gives you an account of, of where consciousness comes from, you can almost always read that account, and you can, you can imagine that you can, there's, there's nothing conscious about it, it's a description of some physics, or some chemistry, or both, or whatever, it's, it's never quite obvious why that in particular has anything to do with consciousness, other than they told you that this was supposed to be a story about consciousness.
+[786.36 --> 798.98] So, now, now, some people will say, right, and that's because there's nothing more to say, and there is, all there is, right, are the facts of chemistry, and then the rest of it is a user illusion, and so on, so that, I mean, that's fine, that's a, that's a.
+[799.10 --> 802.38] Which makes it a spiritual question rather than a scientific one.
+[803.04 --> 813.62] I think, I think that's true, I think that you can, you very quickly run out of proper terminology, because people, people will, well, people will often say it's an illusion, right?
+[813.62 --> 821.04] And you say, but illusions usually have a subject that's, that's, that's mistaken about something, right, that's being, you know, confused, or whatever.
+[821.26 --> 824.70] So, anyway, so, so that's, so that's one.
+[824.82 --> 832.08] So, so I think that, I think that it's very, very difficult to actually do experiment, any kind of work about consciousness.
+[833.14 --> 846.68] I think that if we want to stick to making progress in terms of experiments that we can do, so this is why I usually talk very little about it, because I think that the, what, that what we actually make progress on are things like cognition and intelligence and behavior.
+[846.68 --> 848.98] I think it's very hard to make progress on actual consciousness.
+[849.30 --> 853.42] The other, the other way you, you know this, that there's a problem here is, is this.
+[854.68 --> 861.04] Imagine, imagine that some time in the future, some, some number of decades from now, we have a correct theory of consciousness.
+[861.14 --> 862.64] Let's say somebody cracks it and we figure it out.
+[862.76 --> 862.90] Okay.
+[862.90 --> 865.36] So, now, let's just ask ourselves.
+[865.56 --> 877.54] So, now, so we have this correct theory, and I am looking at some particular creature in some particular weird state, and I ask this theory to make a, to tell me what the prediction is, right?
+[877.62 --> 882.34] So, so what is it, what is the, the content of the consciousness of this creature?
+[882.56 --> 887.02] And so, the question is, what format does the answer of that theory take?
+[887.14 --> 887.70] What does it look like?
+[887.88 --> 889.56] Virtual, virtual reality or something?
+[889.72 --> 891.70] Like, how would you output that data?
+[891.70 --> 894.24] You see, that's, that's the, that's the question, right?
+[894.32 --> 895.20] How would you output it?
+[895.28 --> 901.04] Because for, for any normal scientific theory, we, we, you may not know the answer, but you know what the answer would look like, right?
+[901.06 --> 908.82] It would be a set of numbers, or it would be a top, a lot, you know, some sort of weird topological form or some, you know, we, we, we kind of know what, what theory is it supposed to look like?
+[909.00 --> 911.90] What would it, what would a theory of consciousness ever output?
+[912.26 --> 921.28] And so, and so I think you're right on the money by saying virtual reality, because I think the only way to actually do real experiments on consciousness
+[921.28 --> 925.48] is to be the system itself, to experience it first person.
+[925.60 --> 927.50] Now, how are you going to experience it first person?
+[928.02 --> 932.68] You know, for, for things that aren't too different, yes, I think virtual reality would, would do.
+[933.46 --> 939.86] But, but the other, the other thing that you might do is look, let's, let's, let's talk about a, kind of a standard experiment.
+[940.00 --> 945.48] So, so I'm, you're a neuroscientist and you're looking at this, you know, whatever living thing it's going to be.
+[945.58 --> 948.04] You've got some electrodes or some, some optogenetics or something.
+[948.20 --> 949.38] You're, you're watching the brain.
+[950.20 --> 954.52] That's all of that stuff is getting processed via some sort of computer algorithm.
+[954.74 --> 956.56] It's coming out on a screen.
+[956.56 --> 964.24] And then you're watching that screen with your eyeballs and saying, ah, that's a conscious experience of, of, you know, of a fear or whatever it is, right?
+[964.32 --> 965.22] That's, that's what we're looking at.
+[965.62 --> 971.04] Now, what you're, what you're seeing, of course, is some sort of third person description of what the neurons are doing.
+[971.18 --> 974.14] You actually have no idea what the actual experience is.
+[974.22 --> 975.74] You might be able to say something about behavior.
+[975.74 --> 980.54] You might be able to say, oh yeah, I predict this thing's going to, you know, run away from whatever I do, you know, whatever we just did.
+[981.56 --> 982.92] But let's, but let's go further.
+[983.04 --> 990.66] Let's say, why do we have all this weird technical interface between that creature and my, and my, you know, and my brain?
+[990.80 --> 991.60] Let's get rid of all that.
+[991.68 --> 995.94] I'm going to wire, what I'm going to do is I'm going to, I'm going to take the output of my electrodes.
+[996.14 --> 997.90] I'm going to wire them directly into my brain.
+[998.04 --> 1003.02] I'm not going to go through a computer screen and a, and a, you know, and my eyeballs and, you know, my retina and everything else.
+[1003.14 --> 1004.54] I'm just going to wire it into my brain.
+[1005.00 --> 1012.50] And so now, now you're kind of, you're on your way because now to some extent you're actually experiencing as if it were a sense, right?
+[1012.58 --> 1017.26] So instead of retinas, imagine if instead of retinas, we now had an interface that read other people's brains.
+[1018.22 --> 1019.60] You're on your way a little bit, right?
+[1019.68 --> 1024.02] Because now you're directly experiencing some of what they're experiencing, not exactly right.
+[1024.26 --> 1026.98] And then eventually you say, wait a minute, I don't, I don't want this.
+[1027.10 --> 1028.06] I don't want these electrodes at all.
+[1028.18 --> 1030.42] I'm just going to fuse my brain to their brain.
+[1030.42 --> 1032.86] The way that your left and right hemispheres are fused together.
+[1033.10 --> 1036.32] Like you're going to do such a good job and this is all doable.
+[1036.60 --> 1040.76] You're going to do such a good job fusing that you want the direct experience.
+[1040.92 --> 1050.00] Now, the only, the only thing to keep in mind is you are not going to be, you are not going to become that creature and know what it's like to be that creature.
+[1050.00 --> 1055.28] Both you and that creature are going to know what it's like to now be a third creature that didn't exist before.
+[1055.36 --> 1057.44] That is a combination of the two of you, right?
+[1057.64 --> 1059.50] This is like Siamese twin studies or something.
+[1060.56 --> 1061.56] Very close, actually.
+[1061.68 --> 1062.06] Very close.
+[1062.18 --> 1063.22] This is all extremely relevant.
+[1063.36 --> 1066.16] But, but now, you know, the key thing is that we can do all this now, right?
+[1066.18 --> 1069.30] We can do all these, all these kinds of cut and paste experiments are totally doable.
+[1070.96 --> 1073.40] Are they limited by the similarity of the brains?
+[1073.60 --> 1084.20] Because I imagine that if you take something, you know, you talk about like a flatworm, would you be able to fuse the brain of a flatworm with the brain of a human?
+[1084.82 --> 1088.32] Because it seems like the structures are like sufficiently parallel.
+[1088.56 --> 1091.28] Well, the structures, well, the structures are completely different, but that doesn't matter.
+[1091.46 --> 1096.46] But you see, so you can never know what it's like to be a flatworm because you're not a flatworm.
+[1096.56 --> 1098.38] Only a flatworm will know what it's like to be a flatworm.
+[1098.38 --> 1102.14] But you can know what it's like to be a creature that's half you and half flatworm.
+[1102.42 --> 1103.20] And so, right?
+[1103.58 --> 1105.58] And so, so people actually, there's been...
+[1105.58 --> 1107.32] Is that a problem of motivations?
+[1107.42 --> 1110.08] Like we're not going to understand the motivations of the flatworm?
+[1110.28 --> 1111.02] Is that it?
+[1111.10 --> 1114.46] Like we're always going to be seeing things through human motivational structures?
+[1114.90 --> 1117.18] I'm not even sure that it's necessarily human.
+[1117.32 --> 1121.70] I mean, we can get into that whole question of what exactly is a human because it's not very obvious at all.
+[1121.86 --> 1127.18] But, but, you know, so, so there's been work, for example, somebody put drosophila neurons into the brains of human patients.
+[1127.34 --> 1127.92] Like that's been done.
+[1128.38 --> 1129.94] And the drosophila neurons do fine.
+[1130.06 --> 1131.60] They interface with the other neurons there.
+[1131.76 --> 1132.52] You know, it was an epilepsy.
+[1132.80 --> 1134.40] It was a treatment for epilepsy that was done in Russia.
+[1135.68 --> 1140.84] And, you know, yeah, you're never going to turn yourself into a flatworm.
+[1141.48 --> 1143.94] But you can certainly modify your structure.
+[1144.22 --> 1149.96] I mean, at some point, with all the bioengineering that goes on, at some point, you're going to say, you know, I would like a third hemisphere.
+[1149.96 --> 1155.72] And we know that can work because, because in the blind, your, your other senses take over that new real estate, right?
+[1155.82 --> 1157.90] That's, that's released when your eyes aren't working.
+[1158.02 --> 1160.78] So we know that your brain regions can take over new real estate.
+[1160.92 --> 1161.40] We already know that.
+[1161.40 --> 1169.22] So, so, so at some point you might say, I want a third hemisphere because I want more, more real, you know, more processing power for some of the things my brain does.
+[1169.60 --> 1171.20] And don't make it out of human cells.
+[1171.30 --> 1173.18] I would really like it to be very regenerative.
+[1173.30 --> 1174.32] So how about some axolotl?
+[1174.32 --> 1186.40] So, and, and, you know, and there will be some, you know, the details of immune rejection, whatever, those are just details, you know, the fundamental, the fundamental, like the, you know, the, the fundamental aspects of it are totally solvable.
+[1186.60 --> 1189.96] So, so then you can do experiments on consciousness.
+[1190.14 --> 1198.98] Then you can say, wow, now I see what it's like to be a creature that's got two human hemispheres and a third axolotl hemisphere, whatever I'm making that up, whatever you're, whatever you're going to be.
+[1199.74 --> 1201.14] Then you can study consciousness.
+[1201.14 --> 1206.94] But, but as long as you are observing it from the outside, I don't think you're studying consciousness.
+[1207.10 --> 1212.06] I think you're studying correlates of consciousness or things that may or may not potentiate consciousness.
+[1212.32 --> 1212.96] So, so this is why.
+[1213.26 --> 1215.68] And like, what's really the goal of a theory of consciousness anyways?
+[1216.08 --> 1221.36] Is it, are you going to try to explain the, like the emergence of this experience?
+[1221.50 --> 1222.58] Is that the goal?
+[1224.58 --> 1226.40] That's a good, that's a really good question.
+[1226.40 --> 1236.72] I think that, I think that some people who work in this field, to them, there's a much more basic question, which is the question of what is, what, what is it in the first place?
+[1236.82 --> 1240.02] Like, what is a, what is a useful definition of consciousness, right?
+[1240.24 --> 1251.32] But if what you're saying is correct, that the, these cognitive agentic processes go all the way down to the cellular level, then it's, it's almost like when I was reading some of your work,
+[1251.32 --> 1271.24] I got the impression that what you were saying, I'm probably totally wrong, correct me, is that consciousness or cognition, let's say an agency, these things aren't something that emerges at this like meta level, you know, at the wider organismal level, but that they're actually goal seeking behaviors all the way down.
+[1271.24 --> 1288.34] And so, it almost sounds to me like you're saying that that theory of consciousness or metacognition or whatever you want to say, isn't, it's sort of an elusive quest because there's probably something going on at every level.
+[1288.34 --> 1291.20] And it's not just this thing that snaps into place all of a sudden.
+[1291.20 --> 1294.22] Um, yeah, but well, all of, all of that is true.
+[1294.42 --> 1302.94] So, so, so, so, so I do think that, uh, there are, uh, a cognitive experiences of all of your parts.
+[1302.98 --> 1313.14] So your, your tissues, your organs, your cells, uh, and, and probably the molecular networks in your cells, um, are goal seeking agents of a particular type and they will have some kind of cognition.
+[1313.14 --> 1320.86] They will have some degree of intelligence, meaning problem solving in various weird spaces, like, like physiological spaces and transcriptional spaces and so on.
+[1321.20 --> 1329.98] Uh, that doesn't mean that, um, when you and I are talking now, there isn't a new emergent, very high level, uh, additional agent that forms, right.
+[1330.12 --> 1330.88] Which, which is great.
+[1330.88 --> 1339.04] And it's verbal and we can have this conversation, but at the same time, there are lots of other agents on both sides of this connection that are not verbal, that we are not talking to.
+[1339.34 --> 1344.50] And that we're only beginning to understand, um, how to, you know, how to, how to communicate with them.
+[1345.06 --> 1346.70] Um, yeah.
+[1346.70 --> 1365.14] I mean, you say, you, you say something interesting there about the sort of the problem solving ability on a cellular level, where can you, so in the process of regenerating, let's say a limb, is there really a problem to be solved or is there a program to be executed?
+[1366.48 --> 1371.66] Um, I don't think those are, uh, those are not mutually exclusive.
+[1371.66 --> 1374.88] I think executing programs is one way to solve problems.
+[1375.46 --> 1387.04] I think, uh, whether or not it's actually, you know, whether or not the, the metaphor of a pro of a program is actually useful to that scenario remains to be seen.
+[1387.04 --> 1392.48] But for sure, it's, it's useful, uh, for sure the problem solving paradigm is, is absolutely useful.
+[1392.84 --> 1398.90] So, um, William James's definition of intelligence was the ability to get to the same goals by different means.
+[1399.28 --> 1407.62] The idea was that you're looking at an agential system when you can figure out what it wants and it has the ability to some degree of competency, right?
+[1407.62 --> 1420.36] From, from very primitive kind of intelligences to very advanced intelligences, some, some capability of getting to its goal, even though things are changing perturbations, the environment changes, you've moved the thing, you know, you've moved stuff around and it still can do that.
+[1420.82 --> 1425.20] That is seeing all the way from, from bacteria on up in various spaces.
+[1425.20 --> 1426.74] You just have to be clever.
+[1426.74 --> 1431.62] The thing about, the thing about recognizing agency and intelligence is that it's a two-way operation.
+[1431.62 --> 1443.66] When, when, when we try to estimate how much intelligence something has or how much agency it has, we are ourselves taking an IQ test because if we're not clever enough to recognize what the system is doing, we're going to say, oh man, that's a paperweight.
+[1443.74 --> 1444.76] That's not really doing anything.
+[1444.96 --> 1447.52] And really it might be doing all kinds of interesting things.
+[1447.52 --> 1459.24] And this is probably why people think bacteria are very simple little organisms and humans are super complex because they're not capable of recognizing, you know, just how complicated and difficult it is being a bacteria.
+[1459.74 --> 1460.78] My favorite soapbox.
+[1461.28 --> 1461.80] Yeah.
+[1461.98 --> 1468.34] And the reason, you know, the reason is, is because our, all of our senses are pointing outwards.
+[1468.34 --> 1479.30] So our training set of what, you know, all animals in particular, you know, humans and others, you know, primates and social animals are very good at recognizing agency around them.
+[1479.50 --> 1482.80] It's extremely important when you look around to say, is that a rock?
+[1482.94 --> 1493.68] And therefore I know it's only going to do certain things based on its environment, or is that, you know, a sleeping tiger and it's going to do all kinds of things that have nothing to do with which way the hill is pointing down or not.
+[1493.78 --> 1497.50] You know, it's very important for us to, to catch agency in the, in the environment.
+[1497.50 --> 1500.02] But all of our senses are pointing outward.
+[1500.26 --> 1513.80] So we are very good at seeing intelligence that operates at medium size scales, roughly things about our size, medium time scales, not evolutionary timeframes, nor mic, you know, microm, you know, mic millisecond time.
+[1513.94 --> 1520.90] So, and everything that to us, all the, all the intelligence that we know how to recognize takes place in three-dimensional space.
+[1520.90 --> 1528.76] So we know we can see, you know, certain kinds of activities, moving things from here to there, opening locks and bringing this to the, over there.
+[1528.84 --> 1534.28] And those kinds of things are, we're, we're, we're primed to recognize intelligence in three-dimensional space.
+[1534.28 --> 1536.74] That's because all of our senses are pointing outwards.
+[1536.90 --> 1548.64] If we had, imagine if, imagine if we had built in biofeedback so that you had an immediate sense of everything your, your pancreas was doing at any given moment.
+[1548.64 --> 1559.44] Right now we, now we don't, but imagine if you did, if, if we had an experience all the way from, from our, you know, from our early, early time we, that we were in an embryo.
+[1559.44 --> 1575.16] If we had the experience of knowing what was going on and what did our pancreas do in response, we would have no trouble recognizing the pancreas as a kind of really intelligent creature that navigates this amazingly complicated physiological space, right?
+[1575.28 --> 1583.66] Because, you know, the glucose is going up and down, all these hormones and all this stuff is going on in the environment, things you eat and all the time, what's the, what, what are your organs doing?
+[1583.66 --> 1590.30] They're trying to keep you in optimal health, despite all this craziness that you subject them to, um, with, with rhythms and diet and everything else.
+[1591.10 --> 1606.32] And we would, if we had access to that data set, we would recognize these things as, and nowadays, when we think of robotics, when I say robot, you think it's this thing that moves around and it, you know, moves around in 3d space, things like, um, an automated insulin pump that you might have in your body.
+[1606.42 --> 1606.50] Right.
+[1606.56 --> 1610.66] If you, if you needed one, that's a robot, that's a robot that works in physiological space.
+[1610.80 --> 1613.00] It moves around in this physiological space.
+[1613.00 --> 1619.32] It might measure all sorts of different, um, uh, chemicals in your bloodstream that are all these orthogonal dimensions of the space.
+[1619.58 --> 1623.98] And it is navigating that space, just like any robot would navigate three-dimensional space.
+[1624.12 --> 1631.12] And it's just on us to, to, um, be, be, be more open-minded than our, than our typical senses have led us to be.
+[1631.28 --> 1641.32] The corollary of that is that you could easily learn to look inward the same way that you have to learn to be able to identify intelligence that's non-standard.
+[1641.32 --> 1649.60] Because I've known diabetics that after years of carrying an insulin pump, they're able to tell you what's happening to their insulin without the pump.
+[1649.88 --> 1653.34] And so what happens is that you have this feedback of what's actually happening.
+[1653.48 --> 1666.44] You have something like you were saying earlier about the ability, if you measure something and you can tie it to something else, then you begin to have kind of a functional system, which allows you to see something that wasn't visible before.
+[1666.44 --> 1675.24] And I wonder if it's not the same for other bodily systems and our inability to see it is due to sort of, to, to a lack of data.
+[1675.72 --> 1678.86] Yeah. Yeah. I think that's, I think that's spot on. I think that's exactly right.
+[1679.00 --> 1688.00] And, and let's be clear. There are lots of pre-scientific traditions. People, people have spent before modern science, people have spent a lot of time figuring this out.
+[1688.16 --> 1700.28] So there are a whole, you know, if you want to think about yoga and these, and things like this, there are a lot of people who do all kinds of, uh, exercises to a, uh, gain control over various body functions that you normally don't have any access to.
+[1701.50 --> 1712.58] And, um, uh, these kinds of, uh, these kinds of ideas that, uh, that talk about, uh, you know, the various kinds of intelligence of, of the things that, you know, the different subsystems of your body.
+[1712.68 --> 1715.96] I mean, this has, this has existed for, for a really long time.
+[1715.96 --> 1723.60] I think, you know, we're not, uh, you know, we're discovering it now in a rigorous sort of mathematical way and so on, but these ideas have been around forever.
+[1724.02 --> 1732.60] And, uh, and, and the idea that, I mean, I mean, Pavlov in the, I mean, you know, of course, even older than that, but Pavlov in the twenties was, was, um, trying to train organs.
+[1732.80 --> 1735.90] You know, he didn't just train dogs. He actually trained the organs of the dogs, right?
+[1736.04 --> 1739.54] He was doing all kinds of interesting experiments with memory of bodily organs.
+[1739.92 --> 1743.10] This was, yeah, you know, this is not just something that's coming up now.
+[1743.10 --> 1770.64] And by the way, to, to put this back to the discussion about consciousness, that's probably even older than this of people saying that the only way to understand your consciousness is to work on your consciousness and to experience it, whether or not it's going to be through, um, uh, thought modification practices, which might be meditation, or they might be, you know, there's a whole bunch of techniques or whether it's, it's psychedelic drugs, whether it's, uh, different ways to change, you know, how, how are you, how you, how you go through life, whatever.
+[1770.64 --> 1778.72] But this idea that, that you have to be a participant in the study of consciousness, you can't be an external observer is, is ancient, super ancient.
+[1779.04 --> 1797.28] It's funny that you say that because I've always sort of looked at the world now and I've thought that we are entering into an era where the ability to understand and communicate will be the most important ability because we have developed all of these technological tools up until this point.
+[1797.28 --> 1810.88] And it seems sort of, and it seems sort of, to be a little bit dramatic about it, that the final frontier is the ability to communicate and in order to be able to communicate, to, to cause the sorts of changes that you want in the world without having to micromanage them.
+[1810.98 --> 1812.94] And I imagine that being on a-
+[1812.94 --> 1814.28] Or within your own body too.
+[1814.64 --> 1815.32] Within-
+[1815.32 --> 1819.48] Like I was thinking about these, these, these, these, uh, what do you call them?
+[1819.60 --> 1820.28] Robot organs?
+[1820.82 --> 1825.64] Uh, don't they need to be able to integrate into that sense of self as well?
+[1825.78 --> 1829.46] Like they need to communicate in such a way that they understand that this is their self now.
+[1830.24 --> 1832.24] Is, I mean, what-
+[1832.24 --> 1832.40] Yeah.
+[1833.12 --> 1833.50] Yeah.
+[1833.58 --> 1836.38] I mean, it's an interesting, it's an interesting, uh, question.
+[1837.56 --> 1847.82] Uh, we, we like to, we like to draw boundaries around the organism so that you say, okay, you know, here's a human and right at the, at the, at the, sort of at the edge of their skin is where the body stops.
+[1847.98 --> 1858.04] But if you think about the internal organs, what's their external environment, as far as your kidneys concern, the, the, the cells sitting next to it, that's, it's external environment, right?
+[1858.04 --> 1869.98] So, so yes, it's part of a greater, it's part of a greater organism as, as we are parts of an even greater system, but, but at every point there are smaller selves within, within these larger selves.
+[1870.12 --> 1876.52] And they have an external environment, which from the perspective of the higher level system, you look down and you say, ah, you're still all part of me.
+[1876.58 --> 1886.42] You're still part of the same thing, but, and, and that's, and that's great for you, but, but, but for, for them, uh, they are dealing with an external environment, whatever comes through the bloodstream.
+[1886.42 --> 1888.46] They don't have immediate control over that.
+[1888.56 --> 1897.02] That's their extra, they can take actions and maybe, you know, in the next 20 minutes, things will get better or maybe they won't, but, but these are things that are happening to them from the outside, as far as they're concerned.
+[1897.30 --> 1900.86] But you also run in this problem then with like externalities, right?
+[1901.02 --> 1910.80] Where you're, if they don't treat their external environments as something that's theirs, then perhaps you, you could build up, damn it, you get aging.
+[1910.80 --> 1911.18] Yeah.
+[1911.34 --> 1912.32] You get problems, right?
+[1913.06 --> 1918.82] Uh, to the extent that we understand how aging even occurs in cancer and things like corrosive disorders, yeah.
+[1918.94 --> 1919.18] Damage.
+[1919.64 --> 1921.08] Sure, sure, sure.
+[1921.24 --> 1931.38] And, and we have, we have, we have some, some work on this and specifically in cancer where what you can do is you can, you can specifically disconnect cells from their neighbors electrically.
+[1931.38 --> 1950.00] And as soon as you do that, the, the, the, the, the, as I, as I've called it, this, this, this, this cognitive light cone, the boundary of the goals that these, that these systems can, um, can take care of are, is shrinks from, from, from, from the large goal of, Hey, I'm maintaining a nice organ to a tiny goal of, I'm, I'm a single cell.
+[1950.18 --> 1952.16] The rest of this body is just external environment.
+[1952.34 --> 1953.84] As far as I'm concerned, I'm an amoeba again.
+[1954.00 --> 1954.86] And what are my goals?
+[1954.96 --> 1958.60] My goals are to become two amoebas and, uh, and to go where life is good.
+[1958.60 --> 1959.50] So that's metastasis.
+[1959.78 --> 1969.84] And so, and, and, and maybe at some point I'll try to regain some sort of the half-assed multicellularity and I'll try to make a tumor, but you know, not really, not really useful as far as the larger system is concerned.
+[1970.20 --> 1972.32] Um, but, and, and you can go in the opposite direction.
+[1972.32 --> 1981.74] You can take a cell expressing a really nasty, um, oncogene, which is trying to depolarize and, and, and disconnect, and you can artificially force it to remain connected.
+[1981.88 --> 1986.80] And then guess what, even though the genetic damage is there, it will be part of a normal tissue.
+[1987.12 --> 1987.42] Right.
+[1987.42 --> 1996.02] And so, and so this idea of, of the, the, the boundary between self and world, um, shrinking and growing happens all the time in our bodies.
+[1996.16 --> 1998.76] It, it grows during embryonic development and shrinks during cancer.
+[1999.30 --> 2000.84] And outside of our bodies too.
+[2000.92 --> 2005.16] I mean, this is just, I can't like help, but see the social implications of this as well.
+[2005.16 --> 2026.12] We're like, especially in our country right now, you have this like stark division between the ideas of individualist, stark individualism, you know, especially where we live, like in the state of Jefferson out here, you know, it's like, there's this, there's this real like tension between the idea of how much is, does me matter versus my community versus my country and so on and so forth.
+[2026.12 --> 2034.06] It seems like, um, it seems like a huge part of bioengineering in the future and social engineering, the right word, um, you know.
+[2034.06 --> 2035.16] It's like a simplifying version of the right word.
+[2035.50 --> 2042.22] Governing, governing a society is going to come down to, uh, patterning the developments of that balance.
+[2042.56 --> 2042.84] Yeah.
+[2042.84 --> 2047.18] Like how much does this translate from the organismal level to the social level?
+[2047.34 --> 2049.58] Is that something that's beyond the scope here?
+[2050.74 --> 2052.60] I mean, I don't think it's beyond the scope.
+[2052.72 --> 2059.62] I want to be careful and be clear that I don't have any particular expertise, uh, in, in talking about these social things.
+[2059.68 --> 2060.44] This is the speculation.
+[2060.62 --> 2061.38] You are a human though.
+[2061.40 --> 2062.80] So you're entitled to a human perspective.
+[2063.16 --> 2063.30] Yeah.
+[2063.40 --> 2063.50] Yeah.
+[2063.52 --> 2064.06] We can do that.
+[2064.18 --> 2072.58] And, and I actually, um, you know, and, and I've actually lived, uh, you know, the first part of my life, my, my childhood in a, in a society that was, I was born in Russia.
+[2072.58 --> 2076.04] And, and, you know, during the height of, uh, you know, the USSR and so on.
+[2076.16 --> 2077.26] So it was Anastasia actually.
+[2077.50 --> 2078.40] Well, not during the height.
+[2078.54 --> 2079.98] I was born in the collapse.
+[2080.26 --> 2081.04] I invented the collapse.
+[2081.20 --> 2081.36] Yes.
+[2081.70 --> 2082.24] I see.
+[2082.46 --> 2082.78] Yeah.
+[2082.88 --> 2082.96] Yeah.
+[2083.08 --> 2085.30] Well, well, I was there, I was there long before that.
+[2085.42 --> 2087.58] And so, and so we can, we can talk about that a little bit.
+[2087.66 --> 2101.46] I think, I think what's really important to keep in mind is that it's not, I mean, the, the, the cancer example is a little misleading because there, what you take away from that is, oh man, uh, everything should just be connected.
+[2101.46 --> 2105.48] And, and following these large scale goals and then light, and then we're good, right?
+[2105.52 --> 2106.16] We don't have cancer.
+[2106.28 --> 2107.00] We have a nice organism.
+[2107.20 --> 2113.66] So that, that try, that sort of suggests that you should just, you know, connect everything up and, and follow these higher goals and so on.
+[2114.06 --> 2120.70] You got to be careful with that because, because when was the last time you lost any sleep over how many cells you shed every day?
+[2120.96 --> 2121.08] Right.
+[2121.60 --> 2122.00] Never.
+[2122.00 --> 2132.60] And so the nice, the, the important thing about these large systems is that they develop new goals that often don't really overlap at much at all with the goals of the subsystems.
+[2132.60 --> 2145.86] So when you, when you connect all of these things into this larger, glorious whole, you got to remember to, to, to, to ask yourself, well, what happened to the, to the individuals and are they better off or worse off?
+[2145.92 --> 2149.28] And then, you know, again, people think about evolution and so on.
+[2149.36 --> 2150.70] They say, of course you're better off.
+[2150.78 --> 2157.48] I mean, look at, you know, look at the, the, the, the, the, the large animal is able to, you know, have be very successful as opposed to individual bacteria.
+[2158.24 --> 2158.56] Sure.
+[2158.82 --> 2163.08] The large animal is, but how about the individual cells of that large animal?
+[2163.20 --> 2165.58] Are they any better off than they would have been if they were bacteria?
+[2165.88 --> 2166.60] I'm not sure.
+[2166.74 --> 2166.82] Right.
+[2166.82 --> 2167.86] It's not obvious at all.
+[2168.04 --> 2178.10] And so, so these higher levels show up and then they have goals and then they have bigger goals that, that say, you know, I'm, I'm going to go, I'm going to go, I'm going to take a boxing.
+[2178.36 --> 2178.48] Okay.
+[2178.58 --> 2182.00] And, and I'm going to meet all of my personal goals of, you know, whatever.
+[2182.84 --> 2184.82] And yeah, you know, I'm going to lose some cells.
+[2184.96 --> 2187.06] I'll lose some brain cells and I'll lose some knuckle skin.
+[2187.06 --> 2188.32] And then I'll lose some, some other stuff.
+[2188.54 --> 2189.36] No problem.
+[2189.58 --> 2190.90] Well, that's great for you.
+[2191.80 --> 2192.36] But right.
+[2192.50 --> 2194.04] So, but, but you see, you see where I'm going with this.
+[2194.12 --> 2203.78] So I think, I think we have to be very careful with interpreting the cancer example as suggesting that we should just max, max out the, the larger, the goal, the better.
+[2203.88 --> 2205.72] I don't think that's necessarily true at all.
+[2205.72 --> 2208.84] Well, no, I was seeing it more like as a balancing act actually.
+[2208.84 --> 2209.12] Yeah.
+[2209.36 --> 2209.64] Right.
+[2209.86 --> 2220.62] And I wonder what it's like integrating, you know, back to the robotic organs or back to tissue regeneration or cancer remediation.
+[2220.62 --> 2233.04] It seems like you're always going to be seeking this really delicate equilibrium and trying to typify the pattern of that equilibrium so that you can instruct the tissue to wander in that direction.
+[2233.04 --> 2247.90] And it seems to me like, I could be totally wrong, but from your work, I'm getting the impression that it's about finding out what the goals of those cells on those different scales are so that the goals can be over, can be sort of, yeah.
+[2247.90 --> 2255.28] Yeah. Complementary to the, to the maximal extent. So you have this balance between all of their different goals and then you would have maybe perfect health or something, or you could.
+[2256.96 --> 2266.16] Yeah, I think you're right. I think the key is there's going to be some sort of positive, there's some sort of balance that, that will be optimal there.
+[2266.16 --> 2278.56] There, I think we're, we're very rapidly leaving the domain of science and entering, I'm not sure what, because, because I don't think there's any scientific method that's going to tell you what the right balance is.
+[2278.76 --> 2287.14] There's going to be science that tells you what balances are achievable, what balances are stable, what balances are, you know, possible with certain methods, whatever.
+[2287.14 --> 2294.22] But, but all of them are going to be trade-offs in the sense that somebody's goals are going to be met and somebody else's goals are not going to be met.
+[2294.56 --> 2304.36] And the systems making those decisions are biased. You know, when a bunch of people sit around and decide what to do, they're awfully biased to the human scale side of things.
+[2304.78 --> 2313.32] You know, and so finding this, finding a proper balance and deciding what a good balance is, is, is distinctly non-trivial.
+[2313.48 --> 2318.88] I mean, I'll give you a simple kind of, kind of example, but I think this is the kind of thing that, that keeps me up at night sometimes.
+[2319.82 --> 2329.70] There was this, there was a story of, of, of a, a psychotherapist who was, he was treating somebody with what, what, what used to be called multiple personality disorder.
+[2329.70 --> 2337.40] Or I guess now it's a dissociative identity disorder. And so the deal is that, uh, the patient comes in and he says, uh, this is driving me crazy.
+[2337.48 --> 2343.60] I can't, I can't keep a job because these other personalities are coming up and some of them are pretty rowdy and, you know, and I'm getting fired and like, I can't have this.
+[2343.70 --> 2354.82] We got to fix this. And, uh, and the, the therapist is, yep, we got this thing called integration therapy and we're going to work together and we're going to, you know, we're going to integrate you and you'll be back, you know, you'll be back, back to normal.
+[2354.82 --> 2363.30] So they're working on this. And, and so one day patient comes in and it's the other, and it's the other personality. And he says, Hey doc, what's this? I hear about integration.
+[2363.60 --> 2381.24] And he says, well, we're going to, he said, well, let's, let's just break that down for me. When, when, when you integrate, where am I going to be? And he's like, well, you're kind of going to be gone. And really. And so that's, I don't like the sound of that. What happened to the Hippocratic oath? You, you, you, you and this other guy are working on making me disappear. What's up with that?
+[2381.24 --> 2406.04] And, and, and, uh, you know, and, and so that really, to me, that really gets to the bottom of this whole issue, right? Because there are certain selves and, and agents that are very, that are verbal and very good at advocating for themselves. Like your left hemisphere for most of us, you are home to another agent, which is normally not heard from until somebody cuts the, you know, the, the corpus callosum. And then, and then you can find out what your right hemisphere thinks.
+[2406.04 --> 2431.88] And there's all kinds of other subunits inside of us that we normally, you know, you normally are going to take the side of the larger system, not necessarily the side of the cell. So, so all of this, I think is really tricky as far as who's deciding what on whose behalf and who's forcing what other system into a different fate than they otherwise would have had. It's, it's, it's very non-obvious.
+[2431.88 --> 2459.14] And so in a worm where you are, you know, leading it to generate two heads or you take a salamander and you regrow its limbs, even so going from the sort of the, the non, I don't want to say non-natural, but the sort of the bodily organization that's not found in nature to the regular aspect of regrowth.
+[2459.14 --> 2468.74] Is there a difference in the sort of the communication that's happening there or is the only difference that it's coming from the outside versus internal?
+[2470.06 --> 2484.14] I think that, uh, one, one way to think about this is, um, uh, you can, so, so, so the biological example, well, I'll just tell you what the biological example is and then we'll, we'll sort of, um, we'll, we'll dissect a little bit.
+[2484.14 --> 2493.46] But what you can do, what, what, what you can have is, uh, you can, you can notice that the pieces of a, of a flower have an electrical circuit.
+[2493.78 --> 2500.56] Every cell has a particular set of ion channels and the whole thing forms this giant electrical circuit that has a number of stable states.
+[2500.56 --> 2511.40] And it has a number of different conditions that it could land in and those electrical states turn on and off various genes downstream that cause heads or tails to be built in various configurations.
+[2511.94 --> 2521.16] What the genome does really well is make sure that, uh, by default with, without, with nothing else happening, that electrical circuit will always land in the correct state.
+[2521.16 --> 2524.86] One head of the right size and shape for that species, boom, nice and stable.
+[2525.02 --> 2530.56] What we figured out how to do is to go in and push the cells towards one of these other stable states.
+[2530.88 --> 2534.38] When you do that, you basically push it towards a different memory.
+[2534.56 --> 2537.88] I mean, literally a different memory of what a correct planarian should look like.
+[2538.06 --> 2541.90] So we can, so, so then the pieces will make multiple heads.
+[2542.02 --> 2543.98] They will make heads belonging to other species.
+[2544.26 --> 2547.76] So this is, you know, you said, well, you, you just use, use the word natural a moment ago.
+[2547.76 --> 2555.92] So it's natural in the sense that there really are other species of planaria crawling around with those kinds of heads, just not correct for this species.
+[2556.88 --> 2559.92] Back to this idea of hardware software, the hardware hasn't been changed.
+[2560.08 --> 2563.36] And you can, you do this just by manipulating the ion channels?
+[2563.68 --> 2564.32] That's correct.
+[2564.50 --> 2564.96] That's correct.
+[2565.04 --> 2572.60] And this is, I think what I meant at the beginning when I said, this isn't like your typical biochemical situation, because when I took developmental biology in college, I mean, granted this is like 15 years ago.
+[2572.60 --> 2581.06] So it was like, oh, well, this chemical is being emitted over here, this, you know, embryo portion of the embryo is going to start, you know, moving over this way.
+[2581.12 --> 2584.28] And there's these chemical gradients, and that's pretty much controlling everything.
+[2584.40 --> 2590.42] And you're like, no, you can just grow ahead wherever you want, as long as it gets the right, you know, patterning somehow.
+[2590.84 --> 2593.62] I mean, those things are not incompatible.
+[2593.74 --> 2596.10] So, so all the things that you just said are still happening.
+[2596.22 --> 2596.32] Right.
+[2596.44 --> 2600.62] So, so there are still gradients, there are still chemicals, there are still genes being turned on and off.
+[2600.62 --> 2601.36] All that is still happening.
+[2602.78 --> 2608.04] The, the trick is to ask yourself, well, here, here's a simple question that hardly anybody works on.
+[2608.14 --> 2608.58] We still don't know.
+[2608.70 --> 2609.86] How does it know when to stop?
+[2610.24 --> 2616.88] So, so here, so you got a planarian, you cut, you cut its head off, and then the cells will start to grow like crazy, faster than any tumor.
+[2617.00 --> 2619.28] They start to grow, but then it stops.
+[2619.50 --> 2620.56] Why does it stop?
+[2620.70 --> 2623.50] It stops because the correct planarian head has been finished.
+[2623.96 --> 2627.56] Well, how, how does it know what a correct planarian head is supposed to look like?
+[2627.56 --> 2629.12] And is this what you mean by memory?
+[2629.30 --> 2640.60] Because I, I, I guess when you, when you speak of memory, I think of something that has been sort of held over from the past, but this seems like something that is discovered in the future.
+[2640.76 --> 2641.58] Do you know what I mean by that?
+[2641.58 --> 2642.62] There, yeah.
+[2642.84 --> 2646.40] So, so, so I, I use a very generic definition of memory.
+[2646.62 --> 2655.94] So, so memory is a, a, some sort of physical data structure that guides your future behavior based on things that have happened in the past.
+[2655.94 --> 2658.54] So that could be, that could be computer memory.
+[2658.66 --> 2660.18] That could be behavioral memory.
+[2660.28 --> 2661.30] That could be pattern memory.
+[2662.16 --> 2673.48] It's, it's, it's a memory because what we can do is we can take a planarian, change the electrical pattern, and it'll just sit there when nothing is happening until you cut the head off.
+[2673.60 --> 2674.72] It's a latent memory.
+[2674.82 --> 2676.22] It's not active when you cut the head.
+[2676.32 --> 2679.94] So it's a memory of what you're going to do in the future.
+[2680.14 --> 2682.20] If you get injured, it's a counterfactual memory.
+[2682.20 --> 2682.70] Right.
+[2682.88 --> 2690.50] And in fact, it's a false memory because we've, because instead of a nice picture of a one-headed worm, you're now carrying this, this weird idea of what a worm is supposed to look like.
+[2690.58 --> 2692.76] It's actually a two-headed, two-headed shape.
+[2692.82 --> 2694.78] So it's kind of a false memory, but whatever, it's your memory.
+[2695.08 --> 2699.50] And so now when you do get injured, the, the cells will build to that.
+[2699.64 --> 2705.20] They will use that memory as the, as their set point of what a correct planarian should look like.
+[2705.28 --> 2706.18] And when can we stop?
+[2706.52 --> 2708.06] Can we stop when we've made one head?
+[2708.32 --> 2711.54] No, because the memory of a, what a correct planarian is, is two heads.
+[2712.24 --> 2715.54] And, and think about, think about the simplest way to think about this.
+[2715.64 --> 2717.50] Think about your thermostat in your house, right?
+[2717.66 --> 2722.62] The thermostat is a very simple example of, of like the basement of agential systems.
+[2722.92 --> 2724.34] It has a simple memory.
+[2724.46 --> 2725.02] What does it remember?
+[2725.10 --> 2726.00] It only remembers one thing.
+[2726.12 --> 2727.10] What is the correct temperature?
+[2727.54 --> 2738.10] And it needs to know that, and it's encoded and it will keep working as hard as it can to make sure that the, that that's the actual, that the, the delta, the error between the, the measured temperature.
+[2738.30 --> 2739.64] And this memory is as low as possible.
+[2739.80 --> 2741.48] That's what all these regenerative systems do.
+[2741.48 --> 2746.24] They measure the error, which when you get injured, the error goes sky high, stress goes up, you're stressed.
+[2746.58 --> 2748.64] The stress is, I gotta, I gotta reduce this.
+[2748.74 --> 2749.70] I gotta reduce this stress.
+[2749.86 --> 2750.72] I gotta reduce that error.
+[2750.90 --> 2753.16] And I'm going to do whatever I can to get back to the set point.
+[2753.38 --> 2756.42] In the meantime, some scientists like us came along and changed the set point.
+[2756.84 --> 2756.96] So.
+[2757.24 --> 2757.70] Hold on.
+[2757.74 --> 2758.70] I have a question about this.
+[2758.84 --> 2760.24] And this might be a stupid question.
+[2760.44 --> 2766.02] So when you cut the head off of a worm, I imagine that there's two ways in which it can regrow.
+[2766.02 --> 2777.20] One is just this sort of almost 3D printed version where the front, each, each layer of cells that is deposited has the structures within it.
+[2777.20 --> 2782.40] And they basically builds until the structure is in three dimensional space appropriate.
+[2782.40 --> 2797.74] And then they stop versus a sort of more root based way of things growing where you have, let's say, you develop the circular system, the circulatory system, and then cells grow out from that, like leaves on a tree.
+[2797.92 --> 2800.14] Which way does a planarian regrow its head?
+[2800.14 --> 2801.40] Uh, neither.
+[2801.64 --> 2803.22] A planarian does something entirely different.
+[2803.42 --> 2806.38] So, so what a planarian does is, is, is, is kind of amazing.
+[2806.52 --> 2821.02] Uh, and what they do is you see all the planarian cells and this, we have no idea how this works, but all the planarian cells, uh, together, the collective, not individual cells, but the collective has a really good idea of what the size and scale of a proper planarian is.
+[2821.02 --> 2830.14] So, so what happens is when you chop off the head, the remaining cells at the, at the wound become, uh, head become nose.
+[2830.32 --> 2837.24] I mean, there's no nose, but you know, the tip of the, they, they basically decide that they are now the tip of the front with the most anterior tip of the planarian.
+[2837.46 --> 2841.82] The cells behind them will say, well, then I must be brain.
+[2841.82 --> 2844.60] And so they will remodel themselves to be a brain.
+[2844.72 --> 2847.16] The cells behind them say, well, I got to be, you know, something else.
+[2847.34 --> 2850.98] And the whole thing, as it's regenerating, the whole thing is shrinking.
+[2851.32 --> 2852.08] Why is it shrinking?
+[2852.24 --> 2855.98] Because when the new tiny little head forms, you don't want to be a big planarian with a tiny head.
+[2856.06 --> 2856.54] That doesn't work.
+[2856.64 --> 2859.08] You want to be, you want to be perfectly proportioned.
+[2859.16 --> 2860.70] So it's, it's absolutely amazing.
+[2860.70 --> 2861.78] They keep their proportion.
+[2862.02 --> 2867.66] The rest of the animals shrinks to be a correctly size and shapes, much smaller worm.
+[2868.00 --> 2868.24] Right?
+[2868.44 --> 2869.88] So, so that's what happens.
+[2869.88 --> 2872.44] And what, why, why can't humans do this?
+[2874.10 --> 2877.02] Humans can do this when they're very, very young.
+[2877.14 --> 2880.46] So human embryos, you know what happens when you cut a human embryo in half, right?
+[2880.62 --> 2881.08] You get twins.
+[2881.64 --> 2882.76] You get monozygotic twins.
+[2883.02 --> 2883.16] Yeah.
+[2883.36 --> 2888.24] So, so I, you know, I, I, I remind my students when they say, oh man, you know, those planarian are amazing.
+[2888.38 --> 2892.04] They can, they can regenerate from even a small fraction of their body.
+[2892.20 --> 2894.82] So, well, half of you can regenerate a whole human from one cell.
+[2895.24 --> 2895.50] Right?
+[2895.68 --> 2897.40] So, so we can, we can do that.
+[2897.40 --> 2901.08] We all start life as a fertilized egg and we regenerate.
+[2901.22 --> 2905.54] I mean, development, I think, and this is also controversial, but I think, I think that
+[2905.54 --> 2909.14] development is just a, um, a special case of regeneration.
+[2909.72 --> 2910.32] It's, it's.
+[2910.42 --> 2914.96] So can you get to, can you cut the planarians in such a way and have them, that they regenerate
+[2914.96 --> 2915.74] into two worms?
+[2916.26 --> 2918.12] Because that seems like, I mean, and.
+[2918.50 --> 2918.90] Well, they do.
+[2919.08 --> 2919.80] I mean, you can cut it.
+[2919.88 --> 2924.72] You can, the record is like 276 pieces and every piece gives rise to a worm, to a full
+[2924.72 --> 2925.12] on worm.
+[2926.68 --> 2929.54] But there's clearly something else going on here, right?
+[2929.64 --> 2935.86] Like they're, they're definitely multicellular organisms that are able to regenerate whole
+[2935.86 --> 2936.88] organ systems.
+[2937.34 --> 2937.72] Right.
+[2937.86 --> 2938.86] I mean, a head, let's say.
+[2939.16 --> 2939.56] Do they sexually reproduce?
+[2940.70 --> 2943.64] Uh, they can, some planarian species can.
+[2943.80 --> 2943.90] Yeah.
+[2944.30 --> 2946.32] They, they often don't bother.
+[2946.54 --> 2950.80] I mean, which, which is, which is a whole other interesting, uh, that's a whole other
+[2950.80 --> 2951.40] interesting thing.
+[2951.50 --> 2956.58] Imagine when, when we, when, when creatures reproduce through sperm and egg, right?
+[2956.92 --> 2960.50] There's, there's this thing we have, which is called Weissman's barrier, which is the idea
+[2960.50 --> 2964.82] that if you get some crazy mutation in your body during your lifespan, that doesn't transfer
+[2964.82 --> 2967.28] to your children because your children all come from one cell, right?
+[2967.34 --> 2968.62] The rest of your body is disposable.
+[2969.58 --> 2974.02] In, and then that, and that's, uh, in, in planaria, that's not true because the way they
+[2974.02 --> 2978.48] generally reproduce, not all species, but the way some species reproduces, they tear
+[2978.48 --> 2979.24] themselves in half.
+[2979.40 --> 2980.86] They literally tear themselves in half.
+[2980.94 --> 2982.66] The front half makes a new tail.
+[2982.78 --> 2983.78] The back end makes a new head.
+[2983.84 --> 2984.50] Now you've got two worms.
+[2984.68 --> 2984.76] Great.
+[2984.88 --> 2985.70] Right now you've reproduced.
+[2985.82 --> 2987.64] So if you do that, think about what that means.
+[2987.76 --> 2993.08] That means that every mutation that doesn't kill the stem cell that it hits is amplified
+[2993.08 --> 2994.96] into the new, into the offspring.
+[2995.44 --> 3001.02] And so, and so this is why the, the genomes of the planarians are an incredible mess.
+[3001.16 --> 3001.80] They're mixed employed.
+[3002.00 --> 3004.06] They have different numbers of chromosomes for God's sake.
+[3004.58 --> 3004.92] And right.
+[3005.06 --> 3007.74] And you don't even know, you know, we, the genetics are a mess.
+[3007.80 --> 3010.86] We don't have a proper assembly for some of these species because we don't, you don't
+[3010.86 --> 3011.62] know what you're sequencing.
+[3011.78 --> 3013.24] Every cell has a different number of chromosomes.
+[3013.24 --> 3015.74] Now, now think about what that, but think about what that means.
+[3015.86 --> 3015.94] Right.
+[3016.34 --> 3020.20] Um, for 400 million years, you've been accumulating mutations.
+[3020.54 --> 3022.24] Every cell has a different number of chromosomes.
+[3022.34 --> 3023.88] You're a complete mess at the genetic level.
+[3024.06 --> 3026.26] And you are the world champion regenerator.
+[3026.48 --> 3028.14] Your anatomy is rock solid.
+[3028.34 --> 3031.26] Every time you get cut 100% of the time you make the correct thing.
+[3032.02 --> 3032.38] Yeah.
+[3032.50 --> 3034.10] Who would have 100% of the time?
+[3034.44 --> 3037.30] Like you never see like a misshaped worm come out of a cut.
+[3037.86 --> 3039.08] It's extremely rare.
+[3039.08 --> 3043.34] If you, if you cut, if you cut very thin, tiny pieces, they get confused.
+[3043.48 --> 3047.66] Sometimes you can do that, but regular, but, but just, you know, normal cuts into, into
+[3047.66 --> 3048.36] large chunks.
+[3048.52 --> 3049.40] They, they never screw up.
+[3049.48 --> 3050.18] They, they always do it.
+[3050.24 --> 3050.28] Right.
+[3050.78 --> 3051.42] And so.
+[3052.06 --> 3053.16] How is that possible?
+[3053.42 --> 3053.50] Yeah.
+[3053.70 --> 3055.14] It is like this lead to a lot of problems.
+[3055.28 --> 3057.04] Do you get a lot of really deranged plenarium?
+[3057.26 --> 3059.58] Like whole species of monsters or.
+[3059.88 --> 3061.28] No, no, absolutely not.
+[3061.32 --> 3062.00] Absolutely not.
+[3062.14 --> 3065.10] And so, so this is, so, so I want to say two things about that that are interesting.
+[3065.10 --> 3070.28] One, one is that think about, think about how little we must know about the relationship
+[3070.28 --> 3071.64] between the genome and the anatomy.
+[3072.00 --> 3077.88] When you can basically trash the genome for hundreds of millions of years and still have
+[3077.88 --> 3078.88] rock solid anatomy.
+[3079.06 --> 3082.72] If you, if you didn't know about planaria, you went through a developmental biology or
+[3082.72 --> 3083.52] a genetics class.
+[3083.66 --> 3086.30] And somebody said to you at the end, I want you to make a prediction.
+[3086.40 --> 3090.10] I'm going to, I'm going to screw up the genome so bad your cells are going to be mix
+[3090.10 --> 3093.50] deployed like a tumor that has different, you know, we, we know that in tumors there's
+[3093.50 --> 3095.86] genetic, you know, damage and whatever, the different numbers of chromosomes.
+[3096.06 --> 3096.70] I'm going to do that.
+[3096.92 --> 3098.64] What do you think your anatomy is going to be like?
+[3098.76 --> 3099.36] What would you have said?
+[3099.68 --> 3099.80] Right.
+[3099.96 --> 3103.98] Any normal person going through a genetics or a developmental biology class would say,
+[3104.02 --> 3105.02] oh man, you're going to be a mess.
+[3105.10 --> 3106.18] You're going to be a tumor at best.
+[3106.32 --> 3106.40] Right.
+[3106.60 --> 3106.78] Yeah.
+[3107.16 --> 3108.38] So, so, so our standards.
+[3108.72 --> 3109.10] And that does happen though.
+[3109.24 --> 3109.36] Right.
+[3109.50 --> 3111.18] Like we do have, there are definitely.
+[3111.44 --> 3111.76] Teratomas.
+[3112.64 --> 3116.68] There's, there's, there's developmental disorders that, you know, babies are born with multiple
+[3116.68 --> 3118.40] chromosomes and it makes, makes problems.
+[3118.64 --> 3118.74] Right.
+[3119.00 --> 3123.10] So sometimes, but we're not very, but, but you see, we're not very regenerative is the
+[3123.10 --> 3123.40] problem.
+[3123.50 --> 3123.70] Right.
+[3123.86 --> 3123.94] Right.
+[3123.94 --> 3125.38] So what is that hinge?
+[3125.66 --> 3130.30] What is the, I didn't know if nobody has any idea, my, my, my point, my point is not
+[3130.30 --> 3131.24] that I have an answer to it.
+[3131.54 --> 3136.24] My point, my point is that I think it's very critical to keep an eye on your, your knowledge
+[3136.24 --> 3140.96] gaps because, because people go through a whole education in genetics and developmental
+[3140.96 --> 3142.44] biology and they never hear this stuff.
+[3142.78 --> 3142.88] Right.
+[3143.08 --> 3148.32] And when you read a developmental biology or genetic textbook, you get the feeling that, yeah,
+[3148.40 --> 3148.84] this is cool.
+[3148.98 --> 3151.16] We got this under control, you know, you know, a bunch of stuff.
+[3151.16 --> 3155.86] But, and, and, and I'm saying, no, no, there are fundamental gaps in our knowledge that
+[3155.86 --> 3159.92] we don't even, we, we, we have no idea what, what, what's going on here because nobody would
+[3159.92 --> 3162.98] have predicted that, that this, that this, that this thing would be true.
+[3162.98 --> 3168.14] Um, the other thing, uh, so, so that's, you know, so, so that's, uh, that, that, that's
+[3168.14 --> 3173.48] kind of, um, an important thing about, about, about planaria is that there's about any of
+[3173.48 --> 3178.58] this is that there's this distinction between what the hardware is going to do and what the,
+[3178.80 --> 3183.50] um, you know, the, uh, the specification of the hardware you to get out of the genome.
+[3183.88 --> 3188.00] And then the amazing ability of the software to do all kinds of interesting things.
+[3188.00 --> 3192.40] And we can get into all the plasticity and the, you know, including the Xenobots that
+[3192.40 --> 3197.02] you mentioned and all, all the other, um, types of amazing problem solving that we see.
+[3197.16 --> 3199.68] It's just, there are huge things we don't understand.
+[3199.86 --> 3204.40] When we talked to you on the phone earlier, uh, before the show, you mentioned that, so
+[3204.40 --> 3206.60] the Xenobots stuff got a lot of coverage in the news.
+[3206.60 --> 3211.98] Um, was, you, you seemed to express that you felt like some aspects of that had been
+[3211.98 --> 3212.82] handled poorly.
+[3213.20 --> 3218.20] Do you recall mentioning this or, or you felt like there, you felt like some of the key
+[3218.20 --> 3219.80] points were sort of glossed over?
+[3220.12 --> 3221.04] Well, this is true.
+[3221.24 --> 3223.76] I, I don't, you know, uh, I, I don't know what handled poorly.
+[3223.92 --> 3229.46] I, I certainly think that a lot of people have not yet understood what I think to be the
+[3229.46 --> 3231.78] main, uh, the main importance of this.
+[3231.78 --> 3237.40] And other people focused on aspects of this that, uh, I think they got, you know, they,
+[3237.42 --> 3238.84] they, they got the story wrong.
+[3238.96 --> 3243.26] Um, and then there've been some just completely crazy, uh, news stories that just totally screwed
+[3243.26 --> 3245.48] up the facts, uh, you know, in a, in a very wild way.
+[3246.24 --> 3247.32] So that sounds about right.
+[3247.84 --> 3253.40] What, uh, what do you think are the salient features that, that maybe got missed or could
+[3253.40 --> 3254.74] have been centered better?
+[3254.96 --> 3257.02] Well, there's, there's a couple of things.
+[3257.22 --> 3261.42] Uh, let, let's start off with, um, with what I think, what I think is, is, is, is
+[3261.42 --> 3262.66] important and significant here.
+[3263.52 --> 3269.04] There are three ways in which this whole technology is, uh, and, and just to, just to remind in
+[3269.04 --> 3272.98] case anybody doesn't know what this is, this is the observation that when you, and then
+[3272.98 --> 3277.68] this is, this is joint work that, um, is done in collaboration with, uh, Joshua Bongard's
+[3277.68 --> 3278.90] lab at the university of Vermont.
+[3279.04 --> 3283.12] And this is Sam Kriegman, uh, who's the computer scientist and Doug Blackiston, who's the, in
+[3283.12 --> 3284.30] my group, who's the biologist.
+[3284.68 --> 3286.48] Um, is this a joint project.
+[3286.48 --> 3291.20] And, uh, it's, it's, it's the observation that when you take skin cells from a frog
+[3291.20 --> 3297.36] embryo and you liberate them from the instructions that normally say, you're going to have a very
+[3297.36 --> 3297.90] boring life.
+[3297.94 --> 3303.02] You're going to sit there quietly as a two dimensional layer on the outside of, um, uh,
+[3303.24 --> 3305.62] on the outside of the embryo and you're going to keep out the pathogens.
+[3305.82 --> 3306.48] That's what you're going to do.
+[3306.68 --> 3310.78] And so, so when you liberate cells from that condition, you, you, you take these skin cells,
+[3310.82 --> 3312.78] you put them in a, in a separate, in a different environment.
+[3312.78 --> 3316.34] And you basically say, well, now you don't have those instructive cues.
+[3316.76 --> 3318.94] You can reimagine your multicellularity.
+[3319.00 --> 3319.96] What are you going to be right?
+[3320.06 --> 3320.48] What are you going to do?
+[3320.56 --> 3321.92] And they could have done all kinds of things.
+[3322.00 --> 3322.90] They could have crawled off.
+[3323.20 --> 3325.26] They could have made a monolayer, like a cell culture.
+[3325.36 --> 3325.94] They could have died.
+[3326.12 --> 3327.16] They could have done all sorts of things.
+[3327.30 --> 3330.84] Instead, what they do is they come together in about 48 hours.
+[3330.96 --> 3335.78] They come together and they form this new creature that we call a xenobot for Xenopus
+[3335.78 --> 3336.88] Laebus is the name of the frog.
+[3337.00 --> 3337.96] And it's a biobot.
+[3337.96 --> 3342.76] And it makes this little proto-organism that does all kinds of amazing things.
+[3343.00 --> 3345.46] It swims around on its own and has all kinds of behaviors.
+[3345.46 --> 3346.66] It has group behaviors.
+[3346.78 --> 3347.80] It has individual behaviors.
+[3347.94 --> 3350.20] It can regenerate if you damage it.
+[3350.46 --> 3353.56] It, it, it, and it is, it does all these interesting things.
+[3353.70 --> 3360.08] So one of the most amazing things that it does is that because it can't reproduce the
+[3360.08 --> 3363.26] normal way, because it's, it doesn't have the normal frog reproductive organs.
+[3363.26 --> 3366.80] It, it figured out a completely new way to replicate itself.
+[3367.02 --> 3371.14] So what it can do is if you give it a bunch of loose cells, it basically does a version
+[3371.14 --> 3375.64] of what, what, what von Neumann was, was toying with this idea of a replicator that goes around
+[3375.64 --> 3377.58] and collects parts and then builds a copy of itself.
+[3377.72 --> 3382.62] They basically run around and they, and they heard like, like sheepdogs, they heard a bunch
+[3382.62 --> 3385.72] of loose cells into little piles and sculpt them into other xenobots.
+[3385.90 --> 3386.76] And then guess what they do?
+[3386.84 --> 3388.14] They will run around and do the same thing.
+[3388.14 --> 3390.06] And there's, you know, three or four generations down.
+[3391.14 --> 3394.78] So, and, and there's no genetic, there's no genomic editing anywhere here.
+[3394.86 --> 3397.92] If you sequence these things, all you're going to ever see is Xenopus labus and you have no
+[3397.92 --> 3399.42] idea that you would have zero.
+[3399.64 --> 3403.38] This is, this is going back to that, that idea of how much do we really know about the
+[3403.38 --> 3404.26] genome and the anatomy?
+[3405.00 --> 3408.86] If you can have something that acts and looks in a completely different way and has the same
+[3408.86 --> 3411.28] wild type anatomy, the same wild type genome, right?
+[3411.30 --> 3415.20] And do you think that this is possible with cells from, from other organisms or is there
+[3415.20 --> 3416.82] something special about?
+[3416.82 --> 3418.94] There's, there's nothing froggy about this.
+[3419.08 --> 3423.60] I can't, I can't go into details now because I don't talk about unpublished work, but you
+[3423.60 --> 3427.12] know, in these contexts, but I can just tell you, this has nothing to do with frogs.
+[3427.36 --> 3429.62] It's it, it's, it's a much more, no, no embryos.
+[3429.70 --> 3430.92] It's a much more general phenomenon.
+[3431.08 --> 3433.08] So you think that you could make something like this from human cells?
+[3434.00 --> 3435.42] Yeah, we will see.
+[3435.52 --> 3435.86] Stay tuned.
+[3436.46 --> 3438.12] We will need some permission for that.
+[3439.18 --> 3440.48] We'll, we'll, we'll, we'll see.
+[3440.62 --> 3440.70] Yeah.
+[3440.98 --> 3442.06] Put that on your calendars.
+[3442.72 --> 3447.04] So let's, so, so let me, let me, let me just, let me just finish, finish that, that, that
+[3447.04 --> 3447.20] point.
+[3447.68 --> 3451.50] So, so this is, this is what they're doing with their standard genomes, right?
+[3452.60 --> 3458.36] And what, what I think is, what I think is, is really significant here is that for every
+[3458.36 --> 3462.46] other creature on earth, if you ask the question, why does it look the way it looks?
+[3462.56 --> 3463.90] Why does it have the behavior it has?
+[3464.02 --> 3464.72] Why is it this color?
+[3464.84 --> 3465.78] Why does it have this many eyes?
+[3465.78 --> 3469.38] The answer is always the same because for millions of years, the ancestors were selected
+[3469.38 --> 3471.62] for this and that, that doesn't exist here.
+[3471.70 --> 3473.08] These things never existed before.
+[3473.32 --> 3477.58] All of these cells were selected to be a nice, quiet, uh, uh, skin, skin layer, right?
+[3477.86 --> 3480.28] Instead on their own, they, they have a much more exciting life.
+[3480.40 --> 3480.86] They're autonomous.
+[3481.04 --> 3482.26] They run around, they do all kinds of stuff.
+[3483.24 --> 3485.82] So the question of where do these things come from?
+[3485.94 --> 3487.46] Where does its body plan come from?
+[3487.60 --> 3487.72] Right?
+[3488.06 --> 3490.34] If you ask, where does a frog body plan come from?
+[3490.44 --> 3493.70] Well, people will say, well, selection, you know, millions of years of selection for being a
+[3493.70 --> 3494.18] nice frog.
+[3494.18 --> 3496.28] Well, where does Xenobot body bodies come from?
+[3496.42 --> 3497.26] There's never been selection.
+[3497.38 --> 3498.46] It's an artificial selection.
+[3498.64 --> 3499.24] Is it, is it not?
+[3499.36 --> 3503.28] I mean, if you're scraping off this skin cell versus that, but we're not selecting them,
+[3503.36 --> 3505.44] but I mean, but, but we're not selecting them.
+[3505.68 --> 3510.52] I mean, we do not know anything that it takes to build a robot that does this kind of stuff,
+[3510.62 --> 3510.70] right?
+[3510.86 --> 3515.34] The answer to how does it know to, you know, to, to, to do all these things is not because
+[3515.34 --> 3516.66] Mike and Josh made them do it.
+[3516.88 --> 3521.04] I mean, there's a component of the project where we use machine learning to kind of nudge them
+[3521.04 --> 3522.24] towards specific outcomes.
+[3522.38 --> 3522.46] Right.
+[3522.46 --> 3524.78] And that's, that's very important to learn to do this.
+[3525.18 --> 3527.34] Is that by tuning the soup or something?
+[3528.16 --> 3528.84] Not yet.
+[3528.98 --> 3531.54] Although that's where it's going up until now, we've just been sculpting.
+[3531.68 --> 3535.20] The AI says, you know, if you just cut away of, you know, some cells from here to there,
+[3535.24 --> 3537.32] they'll, they'll move better or they'll do certain things.
+[3537.32 --> 3542.58] Um, so, so, so look, there's, there's, there's three really important things about, about all
+[3542.58 --> 3542.74] this.
+[3542.84 --> 3547.46] One is that it's, uh, at some point we'll have useful synthetic living machines.
+[3547.46 --> 3552.28] So the, you know, there'll be scraping the plaque off your artery walls or chasing down
+[3552.28 --> 3555.58] tumor cells in your gut or something, you know, there's all kinds of useful applications.
+[3555.58 --> 3562.86] Uh, the second thing is that they're teaching us about how to, how do collectives of cells make
+[3562.86 --> 3566.76] decisions about what to be that that's the answer to regenerative medicine though.
+[3567.18 --> 3571.54] The whole field of regenerative medicine is, is basically stuck because we don't know the answer
+[3571.54 --> 3572.14] to that question.
+[3572.32 --> 3575.50] How do collections of cells make decisions about what they're going to do?
+[3575.50 --> 3577.20] The genome is not the answer.
+[3577.36 --> 3578.80] Stem cell biology is not the answer.
+[3578.96 --> 3584.00] Uh, we, we do not understand how collectives of cells make decisions, large scale decisions.
+[3584.22 --> 3586.80] This is a sandbox, a platform.
+[3587.00 --> 3588.30] It's a, you know, it's a very simple system.
+[3588.44 --> 3591.18] It's one, you know, one type of tissue, just, just skin.
+[3591.62 --> 3592.66] Um, okay.
+[3592.80 --> 3598.98] So, so, so ultimately what this is for way beyond useful or, you know, useful machines is we are
+[3598.98 --> 3604.58] going to try to understand how do you, how do cells get their goals, collect collectives of
+[3604.58 --> 3605.34] cells, get their goals?
+[3605.58 --> 3607.38] Where did the goal of being a xenobot come from?
+[3607.46 --> 3610.86] Because it showed up in 48 hours, did not require millions of years of evolution.
+[3611.06 --> 3612.76] So the question is, where did that goal come from?
+[3612.84 --> 3614.74] And more importantly, how do we re-specify it?
+[3614.88 --> 3619.04] So if we, if I said, you know, um, that's great and all, but I don't want a round xenobot.
+[3619.04 --> 3621.82] I want a long flat one and I wanted to do this and that.
+[3621.94 --> 3624.32] Like what, what, what are the signals that I need to give you?
+[3624.54 --> 3628.58] Because once we crack that, that's the key to proper regenerative medicine, where we can
+[3628.58 --> 3631.74] make new organs, we can fix birth defects, we can reprogram tumors.
+[3632.14 --> 3632.82] So all of that.
+[3632.82 --> 3636.52] Is that because you'd, you'd understand the goals of the organ cells and you could kind
+[3636.52 --> 3640.08] of give them what they want and they'll just execute their actions?
+[3640.30 --> 3645.34] It'll, it'll be a combination of giving them what they want, meaning, meaning, uh, incentivizing
+[3645.34 --> 3649.16] them with rewards and punishments and a combination of re-specifying the goal states.
+[3649.32 --> 3653.02] Just like in the plenary, if your goal state for whatever reason is screwed up and you think
+[3653.02 --> 3655.34] you're going to be a tumor, I got a better goal state for you here.
+[3655.56 --> 3657.48] Here's a new pattern memory that you're going to follow.
+[3657.48 --> 3661.46] And, and I'm going to incentivize that with a little bit of, you know, whatever reward
+[3661.46 --> 3663.34] or punishment or whatever, whatever you're going to do.
+[3663.66 --> 3668.04] And then, and then the bigger picture, and this sort of takes us back to this conversation
+[3668.04 --> 3671.78] about like society and then everything that we were talking about the bigger picture.
+[3671.94 --> 3679.32] I, I, I see this as a, uh, as an existential, as, as mitigation of existential risk for humanity.
+[3679.32 --> 3685.20] I mean, look at this, we are surrounded by systems, large-scale systems like internet of
+[3685.20 --> 3691.46] things, uh, you know, computer networks, uh, swarm robotics, social structures, um, financial
+[3691.46 --> 3691.92] structures.
+[3692.12 --> 3698.68] We have only the barest beginnings of a science of knowing what do these collectives want as
+[3698.68 --> 3699.04] goals.
+[3699.24 --> 3700.70] We have absolutely no idea.
+[3700.82 --> 3704.76] In some way we've turned ourselves into cells that are part of a larger organ.
+[3705.00 --> 3705.72] That's correct.
+[3705.72 --> 3709.12] And the cells have no clue what the organism is going to want to do.
+[3709.24 --> 3711.52] What are the, what are the goals of the larger scale system?
+[3711.82 --> 3718.20] In fact, if you think of, uh, think of shrinking yourself down to the level of a single cell
+[3718.20 --> 3721.78] inside of an early embryo, and you're looking around and you're seeing all this stuff that's
+[3721.78 --> 3725.30] happening and all the noise and chaos and cells are dying off and moving from it, falling
+[3725.30 --> 3726.36] off and all this stuff.
+[3726.54 --> 3730.34] Would you ever in a million years know that this is going to make a 100% reliable fish or
+[3730.34 --> 3731.04] frog or human?
+[3731.16 --> 3734.48] You would never know that if you didn't already know about embryonic development and the fact that
+[3734.48 --> 3737.08] was reliable, you would never know that that's what was going to happen.
+[3737.70 --> 3739.94] And so go ahead, go ahead.
+[3740.06 --> 3740.14] Sorry.
+[3740.54 --> 3741.66] Well, just to finish up.
+[3741.74 --> 3746.84] So, so, so we are, we are surrounding ourselves with complex systems that are going to have
+[3746.84 --> 3747.18] goals.
+[3747.30 --> 3750.78] Those goals are going to be different from ours, but they're going to be as inscrutable
+[3750.78 --> 3753.86] to us as the goals of the organism are to the cells.
+[3754.12 --> 3757.44] You know, when you think about your, your goals in the morning or your life plan for the
+[3757.44 --> 3761.84] next, uh, you know, three years, uh, the, the, the cells in your body and the organs
+[3761.84 --> 3765.92] and the tissues don't even have the, the, the, the beginnings of a cognitive system to
+[3765.92 --> 3768.38] appreciate what, what's going to, what's going to go on here.
+[3768.46 --> 3768.52] Right.
+[3768.68 --> 3773.66] We're surrounding ourselves with, with this and we do not have a good science of anticipating
+[3773.66 --> 3775.10] and managing collective goals.
+[3775.28 --> 3780.14] So, so my point is if we can learn from some frog skin, which by the way, frogs are shedding
+[3780.14 --> 3781.42] into rivers all the time.
+[3781.42 --> 3786.30] So, you know, uh, people get all crazy about this, but that, I mean, that's another thing
+[3786.30 --> 3790.46] people say, Oh my God, you know, these, these Xenobots, this is frog skin for God's sake.
+[3790.58 --> 3795.08] Do you, you understand that we've had our, we've had synthetic bacteria viruses, both
+[3795.08 --> 3796.18] natural and synthetic.
+[3796.38 --> 3797.50] We've had germ warfare.
+[3797.68 --> 3802.28] We've had genetically modified, um, uh, you know, organisms being released, like compared
+[3802.28 --> 3806.82] to all of that, this should be so far down on your list of things to worry about.
+[3806.96 --> 3807.52] It's ridiculous.
+[3807.74 --> 3808.94] It's just completely ridiculous.
+[3809.12 --> 3809.92] The news cycle is hungry.
+[3809.92 --> 3811.94] Well, the, the new cycle is hungry.
+[3811.94 --> 3816.30] And I did, I did have this weird feeling when they were starting to release genetically modified
+[3816.30 --> 3819.64] mosquitoes where I was like, why is no one freaking out about this?
+[3819.78 --> 3821.46] It was very sort of just matter of fact.
+[3821.66 --> 3823.80] Some people, I mean, some people did freak out about it.
+[3824.08 --> 3828.42] Uh, people, I personally was freaking out about it because I'm like, we have crossed the Rubicon
+[3828.42 --> 3829.10] at this point.
+[3829.24 --> 3837.50] Like this is, this is a huge decision to make to drive a specific parasite or disease carrying
+[3837.50 --> 3838.74] mosquito to extinction.
+[3838.74 --> 3840.82] I'm like, I don't know that we've given enough.
+[3841.60 --> 3841.98] Yeah.
+[3841.98 --> 3844.38] I mean, we've kind of, no, you're right.
+[3844.48 --> 3845.88] But I mean, we've kind of done that before.
+[3845.88 --> 3850.80] I mean, we've driven, we've, we've more or less driven polio to extinction, right?
+[3851.32 --> 3857.08] We've, uh, with, with native, native wheat and, and all the, like, like the old school
+[3857.08 --> 3858.72] crops that are almost gone now.
+[3859.02 --> 3859.46] The oceans.
+[3860.52 --> 3860.92] Yeah.
+[3861.16 --> 3861.30] Yeah.
+[3861.36 --> 3862.94] We, we, we've been doing that for a while.
+[3863.08 --> 3863.96] And I think that, um.
+[3864.24 --> 3867.30] People are just so tired of it that they're like, eh, what's another one?
+[3867.30 --> 3872.12] Uh, I don't think so because, because when they hear about the Xenobots, they suddenly
+[3872.12 --> 3875.32] are full of energy again and they, random people freak out.
+[3875.40 --> 3882.40] I just, I think we ought to, uh, be really realistic about, um, apportioning our limited,
+[3882.62 --> 3885.40] our finite, uh, energy for concern, right?
+[3885.62 --> 3889.12] Apportioning it proportionally to what's an actual problem.
+[3889.12 --> 3891.72] And I think we have plenty of problems to worry about.
+[3891.94 --> 3897.18] This is an extremely safe system in which to understand a really critical thing, which
+[3897.18 --> 3898.98] is where complex systems get their goals.
+[3899.12 --> 3900.26] Like that's crucial.
+[3900.80 --> 3905.58] Do you, oh, I was going to say, do you, do you think that you could go out into the environment
+[3905.58 --> 3909.42] and find self-made Xenobots?
+[3910.08 --> 3913.26] Like you say that frog skin is getting shed into the environment.
+[3913.70 --> 3917.64] Um, I'm sure that there's lots of other skin cells from lots of other animals.
+[3917.64 --> 3919.66] Our own skin cells get washed down the drain, right?
+[3919.94 --> 3920.10] Yeah.
+[3920.30 --> 3920.48] Yeah.
+[3920.72 --> 3922.92] It's, it's an interesting, it's an interesting point.
+[3923.14 --> 3927.60] Um, I read just yesterday, I read a paper about, um, uh, cancer and clams.
+[3927.98 --> 3933.68] And the amazing thing about clam cancer is that the individual clam, uh, tumor cells get
+[3933.68 --> 3938.50] released into the waterway and they find their way to other clams and they get in there and
+[3938.50 --> 3939.26] they infect them.
+[3940.06 --> 3942.80] So there's sort of a, they can live on their own.
+[3942.94 --> 3947.46] And, and I have, I don't know if you, you, you got to see that, um, life, death and
+[3947.46 --> 3951.52] self paper, but, but I talk about that exactly that you could imagine an organism.
+[3951.70 --> 3955.62] It wouldn't be a, you know, wouldn't be a, a mammal because it doesn't have, it wouldn't
+[3955.62 --> 3959.40] work in dry land, but in the water, you could imagine an organism that when the organism
+[3959.40 --> 3962.54] dies, there's still a bunch of living cells in there, right?
+[3962.62 --> 3965.88] There's lots of, you know, when a fish or a frog dies for whatever reason, there's plenty
+[3965.88 --> 3966.62] of living cells in there.
+[3966.62 --> 3973.14] They could, in theory, that could be a life, um, uh, uh, kind of a, kind of a life history
+[3973.14 --> 3977.08] where the cells go off, they go off on their own and they either become amoebas and live
+[3977.08 --> 3981.20] as amoebas, or they come back and they become some kind of a Xenobot looking thing, you know,
+[3981.24 --> 3983.96] and then, you know, maybe they develop another developmental sequence.
+[3984.06 --> 3989.22] Like all of that are perfectly viable life strategies that you might find maybe on earth,
+[3989.34 --> 3990.16] maybe somewhere else.
+[3990.34 --> 3991.74] Um, yeah, I don't see why not.
+[3991.74 --> 3995.94] This really puts into perspective the funeral rites of various cultures.
+[3996.22 --> 3999.42] The fact that we're like, so like, you know what, we got to make sure that that body cannot
+[3999.42 --> 4000.84] do anything after death.
+[4001.12 --> 4002.40] It's still very much alive.
+[4002.90 --> 4006.28] Why do you call them bots instead of straight up organisms?
+[4006.60 --> 4010.14] Like you, one of the really cool papers you sent us, I'll try to put all these in the
+[4010.14 --> 4015.44] description too, is, uh, where you're sort of making this dichotomy between machines
+[4015.44 --> 4016.76] and organisms.
+[4017.14 --> 4018.66] Well, I'm trying to burn down the dichotomy.
+[4018.70 --> 4019.08] Sorry.
+[4019.46 --> 4020.98] Oh, yeah, sort of.
+[4020.98 --> 4021.36] It's interesting.
+[4021.44 --> 4024.26] Are you thinking about the one where I was talking about the intelligence of machines?
+[4024.66 --> 4027.12] Yeah, you, you do make some like specifications, right?
+[4027.40 --> 4031.86] Uh, where like, uh, Anastasia says, you, you're saying that, you know, organisms are
+[4031.86 --> 4036.64] intelligence at all these scales and, uh, machines never could be even intelligent.
+[4037.00 --> 4040.68] And I've, I've, I've, I've, I've never said they couldn't be.
+[4040.78 --> 4042.10] What I, what I think I saw.
+[4042.24 --> 4043.24] No, no, I don't think so.
+[4043.40 --> 4044.32] Well, hopefully, hopefully I've never.
+[4044.34 --> 4048.28] There is a heading in one of the papers that says machines are not intelligent and never.
+[4048.30 --> 4048.92] Oh, yes, yes.
+[4048.92 --> 4050.94] That's because, but, but yes, yes.
+[4051.06 --> 4054.62] But that's because those headings, if you look at all the headings, we are basically,
+[4054.80 --> 4058.70] what we're doing is we're, we're trying to, we're trying to demolish the, the, the, the
+[4058.70 --> 4060.54] typical statements that are made by people.
+[4060.72 --> 4062.38] That's one of the things that we're arguing against.
+[4062.64 --> 4065.84] All of the, all of those headings are things that we are, but basically the rest of the
+[4065.84 --> 4066.88] text is trying to shoot it down.
+[4067.14 --> 4067.42] I see.
+[4067.42 --> 4071.24] So you're trying to say that the idea of a machine, as we understand it, is outdated
+[4071.24 --> 4074.16] and that we need to start thinking about machines in different ways.
+[4074.70 --> 4075.76] Here's, here's what I think.
+[4075.96 --> 4083.66] Uh, this, a lot of the terminology that people use around this machines, robots, um, organisms,
+[4084.16 --> 4088.78] uh, intelligence, a lot of these things, the, the, the definitions we have now are not going
+[4088.78 --> 4090.42] to survive the next couple of decades.
+[4090.42 --> 4095.50] They are based on extremely outmoded criteria that are, I mean, look in, in the olden days,
+[4095.68 --> 4097.98] some number of decades ago, you could walk up to something.
+[4098.12 --> 4099.82] If you don't know what it was, you could knock on it.
+[4099.94 --> 4102.84] And if you heard a clanging metallic sound, you could, you could know several things.
+[4102.88 --> 4104.04] It came off a factory.
+[4104.72 --> 4108.30] I'm morally, uh, in my rights to do whatever I want with this thing, take it apart, put
+[4108.30 --> 4108.98] it in the garbage heap.
+[4109.20 --> 4109.22] Fine.
+[4109.60 --> 4112.58] And it's going to be boring and it's not going to do anything interesting.
+[4112.92 --> 4113.00] Right.
+[4113.40 --> 4117.34] Whereas if you do this and it's sort of wet and, and, and, and kind of squishy, right.
+[4117.54 --> 4120.28] And, and, and, and, you know, sort of like that, then you would say, ah,
+[4120.42 --> 4122.10] this, this was evolved on earth.
+[4122.26 --> 4124.10] It wasn't designed by, by, by a mind.
+[4124.28 --> 4125.94] Uh, I better be nice to it.
+[4126.10 --> 4130.40] And I can expect some really interesting hijinks, you know, if I, if I have it in my house.
+[4130.74 --> 4138.96] So that, those conclusions were made entirely based on the limitations of past technology.
+[4139.10 --> 4139.74] They're not deep.
+[4139.90 --> 4144.10] They're, they're just, you know, the total crap, basically at this point, they're not going
+[4144.10 --> 4144.66] to survive.
+[4144.96 --> 4149.74] You know, now we have machines that, that are, that are, um, that are evolved using, using
+[4149.74 --> 4150.86] evolutionary strategies.
+[4151.08 --> 4156.80] There are designed organisms, um, going into the future, what you look like and what you're
+[4156.80 --> 4161.48] made of and how you got here, your origin story are going to be terrible guides to your
+[4161.48 --> 4164.22] moral, um, standing and to your cognitive capacity.
+[4164.32 --> 4165.38] They're going to be terrible.
+[4165.68 --> 4167.18] You, you will, we will be surrounded.
+[4167.32 --> 4169.36] This is, this is something I was just writing about the other day.
+[4169.94 --> 4177.92] We are going to be surrounded by every possible combination of evolved living material, um,
+[4178.40 --> 4183.44] designed, uh, artificial materials and software, every kind that you can think of the, the,
+[4183.46 --> 4188.40] the, the, you know, that star Wars cantina scene is going to be just totally tame compared
+[4188.40 --> 4190.12] to what, how we're actually going to be living.
+[4190.58 --> 4195.92] And this distinction, when people say machines can't do this and if, if you just, if you
+[4195.92 --> 4198.64] just push on that a little bit and say, okay, tell me what a machine is, tell me what a
+[4198.64 --> 4199.12] robot is.
+[4199.42 --> 4204.06] And, and by the way, that definition better be useful beyond like 1960, you know, it better
+[4204.06 --> 4208.40] be a modern definition that, that doesn't lean on these ridiculous limitations that are
+[4208.40 --> 4209.60] just not even true anymore.
+[4209.80 --> 4210.96] It's certainly not going to be true in the future.
+[4211.48 --> 4215.30] So, so that's, yeah, so that's, and if I recall, first of all, I love that you're obsessed
+[4215.30 --> 4215.86] with definitions.
+[4215.86 --> 4220.08] That's something that we are completely nuts about at demystifying science and our, you
+[4220.08 --> 4222.58] know, we have a Facebook group and most of what we do is argue about definitions.
+[4223.32 --> 4225.20] And so that's awesome.
+[4225.92 --> 4230.42] What, and I believe you just, before we go any further with that, the machines you define
+[4230.42 --> 4233.46] it as basically, they have to be useful, right?
+[4233.58 --> 4234.40] Is that, is that something?
+[4235.38 --> 4237.42] That's, that's one way to, that's one way to do it.
+[4237.56 --> 4241.34] Um, I think is, so, so just to back up a second, here's, here's what I think about definitions.
+[4242.34 --> 4245.84] Definitions are meant to, the, the, the reason you want definitions.
+[4245.86 --> 4247.66] Definitions is to facilitate progress.
+[4247.86 --> 4252.00] You don't want definitions that, uh, that, that hinder you from, from thinking in various
+[4252.00 --> 4252.30] ways.
+[4252.46 --> 4257.16] And so to me, there are no, uh, and this, this, this also gets me crazy.
+[4257.26 --> 4260.36] Some people will say, well, that's just a metaphor and it's not okay.
+[4260.50 --> 4261.38] Everything is a metaphor.
+[4261.54 --> 4262.58] There's, there's no, we don't have it.
+[4262.62 --> 4263.24] We don't have access.
+[4263.40 --> 4266.96] At least I don't believe that we have access to any, any real objective truth ever.
+[4267.14 --> 4269.62] What we have access to are metaphors, which can be good.
+[4269.82 --> 4271.52] They can be more or less useful, right?
+[4271.52 --> 4276.42] So what am I, so I'm going to suggest that to the extent that you want to use the word
+[4276.42 --> 4282.02] machine, for example, um, it better be a definition that is, that is useful in some fashion.
+[4282.14 --> 4283.22] It helps you do something.
+[4283.38 --> 4288.56] So to me right now, a useful definition of machine doesn't have anything to do with what
+[4288.56 --> 4290.86] you're made of or whether you were designed or evolved.
+[4291.20 --> 4295.62] I think the salient, and I'm not saying I have the best answer, by the way, I'm sure, I'm
+[4295.62 --> 4299.42] sure there's plenty of work to be done to get better definitions of all of, of all of this.
+[4299.42 --> 4305.10] But I think the interesting thing about a machine is that it's a system that works according
+[4305.10 --> 4311.92] to, uh, understandable, logical rules that's able to be manipulated to, uh, for specific
+[4311.92 --> 4312.40] outcomes.
+[4312.72 --> 4318.58] So now a machine is something that you can with, with sufficient effort and brainpower,
+[4318.72 --> 4320.72] you can say, okay, I see how this works.
+[4320.94 --> 4324.52] And part of seeing how this works is if I wanted to change it to do something it doesn't
+[4324.52 --> 4326.24] normally do, here's how I would do that, right?
+[4326.32 --> 4328.06] Anything you can do that to that's, that's a machine.
+[4328.06 --> 4332.36] So, um, I also, the other important thing about all of this is that I don't believe in
+[4332.36 --> 4334.26] binary definitions for almost anything.
+[4334.26 --> 4339.44] So there's no such thing as, I don't think, yes, this is a machine that is not a machine.
+[4339.88 --> 4342.34] There's no binary about machines.
+[4342.34 --> 4346.02] There's no binary about cognition, about consciousness, about intelligence.
+[4346.20 --> 4348.06] It's never does it or doesn't it.
+[4348.12 --> 4350.08] It's always how much and what kind.
+[4350.08 --> 4356.42] So if somebody shows me, uh, somebody shows me, um, uh, you know, a bacterium, I'm going
+[4356.42 --> 4361.40] to say, yes, that's, that's quite a, it's got many properties of what you consider an
+[4361.40 --> 4361.80] organism.
+[4361.92 --> 4364.56] It's got quite a few properties of what you would consider a machine.
+[4364.76 --> 4368.90] By the time you get to a human has some of the properties of the machine.
+[4369.04 --> 4371.46] There's a lot you can do with the physiology and the behavior.
+[4371.46 --> 4375.56] And there's a, but it's got a bunch of other stuff that, uh, really, uh, you, it wouldn't
+[4375.56 --> 4376.88] help you to treat it as a machine.
+[4376.98 --> 4379.16] At least now it wouldn't maybe sometime in the future.
+[4379.28 --> 4382.40] But, um, so does context have a lot to do with this then?
+[4382.64 --> 4385.66] Like, does the definition need to be set in some place?
+[4385.90 --> 4390.46] Like, you know, if I'm sitting here next to a washing machine and we're trying to decide
+[4390.46 --> 4395.70] which of two of us is the machine, maybe one definition would work quite nicely.
+[4395.70 --> 4401.26] Whereas if you're comparing me to something that's a little bit more on the edge where
+[4401.26 --> 4406.70] you're talking about like an engineered organ or something, it's kind of, you know, a little
+[4406.70 --> 4407.64] bit trickier.
+[4408.12 --> 4412.02] Or like a pancreas versus an insulin pump, I think is maybe like a better.
+[4412.82 --> 4413.78] Oh boy.
+[4414.02 --> 4420.08] Uh, yeah, I think, uh, I, I, I think there, there, there are certainly both kinds of machines.
+[4420.08 --> 4425.24] They have different, uh, there's some different properties and, and they, they're, uh, useful
+[4425.24 --> 4426.16] in different circumstances.
+[4426.44 --> 4427.80] I think it's not just context.
+[4427.96 --> 4429.36] I think it's all observer dependent.
+[4429.84 --> 4432.82] So it's everything to me, everything is in the eye of the beholder.
+[4432.98 --> 4433.98] It's in the eye of the observer.
+[4434.24 --> 4437.40] Now the observer, by the way, might be the system itself when it looks at itself.
+[4437.44 --> 4441.38] We can talk about that in a minute, but, but if I, if I look at something and I say,
+[4441.96 --> 4443.66] and it's the same thing with seeing intelligence.
+[4443.66 --> 4449.80] If I look at, uh, at, at, at, at you and the washing machine, and my goal is to, I need
+[4449.80 --> 4450.42] a paperweight.
+[4450.58 --> 4451.96] I need a really good paperweight.
+[4452.10 --> 4453.18] I look at the washing machine.
+[4453.26 --> 4454.38] I go, that's awesome.
+[4454.38 --> 4456.22] That thing, I'm going to set that thing down on my papers.
+[4456.24 --> 4457.04] That's not going anywhere.
+[4457.22 --> 4460.80] You are a terrible paperweight because you have a tendency to get up and wander around.
+[4461.04 --> 4461.80] I don't like it.
+[4462.12 --> 4462.40] Right.
+[4462.54 --> 4462.64] Yeah.
+[4463.12 --> 4464.48] So, so that's, so that's one thing.
+[4464.60 --> 4469.22] On the other hand, if I want, uh, you know, if I, if I want, um, you know, if I want you
+[4469.22 --> 4473.46] to, uh, uh, you know, do, do some kind of useful thing, I'm going to say this washing
+[4473.46 --> 4474.66] machine is very limited.
+[4474.80 --> 4477.38] I'm never going to get this thing to like guard my house or do anything else.
+[4477.46 --> 4478.40] All it does is this one thing.
+[4478.48 --> 4479.94] It's a very boring kind of machine.
+[4479.94 --> 4484.32] I, you know, you look at a, at an organism, you say that, that is a much more interesting
+[4484.32 --> 4488.40] machine that has all kinds of stuff and, and maybe I can get it to do certain things.
+[4488.56 --> 4493.16] And maybe I can't because it's a, it's a, it's a kind of machine that is self-motivated.
+[4493.16 --> 4498.28] And at some point you might decide to just leave and then, you know, uh, yeah, so it's
+[4498.28 --> 4500.54] in the eye of the, of the observer, all of this.
+[4500.88 --> 4505.98] It's just terrifying because does that kind of destroy the, the, any chance of defining
+[4505.98 --> 4511.28] life itself if we can't really separate machines from organisms?
+[4512.12 --> 4519.60] Well, look, uh, what, what do we really, what useful definition of life do we really
+[4519.60 --> 4525.66] have to begin with if, if you, you ask yourself if, if, uh, what, what tools do we have when
+[4525.66 --> 4531.54] we go to other planets and, uh, or, or synthetic biology, if I may, I mean, already people make
+[4531.54 --> 4535.44] all kinds of stuff that, that you can have a week of arguments about whether it's, it's
+[4535.44 --> 4536.38] primitive life or not.
+[4536.58 --> 4536.70] Right.
+[4537.14 --> 4543.74] Um, and, and, and, and knowing what you find on, you're, you're sitting home one day and
+[4543.74 --> 4548.02] a spaceship lands on your front lawn and this, this thing trundles out and it's kind of
+[4548.02 --> 4551.50] shiny and metallic, but it walks up to you and it's got this poem that it wrote on the
+[4551.50 --> 4551.94] way over.
+[4552.26 --> 4552.40] Right.
+[4552.54 --> 4556.02] And it's like, look, I I'm, I'm here to meet you here and you're looking at it.
+[4556.12 --> 4561.68] And so now what do you have in your toolkit that you're going to say, is it alive?
+[4562.12 --> 4564.40] Is it, is it, does it have cognition?
+[4564.66 --> 4565.74] Was it made by someone?
+[4565.84 --> 4566.90] Did it evolve somewhere?
+[4567.10 --> 4571.60] We usually, I mean, we usually start, I mean, we argue about this nonstop in our social media
+[4571.60 --> 4572.18] and so forth.
+[4572.26 --> 4574.82] It's actually one of our favorite topics is what is life.
+[4574.82 --> 4579.66] And like the closest we've gotten is something like autonomous intention, like the, some,
+[4579.78 --> 4582.10] some expression of intention.
+[4583.06 --> 4587.76] Do you, you know, do you, but if, if these machines are going to be capable of goal oriented
+[4587.76 --> 4590.84] behavior, then it's like, and it's autonomous to some extent.
+[4591.60 --> 4598.00] I mean, defining, I, I, I, I, I'm sympathetic to what you're trying to do, but, but I think
+[4598.00 --> 4602.02] defining that in a, in a rigorous way is brutally hard.
+[4602.02 --> 4607.66] I mean, you're, you're, you're, you know, your, your Roomba has autonomous, uh, intentions
+[4607.66 --> 4614.48] and it's been programmed by us, but you know, yeah, but, but, but it's not difficult to set
+[4614.48 --> 4620.40] up a, um, uh, an, uh, you know, an evolving, uh, algorithm that would just would evolve this
+[4620.40 --> 4620.90] from scratch.
+[4620.90 --> 4621.20] Right.
+[4621.48 --> 4625.54] It's, I, I don't, I don't find it particularly helpful.
+[4625.90 --> 4626.92] I don't even know.
+[4627.06 --> 4630.04] Look, I don't even know that the word life is particularly useful.
+[4630.04 --> 4631.40] That's what I was getting at.
+[4631.54 --> 4631.98] Right.
+[4632.12 --> 4636.76] Like I, I've always had this feeling that the question of what is alive versus what isn't
+[4636.76 --> 4640.56] alive is a question of how can I treat this object?
+[4641.30 --> 4641.74] Yes.
+[4641.96 --> 4642.16] Yes.
+[4642.46 --> 4643.88] And I'm 100% agreed.
+[4643.98 --> 4647.06] I think, I think that is all that is about, that is what all of this stuff is about.
+[4647.26 --> 4651.46] I think that, that, um, alive is not particularly useful.
+[4651.46 --> 4657.30] It was useful pre, you know, I don't know, at the turn of the century, it was useful because
+[4657.30 --> 4661.98] it was pretty clear that you could segregate things into alive and not alive.
+[4662.12 --> 4665.52] And that would, that would correlate great with how you're supposed to treat that.
+[4665.96 --> 4666.74] Kind of, kind of.
+[4666.86 --> 4666.92] Right.
+[4667.02 --> 4673.40] Because if you look at something like the biosphere, it's very hard to look at earth and be like,
+[4673.58 --> 4674.54] earth is alive.
+[4674.54 --> 4679.66] And yet, when it comes down to looking at the turn of the century and you have the industrial
+[4679.66 --> 4683.94] revolution and you have the consumption of raw materials, there's nothing inherently
+[4683.94 --> 4688.58] bad about breaking up a mountain and taking coal or whatever else out of it.
+[4688.66 --> 4693.00] But there is something about the extractive process, which if you're able to look at the
+[4693.00 --> 4698.24] earth as being alive, despite the fact that it's this object, you begin to have a different
+[4698.24 --> 4702.02] attitude towards the way that you can treat it.
+[4702.02 --> 4706.92] And so I'm not sure that it was necessarily possible to easily bin things even a hundred
+[4706.92 --> 4707.42] years ago.
+[4707.54 --> 4708.26] I think people did.
+[4709.00 --> 4709.52] Yeah.
+[4710.62 --> 4711.40] You're right.
+[4711.40 --> 4711.90] Of course.
+[4712.26 --> 4713.74] I think, I think you're right.
+[4713.90 --> 4722.62] The problem is that alive, we have a, we have a terrible history of not using the category
+[4722.62 --> 4726.06] of alive to dictate proper, proper behavior.
+[4726.32 --> 4726.44] Right.
+[4726.46 --> 4731.60] So we, we farm animals and we, we do all kinds of horrible things.
+[4731.60 --> 4733.36] The things that we're pretty sure are alive.
+[4733.50 --> 4733.56] Right.
+[4733.78 --> 4738.56] So I think long before you get to worry about whether the mountain kind of ecosystem was
+[4738.56 --> 4743.38] alive, we've got questions about factory farming and, and what we do to each other and
+[4743.38 --> 4744.40] various kinds of things.
+[4744.46 --> 4744.54] Right.
+[4744.56 --> 4748.52] So, so I think alive doesn't really do the trick.
+[4748.62 --> 4749.60] In fact, I don't know what it does.
+[4749.72 --> 4753.46] I honestly don't know of any really great, useful things you can get out of the word alive.
+[4753.52 --> 4754.68] I mean, here's one thing.
+[4754.86 --> 4756.60] What about like large scale physics?
+[4756.60 --> 4760.78] You know, there's like the motion of, I mean, this might not actually be relevant to things
+[4760.78 --> 4764.34] on earth, but certainly a lot of people spend their careers trying to figure out why the
+[4764.34 --> 4767.48] heck the galaxies are rotating the way they are and things like that.
+[4767.72 --> 4773.90] And there's no consideration to intentionality in those processes because we don't consider
+[4773.90 --> 4774.66] them alive.
+[4776.96 --> 4777.66] Might matter?
+[4778.56 --> 4783.48] I think that the question of whether or not there's intentionality there has nothing to
+[4783.48 --> 4785.92] do with whether or not, or how alive it is.
+[4786.06 --> 4789.26] I think, I think there are plenty of things that have intentionality that you wouldn't
+[4789.26 --> 4790.20] say are alive.
+[4790.36 --> 4796.38] Maybe again, I don't know what saying that when you, when you say something is, or isn't
+[4796.38 --> 4798.74] alive, what does that allow you to then assume?
+[4799.04 --> 4800.84] Almost not as far as I can tell, almost not.
+[4800.92 --> 4806.06] I guess you could explain something without relying upon Newtonian physics or, you know, traditional
+[4806.88 --> 4809.14] momentum based calculations, right?
+[4809.24 --> 4813.96] You can be like, okay, well, the reason these things don't orbit the way that we thought
+[4813.96 --> 4817.00] they would is not because there's an invisible substance there or something.
+[4817.12 --> 4818.24] It's just because they don't want to.
+[4818.92 --> 4819.76] Something like that.
+[4820.84 --> 4821.72] That's a whole other.
+[4821.84 --> 4823.24] So, so that's not about being alive.
+[4823.40 --> 4826.68] That's about picking the right level of agency for any given system.
+[4827.02 --> 4832.08] And I will say, I have a whole story I can tell about that, but, but basically I think
+[4832.66 --> 4837.98] I, I, the, the interesting thing is that I don't think you can, much like with almost
+[4837.98 --> 4841.74] anything else, I don't think you can sit back in your armchair and make decisions on
+[4841.74 --> 4843.00] what's agential and what's not.
+[4843.06 --> 4844.06] You've got to do experiments.
+[4844.42 --> 4850.30] So, so for, I'll just give you a simple example, um, gene regulatory networks, right?
+[4850.38 --> 4853.16] The little, little pathway arrow models that people build all the time.
+[4853.30 --> 4856.50] They're like, uh, the paradigm example of determinism.
+[4856.64 --> 4857.50] There's, there's no magic.
+[4857.66 --> 4858.70] There's no weird forces.
+[4858.70 --> 4861.78] You know, what all the genes are, you know, what, what, you know, you know, and, and,
+[4861.88 --> 4865.52] and people treat them as, as, as, you know, kind of deterministic systems and they work
+[4865.52 --> 4866.40] because there's a law.
+[4866.48 --> 4868.46] It may not be Newtonian, but whatever it is.
+[4868.84 --> 4874.28] Um, and then, and then a bunch of people, a few, a few groups and in our lab as well
+[4874.28 --> 4876.00] show that actually they can learn.
+[4876.16 --> 4878.60] They have, they have including associative learning, right?
+[4878.70 --> 4881.62] So they have a tiny little bit of agency.
+[4881.76 --> 4885.86] I mean, it's tiny, it's nano, but they can learn, which means that in your relationship to
+[4885.86 --> 4888.60] them, you don't just push things around at the hardware level.
+[4888.60 --> 4890.00] You can train them with experience.
+[4890.24 --> 4891.36] What does that mean that they learn?
+[4891.88 --> 4896.92] Meaning that their future behavior is, is, um, uh, altered by their past experiences.
+[4897.12 --> 4899.24] I'll give you a simple example of associative learning.
+[4899.88 --> 4902.98] You have a, you have a pathway gene regulatory network.
+[4903.16 --> 4906.52] You have a drug that causes a particular outcome, right?
+[4907.00 --> 4910.82] And what you can do is you can take, and then you have another drug that targets another
+[4910.82 --> 4912.98] part of the network that doesn't cause that outcome, right?
+[4912.98 --> 4917.66] If you present them together long enough over a few iterations, eventually you can just,
+[4917.72 --> 4920.20] you can just provide the second one and you'll get the same outcome.
+[4920.34 --> 4921.12] It's Pavlov's dog.
+[4921.26 --> 4921.66] It's right.
+[4921.72 --> 4923.92] It's the bell, you know, it's the bell and the, and the meat, right?
+[4924.14 --> 4928.28] Because, because the system has that bit of memory that's able to associate past stimuli,
+[4928.76 --> 4931.40] remember them and act upon them in the, in the future.
+[4931.62 --> 4935.40] Now, nobody would have said that sitting back in their arms or nobody would have said that,
+[4935.46 --> 4937.82] gee, no, I think, I think pathways could be agential.
+[4937.94 --> 4938.50] Nobody would have said that.
+[4938.50 --> 4939.34] You have to do experiments.
+[4939.54 --> 4944.56] And so when you talk about the galaxies, okay, I have no reason to think that this is true.
+[4944.92 --> 4949.64] However, this is something that I was actually, last year, I was, I was, I was driving a couple
+[4949.64 --> 4955.22] of astronomers crazy trying to say, could we, could we, could we design a, a galactic scale
+[4955.22 --> 4960.82] system of synapses working in gravitational space such that, such that passages of, of masses
+[4960.82 --> 4963.36] would, would, would deflect certain things that would hold state.
+[4963.50 --> 4964.10] They would have memories.
+[4964.32 --> 4968.42] Could we make, could we make a giant synapse, like a, you know, a solar system size synapse
+[4968.42 --> 4972.54] and if we did, and if we, and, and, and there was something like that, would we know, could
+[4972.54 --> 4973.68] we tell that from the inside?
+[4973.94 --> 4979.06] In other words, to me, all of this is an, it's, it's a, these are all open questions
+[4979.06 --> 4981.78] to be settled by experiment and you can do experiments.
+[4982.00 --> 4983.40] How, how do you do experiments on this?
+[4983.86 --> 4990.42] If you think about the, the, I call this in the paper that just went up on the archive
+[4990.42 --> 4994.28] yesterday, I call it the, the continuum of persuadability.
+[4994.28 --> 4995.94] The question is, how do you relate?
+[4996.02 --> 4997.16] And this is exactly what you just said.
+[4997.28 --> 4998.68] How do you relate to the system?
+[4998.84 --> 5004.36] So, so just imagine this, this continuum on the left side, you have, you have boring mechanisms
+[5004.36 --> 5005.88] like mechanical clocks, right?
+[5006.30 --> 5010.72] If, if that's what you're dealing with, then, then you're not going to convince it of anything.
+[5010.84 --> 5011.70] You're not going to punish it.
+[5011.80 --> 5012.76] You're not going to train it.
+[5012.92 --> 5014.54] You just have to rewire the hardware.
+[5014.62 --> 5016.30] That is your only way you're going to relate to this thing.
+[5016.68 --> 5019.12] Then you, then you, you go a little further on the continuum.
+[5019.26 --> 5020.88] You have an interesting system, like a thermostat.
+[5021.84 --> 5023.22] Now that thing is interesting.
+[5023.22 --> 5024.72] You're still not going to convince it of anything.
+[5024.88 --> 5027.42] You're not going to punish it, but it has a set point.
+[5027.92 --> 5031.74] And what you, what you can do is you can alter the set point and get the whole system to do
+[5031.74 --> 5032.24] something different.
+[5032.44 --> 5033.86] You don't even need to know how it works really.
+[5034.00 --> 5037.58] All you need to know that it is in fact a thermostat and you need to know how to read
+[5037.58 --> 5038.40] and write the set point.
+[5038.48 --> 5039.98] You need to know how to, how to change the set point.
+[5040.14 --> 5043.48] And then, so that's a completely different way of interacting with a system because it's
+[5043.48 --> 5044.66] a goal directed system.
+[5044.78 --> 5047.54] You change the goals and you let the system do what it does best.
+[5047.64 --> 5048.34] You don't rewire it.
+[5048.38 --> 5051.26] You just change the goals, go a little further and you've got a rat.
+[5051.26 --> 5055.74] And now that system has preferences and it has, it's, it's able to learn from rewards
+[5055.74 --> 5056.32] and punishments.
+[5056.54 --> 5059.98] Now you don't need to know how it stores the set points.
+[5060.04 --> 5063.08] You don't need to rewire it mechanically.
+[5063.24 --> 5067.94] You can get it to do circus tricks and all kinds of complex behaviors with rewards and
+[5067.94 --> 5068.34] punishments.
+[5068.50 --> 5071.90] This is why humans have been training animals for thousands of years without knowing any
+[5071.90 --> 5072.38] neuroscience.
+[5072.82 --> 5073.78] Why can you do that?
+[5073.86 --> 5075.40] Because you don't need to know the neuroscience.
+[5075.40 --> 5080.62] You, you, you, you can relate to it from the level of motivation, not from the level
+[5080.62 --> 5082.74] of micromanagement and not the level of set points.
+[5082.84 --> 5082.90] Right.
+[5083.14 --> 5087.06] And then you go further still, and now you've got a rational human and now you don't need
+[5087.06 --> 5088.34] even need to do any of that.
+[5088.44 --> 5090.88] You can give them a logical argument, right?
+[5091.04 --> 5094.02] A teeny weeny sort of amount of energy spent.
+[5094.18 --> 5096.16] You just say, Hey, did you know that X, Y, Z?
+[5096.34 --> 5098.16] And now you're completely hands-off.
+[5098.30 --> 5099.22] You're relying on that system.
+[5099.30 --> 5100.10] Oh my God, you're right.
+[5100.18 --> 5103.78] Well, that means I got, I got to, you know, I got to, you know, work towards world peace or whatever
+[5103.78 --> 5107.86] you're going to do, you can launch this like massive effort on the part of the system.
+[5108.16 --> 5109.20] You're not micromanaging it.
+[5109.30 --> 5111.76] You're not, you don't know how it sets its, you know, set points.
+[5111.80 --> 5112.92] You're not rewarding it directly.
+[5113.12 --> 5115.04] You're communicating logic to it.
+[5115.08 --> 5115.16] Right.
+[5115.40 --> 5118.66] So all along here, you have different kinds of systems.
+[5118.68 --> 5123.16] Now when you, when you say, uh, the galaxy spinning, where are they along this thing?
+[5123.52 --> 5129.00] I don't know, but I also think it's, uh, not a great idea to just pick a spot and say,
+[5129.12 --> 5131.22] I'm sure it's there, you know, problem solved.
+[5132.12 --> 5136.56] All of these things are empirical questions and, and let's just see, they're not, they're
+[5136.56 --> 5137.84] not, uh, it's not magic.
+[5138.08 --> 5138.98] It's not philosophy.
+[5139.20 --> 5139.94] It's, it's science.
+[5140.10 --> 5142.14] Let's, let's see what is the best system.
+[5142.54 --> 5148.14] Um, I know we've taken a lot of your time already.
+[5148.36 --> 5153.14] There's one last thing I really wanted to ask you about, um, which you, you have, I'm going
+[5153.14 --> 5154.84] to just read a little quote from this paper.
+[5154.90 --> 5156.42] This is the paper you did in Aeon.
+[5156.42 --> 5161.32] Uh, is it the magazine, the journal is called Aeon, I believe with, uh, Dan Dennett.
+[5161.70 --> 5163.90] And you say, I'm going to just read this sentence.
+[5164.06 --> 5169.08] Thanks to Charles Darwin, biology doesn't ever have to invoke quote, intelligent, an intelligent
+[5169.08 --> 5171.58] designer who created all of those mechanisms.
+[5172.22 --> 5177.28] Evolution by natural selection has done and is still doing all that refining and focusing
+[5177.28 --> 5178.30] and differentiating work.
+[5178.30 --> 5184.50] Like when you, when you make evolution an actor, do you think that you're really moving
+[5184.50 --> 5190.28] away from the idea of an intelligent designer in that you have a conceptual actor?
+[5190.48 --> 5193.34] That's not actually a physical entity that's doing.
+[5195.08 --> 5197.02] Yeah, I think that's, that's a great point.
+[5197.12 --> 5199.04] So, so here's what I think we're, we're doing there.
+[5199.04 --> 5206.26] What I think we're doing is saying that a designer is not really what you think it is.
+[5206.44 --> 5211.78] It's, it's, you can, you can be, you don't need to be, uh, an engineer with a pencil behind
+[5211.78 --> 5212.24] your ear.
+[5212.48 --> 5218.02] That's able to envision all the different things that could happen and, and work towards them.
+[5218.24 --> 5220.60] That's a kind of designer and that's great.
+[5220.84 --> 5227.46] There are other much more, um, miniature, you know, sort of much more humble versions of that,
+[5227.46 --> 5232.66] that also produce amazing, amazing pieces of engineering and novelty and, and creativity.
+[5234.26 --> 5239.30] And when we say that's not a designer, um, ultimately, I mean, this was a, look, this
+[5239.30 --> 5242.16] was a short piece, you know, we can, we can go into all this stuff here.
+[5242.24 --> 5245.46] And actually, I don't even know, um, you know, if, if Dan would, would agree with everything
+[5245.46 --> 5247.38] I'm saying here, but I'm just going to tell you what I think.
+[5247.72 --> 5254.06] I think that evolution is not nearly as, uh, as, as dumb and short-sighted as people say
+[5254.06 --> 5259.04] it is for a couple of interesting reasons, but I also think it is not so far on the right
+[5259.04 --> 5264.74] of that scale where, where you could say it has specific, um, you know, sort of second
+[5264.74 --> 5268.18] order goals and it knows where it's going and it's not that kind of designer, but, but
+[5268.18 --> 5272.48] being, I, again, I don't like this idea of designer being a binary term.
+[5272.74 --> 5274.78] I, I, there's almost no binary terms that I like.
+[5274.78 --> 5277.90] And, and I think that being a designer is a matter of degree.
+[5277.98 --> 5282.74] And I think evolution is kind of a, a small one still, still quite impressive actually.
+[5283.02 --> 5287.82] Um, but, but, but it's not the kind of designer that you would want from a human or, you know,
+[5287.88 --> 5288.84] or God or, or whatever.
+[5288.92 --> 5294.12] It's not that kind of designer, but it is still a non-physical actor.
+[5295.82 --> 5297.24] It's a, it's a process.
+[5297.46 --> 5298.46] I mean, what's a physical actor.
+[5298.60 --> 5298.80] I don't know.
+[5298.90 --> 5300.60] We're not physical actors either, right?
+[5300.60 --> 5305.64] We're, we're sort of metastable whirlpools of the energy moving through, you know, a
+[5305.64 --> 5306.40] particular construct.
+[5306.56 --> 5308.56] Like what's, what's, what's really a physical actor.
+[5308.66 --> 5308.90] I don't know.
+[5309.26 --> 5311.16] It's a sledgehammer, I guess.
+[5311.32 --> 5315.56] I mean, I think that, I think that evolution is a physical actor to some degree because
+[5315.56 --> 5323.20] you have these axiomatic principles as to how molecules interact and the outcome of those
+[5323.20 --> 5323.84] interactions.
+[5324.14 --> 5325.28] Evolution is an idea.
+[5325.28 --> 5332.84] But evolution is also a process, which is, which is emergent from cells living, doing,
+[5333.26 --> 5335.62] getting eaten versus not getting eaten, right?
+[5335.82 --> 5336.28] So I mean, it's like.
+[5336.30 --> 5338.70] Certainly the cells are doing something, but just, yeah.
+[5338.82 --> 5345.98] I mean, yeah, I think, I think it's important to, to, um, to keep in mind that evolution
+[5346.58 --> 5347.98] is, is much deeper.
+[5348.22 --> 5350.34] Evolution doesn't have anything to do with cells really, right?
+[5350.34 --> 5355.12] Evolution, you can do, you can do evolution in, in an afternoon on a, on a, with, with
+[5355.12 --> 5359.34] algorithms, uh, you, you know, that hasn't, that have nothing to do with cells.
+[5359.54 --> 5363.92] And what, what's, what's cool about, I mean, the evolution that cells do is interesting for
+[5363.92 --> 5368.10] other reasons, but the core properties of evolution, this idea that you can do this, this
+[5368.10 --> 5369.40] all, all you need is three things.
+[5369.40 --> 5372.08] You need, you need some kind of heredity, right?
+[5372.20 --> 5377.10] You need, you need, um, you need a limited resources and you need your heredity not to be
+[5377.10 --> 5377.46] perfect.
+[5377.46 --> 5378.64] So that sometimes make mistakes.
+[5378.74 --> 5378.98] That's it.
+[5378.98 --> 5380.08] Those are the three things.
+[5380.24 --> 5383.80] And, and what are the three things that that applies to can be anything it can be, it can
+[5383.80 --> 5386.62] be, um, you know, it can be, it can be concepts in your head.
+[5386.78 --> 5389.16] It can be, uh, engineered artifacts.
+[5389.34 --> 5389.84] It could be cells.
+[5390.04 --> 5396.08] It's a very generic kind of system and it has all kinds of interesting properties that we
+[5396.08 --> 5399.60] don't, uh, that we, that we can't anticipate, you know, in advance.
+[5399.78 --> 5406.00] And, and by the way, when you think of an actual designer, um, we don't have any idea
+[5406.00 --> 5408.96] what's so, so, so we know how in, in science, we know how to take the
+[5408.96 --> 5412.36] take something and say, don't worry, folks, there's no designer here.
+[5412.46 --> 5413.18] Here's how it works.
+[5413.28 --> 5413.72] The revolution.
+[5414.32 --> 5415.42] Let's go the other direction.
+[5415.58 --> 5418.18] Let's take an example of a designer that is non-controversial.
+[5418.26 --> 5418.90] Here's our engineer.
+[5419.08 --> 5419.14] Right.
+[5419.14 --> 5422.32] And she's sitting there with, you know, the pencil behind her ear and designing something.
+[5422.70 --> 5425.08] We say, okay, what is going on in that case?
+[5425.36 --> 5427.92] That's magical and different from this other case.
+[5428.10 --> 5430.40] I mean, what's happening in there?
+[5430.50 --> 5432.32] I mean, kind of running through some options, right.
+[5432.44 --> 5433.90] And saying, okay, these are all trash.
+[5433.90 --> 5435.10] I'm going to focus on these four.
+[5435.22 --> 5436.44] And I kind of like this one.
+[5436.50 --> 5436.78] This might.
+[5437.64 --> 5441.32] How, how, how much different does that sound than this other, than this other system?
+[5441.50 --> 5444.52] Like, I guess just because it's not embodied, right.
+[5444.62 --> 5449.70] I guess it's like, it's sort of this disembodied actor, which is very, it's just, it just seems
+[5449.70 --> 5452.82] like often to me, like, it's not that far off from a deity.
+[5453.08 --> 5459.50] Like, if you have this disembodied actor called evolution, that's doing stuff, like the fact
+[5459.50 --> 5463.96] that it has the verb do, like it isn't, you know what I'm saying?
+[5463.96 --> 5467.58] And I don't know, I know, I know what you mean, but, but, but here's, here's the thing.
+[5467.68 --> 5471.12] I think it only seems disembodied because we're looking at the wrong scale.
+[5471.22 --> 5473.10] So we are at our scale.
+[5473.40 --> 5476.38] We're, we're teeny tiny beings, both in space and time.
+[5476.68 --> 5480.20] And when we say, how, where is all this cool stuff happening?
+[5480.58 --> 5485.56] Evolution is a, is it in fact a lineage, you know, 50,000 years of alligators or whatever,
+[5485.64 --> 5486.52] about 50 million years.
+[5487.50 --> 5489.34] That is an individual, right?
+[5489.46 --> 5490.74] It's a, it's a massive individual.
+[5490.92 --> 5491.60] We don't see it.
+[5491.60 --> 5496.22] Every, every genome is a hypothesis made in the mind of that individual about what the
+[5496.22 --> 5498.24] outside world is like, those hypotheses.
+[5498.44 --> 5503.86] And this is, you know, from Carl Fristen's work on, on a hypothesis testing in the brain.
+[5504.76 --> 5507.10] Every, every, each one of those hypotheses gets tested.
+[5507.34 --> 5509.04] Many of them die because they're no good.
+[5509.16 --> 5511.48] The good ones, you know, sort of go, go forth.
+[5511.76 --> 5513.22] We're just looking at the wrong scale.
+[5513.36 --> 5518.24] If you, if you back off and look at a whole evolving lineage over a massive, you know, time
+[5518.24 --> 5522.48] and spatial scale, then it's very embodied and you can point to all the things you're
+[5522.48 --> 5522.78] used to.
+[5522.88 --> 5524.90] You can say, here's where the computation happens.
+[5525.12 --> 5527.20] Here's where the hypotheses are formed.
+[5527.30 --> 5529.48] Here's where the hypotheses are tested against the world.
+[5529.62 --> 5534.90] It looks exactly like the modern pictures of the brain with active inference and everything
+[5534.90 --> 5535.12] else.
+[5535.60 --> 5539.70] So I just, you know, at a different scale, things look different.
+[5539.70 --> 5544.56] And so maybe there's more, a more appropriate, more physical term for that meta actor that
+[5544.56 --> 5546.38] we just haven't really stumbled upon right now.
+[5546.56 --> 5549.08] And so we're referring to the process as the actor in the meantime.
+[5550.46 --> 5556.42] I think actor, like all these other terms, actor is a fine term, as long as we understand
+[5556.42 --> 5558.56] that it's, it's a continuum.
+[5558.64 --> 5563.06] So when I say actor, you say, no, no, do you mean a tiny little actor?
+[5563.22 --> 5566.54] Or do you mean like a human level actor or something in between or something post-human?
+[5566.66 --> 5567.68] Like what kind of actor?
+[5567.68 --> 5572.46] Or all of these questions need to be specified with what kind and how much, right?
+[5573.00 --> 5576.28] That's, that's, you know, that, that's my main message is that the binary never helps
+[5576.28 --> 5576.54] us out.
+[5576.64 --> 5580.14] The binary just makes all kinds of pseudo problems that you can argue over endlessly.
+[5580.40 --> 5582.40] And I feel like the scale is part of the context.
+[5582.40 --> 5587.70] And I think that's what I was kind of trying to get at earlier, but man, it's been a real
+[5587.70 --> 5588.78] privilege to talk to you today.
+[5589.42 --> 5593.10] I feel like we have probably taken enough of your time for one slot.
+[5593.96 --> 5596.00] Maybe you have other things you'd like to do with your evening.
+[5596.00 --> 5599.02] We would love to catch up with you down the road after you've done some more work.
+[5599.02 --> 5599.04] Sure.
+[5599.14 --> 5599.76] Very much so, yeah.
+[5600.18 --> 5600.34] Yeah.
+[5600.44 --> 5600.92] Thank you so much.
+[5600.92 --> 5600.98] Yeah.
+[5601.10 --> 5601.58] I would be happy to.
+[5601.66 --> 5602.08] No, thank you.
+[5602.16 --> 5602.72] Thank you so much.
+[5602.88 --> 5604.06] This was a very fun conversation.
+[5604.30 --> 5605.22] Great, great questions.
+[5605.90 --> 5606.18] Yeah.
+[5606.24 --> 5607.72] I'd be happy to, happy to come back anytime.
+[5608.08 --> 5608.34] Awesome.
+[5608.92 --> 5611.78] And everybody, happy new year's and we'll see you guys next time.
+[5612.98 --> 5613.18] All right.
+[5613.54 --> 5613.98] Take it easy.
+[5614.26 --> 5614.34] Bye.
+[5614.40 --> 5614.50] Bye.
+[5614.56 --> 5614.80] Thank you.
+[5615.06 --> 5615.30] Thank you.
+[5615.68 --> 5615.82] Thank you.
+[5615.82 --> 5616.32] Bye.
+[5616.32 --> 5616.52] Bye.
