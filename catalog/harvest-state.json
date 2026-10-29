@@ -41,6 +41,12 @@
     "sha256": "8614943056597c37d7ad462d520f386f33ab8670429f74e4f316bbfa8e80bb6e",
     "status": "fetched"
   },
+  "https://anchor.fm/s/105e5b1a8/podcast/rss": {
+    "bytes": 157834,
+    "checked_at": "2026-10-29T22:16:21.263720+00:00",
+    "sha256": "167e8eb7b6664b468616257a50c48014e41727783f8efc02ff6b809307b4ad9c",
+    "status": "fetched"
+  },
   "https://anchor.fm/s/10eefcc34/podcast/rss": {
     "bytes": 153860,
     "checked_at": "2026-10-29T16:05:59.620623+00:00",
@@ -65,6 +71,12 @@
     "cache_hit": true,
     "checked_at": "2026-10-29T10:54:58.301136+00:00",
     "sha256": "f4ab1d088d054e9f8d086d52d4f66fda582fb426089eb4c006b239b391d51619",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/32c5a990/podcast/rss": {
+    "bytes": 216445,
+    "checked_at": "2026-10-29T22:16:31.748041+00:00",
+    "sha256": "a74d7cbe401b84823d033b9f1614cc2696e5ca983c5b71fbe5ed3f6707ac06bb",
     "status": "fetched"
   },
   "https://anchor.fm/s/33d158e8/podcast/rss": {
@@ -103,6 +115,12 @@
     "sha256": "0bbcf5119e55993af224871e6b6d9d8387506186805b7d85d896297edc23591d",
     "status": "fetched"
   },
+  "https://anchor.fm/s/54a80ee0/podcast/rss": {
+    "bytes": 277567,
+    "checked_at": "2026-10-29T22:16:27.727669+00:00",
+    "sha256": "21fc6d9aea985b10453b4c73a5a29001c76a3a89a444e85d768a2b0d754a36b5",
+    "status": "fetched"
+  },
   "https://anchor.fm/s/56c24e48/podcast/rss": {
     "bytes": 504540,
     "checked_at": "2026-10-29T11:24:46.430979+00:00",
@@ -113,6 +131,12 @@
     "bytes": 223334,
     "checked_at": "2026-10-29T11:29:07.931109+00:00",
     "sha256": "bce7114df170da09dc85464d91ebc90c907433c84d16e043b3962c801c9fffad",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/62565b28/podcast/rss": {
+    "bytes": 183699,
+    "checked_at": "2026-10-29T22:16:34.249758+00:00",
+    "sha256": "54b944c659402940d4dc67c2f08e3fc37f9ea875d8c91be8d775739382a94eac",
     "status": "fetched"
   },
   "https://anchor.fm/s/62cbf1e4/podcast/rss": {
@@ -224,6 +248,18 @@
     "sha256": "2819b1715fc4efb83dbe5ee8f3938253485b0f9f747bfbdd935616d277af3273",
     "status": "fetched"
   },
+  "https://api.substack.com/feed/podcast/2639694.rss": {
+    "bytes": 1874096,
+    "checked_at": "2026-10-29T22:16:33.094809+00:00",
+    "sha256": "84e76ac1c8452f36567acfcdece2da9e90bc0b445dfd51db66d0897ef88c4240",
+    "status": "fetched"
+  },
+  "https://api.substack.com/feed/podcast/265424/s/1354.rss": {
+    "bytes": 704833,
+    "checked_at": "2026-10-29T22:16:11.988780+00:00",
+    "sha256": "1362d3dd6f55d3f4ffa39528051bad65d7dcae114abba044ef324e02fa933457",
+    "status": "fetched"
+  },
   "https://api.substack.com/feed/podcast/559409.rss": {
     "bytes": 372358,
     "checked_at": "2026-10-29T16:06:31.776985+00:00",
@@ -240,6 +276,12 @@
     "bytes": 129674,
     "checked_at": "2026-10-29T11:35:15.932362+00:00",
     "sha256": "ffcdcf9ca8705bbd82fa32d0efea6c405a88371b8374a20f4b483631af8b8ac0",
+    "status": "fetched"
+  },
+  "https://bravenewpodcast.libsyn.com/rss": {
+    "bytes": 1121733,
+    "checked_at": "2026-10-29T22:16:26.340598+00:00",
+    "sha256": "c35755389e17d77bf833cfdd6b6bea1a9b63a956011f31eca961c00820451704",
     "status": "fetched"
   },
   "https://changingacademiclife.captivate.fm/episode/mike-levin-cal145-s8-e10": {
@@ -270,6 +312,12 @@
     "bytes": 79625,
     "checked_at": "2026-10-29T10:07:07.617956+00:00",
     "sha256": "001a1bc09c1eb4b834462570e7c55bac8c3d914fee7f215215e0add6179a23f2",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/awonderjunkie/feed.xml": {
+    "bytes": 2383070,
+    "checked_at": "2026-10-29T22:16:20.224250+00:00",
+    "sha256": "2530d5acdef88e3e3c49378157d6e9aa65feede39f2e0c1703caa24ea09266be",
     "status": "fetched"
   },
   "https://feed.podbean.com/escapedsapiens/feed.xml": {
@@ -359,6 +407,12 @@
     "sha256": "e81a7fdcffb717ce87ed04670a4d726224f9e56ba02c2567eeeead4e9739580c",
     "status": "fetched"
   },
+  "https://feeds.simplecast.com/ROc3dwtu": {
+    "bytes": 14152403,
+    "checked_at": "2026-10-29T22:16:03.528862+00:00",
+    "sha256": "9477ef57557fe3c85b9c9fbad41a50526f143e965e4ae4ccefd0dd40730edb59",
+    "status": "fetched"
+  },
   "https://feeds.soundcloud.com/users/soundcloud:users:5046583/sounds.rss": {
     "bytes": 1305106,
     "checked_at": "2026-10-29T16:06:41.228016+00:00",
@@ -394,6 +448,12 @@
     "cache_hit": true,
     "checked_at": "2026-10-29T09:38:29.153402+00:00",
     "sha256": "d5596e1fe7513bba020a30d5c44e39336d94003bf95ba378d439794a0a35be80",
+    "status": "fetched"
+  },
+  "https://feeds.zencastr.com/f/-pKdUSdt.rss": {
+    "bytes": 337019,
+    "checked_at": "2026-10-29T22:16:10.277191+00:00",
+    "sha256": "44ede4e0897a919e28d8fe62fff796ab33d56e6fb62cb23b05f0e394059616f2",
     "status": "fetched"
   },
   "https://go.ted.com/michaellevin": {
@@ -540,10 +600,34 @@
     "sha256": "d3cc0efbf408450be25f9bd0924a187be31ab5b89f923e179a863a6e10f68ece",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+consciousness&entity=podcastEpisode&limit=200": {
+    "bytes": 274932,
+    "checked_at": "2026-10-29T22:15:06.222556+00:00",
+    "sha256": "60da9da9069fd8040d1dfcc5f73f4d1bd0fdd9596384255ec97103918c180cce",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+intelligence&entity=podcastEpisode&limit=200": {
+    "bytes": 321358,
+    "checked_at": "2026-10-29T22:15:10.449637+00:00",
+    "sha256": "0b48d78dc019ae406d8fd5535407faf76f5a0be0c7550c3523877099f4e33188",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+interview&entity=podcastEpisode&limit=200": {
+    "bytes": 273618,
+    "checked_at": "2026-10-29T22:15:02.066781+00:00",
+    "sha256": "8fbb5a4c57de38ea7bb719a48491538314a63c97a706d8ce1d590b4d24b4c3e9",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+morphogenesis&entity=podcastEpisode&limit=200": {
     "bytes": 301825,
     "checked_at": "2026-10-29T16:04:14.708976+00:00",
     "sha256": "39d21f51f7d222a0d93e6fadad81f50f680c2900b5047e1c0e8c1899d33b9ee5",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+philosophy&entity=podcastEpisode&limit=200": {
+    "bytes": 312537,
+    "checked_at": "2026-10-29T22:15:14.708306+00:00",
+    "sha256": "dfb14069d56b16e4bed7ae5c0b5af473a969795f289816be2f221d6c505b9b61",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+regeneration&entity=podcastEpisode&limit=200": {
@@ -679,6 +763,12 @@
     "sha256": "f3b1f29c8d28183b3c3b065d6a8d23a7a9dae827f5981acd1962c4c1df0b0d6b",
     "status": "fetched"
   },
+  "https://media.rss.com/sciencesociety/feed.xml": {
+    "bytes": 727933,
+    "checked_at": "2026-10-29T22:16:36.661028+00:00",
+    "sha256": "9e31694e4fdfe80193b0c298bec7296d412272e4d2630e17fad0df7374e27a04",
+    "status": "fetched"
+  },
   "https://media.rss.com/themeaningcode/feed.xml": {
     "bytes": 408859,
     "checked_at": "2026-10-29T11:25:17.301935+00:00",
@@ -800,6 +890,12 @@
     "bytes": 432870,
     "checked_at": "2026-10-29T11:24:42.258770+00:00",
     "sha256": "cfd2d5638cc296da8e1cc38f379d08151662f1c725623b0f43bc9252e1cc572e",
+    "status": "fetched"
+  },
+  "https://rss.libsyn.com/shows/276818/destinations/2119151.xml": {
+    "bytes": 883824,
+    "checked_at": "2026-10-29T22:16:30.558002+00:00",
+    "sha256": "352370cbe64ea05fef5e3ef8228bd7f8961817fcc4b922fc67f5608cf3ae86b1",
     "status": "fetched"
   },
   "https://rss.libsyn.com/shows/454677/destinations/3824325.xml": {
