@@ -23,8 +23,8 @@ The 34 unavailable panel checks mean the transcript control was not exposed in t
 
 ## Transcript files
 
-- `transcripts/permitted/uchicago-big-brains-2023-04-27.txt` � 79 paragraphs, approximately 4,836 words, captured from the publisher's transcript page.
-- `transcripts/permitted/uchicago-big-brains-2023-04-27.json` � paragraph-ordered text and source metadata.
+- `transcripts/permitted/uchicago-big-brains-2023-04-27.txt` — 79 paragraphs, approximately 4,836 words, captured from the publisher's transcript page.
+- `transcripts/permitted/uchicago-big-brains-2023-04-27.json` — paragraph-ordered text and source metadata.
 
 ## Existing summary and source links
 
