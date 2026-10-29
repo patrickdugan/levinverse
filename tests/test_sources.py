@@ -151,6 +151,20 @@ class SourceTests(unittest.TestCase):
             self.assertEqual([], read_jsonl(root / "catalog/audio-queue.jsonl"))
             self.assertEqual("participation_review_required", read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["status"])
 
+    def test_reviewed_episode_guid_allows_guest_not_named_in_title(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
+            feed = "https://example.org/rss"
+            item = {"show": "Example", "url": feed, "reviewed_episode_guids": {"episode-1": {"basis": "Publisher description names Levin as guest", "source_url": "https://example.org/episode"}}}
+            (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [item]}))
+            class Client:
+                def get(self, url):
+                    return b'<rss><channel><item><title>Cells and systems</title><guid>episode-1</guid><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
+            self.assertEqual(1, collect(root, Client())["audio_queued"])
+            self.assertEqual("Publisher description names Levin as guest", read_jsonl(root / "catalog/audio-queue.jsonl")[0]["relevance_evidence"])
+
     def test_fallback_uses_published_group_clock_not_guessed_element_ids(self):
         groups = ''.join(f'<div class="single-sentence"><span class="pod_timestamp_indicator">Starting point is 00:00:{i:02d}</span><span class="transcript-text" id="sentenceid_{i + 1}">Fixture text.</span></div>' for i in range(20))
         raw = ('<h1>#325 Michael Levin</h1><div class="podcast-transcript">' + groups + '</div>').encode()

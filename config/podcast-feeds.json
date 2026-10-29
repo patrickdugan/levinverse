@@ -561,6 +561,20 @@
       "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/michael-levin-agential-interventions/id1573395849?i=1000677903118&uo=4",
       "verification_basis": "Episode names Michael Levin and identifies his institution or distinctive research",
       "verified_at": "2026-10-29T16:04:15.523560+00:00"
+    },
+    {
+      "show": "The Other Animals",
+      "url": "https://anchor.fm/s/4432bb28/podcast/rss",
+      "directory_collection_id": 1552822937,
+      "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/xenobots/id1552822937?i=1000547945043&uo=4",
+      "verification_basis": "Publisher description explicitly names Michael Levin and Josh Bongard as participants in the Xenobots conversation.",
+      "verified_at": "2026-10-29T21:14:59.033386+00:00",
+      "reviewed_episode_guids": {
+        "59b61720-a846-413a-a306-c1f9c2bf8283": {
+          "source_url": "https://podcasts.apple.com/us/podcast/xenobots/id1552822937?i=1000547945043&uo=4",
+          "basis": "Publisher description names Michael Levin and Josh Bongard as participants in the conversation."
+        }
+      }
     }
   ],
   "discovery_basis": "Public Apple Podcasts directory lookup verified these show names, artists and publisher feed URLs on 2026-10-29."

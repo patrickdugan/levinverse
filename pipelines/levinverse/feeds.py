@@ -136,7 +136,8 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 continue
             explicitly_named = re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I)
             verified_title = any(term.casefold() in title.casefold() for term in feed.get("confirmed_title_contains", []))
-            if not explicitly_named and not verified_title:
+            reviewed_evidence = feed.get("reviewed_episode_guids", {}).get(item.findtext("guid") or "")
+            if not explicitly_named and not verified_title and not reviewed_evidence:
                 continue
             if limit is not None and result["captions_stored"] + result["audio_queued"] >= limit:
                 return result
@@ -195,7 +196,8 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                     raw_path = Path("transcripts/permitted") / (ident + ".srt")
                     (root / raw_path).parent.mkdir(parents=True, exist_ok=True)
                     (root / raw_path).write_bytes(raw)
-                    payload = {"source_url": source, "transcript_track_url": track.get("url"), "raw_transcript_path": raw_path.as_posix(), "source_kind": "platform_caption", "title": title, "publication_date": None, "video_ids": [video_id] if video_id else [], "segments": segments, "relevance_confirmed": True, "relevance_evidence": "publisher RSS identifies Michael Levin; configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin", "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred", "host": feed["show"], "language": track.get("language") or document.findtext("./channel/language"), "episode_guid": guid, "publisher_feed_url": feed["url"]}
+                    relevance_evidence = reviewed_evidence.get("basis") if reviewed_evidence else ("configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin")
+                    payload = {"source_url": source, "transcript_track_url": track.get("url"), "raw_transcript_path": raw_path.as_posix(), "source_kind": "platform_caption", "title": title, "publication_date": None, "video_ids": [video_id] if video_id else [], "segments": segments, "relevance_confirmed": True, "relevance_evidence": relevance_evidence, "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred", "host": feed["show"], "language": track.get("language") or document.findtext("./channel/language"), "episode_guid": guid, "publisher_feed_url": feed["url"]}
                     record = save_transcript(root, payload, authorization_basis(root))
                     stored = record["status"] == "stored"
                     event.update(status=record["status"], transcript_path=record.get("text_path"))
@@ -212,7 +214,8 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                     result["errors"] += 1
                 else:
                     previous = existing_jobs.get(ident, {})
-                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id, "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": "publisher RSS episode explicitly identifies Michael Levin", "publisher_feed_url": feed["url"], "episode_guid": guid}
+                    relevance_evidence = reviewed_evidence.get("basis") if reviewed_evidence else ("configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin")
+                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id, "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": relevance_evidence, "publisher_feed_url": feed["url"], "episode_guid": guid}
                     upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
                     event["status"] = "audio_queued"
                     result["audio_queued"] += int(not previous)
