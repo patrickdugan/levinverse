@@ -54,6 +54,9 @@ def generate_report(root: Path) -> str:
     publisher_pages = read_jsonl(root / "catalog/publisher-pages.jsonl")
     audio_jobs = read_jsonl(root / "catalog/audio-queue.jsonl")
     directory = read_jsonl(root / "catalog/podcast-directory.jsonl")
+    external_media = read_jsonl(root / "catalog/external-media.jsonl")
+    continuation_path = root / "config/continuation.json"
+    continuation = json.loads(continuation_path.read_text(encoding="utf-8")) if continuation_path.is_file() else {}
     status: dict[str, int] = {}
     role: dict[str, int] = {}
     for video in videos:
@@ -78,8 +81,10 @@ def generate_report(root: Path) -> str:
             continue
     coverage = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "scope": "Expanded official indexes and publisher sitemap; not a completeness claim",
+        "scope": "Official indexes, publisher transcripts/RSS and public-directory candidates; incomplete source-linked inventory",
         "cataloged_video_uploads": len(videos),
+        "external_platform_recordings": len(external_media),
+        "external_platform_recordings_with_captions": sum(r.get("status") == "captions_stored" for r in external_media),
         "provisional_appearance_records": len(appearances),
         "unique_appearance_count": None,
         "duplicate_video_id_rows_merged": None,
@@ -126,7 +131,9 @@ def generate_report(root: Path) -> str:
         "caption_storage_skipped_pending_rights_review": rights_skipped,
         "local_batch_worker_running": active_worker(root),
         "persistent_worker_running": False,
-        "scheduled_continuation_status": "not_configured",
+        "scheduled_continuation_status": continuation.get("last_verified_status", "not_configured"),
+        "scheduled_continuation_automation_id": continuation.get("automation_id"),
+        "scheduled_continuation_last_verified_at": continuation.get("verified_at"),
     }
     (root / "reports").mkdir(parents=True, exist_ok=True)
     backlog = []
