@@ -1,0 +1,1330 @@
+{
+  "media": "media/permitted/rss-fbcd3ae1d56765fa.mp3",
+  "source_url": "https://soundcloud.com/ieeeras-softrobotics/michael-levin-on-collective-intelligence-of-morphogenesis",
+  "permission_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "media_sha256": "a16f1b290ddb14e28bb7286a11a2dcb96567937d2890805a25551ad0d80e1dc6",
+  "audio_url": "https://pdcn.co/e/http://feeds.soundcloud.com/stream/1531788376-ieeeras-softrobotics-michael-levin-on-collective-intelligence-of-morphogenesis.mp3",
+  "model": "turbo",
+  "device": "cuda",
+  "compute_type": "float16",
+  "batch_size": 8,
+  "runtime_versions": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.4",
+    "av": "18.1.0"
+  },
+  "language": "en",
+  "duration_seconds": 72.125,
+  "created_at": "2026-10-29T15:05:35.289451+00:00",
+  "speaker_diarization": "not_performed",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 26.16,
+      "text": "We can do better than this. We can we can do better than chance and necessity. And so and I think we have to. And so what I envision is that if we truly crack the problem of collective intelligence of morphogenesis, meaning that if we really understood how to communicate goals to cells, such as, you know, you're going to build a heart, you're going to build a limb, you're going to build. If we really crack that problem, we would be able to build whatever you want.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.12,
+          "text": " We"
+        },
+        {
+          "start": 0.12,
+          "end": 0.24,
+          "text": " can"
+        },
+        {
+          "start": 0.24,
+          "end": 0.36,
+          "text": " do"
+        },
+        {
+          "start": 0.36,
+          "end": 0.58,
+          "text": " better"
+        },
+        {
+          "start": 0.58,
+          "end": 0.76,
+          "text": " than"
+        },
+        {
+          "start": 0.76,
+          "end": 0.9,
+          "text": " this."
+        },
+        {
+          "start": 0.98,
+          "end": 1.04,
+          "text": " We"
+        },
+        {
+          "start": 1.04,
+          "end": 1.18,
+          "text": " can"
+        },
+        {
+          "start": 1.18,
+          "end": 1.3,
+          "text": " we"
+        },
+        {
+          "start": 1.3,
+          "end": 1.48,
+          "text": " can"
+        },
+        {
+          "start": 1.48,
+          "end": 1.6,
+          "text": " do"
+        },
+        {
+          "start": 1.6,
+          "end": 1.84,
+          "text": " better"
+        },
+        {
+          "start": 1.84,
+          "end": 2.02,
+          "text": " than"
+        },
+        {
+          "start": 2.02,
+          "end": 2.3,
+          "text": " chance"
+        },
+        {
+          "start": 2.3,
+          "end": 2.44,
+          "text": " and"
+        },
+        {
+          "start": 2.44,
+          "end": 2.8,
+          "text": " necessity."
+        },
+        {
+          "start": 2.96,
+          "end": 3.02,
+          "text": " And"
+        },
+        {
+          "start": 3.02,
+          "end": 3.18,
+          "text": " so"
+        },
+        {
+          "start": 3.18,
+          "end": 3.9,
+          "text": " and"
+        },
+        {
+          "start": 3.9,
+          "end": 4.0,
+          "text": " I"
+        },
+        {
+          "start": 4.0,
+          "end": 4.1,
+          "text": " think"
+        },
+        {
+          "start": 4.1,
+          "end": 4.24,
+          "text": " we"
+        },
+        {
+          "start": 4.24,
+          "end": 4.44,
+          "text": " have"
+        },
+        {
+          "start": 4.44,
+          "end": 4.58,
+          "text": " to."
+        },
+        {
+          "start": 4.68,
+          "end": 4.74,
+          "text": " And"
+        },
+        {
+          "start": 4.74,
+          "end": 5.0,
+          "text": " so"
+        },
+        {
+          "start": 5.0,
+          "end": 5.84,
+          "text": " what"
+        },
+        {
+          "start": 5.84,
+          "end": 5.98,
+          "text": " I"
+        },
+        {
+          "start": 5.98,
+          "end": 6.42,
+          "text": " envision"
+        },
+        {
+          "start": 6.42,
+          "end": 6.78,
+          "text": " is"
+        },
+        {
+          "start": 6.78,
+          "end": 6.94,
+          "text": " that"
+        },
+        {
+          "start": 6.94,
+          "end": 7.08,
+          "text": " if"
+        },
+        {
+          "start": 7.08,
+          "end": 7.2,
+          "text": " we"
+        },
+        {
+          "start": 7.2,
+          "end": 7.6,
+          "text": " truly"
+        },
+        {
+          "start": 7.6,
+          "end": 8.06,
+          "text": " crack"
+        },
+        {
+          "start": 8.06,
+          "end": 8.66,
+          "text": " the"
+        },
+        {
+          "start": 8.66,
+          "end": 9.1,
+          "text": " problem"
+        },
+        {
+          "start": 9.1,
+          "end": 9.64,
+          "text": " of"
+        },
+        {
+          "start": 9.64,
+          "end": 10.66,
+          "text": " collective"
+        },
+        {
+          "start": 10.66,
+          "end": 11.62,
+          "text": " intelligence"
+        },
+        {
+          "start": 11.62,
+          "end": 11.88,
+          "text": " of"
+        },
+        {
+          "start": 11.88,
+          "end": 12.52,
+          "text": " morphogenesis,"
+        },
+        {
+          "start": 12.74,
+          "end": 12.86,
+          "text": " meaning"
+        },
+        {
+          "start": 12.86,
+          "end": 13.12,
+          "text": " that"
+        },
+        {
+          "start": 13.12,
+          "end": 13.68,
+          "text": " if"
+        },
+        {
+          "start": 13.68,
+          "end": 13.84,
+          "text": " we"
+        },
+        {
+          "start": 13.84,
+          "end": 14.12,
+          "text": " really"
+        },
+        {
+          "start": 14.12,
+          "end": 14.74,
+          "text": " understood"
+        },
+        {
+          "start": 14.74,
+          "end": 15.54,
+          "text": " how"
+        },
+        {
+          "start": 15.54,
+          "end": 15.8,
+          "text": " to"
+        },
+        {
+          "start": 15.8,
+          "end": 16.38,
+          "text": " communicate"
+        },
+        {
+          "start": 16.38,
+          "end": 17.08,
+          "text": " goals"
+        },
+        {
+          "start": 17.08,
+          "end": 17.32,
+          "text": " to"
+        },
+        {
+          "start": 17.32,
+          "end": 17.68,
+          "text": " cells,"
+        },
+        {
+          "start": 17.84,
+          "end": 18.02,
+          "text": " such"
+        },
+        {
+          "start": 18.02,
+          "end": 18.28,
+          "text": " as,"
+        },
+        {
+          "start": 18.4,
+          "end": 18.7,
+          "text": " you"
+        },
+        {
+          "start": 18.7,
+          "end": 18.78,
+          "text": " know,"
+        },
+        {
+          "start": 18.88,
+          "end": 18.98,
+          "text": " you're"
+        },
+        {
+          "start": 18.98,
+          "end": 19.08,
+          "text": " going"
+        },
+        {
+          "start": 19.08,
+          "end": 19.16,
+          "text": " to"
+        },
+        {
+          "start": 19.16,
+          "end": 19.42,
+          "text": " build"
+        },
+        {
+          "start": 19.42,
+          "end": 19.68,
+          "text": " a"
+        },
+        {
+          "start": 19.68,
+          "end": 19.9,
+          "text": " heart,"
+        },
+        {
+          "start": 20.0,
+          "end": 20.1,
+          "text": " you're"
+        },
+        {
+          "start": 20.1,
+          "end": 20.18,
+          "text": " going"
+        },
+        {
+          "start": 20.18,
+          "end": 20.24,
+          "text": " to"
+        },
+        {
+          "start": 20.24,
+          "end": 20.44,
+          "text": " build"
+        },
+        {
+          "start": 20.44,
+          "end": 20.58,
+          "text": " a"
+        },
+        {
+          "start": 20.58,
+          "end": 20.78,
+          "text": " limb,"
+        },
+        {
+          "start": 20.9,
+          "end": 21.0,
+          "text": " you're"
+        },
+        {
+          "start": 21.0,
+          "end": 21.04,
+          "text": " going"
+        },
+        {
+          "start": 21.04,
+          "end": 21.1,
+          "text": " to"
+        },
+        {
+          "start": 21.1,
+          "end": 21.22,
+          "text": " build."
+        },
+        {
+          "start": 22.06,
+          "end": 22.42,
+          "text": " If"
+        },
+        {
+          "start": 22.42,
+          "end": 22.56,
+          "text": " we"
+        },
+        {
+          "start": 22.56,
+          "end": 22.8,
+          "text": " really"
+        },
+        {
+          "start": 22.8,
+          "end": 23.12,
+          "text": " crack"
+        },
+        {
+          "start": 23.12,
+          "end": 23.32,
+          "text": " that"
+        },
+        {
+          "start": 23.32,
+          "end": 23.64,
+          "text": " problem,"
+        },
+        {
+          "start": 23.8,
+          "end": 23.92,
+          "text": " we"
+        },
+        {
+          "start": 23.92,
+          "end": 24.1,
+          "text": " would"
+        },
+        {
+          "start": 24.1,
+          "end": 24.24,
+          "text": " be"
+        },
+        {
+          "start": 24.24,
+          "end": 24.48,
+          "text": " able"
+        },
+        {
+          "start": 24.48,
+          "end": 24.64,
+          "text": " to"
+        },
+        {
+          "start": 24.64,
+          "end": 24.98,
+          "text": " build"
+        },
+        {
+          "start": 24.98,
+          "end": 25.58,
+          "text": " whatever"
+        },
+        {
+          "start": 25.58,
+          "end": 25.86,
+          "text": " you"
+        },
+        {
+          "start": 25.86,
+          "end": 26.16,
+          "text": " want."
+        }
+      ]
+    },
+    {
+      "start": 26.4,
+      "end": 41.72,
+      "text": "And so we would have complete control over biological form. And so that means fixing birth defects, regenerating damaged organs, reprogramming cancer, all of that stuff. But going beyond that and saying, okay, but I don't want my natural...",
+      "speaker": null,
+      "words": [
+        {
+          "start": 26.4,
+          "end": 26.66,
+          "text": " And"
+        },
+        {
+          "start": 26.66,
+          "end": 26.88,
+          "text": " so"
+        },
+        {
+          "start": 26.88,
+          "end": 27.06,
+          "text": " we"
+        },
+        {
+          "start": 27.06,
+          "end": 27.18,
+          "text": " would"
+        },
+        {
+          "start": 27.18,
+          "end": 27.28,
+          "text": " have"
+        },
+        {
+          "start": 27.28,
+          "end": 27.68,
+          "text": " complete"
+        },
+        {
+          "start": 27.68,
+          "end": 28.12,
+          "text": " control"
+        },
+        {
+          "start": 28.12,
+          "end": 28.58,
+          "text": " over"
+        },
+        {
+          "start": 28.58,
+          "end": 29.08,
+          "text": " biological"
+        },
+        {
+          "start": 29.08,
+          "end": 29.62,
+          "text": " form."
+        },
+        {
+          "start": 29.76,
+          "end": 29.8,
+          "text": " And"
+        },
+        {
+          "start": 29.8,
+          "end": 29.98,
+          "text": " so"
+        },
+        {
+          "start": 29.98,
+          "end": 30.36,
+          "text": " that"
+        },
+        {
+          "start": 30.36,
+          "end": 30.6,
+          "text": " means"
+        },
+        {
+          "start": 30.6,
+          "end": 31.0,
+          "text": " fixing"
+        },
+        {
+          "start": 31.0,
+          "end": 31.22,
+          "text": " birth"
+        },
+        {
+          "start": 31.22,
+          "end": 31.66,
+          "text": " defects,"
+        },
+        {
+          "start": 31.82,
+          "end": 32.54,
+          "text": " regenerating"
+        },
+        {
+          "start": 32.54,
+          "end": 33.54,
+          "text": " damaged"
+        },
+        {
+          "start": 33.54,
+          "end": 34.1,
+          "text": " organs,"
+        },
+        {
+          "start": 34.38,
+          "end": 36.36,
+          "text": " reprogramming"
+        },
+        {
+          "start": 36.36,
+          "end": 36.68,
+          "text": " cancer,"
+        },
+        {
+          "start": 36.8,
+          "end": 36.88,
+          "text": " all"
+        },
+        {
+          "start": 36.88,
+          "end": 36.98,
+          "text": " of"
+        },
+        {
+          "start": 36.98,
+          "end": 37.06,
+          "text": " that"
+        },
+        {
+          "start": 37.06,
+          "end": 37.26,
+          "text": " stuff."
+        },
+        {
+          "start": 37.42,
+          "end": 37.84,
+          "text": " But"
+        },
+        {
+          "start": 37.84,
+          "end": 38.12,
+          "text": " going"
+        },
+        {
+          "start": 38.12,
+          "end": 38.5,
+          "text": " beyond"
+        },
+        {
+          "start": 38.5,
+          "end": 38.82,
+          "text": " that"
+        },
+        {
+          "start": 38.82,
+          "end": 39.04,
+          "text": " and"
+        },
+        {
+          "start": 39.04,
+          "end": 39.36,
+          "text": " saying,"
+        },
+        {
+          "start": 39.46,
+          "end": 39.92,
+          "text": " okay,"
+        },
+        {
+          "start": 40.1,
+          "end": 40.34,
+          "text": " but"
+        },
+        {
+          "start": 40.34,
+          "end": 40.6,
+          "text": " I"
+        },
+        {
+          "start": 40.6,
+          "end": 40.76,
+          "text": " don't"
+        },
+        {
+          "start": 40.76,
+          "end": 40.96,
+          "text": " want"
+        },
+        {
+          "start": 40.96,
+          "end": 41.2,
+          "text": " my"
+        },
+        {
+          "start": 41.2,
+          "end": 41.72,
+          "text": " natural..."
+        }
+      ]
+    },
+    {
+      "start": 42.31,
+      "end": 68.75,
+      "text": "uh level of whatever that's how i was born but you know that's just those are just the vagaries of of of genetics and environment and i'm just lucky that some cosmic ray didn't knock out you know some important machinery when i was an embryo i mean that's just chance i'm not leaving this up to chance i would like i don't know you want you want a third a third hemisphere in your brain you want some more eyes you want tentacles you want to live on the bottom of the ocean all of this should be fundamentally possible i i really think so i i know it sounds like science fiction but",
+      "speaker": null,
+      "words": [
+        {
+          "start": 42.31,
+          "end": 42.67,
+          "text": " uh"
+        },
+        {
+          "start": 42.67,
+          "end": 43.03,
+          "text": " level"
+        },
+        {
+          "start": 43.03,
+          "end": 43.31,
+          "text": " of"
+        },
+        {
+          "start": 43.31,
+          "end": 43.61,
+          "text": " whatever"
+        },
+        {
+          "start": 43.61,
+          "end": 43.93,
+          "text": " that's"
+        },
+        {
+          "start": 43.93,
+          "end": 44.03,
+          "text": " how"
+        },
+        {
+          "start": 44.03,
+          "end": 44.15,
+          "text": " i"
+        },
+        {
+          "start": 44.15,
+          "end": 44.31,
+          "text": " was"
+        },
+        {
+          "start": 44.31,
+          "end": 44.63,
+          "text": " born"
+        },
+        {
+          "start": 44.63,
+          "end": 44.89,
+          "text": " but"
+        },
+        {
+          "start": 44.89,
+          "end": 45.23,
+          "text": " you"
+        },
+        {
+          "start": 45.23,
+          "end": 45.31,
+          "text": " know"
+        },
+        {
+          "start": 45.31,
+          "end": 45.53,
+          "text": " that's"
+        },
+        {
+          "start": 45.53,
+          "end": 45.65,
+          "text": " just"
+        },
+        {
+          "start": 45.65,
+          "end": 45.91,
+          "text": " those"
+        },
+        {
+          "start": 45.91,
+          "end": 46.05,
+          "text": " are"
+        },
+        {
+          "start": 46.05,
+          "end": 46.19,
+          "text": " just"
+        },
+        {
+          "start": 46.19,
+          "end": 46.33,
+          "text": " the"
+        },
+        {
+          "start": 46.33,
+          "end": 46.71,
+          "text": " vagaries"
+        },
+        {
+          "start": 46.71,
+          "end": 46.95,
+          "text": " of"
+        },
+        {
+          "start": 46.95,
+          "end": 47.55,
+          "text": " of"
+        },
+        {
+          "start": 47.55,
+          "end": 47.81,
+          "text": " of"
+        },
+        {
+          "start": 47.81,
+          "end": 48.17,
+          "text": " genetics"
+        },
+        {
+          "start": 48.17,
+          "end": 48.43,
+          "text": " and"
+        },
+        {
+          "start": 48.43,
+          "end": 48.83,
+          "text": " environment"
+        },
+        {
+          "start": 48.83,
+          "end": 49.07,
+          "text": " and"
+        },
+        {
+          "start": 49.07,
+          "end": 49.19,
+          "text": " i'm"
+        },
+        {
+          "start": 49.19,
+          "end": 49.33,
+          "text": " just"
+        },
+        {
+          "start": 49.33,
+          "end": 49.57,
+          "text": " lucky"
+        },
+        {
+          "start": 49.57,
+          "end": 49.73,
+          "text": " that"
+        },
+        {
+          "start": 49.73,
+          "end": 49.89,
+          "text": " some"
+        },
+        {
+          "start": 49.89,
+          "end": 50.31,
+          "text": " cosmic"
+        },
+        {
+          "start": 50.31,
+          "end": 50.47,
+          "text": " ray"
+        },
+        {
+          "start": 50.47,
+          "end": 50.79,
+          "text": " didn't"
+        },
+        {
+          "start": 50.79,
+          "end": 51.01,
+          "text": " knock"
+        },
+        {
+          "start": 51.01,
+          "end": 51.27,
+          "text": " out"
+        },
+        {
+          "start": 51.27,
+          "end": 51.71,
+          "text": " you"
+        },
+        {
+          "start": 51.71,
+          "end": 51.77,
+          "text": " know"
+        },
+        {
+          "start": 51.77,
+          "end": 51.99,
+          "text": " some"
+        },
+        {
+          "start": 51.99,
+          "end": 52.29,
+          "text": " important"
+        },
+        {
+          "start": 52.29,
+          "end": 52.69,
+          "text": " machinery"
+        },
+        {
+          "start": 52.69,
+          "end": 52.95,
+          "text": " when"
+        },
+        {
+          "start": 52.95,
+          "end": 53.05,
+          "text": " i"
+        },
+        {
+          "start": 53.05,
+          "end": 53.17,
+          "text": " was"
+        },
+        {
+          "start": 53.17,
+          "end": 53.29,
+          "text": " an"
+        },
+        {
+          "start": 53.29,
+          "end": 53.59,
+          "text": " embryo"
+        },
+        {
+          "start": 53.59,
+          "end": 53.67,
+          "text": " i"
+        },
+        {
+          "start": 53.67,
+          "end": 53.73,
+          "text": " mean"
+        },
+        {
+          "start": 53.73,
+          "end": 53.93,
+          "text": " that's"
+        },
+        {
+          "start": 53.93,
+          "end": 54.05,
+          "text": " just"
+        },
+        {
+          "start": 54.05,
+          "end": 54.39,
+          "text": " chance"
+        },
+        {
+          "start": 54.39,
+          "end": 54.59,
+          "text": " i'm"
+        },
+        {
+          "start": 54.59,
+          "end": 54.71,
+          "text": " not"
+        },
+        {
+          "start": 54.71,
+          "end": 55.07,
+          "text": " leaving"
+        },
+        {
+          "start": 55.07,
+          "end": 55.27,
+          "text": " this"
+        },
+        {
+          "start": 55.27,
+          "end": 55.39,
+          "text": " up"
+        },
+        {
+          "start": 55.39,
+          "end": 55.49,
+          "text": " to"
+        },
+        {
+          "start": 55.49,
+          "end": 55.75,
+          "text": " chance"
+        },
+        {
+          "start": 55.75,
+          "end": 56.23,
+          "text": " i"
+        },
+        {
+          "start": 56.23,
+          "end": 56.41,
+          "text": " would"
+        },
+        {
+          "start": 56.41,
+          "end": 56.69,
+          "text": " like"
+        },
+        {
+          "start": 56.69,
+          "end": 57.09,
+          "text": " i"
+        },
+        {
+          "start": 57.09,
+          "end": 57.23,
+          "text": " don't"
+        },
+        {
+          "start": 57.23,
+          "end": 57.35,
+          "text": " know"
+        },
+        {
+          "start": 57.35,
+          "end": 57.53,
+          "text": " you"
+        },
+        {
+          "start": 57.53,
+          "end": 57.71,
+          "text": " want"
+        },
+        {
+          "start": 57.71,
+          "end": 57.79,
+          "text": " you"
+        },
+        {
+          "start": 57.79,
+          "end": 57.93,
+          "text": " want"
+        },
+        {
+          "start": 57.93,
+          "end": 58.07,
+          "text": " a"
+        },
+        {
+          "start": 58.07,
+          "end": 58.37,
+          "text": " third"
+        },
+        {
+          "start": 58.37,
+          "end": 58.69,
+          "text": " a"
+        },
+        {
+          "start": 58.69,
+          "end": 58.89,
+          "text": " third"
+        },
+        {
+          "start": 58.89,
+          "end": 59.27,
+          "text": " hemisphere"
+        },
+        {
+          "start": 59.27,
+          "end": 59.59,
+          "text": " in"
+        },
+        {
+          "start": 59.59,
+          "end": 59.69,
+          "text": " your"
+        },
+        {
+          "start": 59.69,
+          "end": 59.93,
+          "text": " brain"
+        },
+        {
+          "start": 59.93,
+          "end": 60.11,
+          "text": " you"
+        },
+        {
+          "start": 60.11,
+          "end": 60.33,
+          "text": " want"
+        },
+        {
+          "start": 60.33,
+          "end": 60.55,
+          "text": " some"
+        },
+        {
+          "start": 60.55,
+          "end": 60.73,
+          "text": " more"
+        },
+        {
+          "start": 60.73,
+          "end": 61.11,
+          "text": " eyes"
+        },
+        {
+          "start": 61.11,
+          "end": 61.29,
+          "text": " you"
+        },
+        {
+          "start": 61.29,
+          "end": 61.45,
+          "text": " want"
+        },
+        {
+          "start": 61.45,
+          "end": 61.89,
+          "text": " tentacles"
+        },
+        {
+          "start": 61.89,
+          "end": 62.05,
+          "text": " you"
+        },
+        {
+          "start": 62.05,
+          "end": 62.15,
+          "text": " want"
+        },
+        {
+          "start": 62.15,
+          "end": 62.23,
+          "text": " to"
+        },
+        {
+          "start": 62.23,
+          "end": 62.39,
+          "text": " live"
+        },
+        {
+          "start": 62.39,
+          "end": 62.51,
+          "text": " on"
+        },
+        {
+          "start": 62.51,
+          "end": 62.61,
+          "text": " the"
+        },
+        {
+          "start": 62.61,
+          "end": 62.81,
+          "text": " bottom"
+        },
+        {
+          "start": 62.81,
+          "end": 62.95,
+          "text": " of"
+        },
+        {
+          "start": 62.95,
+          "end": 63.03,
+          "text": " the"
+        },
+        {
+          "start": 63.03,
+          "end": 63.33,
+          "text": " ocean"
+        },
+        {
+          "start": 63.33,
+          "end": 64.49,
+          "text": " all"
+        },
+        {
+          "start": 64.49,
+          "end": 64.67,
+          "text": " of"
+        },
+        {
+          "start": 64.67,
+          "end": 64.83,
+          "text": " this"
+        },
+        {
+          "start": 64.83,
+          "end": 65.01,
+          "text": " should"
+        },
+        {
+          "start": 65.01,
+          "end": 65.15,
+          "text": " be"
+        },
+        {
+          "start": 65.15,
+          "end": 65.65,
+          "text": " fundamentally"
+        },
+        {
+          "start": 65.65,
+          "end": 66.17,
+          "text": " possible"
+        },
+        {
+          "start": 66.17,
+          "end": 66.43,
+          "text": " i"
+        },
+        {
+          "start": 66.43,
+          "end": 66.65,
+          "text": " i"
+        },
+        {
+          "start": 66.65,
+          "end": 66.83,
+          "text": " really"
+        },
+        {
+          "start": 66.83,
+          "end": 66.99,
+          "text": " think"
+        },
+        {
+          "start": 66.99,
+          "end": 67.17,
+          "text": " so"
+        },
+        {
+          "start": 67.17,
+          "end": 67.35,
+          "text": " i"
+        },
+        {
+          "start": 67.35,
+          "end": 67.49,
+          "text": " i"
+        },
+        {
+          "start": 67.49,
+          "end": 67.61,
+          "text": " know"
+        },
+        {
+          "start": 67.61,
+          "end": 67.73,
+          "text": " it"
+        },
+        {
+          "start": 67.73,
+          "end": 67.91,
+          "text": " sounds"
+        },
+        {
+          "start": 67.91,
+          "end": 68.07,
+          "text": " like"
+        },
+        {
+          "start": 68.07,
+          "end": 68.31,
+          "text": " science"
+        },
+        {
+          "start": 68.31,
+          "end": 68.57,
+          "text": " fiction"
+        },
+        {
+          "start": 68.57,
+          "end": 68.75,
+          "text": " but"
+        }
+      ]
+    },
+    {
+      "start": 69.22,
+      "end": 72.0,
+      "text": "I don't see any reason why any of that would be impossible.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 69.22,
+          "end": 69.58,
+          "text": " I"
+        },
+        {
+          "start": 69.58,
+          "end": 69.76,
+          "text": " don't"
+        },
+        {
+          "start": 69.76,
+          "end": 69.92,
+          "text": " see"
+        },
+        {
+          "start": 69.92,
+          "end": 70.56,
+          "text": " any"
+        },
+        {
+          "start": 70.56,
+          "end": 70.86,
+          "text": " reason"
+        },
+        {
+          "start": 70.86,
+          "end": 71.04,
+          "text": " why"
+        },
+        {
+          "start": 71.04,
+          "end": 71.22,
+          "text": " any"
+        },
+        {
+          "start": 71.22,
+          "end": 71.32,
+          "text": " of"
+        },
+        {
+          "start": 71.32,
+          "end": 71.42,
+          "text": " that"
+        },
+        {
+          "start": 71.42,
+          "end": 71.56,
+          "text": " would"
+        },
+        {
+          "start": 71.56,
+          "end": 71.66,
+          "text": " be"
+        },
+        {
+          "start": 71.66,
+          "end": 72.0,
+          "text": " impossible."
+        }
+      ]
+    }
+  ],
+  "text": "We can do better than this. We can we can do better than chance and necessity. And so and I think we have to. And so what I envision is that if we truly crack the problem of collective intelligence of morphogenesis, meaning that if we really understood how to communicate goals to cells, such as, you know, you're going to build a heart, you're going to build a limb, you're going to build. If we really crack that problem, we would be able to build whatever you want.\nAnd so we would have complete control over biological form. And so that means fixing birth defects, regenerating damaged organs, reprogramming cancer, all of that stuff. But going beyond that and saying, okay, but I don't want my natural...\nuh level of whatever that's how i was born but you know that's just those are just the vagaries of of of genetics and environment and i'm just lucky that some cosmic ray didn't knock out you know some important machinery when i was an embryo i mean that's just chance i'm not leaving this up to chance i would like i don't know you want you want a third a third hemisphere in your brain you want some more eyes you want tentacles you want to live on the bottom of the ocean all of this should be fundamentally possible i i really think so i i know it sounds like science fiction but\nI don't see any reason why any of that would be impossible."
+}
