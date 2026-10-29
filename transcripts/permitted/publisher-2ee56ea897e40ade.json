@@ -1,0 +1,431 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-between-richard-watson-iain-mcgilchrist-and-michael-levin/",
+  "title": "Conversation between Richard Watson, Iain McGilchrist, and Michael Levin",
+  "publication_date": "2023-02-20",
+  "video_ids": [
+    "ynHfrfpTH18"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-2ee56ea897e40ade",
+  "retrieved_at": "2026-10-29T09:14:40.376602+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[00:00] Richard Watson: I began reading, but I haven't been able to finish that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[00:05] Iain McGilchrist: It's an enormous imposition to read what I've written, because it's just so long. I'm just delighted that you're interested. And your interest comes from where exactly, Richard?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[00:28] Richard Watson: I've been working on the relationship between evolution and learning. That's probably the right place to start."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[00:44] Iain McGilchrist: Okay."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[00:45] Richard Watson: So there's some old ideas that suggest that they are interchangeable processes. That evolution by natural selection is a way of doing one possible implementation of a trial-and-error with reinforcement process. And that what goes on in the head is likewise a natural selection process that we're trying out hypotheses and reinforcing those which work well. But that level of analogy suggests that neither way of looking at it causes us to change our understanding of the system. But I think that there is an equivalence there, but there's also a disanalogy there, which is really important. Not least because we think of learning systems as being clever and natural selection as being dumb. At the same time as thinking that the algorithm of natural selection is dumb, we observe what clever things it does. Whereas, with learning systems, we observe what clever things they do and we think that's not surprising. So if they're the same mechanism, either they should both be surprising or neither of them should be surprising. So we need to tease this part a bit."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[02:09] Iain McGilchrist: Yes, one obvious answer to this would be to say that what we do when we're learning is not as demanding and intelligent as it looks. But another way of looking at it would be to say that actually the evolutionary process has intelligence. I'd be prepared to say that without tying myself to the mast of intelligent design or anything like that. But there is something in this process; I don't think you can logically exclude it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[02:51] Richard Watson: We're starting on the same page then. As per many conversations with Mike, we often say intelligence systems aren't magic. There are intelligent algorithms within machine learning, for example, which, although they might not capture everything that brains do by a long way, capture something more intelligent than the process of natural selection as Darwin described it. Can biological evolution implement things like that instead of random variation and selection? If you can capture the principles of an intelligent optimization algorithm in a step-by-step process, what are the necessary components of that to implement it in some other substrate, a generalized learning algorithm rather than the analog of generalized Darwinism, right? That you can do it in different substrates."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[03:55] Iain McGilchrist: And you're working on that. Are you working on finding machine processes that could replicate this? Is that what you're doing?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[04:09] Richard Watson: Having, as you just suggested, rather quickly come to the conclusion that evolution by natural selection wasn't going to cut it. It wasn't going to explain the implementation we observe. I then noticed that learning systems do a more intelligent kind of optimization than random variation and selection does. So we already know that there are adaptive processes smarter than natural selection. The question is, is our brain the only thing that can do it? Or are there other kinds of systems that can do it? So I've been trying to describe principles of intelligent optimization, which could arise spontaneously in physical systems, in particular in networks with connections that are viscoelastic or give way under stress. And that turns out to be enough for a physical dynamical system to learn in a way which is smarter than natural selection."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[05:24] Iain McGilchrist: That's extraordinary in itself. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[05:28] Richard Watson: The reason I was interested in some of the things I heard in your discussion with Mike, and the other things of yours which I watched later — this difference between the two hemispheres — was that there appeared to be a slight polarization between a tendency towards inductive inference and deductive inference. From my initial reading, I might have got that the wrong way around between the two hemispheres. The thing that makes learning systems different from our conventional understanding of natural selection is that learning systems do induction. Learning systems form general rules from specific examples."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[06:18] Iain McGilchrist: They also seem to do something else, which is to respond intelligently to a never-before-seen situation for which they cannot be programmed."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[06:32] Richard Watson: Exactly."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[06:33] Iain McGilchrist: This was first noticed by Barbara McClintock in the 80s: a single cell could respond in an intelligent way to an insult that it could not naturally have ever experienced. And yet it responded as a whole organism, not in a kind of unintelligent series of chain reactions. So that is itself very interesting. When we come to the hemispheres thing, I think that in a nutshell, although I've suggested that the right hemisphere does play an important part in deduction, I don't doubt that the left hemisphere does too. They both also rely on induction. One might have thought that induction was more something that the left hemisphere relied on because it's so alert to drawing lessons from experience. It turns out that probably the weight of the induction is in the left hemisphere because it likes regularities. It needs regularities. It is always looking for certainty. That certainty to it comes from amassing enormous numbers of instances where this seems to work. Whereas the right hemisphere is what Ramachandran calls the devil's advocate. It's always going, \"but don't jump to conclusions.\" It may not be like that. Its role is very strongly a kind of checking and, in a productive way, a somewhat adversarial stance towards just going, \"the swans have always been white, so they always will be.\""
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[08:15] Richard Watson: That point you raised about responding appropriately to insults that were novel or unfamiliar fundamentally requires induction. If you only need to respond to things you've seen before, then you just need memory. You don't need to do induction. But if you're going to extrapolate from things you've seen before to something you haven't seen, then you need to form a general rule from those specific examples and then do something deductive from that general rule for the new example."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[08:55] Iain McGilchrist: It needs that element of deduction. That new element characteristically comes from the right hemisphere. It's the right hemisphere that tends to be the one that both understands the new better and is more prepared to engage with a new strategy than the left hemisphere, which tends to be very conservative."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[09:18] Richard Watson: Because you can't tell that a system has done induction until you ask it to use that induced model to do another deduction. You have to induce a model and then you have to use it. And when you use it, you use it deductively, not inductively. It all gets a bit slippery when you think about things like if I've got some data and I need a hypothesis to explain that data, and I arrive at a hypothesis to explain that data, have I done induction or have I done deduction? And the answer depends on what you think the starting point was. If I gave you a set of hypotheses and said which ones of these are consistent with the data, you would deduce which hypothesis was consistent with the data. You may then subsequently use that hypothesis for responding or classifying a stimulus you haven't seen before, in which case, because it was a hypothesis that fitted the data, it actually makes predictions that go beyond the data. But the way that you arrived at that hypothesis and not some other was just by a process of eliminating the ones that weren't consistent with the observations so far. For example, if I have two hypotheses, \"all swans are white\" or \"all swans are black\", and from the data I've seen so far \"all swans are white\" is the hypothesis which is consistent with the data. That's a deductive conclusion that out of those two hypotheses, that's the one. But if I then use that hypothesis to predict the color of a new swan, I'm using it in an inductive way. But that leads Popper to say we should just do everything with deduction. Even the way that we do everything is we'll eliminate the hypotheses which aren't consistent with the data and then we'll never make a mistake. We'll never do something that wasn't supported by the data because deduction is the only thing I ever want to do and I never want to do induction. But what's missing there is why wasn't the hypothesis \"the first two swans are white, the second two swans are black, the next two swans are white again\"? Why wasn't the hypothesis \"all swans are white except at 5:00 when they're pink\" in the set of hypotheses? So the initial set of hypotheses is always biased."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[12:17] Iain McGilchrist: Yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[12:18] Richard Watson: It doesn't include all possible hypotheses that were consistent with the data. It can't. And even if in principle it could include all possible hypotheses consistent with the data, that wouldn't have to include all the hypotheses that predicted the next one to be white and all the hypotheses that predicted the next one to be black. They're all in there. So it actually doesn't make any prediction to do that. It has to be biased in order to make a specific prediction. So that I think that you could understand how it would be very slippery to determine whether a particular hemisphere was biased towards induction or deduction because if I was deductively eliminating hypotheses, I'm doing deduction. But having arrived at a hypothesis from a biased set, I was doing induction. And those two things are, at the very least, slippery. I can see why in the text I was seeing lots of back and forth."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[13:27] Iain McGilchrist: And that's why if you did have time to read the chapters on the nature of reason I think they would be more instructive, but I'm not suggesting that you do. I just thought I'd send that along to show that it doesn't neatly parcel up in some way that one might have thought it does. I think what you've exemplified in what you've been talking about is that induction and deduction are not entirely alien species, that they need one another. It isn't possible to do without one or the other, in fact, in living. A much more important point to me is that reason is not entirely devoid of intuition. Reason cannot actually get above and behind intuition eventually. It has certain intuitions of its own. In reasoning properly, we need to use intuitions. In intuiting correctly, we bring reason to bear. So these things are not, as they're often set up nowadays, two separate things. Usually reason gets a tick and intuition gets across."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[14:58] Richard Watson: But it always turns out that Captain Kirk was right after all and Spock was wrong."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[15:06] Iain McGilchrist: You'll have to educate me on Star Trek. These intuitions are bound up with reason, the good ones. They're certainly not any more dangerous than reasoning if it has no intuition in it. The kind of reasoning that is done by psychotic patients is absolutely impeccable. As has been pointed out, it's not that they've lost their reason, as we say, but they've lost everything but reason. They can only reason and therefore come to extraordinarily bizarre conclusions. Anyone who has experience of life will tell you it's not what's happening. We need very strongly both of these things. Mike, you've been very quiet."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:00] Michael Levin: I'm greatly enjoying the discussion. The only thing I have to add is that this issue you were just bringing up of where did the models come from, and what are the models before you can go ahead and crank through them mechanically? It goes back to the whole evolutionary aspect, which Andreas Wagner raises with his book \"Arrival of the Fittest.\" Once you have them, you can sort through them and pick the ones that are most fit for a particular environment, and then you're good to go. But you need to make sure that the good ones are in there somewhere. The whole thing has to be seen as a generative scheme that is open-ended enough to produce these new solutions. Then the question becomes: are they purely random? Where do they actually come from? Are they biased towards ones that are going to have some utility, or are the vast majority of them completely useless? I think that's a really interesting aspect of this. Back to this issue of the intelligence of the evolutionary process, I agree completely. I think the move that's really important to make here is given to us by the field of basal cognition, which is that back in the day, you really just had things that were mechanical and dumb, and then you had humans and angels. Those were your two options. Looking at those two options, what do you want to say about evolution? Well, the scientists don't want to say that it is human-level or above intelligence. Then I guess we'll have to say it's completely stupid. Now we understand, especially through the field of basal cognition, that there are many options in between. Cybernetics gives us many different options in between. We can say that it doesn't have to be completely blind. It doesn't have to have an IQ of 0, nor does it have to have a grand, superhuman level of intelligence, but it can have some. This business of reacting appropriately to things you've never seen before — we have many examples of this in developmental biology and in cell biology. I think where it comes from is this idea that, and maybe it wasn't this way always, maybe really primitive forms of life weren't like this, but the life we have now does not make too many assumptions. I think, and this is a controversial view, that embryos and things like them are so plastic and flexible because they figure everything out from scratch every single time. It's not some weird, unusual thing when something novel happens and they somehow make up for it. Every single time they come into the world not really knowing: How many cells do I have? What size are my cells? Do I have the right complement of genes? You don't know any of that. You have to solve that. If that's the architecture that makes you good at handling novel things, I think what you actually have in these embryos is like a problem-solving intelligent machine with a bunch of prompts. The prompts are maternal gene products and cytoplasmic — all the stuff you inherit from the egg and your environment that isn't in the DNA. Those are your prompts. Both the prompts and the machine are evolutionarily shaped so that together they normally do the right thing. While other things being equal, acorns make oak trees and frog eggs make frogs and so on. Because of that architecture, as we've done and other people have done experimentally, you can give it different prompts and get completely different but coherent behaviors out of it. That's what gives it the intelligence: the assumption from the very beginning that you don't overtrain on your history. You don't know that anything you've seen before is going to be true now. You just have to figure it out from scratch. Where do my borders end and the outside world begin? What are the important things to pay attention to? Who is behavior shaping me? Is it myself? Is it somebody else? All of these things have to be solved from scratch. That's where I think the intelligence comes from."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[20:16] Iain McGilchrist: And how long do you think that process of not knowing goes on? Because very clearly they must build up stores of likely outcomes to certain positions and actions pretty fast."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:32] Michael Levin: It's fast, but I think it remains incredibly plastic. The thing that strikes me about this is the rubber hand illusion: within, what, seven minutes it convinces you that you have an extra limb. How long have you had exactly four limbs? We've had exactly four limbs for millions of years. You well know how many limbs you have. And all it takes is a few minutes of experience to convince your brain that all of that was wrong. I've got something else. Just that plasticity, the ability to override this, we see it all the time. If I make a tadpole with no eyes in the head, but the eyes on the tail, they don't need evolutionary adaptation to use that eye. They can see out of the box immediately. Those embryos can learn in visual assays. You get some weird itchy patch of tissue on your tail. It's visual data. We know what to do with that. It doesn't come into the optic tectum. It comes into the spinal cord at best. And so no problem. That's how we are. I think they do make models from the start, but they're incredibly plastic models, and even in adulthood with sensory augmentation, when they give people a prosthetic limb where the wrist goes all the way around, they find that when people go to use it, they do it that way. The way to touch a coffee cup normally—this thing—they'll just spin the wrist in a way that your wrist would normally never go. That's why they can learn to do these things. Plasticity."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[22:18] Richard Watson: So there's something: it can't be that it's figuring everything out from scratch with no assumptions in each lifetime. But it also has to be incredibly flexible, as you say. So it feels to me like it needs to be a meta-inductive bias. It's a really deep way of learning how to learn that unfolds, as you say, in the normal conditions the same way, but it has incredible flexibility as well."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[23:15] Iain McGilchrist: And there are such things as instincts, which are apparently fully formed and operate from the word go without any need to find out that this is what I need to do. So that suggests we're not blank slates, but not even behaviourally blank slates. So it's a very mixed picture in which some things are unquestioned and automatic from a very early age and other things must be learned and adapted to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[23:53] Richard Watson: Where's the source of the bias? When you think about reasoning, deduction, and induction in an abstract way, in an algorithmic, logical way that's not connected to any particular machinery for implementing it, then induction seems very mysterious. Why should I prefer the hypothesis that all the swans are going to be the same color over the hypothesis that all of the swans are going to be the same color until five o'clock and then they change? Why the preference for one kind of hypothesis over another? But when you think about the fact that the inference machinery, deductive and inductive, is machinery in the broad sense, and what you're asking a system to do is not to remember in a photographic way particular instances from the past and recall them, but that you are reforming that machinery by its experience. That intrinsically gives you some things that the machinery can do naturally and other things that the machinery can't do naturally. It gives you some things which are natural intermediates; natural interpolations and extrapolations are one example. But even in higher dimensional spaces, there are intermediates that are easy to do with this kind of machinery and intermediates that aren't. It's only when we have this idea of logic being substrate independent and divorced from the implementation of machinery that it seems very mysterious. But when you recognize that whatever we're going to build has to be built through a growth process, for example, if we're going to do it that way, then there are certain kinds of hypotheses about what an adaptive phenotype would be that are more likely than others. If you've tried this and that and you need something in between as a situation you've never seen before, then there are going to be some in-betweens which are natural for a developmental process and some in-betweens which are not. My headline is: believing that inference is substrate independent makes it mysterious."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[26:39] Michael Levin: I want to go back for a second to this thing that Ian just said about the instincts, the inborn instincts. And Aaron Sloman has been really pushing this for a while, this idea of you got these birds that are born making these crazy complicated nests and spider webs and so on. And so people are very taken with this, well, how does it know to build a specific spider web. But actually, those behaviors in three-dimensional space are very analogous to, if you're wondering how the spider knows to build a spider web, it's exactly the same question as how it knew to build a spider in the first place. The genome no more directly encodes the architecture or the spider web or the bird's nest than it did of the bird or the spider, right? You got exactly the same thing, it's just your behavior in morphospace as opposed to behavior in three-dimensional space. But in all of these cases, it's the same thing. You've got these inborn — Giovanni Pizzullo and I talked about fixed developmental programs of the kind that you guys were just talking about; these are the more assumed things. They are basically instincts of the cellular collective intelligence. And it can learn to do some other stuff, but it has some built-in building blocks that are very robust and some of them are hard to overcome and some of them are not."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[28:09] Iain McGilchrist: That's good what you say, and it leads me not to an answer to a question. It's not really any different from how the spider structure comes about. But then there's a huge question. So how does the spider structure come about? How do the rather intimate three-dimensional structures, which are so different in every little creature—where are they stored? Where is this enormously complex, three-dimensional information to be found? Behaviors are even more complex because they are in four dimensions. They are things that occur over time in a certain order and in a certain geographical space. Once one gets to this level, it seems that it's almost perverse not to say there is some element here that is either guiding or shaping or directing. I personally don't know what the answer to that thing is. And perhaps you are getting closer to answering that thing. I don't know."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[29:25] Michael Levin: People ask this all the time: where is the pattern stored? I think two interesting things about it. One is the standard \"where does it come from.\" There are two questions: where is it stored and where does it come from? The question of where it comes from is also interesting because traditionally people will say evolution, selection forces. Eons of selection to be a good frog gives you a frog. But it turns out those exact same cells can do something quite different that there was never selection for: kinematic self-replication in Xenobot. There's never been selection for that. They can do it without any evidence of pressure to evolve it. You get to the same question that people who studied mathematics back in the classic Greek days and before asked: where do these laws of math, of physics, of computation live? Things like the distribution of primes, various properties of logic tables, and the facts of number theory don't depend on the properties of the physical world. The physical facts could have been different. All those things would be the same. I think whatever that platonic space is where these things reside, evolution is really good at exploiting them. A simplistic way of thinking about it is if you were trying to evolve a triangle: you would have to evolve the first two angles, but you don't need to evolve the third angle. You get that for free. It's amazing to think about how, as a search process, you can save all that time searching for that third angle. It's a free gift from physics or math or somewhere. It leads to the same question: where is the form encoded? I have this thing I always show my students: it's a Galton board. It's a vertical board with a bunch of nails banged into it; you take a ball of marbles, dump it on the top, and the marbles go every which way. At the end, if you have enough marbles, you get a bell curve. You ask where this pattern is encoded. It's not in the wood and it's not in the distribution of the nails. It's a free gift from calculus or something. I think that's what biology is. There are three inputs: genetics; the environment — in some cases instructive, turtle temperature-determined sex — and a third thing. The specificity is neither in the environment nor in the genome. It's an incredible storehouse of free lunches from physics, math, computer science, or whatever else. I think evolution exploits them heavily in everything it does. That is far from satisfying because you ask where all this stuff is. We have to get beyond the idea that it all has to be tangible and that we can put our fingers on it. I don't think it all works like that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[32:49] Iain McGilchrist: No, but if it's not tangible, what are we saying? What are we proposing?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:56] Michael Levin: I think the mathematicians have been wrestling with this for thousands of years. Is mathematics discovered or invented? If it's discovered, which I think it is, as an amateur."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[33:06] Iain McGilchrist: So do I."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[33:07] Michael Levin: Then you've got this really fundamental question that transcends biology and evolution, everything else, which is, what space are you exploring when you discover these things?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[33:21] Iain McGilchrist: But isn't that different because you can explore ideas in space mentally, that's fine. But we're talking about a situation where an apparently simple body of cells is able to create incredibly complex structures with the right types of cells in the right place, with the right connections. Also, you get the architecture, the very fine architecture of a brain or of the cerebellum. I have no clue and I don't know anybody who has any clue where the map for this is. People gesture towards the DNA sequence. But as we know, there's nothing like enough information in that to give this high level of very detailed formal information. And I think it's an interesting question."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:16] Michael Levin: Well, I think now we're back to where this conversation started, which is the idea that if we assume that intelligent brains are the only things that are able to explore that space, then we're at an impasse. But I actually think that what Dennis calls competence without comprehension, you can explore that space without human-level understanding of what you're doing. I think evolution, as a non-zero but certainly not human-level process, is exactly what it's doing. It's searching that space. And the good news is that space has some structure to it. Otherwise, you couldn't really search it very well. So in my head, and this is all completely hypothetical and of course controversial, you could imagine how people make a map of mathematics. So they make this map, and topologies over here, and next to it there's something else that's connected in some way. And then there's number theory. I feel like there is a structure like that to this space. So once you've discovered how to make simple Archimedean machines of a certain type, the other types are right there next to it. It's not that hard. So you've got a lever. You can also make this other thing that's close. And when you've evolutionarily discovered a voltage-gated ion channel, which is a transistor basically, you can have a couple of them and make a logic gate. And if you make a certain kind of logic gate, then you can make many other things. And I visualize that there's this space of free lunches, so to speak. So if you don't have the right machine, you can't make use of it. But if you make the right machine, suddenly the laws of adhesion apply. If you discover that you can have two different proteins, that one is very sticky and one is not so sticky, when you have a bunch of balls with these proteins on them and you shake them in an urn, you end up with all the sticky ones in the middle surrounded by the less sticky ones on top. You didn't have to tell all of them where to go. You get that for free. All you had to do was come up with the idea of adhesion. That's it. Everything else is who told them to be on the outside? So I feel like there's a space which is the same space that the mathematicians are going through. And I think evolution can make use of that stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[36:50] Iain McGilchrist: It seems that we're confined, I accept what you say about the sticky and the non-sticky, but these examples are so simple that it's not necessarily obvious that by putting together a lot of such things, you will end up with information on a complex structure. We know complexity brings in its own problems. It's not just a matter of complicating a number of small ones. These situations, these systems are complex systems. It's very interesting. I think it encourages us to think that there may be more information of a kind we don't understand. I haven't yet grasped how to use it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[37:54] Michael Levin: I think one of the simplest things that arises early on is a negative feedback loop, which gives you a little homeostat, right? The most basic goal directedness is a little homeostatic thing. What we've been looking at for several years now is the process of scaling. How do you get from little tiny things that only care about one variable, one scalar, metabolic rate? How do you add them up into a network that's able to now care about much bigger things, do we have the right shape, right? What happens, apparently, is that not only do you scale up the kinds of things that a collective can care about, but it switches problem spaces. Whereas before you were only trying to optimize things in metabolic space or transcriptional space, the collective now has these gigantic goals: make a hand with five fingers. That's a goal completely. That's a navigational task in a completely different space. I think that's where the magic is going to lie that you're talking about. How do we get from these incredibly simple mechanisms? I think the trick is; other people would say it's emergence as in, for example, Turing patterns, right? You can encode a very simple chemical signal and you get spots and stripes and somites. That's fine. All of that does happen. But I think the real secret sauce is in the goal directedness. It's in the feedback. It's in the fact that you start with little tiny things that care about, exert energy to navigate to a region of state space, little tiny goals, and then there's a scale-up process. We're starting to make some headway in that scale-up process, but then of course that's also kind of the holy grail of neuroscience, right? You've got these neurons, we know they're cells, we know they care about certain things, but the collective cares about very different things, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[39:56] Iain McGilchrist: Yes, that was what I was alluding to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[40:05] Richard Watson: So in the way in which an organism interacts with the physical world, Iain talks quite a bit about one hemisphere being interested in exerting control over the world and, relatively, the other hemisphere being interested in seeing the world as it is. Do I paraphrase so far, Iain?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[40:30] Iain McGilchrist: No, that's reasonable, yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[40:34] Richard Watson: And there's a back and forth there that if you're going to exert control over the world, you need to be forceful to start with in a way that is mutually exclusive with simultaneously being sensitive to the world. I'm going to exert a force on the world. I'm going to change the world. And whilst I'm doing that, I'm not very sensitive to how the world is right now because I'm changing it. And then there's another thing which is more observational, more accepting of the world as it is, seeing the world as it is, allowing information in from the world to change who I am on the inside, that updates my model of the world. And then I apply my model of the world and I push my ideas about the world back onto the world. Do you feel the same, that same duality in a pull and a push? I'm taking information in, I'm seeing the world as it is without judgment. Then I'm making a decision based on a hypothesis to then exert control on the world in a particular way. And whilst I'm doing that, I'm blind to new information about me being wrong about that. No, this is the plan I'm going for. This is the goal I've got here. I'm going for that. If you only took in information from the world and you didn't actually act on it, that wouldn't be an organism. That would just be a lump of clay."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[42:12] Iain McGilchrist: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "Richard Watson: If I only act on the world, and I never take in information, that's not an organism either. That's just a rock rolling downhill. It's got an idea about where it wants to go and it's just going to go there. And it's not, it's just going to run roughshod over any imperfections in the landscape. But in order to be an organism, there needs to be a back and forth."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[42:34] Iain McGilchrist: Absolutely."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[42:35] Richard Watson: It at least needs both of those things. I think when I've been trying to build models of mechanical systems built out of springs and connected stuff, in that kind of a system, you can't do both of those things at the same time. You can't both be sensitive and be an actor. You have to pulse back and forth between them. I'm sensitive for a moment; I allow the springs to be deformed by their experience. Then I take that pressure off and allow the system to act back on the world, and it has an experience, and then it observes the consequences of that action, and that observation allows it to change its internal structure, and then it pushes forward again. There are many cycles of activity and inactivity that brains go through on many different time scales. We can start with the wake-sleep time scale of 24 hours and then lots of other time scales of much finer ones. The reason I got excited when I was first listening to these hemisphere differences is that if there was an asymmetry between the two hemispheres that enabled one to be, as you say, more about exerting control and the other one more about taking in information, seeing the world as it is in an unbiased way, then that would perhaps enable more of a continuous flow of taking information and taking action on the world instead of having to do it in this pulsed way. If the hemisphere is specialized in that way, then you get a flow between the organism and the outside world. There's also a possibility of one hemisphere observing the other. One has an idea and the other critiques it. There's an oscillation that goes back and forth between two hemispheres."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[44:54] Iain McGilchrist: Should be if it's working well. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[44:55] Richard Watson: That you couldn't do if you only had one. It was trying to do both."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[45:02] Iain McGilchrist: Yes, correct. It wouldn't carve up in the way that the left hemisphere is the only one that's interested in shaping experience. They're both interested in doing that. But the difference is in their allegiance to a certain goal, their values, and the particular attention that they can pay. I often compare it to somebody like yourself who's doing intelligent scientific research. You can't sit down and do 1000 different comparisons the way a statistical package can in the computer. So you put all this data into the computer. The computer itself has no idea what this data refers to. It could refer to mentally ill people or it could refer to the creation of a sludge farm. It's not interested. And so it performs procedures on it very quickly. But at the end, it produces a result, which again, it doesn't understand. The right hemisphere takes that back and reincorporates it into what it already has understood. That enriches its understanding and makes it the best possible position to make the important next steps to make the decisions about what we do and where we go. The problem is that when the left hemisphere, with its limited knowledge and limited intelligence—it has limits on both compared with the right hemisphere—decides this is what we need to do. It has a very small repertoire, which is we get this, we get more of that. We enjoy having power over this and exerting influence on that and getting this stuff to eat. So it's exactly the way in which if you've lost all other values other than those of getting and grabbing and becoming rich, you would function. So it's not just that it's the one that should be functioning; it isn't really, in terms of its influence on what we do. It's the one that has that value and gathers data on it and processes that data. But then it's always important that the process doesn't stop there. Now, what I feel happens in the modern social media medium is that it goes to this process where what is extremely subtly involved with its context, with embodiment, with experience, it's taken and abstracted out of everything that will give it meaning, put into categories. Then that seems to be the end of the process. But it's not. It's a process that needs to be gone through, but very much transcended."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[48:13] Richard Watson: I've been spending some time thinking about the societal impact of the idea of survival of the fittest."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[48:28] Iain McGilchrist: Okay."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[48:29] Richard Watson: And some of what you said there resonated with me about what happens when the left hemisphere is out of control. So if one hemisphere is expert at getting and grabbing and also expert at judging and comparing, but its value system is very simplistic. Its value system is just, well, which one of these is best. I'm just going to do the one that's best. That's the model that we have of evolution by natural selection and survival of the fittest. It's all very simple. We just need to figure out which thing is best. What do you mean best? Survival is best. That's it. That's all there is to it. There's nothing else to think about. So if instead there's a more nuanced view of the world where understanding of what's important and why is much more fluid and much more dynamic and much more integrated and much more connected to a depth of experience and a wealth of values which are multi-dimensional and not single-dimensional, then that's a different way of thinking, a different emphasis and inference, as you say, in the difference between the three hemispheres. But it's also a different way of behaving in the world. When you think everything is about competition, everything is about finding the best, everything is about optimizing. It's all very simple, just maximize it. Maximize what? Let's just maximize it. Have you really thought about what are you trying to maximize? That doesn't matter. We're maximizing it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[50:12] Iain McGilchrist: Exactly."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[50:13] Richard Watson: You can see how that attitude in the world creates this discompassion and an attitude of exploitation towards one another. That's the root of all of our problems in the world."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[50:29] Iain McGilchrist: It logically follows from the need to sustain a system in which you're maximizing profit, and profit is money. So the value is that of power and utility. And I've only really come to realize in the last 10 years how important values are, because an awful lot of people think values are a rather airy-fairy thing that is painted on at the end, you've got your model and you paint a bit of values in there and it might skew things a little bit. But what values you have begins to affect the process from the very, very start, because it affects what you're attending to and why. Because if your value is grabbing, then you pay this very disembodied, narrowly targeted, committed, focused attention to details that are isolated and taken out of context. All the nuance and implied meaning is lost, then you really have a different world. You are now creating a different world, one that has consequences outside for everyone else, but also your own world, your belief about what kind of a world you live in. We don't examine this. I think scientists particularly hardly examine what their values are. And I'm not talking in some airy-fairy way about now-fashionable political values. And I'm not saying they should have a mission statement. What actually matters in this world — I follow Max Scheler, the German phenomenological philosopher, who had a four-tier idea of a pyramid of values with just utility and pleasure at the bottom. And then above them comes what he called Lebenswarte, the values of life, which are things like courage, fidelity, magnanimity, generosity, all things we could do with a little bit more of these days. Then above them comes an allegiance to beauty, goodness and truth. And they're all in the doldrums nowadays as well. And finally, at the top is Heiliger, the holy. A lot of people nowadays will just dismiss that out of hand. I happen to think it's a very important element in the picture. However you look at it, this pyramid has been inverted so that at the bottom there are these airy-fairy things like the holy, the beautiful, the goodness, the true, which you can more or less forget about because they're only there to help you grab and get. This is chaos. And this produces a dysfunctional society, projects that are misconceived and a way of attending and being in the world, which is the important thing, that changes who we are, what we experience and what the world is like."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[53:32] Richard Watson: I couldn't agree with that. That's fantastic."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[53:35] Iain McGilchrist: They're not a fringe thing. They are at the core."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[53:39] Richard Watson: The scientific ideal is objectivity, which is another way of saying there are no values here. Yes, except the one of judgments about anything. I'm just objectively saying this is bigger than that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[53:53] Iain McGilchrist: Yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[53:54] Richard Watson: And so the it gets."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[53:56] Iain McGilchrist: That is a value judgment, of course."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[53:59] Richard Watson: It's already chosen what you were attending to, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[54:04] Iain McGilchrist: Exactly. How you will attend to it. So that you will only see certain things. When science, quite naturally—this is how it is now thought to progress—takes all values out and will not hear or speak of any kind of directional teleological principles. It then solemnly looks at what it has found and says, there are no values and there's no purpose. So it's all a meaningless mess. I've spent 30, 40 years straying a little towards the idea that if we accepted that it's not entirely absurd that these things could exist and actually make a huge difference to how we see biology, life, society, what a human being is and how we relate to the cosmos. We've gone away from what you were talking about, Michael, but..."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[55:07] Michael Levin: No, this is right, in the center of what's important."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[55:14] Richard Watson: That notion that the scientific way of looking at the world is entirely objective and prides itself on being so without acknowledging that we have to pick a particular question, pick which things we attend to, pick which you can measure. You can objectively say whether one thing is bigger than another, but you can't say whether it's better than another. It gets bottomed out in really crude, utilitarian ways. That's interesting to draw together with your understanding of that disparity between the hemispheres and the inductive, deductive way of thinking about reasoning and new ways of thinking about evolutionary processes. If you think of evolutionary processes as purely maximizing survival and reproduction, then it ends up not explaining anything about the complex beauty that we actually wanted to explain about organisms."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[56:31] Iain McGilchrist: Yes, and it causes a mystery because the more complex, the more conscious, the more interesting and responsive the creature becomes, the more its chances of long survival diminish. We are not very good examples, not because we do terrible things to ourselves, but even left alone, we have a lifespan of 70 years. Some trees have a lifespan of 1,000 years. And there is an actinobacterium at the floor of the ocean, the examples of which have survived a million years. They're doing very, very well at reproducing and surviving. But there's more to this story than that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[57:18] Richard Watson: If you wanted to maximize reproductive rate, we're not doing that either."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[57:22] Iain McGilchrist: We're not doing that. I think these things need to be brought into the picture in order to help us see what it is we're looking at. What do you think, Michael?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[57:36] Richard Watson: You Mike thinks it's time to go."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[57:40] Michael Levin: This is fascinating and we need to bring this up separately because there's a lot to be said on this. So could I propose that we wrap up for today and try again?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[57:53] Iain McGilchrist: Absolutely."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[57:54] Richard Watson: Yes, please."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[57:56] Michael Levin: Fantastic. OK. Thanks very much, gentlemen."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[57:58] Iain McGilchrist: Very good."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[57:59] Richard Watson: Very nice to meet you, Ian."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[58:01] Iain McGilchrist: Very nice to meet you too, Richard, and good to see you again, Mike. Good to see you. We'll compare our diaries."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[58:09] Michael Levin: See you guys soon."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[58:10] Iain McGilchrist: OK."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Richard Watson",
+      "text": "[58:11] Richard Watson: See you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Iain McGilchrist",
+      "text": "[58:12] Iain McGilchrist: Bye."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-2ee56ea897e40ade.txt",
+  "text_sha256": "5f0ac291693d4b179cc388becd49b2e28b7a3b5de16931abea22038d8cc53897",
+  "word_count": 8070,
+  "segment_count": 81
+}

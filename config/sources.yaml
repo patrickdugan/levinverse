@@ -1,1 +1,47 @@
-{"sources":[{"id":"levin-lab-audiovideo","url":"https://www.drmichaellevin.org/presentations/audiovideo.html","kind":"curated_index","authority":"primary","enabled":true},{"id":"thoughtforms-life","url":"https://thoughtforms.life/","kind":"site_index","authority":"primary","enabled":true,"include_terms":["Michael Levin","Mike Levin"]},{"id":"thoughtforms-podcast","url":"https://thoughtforms-life.aipodcast.ing/","kind":"podcast_index","authority":"primary","enabled":true,"include_terms":["Michael Levin","Mike Levin"]}]}
+{
+  "sources": [
+    {
+      "id": "levin-lab-audiovideo",
+      "url": "https://www.drmichaellevin.org/presentations/audiovideo.html",
+      "kind": "curated_index",
+      "authority": "primary",
+      "enabled": true
+    },
+    {
+      "id": "thoughtforms-life",
+      "url": "https://thoughtforms.life/",
+      "kind": "site_index",
+      "authority": "primary",
+      "enabled": true,
+      "include_terms": [
+        "Michael Levin",
+        "Mike Levin"
+      ]
+    },
+    {
+      "id": "thoughtforms-podcast",
+      "url": "https://thoughtforms-life.aipodcast.ing/",
+      "kind": "podcast_index",
+      "authority": "primary",
+      "enabled": true,
+      "include_terms": [
+        "Michael Levin",
+        "Mike Levin"
+      ]
+    },
+    {
+      "id": "levin-lab-talks",
+      "url": "https://www.drmichaellevin.org/presentations/",
+      "kind": "curated_index",
+      "authority": "primary",
+      "enabled": true
+    },
+    {
+      "id": "levin-lab-conversations",
+      "url": "https://www.drmichaellevin.org/resources/guests.html",
+      "kind": "curated_index",
+      "authority": "primary",
+      "enabled": true
+    }
+  ]
+}

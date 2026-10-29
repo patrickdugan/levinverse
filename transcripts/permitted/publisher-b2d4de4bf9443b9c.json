@@ -1,0 +1,34 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/bio-inspired-technology-science-biology-platonicspace/",
+  "title": "Bio-inspired technology? #science #biology #platonicspace",
+  "publication_date": "2026-10-15",
+  "video_ids": [
+    "RCxUr9hFjqQ"
+  ],
+  "related_video_ids": [
+    "Or_3tlEOLj4"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Michael Levin's talks",
+  "tags": [
+    "Michael Levin's talks"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-b2d4de4bf9443b9c",
+  "retrieved_at": "2026-10-29T09:33:01.241241+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] So now that we know that mathematics can offer you static patterns, what else could it offer you? We've been studying something we call free lunches. They may not be actually free, but the free free lunches in the physicist sense. When you build, whether it's a body or an embryo or robot or whatever you build, you pay a cost in designing it. You pay a cost in in evolving it, training it, but you always seem to get more out than you put in. And the delta, that difference between what you put out what you put in and what you get out are these patterns from this platonic space. So you can call it whatever you want. But what do you get? Well, we know you get static patterns. You also get trajectories of patterns, for example, the stage series of xenobots. But the most important thing you get are behavioral policies and goal states, targets for, intentional activity, and you get competencies that are recognizable to any behavior scientist. You get propensities for navigating spaces. This is quite amazing. These three lunches are are incredibly important. Evolution exploits them, you know, very, very readily. What you might think is biology clearly has some kind of magic where it can exploit patterns from a nonphysical space. In bio inspired engineering, what people try to do is they learn from the biology, and they try to use those principles in making technology. So what is it about biology? I mean, maybe it's evolution. Maybe it's the sheer complexity of it. Maybe there's some of quantum effect that's happening. Clearly, you're getting more out than you put in. And we could study this and talk for hours about how individual cells solve novel problems they've never seen before. We could talk about human geniuses and and prodigies. But the point is that you could think that, okay. Well, this is special. This is what makes us special. People have argued that while computers are just mechanical things, they can only follow algorithmic rules. We get inspired, whatever that means. Nobody has an idea for what that is. Scientists will tell you that, well, you're just chemistry, and and and so that's that. But in some sense, people think that, no. No. We're we're somehow more than that. We don't just follow rules. Completely unclear how that could be compatible with with the laws of chemistry as we know them. What I'm here to tell you is that while these free lunches from this from this space of patterns do very much affect biology, we are not special with this. Even extremely simple, and I don't have time, today to go into all the details, but deterministic short algorithms, for example, sorting algorithms, like classical sorting algorithms, even those simple deterministic things are doing things that are not literally in the algorithm. They have competencies that correspond to no code in the algorithm. Things like delayed gratification, homophily, biological kinds of things that are recognizable, clearly recognizable to cognitive and behavioral scientists. There is nothing in the code. We know because we can see the code. It's it's just six lines of code. And what you get is not just unpredictability or complex behavior, you get behavioral competencies. So what I think, you can read more about this here and also on my blog, is that bioinspired computing isn't when you make technologies that's biology inspired. What it is is when you make interfaces that are inspired by the same thing that inspires biology, which includes specific patterns of of behavior, of problem solving, of navigating different spaces that come from a nonphysical space."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-b2d4de4bf9443b9c.txt",
+  "text_sha256": "5da59d96f096d49b18051bc022333fe15d5e708f6fb52ea2ef93cd2d71c6fc2e",
+  "word_count": 615,
+  "segment_count": 1
+}

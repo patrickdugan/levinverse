@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -21,8 +22,16 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
     except ImportError as exc:
         raise RuntimeError("Install the optional 'whisper' extra to enable local transcription.") from exc
 
-    name = model_name or os.getenv("LEVINVERSE_WHISPER_MODEL", "small")
-    model = WhisperModel(name, device="cuda", compute_type="float16")
+    dll_handles = []
+    if os.name == "nt":
+        for parent in map(Path, sys.path):
+            for folder in (parent / "nvidia/cublas/bin", parent / "nvidia/cudnn/bin"):
+                if folder.is_dir():
+                    dll_handles.append(os.add_dll_directory(str(folder.resolve())))
+                    os.environ["PATH"] = str(folder.resolve()) + os.pathsep + os.environ.get("PATH", "")
+    name = model_name or os.getenv("LEVINVERSE_WHISPER_MODEL", "turbo")
+    os.environ.setdefault("HF_HOME", str(root / ".cache/huggingface"))
+    model = WhisperModel(name, device="cuda", compute_type="float16", download_root=str(root / ".cache/whisper"))
     segments, info = model.transcribe(str(media_path), word_timestamps=True, vad_filter=True)
     output_segments = []
     text_parts = []
@@ -44,7 +53,10 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
         "media": str(media_path.relative_to(root)).replace("\\", "/"),
         "source_url": permission_record.get("source_url"),
         "permission_basis": permission_record["permission_basis"],
+        "media_sha256": permission_record.get("media_sha256"),
+        "audio_url": permission_record.get("audio_url"),
         "model": name, "device": "cuda", "compute_type": "float16",
+        "runtime_versions": {package: __import__(package).__version__ for package in ("faster_whisper", "ctranslate2", "av")},
         "language": info.language, "duration_seconds": info.duration,
         "created_at": datetime.now(timezone.utc).isoformat(),
         "speaker_diarization": "not_performed",
@@ -52,4 +64,5 @@ def transcribe_media(media_path: Path, root: Path, permission_record: dict[str, 
         "text": "\n".join(text_parts),
     }
     output_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    output_path.with_suffix(".txt").write_text("\n".join(f"[{s['start']:.2f} --> {s['end']:.2f}] {s['text']}" for s in output_segments) + "\n", encoding="utf-8")
     return output_path

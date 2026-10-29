@@ -1,0 +1,656 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/discussion-with-michael-pollan-of-new-ideas-on-memories-and-selves/",
+  "title": "Discussion with Michael Pollan of new ideas on memories and Selves",
+  "publication_date": "2024-05-09",
+  "video_ids": [
+    "HQD3hVG8mO0"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-b2f67d6d33607d43",
+  "retrieved_at": "2026-10-29T09:15:50.578418+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[00:02] Michael Pollan: Great. This is Mike Levin on Wednesday, May 8th. From home, it looks like."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:10] Michael Levin: I'm at home today. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[00:12] Michael Pollan: I thought this \"Selves\" piece was absolutely fascinating."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:17] Michael Levin: Just thank you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[00:18] Michael Pollan: Fireworks of ideas coming off it. Very rich. So I'd love to ask you a few questions about it, to unpack it, and then we can make it from there. First of all, connect this thinking and this piece to your lab work. What brought you to these thoughts? And what were you seeing that made you want to answer the questions you answer in this piece?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:43] Michael Levin: Great question. First, I am really interested in information and how information is used by different components of the living body. Josh Bongard and I have been developing this notion of polycomputing, which is this idea that every subcomponent is hacking every other subcomponent in the sense that it doesn't know or care what the original intent of the message was. It's going to interpret it as best as it can."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[01:12] Michael Pollan: When you say it, are you talking about organisms? What are you talking about?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[01:16] Michael Levin: Every level. So cells, subcellular protein networks, pathways, organs, tissues, ant hills, everything. I think this is a fundamental feature of biology that it's a hacker in that sense that you have no allegiance to how something was intended to be used. You're going to do the best you can in interpreting what. That comes from working with Josh Bongard and his discoveries that the exact same physical mechanism can be seen by one observer to be computing one function and another observer to be computing a different function. So when you ask, what is this physical process computing, somebody might say, I know what it is. I wrote the algorithm, so I can tell you what it is. But in biology, nobody cares who wrote the algorithm. I don't care what you say. I'm interpreting your algorithm, your novel, your message in my own way; it doesn't matter to me what you think you meant by it. I get whatever I get out of it. It starts with that and attempts to understand how different biological systems interpret information. I was thinking that's one thing. The second thing is I think there's a lot of important work to be done to break binary categories that we naively think exist, but actually are just hiding a lot of limits on our imagination. And so this notion of data versus the machine that operates on that data and this idea that information is passive and then you have this active cognitive being that's going to operate on that data, remember it, store it, change it. I was thinking about ways that we could break that and make it into a continuum. I was thinking about the whole caterpillar-butterfly thing for many years. Originally the thing you might think is cool about it is the question of where's the information? Because the brain gets mostly refactored. I was taking a walk with my dad and it hit me that that isn't the most interesting part here. What's interesting is that the actual details of the information that the caterpillar learns are quite useless to the butterfly because it's going to have to remap all of it onto a completely different body with different priorities. It doesn't care about leaves anymore. It lives in a three-dimensional world. All of that has to get remapped. And what's going on here is what's preserved across lifetimes from that caterpillar to that butterfly is not the fidelity of the information. It's a kind of inferred salience. It's what does this mean to me? And what's actually passed on physically is some sort of engram; we don't know what it is. It could be an RNA like a glanceman says."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[04:12] Michael Pollan: What's an engram? Would you define that term for me?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[04:14] Michael Levin: An engram is a physical embodiment of a memory. It's anything in your brain or body that stores information. There is some observer later on, meaning a cell, a tissue, the whole animal, or a scientist or somebody else who's going to look at that physical object and say, \"Oh, look, I know what this means.\" They're going to interpret this as a memory. Ants."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[04:42] Michael Pollan: Is DNA an engram or not?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[04:44] Michael Levin: I think so. That requires a real shift. Most biologists would say no, but all memories are just messages from your past self and what's happening with DNA is that there's this giant lineage agent at the scale of an evolutionary lineage, and the DNA are its engrams where that information is being passed on the way that any memory would. Much like these other memories, it's up for interpretation, which is why you have this incredible flexibility of forms. You've got the same DNA, but if you're a salamander and I change the number of cells or the size of cells or do other things, you can still make things work because you don't interpret, you take it seriously, but not literally, that information. Going back to the butterfly, the engrams that are left there are to be interpreted. That leads to the question: to get back to your original question, what does it mean for our lab work? What we would like to do is communicate with the different parts of biology. We communicate with cells, tissues, and organs for regenerative medicine applications. Some people want to communicate with ecosystems. Somebody else wants to communicate with social structures or financial structures. We're interested in asking how, by understanding how a persistent agent, a self, maintains itself over time, you can learn something about how to communicate with it. We would like to rewrite those memories. If there's a birth defect or a traumatic injury and we want the cells to build something else, we really need to understand how these memories are interpreted. That's why this is of relevance to us."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[06:44] Michael Pollan: In the butterfly case, would you say there is a self that's continuous from caterpillar to butterfly?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[06:52] Michael Levin: So here's what I think we ought to do with this, and this is by no means a new idea. This is just process philosophy and made more practical in many ways. There's an old paradox, and I'm trying to figure out who first said it. I thought it was Bateson, but I could be wrong. Somebody had this paradox that said, if a species fails to change, then it will no doubt eventually go extinct. If it does change, then again, it's not the same species. And so again, it's gone. What can you do? That's the paradox. That same paradox is the same thing with us, because in a certain sense, if you insist on a definition of the self that is a permanent structure, it's a thing, then you've got the same paradox. Because if I mature, if I learn, if I expand, any of those things, I'm no longer me. And that's scary. At some point, is the child that you once were still here? In many ways, no. So that's a problem. But I think the answer both on the personal case and the evolutionary case is that what we need to do is define the self as a continuous construction of sense-making. So it's a process. It's not a single thing. That part isn't new. Plenty of people have said that. But I think the new thing is to understand exactly what it's doing. What I think it's doing is constantly trying to make sense of its own memories. So every, maybe 300 milliseconds out in a human, I don't know exactly, but you don't have access to your past. What you have access to is the engrams left by your past. You have the messages from your past self. So this constant process of trying to make sense of what do these chemical messengers mean — if it's RNA or protein or synaptic structures, whatever they are. What do they mean? Can I cobble together a coherent story of myself, my past, my environment, and be creative about it? The other thing that hit me is that you have a bunch of experiences, and you don't memorize the details, you have to squeeze them down, you have to compress them into some sort of inference, a generative model of everything that happened, right? So when it comes time to interpret this thing, to recall the memory, because it's compressed, you have to re-inflate it and you have to make it make sense for your new environment. Maybe you've changed, you have to re-inflate it. But good compression always looks like randomness. This is something that the SETI people point out, that a really advanced signal is going to look maximally random. Because when you compress lots of particulars into a general rule, the whole point of compression is to throw out all the correlations. Anything that's correlated, you can get rid of it because you can compress it out. But once you've done all of that, what you have looks really random. That means that on the interpretation end, when you look at these molecules or synaptic structures or whatever it is, in order to figure out what they mean, you can't deduce it in a deductive algorithm because the information isn't there. It's been stripped off. You have to be creative. It's more creativity, what people call intuition. You have to bring something to it. You can't just read exactly what it says because it's sparse. There's very little there."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[10:23] Michael Pollan: Now tell me exactly why do you have to compress?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[10:27] Michael Levin: You have to compress."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[10:28] Michael Pollan: Is it a bandwidth question or?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[10:30] Michael Levin: Because if you don't compress, all learning is about compression. Then what you've done is what the machine science, machine learning folks call over-training. You've memorized a bunch of particulars. If you're a very simple organism in a very simplified environment, that might even be okay. But normally the whole point of learning is you learn a rule. You don't remember if there were these pixels on my retina, then there were those pixels on my retina. You don't remember that. What you remember is this general thing leads to this other general thing. You remember these connections."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[11:06] Michael Pollan: So you're abstracting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:08] Michael Levin: It's generalization and abstraction."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[11:11] Michael Pollan: And that seems to me what's happened in the caterpillar butterfly case. In the experiment that you describe, it wasn't yours; it was somebody else's experiment."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:21] Michael Levin: It's not my experiment. It was first done in the 70s by Russian groups who did larvae to beetle. Then it was done by Doug Blackiston, who is a staff scientist in my center, but he did this work when he was younger. He did it with caterpillars to moths."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[11:40] Michael Pollan: And he did it, there was some training, some operant conditioning going on, to associate food with a certain color."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:47] Michael Levin: Yep."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[11:48] Michael Pollan: The abstraction there, or the result of the compression, was concept food rather than specific leaf or nectar."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:56] Michael Levin: It's two things. It's multiple things because we're not remembering leaves because the butterfly doesn't care about leaves. What do you do? Because the caterpillar is a soft-bodied creature, and the way you move a soft body, you don't have any hard elements to push on, so you can't do robotics the same way. You can't do controlling the same way. So there's a certain set of muscular motions that you need to do to make your way over to where the leaves are. That isn't going to help the butterfly. The butterfly doesn't move like that. It's got a completely different architecture. The abstraction there is from leaves to food, or maybe to pleasure or positive affect. How do we make use of that associative learning that this color leads to food or to pleasure? How do we remap that on a completely different controller? You see this even in vertebrates. This was Doug's work too: we can make tadpoles with eyes on their tails and they can see perfectly well. Isn't that amazing that with no extra evolutionary cycles, no adaptation, out-of-the-box, the brain could rely on getting connection from the visual system into the optic tectum and all that, and suddenly it's on your tail, no problem. It connects to the spinal cord, it didn't even connect to the brain. It makes it work."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[13:25] Michael Pollan: What's happened there, do you think? How do you think that, what's been remapped? What's been remembered and forgotten?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[13:31] Michael Levin: All of these are the reason life is so tolerant to these crazy kind of changes: it fundamentally assumes the material is unreliable. In other words, unlike all of our computer technology."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[13:52] Michael Pollan: The information."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: The information. The substrate. It assumes that the substrate is unreliable. This is how we build our computer technology. You make the bottom layer as absolutely rock solid as you possibly can so that all of the stuff on top of it can assume that everything is going to go well at the bottom. When you write code, you don't think your transistors are going to burn out. You don't worry about that. And so the goal is to keep the information from changing. And this is why that whole business of these microchips — how small can you make a microchip? — it's because you don't want the bits floating. When they get too close to each other, they start to fluctuate; the quantum effects start to fluctuate. You don't want that. You want all the bits to be exactly what they were before. You want fidelity of the information. Biology can't operate that way because everything is going to change. So on a small time scale, your proteins are going to degrade, your cells are going to die and be replaced. On a larger scale, you're going to be mutated. Evolution guarantees you're going to be mutated and things will change, not just environment, but also your own parts. I think that there may be exceptions. There may be organisms that aren't like that, although I doubt it. I think at this point, what survives and what biology strongly emphasizes is architectures where you assume the underlying material is unreliable. And what you're going to do is on the fly, you don't overtrain on your priors. You don't assume that the future is going to be like the past. You don't assume you know what any of your information means. You are going to try to reinterpret it at any given moment on the fly and do the best you can. And so if that gives rise to these kinds of systems where the eye is in the wrong place, we can do something with that. The detail is it's hard work to figure out: Okay, so where is the information actually going? It gets onto the spinal cord, then the brain learns to infer some connection between what the eye says and what the... does it even know it's an eye? I'm not even sure about that. But I think that's what's happening here: biology commits to a real-time sense-making process, not to the expectations of the past. I think that's the most interesting part. And that's what makes this stuff so flexible. And that's what makes biotechnology possible. It makes — I'll take my cells and slap them onto some weird scaffold made out of crazy nanomaterials and I'll instrumentize it with electrical signaling and optical whatever. And things work."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[16:16] Michael Pollan: So the butterfly has solved this problem of how can I change and can I change and still exist?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:27] Michael Levin: I think we all do. The butterfly is an egregious case, but all of us have the same problem because over time we are not the same. Whether it be the rearrangements of puberty or just the day-to-day wear and tear on the body, the whole ship of Theseus thing, where your materials are going in and out all the time. I think different species emphasize this to different extent. For example, planaria are the champions of this. Planaria: cancer resistant, incredibly regenerative, no aging in the asexual forms, no transgenic lines because they basically ignore new DNA that you put into them. There are no transgenic lines. People have been trying since the late 80s to make transgenic planaria. There aren't any mutant lines. The only lines of aberrant planaria that exist are our two-headed form and the cryptic form, and they're not genetic. What happened in planaria is that they, because they reproduce asexually, tear themselves in half and regenerate. That means that they accumulate somatic mutations. They don't clean the genome the way that we do with sexual reproduction. So they've accumulated so much junk that the only way to have a proper planarian is to assume the hardware is going to be unreliable. We've done computational models of this, and you can see evolution doing this. When you get even a little bit of regulative competency where the creature can make up for certain subtle defects, it becomes hard for selection to see the genomes. Because if you get an animal that looks pretty good, do you look pretty good because your genome was great or because it's terrible but you fixed it along the way? This is the stuff that we see when we make tadpoles with the scrambled faces and they see them, they fix them. So what happens is that when evolution has a hard time selecting for good genomes, all the effort goes into selecting for more competency, which in turn makes it harder to see the genome, which in turn makes for more. You get this thing where the pressure on the genome actually flattens out, but the pressure on the competency keeps rising. If you take that all the way, you end up with planaria in which everything went into making an algorithm, which is partially bioelectric and who knows what else, that basically says I already know my hardware can't really be trusted. Here are all the error correcting codes and everything else that we need to do to build a good planaria no matter what happens. Then you're insensitive to transgenes, to cancer, and all these things, because you're assuming from day one that all that stuff can't be trusted. Planaria are all the way there, and then salamanders are pretty good at it, but not as good as planaria, and then mammals, and then maybe something like C. elegans or Drosophila are on the opposite end, and they're just really hardwired."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[19:40] Michael Pollan: So your definition of self, how far down the evolutionary ladder does it go? Does it go to single-celled creatures? Are they selves? Or does it begin at a certain point in evolution, the self as an innovation to deal with these problems you're talking about?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:59] Michael Levin: I don't like binary categories for any of these things because they end up chasing us into these pseudo problems where you can always come up with these in-between cases and then you spend all your time trying to prop up this binary definition."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[20:16] Michael Pollan: Binary here between having a self and not having a self."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:18] Michael Levin: Correct. Yeah, exactly."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[20:20] Michael Pollan: So it's on a continuum."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:22] Michael Levin: I think all of it, yes, I think it's on a continuum, but the reason it's on a continuum is that I take all of these terms — having a self, intelligent, sentient, cognitive — these terms you want to use. I don't think they're about the system itself. I think what they refer to is your intended interaction with it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[20:45] Michael Pollan: As an observer, as a scientist."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:48] Michael Levin: As a scientist, as a conspecific, as a parasite, it's every agent with living, non-living, scientific, natural, you are going to take some stance towards whatever you want to interact with. And if you want to take a mechanical stance and say, all I see is a bunch of cogs and gears, the tools I have to interact with you are just hardware rewiring. Well, that works well for mechanical clocks and things like that. You try to apply it to a human. If you're an orthopedic surgeon, not bad. If you're a psychotherapist, terrible, right? Or a spouse, terrible. You want an orthopedic surgeon that thinks you're a mechanical machine. You do not want a spouse or a psychotherapist that thinks you're a mechanical machine. I think all of these things indicate the frame that you bring to the interaction and the set of tools you're going to use. And so you've got your rewiring, you've got cybernetics, control theory, behaviorism, you've got psychoanalysis, spirituality, drawing the spectrum, right? So how far down does it go? So what that means is, can we get utility? And that's why I harp on the engineering side of this, because I think this should all be tested by utility in the real world. Can we get utility by applying these concepts to single cells? Absolutely, I think yes. Can we apply them to molecular networks? Yes, within cells, I think so. We have data on this. Other people have data on this. Could we apply them to particles? Maybe. So I think Chris Fields and Carl Friston and some other people have done some really nice work trying to cash out physics as a kind of proto-cognitive substrate, active inference. There may be some other things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[22:41] Michael Pollan: I was going to ask you if you thought this was limited to the realm of biology. I realized Friston doesn't. His work seems to perform better when you transpose it to the realm of biology than when he starts talking about active inference in rocks and crystals. But I don't see the active piece."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[23:08] Michael Levin: I couldn't possibly reproduce the argument the way that he does it, but I think what he's saying is that Chris Fields has stories about this too, which is that there's an equivalency between what is a thing — what is a rock. This idea that active inference is quite symmetrical: when you're doing something to the environment, the environment is also learning about you. The claim there is that there is a very simple version of this that looks like physics to us. But if you crank up the relevant parameters, then you end up with things we call life. So here's what I would say about that. When we say biological world, what do we really mean? What's life? I think that what we mean by life is anything that is good at scaling up the cognitive light cone. The whole is capable of pursuing larger and more complex goals than the parts — that's what we call life. We don't do that for rocks because the rock has exactly the same cognitive light cone as the pieces that go inside the rock. It hasn't scaled anything. It's just exactly the same."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[24:31] Michael Pollan: It's not more than the sum of its parts."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[24:33] Michael Levin: In that particular way. Some people would do it; Tononi would do it off of integrated information. Different people do it different ways. I think it's all about goal directedness. I think you're not going to find larger goals that help you deal with the rock. It's basically the same. It follows the least action principle. That's about all you're going to get out of it. I think biology is what we roughly call things that are good at it. And that is a continuum. I think we don't need to spend any time arguing whether something is alive or not. The real question is, what's your model? What goals do you think this follows, and how does that help you have a richer interaction with the system? What tools can you bring from active inference, from behavior science? One example is we showed models of gene regulatory networks, which are just chemicals. It might as well be a rocket, just six or seven chemicals interacting with each other. What we showed is that if you bring tools from behavior theory, meaning different kinds of learning, associative conditioning, habituation, sensitization, you can do some really interesting things with those networks that have lots of biomedical relevance. It's already there. You don't need a cell, you don't need protoplasm. Just the mathematics of having a few nodes connected by these differential equations already gives you a bunch of stuff that we would call learning and that helps you. Again, my goal is not to do poetry and paint hopes and dreams onto these things. I make a very clear claim that if you know these things, you will do better in the biomedical arena than if you pretend they don't exist. That's not a philosophical claim. That's an empirical claim."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[26:28] Michael Pollan: You mean as a scientist or as a creature?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[26:32] Michael Levin: Both. First thing is, mostly what I talk about in public is the science. I say as a worker in regenerative medicine, as somebody who wants to discover new ways to use drugs, you will do better if you are able to use the tools of behavioral cognitive science on your cells and tissues than someone who doesn't. That's the first claim. But you could push it forward and say in our personal relationships it seems perfectly reasonable to me that we could apply the same reasoning: the way I pick frames for interacting with others is to see how well they work out for me. Purely empirically, if I treat you as an advanced metacognitive being, we can have a certain kind of relationship and that elevates me in a certain way. If I take one of the lower framings, that doesn't work out as well."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[27:40] Michael Pollan: And it's a way to test. It's a way to test the environment too. We're going to go in on the assumption that this is a cognitive being and we'll see what happens."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[27:48] Michael Levin: And we'll see what happens. You can go the other way. You can start and say, I'm going to go on the assumption that it's not and see what the limitations are. I prefer the former, but as long as everybody's in agreement that this is an empirical undertaking, we can't just have feelings about this and we're not going to argue about it for the next thousand years and never get anywhere. No, this is getting resolved because there's clear data. On a human scale, of course, it takes longer. So it takes maybe years for someone to say, my framing isn't working out for me. I'm going to try something different. That may take many years, but."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[28:26] Michael Pollan: It's what's happening in the whole field of plant intelligence: people assume plants are cognitive or have intelligence. Some people show they can learn, some show they can't. Taking selves to the human dimension, which I've been looking at for this chapter I'm working on, I've been talking to neuroscientists and people like Anil Seth, who's written about cells. One of the things that's curious, especially in light of what you've proposed in this piece, is that we're very invested in the idea of the unchanging self. It's curious we don't embrace the idea that this is a completely fungible subject to our remaking and our creativity. It's very hard to conceive of it. The definition of self includes some continuity. Why do you think we're so invested in the idea of a stable, continuous self, which we're being told by a lot of different discourses is not true?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[29:44] Michael Levin: I think I can make some hypotheses. I suspect that it's firmware left over from our evolutionary past, because if you were not wired to expect object permanence in the outside world. Babies acquire it very quickly and have some when they're born. If you're not good at seeking out object permanence and if you're not committed to persistence of your local self, I suspect that on the savannah and whatever the previous versions of that are, that doesn't play out very well. It's not very good to say, \"Go ahead and eat me, lion. My patterns will continue in the universe in another form. My future self will be undisturbed.\" I have much bigger thoughts than this. I suppose that doesn't work out too well. So I can see why evolution left us with some firmware that tries to dumb it down to this basic survival. I think that firmware has a bunch of other stuff that needs to be jettisoned, which is hard. One reason people don't like this kind of diverse intelligence work is that they worry about false positives. They worry about too many things being considered as if they were cognitive. You can make mistakes in that realm. We have people that are in love with bridges and married to the Eiffel Tower. That does happen. But I think what fundamentally drives this is a real deep-seated fear and an assumption that there's not enough love to go around: it's a zero-sum game in terms of intelligence. If we consider other things to be cognitive in some way, then mine isn't worth as much. I think that's ancient scarcity-mentality firmware from evolution that says no, there isn't enough of anything to go around. There's status, and it's a zero-sum game. If you don't have status in your group, you're screwed. So that's where I think some of this is coming from. But this is all armchair psychologizing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[32:20] Michael Pollan: The other reason is there are variables you want to keep steady. And one of the things that self does is help us with homeostasis. If you use the model that Seth talks about or some other people, we're always processing signals from our body and we're looking not to depart from certain temperature, blood gases. There's a whole range of things that we do want to stay in a very narrow range."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:54] Michael Levin: Yes, and I think that's the part of this firmware that I'm talking about. However, from the perspective of the child's body, the adult body is way off on homeostatic properties. From the perspective of the caterpillar, the butterfly is a terrible caterpillar. Everything is off, all of that. And I think this is true in embryonic development: from the perspective of the gastrula, the blastula is a birth defect. In fact, I actually think that's how development works: it's a set of repairs activated towards a fast-moving target morphology, which is encoded in bioelectrics and various other things. We have some cool data on this stuff that development is a whole bunch of repairs. I'm not even sure I believe in embryonic development anymore. I think it's all regeneration. I think it's all repair. But what happens is, your target moves faster than the anatomy is trying to catch up. So the target information is here. The anatomy says, oh my God, I'm all wrong. And so all these repair processes kick in and you make the metamorphosis. By the time you've done that, the pattern has moved on again and you're wrong again. So again, you have to change. So it's a set of repairs. So you just keep going from stage to stage until you catch up and that's adulthood and maturity. Then you get a different issue with aging. Keeping steady, yes, but everything is transformation, at least until you hit aging. Everything is supposedly a positive transformation. You're trying to change into whatever your next form is supposed to be."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[34:41] Michael Pollan: Do you think there are advantages to giving up on this idea of a stable self?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:52] Michael Levin: I think so. I think there are major advantages. One advantage is that it actually has implications for ethics of behavior. Because if you can sever that hardwired link between your current self and your future self, then one of the things that happens quite naturally is you start to think about other beings' future selves as having similar status. So normally you can be selfish into the future in the sense that that's still going to be me. But if you can understand that future self isn't quite the same as your current self, then you say, for the same reasons I care about this future self, for exactly the same reason, I ought to be caring about other creatures. That really exist. Because your future self and all the hard work you're doing to prop up your future self is not as tightly connected to your current self as we think. Breaking that would be helpful because then it would make it seem much more rational to be compassionate to others. Right now, it's very natural to invest everything in your future self, but once you realize that your future self is a different being in many ways. There are a number of weird intuition pumps around this stuff. Here's a few examples. One thing that people think about, and I think this was Anthony Flew's argument about reincarnation. He said, okay, if I don't remember, if I'm not going to remember the current life, then what's the difference. It might as well just be that I'll be dead and some other kid will be running around somewhere on earth, and good, there's plenty of kids running around on earth. What do I care? He was trying to say that memory is what keeps it going. The continuity of memory is what keeps it going. But you can imagine things like this. If somebody says to your current self, you need some surgery and you could save some bucks if instead of having real anesthesia you just have a paralytic. So you'll be paralyzed, we can do our thing. And in fact, that's a real thing that actually happens to people. It doesn't always work. So then you can save some bucks. The current self is going to go, absolutely not. But the future self, once you come out of it and they say that when you do get the anesthesia, part of the components is a short-term memory wipe. That's a short-term memory wipe. That's also a real thing, because they don't want you remembering this stuff. So you come out of it and somebody says to you, know what? I think that actually happened. You saved $1,000, but I think you were actually there. I know you don't remember a bit of it, and at that point, all right. Realistically, it's an issue because the trauma can carry forward, but let's imagine the memory wipe actually works. The future self will be, yeah, fine. Good deal. Good deal. So there's an interesting thing here. To the extent that we understand that our future self is a construction that is going to try to make sense of these memories, I think it helps you be kinder to others' future selves because they're in the same boat. For that reason, it's useful. It's also useful more broadly because to the extent that we understand what we are and how the biology works, I think it really helps us have a more ethical relationship with other beings. Right now, a lot of people are walking around with this very magical view of what humans do. They say, which humans—100,000 years ago, a million years ago, which humans? Or during embryogenesis, where does this magic kick in? Having a better understanding of the biology and what's going on is going to help us understand that there can be other minds that are not the conventional modern human mind and help us have better relationships with other systems, both biological and synthetic, artificial."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[39:22] Michael Pollan: It would probably make us better people, but on the other hand, this idea of the future self being continuous — that's what gets your work done, right? I'm writing a book. It's going to take me X years. It's going to be really hard, painful, but my future self is going to benefit when it comes out, when I get my advance. It seems to me there is some adaptive value, as you were pointing out on the Savannah, of having a strong sense of self-continuity, even though that might make you an *******."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[40:03] Michael Levin: No, I think it's true. There probably is some competitive survival value to it. I think back to some things I've done in the past, let's say some achievements. I find it hard to visualize that was me. I know historically, if I look in the record, everybody says it was me, so I know it's me. But thinking back, wow, that's amazing. I don't remember what it was like. It was years ago, so I don't remember what it was like to do it. And the feeling between me having done it and somebody else having done it is just a historical record at this point. Just a matter of historical record. I did things before that I probably couldn't do now. So what does that mean? Do I still keep the credit for it? It helps society to maintain records and to write and to reinforce these things. It's been a long time. Is it still me that did that? I don't know, because I don't think I could do it again."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[41:14] Michael Pollan: It's so interesting. To embrace this idea of self as constructing a creative act based on interpretation and misinterpretation of memories, it's a very exhilarating idea, in many ways, in that people are very stuck on either the positive case for selves, which is a myth, or the case against them, which is just demystification without any sort of positive benefit."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[41:47] Michael Levin: Just to put it on the radar in case you want to talk about it, there's an even weirder, if you think all of that was weird, the bit that I only mentioned in that paper that we could talk about is erasing the distinction between thoughts and thinkers, because that is even more of a profound traction."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[42:10] Michael Pollan: Talk, unpack that a little, because you raced over that idea. I think it's really interesting. I was asking this question, talking to Anil, and saying, can you have a perception without a perceiver or an inference without an inferrer? He was saying, yes, you can. I had a lot of trouble getting my head around that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[42:32] Michael Levin: Just a fair warning, these ideas are pretty new, so I'm still chewing on this. Take everything with a grain of salt. I'll start with a little story, just short. This is a real science fiction story that I read years ago and only now I'm understanding the significance of, but I wish I could remember whose it was. I don't remember. These creatures come out of the center of the earth. They're incredibly dense. They come out of the core. They're just incredibly dense. They use gamma rays for vision, super dense. So they come up here and everything that you and I see here is solid; it's just gas to them. They see because they're so dense, as far as they're concerned, the crust and everything up here is a very rarefied plasma. One of them, a scientist, has some tools and he says to the other, I've been watching this gas that surrounds this planet and there are persistent patterns in this gas, and they look like they're doing things. They look agential. The others laugh at him and say, no, look, we're real. We are actual thinkers. Patterns can't be thinkers. Patterns in gas can't be thinkers. He says, no, it looks like they're doing things, and I've done some experiments; they look like they have certain cognitive properties. They ask how long these patterns last. They only last about 100 years. That's ridiculous. 100 years, what could happen? We live millions of years. What could happen in 100 years? Right away you start to get the idea that the distinction between a temporary but somewhat persistent pattern in an excitable medium and a real solid thing is in the eye of the beholder. People who study metabolics will say that we're temporary metabolic patterns that exist in flux that is self-reinforcing; people who study these emergent self-reinforcing energy patterns, that's how they would describe us anyway. Once you start thinking about that, you can start asking about the distinction between thoughts as patterns within a cognitive system and what it takes to have thoughts. You start to think about a continuum. Fleeting thoughts — patterns that come in and they're gone. Persistent intrusive thoughts — once you've had them, they are hard to get rid of. Not only are they hard to get rid of, they do a bit of niche construction. Certain kinds of thoughts change the brain to make it easier to keep having those thoughts. They're modifying their environment to allow themselves to persist and multiply. You go from there and there's some exotic intermediates, but the next thing we know about is multiple personality alters. It's not just a single thought that hangs around. It's a bundle of thoughts that has some dynamics to it and can actually do some stuff. Then there are things that we call full-blown personalities, that are really consistent, at least for some period of time; they're consistent sets of thoughts. The thing about the right side of that continuum is that these patterns have done two things. One, they've closed the loop in that they reinforce themselves; they prop themselves up over time. Two, they can spawn off other thoughts. By the time you get to an alter, you've got a cognitive pattern that's complex enough to spawn off other simpler patterns. You try to draw a distinction between the thought and the thinker, and it's real hard, because all we're talking about is cognitive patterns, and some of these patterns, in the language of dissipative systems, are fleeting. Some of them are self-perpetuating, like the red-spotted Jupiter; they keep themselves going. Other patterns spawn off smaller patterns. Other patterns hang around for 100 years and we give them names."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[47:12] Michael Pollan: Don't they need, as you suggested, the host of brains, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:18] Michael Levin: First of all, I definitely don't think they need brains because these kinds of things go on in all sorts of media. They go on in protoplasm or in cells. I think there's lots of media."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[47:37] Michael Pollan: They're different substrates, not necessarily just brains."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:40] Michael Levin: Living substrates. Lots of different. We call the substrate living because it's a substrate that is capable of hosting self-reinforcing, goal-driven patterns, patterns that have agendas. That's what we call living. But you could have, and I'm sure out there in the universe there are all kinds of substrates that are capable of that. We're going to end up making a whole bunch with different software and material science that people are working on. I don't think there's anything special about brains per se for that aspect. But here's the craziest thing. I have zero details to back this up, but I'll just throw this out as a crazy thing. At the beginning of the 1900s, it was thought that self-perpetuating electromagnetic waves, so a pattern that perpetuates for long periods of time, required a material to be waving. You needed an ether; something was waving in order to have a wave. We did away with all that. You can have a pattern propagating with nothing waving. You don't need a material. You got rid of the luminiferous ether because you found out that the magnetic and electric components can reinforce each other and this thing propagates. So I wonder; this is something I'm toying with at the moment. If you could make a move like that, you could get rid of this cogniferous ether, AKA brains or whatever else, and you could have patterns that are actually self-reinforcing in the absence of all of that. I don't know specifically what physical model you would have. We need to think more about this."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[49:28] Michael Pollan: Because it doesn't seem like you need a physical model."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[49:32] Michael Levin: Correct. The first thing that'll happen is people say this is dualism and fair."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[49:40] Michael Pollan: Or idealism, actually."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[49:42] Michael Levin: Or idealism. I think that's true. Some of the stuff we talked about before about the practicalities of platonic space and the patterns that are there, I think this is in that same vein. Yes, those things are not physical. They're real in the sense that they make a huge difference to what happens next. The reason you need a physical story at some point is that you need to flesh out a story about the interaction with physical bodies. So what is it that happens when evolution produces, or an engineer produces a physical machine? What's the interaction between those patterns that come to resonate? Some people will say \"incarnate\"; Richard Watson will say \"resonate.\" When it comes to these patterns that are embodied in a physical machine, we need a story about what happens there, because otherwise they remain off in this scene."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[50:44] Michael Pollan: So they have to encounter something."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:46] Michael Levin: They have to. And we're actually doing work. This is not published yet, but we're actually doing some stuff on how you could. At this point, I think that the idea of an unchanging permanent platonic space where everything is fixed. I think it's much more interesting than that. I think there is a chemistry of these things in that space, and we have a computational way to start doing experiments there, and I have a student working on some stuff, so stay tuned. It is completely wild. Looking at agentic properties in sets of logical sentences, just sentences. Some of them are passive, and some of them are not. Some of them do things by themselves. It's really interesting. Going back to the whole butterfly caterpillar thing, I think that you can think about this thing as an hourglass slash bow tie where there's intelligence on the left side that takes all of these different experiences and generalizes and abstracts to some sort of compressed n-gram. The creative, intelligent part on the right side has to re-inflate it into whatever the current context is and figure out what the memories mean. But again, all of that first way of telling the story assumes that the information is passive and that all the intelligence is in the hardware. What if the data itself is not passive? What if these are patterns, as we were just talking about, using the medium of the physical process from caterpillar to butterfly to perpetuate and transform themselves? And what if they're doing niche construction to make sure that they do better? As a butterfly, you have some advantages. That goes back to the self-sorting data in the algorithms. The sorting algorithms where the distinction between the data and the algorithm is in the eye of the beholder. If you look for it, you can find the data doing things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[53:06] Michael Pollan: How could you prove that there's agency in?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[53:10] Michael Levin: The way you prove agency in anything is you show, and this is an engineering take, you show how doing so helps you do something new. How does it help you? My argument is that back in the olden days when people said there's a spirit under every rock versus now where the scientists say there isn't any anywhere, both of those things are wrong because you have to do experiments and you have to say, here's my theory, here's what it does for me. Here's what we're doing for the sorting algorithms thing. What we found, and this was just the first thing we looked for, I think there's more, but we just haven't found it yet. The first thing we found is these algorithms doing stuff that is not explicitly in the algorithm. They're doing this clustering behavior that is not in the algorithm. So there are no steps to do that in the algorithm. When you're looking at an algorithm, it has a cost to it. Every computation costs something. What we see is that there's an algorithm the computer's carrying out that you pay an energy toll to do, but it's also doing something else. And it looks to me like it's doing that for free. Here's how I would do it. I have somebody in my lab who's working on this right now to harness that to some other task that's actually useful. Because if you can do that, the second task is getting done for free without paying an energy bill for it. Now, obviously that sounds impossible. I understand that, and it may well turn out to be impossible. But that's the kind of thing you have to show an example where I took seriously the idea that this thing had its own goal-directed activity. I harnessed that goal-directed activity; it's like the donkey with the carrot on the stick. By understanding what the drivers of this agent are, I can harness it to do useful work. And if I can do more useful work per unit of cost for compute than somebody else who doesn't believe it, that's it. There's no more to be had than empirical success. So that's the kind of thing that I think we're going to have to do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[55:23] Michael Pollan: You need memories to have a self, yes? Can you have a self without memory?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[55:30] Michael Levin: You can have a selflet. You can have a slice. I do think, and this is going beyond anything that I can usefully show. Thin slices do have experience and they probably do have some consciousness associated with them. But if you don't have a carry through, then you become fleeting thoughts. You become a set of fleeting thoughts as opposed to a coherent reinforcing pattern."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[56:04] Michael Pollan: That you could make a story out of. You did; you used the C word and you used it several times in this paper. After last time, years ago when we met, you were conspicuously avoiding it. There's a really provocative sentence — could you unpack a little for me: \"Could consciousness simply be what it feels like to be in charge of constant self-construction, driven to reinterpret all available data in the service of choosing what to do next?\" Tell me how you're thinking about consciousness."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[56:40] Michael Levin: I still largely avoid it because what I don't have is a full-blown new theory of consciousness that I'm prepared to defend strongly. I'm working on it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[56:49] Michael Pollan: Nobody does."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[56:53] Michael Levin: There's a lot of people who are willing to get up with it, get out with it. I don't have anything like that yet. But here's what did strike me. Mark Solmes, whose work on this I really like, has this interesting point of view: consciousness is palpated uncertainty about the future. So the idea is that consciousness is what it feels like to have to be in charge of knowing what to do next. This idea leads to active inference: what do these patterns mean? What can I expect next? How do I minimize my surprise? So here's another hypothesis: all that is true, but there's an even deeper problem, which is that as a conscious agent, not only do you not know what to do next, you don't even know what your own memories mean. You have the constant burden of having to reinterpret your own memories all the time. It's subconscious. If this is something we had to do consciously, we would never make it. But it's a little bit like people who have brain damage and can't form new memories: you wake up in the morning and there's a notepad next to your bed that says, \"You can't form new memories. Here's where things stand. Before you go to bed tonight, write the next note.\" And so that's what all of us do, but for all of us that scratch pad is internal; for ant colonies and certain kinds of patients, you have to externalize those memories somehow. So I think that we're all in that boat: every so many milliseconds, you have to reconstruct the story of who you are, what you are, what your plans were. And we don't notice it because it has to be automatic."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[58:49] Michael Pollan: We notice it when we wake up in the morning. There's an interesting moment of reconsolidation of self."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[58:56] Michael Levin: I wonder if this is the problem with trying to make sense of our dreams too. I'm no expert on dreams, but I wonder if part of the issue is that at night you don't really do a super good job of encoding memories in a way that your future self is going to decode them, and that's why you have crazy dreams where you can't even figure out what it was. It's basically because you're looking at these anagrams: \"I can't make heads or tails of this.\" And it's just more difficult than waking memories. That's a hypothesis. But I wonder, for consciousness, I think Mark is right, but I also think that there's an even deeper task facing ourselves, conscious selves, which is that you can't even really rely on the past. You have to reconstruct it all the time. You have to figure out what you are and recommit to being an agent doing things. So that was my hypothesis. I think it's a fascinating idea."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[59:59] Michael Pollan: About the social world, but that is helping us in a funny way and constraining us. You're being told who you are all the time by the people around you, who keep you in certain roles and limit your ability to change. There's a softening of selves that happens when you're not in a social environment, it seems to me. So I thought about this too with regard to psychedelics, which have interesting effects on the self and on memory. All sorts of stuff comes up. People talk about a period of ego dissolution, a complete loss of sense of self, yet they're still conscious. And then this putting things together in a new way, especially with the trauma victims who are treated, they take out their memories, difficult memories, and when they reconsolidate them, they're not the same. They've lost the emotional charge. There's a very interesting process of playing with your memories in psychedelic experience so that you end up being a slightly different self when you come out. If it's working, that's the theoretical model: get you out of your habitual ways of looking at things and those ruminations. Those are the thoughts you were describing that take up residence in your brain that you might not necessarily want."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:01:33] Michael Levin: That's super interesting. And I wonder if there is a clinical path here by taking seriously the idea that some of those thoughts may not want to leave, literally."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:01:49] Michael Pollan: That is trauma. That's part of trauma."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:01:51] Michael Levin: I wonder if, taking seriously their ability to process information, maybe not in the same way as a full-blown alter, but still not passive data, but actually a pattern that can, a dissipative system that can actually process information. It may. I've heard various kinds of alternative therapists wanting you to talk to your different. If these patterns can process information to some extent, there may be stimuli you can give them where you're not just treating the brain to take care of this. There is something to be said for communicating."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:02:42] Michael Pollan: This is the theory in treating schizophrenia. You are hearing voices. Why don't you talk to them? Or why don't you let me talk to them? Trauma, memories of trauma do process information because you hear a gunshot or a siren, and it's processed as that. They are still active in your brain in an interesting way."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:03:11] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:03:13] Michael Pollan: That's very suggestive. I'm going to let you go in a second. I just have one or two more questions. This relates to that psychedelic point, but it's interesting that we cherish ourselves when we talk about self-esteem and building up the self with our kids. We're very wedded to the idea of, as I said earlier, this unchanging, enduring self. Yet at the same time, we'd spend a lot of effort trying to transcend it and escape ourselves, whether it's through drugs, travel, experiences of awe that diminish the self, religion, giving yourself over to the group. Why do you think we also want to transcend selves?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:04:10] Michael Levin: There are competing drives. There's the evolutionary firmware that says, defend yourself at all costs. That's got to be in there. But there may well be an opposing component that says if you stand still, you're also not going to make it. With active inference, there's this thing, surprise minimization. The easiest way not to be surprised is to stick your head in the corner and not look at anything. There will be one final surprise at the end when somebody eats you, but that's it. Until then, you're not surprised. In biology, there's gotta be two competing drives. One is surprise minimization and one is exploration, where it says if you haven't seen anything new in a long time, you might be stuck in a corner, you better do something else. Maybe it's something like that. Maybe it's like, yes, defend yourself, but also if you're too stuck and you haven't learned anything new and you haven't improved and you haven't whatever, then I don't know if that's something that comes from the biology itself, meaning just a drive with actual selective advantage, or whether that's a consequence of being an advanced being that has some sort of semi-spiritual drive to improve over time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:05:36] Michael Pollan: Are you familiar with this binary between exploring and exploiting?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:05:41] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:05:43] Michael Pollan: It reminds me of that idea that there is a desire. We spend a lot of time in exploit mode as adults, but we also need to do the exploration. The exploit mode has the strongest sense of self, psychologists would say."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:06:00] Michael Levin: I think that makes sense. And I wonder if aging on a cellular level, if aging is a part of that. How so? Well, you chase the moving target morphology as an embryo and eventually you reach your adult form and that's it, you've caught up. And so now the name of the game is to defend against tiny local defections of cancer and degeneration and cells getting old. But if once you've given up that you're on a trajectory for some construction project, maybe that's it. If you're stuck in a rut of exploit and you're not exploring anything, that may be when things start to go to pot. I don't know. The kind of familiar folk example is the people who retire from their job and then immediately drop dead. Maybe something like that is going on a cellular level where, when there's nothing pulling you — the forces which we study during development that pull you from stage to stage — at that point things start to go downhill. I don't know."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:07:19] Michael Pollan: I noticed in your acknowledgements, Bernardo Castrup was in there."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:07:28] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "Michael Pollan: I'm talking to him tomorrow. I've never met him."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:07:32] Michael Levin: I've had a couple of conversations with Bernardo online and he's a super interesting dude. Computer science background and philosophy. He's got this idealist model. I think he's very interesting. He did a session with Rupert Spira and they talked about this notion of all of us being dissociative alters of the great cosmic mind. I think you'll have fun. He's a very smart guy."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:08:06] Michael Pollan: I'm reading his book right now. He has a new book that he sent me a copy of. The epistemology piece seems very persuasive. The more we learn about active inference and the fact that we're constructing our perceptions, that our perceptions are limited by our cognitive equipment, and that the world we're seeing is mental to a greater extent than we realize. But then he goes to the next step that what's really there is mind. I don't understand that. He asserts it without arguing it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:08:37] Michael Levin: He's got, I think, five other books that he's probably leaning on. And I'm not going to try to make his argument for him, because I think I'll butcher it. He'll do a much better job of it himself. You can ask him to just say it. But I think that fundamentally, I like that idealist position in the sense that I think what actually propagates through evolution, through the universe, I think the fundamental pieces are perspectives. So I don't think it's genes. I don't think it's bodies. I think it's perspectives. And so what I mean is that any agent, you can't afford to try to see the world as it is in the sense of a Laplacian demon. You can't afford to track microstates because if you try to track microstates, by the time you figure out what's going on, you'll be long dead. Any biological system in the real world has constraints of energy and time. So what that means is you're going to coarse grain. You're going to decide, what am I ignoring? What am I paying attention to? I'm going to take all these kinds of observations and lump them together. This is not just humans doing this; every cell, every bacterium, everything's doing this. So what you really have there then is a perspective. It's a commitment to, it's a set of choices that say, here's what I'm paying attention to, and here's how I make sense of it. Here's what I think it means. It's an interpretation. So that's what I think is perpetuating through the universe and being selected on and altering with time and all that: a set of perspectives, a particular vantage point of saying, here's how I make sense of my world. And once we understand that, every cognitive being is limited; every real being is finite. We're all limited. We all have to choose a perspective that ignores all kinds of other stuff. It's not just about being able to sense a small, narrow band of the spectrum. That's true, but it's much more than that. It's cognitively, not just perceptually, that we're limited. Then it's all about."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:10:56] Michael Pollan: Are you talking about perspectives in the minds of living things, or are you talking about perspectives at large?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:11:04] Michael Levin: I'm talking about perspectives. We can talk about what living things are, but I think that any agent that has to, whether we would call it living or not, any robotic thing, any system that solves problems in a world, is going to have to have a perspective on that world. For a rock, you don't worry too much about its perspective, although with potential energy and things like that, you almost get there. But for most things that have a significant inner perspective, we call those living, typically, but doesn't have to be. Gene regulatory networks, what's the world that they navigate? It's not the physical three-dimensional world. It's a high-dimensional transcriptional space that they live in. I think from that perspective, what ends up being emphasized a lot more is what choices you are making about your cognitive framing of your world and a lot less about some objective world existing out there somewhere. I think that's how you get to idealism: by recognizing that all real agents are going to be finite and limited. Therefore, what you're really talking about is an inner world that you're building for yourself. It's your own self-model that's at play here, not some objective thing. Your self-model or your model of the world may or may not be compatible with mine."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:12:41] Michael Pollan: So in your view, though, I'm assuming something, but I could be wrong. The prerequisites of self and the process you're describing, do you think that can be embodied in a computer?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:12:57] Michael Levin: Yes, but whether something is a computer or not is in the eye of the beholder. What we mean when we say something is a computer is that I have a set of conceptual tools that I bring to the table here that come from computer science, and I'm claiming that those tools are useful. That's all it means. Do I think that some of those tools are useful to understand cognition? Yes. For example, reprogrammability and software are extremely useful. Do I think the von Neumann architecture and the sharp distinction between data and the machine are particularly useful? No, I think we'll have to dump those. Do I think that at some point we could make synthetic beings that have the right features? Absolutely. I don't see any reason why. It seems completely backwards to me to say that the blind meanderings of the evolutionary process can create real minds, but intelligent engineers who understand how minds work can't do it. That seems crazy to me. So I think that, for sure, once we understand — and I think we're getting there — we understand a few of the key features. I don't see any reason why we couldn't re-implement them in a synthetic substrate. Sure."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:14:12] Michael Pollan: But you'd need a substrate that, as you've said, is not at all like a von Neumann."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:14:17] Michael Levin: I think you need a number of things. I started writing those things down. I started writing a paper months ago to say, look, these are the things we've learned from biology. If you just do these things, you will have a real agent. Then I stopped. I don't think this is going to solve it because somebody else will do it, but I didn't want to be responsible for it because to whatever extent that's on the right track, it may not be, but if it is, then it makes it very easy to make trillions of other beings that deserve moral consideration. I'm not really interested in being the cause of that, but I'm sure this will get figured out."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:15:07] Michael Pollan: Other people are working on it, including Mark Somes, by the way."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:15:12] Michael Levin: Yes, that's right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:15:14] Michael Pollan: It's very simplistic and it's using computers as they now exist."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:15:20] Michael Levin: Of anybody's project that has a chance of doing something like that, I think his is at the top of the list. I think he could do it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:15:30] Michael Pollan: Are you writing a book, a trade book?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:15:37] Michael Levin: One Pagan and I are writing a book on bioelectricity. It doesn't have any of this stuff in it. It's just straight up bioelectricity. But the next book, if I get there, will be all of this stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:15:54] Michael Pollan: Great."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:15:55] Michael Levin: Evolution, cognition, all that stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:15:56] Michael Pollan: Are you going to do that for a general audience?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:16:00] Michael Levin: I don't know. Richard Watson and I are probably going to do it together, or maybe we'll do two books. Maybe it'll be two books back-to-back or something. We'll have maybe inverted like the way that was done for the Plenaria Journal. I'm having a really hard time figuring out what is the best thing to do here, because on the one hand, I could do a book for a general audience. I think what would happen then is that there will be a set of people from, let's say, the alternative new age community who would read these things and they say, \"We've known this for a long time.\" And they don't need scientific experiments to prove it. They're already in for it. And then there will be the science community who will say there's not enough meat here to convince me of any of these crazy things. So I worry about that issue for the trade book. It sounds like that could miss the impact. On the other hand, if we do an academic press book where you go into detail on all of this stuff, I'm not sure which of my colleagues have time to read something like that. Who's going to read it? I don't know."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:17:28] Michael Pollan: I think you've got a really interesting book around some of these ideas. And I think it'd be of interest to a lot more than New Age people. Do you have a literary agent?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:17:40] Michael Levin: I do. Yeah, I do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:17:42] Michael Pollan: It's a conversation to have with that person. Is it Brockman's shop or something?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:17:46] Michael Levin: It is. Dan introduced me to Brockman. He obviously wants a trade book. The other thing is they don't like images and they certainly don't like color. I have some amazing color illustrations. That feels weird to me in this modern day and age with computers — do we even need a book? Couldn't I just put it all on a website? Why do we need a book? And somebody's going to tell you not to use color."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:18:16] Michael Pollan: Good luck with that. I think that these ideas would be of interest to a lot of people in a lot of different fields. They're very interdisciplinary ideas. I think the right trade book would reach your colleagues in philosophy and computer science. It's fascinating stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:18:39] Michael Levin: I appreciate that. I'll be in touch because I definitely want to pick your brain when it comes to time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:18:44] Michael Pollan: I'm happy to read a proposal if you do that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:18:47] Michael Levin: Yeah, I'd love to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:18:48] Michael Pollan: Any kind of suggestions?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:18:49] Michael Levin: That'd be super useful. Thank you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Pollan",
+      "text": "[1:18:51] Michael Pollan: And I'm going to be in Cambridge this fall, so I'll look you up and we can get together in person."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:18:55] Michael Levin: Definitely. Yeah, we'll hang out."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-b2f67d6d33607d43.txt",
+  "text_sha256": "9d7a2f081ba0642f3f15b85fef78c41963b626a8bb16639b957c637279d45b77",
+  "word_count": 12160,
+  "segment_count": 126
+}

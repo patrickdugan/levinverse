@@ -1,0 +1,771 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-1-with-steven-strogatz/",
+  "title": "Conversation #1 with Steven Strogatz",
+  "publication_date": "2026-08-22",
+  "video_ids": [
+    "S9rkn4eJakY"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-6246cf1a6da53df4",
+  "retrieved_at": "2026-10-29T09:14:14.383210+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "speaker": "Michael Levin",
+      "text": "[00:00] Michael Levin: The first thing I want to understand better is how do you see the nature of explanation in mathematics? When we come up with what to me look like mathematical facts, when somebody says to me, we have formulas for solving quadratic equations and cubics, but after five, we can't, I assume that's a real fact. There's no single formula like the"
+    },
+    {
+      "start_seconds": 22,
+      "speaker": "Steven Strogatz",
+      "text": "[00:22] Steven Strogatz: quadratic equation. Yes."
+    },
+    {
+      "start_seconds": 23,
+      "speaker": "Michael Levin",
+      "text": "[00:23] Michael Levin: That's"
+    },
+    {
+      "start_seconds": 24,
+      "speaker": "Steven Strogatz",
+      "text": "[00:24] Steven Strogatz: a real fact. Okay."
+    },
+    {
+      "start_seconds": 25,
+      "speaker": "Michael Levin",
+      "text": "[00:25] Michael Levin: When you have facts like this, how can we compare that to explanation in science, or maybe we can't? But how do you see being able to explain facts like that? What does that mean to a mathematician?"
+    },
+    {
+      "start_seconds": 40,
+      "speaker": "Steven Strogatz",
+      "text": "[00:40] Steven Strogatz: That's a really great question. I like that. I've been thinking about that a lot lately too, especially in connection with AI, because of what the computer scientists like to call the interpretability problem, right? That a machine learning system might give you some very nice prediction. Or let's take that case. I'm thinking of a colleague at MIT named Regina Barzilay. Do you know her name? Have you run into her?"
+    },
+    {
+      "start_seconds": 74,
+      "speaker": "Michael Levin",
+      "text": "[01:14] Michael Levin: I do not."
+    },
+    {
+      "start_seconds": 75,
+      "speaker": "Steven Strogatz",
+      "text": "[01:15] Steven Strogatz: No. She's at MIT, and she's a computer scientist who had breast cancer some years ago. In 2014, she was diagnosed. She was 43 years old at that point. She was from Moldova, then Israel, then the US. And she was recently divorced, had a little son, seven years old, no family in the US. She said to me when I was interviewing her for this new book that I have coming out, \"If something happens to me, what's going to happen to him?\" She was really scared. The point of the story is that she goes to get treated at MGH, and it's a magnificent hospital. And she went through this awful two lumpectomies, chemotherapy, radiation. And she asked them, \"For someone in my situation, what could I expect? What happens to people like me?\" And they said, \"Well, we don't really know exactly.\" They have the data. They had all the mammograms. They have hundreds of thousands of them, and they also have outcomes of those women that were followed up for years afterward, but they never put them together. This is 2014. She was really outraged that machine learning in 2014 was good enough that you could actually do a principled study. And so she did that. She has created what is now the best AI for breast cancer risk prediction, better than any known method. When I asked her, \"What does it see that the human—\" because her idea was there must be something in the first mammogram. She had already had three mammograms. She was 43. This is her third one. She thought, \"I bet there was something when I was age 40,\" because these things don't necessarily grow that fast. They might. They might not. But is it possible that there was something in the first mammogram that nobody saw? And, of course, there was. And the AI sees something, but the part that's interesting in terms of explanation is we don't know how it's doing it. And then I asked her, \"Does that worry you?\" And she said—this is really haunting to me; it sticks in my mind—\"Why would we limit the model to what humans can understand?\""
+    },
+    {
+      "start_seconds": 261,
+      "speaker": "Steven Strogatz",
+      "text": "[04:21] Steven Strogatz: If we have predictions without explanation and they turn out to be good or maybe even right, what do we think about that? That's not exactly math. This is obviously dealing with big data and something very difficult. In math, our situation is much easier. We have agreed-upon definitions for the most part and axioms—standard Zermelo–Fraenkel or whatever axioms people want to start with—and agreed-upon rules of logic. So we have the objects, and we have the rules, and so we can make deductions. In my world, explanation is very related to logical deduction. If you want to apply it to science, Kepler has the data from Tycho on the planetary motions and then he sees patterns, but he can't explain them. Kepler has his three laws that work, but he doesn't know why they work. One of his laws says if he draws an imaginary line from each planet to the Sun, that line sweeps out equal areas as the planet moves around the Sun. In equal amounts of time, the sector swept out by that imaginary line is always the same. So there's this equal areas in equal time thing. For him, it's very mysterious because why is this imaginary line connected to the Sun? It's like the Sun is doing something. But what? Because he doesn't have universal gravitation—that waits for Newton. In fact, Kepler thinks it's something about magnetism, which is a new scientific phenomenon at that point. People knew about magnets, but to study it scientifically, that was of his era. He had this notion there might be a force, but the point being that Newton, through these very simple laws and then very difficult deduction, could deduce Kepler's laws from simpler, deeper principles. For us in physics, that would be an explanation of Kepler's laws because they were deduced by math. The problem with that as a view of explanation—this is a totally standard thing in philosophy of science. When I took philosophy of science as a freshman in college, I learned some jargon about this: they call it the deductive-nomological model of explanation. I don't know which philosophers get credit for it, maybe Hempel or Nagel or some philosophers of science from the 1930s or '40s. This deductive view of explanation is very much a physics-oriented view, and I don't think it would generalize too well to psychology or biology because you don't tend to have—there must be parts of biology where you could do this kind of logical deduction, but not that many. You've got history. You've got contingency, evolution. How does explanation look to us in math?"
+    },
+    {
+      "start_seconds": 448,
+      "speaker": "Michael Levin",
+      "text": "[07:28] Michael Levin: What I mean is that, for example, in science, one thing that some people try to do is a reductive explanation. So you look, well, this system is doing X, Y, Z because the parts were doing A, B, C. And there's some notion of a direction. You're going down in some way. And I think, actually, interestingly enough—and I don't buy the idea that that's the entire way to do it, but that's neither here nor there—people do that. And then, of course, what's interesting to me is that at some point, you always end up in the math department. If you keep asking why, eventually, you start somewhere in biology, and eventually, you end up with some symmetry property of some mathematical object or something."
+    },
+    {
+      "start_seconds": 493,
+      "speaker": "Steven Strogatz",
+      "text": "[08:13] Steven Strogatz: Are you saying that because you're saying that a biology explanation, thinking in terms of the tower of reductionism?"
+    },
+    {
+      "start_seconds": 501,
+      "speaker": "Michael Levin",
+      "text": "[08:21] Michael Levin: No, not at all. To physics? No, not at all."
+    },
+    {
+      "start_seconds": 504,
+      "speaker": "Steven Strogatz",
+      "text": "[08:24] Steven Strogatz: No. Does it have to do with math then? Tell me again."
+    },
+    {
+      "start_seconds": 506,
+      "speaker": "Michael Levin",
+      "text": "[08:26] Michael Levin: Here's an example. The cicadas come out at 13 years and 17."
+    },
+    {
+      "start_seconds": 513,
+      "speaker": "Steven Strogatz",
+      "text": "[08:33] Steven Strogatz: you ask Oh, that"
+    },
+    {
+      "start_seconds": 513,
+      "speaker": "Michael Levin",
+      "text": "[08:33] Michael Levin: Thing with the cicadas? So you ask the biologist, \"Why thirteen and seventeen?\" And they say, \"Because they would wanna not be timed by their predators.\" That's a nice biological"
+    },
+    {
+      "start_seconds": 522,
+      "speaker": "Steven Strogatz",
+      "text": "[08:42] Steven Strogatz: That's a standard answer."
+    },
+    {
+      "start_seconds": 523,
+      "speaker": "Michael Levin",
+      "text": "[08:43] Michael Levin: And you say, \"Great. And so why thirteen and seventeen?\" And you say, \"Because they're prime.\" And you say, \"So why are thirteen and seventeen prime?\" Go see the math department."
+    },
+    {
+      "start_seconds": 532,
+      "speaker": "Steven Strogatz",
+      "text": "[08:52] Steven Strogatz: Oh, but wait. Doesn't anyone say, \"Why not seven and eleven?\""
+    },
+    {
+      "start_seconds": 536,
+      "speaker": "Michael Levin",
+      "text": "[08:56] Michael Levin: That may well be. They may, but in any case, whatever these things may."
+    },
+    {
+      "start_seconds": 542,
+      "speaker": "Steven Strogatz",
+      "text": "[09:02] Steven Strogatz: But I'll"
+    },
+    {
+      "start_seconds": 542,
+      "speaker": "Michael Levin",
+      "text": "[09:02] Michael Levin: Once you get there, whatever it is, you now have left the realm of biology, and you're now looking at mathematicians to tell you why 13 is special and seven and eleven and so on."
+    },
+    {
+      "start_seconds": 554,
+      "speaker": "Steven Strogatz",
+      "text": "[09:14] Steven Strogatz: Well, you"
+    },
+    {
+      "start_seconds": 554,
+      "speaker": "Michael Levin",
+      "text": "[09:14] Michael Levin: So I'm just curious. Does it go laterally? Does it go down? When you have a mathematical fact or observation, what does it mean to then explain that? I've seen people go sideways and say, \"Oh, well, this is just like this other thing in topology,\" or whatever. I was just wondering, how do you think about explanation for purely mathematical facts? Staying within math."
+    },
+    {
+      "start_seconds": 582,
+      "speaker": "Steven Strogatz",
+      "text": "[09:42] Steven Strogatz: World of math, what does explanation apply to us? Let me try to engage with that more. I think it's actually a pretty rich topic, what you were just talking about with the connections between biology and math."
+    },
+    {
+      "start_seconds": 595,
+      "speaker": "Michael Levin",
+      "text": "[09:55] Michael Levin: Sure."
+    },
+    {
+      "start_seconds": 596,
+      "speaker": "Steven Strogatz",
+      "text": "[09:56] Steven Strogatz: I would like to, if you want to return to that. But if we're just staying inside of math, let's think of it as pure math where we need not even look at the"
+    },
+    {
+      "start_seconds": 606,
+      "speaker": "Michael Levin",
+      "text": "[10:06] Michael Levin: world"
+    },
+    {
+      "start_seconds": 606,
+      "speaker": "Steven Strogatz",
+      "text": "[10:06] Steven Strogatz: Yeah. At all."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": "Michael Levin",
+      "text": "[10:08] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": "Steven Strogatz",
+      "text": "[10:08] Steven Strogatz: Although, of course, a lot of the ideas in math are inspired by things in the world, I think. That's another question we could talk about. When people think about circles, is it related to me looking at the iris in your eye and seeing something that looks like a circle, or looking at the moon? But even if we're not making measurements or observations, we could maybe imagine a circle, maybe. I don't know."
+    },
+    {
+      "start_seconds": 636,
+      "speaker": "Michael Levin",
+      "text": "[10:36] Michael Levin: Things like the fact that there isn't a general formula for high degree."
+    },
+    {
+      "start_seconds": 643,
+      "speaker": "Steven Strogatz",
+      "text": "[10:43] Steven Strogatz: know Yes. The roots first, fifth degree."
+    },
+    {
+      "start_seconds": 645,
+      "speaker": "Michael Levin",
+      "text": "[10:45] Michael Levin: For example, there's a channel, I'm sure you've seen it, called Numberphile on YouTube. The chess problems: this guy says, if you have two knights and they do this and that, and then he puts it in, and it's this amazing thing. What would it mean to explain something like that in mathematics?"
+    },
+    {
+      "start_seconds": 664,
+      "speaker": "Steven Strogatz",
+      "text": "[11:04] Steven Strogatz: Let me keep trying. You keep asking me, I keep sidestepping it. So let me try to really connect with it. What do we consider explanations? Because it comes up a lot. I first gave you this very primitive, in the sense of almost assembly language style, explanation that it's deduction from axioms. That's one kind of explanation. But actually, in practice and also sociologically, that's not really what mathematicians mean when we're talking to each other, that you've explained it because you proved it. Right now, we have this thing called Lean. You may have heard about Lean in AI. Lean is doing that. It's really seriously deducing stuff from the axioms step by step. And I don't think many mathematicians feel like that's what we mean by explanation, to contradict what I said a minute ago. That is an explanation in that sense, but that's not what we're really looking for. What we really look for as people is something closer. We have a word for it. We talk about morally. It doesn't really mean morally in the sense of ethics, but why should this be true? What's the intuition? What's going on really? Don't just give it to me from the axioms. Give it to me: here's how I think about it, and this is why. It's hard to define what this is. It's a bit nebulous. But that may be where the juicy stuff is, to figure out what does that really mean. We use all these funny words. We use intuition. I have an instinct. I have a feeling this is true. I sense it because it's very heuristic."
+    },
+    {
+      "start_seconds": 771,
+      "speaker": "Michael Levin",
+      "text": "[12:51] Michael Levin: It"
+    },
+    {
+      "start_seconds": 772,
+      "speaker": "Steven Strogatz",
+      "text": "[12:52] Steven Strogatz: Lets you discover stuff. The axioms don't really."
+    },
+    {
+      "start_seconds": 775,
+      "speaker": "Michael Levin",
+      "text": "[12:55] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": 776,
+      "speaker": "Steven Strogatz",
+      "text": "[12:56] Steven Strogatz: Grinding away from the axioms is a dopey discovery method because you just drift. You don't have any guidance. You could go anywhere you want, and there's no taste, no scientific aesthetic. Let me think of some examples. I've had stuff in my own work. I'll just say words; it won't necessarily matter what they mean. I could explain if you really want. Going back to my first graduate student, in the early 1990s, I was working on a problem related to things that oscillate. I like stuff that oscillates. It came from physics, from superconducting devices called Josephson junctions. We had some equations that describe the dynamics of these Josephson junctions, and I like collective behavior. I want to know what happens when I put a lot of them together, and they're interacting. We saw this really peculiar phenomenon in computer simulations that, for a certain type of array of these junctions, if I had, say, 100 of them, the motion would have 97 constants of motion. They would effectively have three dimensions of wiggle room, and the other 97, you're stuck on a surface. Not quite constant energy, but constant something. You have 97 constants that you're forced to preserve in this 100-dimensional space, and you only have three dimensions of dynamical freedom, which is really shocking. Why should there be so many constants of motion? What was really weird is this Josephson problem that we were working on was not, in physics speak, a Hamiltonian system. It didn't have conserved energy or conserved momentum or the usual constants that you would learn in physics class that come from symmetries of the usual type. There were no obvious symmetries. In fact, these Josephson junction problems involve resistors as the coupling. Currents were flowing through resistors, and the individual junctions themselves had dissipative elements. So it seemed like there shouldn't be constants. We've got all this friction."
+    },
+    {
+      "start_seconds": 943,
+      "speaker": "Steven Strogatz",
+      "text": "[15:43] Steven Strogatz: It was really surprising. My first student, Shinya Watanabe, figured out a transformation, just a way of changing variables in the math, where we could see why this was happening: why when we had n oscillators, we had n minus three constants of motion, and he could do it for all n. He really nailed it at the level of algebra. So that's one kind of explanation. He showed a formula that explained why three and why n minus three for all the rest. In that sense, you could say he explained it. He solved it, and it was fantastic, but it still didn't explain the miracle. Okay, I see it, but I still don't understand it. Because, not to be crude, but you pulled that transformation out of your— Where did that come from? We had a path to get to it. We made an analogy to a different kind of system. It led us to make a certain guess. I thought the guess would only work when the system was infinitely big, infinitely many oscillators, junctions. Shinya said, \"I think it will work for any number.\" I said, \"I don't believe that's true.\" He went and he did it, and he was right. Then years went by, and we didn't understand why— If you look it up on the internet, you'll see it called the Watanabe-Strogatz transformation, and hundreds of people have written papers building on that thing. But for a long time, it was just this miracle that came from some mysterious place, and we didn't know why it worked. Like you mentioned earlier about symmetry, you get used to this feeling that when you look deep enough, there's a deep reason like symmetry or something, but we didn't know what it was. Then fairly recently, a few years ago, we found a reason, which was that this system of equations was connected to some pretty deep stuff in geometry, hyperbolic geometry, and group theory. It was the language of symmetry, but it wasn't the usual symmetry that you would run into in physics. It was a different kind of symmetry. But, ultimately, it was the usual story. When you look at it right, there was a deep structural thing happening that could be expressed as a symmetry or a group theory or however you want to put it. That's where Shinya's transformation came from, so that geometry explains Shinya's algebra, and Shinya's algebra explained what we saw in the computer."
+    },
+    {
+      "start_seconds": 1111,
+      "speaker": "Michael Levin",
+      "text": "[18:31] Michael Levin: That's very interesting. And I'm curious if there was directionality here. For example, you have the observation. You link it to the geometry. So I want to understand if this is a vertical move or a lateral move."
+    },
+    {
+      "start_seconds": 1125,
+      "speaker": "Steven Strogatz",
+      "text": "[18:45] Steven Strogatz: Okay."
+    },
+    {
+      "start_seconds": 1126,
+      "speaker": "Michael Levin",
+      "text": "[18:46] Michael Levin: Because could it have gone in reverse? Could the people studying history have said, \"Oh, it's because of this algebra thing. Now we go\"?"
+    },
+    {
+      "start_seconds": 1133,
+      "speaker": "Steven Strogatz",
+      "text": "[18:53] Steven Strogatz: Like"
+    },
+    {
+      "start_seconds": 1134,
+      "speaker": "Michael Levin",
+      "text": "[18:54] Michael Levin: That's possible."
+    },
+    {
+      "start_seconds": 1135,
+      "speaker": "Steven Strogatz",
+      "text": "[18:55] Steven Strogatz: Yes, I think so. That's an interesting question. I don't know that there's a particular direction to it. I'm trying to think of examples where things have gone in different orders. Is the geometric, the gestalt picture always the deepest understanding? Or is that not true? I don't know."
+    },
+    {
+      "start_seconds": 1165,
+      "speaker": "Michael Levin",
+      "text": "[19:25] Michael Levin: I suppose somebody would argue that logic is somehow at the bottom or something."
+    },
+    {
+      "start_seconds": 1169,
+      "speaker": "Steven Strogatz",
+      "text": "[19:29] Steven Strogatz: It is. I think there's a lot of personal differences. There's a different problem that I had worked on in the same space where a guy in Maryland named Ed Ott had solved this famous—you've probably seen, I'm always writing about it—something called the Kuramoto model of oscillators. I like these miracles. I like paradoxes: this thing is too nice, why is this happening? Why is Kuramoto's model so solvable? Kuramoto just solved it in a certain way by making guesses, very inspired guesses. And they worked, but it didn't explain why does that work. For a long time, I wanted to understand why it worked. Ed Ott found a certain trick that people now call the Ott—he had a collaborator, Tom Antonsen—Ott-Antonsen ansatz, which is analogous to Shinya's transformation. In fact, they turn out to be the same thing at a very deep level. They are actually the same trick, but it took a long time to realize that. For a while, it just seemed like this separate magnificent trick. Then Ed did this trick, and it really cracked open the Kuramoto model, and we could understand it. It took something that looked infinite dimensional and made it one dimensional, which it had always looked one dimensional in the simulations, and that was always the mystery: how is this complex system acting like it has just one variable? Ed's trick explained it. When I asked him, \"How did you think of this trick?\" his way of thinking was so bizarre to me. He said, \"I noticed that if I made this guess, I would get a factor of n in two places, and they would cancel out. So I just made that guess, hopefully, from optimism.\" It was a very algebraic observation: \"I just noticed this n. I see it cancels. I thought it looked good.\" To me, that's not something I would do. That really felt to me like math team, wizardry. Why would you try that? I still didn't feel that was a good explanation, because why does that miracle happen? Why did the n's cancel out? That's not really explaining it. So then I told him how I would think about it after I understood what he had done, and he thought that was amazing. He said he would never think of it the way I thought of it. So I do think it's personal. You want to describe algebra to geometry as lateral because we're staying inside of math. It doesn't feel lateral to me. Geometry feels deeper to me. Lower. It does feel vertical."
+    },
+    {
+      "start_seconds": 1335,
+      "speaker": "Michael Levin",
+      "text": "[22:15] Michael Levin: Okay. So that's that's what"
+    },
+    {
+      "start_seconds": 1337,
+      "speaker": "Steven Strogatz",
+      "text": "[22:17] Steven Strogatz: That's personal for me. I don't think everyone would say that."
+    },
+    {
+      "start_seconds": 1339,
+      "speaker": "Michael Levin",
+      "text": "[22:19] Michael Levin: I see."
+    },
+    {
+      "start_seconds": 1340,
+      "speaker": "Steven Strogatz",
+      "text": "[22:20] Steven Strogatz: Because in fields like algebraic geometry, the two words are right there in the title. And I know there are some mathematicians who say this is really about algebra, and the geometry illuminates it. But then other people would say, no, it's really about geometry, and the algebra is just a language for getting at the geometry. Both have been productive points of view. So I think some people wouldn't see some of these things as lateral. Others would see them as vertical, but they wouldn't agree who's on top."
+    },
+    {
+      "start_seconds": 1373,
+      "speaker": "Michael Levin",
+      "text": "[22:53] Michael Levin: That's what I felt."
+    },
+    {
+      "start_seconds": 1376,
+      "speaker": "Steven Strogatz",
+      "text": "[22:56] Steven Strogatz: I think that's probably right, what I said."
+    },
+    {
+      "start_seconds": 1378,
+      "speaker": "Michael Levin",
+      "text": "[22:58] Michael Levin: Let's say e, 2.78, whatever. Suppose I want to know, why isn't it that the 11 points—are these just things—I forget who said it, but that there are just facts you get used to as opposed to..."
+    },
+    {
+      "start_seconds": 1403,
+      "speaker": "Steven Strogatz",
+      "text": "[23:23] Steven Strogatz: Do we do"
+    },
+    {
+      "start_seconds": 1403,
+      "speaker": "Michael Levin",
+      "text": "[23:23] Michael Levin: we"
+    },
+    {
+      "start_seconds": 1404,
+      "speaker": "Steven Strogatz",
+      "text": "[23:24] Steven Strogatz: just Yeah. There are some remark about that."
+    },
+    {
+      "start_seconds": 1405,
+      "speaker": "Michael Levin",
+      "text": "[23:25] Michael Levin: Do we just accept that that's the case and that's one of those miracles, or is there some notion that we should be able to—"
+    },
+    {
+      "start_seconds": 1412,
+      "speaker": "Steven Strogatz",
+      "text": "[23:32] Steven Strogatz: We have a reason for thinking that number and not some other number. And we didn't know initially it was going to be 2.7. We were led to that number."
+    },
+    {
+      "start_seconds": 1422,
+      "speaker": "Michael Levin",
+      "text": "[23:42] Michael Levin: This to me is one of the most fascinating things, because we start off with some very simple axioms and eventually go, oh, look at that. 2.78."
+    },
+    {
+      "start_seconds": 1431,
+      "speaker": "Steven Strogatz",
+      "text": "[23:51] Steven Strogatz: Absolutely. It feels like you've discovered it."
+    },
+    {
+      "start_seconds": 1433,
+      "speaker": "Michael Levin",
+      "text": "[23:53] Michael Levin: Is it this right?"
+    },
+    {
+      "start_seconds": 1434,
+      "speaker": "Steven Strogatz",
+      "text": "[23:54] Steven Strogatz: As far as Platonism, I haven't done the survey, but I think almost all mathematicians would be Platonists as working mathematicians. I don't know if you've read Reuben Hersh on this kind of thing. Isn't he the one who makes the joke that everyone's a Platonist on the weekend? I forget which it is. And then during the week, they're formalists, or something. But I think in our heart, a lot of us feel we're discovering stuff, because you feel like you're finding it, and you're not imposing it. You're finding it."
+    },
+    {
+      "start_seconds": 1472,
+      "speaker": "Michael Levin",
+      "text": "[24:32] Michael Levin: In fact, if you say, \"Why don't you impose it?\" good luck."
+    },
+    {
+      "start_seconds": 1475,
+      "speaker": "Steven Strogatz",
+      "text": "[24:35] Steven Strogatz: Good luck. I was thinking today, before our conversation, speaking of *e*. So Euler, who I think usually gets credit for the letter *e*—people had already known about the natural logarithm a little bit, whose base is *e*. Newton was working on it long before Euler and other people too. But there was a really live question in Euler's era in the middle seventeen hundreds: How should you define the logarithm of negative one?"
+    },
+    {
+      "start_seconds": 1511,
+      "speaker": "Michael Levin",
+      "text": "[25:11] Michael Levin: Because,"
+    },
+    {
+      "start_seconds": 1512,
+      "speaker": "Steven Strogatz",
+      "text": "[25:12] Steven Strogatz: The logarithms work perfectly nicely for positive numbers. People knew that for a long time before Euler. But nobody knew how to think about the logarithm of a negative number. There didn't seem to be any good way to make sense of it. At the time, Euler was having discussions, correspondence with people like d'Alembert and Leibniz and other really smart people. Maybe not d'Alembert, I forget who, but certainly Leibniz, maybe one of the Bernoulli brothers. They're trying to figure out what's the deal with log of negative one—meaning natural log—what should it be? That already is a very Platonist question, because if you're a formalist, you could say we could define it to be whatever we want, but no mathematician would. Some definitions will be unproductive or ugly or just not fruitful. So you want to define it correctly. What does that mean? Correctly presupposes that there's some universe of eternal forms, ideal forms. Eventually, Euler did figure out a good definition of it, which for him felt like a discovery, that it's multivalued. It doesn't even have a single value. It equals i pi or three times i pi or any odd number times i pi; that's the way it should be defined. In the course of figuring that out, he was led to the thing we think of as the most beautiful formula in math: e to the i pi is negative one. It was because he was thinking about logarithms of negative numbers that he was led to this. I like it as a case study in how math is really done. You're looking for something that you think is there, even though if you're a philosopher, you might naively think you could just define it. The other guys did propose things. One of the Bernoullis, I think, said it should equal zero, because his argument was if I take minus one squared, it's one. And now let me take log of the quantity minus one times minus one. Log of a product is the sum of the logs, so log of minus one times minus one inside the argument should be two times log of negative one. That's how he was reasoning it. When you take log of minus one times minus one, I get log of minus one plus log of minus one, so I get two of them. Meanwhile, log of one, everybody agreed is equal to zero. So I get two times log of negative one is zero, and that makes me conclude that log of negative one should be zero. What that mathematician was doing was saying, let's take the algebraic rule of logs, how a log of a product is the sum of the logs. Let's suppose that continues to hold even for negative numbers. He was generalizing in that direction, and that led him to say, therefore, log of negative one should be zero. You could go like that; that would then keep that rule of algebra consistent. But it turns out nobody does that today. In fact, we sacrificed that algebra about the logs in favor of Euler's way of defining it, which breaks the algebra but ends up being much better in other respects. There was a fork in the road. You could choose two different ways of extending the universe. You're pushing logarithms into negative numbers where, if you're a formalist, you'd say they're not defined until they're defined. You could define them one of two reasonable ways, and one way turns out to be much better than the other. But I don't think Euler felt like that. I think he felt like, \"No, your way of doing it is wrong, and the way I'm doing it is right,\" which history has shown was the best way to do it."
+    },
+    {
+      "start_seconds": 1778,
+      "speaker": "Michael Levin",
+      "text": "[29:38] Michael Levin: That's great. That's very interesting. At one point, I was collecting some examples of these kinds of facts, like this thing apparently: If n squared cannonballs are laid on the ground in a square formation, you can make a square pyramid for all n's except for 70. When n is 70, it doesn't work. I read this."
+    },
+    {
+      "start_seconds": 1805,
+      "speaker": "Steven Strogatz",
+      "text": "[30:05] Steven Strogatz: You read this somewhere? And if I have a square of balls, then I can start stacking them up to make a pyramid?"
+    },
+    {
+      "start_seconds": 1811,
+      "speaker": "Michael Levin",
+      "text": "[30:11] Michael Levin: N squared. So if you have n squared cannonballs on the ground, you can make a pyramid except for when n is 70."
+    },
+    {
+      "start_seconds": 1818,
+      "speaker": "Steven Strogatz",
+      "text": "[30:18] Steven Strogatz: And what do I mean by a pyramid? Just what I think I mean?"
+    },
+    {
+      "start_seconds": 1822,
+      "speaker": "Michael Levin",
+      "text": "[30:22] Michael Levin: That's what they said. Again, this is not"
+    },
+    {
+      "start_seconds": 1825,
+      "speaker": "Steven Strogatz",
+      "text": "[30:25] Steven Strogatz: Like a square base?"
+    },
+    {
+      "start_seconds": 1826,
+      "speaker": "Michael Levin",
+      "text": "[30:26] Michael Levin: Yes. Exactly. A square base and then"
+    },
+    {
+      "start_seconds": 1828,
+      "speaker": "Steven Strogatz",
+      "text": "[30:28] Steven Strogatz: I haven't heard that fact. It sounds interesting. Let's suppose it's true. I'm just curious."
+    },
+    {
+      "start_seconds": 1836,
+      "speaker": "Michael Levin",
+      "text": "[30:36] Michael Levin: What I'm asking is, I'm interested in facts like that. There are many that certain formulas, they work for every number except for 37."
+    },
+    {
+      "start_seconds": 1846,
+      "speaker": "Steven Strogatz",
+      "text": "[30:46] Steven Strogatz: They're totally are."
+    },
+    {
+      "start_seconds": 1848,
+      "speaker": "Michael Levin",
+      "text": "[30:48] Michael Levin: So what do you make of those?"
+    },
+    {
+      "start_seconds": 1852,
+      "speaker": "Steven Strogatz",
+      "text": "[30:52] Steven Strogatz: Those are fun. There's a simpler one. Another one like that is when you have a circle or a disc and then start cutting it with lines. If you put no lines, you have one region inside the circle. If you put one line, it makes two regions. So keep track of how many regions there are. First, we had one. Now we have two. Now if I put down two lines, I end up making four regions. So my pattern is 1, 2, 4. And I keep doing this. The question is, as I put down these lines, I think of them as separate slices with a cleaver."
+    },
+    {
+      "start_seconds": 1889,
+      "speaker": "Michael Levin",
+      "text": "[31:29] Michael Levin: And these are random or these are to optimize the number of regions?"
+    },
+    {
+      "start_seconds": 1893,
+      "speaker": "Steven Strogatz",
+      "text": "[31:33] Steven Strogatz: I think it's what's the most regions you can make by laying down the chops. I think it follows the pattern 1, 2, 4, 8, but it breaks. When you get to 32, it's not 32. I think it comes out 31 or something like that."
+    },
+    {
+      "start_seconds": 1912,
+      "speaker": "Michael Levin",
+      "text": "[31:52] Michael Levin: Yeah. Perfect right."
+    },
+    {
+      "start_seconds": 1913,
+      "speaker": "Steven Strogatz",
+      "text": "[31:53] Steven Strogatz: It's just what you're talking about. It's just phenomenal."
+    },
+    {
+      "start_seconds": 1915,
+      "speaker": "Michael Levin",
+      "text": "[31:55] Michael Levin: Perfect example. So I'm interested. If you know of a compendium of those kinds of things, I'd be curious."
+    },
+    {
+      "start_seconds": 1925,
+      "speaker": "Steven Strogatz",
+      "text": "[32:05] Steven Strogatz: I don't know of a list. That's a really good question. I wouldn't be surprised if there is one. There's a tiny book that's a very attractive little gift book, about the size of a cell phone, called \"QED.\" And it's very pretty, and you might want to pick one up on Amazon or something. Buy things by Wooden Books. It's actually written by the guy who does—you mentioned Numberphile—there's a guy called Mathologer who's a very good YouTuber. And Mathologer is a mathematician named Burkard Polster in Australia. And I think he wrote \"QED.\" Do you see that little book?"
+    },
+    {
+      "start_seconds": 2004,
+      "speaker": "Michael Levin",
+      "text": "[33:24] Michael Levin: I'll I'll I'll find it."
+    },
+    {
+      "start_seconds": 2005,
+      "speaker": "Steven Strogatz",
+      "text": "[33:25] Steven Strogatz: I think I learned that fact about the cuts, because in addition to QED proofs, he also talks about things that seem like they should be provable that don't work. I think he gave that example there, but he may have others. But I don't know of a compendium of these. There's another really good one that does have an explanation. It's a calculus one, but it involves certain waves, the kind of wave patterns that would come up in diffraction. If you shine a light through a slit and you look at the wave field, there are different integrals involving those kind of diffraction patterns, and you can do them for one, two, three, up to any arbitrary number. I forget what the number is it actually telling you. But they all keep coming out to be pi until you get to a high number, or pi over two, or whatever. It's exactly this phenomenon where the pattern breaks at some crazy number, and you think, why did that break?"
+    },
+    {
+      "start_seconds": 2075,
+      "speaker": "Michael Levin",
+      "text": "[34:35] Michael Levin: Mhmm."
+    },
+    {
+      "start_seconds": 2075,
+      "speaker": "Steven Strogatz",
+      "text": "[34:35] Steven Strogatz: And that one does have a nifty explanation. There was a reason—roughly the explanation was there's a certain thing happening that fits in a certain space. And once the number gets too high, something leaks out a little bit outside that space. There's a way of looking at it where it becomes obvious from the right point of view why this pattern cannot continue. But until you see that, you'd think, \"Wow, this is going to work,\" because, unlike the one with the lines in the disc, which breaks at the fifth or sixth line, this one holds quite high up, maybe thirty, forty before, similar to what you said with the pyramid."
+    },
+    {
+      "start_seconds": 2117,
+      "speaker": "Michael Levin",
+      "text": "[35:17] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": 2117,
+      "speaker": "Steven Strogatz",
+      "text": "[35:17] Steven Strogatz: So you think those are somehow interesting or notable? I don't make anything of those examples. To me, that doesn't hold any lesson except for the danger of generalizing."
+    },
+    {
+      "start_seconds": 2132,
+      "speaker": "Michael Levin",
+      "text": "[35:32] Michael Levin: Well, a lesson, not the specifics. I don't know what to do with the specifics, but the general observation that those exist, much like what we were just talking about, the specific value of e and things like that, I think are instructive in the sense that there seem to be facts that are not facts of physics, that are not discoverable by physicists, that are not changeable by things you tweak in the universe. Right? They're"
+    },
+    {
+      "start_seconds": 2159,
+      "speaker": "Steven Strogatz",
+      "text": "[35:59] Steven Strogatz: Right. Independent."
+    },
+    {
+      "start_seconds": 2160,
+      "speaker": "Michael Levin",
+      "text": "[36:00] Michael Levin: So that, I think, is very important. And most people that I interact with don't believe that statement."
+    },
+    {
+      "start_seconds": 2168,
+      "speaker": "Steven Strogatz",
+      "text": "[36:08] Steven Strogatz: For us, the world of math absolutely has facts that are not related to facts of physics."
+    },
+    {
+      "start_seconds": 2175,
+      "speaker": "Michael Levin",
+      "text": "[36:15] Michael Levin: That was my naive lesson, but most people I interact with don't believe that."
+    },
+    {
+      "start_seconds": 2181,
+      "speaker": "Steven Strogatz",
+      "text": "[36:21] Steven Strogatz: They just haven't been educated. They don't know enough."
+    },
+    {
+      "start_seconds": 2185,
+      "speaker": "Michael Levin",
+      "text": "[36:25] Michael Levin: So"
+    },
+    {
+      "start_seconds": 2186,
+      "speaker": "Steven Strogatz",
+      "text": "[36:26] Steven Strogatz: No serious person who's educated would believe that. They would agree with you, I guess, if I'm understanding your position."
+    },
+    {
+      "start_seconds": 2193,
+      "speaker": "Michael Levin",
+      "text": "[36:33] Michael Levin: That's good to know. Another question. I wonder if you have any thoughts on this, or maybe it's not even true. Here's the thing that was driving me crazy. If you take some of the fundamental constants of physics, there's, whatever, half a dozen or something, and you put them on a number line"
+    },
+    {
+      "start_seconds": 2215,
+      "speaker": "Steven Strogatz",
+      "text": "[36:55] Steven Strogatz: Yeah."
+    },
+    {
+      "start_seconds": 2215,
+      "speaker": "Michael Levin",
+      "text": "[36:55] Michael Levin: They use a good chunk, from 10 to the negative 80 to 10 to the positive 40. They use up a lot of bandwidth on the number line. Then I look at a table of fundamental constants of math, and these are things like Feigenbaum's number, e, pi."
+    },
+    {
+      "start_seconds": 2236,
+      "speaker": "Steven Strogatz",
+      "text": "[37:16] Steven Strogatz: Yeah."
+    },
+    {
+      "start_seconds": 2236,
+      "speaker": "Michael Levin",
+      "text": "[37:16] Michael Levin: All of those guys seem to be crammed in somewhere between zero and five. You can define bigger ones, but all the ones that I've ever heard of, they seem to cluster in a very tiny"
+    },
+    {
+      "start_seconds": 2248,
+      "speaker": "Steven Strogatz",
+      "text": "[37:28] Steven Strogatz: They tend to be pretty small. A lot of them are."
+    },
+    {
+      "start_seconds": 2251,
+      "speaker": "Michael Levin",
+      "text": "[37:31] Michael Levin: Do you have any thoughts on why that might be?"
+    },
+    {
+      "start_seconds": 2257,
+      "speaker": "Steven Strogatz",
+      "text": "[37:37] Steven Strogatz: Well"
+    },
+    {
+      "start_seconds": 2259,
+      "speaker": "Michael Levin",
+      "text": "[37:39] Michael Levin: Just statistically, it seems weirdly clustered."
+    },
+    {
+      "start_seconds": 2266,
+      "speaker": "Steven Strogatz",
+      "text": "[37:46] Steven Strogatz: So my initial reaction to that is I don't want to accept the premise, because there are definitely constants that are gigantic, that are fundamental, that don't get talked about very much. There's something called Littlewood's number."
+    },
+    {
+      "start_seconds": 2288,
+      "speaker": "Michael Levin",
+      "text": "[38:08] Michael Levin: Interesting."
+    },
+    {
+      "start_seconds": 2289,
+      "speaker": "Steven Strogatz",
+      "text": "[38:09] Steven Strogatz: I think it would be called Littlewood's number. When Ramanujan came from India to Cambridge, he's mainly associated with Hardy."
+    },
+    {
+      "start_seconds": 2304,
+      "speaker": "Michael Levin",
+      "text": "[38:24] Michael Levin: But"
+    },
+    {
+      "start_seconds": 2305,
+      "speaker": "Steven Strogatz",
+      "text": "[38:25] Steven Strogatz: Hardy had a very close collaborator, J. E. Littlewood, who was a tremendous mathematician, probably better than Hardy, and maybe not better than Ramanujan, who was off the chart. Ramanujan had all these fantastic conjectures and guesses that he thought had been written on his tongue when he slept by his goddess, Namagiri. One of them was a certain formula related to prime numbers. Ramanujan thought a certain fact would be true for all prime numbers, and Littlewood showed that the statement would continue to be true up to a certain very large number, Littlewood's number, at which point it would not be true. Roughly speaking, there was a certain pattern where an approximation to a certain function was always strictly above that function. Picture a curve and another curve that's close and has the same trend, but it's just a little bit above. And the guess had been, it'll always be a little bit above all the way out to infinity. Littlewood proved that that's not true. The one that's above will cross and cut through the one that's below. In fact, they will keep cutting through each other infinitely often. The first time it happens is out at Littlewood's number, which is, I think, probably bigger than any of the numbers you've mentioned. It might be bigger than 10 to the 80th or 10 to the 100th or whatever. That is a fundamental constant in the sense that it's where a very natural guess about prime numbers, which are as fundamental as it gets, breaks down at Littlewood's number. And I think there would be other very big constants that have a case for being called fundamental."
+    },
+    {
+      "start_seconds": 2432,
+      "speaker": "Michael Levin",
+      "text": "[40:32] Michael Levin: So you don't have any enrichment at the low end."
+    },
+    {
+      "start_seconds": 2436,
+      "speaker": "Steven Strogatz",
+      "text": "[40:36] Steven Strogatz: I always like to argue both sides here, because I don't want to just dismiss your question. It's a really interesting question. Certainly, pi and e and square root of two and Feigenbaum's constant for chaos. You're right that a lot of them are positive and between zero and five. And what to make of that? I don't know. It's interesting, I guess. I don't know what to say about that. I feel like it tells us more about psychology than about math, that it's something about what interests us. Why is it the quantities of size order one, between one-tenth and 10, are psychologically very sticky?"
+    },
+    {
+      "start_seconds": 2505,
+      "speaker": "Michael Levin",
+      "text": "[41:45] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": 2507,
+      "speaker": "Steven Strogatz",
+      "text": "[41:47] Steven Strogatz: It feels more like that to me than anything about math because I think I really could make a case for interesting numbers of size one hundred or a thousand."
+    },
+    {
+      "start_seconds": 2519,
+      "speaker": "Michael Levin",
+      "text": "[41:59] Michael Levin: Mhmm."
+    },
+    {
+      "start_seconds": 2519,
+      "speaker": "Steven Strogatz",
+      "text": "[41:59] Steven Strogatz: Do you know the Encyclopedia of Constants or something?"
+    },
+    {
+      "start_seconds": 2529,
+      "speaker": "Michael Levin",
+      "text": "[42:09] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": 2530,
+      "speaker": "Steven Strogatz",
+      "text": "[42:10] Steven Strogatz: There's a thing called the OEIS, the Online Encyclopedia of something."
+    },
+    {
+      "start_seconds": 2537,
+      "speaker": "Michael Levin",
+      "text": "[42:17] Michael Levin: I did look at this."
+    },
+    {
+      "start_seconds": 2539,
+      "speaker": "Steven Strogatz",
+      "text": "[42:19] Steven Strogatz: now because that's a big database for you."
+    },
+    {
+      "start_seconds": 2541,
+      "speaker": "Michael Levin",
+      "text": "[42:21] Michael Levin: So maybe what I should do is do a histogram and see what the distribution actually is of those things."
+    },
+    {
+      "start_seconds": 2548,
+      "speaker": "Steven Strogatz",
+      "text": "[42:28] Steven Strogatz: And that still might be only telling you about psychology because it's whatever made it into the compendium. Isn't it called OEIS, or is something else?"
+    },
+    {
+      "start_seconds": 2561,
+      "speaker": "Michael Levin",
+      "text": "[42:41] Michael Levin: There's a yeah."
+    },
+    {
+      "start_seconds": 2563,
+      "speaker": "Steven Strogatz",
+      "text": "[42:43] Steven Strogatz: I might have the acronym wrong. OEIS: The Online Encyclopedia of Integer Sequences. That's not what I meant."
+    },
+    {
+      "start_seconds": 2587,
+      "speaker": "Michael Levin",
+      "text": "[43:07] Michael Levin: There's still a Wikipedia table of mathematical constants."
+    },
+    {
+      "start_seconds": 2592,
+      "speaker": "Steven Strogatz",
+      "text": "[43:12] Steven Strogatz: Okay. Yes. What is that like?"
+    },
+    {
+      "start_seconds": 2594,
+      "speaker": "Michael Levin",
+      "text": "[43:14] Michael Levin: So I made a little diagram. It has a couple of big ones,"
+    },
+    {
+      "start_seconds": 2600,
+      "speaker": "Steven Strogatz",
+      "text": "[43:20] Steven Strogatz: but"
+    },
+    {
+      "start_seconds": 2601,
+      "speaker": "Michael Levin",
+      "text": "[43:21] Michael Levin: But a bunch of them are in that small"
+    },
+    {
+      "start_seconds": 2605,
+      "speaker": "Steven Strogatz",
+      "text": "[43:25] Steven Strogatz: I"
+    },
+    {
+      "start_seconds": 2605,
+      "speaker": "Michael Levin",
+      "text": "[43:25] Michael Levin: believe it. You know? So so my"
+    },
+    {
+      "start_seconds": 2608,
+      "speaker": "Steven Strogatz",
+      "text": "[43:28] Steven Strogatz: Look up Littlewood's constant just now that I'm talking about it."
+    },
+    {
+      "start_seconds": 2611,
+      "speaker": "Michael Levin",
+      "text": "[43:31] Michael Levin: When I first brought this up, my dad said it's because humans find it hard to think about giant numbers. I get it, but if these constants were 82, we could have handled that. It doesn't need to be below five."
+    },
+    {
+      "start_seconds": 2629,
+      "speaker": "Steven Strogatz",
+      "text": "[43:49] Steven Strogatz: Yes."
+    },
+    {
+      "start_seconds": 2629,
+      "speaker": "Michael Levin",
+      "text": "[43:49] Michael Levin: That's true. Wrap our heads around it. I see why the big nine months are hard."
+    },
+    {
+      "start_seconds": 2634,
+      "speaker": "Steven Strogatz",
+      "text": "[43:54] Steven Strogatz: There might be something going on here. I don't really believe this, but let's just entertain it. If we think there's something to explain, maybe it's that if nature—let's suppose we're talking about nature as opposed to math—likes hierarchies or stratification. There are things at one level, and then things that are too much bigger or smaller don't tend to interact with it much. There's a lot of phenomena happening, say, at the quark scale or the Planck scale or the atomic scale. And we conceptually like to think in layers. There's stuff happening with angstroms. We know what happens, or if I hear you talk about microns, I'm starting to think about very tiny parts of cells, but we're still talking cellular. If I say angstroms, now I'm thinking about DNA or atomic radii—there's different phenomena at different scales, like in the old movie, in *Powers of Ten*. What's happening at the angstrom scale, I tend to feel like I'm shielded from it here at my order-one, one-meter scale. I'm not really. Obviously, I'm made up of atoms. I sometimes get a weird feeling when I'm outside. I'm looking at this leaf, and there are many Avogadro's numbers of atoms in that leaf, and they're all buzzing, and it's almost like one leaf to me. But there's a whole universe, many universes at all these different scales. Somehow I feel like it's too hard for us to think like that. We just want to think at a given scale. And so multiscale phenomena, which are super important, are very conceptually challenging for us. So if we like to think of being at one scale, which we call one, we're going to be fixated on numbers that are order one. And the ones that are 10 to the one millionth, even though they're a lot less than infinity, they don't come up much in our cognition. It's not that they're not important because how many quarks are there on this planet? That would be a big number, or in our galaxy. But there's no reason for us to think about that, so we don't. I don't think there's anything intrinsic to math that favors small numbers, but I could be wrong. I'm not sure what the argument would be that there is something intrinsic that favors things of size one."
+    },
+    {
+      "start_seconds": 2815,
+      "speaker": "Michael Levin",
+      "text": "[46:55] Michael Levin: If there was a constant, how would we go about deciding whether it was fundamental?"
+    },
+    {
+      "start_seconds": 2825,
+      "speaker": "Steven Strogatz",
+      "text": "[47:05] Steven Strogatz: or not?"
+    },
+    {
+      "start_seconds": 2826,
+      "speaker": "Michael Levin",
+      "text": "[47:06] Michael Levin: Because you can make two pi, seven pi, but they aren't very fundamental. What would be the features of a fundamental constant?"
+    },
+    {
+      "start_seconds": 2841,
+      "speaker": "Steven Strogatz",
+      "text": "[47:21] Steven Strogatz: Let's talk about pi because that's a very nice fundamental constant, and we understand what it is, that it's related to a ratio. I have this nice shape, a circle. I can look at the diameter. I could put a tape measure around the rim, and the ratio of those two distances is pi. So I'm comparing two things in the same phenomenon, and that's measuring a circle in two different ways. There's also this nice deep thing that it's the link between the straight and the round. So if you go from a linear view of things to a repetitive view of things, pi will come into it, which is why pi is related to sine waves. Why is pi better than two pi? There are a lot of people fighting about this. There are the advocates for tau, two pi versus pi. In formulas, two pi does come up a lot. There's probably a good argument that two pi is the fundamental constant, not pi. But historically, we use pi, despite all the attempts to dethrone it in favor of two pi. Why do we like pi? Because I feel it's the nugget that once I have pi, then I get a whole number more of pi. I'm repeating the same thinking: one pi, because I'm using one, so then two, three, four pi. I'm not gaining new information. But you could say, why don't you just use pi over two? That would be just as good. I can't see any great principled argument here for why I've chosen pi as the fundamental one. I guess if you think of the sine wave as a basic object, it's the first place where the sine wave is zero after zero. So that's one good reason why pi is better than two pi. On the other hand, the sine wave hasn't repeated at pi. You've got to go two pi for it to repeat. So you might say two pi is better. To me, this is not a very productive question, but I may be missing something."
+    },
+    {
+      "start_seconds": 2982,
+      "speaker": "Michael Levin",
+      "text": "[49:42] Michael Levin: I guess the last thing is, about pi, if you do lifespan calculations or something on populations of humans, you end up with pi in the formula, and people ask, where is the circle? Where are the circles there? What is pi actually about? Is it really about circles, or is it about something much deeper than that?"
+    },
+    {
+      "start_seconds": 3008,
+      "speaker": "Steven Strogatz",
+      "text": "[50:08] Steven Strogatz: That's a great question, for sure. It's about circles, for sure, and it's also about cycles. Cycles meaning things that repeat in time or space. They don't have to be circles. They don't have to be round, but zebra stripes, fingerprint ridges."
+    },
+    {
+      "start_seconds": 3035,
+      "speaker": "Michael Levin",
+      "text": "[50:35] Michael Levin: That's interesting."
+    },
+    {
+      "start_seconds": 3037,
+      "speaker": "Steven Strogatz",
+      "text": "[50:37] Steven Strogatz: Menstrual cycles, heart rhythms, mitotic division. Once things are repeating, repeating is a theme. You obviously don't have to have strict repeats. You can have approximate repeats. Then you get concepts like quasi-periodicity, where you may need two frequencies, like figures on strobes on oscilloscopes. Or you can have more than two frequencies. You could start to have chaos. Chaos looks like infinitely many frequencies from an old-fashioned Fourier perspective, broadband power spectrum. But if you want to think about the sine wave as the fundamental object of repetition, then a circle happens to be a repeating thing in space in the simplest way. When you have repeating stuff in time, pi comes in there, too. Now why does pi come into the Gaussian distribution, the normal distribution? If I want to calculate the area under the Gaussian to normalize it to have area one, I'm going to have some square roots of two pi in the formula. That's because to calculate that area, you use the symmetry properties of the Gaussian. The Gaussian is this bell, and it's very hard to calculate the area under the bell. But if you rotate the bell in two dimensions to make something that really looks like a bell, a two-dimensional surface of a bell, then the math becomes much more beautiful. Because instead of just having bilateral symmetry of the bell curve, you have rotational symmetry of a bell surface, and you can do that integral in polar coordinates. The two pi comes from the fact that you integrate around a whole circle. In the radial direction, things are better in polar coordinates than they would be on the x-axis. For a reason having to do with a trick, you end up getting an extra factor of r, the radius. Why is that happening? It's interesting to think about. The two pi is very much related to a trick about two dimensions, which lets you integrate the Gaussian. You can't do it easily in one dimension without that trick. To the person who asked why population statistics have pi in them, that would be my explanation. It's from the calculus of trying to figure out how to normalize this distribution so that it's a real probability. It's maybe not the deepest answer. There may be a deeper answer for where that pi is coming from. It's a really interesting question: Is there always a circle deep down in any problem where pi appears? Probably you could torque it to have a circle in there somewhere if you want. It might be a bit of a far-fetched argument, but you probably could do it. But to a grown-up, pi is not just about circles. Here's a fancy way to say it."
+    },
+    {
+      "start_seconds": 3211,
+      "speaker": "Steven Strogatz",
+      "text": "[53:31] Steven Strogatz: This may just be opaque. But in linear algebra, we have this concept of an eigenvector, which is, again, a concept of something that repeats. It's a pattern, a vector, which when you do something to it with a linear transformation, you get it back again, except maybe stretched. An operator doesn't have to just be a rotation. It could be do calculus. We have differential operators which say take a derivative. That's a linear operation. The derivative of a sum is the sum of the derivatives. If you use the second derivative operator, which nature likes—F = ma, acceleration is a second derivative. We like two derivatives more than one. Most of the really nice laws of nature have two derivatives, not one, which may have to do with things like time reversal symmetry, or in the case of F = ma, maybe that's why it's a second derivative. Anyway, the eigenfunctions of the second derivative operator are sine waves. If you take the second derivative of sine, you get sine, because one derivative of sine is cosine, but then the derivative of cosine, you get back sine. So the fact that the second derivative operator has eigenfunctions that are sine waves is why sine waves are important. That's a deep reason. Eigenfunctions are always important because they're the fundamental patterns. They're the repeating modes of whatever in linear math. There's also nonlinear math, where you have to go deeper than eigenfunctions. That's the really grown-up perspective on what's great about pi, is that it's the eigenvalues of the second derivative operator, which is very much favored by nature in classical physics. Even Schrödinger's equation uses a second derivative, because kinetic energy involves velocity squared, and in quantum theory, that gets translated into a second derivative as an operator. The momentum is p squared over 2m. The kinetic energy is written in quantum theory in the Hamiltonian as a second derivative."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-6246cf1a6da53df4.txt",
+  "text_sha256": "e239ac70d8a1b362703f1765bfdf70e0a54119679c627ad99b50b686382298a9",
+  "word_count": 8475,
+  "segment_count": 149
+}

@@ -99,6 +99,27 @@ class PipelineTests(unittest.TestCase):
             with self.assertRaises(PermissionError):
                 transcribe_media(media, root, {"permission_confirmed": False})
 
+    def test_caption_rate_limit_checkpoints_and_stops_batch(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            ids = ["aaaaaaaaaaa", "bbbbbbbbbbb", "ccccccccccc"]
+            upsert(root / "catalog/videos.jsonl", [{"video_id": v, "canonical_url": f"https://youtu.be/{v}", "caption_storage_authorized": True} for v in ids], "video_id")
+            def request(command, **kwargs):
+                if ids[0] in command[-1]:
+                    template = command[command.index("-o") + 1]
+                    target = Path(template.replace("%(id)s", ids[0]).replace("%(language)s", "en").replace("%(ext)s", "vtt"))
+                    target.write_text("WEBVTT\n\n00:00:00.000 --> 00:00:01.000\nExample\n", encoding="utf-8")
+                    return type("Result", (), {"returncode": 0, "stderr": "", "stdout": ""})()
+                return type("Result", (), {"returncode": 1, "stderr": "HTTP Error 429: Too Many Requests", "stdout": ""})()
+            with patch("levinverse.ingest.shutil.which", return_value="yt-dlp"), patch("levinverse.ingest.subprocess.run", side_effect=request) as run:
+                result = ingest(root, captions=True, store_captions=True, delay=0)
+            self.assertEqual(2, run.call_count)
+            self.assertEqual(1, result["acquired"])
+            rows = {r["video_id"]: r for r in read_jsonl(root / "catalog/videos.jsonl")}
+            self.assertEqual("acquired", rows[ids[0]]["ingest"]["status"])
+            self.assertNotIn("ingest", rows[ids[2]])
+            self.assertTrue((root / "catalog/provider-state.json").is_file())
+
     def test_report_does_not_overclaim(self):
         with tempfile.TemporaryDirectory(dir="tests") as folder:
             root = Path(folder)

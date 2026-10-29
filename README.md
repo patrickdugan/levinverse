@@ -1,5 +1,7 @@
 # Levinverse
 
+For the full publisher crawl, channel candidate review, local CUDA audio fallback and continuation workflow, see [COLLECTION.md](COLLECTION.md). Actual counts and remaining video IDs are in `reports/coverage.json` and `catalog/backlog.jsonl`.
+
 An incremental, evidence-grounded catalog of Michael Levin's public spoken work. The first collection pass is a verified seed set from the Levin Lab's [Audio & Video Interviews archive](https://www.drmichaellevin.org/presentations/audiovideo.html). It is not an exhaustive inventory.
 
 ## Quick start
@@ -30,7 +32,7 @@ For permitted local recordings, create a JSON permission record containing `perm
 python -m levinverse transcribe --media media/permitted/example.mp4 --permission-file transcripts/metadata/example-permission.json
 ```
 
-The optional `faster-whisper` worker uses CUDA FP16 by default, records word and segment timestamps, and stores output only under the gitignored `transcripts/permitted/`. Set `LEVINVERSE_WHISPER_MODEL` or pass `--model`. Speaker diarization is not performed. Whisper and yt-dlp are optional and are not bundled or installed by this repository.
+The optional `faster-whisper` worker uses CUDA FP16 by default, records word and segment timestamps, and writes authorized text and JSON under `transcripts/permitted/` for repository storage. Set `LEVINVERSE_WHISPER_MODEL` or pass `--model`; the default model is `turbo`. Speaker diarization is not performed. Local media and downloaded model files are ignored by Git.
 
 ## Data
 

@@ -2,7 +2,7 @@
 
 **Source:** University of Chicago, Big Brains podcast, “How bioelectricity could regrow limbs and organs, with Michael Levin” (2023-04-27). [Episode and published transcript](https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs)
 
-**Transcript handling:** Transcript is available on the publisher page. Full text is not copied into this repository. The page presents speaker-labeled text; verify quoted passages against the audio before formal citation.
+**Transcript handling:** Transcript is available on the publisher page. Authorized full text is stored in `transcripts/permitted/uchicago-big-brains-2023-04-27.txt`. The page presents speaker-labeled text; verify quoted passages against the audio before formal citation.
 
 ## Short quotation
 

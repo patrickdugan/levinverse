@@ -16,6 +16,7 @@ def main() -> None:
     parser.add_argument("--root", type=Path, default=Path.cwd())
     parser.add_argument("--source")
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--video-id", action="append", help="restrict ingestion to these video IDs")
     parser.add_argument("--captions", action="store_true")
     parser.add_argument("--metadata", action="store_true", help="enrich entries through yt-dlp metadata extraction")
     parser.add_argument("--store-captions", action="store_true", help="store captions only for entries marked caption_storage_authorized")
@@ -28,7 +29,7 @@ def main() -> None:
         seen, added = discover(args.root, args.source, args.limit, args.metadata)
         print(f"Source records: {seen}; new video records: {added}")
     elif args.command == "ingest":
-        print(ingest(args.root, args.captions, args.limit, args.delay, args.store_captions))
+        print(ingest(args.root, args.captions, args.limit, args.delay, args.store_captions, set(args.video_id) if args.video_id else None))
     elif args.command == "transcribe":
         if not args.media or not args.permission_file:
             parser.error("transcribe requires --media under media/permitted/ and --permission-file")

@@ -6,6 +6,7 @@ import os
 import re
 import shutil
 import subprocess
+import sys
 import time
 import urllib.error
 import urllib.request
@@ -17,8 +18,8 @@ from urllib.parse import urlparse, parse_qs
 
 from .store import read_jsonl, upsert
 
-VIDEO_RE = re.compile(r"(?:youtube\.com/(?:watch\?v=|embed/)|youtu\.be/)([A-Za-z0-9_-]{11})")
-DATE_RE = re.compile(r"\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}\b", re.I)
+VIDEO_RE = re.compile(r"(?:youtube(?:-nocookie)?\.com/(?:watch\?v=|embed/|shorts/|live/)|youtu\.be/)([A-Za-z0-9_-]{11})")
+DATE_RE = re.compile(r"\b(Jan(?:uary)?|Feb(?:ruary|raury)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s*(\d{1,2}),\s*(\d{4})\b", re.I)
 
 
 def youtube_id(url: str) -> str | None:
@@ -36,10 +37,18 @@ def youtube_id(url: str) -> str | None:
 def yt_dlp_metadata(url: str, timeout: int = 90) -> dict[str, Any]:
     """Read one YouTube item's public metadata without downloading media."""
     executable = shutil.which("yt-dlp")
-    if not executable:
-        raise FileNotFoundError("yt-dlp is not installed; install the 'collector' extra")
+    if executable:
+        command = [executable]
+    else:
+        from importlib.util import find_spec
+        if find_spec("yt_dlp") is None:
+            raise FileNotFoundError("yt-dlp is not installed; install the 'collector' extra")
+        command = [sys.executable, "-m", "yt_dlp"]
+    runtime = os.getenv("LEVINVERSE_JS_RUNTIME")
+    if runtime:
+        command += ["--js-runtimes", runtime]
     result = subprocess.run(
-        [executable, "--dump-single-json", "--skip-download", "--no-warnings", "--no-playlist", url],
+        [*command, "--dump-single-json", "--skip-download", "--no-warnings", "--no-playlist", url],
         capture_output=True, text=True, timeout=timeout, check=False,
     )
     if result.returncode:
@@ -96,6 +105,8 @@ class _IndexParser(HTMLParser):
         if tag == "a" and attrs_map.get("href"):
             self._active_href = str(attrs_map["href"])
             self._active_text = []
+        if tag == "iframe" and attrs_map.get("src"):
+            self._global_links.append((str(attrs_map["src"]), str(attrs_map.get("title") or "Embedded official presentation")))
 
     def handle_data(self, data: str) -> None:
         if self._li_depth:
@@ -122,8 +133,8 @@ def parse_index(html: bytes, source_url: str, retrieved_at: str, include_terms: 
     parser.feed(html.decode("utf-8", errors="replace"))
     results: dict[str, dict[str, Any]] = {}
     pairs = [(href, title, context) for links, context in parser.items for href, title in links]
-    if not pairs:
-        pairs = [(href, title, title) for href, title in parser._global_links]
+    listed = {href for href, _, _ in pairs}
+    pairs.extend((href, title, title) for href, title in parser._global_links if href not in listed)
     for href, anchor_title, context in pairs:
         vid = youtube_id(href)
         if not vid:
@@ -134,10 +145,13 @@ def parse_index(html: bytes, source_url: str, retrieved_at: str, include_terms: 
         date_match = DATE_RE.search(context)
         publication_date = None
         if date_match:
-            publication_date = datetime.strptime(date_match.group(0), "%B %d, %Y").date().isoformat()
-        duration = re.search(r"\((?:(\d+)\s*hours?\s*)?(?:(\d+)\s*minutes?)\)", context, re.I)
-        duration_minutes = int(duration.group(1) or 0) * 60 + int(duration.group(2) or 0) if duration else None
-        host_match = re.search(r"\(([^()|]+)\s*\|\s*" + DATE_RE.pattern.strip("\\b") + r"\)", context, re.I)
+            month = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"].index(date_match.group(1)[:3].lower()) + 1
+            publication_date = datetime(int(date_match.group(3)), month, int(date_match.group(2))).date().isoformat()
+        duration = re.search(r"\([^)]*\d+\s*(?:hours?|minutes?)[^)]*\)", context, re.I)
+        hours = re.search(r"(\d+)\s*hours?", duration.group(0), re.I) if duration else None
+        minutes = re.search(r"(\d+)\s*minutes?", duration.group(0), re.I) if duration else None
+        duration_minutes = (int(hours.group(1)) if hours else 0) * 60 + (int(minutes.group(1)) if minutes else 0) if duration else None
+        host_match = re.search(r"\(([^()|]+)\s*\|\s*[^)]+\)", context, re.I)
         role = "excerpt" if re.search(r"\bexcerpt\b", context, re.I) else "dub" if re.search(r"dubbed\b", context, re.I) else "unknown"
         results[vid] = {
             "video_id": vid,
@@ -204,6 +218,7 @@ def discover(root: Path, source_url: str | None = None, limit: int | None = None
                 for field in ("host", "channel", "event_date", "transcript_status", "transcript_language", "transcript_url", "topics", "related_publications"):
                     if prior.get(field) not in (None, [], "unknown"):
                         record[field] = prior[field]
+                record = {**prior, **record}
             if enrich_metadata:
                 try:
                     last_error: Exception | None = None

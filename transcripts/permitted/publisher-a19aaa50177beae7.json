@@ -1,0 +1,261 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/chemical-ai-an-unconventional-strategy-for-mimicking-biological-intelligence-pier-luigi-gentili/",
+  "title": "\"Chemical AI: an unconventional strategy for mimicking biological intelligence\" - Pier Luigi Gentili",
+  "publication_date": "2025-06-10",
+  "video_ids": [
+    "OI1gVFzwiZs"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-a19aaa50177beae7",
+  "retrieved_at": "2026-10-29T09:13:39.685643+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[00:00] Pier Luigi Gentili: I'm developing chemical AI. It means I'm devising chemical systems that can approach some biological intelligent competencies. I'm inspired by your activity, by your research, your results. As I told you in my last e-mail, I propose the concept of multi-scale chemistry because it's a way to mimic the multi-scale competencies of pluricellular organisms. I cited your work and I told you I'm proposing something that can be interesting also to you and your research."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:49] Michael Levin: That sounds very relevant. I'd love to hear about it. Tell me."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[00:54] Pier Luigi Gentili: My name is Pier Luigi Gentili. I'm Professor of Physical Chemistry at the University of Perugia in Italy. It's my great pleasure and honor to be here at the Allen Discovery Center at Tufts University and present my research on chemical artificial intelligence. That is an unconventional strategy for mimicking biological intelligence. In my presentation, I want to answer three basic questions. First of all, why am I developing chemical AI? I will highlight the necessity of facing the complexity of the 21st century global challenges. Then I will answer the question, what is chemical AI? I will give a definition and then present two achievements of chemical AI. One is a contribution to neuromorphic engineering in wetware. It refers to a bio-inspired chemoacoustic system that is an instance of multi-scale chemistry. The other achievement is a contribution to quantum AI. It refers to a biologically inspired photochromic fuzzy logic system that extends human vision into the UV spectrum. At the end, I will answer the question: what are the perspectives for chemical AI? First question: why chemical AI? Nowadays, humanity is required to face global challenges. The list of these global challenges is included in the 2030 Agenda compiled by the members of the United Nations 10 years ago. Reaching the goals of this agenda means dealing with human beings and their societies, the world economy, the urban areas, the natural ecosystems, and the climate. These systems are instances of what we call complex systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[05:18] Pier Luigi Gentili: It's evident that whenever we face global challenges, we need to deal with complex systems. However, we experience seemingly insurmountable obstacles whenever we deal with complex systems. These obstacles give rise to epistemological complexity. One obstacle derives from computational complexity. Many computational problems regarding complex systems are solvable but intractable. Examples are practical problems, such as scheduling, the traveling salesman problem, but also problems of basic science, such as the Schrödinger equation or the prediction of the three-dimensional structure of proteins. When NP problems have large dimensions, we cannot determine their exact solutions in a reasonable time, even if we use the fastest supercomputers in the world. A second contribution to epistemological complexity derives from the recognition of variable patterns that are emergent properties of complex systems. Although the research line focusing on the recognition of variable patterns is particularly lively, we still lack the formulation of a universally valid and effective algorithm for the recognition of every type of variable pattern. A promising research line to face epistemological complexity is natural computing. That is an interdisciplinary research line, drawing inspiration from natural phenomena to formulate new algorithms, to propose new materials and architectures to compute, and new methods and models to understand complex systems, based on the rationale that any distinguishable physico-chemical state of matter and energy can be used to encode information. Every natural transformation of these states is a kind of computation. Within natural computing, we distinguish two programs. In the first, scientists exploit the physico-chemical laws to perform computation. Noting that any physicochemical law describes a forward causal event. Any forward causal event can be conceived as a computation, because the causes become the inputs, the effects become the outputs, and the law governing the transformation becomes the algorithm of the computation. In the second program, scientists mimic the information-gathering and -utilizing systems belonging to living beings. We might mimic how cells compute or how nervous systems, immune systems, and societies of agents compute. The research line of chemical artificial intelligence derives from natural computing and is trying to answer the following heuristic question. Which performances of biological intelligence can be mimicked through inanimate chemical systems in wetware, in liquid solutions, which is the characteristic phase of life? Traditionally, artificial intelligence is developed through two strategies. One relies on software running on current electronic computers or special-purpose hardware. Such software either reproduces the thinking process when it is a flow of rigorous logical operations based on numbers or words, or it mimics some structural and functional features of neural networks to learn how to perform tasks from data, or it mimics some natural biological phenomena, for instance biological evolution. More recently, a new strategy to develop AI has been proposed that relies on reverse engineering neurons and neural networks in hardware, and such neural surrogates and networks in hardware are used as neuroprostheses or to design brain-like computing machines, revolutionizing the von Neumann architectures of current electronic computers. We have proposed a new strategy to develop AI, chemical artificial intelligence. It relies on molecules and macromolecules that operate as if they were the hardware, but they are dissolved in liquid solutions, where phenomena such as chemical reactions, diffusion, migration, advection, convection, and chemical waves can occur. These phenomena operate as if they were the software. In other words, the hardware and software of conventional AI are merged in the wet world of reactive chemical solutions."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[09:42] Pier Luigi Gentili: In this plot, I report the knowledge map of chemical AI, a three-dimensional graph projected on a plane. Along the x-axis, we have the CHI domains that are molecular and supramolecular chemistry, systems chemistry, and multi-scale chemistry. With multi-scale chemistry, I refer to all those chemical systems that manifest self-organization at different spatial scales and multi-level causality when appropriate macroscopic thermodynamic forces are applied. Such chemical systems maintain an out-of-equilibrium condition by the thermodynamic forces that give rise to dissipative structures and forms of actimeter. Multi-scale chemistry is required to mimic the structural and functional performances of multicellular biological organisms, exhibiting multiscale competencies, as you demonstrated and proclaim in your research. In the knowledge map of CHI, along the y-axis, we have the CHI paradigms that are biosensors, brains, and effectors. And finally, in the third dimension, represented by the saturation degree of the green color, are reported biological intelligent competencies that range from sensing to perceiving, from computing to planning, from working to acting. Some of these competencies have already been implemented, and they are indicated in black. Some others have not been implemented yet. They are indicated in white. Presumably, they require a further development of multi-scale chemistry to be within reach. An ambitious goal of chemical AI is the development of chemical robotics. A chemical robot is envisioned as a confined, complex molecular assembly that reacts autonomously to its environment because it has sensors collecting data about the environment and internal state of the robot. It has artificial neural networks processing the sensory data, making decisions and triggering the actions of the effector models that can act upon the environment. The intelligent activities of a chemical robot should be sustained by an appropriate metabolic model. Chemical robots should be easily miniaturized in order to be implanted in living beings and interplay with cells and organelles to perform biomedical actions. In other words, chemical robots should become auxiliary elements of our immune system. At the same time, we might think of deploying chemical robots in the environment to safeguard the environment itself and face problems related to energy and food supplies, as alleged by the futurist Kurzweil. The development of CHI might have a curious side effect. It will probably assist human efforts to unveil the mysterious event of the appearance of life on Earth. The staggering event of the appearance of life on Earth has been described as a phase transition or sudden change from a completely abiotic world to a world where the first complex chemical systems, capable of exploiting matter and energy to encode, collect, store, process, and send information to pursue goals, somehow pop up. Now, after answering these two fundamental questions — why chemical AI and what is chemical AI — as I promised at the beginning, I want to present two achievements. The first is a contribution to neuromorphic engineering in wetware, and it refers to a bio-inspired chemo-acoustic system. Being aware that the computational power of any neuron relies on its dynamical properties, we exploit chemical reactions such as the Belousov–Zhabotinsky, the Briggs–Rauscher, and the Orba reaction to mimic the excitable, oscillatory, and chaotic dynamical regimes of real neurons. Then we put these chemical reactions in communication through optical and chemical signals, and we can detect spontaneous spatial-temporal synchronization phenomena analogous to those occurring in real neural networks. Moreover, these chemical reactions give rise to the wonderful phenomenon of chemical waves that are autocatalytic reactions propagating through an excitable medium. The phenomenon of chemical waves is widespread in the human nervous system. For instance, electrochemical waves propagate in the form of action potentials along the axon of a neuron for information transfer at the cellular level."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[14:05] Pier Luigi Gentili: The electrochemical waves propagate in the form of spindles in our cerebral cortex to consolidate and integrate memories during our sleep at the cerebral level. The Belousov-Zhabotinsky reaction, that is a catalyzed oxidative bromination of malonic acid in aqueous acidic solutions, gives rise to outstanding examples of chemical waves, as shown in this accelerated movie. Since the behavior of the Belousov-Zhabotinsky reaction is strongly affected by mixing, we explore the response of its chemical waves to mechanical oscillations. In this picture, I report the experimental setup. We pour a T-layer of the Belousov-Zhabotinsky reaction on a polystyrene Petri dish, and then we apply mechanical vertical vibrations with frequencies in the acoustic range. We find that this device, based on the Belousov-Zhabotinsky reaction, is sensitive to vertical mechanical vibrations in the range 2,010 Hz. We propose this device as a bio-inspired chemoacoustic system that allows the discrimination of seven acoustic bands in the range 2,010 Hz, as I'm going to show in the next slide. First of all, I report the behavior of a Belousov-Zhabotinsky reaction, where we detect spontaneous space waves propagating from the periphery to the center of the dish and target patterns that can be either sparse or dense. When we apply frequencies in the range 2,650 Hz, we still detect spontaneous space waves and target patterns, but the mechanical vibration makes the front waves of the target patterns more irregular. When we apply frequencies in the range 650–500 Hz, we detect a pacemaker of advection-induced phase waves in the center of the dish. These advection-induced phase waves propagate anisotropically towards the periphery, generating a clover-type shape. On the periphery of the dish, we still detect spontaneous phase waves and the irregular target patterns. When we apply frequencies in the range 500–200 Hz, we detect a vibrating annulus in the middle of the dish, and advection-induced space waves are generated in this vibrating region; then they propagate towards the center and quite slowly in the rest of the solution. When we apply frequencies in the range 295 Hz, we detect two vibrating regions, one in the center and one in the periphery of the dish, separated by a steady nodal region. Advection-induced space waves are generated in one point of the vibrating peripheral region, and then they move towards the opposite side, engulfing the nodal region. When we apply frequencies in the range 95–50 Hz, we detect a grid of cells that is a Faraday pattern. This grid of cells is generated by standing waves propagating orthogonally with respect to the vertical mechanical vibration, and the amplitudes of the oscillations on the periphery are larger than in the center. The advection-induced space wave is generated at one point in the center, and it spreads radially towards the periphery. When we apply frequencies in the range 50–15 Hz, the grid of cells in the Faraday pattern is now uniform. The dimensions of the cells constituting the grid increase by lowering the acoustic frequency. Advection-induced phase waves are generated at one point on the periphery of the dish, and they move quite quickly towards the opposite side, sweeping the entire solution. When we apply frequencies in the range 15–10 Hz, the dimensions of the cells constituting the Faraday pattern are so large that they fragment the front waves of the advection-induced phase waves, which then appear irregular. We observed that the velocity of the advection-induced phase wave is apparently dependent on the acoustic frequency, as we can see in this plot. The lower the frequency, the faster the propagation of the advection-induced phase wave. The interpretation of this dependence was possible by invoking the network-of-cells model. The solution of the Belousov-Zhabotinsky reaction can be described as a grid of micrometric open reactors exchanging chemicals through diffusion and advection."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[18:29] Pier Luigi Gentili: The vertical mechanical vibration affects the chemical coupling between these micrometric open reactors, and the lower acoustic frequency guarantees a more extended chemical coupling, the formation of larger clusters, and hence a faster propagation of the advection-induced space wave, and the simulated velocity is in agreement with the experimental results. This system causes an instance of multi-scale chemistry, because the dissipative spatiotemporal patterns we observe at the macroscopic level are due to a multi-level causality involving the macroscopic level, where we apply the vertical mechanical vibration, the mesoscopic level involving the micrometric open reactors, and finally the molecular level involved in the Bezier reaction. Three key outputs allow the discrimination of seven acoustic bands in the range 2010 Hz. The frequency of these chemical waves is three to five orders of magnitude smaller than the mechanical and the acoustic frequencies. A second key output is the dependence of the advection-induced phase wave velocity on the acoustic frequency described by this bi-exponential function. The third key output is the dependence of the Faraday wave's wavelength on the acoustic frequency described by this equation and shown on this plot. We can find some analogy between our bio-spire chemoacoustic system and the human ear, because in the human ear, the cochlea is a transducer of mechanical energy into electrochemical energy, and we have tonotopic representation of the acoustic waves along the asymmetric basilar membrane. In our bio-spire chemoacoustic system, the Bezier reaction is a transducer of mechanical energy into chemical energy. We detect peculiar spatiotemporal patterns as a representation of different acoustic bandwidths. The second achievement is a contribution to quantum AI. It refers to a biologically inspired photochromic fuzzy logic system that extends human vision into the UV spectrum. Quantum AI is a recent research line derived from merging quantum computing and artificial intelligence, expecting to observe synergistic effects. Quantum computing can speed up artificial intelligence, but at the same time, artificial intelligence can support the development of quantum computing, for instance in error mitigation or in quantum circuit optimizations. Traditionally, quantum AI relies on qubits. In our case, we present a contribution to quantum AI that relies on thermalized quantum states that allow the implementation of arbitrary fuzzy sets, and they allow us to process fuzzy information, as I'm going to show you in the next slide. I want to recall some basic ideas about fuzzy logic. Fuzzy logic reproduces the exclusively human feature of making decisions using deductive reasoning based on qualitative information expressed through words of natural language. Any nonlinear cause-and-effect relationship involving input and output variables is described through syllogistic statements of the type \"if-then.\" The graduation of the variables is achieved through adjectives. Adjectives are fuzzy sets that granulate and graduate the numerical values of both the input and output variables. A fuzzy set is different from a classical Boolean set because an item can belong to a fuzzy set with a certain degree. This degree can be any real number between zero and one. As an example here, I show the granulation and graduation of the variable temperature in four fuzzy sets. We must be aware that the number, position, shape, and graduation of the fuzzy sets are context-dependent features. Probably the most iconic success of fuzzy logic is its capacity to control the remarkably unstable inverted double pendulum. In my view, we can state that a living system can be imagined as unstable as the state of an inverted double pendulum. Any living being succeeds in surviving when it processes fuzzy logic at different spatial scales, from the molecular up to the organismic level. Fuzzy sets are implemented at the molecular level through micro-heterogeneous chemical systems. What does it mean?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[22:53] Pier Luigi Gentili: When a chemical compound exists as a collection of distinct conformers and/or experiences microenvironments with distinct physicochemical features, it is describable as a quantum mixed state through this equation. In this equation, with these raw quantum mixed states, W_i' represents the probability of the i-th wave function associated with one specific conformer and/or peculiar microenvironment. As an example, I show here this compound that is a merocyanine. It is a flexible structure, so it can exist in many conformers. Each conformer has its own wave function. This conformational distribution of the merocyanine can also be conceived as a molecular fuzzy set. In this case, the equation defining the quantum state, the W_i' appearing in this equation, represents the degree of membership of the i-th wave functions to the molecular fuzzy set. The amount of information encoded by the molecular fuzzy set is given by this equation that depends on the wave functions appearing in the definition of the quantum mixed states and the relative weights. It's possible to process fuzzy information when physical and chemical inputs modify the W_i' values and hence fuzzy behavior. I show an example by presenting the behavior of this thermally reversible photochromic compound, a spirooxazine that upon UV radiation gives rise to the merocyanine. The merocyanine is metastable, so if we discontinue the radiation, we have a spontaneous recovery of the original structure. This structural change is accompanied by a significant spectral change because the spirooxazine is uncolored, whereas the merocyanine is colored. We detect the appearance of a peculiar band in the visible region. If we record how the absorbance in the visible region changes over time, we detect an exponential growth that reaches a plateau corresponding to the photostationary state. If the radiation is steady, it is stationary. As soon as we discontinue the radiation, we have a recovery of the original, equilibrium state through bleaching kinetics. Since the merocyanine is a flexible structure, it is reasonable to fit these bleaching kinetics using a poly-exponential function. A good method to determine the best fitted function is the maximum entropy method, which is maximally non-committal, and its output is the least biased estimate possible on the experimental data. I report the weights of different bleaching kinetic constants recorded for the merocyanine dissolved in pure ethanol at different temperatures. We can observe that the higher the temperature, the faster the bleaching process and the broader the distribution of the bleaching kinetic constants. It means that the temperature is enough to affect the conformational distribution of the merocyanine. We can affect the conformational distributions also through chemicals. For instance, injecting glycine, we detect that glycine, the amino acid, has a double effect. It slows down the bleaching process and shrinks the distribution of bleaching kinetic constants. This double effect is presumably due to a supramolecular interaction between the amino acid and the zwitterionic form of the merocyanine. It is evident from these results that the conformational distribution of the merocyanine has context-dependent features, like any other fuzzy set."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[27:17] Pier Luigi Gentili: The manipulation of this conformational distribution is a way to process fuzzy information, a form of quantum parallelism because we are manipulating wave functions associated with the different conformers. We can increase the degree of computational parallelism by preparing mixtures of distinct quantum mixed states. That means preparing mixtures of distinct molecular conformer sets. For the selection of the chemical composition of these mixtures, we should be driven by the process of granulating the physicochemical variables. In this regard, a remarkable example is offered by human color vision. In the center of the retina, we have three types of cones, the so-called red, green, and blue cones. All these cones have the same chromophore, that is the 11-cis retinal. However, the three types of cone differ in the position of the lowest energy absorption bands for the chromophore, because the proteins embedding the chromophore differ in the amino acid composition. These three absorption spectra are associated with distinct vibronic wave functions, and they are three molecular sets granulating the visible region. Lights having distinct modalities, distinct spectral composition, belong to these three molecular sets at different degrees. The collection of these different degrees constitutes the first clue to distinguish hue in our brain. The granulation of the visible region is a form of quantum parallelism that confers humans the capability of distinguishing around 200 hues. To test the validity of this description, we decided to follow the same approach and we devised biologically inspired photochromic fuzzy logic systems that extend human vision into the UV spectrum. We synthesized a collection of five thermally reversible photochromic compounds. Each compound has its own absorption profile in the UV, and each compound shows at least one characteristic absorption band for each of the three UV regions. Furthermore, each compound produces a peculiar absorption band in the visible region. The hue of color generated by a single photochromic compound is always the same whatever the excitation wavelength in the UV is, but we can prepare mixtures of three to four of these compounds and obtain a system capable of discriminating the three UV regions, UVC, UVB and UVA, by giving rise to colors having peculiar hues. For instance, solutions containing compounds 1, 2, 4, and 5 at specific concentrations become green when irradiated by UVA, gray when irradiated by UVB, and orange when irradiated by UVC. I want to conclude my presentation by presenting some perspectives for chemical AI. Chemical AI refers to the unconventional strategy for mimicking biological intelligence in wetware, which is the characteristic face of life. Chemical AI and chemical robotics will help humans explore and colonize a poorly investigated space, that is, the molecular world. Decolonization of the molecular world will provide tools to effectively combat poverty, clean up the environment, overcome diseases, and extend human longevity. Moreover, trying to obtain intelligent chemical systems from scratch can help understand intelligence and life. We are aware that chemical AI and chemical robotics are in their infancy, but we believe we need a productive interdisciplinary collaboration among chemists and specialists of other disciplines to succeed. This is the reason why I hope that this meeting could be the starting point of a fruitful collaboration with your group. I want to mention and acknowledge my current collaborators, my young researchers, my students, my university and the European Union for the financial support. I thank you, Mike, for giving me the opportunity to present at your prestigious Allen Discovery Center. Thank you, Mike."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:42] Michael Levin: Thank you very much. Super interesting. Lots of things for us to talk about. I like all of it. I like the biomechanical aspect, the vibrations. We've been doing a lot on that lately in other contexts. So there's a lot here for us to talk about. Do you want to start with anything, or should I just fire off some ideas?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[32:08] Pier Luigi Gentili: We can start there. If you want, we can continue."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:14] Michael Levin: First of all, have you tried to apply to these chemical networks? Have you tried applying any of the recent metrics from information theory, things like causal emergence? Have you done any of that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[32:33] Pier Luigi Gentili: Not yet, not yet, not yet."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:36] Michael Levin: I think it would be very interesting. We have tried it with gene regulatory networks, which are also models, and now we're doing living ones, but first the models. There are some very interesting properties of the different metrics, the different surrogates of phi, that exist in random networks and in networks after they've been trained. One of the things we do is try to train these gene regulatory networks, partly for biomedical purposes, partly to understand the origin of basal cognition. I think it might be really interesting to apply it to your data. Federico Pagosi in my group, who is doing this work, is writing up a primer on how to do it and to make it easy. If you want to do that, we can connect and try to analyze some of your data."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[33:32] Pier Luigi Gentili: It would be great. Why not? Great."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[33:36] Michael Levin: Both spatially and temporally. I have a feeling that you will find in some of these cases some significant phenomena as these emergent causal emergence metrics arise."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[33:48] Pier Luigi Gentili: Very good. This could be a way to develop multi-scape camps, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[33:57] Michael Levin: Exactly. You could look at this at different levels, like Eric Hole in our group does, to see which level is doing how much of the causal work. I think that would be very interesting. What are your thoughts on this, as it relates to the other question, because we're looking at it from that perspective. On the origin of life, at least the biological version, do you have any kind of biorealistic scenario that you can look at that people think are relevant to the origin of life?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[34:37] Pier Luigi Gentili: I'm still working on it. I don't have results to show in that area. But I think it's the right time to broaden the scope of thermodynamics because I feel there's something missing in thermodynamics: we have Shannon entropy, but it's in terms of probability. I'm fond of fuzzy logic because it is capable of introducing semantics in science. It's not easy. The next step would be to introduce the quality of information also in thermodynamics. I rely on thermodynamics because if we can explain the so-called phase transition that occurred at the origin of life in thermodynamic terms, we'll surely have something relevant to show to the scientific community, because thermodynamics is cross-disciplinary. The systemic approach it uses is surely worth pursuing in any field. I don't have a particular theory. I'm just reading all the theories proposed by other scientists, and I'm thinking that the right direction is to explain that phase transition in thermodynamic terms. This is my point of view."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:37] Michael Levin: Yeah. Yeah, because."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[36:40] Pier Luigi Gentili: Still need to work in this direction, but I don't know if you agree with this idea, and we might think of developing something together."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:53] Michael Levin: I'm not an expert in thermodynamics, so I don't know how much I can add to that part, but I do think this is the right way to go. What's clear from the things you just showed, from the work of Walter Fontana on probabilistic inference in chemical networks, and from our stuff on GRNs, is that aspects of cognition show up extremely early. They don't need cells or genes or brains or any of that stuff; they're much more basal, and they emerge, I think, from patterns of mathematics and physical phenomena very early. This is not a mainstream opinion, but I think mind is there long before what we recognize as life. We should be able, in origin-of-life scenarios — chemical ones, physical templating ones, or any of them — to identify the kinds of phenomena you were talking about in your introduction. That would be interesting. I've been talking to people. What I don't have is a particular model; I just need anybody's plausible model of the events that current thinking posits about the origin of life. Then we can do all these analyses. We can try training the networks, try phi metrics and the things you were showing; we can do all of that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[38:24] Pier Luigi Gentili: For instance, starting from chemistry, we start from inanimate matter and approach the competencies of living matter. This could be a way to see which are the most important ingredients to detect that phase transition from non-living to living, as you say, from non-cognition to cognition. By assembling different components, we should detect the critical point for that phase transition from non-living to living."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[39:16] Michael Levin: I think I'm visualizing. I need to make the slide. This is a slide I haven't made yet. Typically you see when they stack the sciences: physics, chemistry, biology, and behavioral science. But I actually think the behavioral science overlaps all of them. It's there from the very beginning and across the whole thing. Finding these kinds of things at the chemical level, I think, is very important. Another thing we should talk about is one of the ways to envision what you show today using vibrations as a way to communicate with the system. Any system on the cognitive spectrum, you should in some way be able to communicate with it. We are developing an interface with AI in the middle, an interface to let extremely divergent kinds of minds talk to each other. Not just cells to bacteria or zenobots to plants, but making these cognitive cyborgs of some really weird things. Some of them are living, some of them are simulations, some of them are mathematical objects, some of them are AIs or robotics. It would be cool to set up — we have a paper now that is in review at Alife around Zenobots communicating with various things. A paper just came out looking at using vibration to communicate with the Zenobots. In a very simple way, they behaviorally respond to certain kinds of sound stimuli. It would be interesting to set up a hybrid system where some of our systems communicate bi-directionally with your chemical systems. What kind of dynamics can we start to see in the chemistry if it's driven by signals from, let's say, a more advanced biological system and vice versa? What would the mutual interaction be? What do you do about that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[41:44] Pier Luigi Gentili: That could be very nice. We might, because the chemical reaction that I show you and similar reactions can reproduce the dynamics of neurons. So we can establish this communication, this chemical communication or maybe also optical communication if it is possible and see if there is a feedback between these two systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[42:18] Michael Levin: We could also turn the fact that we are separated geographically into a feature and have them communicate over the internet. So as long as the latency is not too bad, what's the real time scale of your system? How fast do these things change?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[42:39] Pier Luigi Gentili: The oscillations of these reactions can occur in the range of a few seconds up to 10 seconds."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[42:47] Michael Levin: So that should be fine. We could set up an internet-based protocol to have a system in our lab, have a system in your lab, and the whole thing can be one giant brain. We'll make an interface for it. That's kind of like our corpus callosum. We can look at the mutual information between them. We can look at some of these phi metrics. I think that would be really neat to add to the repertoire. I will say also that we have another project developing AIs that will talk to cells, allowing you to talk to cells and gene networks and pathways in regular language. For biomedical purposes, they also raise these interesting questions of what happens when you add a linguistic interface to a cognitive system that's good at doing certain things, and then you put a semantic interface on it. I wonder if we could apply some of those to your systems and you could talk to your busy reaction and give some commands and get some information from it that way."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[44:04] Pier Luigi Gentili: It sounds good. I'm playing with music right now. But I like the idea of using some sentences; it could be a good idea."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[44:26] Michael Levin: Music is very interesting. We've done music with Physarum, the slime mold, and that thing definitely has preferences over which music it likes and which one it doesn't like. It has all kinds of behaviors when it encounters it. Have you found that certain pieces or certain genres of music are treated differently by your system?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[44:54] Pier Luigi Gentili: The system reacts in a different way depending on the kind of music. So changing the author, the composer, the system, the complexity of the music changes, and the response of the chemical system changes as well. Of course, we cannot say he likes that or he doesn't like that kind of music because he's not a living being, but we can discriminate."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[45:23] Michael Levin: This is something we're doing too: you can set up an instrumental learning assay, where you don't know what it likes until you give it a chance to choose. If you give a system a chance to either turn the music on or off by its actions, or allow it to switch between different types of music, you might find that if you just let the thing tell you what it wants, you have to figure out a mapping. Which patterns are interpreted as \"okay, change the music or turn the music up or down.\" You make a mapping. Then you see if your system actually makes use of it to control its environment. We're trying to make things like that: have cells self-medicate with certain drugs or ask for media changes in their environment. It starts as biofeedback, but it becomes an instrumental learning task. I bet you could do the same thing here. I bet you could have the reaction choose its own music."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[46:27] Pier Luigi Gentili: I like this idea. I didn't think about this aspect. Good."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[46:38] Michael Levin: One last idea that I was having regarding the fuzzy logic aspect of it. Have you seen the stuff from Patrick Grimm from the 90s?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[46:50] Pier Luigi Gentili: Can you tell me more about that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[46:52] Michael Levin: What he did was, it's super interesting work. He's a philosopher at NYU, and what he did was this: he was looking at paradoxes, logic paradoxes, \"the sentence is false,\" that kind of thing. And he realized two things: one is that it's only a paradox if you take away time and try to insist on one frozen value, because then you don't know what that value is. But if you give it time, what you end up with is an oscillator that just goes true, false, true, false, true, false. It's fine. If you give it a time axis, you can just evaluate it and you get this square wave. Then he said, so now let's make it fuzzy. And so now you can have sentences such as this. Sentence X can be, \"I am 50% as true as sentence Y,\" and sentence Y is, \"I am false unless sentence X is more than 30% true.\" Once you make it fuzzy, you can have these self-referential sentences, and they become a dynamical system; you can plot them, they have a shape. Some of them converge onto a stable value; some don't. They are cyclical, or they have strange attractors; some of them are fractal. But what he developed is a mapping, a morphology or a shape, or, if you give it time, a dynamic for these sets of logic sentences written as fuzzy. And that's really interesting because that's another link between formal properties of sentences and logic and statements about the world and these kinds of dynamics that you have here. So I could even imagine going backwards: you have a reaction, you have a chemical reaction. What if Grimm's formalism is the interface between the dynamics that you have and language, such that I can have sentences in the language that become translated into dynamical systems that look, for example, like BZ systems? But could we go backwards? If we can go backwards, we can look at the dynamics you have and ask, what set of sentences does this represent? It's not going to be one-to-one, but let's say the simplest one; maybe there's a way to choose it. So, what is it literally trying to say to you? When you have a particular chemical reaction, what is the language that it maps to in Grimm's formalism? That might be neat."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[49:35] Pier Luigi Gentili: I need to think about that. Thanks for the suggestion."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[49:41] Michael Levin: I can flesh some of those out in a little bit more detail, but it sounds like any of these we could do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[49:58] Pier Luigi Gentili: It would be very, very nice. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:03] Michael Levin: What are the two kinds of things that immediately come to mind that might be relevant to this work? One is some of Lee Cronin's stuff on chemical computation. I haven't followed all the details. I don't know exactly where it stands, but I know he's working on chemical computation. There was another one I was going to ask you: the stuff on droplets, the chemical robots. What do you think about those kinds of things?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[50:40] Pier Luigi Gentili: They are alternative approaches to contribute to chemical robotics. For instance, the liposomes, micelles, and the oscillatory chemical reactions embedded in these systems constitute neural surrogates or surrogates of biological cells. They are also studying the cell replication phenomenon of these systems. Regarding Cronin, he is developing, especially AI in chemistry, we might say. He's not truly chemical AI as I proposed. That means he's using traditional artificial intelligence algorithms to develop organic synthesis or similar experiments typical of chemistry. It's more AI in chemistry rather than chemical AI as far as Cronin's research is concerned. There are different groups working on this area of chemical AI. For instance, tomorrow I will attend a workshop in Japan online. They are developing the so-called molecular cybernetics towards chemical AI. They propose biomolecules as neural surrogates; biomacromolecules can have feedback effects: they have different sites, so they can react to different substrates and change their behavior depending on the chemical composition of the environment. They design artificial neural networks using macromolecules or assemblies of these macromolecules. They propose these macromolecules as effector models so they can perform mechanical work at the molecular level. This is the original idea in molecular cybernetics: to use macromolecules to perform mechanical work at the molecular level. It's not the same as I presented in my seminar, but they are parallel research routes that can contribute to the development of chemical AI."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[53:39] Michael Levin: Do you think, what does the field look like right now? It sounds there's a conference, sounds there's enough people that this is an emerging field."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[53:48] Pier Luigi Gentili: There are different research groups worldwide working on this area. Not too much so far, because it's more AI in chemistry rather than chemical AI. AI in chemistry is now on the verge of growing exponentially. It's rocketing the application of AI in chemistry. But there are groups like me working in this area of chemical AI. And I think it's interesting because, as I told you, we can understand more deeply phenomena such as life, intelligence, cognition. It's a bottom-up approach to cognition and intelligence and life. As a chemist, we start from single molecules, we assemble them. And I think that the idea of developing multi-scale chemistry inspired by your activity, your results in biology, could be a new pathway to approach the biological intelligent competencies. It's promising. Multiscale chemistry is used in computational chemistry, because to mimic biology, to mimic biological systems, they use different computational paradigms depending on the level of description. For instance, at the molecular level, they use quantum chemistry. But if they go to the mesoscopic level, they start to use mechanical physics, classical physics. It becomes too cumbersome to use quantum chemistry even at the mesoscopic level. They call that the onion approach because it's like an onion of different levels: quantum chemistry at the molecular level, classical physics at the mesoscopic and macroscopic level. If we now start to develop this multi-scale chemistry in real experiments, it could be a new way to achieve self-organization, applying macroscopic thermodynamic forces in properly designed chemical systems because we must maintain any inanimate chemical system very far from thermodynamic equilibrium to observe the spontaneous phenomena of self-organization in time and space and approach the performances of biological organisms. This idea comes from Prigogine, who started to develop the principle of out-of-equilibrium thermodynamics. And this is the reason why I told you that we also need to further develop that part of thermodynamics because we still fail to properly describe life at the thermodynamic level. Something is missing in that part."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[57:12] Michael Levin: It seems a very related area to some of the reservoir computing stuff. What aspects of the reservoir are you actually taking advantage of? Degrees of freedom is one thing, but if the reservoir is active and a little bit smart, can you do better? I wonder if these kinds of things that you have here would make interesting reservoirs."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[57:45] Pier Luigi Gentili: If you feel an approach in the so-called neuromorphic engineering, because you have a reservoir mimicking neural surrogate, a neural network?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[58:02] Michael Levin: I don't love the neuromorphic name because the thing we are trying to mimic is not neural at all. It's much—yes, neurons do it too, but it's a much more fundamental thing. It's not about chasing the precise architecture of the brain or even of neurons. It's a much more fundamental phenomenon."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Pier Luigi Gentili",
+      "text": "[58:24] Pier Luigi Gentili: Yeah,"
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-a19aaa50177beae7.txt",
+  "text_sha256": "147b5b51b3f07087a7a8130fbaf9141ce685f16cf00ee4a76c669a2e720f0b86",
+  "word_count": 7154,
+  "segment_count": 47
+}

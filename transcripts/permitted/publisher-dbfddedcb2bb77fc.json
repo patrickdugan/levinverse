@@ -1,0 +1,41 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/what-the-physiological-software-of-life-means-for-patient-specific-interventions-by-michael-levin/",
+  "title": "\"What the physiological software of life means for patient-specific interventions\"",
+  "publication_date": "2025-10-14",
+  "video_ids": [
+    "Ib6V4LELWSA"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Michael Levin's talks",
+  "tags": [
+    "Michael Levin's talks"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-dbfddedcb2bb77fc",
+  "retrieved_at": "2026-10-29T09:17:49.650505+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[00:00] Comment on one interesting aspect of this patient-specific approach, which is that, typically we have molecular pathways that are worked out and they're in the papers and they're in the textbooks and we think this is the regulatory architecture that regulates some aspect of health and disease. Everyone understands that there are patient-specific genetics and epigenetics that impact at the hardware level. These are all things that introduce novel components and novel properties into the function of that system. But there's another very important layer here, which has not really been paid mind to, and represents a massive opportunity for the future. It's the same kind that happened in the information sciences when we went from the 1940s and 50s when in order to program a computer, you had to interact with the hardware. Everything was about the hardware. If you look at pictures, people would be sitting there pulling wires and rewiring the thing. The reason you don't need to get out your soldering iron when you go from Photoshop to Microsoft Word on your laptop is that we've learned that when your hardware is good enough, it becomes reprogrammable and you need to communicate with it, not micromanage it at a low level, but you need to manage its memories. When we talk about our work, we are now beginning to understand that it's not only the software level, but literally on a kind of cognitive level, the numerous subcomponents of our bodies have memory-forming abilities. They literally learn from experience. They have memories. Some of these memories are pathological. Some of these are beneficial. They are tractable to all of the tools of cognitive neuroscience, which is why I'm using the word memory. These things have profound effects both on side effects and on the efficacy of interventions for individuals. It's not just the hardware level and the genetics. It is also the memories that the various molecular pathways, cells, and tissues in any given patient have. I really applaud this patient-specific approach because we've just begun to scratch the surface of it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[02:16] Michael, could you tell us a little bit about your lab's innovation, and especially around cancer and bioelectric signals?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[02:25] Sure. I'll share slides momentarily. I want to give a quick introduction to this. My perspective on this is that birth defects, failure to regenerate after injury — and we're talking massive regeneration like limbs and things that certain other animals can do — cancer and aging are really all fundamentally the same problem. They are a problem of understanding and controlling how groups of cells know what to build. If we had good control over what groups of cells could build, we could repair birth defects, cause the regeneration of organs, either in vivo or for transplantation, normalize cancer, and stop and reverse aging. What is abundantly clear is that cells and tissues are able to navigate the space of anatomical possibilities. You start life as a single cell; eventually you end up as whatever complex anatomy you have. This is not a hardwired process. This is a process of active navigation of the space of anatomical possibilities. We were all taught in our molecular and cell biology classes that, in fact, the question of how do they know what to build is a bad question. You would be told none of these systems know anything. What you should do is apply open loop models of cellular automata. There are local rules. Everything runs according to these rules. Then eventually there's emergence and complexity. These are very popular terms, and eventually something pops out. What I would like to tell you is that, for the exact same reasons that those kinds of models don't cover all of cognitive science, we are well aware that animals with cognition have represented goals, they can deploy intelligent behavior towards those goals, and they can navigate problem spaces. For that exact same reason, those kinds of views where the system doesn't know what it's doing and is simply rolling forward according to the rules of chemistry — those kinds of models — are insufficient for what we want to do here: for understanding biology, for understanding evolution, and for transformative regenerative medicine. They leave too much on the table. It turns out that the cells — and especially groups of cells — in your body know what they're trying to do in the same sense that a self-driving car has a memory of its goal and the ability to do context-sensitive problem-solving to meet that goal. They actually do have a represented end state that they're trying to reach, and they have degrees of intelligence to reach it. Over the last 20 years, my group has developed novel technologies to be able to read those goal states, so we can look to see what the memories are that these cells are trying to implement, see how they're encoded, and, in some cases, rewrite them for transformative applications."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-dbfddedcb2bb77fc.txt",
+  "text_sha256": "df70052e826d9dfaf496c497c4eec6030c9b9c9f7f4f6a2f25699edfb2823355",
+  "word_count": 832,
+  "segment_count": 3
+}

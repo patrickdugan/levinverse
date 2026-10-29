@@ -1,0 +1,341 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-between-douglas-brash-chris-fields-and-michael-levin-2/",
+  "title": "Conversation between Douglas Brash, Chris Fields, and Michael Levin 2",
+  "publication_date": "2023-03-10",
+  "video_ids": [
+    "LJ6yP6QTM1M"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-1dda23bfff9949a6",
+  "retrieved_at": "2026-10-29T09:14:27.709057+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[00:00] Douglas Brash: Yeah, good."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:02] Michael Levin: Hey, Chris."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[00:06] Douglas Brash: So I don't know if you guys have an agenda. I have been assembling stuff. I wanted to be more organized, but I shot you guys an e-mail that has some of my thoughts down in writing in case that makes it easier. I have infinitely many questions, but I could do some definitions of things as I was going through the quantum free energy paper. More interesting than specific questions are something that hit me last night. There are basically two main topics. One is what's the organizing principle for embryos and where is it? What's that telling us? The other is what's the definition of a thing and how does that get us anywhere in cognition? The two are beginning to merge in my mind, although I wish I understood all of your papers better. The thing that occurred to me last night is about the competency experiment. That's the one where you have an array of numbers one through ten, they're scrambled up and you're trying to get them back one through ten by swapping. It dawned on me that there's actually two things in that box. There's numerals that are getting rearranged and there's numbers where the information is actually sitting and the constraint is actually sitting. You're using the number information and comparing current positions to the number ordering. Numerals don't have an ordering property; they're just scratches on paper."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[02:39] Douglas Brash: And then as soon as you have that dichotomy, you now have the same dichotomy as the genotype-phenotype blueprint object that you're making and so forth. That confers a number of interesting properties. First of all, you could swap things at the blueprint level and not necessarily get any change at the phenotype level. Or maybe you do, maybe you don't. That's the sort of option that lets the stress selection and genetic assimilation work. The other is that as soon as you think of it in terms of these two levels with blueprint and the output, the first thing you want is to have parts. By analogy with the DNA, which is actually, I think, probably a pretty good analogy in many ways, you've got different bases. On the other hand, you've got amino acids. So what actually happens with that? You've got a very rigid code that goes from the DNA to the amino acids and then to the protein. But which proteins you decide to make and how those proteins assemble or get assembled by another protein, that's the part that is subject to optimization, I would guess. So if I were going to look for a place to apply a free energy principle, that's where I would guess it would look. Now, maybe in evolutionary history, there's a similar principle for just deriving a code. But in any event, if you're looking for some kind of electrical code analog to that, then A, you would like some parts. If you want an electrical blueprint, that is the macroscopic blueprint that's constraining the organism, even if you push its eyes around or something, then A, you would like some parts of some kind, sub-electric fields, and B, you'd like some code for how that gets translated over into actually building the organism. And then the funny thing about the genetic code is we know about the reading frame as basically restricting how to go from ATGC to an amino acid. I remember in grad school I asked, well, okay, where is that code sitting? And where it's sitting is in the tRNA synthetase. And so then the question is, okay, can you look for analogs of all this stuff with the electric fields."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[05:18] Michael Levin: You're right. It's really critical for all these bioelectric states to ask who the interpreter is. The mapping, much like with DNA, between a distribution of voltage states and some anatomical state later on, is really critical. We spent a lot of time and we're still thinking about it; originally we thought that it might be specific voltage levels mapped to specific organs. We saw that wasn't right. It really appears to be a pattern of differences across space. The interesting thing happens when certain cells of a particular voltage are sitting next to cells of a different voltage. It's the difference that's actually meaningful to the outcome, not the absolute values of either side. The difference matters. So all of this brings to mind: who's reading this? What's the interpretation machinery? We have a few models now. We put out one, and there's one in revision right now asking how a collection of cells reads a spatially distributed bioelectric pattern and turns on specific genes as a consequence of this. It's not that an individual cell voltage turns on genes within that cell. That's easy, and we found that years ago. There are five or six different transduction pathways that do it. Much more interesting is how they recognize a pattern and how they know if the pattern is correct. How do they know what it means? That's what we're wrestling with now, and there's definitely an interpretation issue there. We have a computational model of how that happens. It also ties into a deep issue about memory because there are these memory transfer experiments, where someone like David Glanzman might transfer RNA from a trained animal into a naive brain. We've transferred pieces. We'll transfer pieces of an animal from one to another, and we look at propagation of morphological memory, propagation of behavioral memories, and so on. You have the same issue with decoding on the other end. The thing that's always bothered me, and it's not just for RNA, it's for any material substrate for memories, is that if I train an animal to some weird relationship that it's not evolutionarily prepared for—three yellow light flashes means take two steps to your left or otherwise you get shocked—animals can learn this. Let's say that ends up being encoded in an engram of some crazy molecular structure. Maybe it's RNA, maybe it's something else. I take that, shove it into a naive brain, and there has to be a decoding mechanism that can look at that structure and go, \"I see three yellow light flashes.\" Where's that code book? You can imagine something evolutionarily expected, like fear of the dark, where we share the same code book because it's built in. But for these really arbitrary things it is not plausible that we share a code book that already prespecifies that; it becomes really hard. The worst problem is that it's bad enough when you're moving it from body to body, but within the same body it's the exact same issue. Because for me to read my engrams I don't have access to the past. All I have is whatever traces were left in my brain and body. Three hours from now, I'm going to have to interpret whatever was left by past me as a message to my future self. I have to look at whatever this is and figure out what it means, and on the fly keep rebuilding this. Chris, what do you think? I think this interpretation machinery is really the key to all of this."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[09:35] Chris Fields: I agree that it's a very interesting and very tangled issue. And if you think about an electric field, for example, and you want to think about components, then really the only options are charge center locations, which you could mix and match into an electric field to change its shape, or frequencies, mix and match into a field to change its temporal shape. But that doesn't give you a whole lot to play with. And in the developmental setting, it's not clear that frequencies are playing a role. Whereas in the brain, for example, they clearly are playing a role. So which degrees of freedom in the encoding itself is an interesting and difficult question. What counts as a component. But in the developmental setting, it's very clear that you have cells as components. So you have components in the reader, even if you don't have components in the source. And so the question becomes, how do the different components of the reader communicate with each other about their joint interpretation of the field. So the field becomes one communication medium that these multiple components have to jointly interpret. But to do the joint interpretation, they have to somehow talk to each other. Otherwise, they would have no basis for knowing what a difference is, for example. So we're faced in this case, I think, with a minimum of two different languages. The language that's in the field itself — they talk to each other about their local measurements. So they may be talking bioelectrically through gap junctions, but that's a bioelectric code that's in addition to the overall code that they're reading."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[12:22] Douglas Brash: Can you get?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "Chris Fields: And this is."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[12:24] Douglas Brash: Oh, go ahead."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[12:27] Chris Fields: I was going to say, and this translates into thinking about natural languages in terms of positional effects and grammars that influence what the semantics of the different words are."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[12:47] Douglas Brash: Can you get any traction or is there anything that gets provided by either having some of this bioelectricity be a carrier wave for something, helping individual cells contribute to some overall pattern that then gets communicated back to each of the guys who contributed to the party? Or resonance doing something like that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[13:19] Michael Levin: We don't have any data yet on resonance, but I think you're absolutely right: the carrier wave business. Every cell by itself during the cell cycle, sitting there, has these little fluctuations of VMEM. In addition to that, whatever bioelectrics they're doing as part of patterning have to sit on top of this baseline. Back in 2000, when I was first talking about starting to try to manipulate resting potential, this is what everybody said: this is a housekeeping parameter. You can't mess with it, otherwise the cells will die and nothing will happen. They do have this baseline wave and then everything else happens on top of that. I think the carrier wave thing makes sense. I think it is true that functionally the electrical activities of these cells are added up to what in effect is a global computation that then ends up with the interpreter being the same cells as the generator in this case, because the cells have to generate these patterns and they are the same cells that are then going to read that pattern and do something as a result. They're talking to themselves in a way, but there's also a jump in level of organization because the computations they're doing by this bioelectrical signaling take place in an entirely different space. The individual cells are computing things like when do I divide, how is my metabolic state, who is my neighbor. The collective has to make decisions about huge things like how many fingers we have, where the eyes go, and how many eyes we have. It's an entirely different problem space. They execute these computations as part of a collective intelligence, which then filters back down and says, okay, you're going to be a bone cell, a nerve cell, and a muscle cell. But that isn't what the initial computations were. It comes up and then goes back down."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[15:34] Douglas Brash: Since you mentioned the computations, another thing that this two-level hierarchy, the genotype-phenotype kind of hierarchy or syntax-semantics kind of hierarchy buys you is the ability to do particular computations instead of mixing. Do you guys know about William Abler's particular principle? I don't. I can send you guys a paper. It's very important and almost nobody knows about it. The question is, if you have a red and white and do something, do you get some variations of red or white or do you get pink? One of the reasons Darwin was stuck with going to Lamarck was not that he liked Lamarck, but he couldn't see any way out of the red plus white equals pink. Whereas as soon as you have a genotype and a phenotype, you can be mixing the genes. In the case of Darwin, you've got tall and short. A couple of generations down, everybody's going to be in the middle if all you do is mixing. There won't be any tall people or any short people. How do you get out of that? The solution with genes was essentially that they do the particulate computation. You don't lose the identity of the original elements of the computation. They're still sitting there. You just recombine them in different ways and then generate a phenotype from the new combination."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[17:30] Michael Levin: Mm hmm. Yeah. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[17:38] Chris Fields: When we think about writers and readers being the same systems, it naturally leads one to think of the field as a memory structure. Mike, as we were discussing with Santosh the other day in the computational meeting. You can think of the cells as writing to this memory structure and then reading from this memory structure. But one memory can also read from it. They may be reading from it in a different language than you wrote to it. The collective may be interpreting the same memory structure using a different syntax and a different semantics from the entities that wrote into the memory structure. You see this in the genetic code because you have coding redundancy for amino acids. Different codons code for amino acids with different efficiencies because the kinetics of different tRNAs are different. From the protein's point of view, and hence for the evolutionary system that's selecting changes in the genotype, it may not be sensitive to that language at all. It's sensitive to the reproductive capacity of that entire system, be it a cell or an organism or whatever. The collective is speaking a completely different language from the hodon language spoken by the DNA, used by the DNA to write the instructions for proteins. The proteins in this case are serving as the shared memory device."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[20:00] Douglas Brash: That's nice. It happens to work. That reminds me of an old paper, which I can also send you, having to do, the question is, we speak languages, but we can also understand the guy. How is it that speakers and listeners converged on using the same language, human speakers? And if you introduce a couple of constraints, which in my case turns out to actually be this analog to a reading frame that language refuses, and then it's not all that hard to converge on a common generator, reader and writer, that even if they're different, can at least understand each other."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:04] Michael Levin: There's another lens on this too, which Josh Baumgart and I just put out a paper on poly computing, which is this idea that the exact same set of physical events can be interpreted in different ways by different observers and thus be doing different computations literally at the same time. He and his student, Atousa, have this amazing mechanical example of multiple computations being done by the same piece of particulate matter. I picked out a bunch of biological examples from that paper. The title, which Josh came up with, is \"And there's plenty of room right here,\" which goes back to Feynman's \"There's Plenty of Room at the Bottom.\" This idea is that in biology there isn't any room anywhere else because it's all packed full of stuff. There's stuff everywhere. The way to squeeze more out of it is to evolve additional observers who do interesting things with what is already going on. As opposed to trying to tack on new mechanisms, one thing that's interesting about that is if what you're evolving is a new perspective on an existing set of events, it means that you don't risk breaking those events. That's completely different than trying to make tweaks and hope that you don't lose your past gains. You basically don't touch the thing that's going on; it's observation only. As a simple example of that, we had this other paper recently where you take a gene regulatory network. Depending on how you look at it, meaning you pick three nodes and you call one of them the conditioned stimulus, one of them the unconditioned stimulus, and one of them the response. If you pick the right nodes as your CS, US, and R, you can show that thing is doing associative learning, but only if that's your perspective on the system. If you have a different perspective, you'll see it doing something completely different. In fact, multiple observers can have two different mappings and they will have two different pictures of what it's doing, but nobody's touching the actual network. You're not rewiring it. You're not changing synaptic weights for memory. You're not doing any of that. It's what perspective you're taking as an observer. There are many examples in biology. You've got a code-encoding system working great for one thing. Pretty soon something will evolve which takes advantage of that just by interpreting it as a different kind of computation that you can make use of. That's another aspect of this."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[23:47] Douglas Brash: Underlying it all has been some set of correlations. Then you're projecting it into some other world where it could have been completely gibberish, but at least they're still correlated because they inherited the correlation. That's cute."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[24:10] Michael Levin: That's cute. And then I'll find it momentarily, but Jeremy Gay, who does all our graphic design, I asked them to do a version of the classic \"Gödel, Escher, Bach\" cover from Hofstadter's book. They did an amazing version of that for embryos for that book, which I'll show momentarily. But that's exactly what you just said. It may, depending on how you look at it, look like gibberish or it may not."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[24:47] Chris Fields: To put this in more computer-science-y language, this is what interpreters and compilers are doing, but particularly interpreters. You have down at the machine level, or slightly above the machine level, a whole bunch of processing going on. Layering a high-level language on top of it is layering an interpretation. It's assigning a different semantics to all of that processing that's already happening. Within that, using that semantics, one can interpret what's going on as a Zoom call."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[25:44] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[25:45] Chris Fields: Whereas without that semantics, you have a completely different idea of what's happening."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[25:52] Michael Levin: Look at how powerful that is. If you were running a software company or something and you had a candidate that you were interviewing, and they say to you, I'm a reductionist. I think there's no such thing as an algorithm. It's Maxwell's equations that govern what the electrons do. They just do what they're going to do. You'd never hire that person because they wouldn't code anything. It's hugely empowering to think that the algorithm makes the electrons dance. Because then you would go on and you would write things when you're thinking about it at that level. This is the cover that Jeremy made. The idea is you've got the same batch of DNA. This in particular is our Zenobot example. We don't change the genome, but depending on how that DNA ends up being interpreted, you end up with a frog embryo or you end up with a Xenobot. It's the exact same DNA that is somehow, what is it encoding? Well, it depends. It doesn't just encode a frog. Who knows what the heck else it, who knows what else? So it's this idea of information or environment or something is the prompt that gets this thing to generate. It's like a generative encoding, and there's a prompt that gets it to go in a particular direction, and you end up with something like this, or you end up with something like that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[27:34] Douglas Brash: Almost a hologram, because as I recall, if you shine the light in different directions, you get a different readout from your flat piece of hologram film."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[27:48] Michael Levin: That's interesting too, back to the memory thing. I think the point there is that you can store multiple images on the same piece of film and just recover them with different signals. There's an amazing book called Shuffle Brain, and it's this guy Paul Peach back in the '80s, who did all these experiments in memory in salamanders. He started out by looking for memory and taking out different pieces of the brain and showing them it's actually everywhere. Then he would move the pieces around and the salamander would be completely fine and do all the tasks. He would move pieces from goldfish to a salamander and the vegetarian would become a meat eater and the meat eater would become a vegetarian. It's amazing. The first half of the book is all these experiments. The second half is a holographic model of memory, where he's inspired by these experiments of non-locality; he couldn't find it anywhere in any particular region. He pulls out all these analogies of trying to store multiple different memories in the same hardware. They all have to overlap somehow."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[29:00] Douglas Brash: Then that gets us back to what's the location where all this is stored? And your question of this macro storage thing, deducing the micro from the macro, roughly. That reminded me, as I was reading this paper that you two wrote last year. One of the citations was to David Pines' paper from 2000 about macro phenomena in physics, or macro not deducible from micro. I don't know enough physics to know where those constraints are stored. Do you know, Chris, how he gave a few specific examples? I took a quick look at it this morning — the \"Theory of Everything\" paper. He says the quantum Hall effect is one, the Josephson effect is another, and you can't predict them from the micro level. Do you know where the constraint is coming from? I don't."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[30:31] Chris Fields: In many cases, the constraint is coming from the environment, which is macroscopic, and is providing top-down boundary conditions of one kind or other on behavior that one can describe microscopically only by putting it into a kind of box. That's specified at this larger scale."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[31:09] Douglas Brash: So this is beginning to remind me of gravity effects, your Markov blanket, and there's something else that just hit me on all this. I see what you mean."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:28] Michael Levin: But this issue of where is it, where is it stored has been driving me nuts for a long time because there are many such things, the distribution of primes being one. It doesn't seem to depend on the physical facts of the universe. Where is all that? Or even just the thing where you've seen this Galton board. It's just a piece of wood and it's got a bunch of nails stuck into it. You take a box of marbles and you dump it over and they go boom, boom, boom, boom, and in the end you get this bell curve. You always get the bell curve. So now you could ask, where is the shape of this bell curve stored? So you start looking at the wood and you look at the nails and then you look at the distribution of the nails. None of those encode it in the strict sense. So where the heck does it come from? There's a million of these things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[32:23] Douglas Brash: Yeah. Why are there normal distributions?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:28] Michael Levin: Or truth tables. You evolve an ion, a voltage-gated ion channel, which is basically a voltage-gated current conductance. It's basically a transistor. You have a couple of these things, you can make a gate. If you have a logic gate, you have a truth table. Where's this truth table? You gain in the fact that the NAND is special. Where is all that? It wasn't, it sure wasn't in your ion channel design. You get that for free somehow. It's like this incredible free gift from, I don't know where it comes from."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[33:03] Chris Fields: No, it's relational information that we typically don't know how to predict given the low level."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[33:13] Douglas Brash: My quantum mechanics professor used to joke, we'd be complaining about how long it was taking to do the homework. And he said, but the atoms can do it like that. Well, I could ask questions about the other topic, if that's okay. So this has more to do with things and cognition. I noticed a couple of things there. The Markov blanket way of looking at it took me the longest time to wrap my head around that. I suddenly realized that you guys and Tristan are trying to exclude stuff in the environment that would normally just be bumping into the thing that you're trying to look at. Whereas I've been looking at it the other way, which is I've got all these totally isolated parts. How do I put them together anyway to make something? But it's the same problem. I've been looking at it from the construction point of view, and that's looking at it from the insulation point of view. Either way, you can make hierarchies out of them. I like the idea of hierarchies of Markov blankets. That makes sense. There's this old idea from G. Spencer Brown, Laws of Form, about drawing distinction. And there, as I can tell, the Markov blanket idea is that that distinction actually has some structure to it. You can divide it into sensors and effectors and so forth. So that is all fine. Am I right that you guys are trying to find a general principle for agents that can do self-organization? All I'm trying to do is find a particular organization used by humans. So anything that I might say about language and cognition is essentially my proposal for the special case that probably satisfies the constraints that you guys have been working out mathematically. I'm fine with that, although I have a long list of things that I need to find definitions for before I can really understand all your derivations. But I've got the gist of it. In particular, Chris and I emailed a little bit: your reference states are, I think, exactly what I'm calling the specified relations that define the things. And your pointer states are the various substitutable ones that I've been saying: it could be this, it could be that; I could have a hat on or not, and it's still me. I think that is all in parallel. I do have one quick question. Is there an advantage to having pointers rather than talking about the state itself, or is that just a mathematical convenience?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[36:54] Chris Fields: Oh, it's just a historically traditional name."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[36:59] Douglas Brash: Oh, okay."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[37:01] Chris Fields: Physicists talked about pointer states, looking back to the idea of old analog meters that had pointers that could point to one, two, or 2 1/2."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[37:18] Douglas Brash: I was thinking of computer pointers, pointing from here to there."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[37:28] Chris Fields: No, it's a far older language."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[37:30] Douglas Brash: I just got all tangled up. There's an advertisement for Bluetooth."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[37:39] Chris Fields: That's why the pointer states are the states that can vary. Because the rest of the meter keeps its shape and the pointer swings around from one number to another."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[37:51] Douglas Brash: So far we're in agreement about what's going on. The only thing I would say is that the reference state is not something we identify, but the primitive cognitive act is to stipulate the reference state. Then that is what makes you now a cognitive organism, which I define as something that can detect things. Otherwise, it's just a bunch of flashes of light and noise coming and going, and I'm not cognizing. But as soon as I can define a thing, then I'm capable of doing cognition."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[38:32] Chris Fields: If I encode a particular reference frame that lets me identify a table, then I'm in effect stipulating what counts for me as a table."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[38:44] Douglas Brash: Yeah, okay. Oh, I see. So, okay, that's what you..."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[38:47] Chris Fields: And anything that fits those criteria is a table by stipulation for me. Totally different for you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[38:55] Douglas Brash: I would say that various things you do in cognition, like an abstraction, are just moving things from one column to the other. I've got a list of properties; I'll say what I mean by a property in a minute, but those properties are either specified or substitutable, your reference pointer. The substitutable are the same as swappable. If, for example, I say I have an organism and I stipulate that it moves and it eats plants, that defines a vegetarian. If instead I say it moves and eats meat, that wasn't swappable. The meat versus plants was not swappable. I changed it down to definition level; up at the phenotypical level I've got carnivore. On the other hand, if I move the bit about exactly what it eats from being an unspecified column over to the substitutable column, I've now generalized from vegetarians and carnivores to animal. You could do this on a laptop. Just shuffling stuff from one column to the other as either specified or substitutable, and you do various cognitive things like abstraction and definition. There's a hierarchy of things. If you start out with percepts, those can only be created and destroyed. The next level up is a set of them; I call them constellations. But you can't change them; they can only be created or destroyed. They're still not things. It's a set of things in some sort of arbitrary relationship. As soon as I have something that has both specified and substitutable, I have a thing. It is no longer only created and destroyed. It can change. That's what lets us do thinking."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[41:24] Michael Levin: That's interesting because it ties to some stuff that I've been thinking about with respect to development, metamorphosis, and regeneration, which is the Ship of Theseus idea. The important thing about the Ship of Theseus was they replace the planks and it stays the same ship. What allows this to happen is the policies of those doing the replacing. It's the policies of the people, cells, whoever is replacing the components that make this thing the same, because they need to execute their changes in a way that preserves some kind of invariant for them. They're going to choose where to put the boards in a way that preserves what they think of as the ship. That's the only way this will work. We're back to this idea of observers. If you want the thing to stay the same, despite molecules coming and going in the body and cells coming and going — if you're a cognitive system, ideas come and go and mental states come and go — for you to stay the same, there has to be a replacement policy of some sort. That gives you the ability to do what you just said, which is better than staying the same: actually a policy for changing you slowly into something else. If you're a caterpillar, you are maintained for a while, but eventually there's a new policy that maintains you and turns you into a butterfly. Are you the same? You've got some of the same memories and you've got some other stuff, but a lot of things have changed. It's all about the policies that are not just keeping you the same, but actually slowly transitioning you to some future representation of what you're going to be. To do that, you have to place the molecules, the cells, the information in the right places to be consistent."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[43:26] Chris Fields: To take us back to the previous conversation, this is precisely the kind of relational information or boundary condition information that we were talking about with respect to Pine's paper earlier. It's exactly the kind of macro-scale structures that aren't predictable, but they end up being stipulated by something, some aspect of the environment. In this case, the aspect of the environment is the actual user of the representation that says, what gives this representation an identity condition for me is a particular utility. And as long as I alter the representation's representation in a way that changes that utility only slowly, I can count it as the same thing. Otherwise, there'll be some dramatic failure. It loses its identity for me because it no longer does the job I need it to do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[44:48] Douglas Brash: An analogy I have for that is a cartoon I saw once where somebody goes up to his bicycle, grabs it, starts to walk with it, but the rear wheel stays right where it was. You can define everything as being next to each other. That does not yet get you a thing because it didn't have any utility anymore because the wheel was still there. There's a little more than just spatial location."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[45:17] Chris Fields: They're lovely old experiments by Elizabeth Spelke and her various collaborators with infants in the three- to six-month-old range, in which they glue various parts of things together or detach them in ways that lead to surprising conjunctions or disjunctions following manipulation. For example, they have a toy person in a toy car and they manipulate them separately and then they present the infant with the toy person glued in place in the toy car so that if you pick up the person, the car comes too. At three months old, that doesn't surprise the infant, but at six months old, they're very surprised and react in a stereotypical way. They've developed this concept that these are two different things. Whereas before, it was just all one connected sensory mess."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[46:27] Douglas Brash: Yeah, that's nice. That's nice."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[46:31] Chris Fields: You can see these capabilities developing in real time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[46:38] Douglas Brash: I should say then a little more about what I think a property is, because that might be relevant too. The properties I think of as two entities in the relationship between them. If you're trying to define a snowflake, it's going to have a sixfold symmetry, and it'll be cold and it'll be white. But all those can be expressed as two objects in a relation and two entities in a relation. And each of those entities is in turn defined by two entities in a relation. You get this hierarchy. Then if you take the specified and substitutable thing, where that sits is in the relationship rather than in the entities. Now, the entities have their own specified relation, but that's inside them. What happens is if you say I have something, I'm looking at two things out in the world. One of them has exactly the same parts; it's the same component entities, but the relationship to the world differs. You would say that's particle motion. What happens if you have the same relations but different entities? That's what a wave is, because you've got the same relationship, but it's made out of different particles of water. What happened with language is that one day I said, does this work for language as well? Are we thinking entity relation to entity in our language? The answer is in English, yes, but you don't notice it right away because we leave out most of the system component relations. You have data compression. That makes doing Chomsky and linguistics, which I think is basically correct, very, very hard and complicated. Other languages like Japanese are entity-entity relation. You have this reading frame that has to be imposed externally. It's external because most words have multiple meanings and we can still understand it. It's imposed externally. It's a macroscopic constraint that sits on this and imposes this pattern."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[49:30] Chris Fields: Another form of stipulated relational information at the high level."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[49:35] Douglas Brash: I would say it's wired in your brain, but we can't talk any fMRI people into letting us do the experiment or NSF into letting us test it. You could test it with these eye‑flash experiments, but you can't get NSF to pay for it. I wanted to ask you guys, for a paper like you've been doing on the free energy stuff, it can't be easy to find reviewers for a paper like that, right? Never mind a publisher."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[50:15] Chris Fields: It seems to take a lot of the editors a long time to find them."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[50:19] Douglas Brash: Okay."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:20] Michael Levin: It's hard. This is a generic problem now anyway: finding reviewers for anything is really hard."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[50:31] Douglas Brash: You find that really."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:32] Michael Levin: Even relatively mainstream things that are not nearly as interdisciplinary as this, straight up biology papers that we've put out, it's brutal. Finding people willing to review things is really tough, for sure. I've been guest editing a bunch of issues, and I see it from the other end. It's very hard."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[50:57] Douglas Brash: Is that because people are so busy or because they don't want to deal with new ideas?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[51:02] Michael Levin: I think it's mostly because they're busy. That's what happens. A lot of people are busy and eventually you end up with a kind of a self-selected group that wants to review it. Why do they want to review it? Because they're really into it; they may have an axe to grind, and so they may not like your view on it. They have their own view on it. Or there's some other reason why it's gotten way harder. Publishing is easier. We've had a few things in places like Entropy, which is nice because Biosystems, Entropy, and the Royal Society are good with really interdisciplinary stuff that would be hard for a conventional journal."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Douglas Brash",
+      "text": "[51:53] Douglas Brash: Royal Society, we finally tried, and they were quite nice, but they couldn't find any reviewers, which surprised me. But you're saying I shouldn't be surprised?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[52:01] Michael Levin: You should not."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-1dda23bfff9949a6.txt",
+  "text_sha256": "be802edf107e0593d11560f7370b1154e999c6ec0fd70e41706ff49a6cfefc60",
+  "word_count": 6571,
+  "segment_count": 63
+}

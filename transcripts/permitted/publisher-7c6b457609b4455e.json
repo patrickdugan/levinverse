@@ -1,0 +1,311 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/discussion-with-martin-hanczyc-minimal-models-of-cognition-and-active-matter-research/",
+  "title": "Discussion with Martin Hanczyc: minimal models of cognition and active matter research",
+  "publication_date": "2024-11-19",
+  "video_ids": [
+    "mg9kOX-5ftc"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-7c6b457609b4455e",
+  "retrieved_at": "2026-10-29T09:15:43.407091+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[00:00] Martin Hanczyc: We're slowly inching towards developing an informational system for the droplets. This is still a bit far away, but my dream has always been: if we can make these animated droplets do something, then we could also try to encode them with information, which in this case is chemical information, just compositional. There's nothing new there. People have been thinking about this for quite some time. But the idea is how can we actually do it and then measure the outcome of this? One way of thinking about it is programmability. We've published a few papers which sniff around this topic, which means making droplets with different colors and then monitoring their behavior. Really exploratory work where we're just trying to set an experimental platform that we can use to push. I'm hoping now that we're getting some traction. It's been quite a few years because my background is in genetics. I have a PhD in genetics and I don't touch genetics. I've long abandoned DNA. Not because for any other reason, except I'm curious about other kinds of systems that may be much less sophisticated than what we are dealing with in biology. That's why I'm pursuing these super simplistic, sometimes ridiculously simplistic chemical systems. So we're still working with those, Mike. Those are the more intellectually demanding projects. But to pay the bills, we've been finally applying some of these technologies to technical outcomes that could have societal impact. One of the reasons I'm here in Pennsylvania is I'm retreating a little bit from the demands of two large European projects that I'm coordinating. I need a little headspace because it's been a high administrative burden, as you probably have heard about these European projects. We are now applying some of these artificial cell technologies to cancer diagnosis, early cancer diagnosis, and organoid development, two different projects, with really focused outcomes, not exploratory so much anymore, because we feel like we finally pushed the artificial cell stuff to a certain place where we can show we have programmability and functionality. Okay, now what are you going to do with this kind of technology? That's been keeping me super busy."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[03:13] Michael Levin: So you've got them; they can live in the same medium that living cells operate in, some kind of aqueous cell culture media, or how does that work?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[03:29] Martin Hanczyc: The first step is compatibility. Our initial foray into this was that as soon as we mixed the artificial cells with the living cells, the living cells die. The extreme situation was we were working with a pH of 12. You can imagine the incompatibilities there already. There was also a chemical part where the substance was shown to be poisonous to the cells, even at physiological pH. All of this had to be worked out. In that case, what we had to do was protect the living cells from the artificial cells by putting them in a hydrogel, which is a typical way people do this. It's biocompatible, and that actually made a very, very nice interface between the artificial and natural systems that allowed them to coexist, but also to chemically communicate with each other, because it's a permeable barrier that we're using. That worked. For these new projects, we're sticking to physiological pH right from the get-go, because otherwise we're not going to get very far. Can these things form? Are they stable in growth media? Those are the things we are currently pursuing. We're in the first year of the project, first seven months of the project. We're still getting set up. The compatibility seems like it's going to work out. There is prior art in this sense where people are using, for example, nanoparticles and antibodies and things like this, not too far away from what we want to do. We can use those systems to guide us how to set up the artificial cell system to work in a productive way with the natural systems. We're hoping that with the programmability dimension we can do some sophisticated interactions with the living cells that might not be really useful when you're just pouring stuff into growth media—pouring a growth factor into growth media or those kinds of things. We're hoping that we can make something that's more precise and specific."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[05:57] Michael Levin: Yes, very cool. I have two thoughts about that for potential collaboration. One is that if you do get them very compatible with living things, we have anthrobots. It would be interesting to try to confront them with each other. We also have xenobots, and they are far more tolerant of pH range and weird chemicals, much more so than mammalian cells. One thing you could imagine is I'm almost thinking of a synthetic Turing test, where we put them in, we look at the interactions, and what can we pick up? Then you can probe, at least on the Xenobot side: do they know? You can look at transcriptomics, you can look at calcium signaling measurements and see what happens to them when they're confronted with a synthetic agent."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[06:55] Martin Hanczyc: Yep. I'm wondering then on that note, one of the things we're trying to do with one of these European projects is we're working with people who are doing organoids, which we are not experts in, but we're collaborating with them. So the idea would be to understand the information exchange between the two systems. For example, doing transcriptomics, as you're suggesting. So really getting into the details. So what would be an interesting augmentation or improvement to your system that an artificial cell could deliver? Do you have some ideas of where you could go?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[07:44] Michael Levin: One thing that we're very interested in is to ask the question of what do these constructs know about the world they're interacting with? You can read that out through signatures of gene expression and transcriptomics, but also readouts of calcium and voltage because you can apply all the metrics from neuroscience, where people measure integrated information and all these different kinds of things. Neural decoding: can we read out a signature that corresponds to the system having had a specific experience? What we do nowadays is we have them encounter something that they can sense, and then sometime later, four hours, 24 hours, whatever, is that signature still there, how long do you remember? Can we look at that signature and tell what you have interacted with? I think it would be very cool to have, for example, different kinds of droplets on your end and see if the Zenobots, if we can read out something from the Zenobots that tells us which one they've seen. Let's say there are three different types of droplets, or maybe active and inactive, or maybe ones that are bearing some kind of synthetic biology payload and ones that are not, and have them interact with each other. We're also very interested in having these synthetic constructs be like the front end of a sensor system. So they're like the retina for the brain. They do some pre-processing and then, maybe it's AI or maybe it's something else behind them, but it's the biological system that's front, that's appropriately coarse-graining, measuring, and then passing on some kind of processed information to us. I think that would be pretty cool to have that system confront your much more synthetic system and just see what they know about each other. Is there something we can read out from the droplets where we can say what they've seen?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[09:48] Martin Hanczyc: That's a bit far away, in my opinion, with the droplet system. With a synthetic system that people have built, for example these biological circuits that have memory. So that has been shown; that could be useful to consider as a possible way of first sensing and then storing some information. With the really simplistic systems that I work with, that's more of a challenge. It doesn't mean that doesn't happen. The kind of memory that we've at least detected is that if we have an animated droplet, what it's doing at time t+1 depends on time t, so there's a bit of a memory, which I think is stored in the fluid dynamics of the system. And the fluid dynamics, because we've seen droplets interacting with each other, means that fluid dynamic information can be passed between droplets. That is something very different than what biological systems do, with some limited cases. There are some nice arguments that the cilia on the surface of cells actually have coordinated movement primarily due to the surface dynamics, the fluid dynamics of these things. So it's not just gene control. There is some biology that seems to exploit these kinds of fluid dynamical principles."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:36] Michael Levin: I think there's way more than we give credit for. I think the material is doing way more of the processing than we typically think, and that leads into something else that I was gonna mention, which is one thing that I would be really interested to do with your system is bake in certain computational circuits, of course, and the traditional synbio approach of designing something that does some kind of computation. But one thing that we've been really focused on recently is using this poly computing framework that Josh Bongard and I have been working on, where what we're searching for is a perspective, a mapping from which the thing that the system is already doing is a computation. In other words, you don't modify the system to do a computation. You ask yourself, how far can I get to see what it's actually doing? Because it might be a million different things. And so we've developed some incredibly minimal models, both computational and physical, that do some really interesting stuff that is nowhere in the algorithm or the mechanism or anything else that you've baked in. There are these, not just emergent complexity or emergent unpredictability, but actually emergent problem solving. And I think it would be cool to try to apply some of those tools to the minimal droplets that you already have to say, even without putting in any circuits, here's what these things already know how to do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[13:18] Martin Hanczyc: I believe there's some digging to do there. I agree with that. And so you have some tools already that could be exposed. What are you thinking of?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[13:32] Michael Levin: If you have videos or, better yet, centroid tracking data, we have that. Especially in singletons, I remember you were doing some group, some collective stuff, which I thought was super interesting. We can apply some of these methods and we have collaborators. There's a group of people here that are developing different metrics of how to capture and quantify collective intelligence. IIT is the big one, but other metrics try to say you don't just have a pile of pieces here; you have an emergent whole that has goals, competencies, memories, whatever the individuals don't have. What would that look like and how can we develop mathematical tools? There's a variety. Some of them are in Europe, some are in the US, there's probably half a dozen people. They all share data to try to quantify these things in all kinds of systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[14:44] Martin Hanczyc: So, you basically have a bunch of different test systems. You have living and artificial systems, and you're trying to apply these tools."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[14:57] Michael Levin: That's the kind of lowest-barrier thing to try first: just analyze data. I'm sure you're already doing some of this. Experimentally, one of the things that we've been doing is taking systems and taking a guess, a hypothesis about what it is that the system is trying to do. Obviously that's a very loaded word, but once you've made that hypothesis you put barriers between it and whatever you think it's trying to do. That might be physical space, it might be energetic, in metabolic space, or in the case of cells, we do it in transcriptional space or physiological space. So put a barrier and then you watch what degree of ingenuity the thing has to get around your barrier. We often get a lot of surprises. The systems often turn out to be a lot smarter than we think they will be. That enables you to refine your hypothesis about what space it's working in, what you thought it was trying to do, and how smart it is to get there. So we can think about, have you done things like, I remember mazes, right? You've done mazes. So there's a variety of other assays that we can think of where we can actually probe the degree of teleonomy in these systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[16:23] Martin Hanczyc: I have a basic question that came back to me, which we were discussing. When you have your Xenobots, for example, and they're moving across and you're analyzing how they're moving because of the architecture that you've embedded into these things, do you have an idea if they want to move? They do move, but do you have an idea, from your perspective, from the top down: do they want to move these Xenobots?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:51] Michael Levin: That's a good question. There are two ways to think about that. One is the things that they're doing are only visible to us because we liberated them from the other cells in the body. The other cells in the body are typically preventing them from doing the things that they're doing. So in one sense, you can say that we haven't engineered anything really, but typically we do very little. It's what the cells want to do on their own. You can say that because what we've done is lift a constraint. Typically the other cells in the embryo induce these cells to have a boring two-dimensional existence as the outer surface of an embryo. If you get them away from that, this is what they wanted to do all along. Under normal circumstances, the other cells constrain them from doing it. Another way to address this is we've been working on the notion of stress as a driver of behavior and multicellularity. We have stress markers that we can use. We've been studying stress markers in Xenobots; this is all unpublished work. One thing you can imagine, and we haven't done this yet but will, is taking a Xenobot and physically constraining it so that it can't move."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[18:24] Martin Hanczyc: Yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: When you prevent them from doing the things they want to do, their stress goes up. Their agency — they can detect that they're not able to control their behavior and stress goes up."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[18:47] Martin Hanczyc: That's nice."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: We could do that. You can imagine there are all kinds of caveats and criticisms that would come with that sort of experiment, and there are all kinds of controls that you need to do, but that's another aspect of it. I think that, for me, the philosophical framework we've been working with is that, to the extent that anything wants to do anything, including us, these things want to do the things that they're doing. That doesn't mean they have high-order metacognition where they know what they want to do. I think any reasonable model of how anything can want to do anything would have to deal with these minimal systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[19:33] Martin Hanczyc: I like the question and I like your approach about the stress response. That's nice. I was thinking about a study by Ikegami in Tokyo, where he was growing neuronal cells, cell culture, on top of a CMOS platform, which was part of a robot with wheels. The robot had wheels and proximity sensors and was put into a big arena. They looked to see the movement of this robot. It wasn't programmed to do anything. In their analysis, it would go around; there were barriers, the walls, and it would go near the walls, then it would turn and go away. Their analysis of this was that the cells did not want to be stimulated. But I thought that was an interesting perspective. There are criticisms, but it's an interesting perspective to think that neuronal cells, in this particular case, the way it's set up, appeared to avoid going to the walls because they didn't want to be stimulated. That's why I was wondering about your system, if you had some idea what the system wanted."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:51] Michael Levin: Most of this is unpublished and there's still a ton of things to do, but I do feel like that is a very tractable question to address in systems. Another thing we're working on is instrumentizing them so that they have control over their environment, so that certain kinds of movement and certain kinds of calcium patterns will cause the stimuli — chemical, electrical, optical, whatever. Then we can let the system speak for itself. So now you tell me what you want. If you're behaving in a way that gets you more light stimulation, what more can you ask for? We're building these kind of closed-loop things. I think one of the reasons I say this is that we haven't focused on engineering them much in terms of citizen bio circuits or anything like that, because the pool of things that they already know how to do out of the box without us doing anything is massive and we haven't even begun to scratch the surface. Before I engineer anything, I want to see what they can naturally do. I'll give you an example of a super stupid simple model system for this that we developed recently, which is purely computational: sorting algorithms. Bubble sort, selection sort, that kind of thing. The algorithm itself is about six lines of code. It's fully deterministic, completely transparent. There's no new biology to find there. There's no material physics. It's very simple. You sort an array of numbers and there's an algorithm and it does that. We made a version of this. First of all, these things have been studied for many decades; every computer science student studies these, and we all feel like we know what they do because it's simple, transparent, and deterministic. The first thing we discovered is that if you plot their movement in sorting space — sorting space is just the question of how sorted they are — initially you start off down here because it's random, but then everybody gets to this one point at the end where everything is sorted. All these algorithms, if you crank through them enough, are guaranteed to sort the string of numbers, so it sort of goes up like that. One thing we did was put a barrier in its place. A barrier is a number that refuses to move. You want to swap the five and the seven, but the five is broken; it won't move. The standard algorithm does not ask whether the move succeeded. It assumes that your hardware is 100% reliable. When it's a swap, it assumes it's a swap and you go on your merry way. There's no context checking. We didn't put in anything like that. All that happens is if you say swap and the number is broken, it doesn't swap. That's it. Then you go on. We found something remarkable. It's something that in animal behavior or autonomous vehicles you would call delayed gratification. When it gets to a barrier it can't pass, it is able to get further away from its goal, go around, and get to where you need to go. Two magnets across a piece of wood aren't going to do that. The magnet's too limited, because to go around you have to get further, and all the magnet knows how to do is follow the gradient. You need a next level of cognition to be able to say, I'm going to take a loss now in order to recoup gains later on; I'm willing to step against my gradient. It turns out these sorting algorithms can do that. It's not in the algorithm; there's nothing that says, if you run into trouble, backtrack. It's a completely surprising emergent feature."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[24:52] Martin Hanczyc: Yep, amazing. I'm surprised by that outcome."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[24:56] Michael Levin: I was shocked to see this. What we did was we created a version of it where each individual number had agency. It doesn't, it's not that you have a top-down planner that's moving things around, but every single cell is executing the algorithm on their own. Every cell wants the right neighbors. If I'm the five, I want a four to my left and a six to my right, and then I'm happy. That's it. You use any of these algorithms, and they sort themselves. What we found is that not only do they sort themselves, which is what the algorithm says they should do, but in between, before they're done, they do this other thing called clustering, which is, again, nowhere in the algorithm. It's a completely emergent thing. If you ask, what do they want? I would say that, when people try to define the difference between machines and living things, they say, well, machines only do what you tell them to do. Living things do what they want. What looks like to me is that even these incredibly minimal things, there's the thing you make them do, which is what the algorithm says. Sure enough, they eventually do sort the numbers. Then there's these side quests: things they do that you never told them to do. They're doing that on their own. We're not very good at guessing what those can be. If we're creative, we can find them. Those are the spontaneous things; this is what the wanting at that low level looks like. I think for all of these minimal physical systems and our minimal biological systems, we should be looking for this stuff. We should be setting up assays to say, in addition to what we think you're going to do based on what engineering we've done, what else are you actually doing? What are the other goals that we never baked in?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[26:39] Martin Hanczyc: I think, and you contacted me about, for example, definitions of life. Of course, we ruminate about these things. I think one of the interesting things that you're now talking about is that we have this, in biology, it seems like it makes sense to have numbers, like population sizes, because of these kinds of factors that you're talking about. I was always fascinated that when you do a chemotactic experiment with bacteria, so you put the food on one side and then the bacteria, as a population, migrate towards the food, but there are always some that migrate the other way. I think this is a fundamental thing about biology that's very, very important to understand what biology is doing, which is maybe different than what engineered machines are doing. But when we have engineered machines en masse, which is what we're getting now, we start to see this emergent behavior of the machines doing the opposite thing or going the other way or not following the trend. That way the probabilistic dynamics becomes super important for the evolution of these systems. That's what you get when you start to get larger and larger numbers, I think."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:01] Michael Levin: I think it gets scaled up and the emergence goes up. Have you seen them? Over 10 years ago, the Sun and Zhou paper showed that in an electric field, single cells migrate towards one end, but if you chop the cell into pieces, all the pieces migrate to the other end. It's pretty cool. All your components want to go this way, but when you put them together, the collective wants to go that way."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[28:33] Martin Hanczyc: I'm making a little note here. I want to check this out later."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:35] Michael Levin: I'll send you a link. I think that's a profound principle of collective intelligence, right? Is that the collective does things that the parts don't want to do. That's the whole point."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[28:48] Martin Hanczyc: That's part of the point. I teach this course in genetic engineering. We go into all the details. I really like to go into the papers that detail where things go wrong, because that's where the interesting stuff happens. I just lost the thread of what I was going to say about that. I don't know what happened to that thought. It might come back to me."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[29:31] Michael Levin: One thing that I always think about with traditional SynBio is that a lot of the synthetic biologists I know are very frustrated with the medium because you design this beautiful circuit that's supposed to do something, and then you put it in the real cell and the cell either fights you or it turns off some of the stuff where there's something going on that screws up your plan. What they really want is a nice blank slate. You want something that doesn't do anything other than what your circuits are telling it to do. Our approach, especially on the biomedical side, is to go the opposite direction and to say I want the minimum, I don't want to tell you much. I want to take advantage of the things you already know how to do and try to behavior-shape you in that direction. I have a new postdoc in the group, Matusa Parsa, who comes from Josh Bongard's lab. She was the driver behind the polycomputing work on the vibrating particles they had. She and I are going to do a contest at the Alife conference, a polycomputing contest in the following way: you submit a minimal system, and you win if none of the other participants in the contest can find other things that it's doing besides what you want it to do. You win by submitting something that only does one thing. The other people are trying to say we can see it doing this other thing. I suspect that it's going to be really hard to come up with something that only does the thing that you think it's doing. Even very minimal systems are doing many things if we're open-minded about it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[31:17] Martin Hanczyc: That's right. I believe so. That was a perspective that I lost track of before and I was going to say that. I'm wondering as we understand better the kinds of systems we're designing as engineers. I don't know if you have a background in engineering."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:42] Michael Levin: Yeah, computer science originally."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[31:44] Martin Hanczyc: I'm wondering if we start as we're engineering even these algorithms that you're talking about that have somehow found a way to back off from a goal and go around. I'm wondering if, as we're making and then analyzing our artificial systems more, whether they're going to spontaneously start behaving like what we consider to be biological systems. Right now, even I teach that there's a dichotomy between these artificial systems and natural systems, and they have these fundamentally different properties in some ways. It's very difficult to engineer them to properly behave like a machine. We have good examples where they work, and we have good examples where they don't. I'm wondering that it’s the other way around now that as we understand our machines more, we start to see that these systems are just behaving like a biological system, that there's going to be less of a separation between these two realms as we understand them better with these kinds of tests that you're talking about."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:55] Michael Levin: That's what I've been arguing strongly lately. A lot of people really don't like it because on the mechanism side, people really like this idea that there are these machines and then we can know exactly what they do. On the organicist side, they like the idea that we have these majestic living things that cannot be reduced to machines. But I think that dichotomy is totally a dichotomy among our formalisms, not among the things themselves. I think we've decided to use these formalisms and we're very stuck on when they are and aren't applicable in ways that are not borne out by the science anymore. I'm writing a piece on this, on living things and machines and whatnot. I had our graphic artist make an image that I'm going to use. Magritte's famous painting, \"This thing is not a pipe,\" is a picture of a pipe. I had him draw a picture with a Turing machine that says, \"Not even the Turing machine is a Turing machine.\" You can have this formalism of a Turing machine and it has all these limitations. Of course it does, but the formalism has the limitations. That's not to say that the real thing is not captured by that formalism. I think it's really funny that in the case of living things, a lot of people are willing to say the laws of chemistry do not capture everything that's going on in this incredible thing. But suddenly when you come to engineering, they say, oh no, the algorithm fully captures what this thing is doing. Why would you say that? Why would you assume that in one case there's this stack on top of the chemistry that gives you new things, but in this case you somehow decide that your formalism is capturing everything that the system is doing? I completely agree with you. I think that there's not that much difference, specifically because these things that we love about living things, I think they show up super early as your work shows. It really doesn't take that much to start."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[34:59] Martin Hanczyc: A lot of things show up early. It's very early. What does this mean for the scientific method? The scientific method, as far as hypothesis-driven scientific method. I like your approach because I have a similar approach: we basically have these systems and we try to learn from them. We observe and we learn from them. Eventually, I think it's important to turn around and come up with some hypotheses that we can then test in the laboratory. The scientific method is the one I think that capitalizes a lot on these formalisms, by necessity, perhaps."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[35:56] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "Martin Hanczyc: What is your perspective as far as a scientist going forward? How do you juggle these things? How do you feel about these things?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:07] Michael Levin: So here's an argument that I find myself having with people a lot. I'll show them here's a simple model of a gene regulatory network, for example. It has this amazing property of Pavlovian conditioning. Where do you think that comes from? People will say, well, it's just the fact that holds. It's one of the things that Stu Kaufman discovered in the 90s. There's just these properties of networks. And so we have two choices. The more common choice, and I think it is actually a very pessimistic choice, is there's a random grab bag of stuff that holds, and sometimes we encounter it, and then we're surprised. We say, emergence, fabulous. On that view, the scientific method has a lot of problems because we don't have a systematic way of finding these things. It's just going to crop up from time to time and then look at that, it holds. Or what I think is the more optimistic view is to do what the mathematicians do. The mathematicians who have tons of this—the truths of number theory, the facts of geometry, and in computer science why the NAND gate is special—they don't think this is just a random grab bag of stuff that holds. They think they're exploring an existing space. Plato and Pythagoras said there's an ordered space with a metric. They make this thing called the map of mathematics, and you look at the map of mathematics and you see number theory and topology, and it's not arbitrary. They are close to each other, which means that having found one thing, you can now systematically study the space around it and use the things that we build as periscopes into that space. It's not just a random collection of things that we occasionally find. We can start to systematically explore these things. Now, specifically, what I really think is important for us when we're interfacing with biology is biologists like two kinds of sources. They like two things. They like heredity and they like environment. Those are the two big things. When you're dealing with things like certain truths of mathematics or the facts around shapes or networks or any of this emergent stuff, is it heredity? No."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[38:43] Michael Levin: Is it environment? Because all of the features of the physical universe could have been different, if you were to tweak all the constants around the Big Bang, it would still be the case that the prime number distribution is what it is. All of these things hold. There’s a third thing. It isn't just heredity and environment captured by physics. There's a third thing, which is not captured by physics at all, but it sure informs the physics, it constrains the physics, and it gives evolution this incredible toolkit of free lunches. This is another example I've used. Imagine you have an evolutionary system where the most fit thing is a triangle, a particular kind of triangle. You do generations and you find the first angle, and then you do generations and you find the second angle. Miraculously, now you're done. You don't need to look for the third. That's not philosophy. That's very practical. Evolution just saved 33% of its time because you get that for free. Where does it come from? It didn't come from your genetics, didn't come from your environment. It's a magical thing you can exploit, and I think evolution exploits the crap out of this stuff. This is how I see it. There is a third source, these patterns, and I think they can be quite complex. There's a whole other thing we can talk about, because I think some of them are essential, and I think some of them are kinds of minds in Dennett's sense. They're not just triangles. I think what evolution is actually doing is producing physical objects that serve as a kind of pointer into that space that lets these patterns come through. Whitehead called them ingressions. They ingress into the physical world. The physical thing we build is a portal through which these patterns come. My long-winded answer about the scientific method is that our scientific method is to map out the space. We make these things. We have an embryo and the embryo shows us a very reliable pattern, but that's not the only thing that the queer can do. The Zenobot and the Antrobot and the things that you build are allowing us little glimpses of corners of that space. That's the scientific method: to systematically explore it, not just to hang around until things emerge and we're surprised by it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[41:19] Martin Hanczyc: That makes it useful. That's very Kuhnian, isn't it? There are still a lot of jobs to be filled in the scientific method."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[41:36] Michael Levin: I don't think this is a mysterian position at all, because that's what a lot of people think: as soon as you've postulated this non-physical space, now you're done. No, I don't think that's true at all. The point isn't to accept it as a mystery. The point is to use the physical pointers to explore it, which I think we can. I think we're going to get tons of surprises. We should be making a map of this thing, as the mathematicians do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[42:04] Martin Hanczyc: I really like this idea. I see. So it does seem like it's a bit of a mishmash of science, engineering, and religion, actually. There is this almost religious component, which is interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[42:22] Michael Levin: A lot of scientists will claim that they're physicalists — that the laws of physics exhaust everything there is to know about the world. But they all use these truths of mathematics, of logic, of computation. And those are not derivable from any of the things that physics deals with. They're right. Our perception of them is modeled, modulated by our nervous system. But these patterns themselves. Have you ever seen these Halley plots that can be drawn from them? It's a kind of fractal that is drawn from a simple formula of complex numbers. The formula could be Z cubed plus 7. That's it. Five characters or so. The pattern that you get when you plot the pattern, you get this incredible thing. It's very biological looking; there's detail and stuff going on. Where is that pattern? You're not going to find it in the physical universe. There's nothing about the facts of the physical universe that tells you what that pattern is going to be."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[43:37] Martin Hanczyc: Pattern."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: Are you kidding? What compression method do we have that will actually do that? Clearly, you're getting more out than you put in. There is no way about it. So we can love physics and all of that, but I think it's very clear that is not the only source of information in our world. I just don't know how you get around it. I think the mathematicians have taken this seriously for a long time, and I think we have to now too. It's not good. People will say, I like Occam's razor, and I like to simplify; this Platonic space is too crazy. I'm just going to say it's emergent. What does that mean? That just means you're committing to being surprised every time. That means it's a mystery — that's the mysterious position to me: to say that these things will just randomly pop up, and I don't believe that there's a structured space behind it. Can't disprove that, but that seems to me like giving up on the whole project of science, which is you assume that there's order behind it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[44:43] Martin Hanczyc: I can't really understand that argument. There are many examples of emergence in physical systems that have been very well characterized, from one side of the phase space to the next, and we have a good understanding of why that is. Is it true that we always have emergence due to large numbers? It must be the case."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[45:20] Michael Levin: No, I don't think that's true. I don't think that's true because I'm not an expert in this, but I think there are quantum events that only take a couple of particles, hydrogen bonds and things like this. You really only have, I don't know if there are particles. That's a whole other thing. Some people are going to say there are no particles. It's whatever is underneath them. I don't think it always takes large numbers of things. I really don't. We don't understand these pointers very well into that space yet. And so I do think that having a large number of things is a particularly good way to poke a hole into that space. Whenever you do that, something interesting comes through. So I think that's a good way of doing it, but I don't think it's the exclusive way of doing it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[46:19] Martin Hanczyc: So scaling is a tool that we can use in our experiment, which we do use. That's because it's useful. But it doesn't necessarily have to go that way. I have to think a bit more about that. I don't have a good grasp of quantum level stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[46:42] Michael Levin: But it is a classic model of emergence when you can have simple hydrogen bonds and all the weird stuff about the water molecule, and that's super strange."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[46:57] Martin Hanczyc: It's super strange. It's really interesting. That's a good example of emergence too. I like to bring that up for students so they can think about that. Cool. All right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:10] Michael Levin: I think it would be really good to apply some of our methods to the tracking data. Why don't we chat online about getting hold of either videos or coordinate pairs."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[47:29] Martin Hanczyc: I currently have a student over in the physics department who's doing the majority of the work for me. Which brings me to another topic I'll say in a moment. When I get back to Trento, I'm going to have a meeting with him to see where he is, and then see where we want to go with this. That would be great. Thank you, Mike. Sometimes I come across a student who's interested in the kinds of things we're talking about. Is it possible that I would then recommend them to contact you or send them your way if I have a good student? Would you be receptive to hearing from them? Of course, absolutely."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:11] Michael Levin: I get emails from a lot of people. If it's somebody that's vetted by you, that's even better. I do office hours, Zoom office hours when people come on to talk about stuff. I'd be happy to talk to anybody that you think is good."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[48:27] Martin Hanczyc: Because I have a good guy in the shoot here and he's young and I keep telling him you can't stay with me forever, you gotta get out. I'm gonna discuss that with him."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:36] Michael Levin: Yeah, have him contact me, yeah, absolutely."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[48:39] Martin Hanczyc: That's cool, Mike. Thank you. In the next few weeks, I'll get in touch with you and see what we can do. That'd be super nice, and thank you for being open to this kind of collaboration. I appreciate it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:55] Michael Levin: Yeah, totally, totally. Yeah, that'd be great."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Martin Hanczyc",
+      "text": "[48:57] Martin Hanczyc: Cool, man."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:58] Michael Levin: Okay."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-7c6b457609b4455e.txt",
+  "text_sha256": "dd4f9a14b929dd4699bcb1904d0913d468ed3f16693e9208e32541f26aa595aa",
+  "word_count": 7162,
+  "segment_count": 57
+}

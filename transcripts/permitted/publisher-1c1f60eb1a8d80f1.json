@@ -1,0 +1,381 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/on-biological-and-artificial-consciousness-by-borjan-milinkovic-and-jaan-aru/",
+  "title": "\"On Biological and Artificial Consciousness\" by Borjan Milinkovic and Jaan Aru",
+  "publication_date": "2026-03-05",
+  "video_ids": [
+    "KKrRLgPp6XI"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-1c1f60eb1a8d80f1",
+  "retrieved_at": "2026-10-29T09:16:59.281066+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[00:00] Hello, everyone. I'm Boki Milinkovic or Borjan Milinkovic, but I prefer Boki."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Today I'll be presenting on a topic that Jan Aru, a colleague of mine, and I explored on the distinction between biological and artificial consciousness and to make a case of something that lies in between two camps that currently hold sway in the field. That QR code will guide you to the paper if you want to check it out."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I should present something about myself first so you know I'm embedded in the wider scheme of the research field and what I do. I'm currently a postdoc in Alandis Texas lab here at the University of Tarisakle. We generally work in multi-scale neural modeling, modeling neural dynamics across single neuron level, neural population level or mean field level, and whole brain level. We generally do this with the intention to capture the multi-scale or scale-integrated dynamics that necessarily underpin some global states of consciousness."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "My work primarily is based on trying to build whole-brain models, including receptors, that might tell us something about the molecular action of psychedelics and how this propagates to large-scale activity based on some indices of consciousness. Usually these are complexity indices or perturbation of complexity indices, other information-theoretic applications to that level of dynamics, and modeling TMS and tDCS stimulations. This includes field dynamics that go beyond seeing how stimulation at one node propagates to another, which is a lot more discretized."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "As I go on with some of this, you will see some of these ideas come through and where I might get them. I did my PhD on quantifying and qualifying information-theoretic measures of emergence in neural systems. This was done with a fantastic PhD supervisory team that consisted of Olivia Carter, Tomas Andreon, Lionel Barnett, and Neil Sethman. Some of these ideas, like scale integration, grew out of work I did during my PhD."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "But that's enough about me. We should start to get a sense of where some of these ideas might be coming from. Hopefully this switches."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I should begin with something that might sound controversial, particularly given what we've published: I'm not primarily interested in artificial intelligence as it is right now in the field, whether it is these artificial systems that can potentially develop a notion of sentience or consciousness. I apologize for making those words synonymous. I know in many fields they are not, and in mine as well, but just for the sake of argument."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I'm not interested in the way it is framed right now. My question runs in a different direction and has a completely different goal in mind. I'm more interested in: give me a cell or a neuron or a neural population and let me understand what it can actually do and compute."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "The drive is to bring computational notions seriously and formally to understand biological systems. In this way, I think there is a need to shift what we think computation is, but I'm really interested in formalizing what biological systems, and neural systems in particular, are capable of computing. This is the easiest way to describe \"certified computational,\" or the qualifier \"computational\" in front of computation when you're assigned."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[05:13] The reason is simple. Before we speculate about artificial consciousness, we need to understand what biology is doing in the first place. And only then can we ask whether it is possible to construct what I'm potentially calling a phenomenal engine. I want to be clear. This is a completely open question, and I don't know whether we can build such a thing. That is precisely the motivation for the project: to move from conjecture to construction and from analogy to formalization."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "First, we need to clarify the landscape in which this debate is embedded. Most of us are already familiar with what we often present as two opposing positions. I'm about to oversimplify them. The simplification helps build some of the intuition we need here."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "On one side, we have computational functionalism, the position that commits in one way or another to some substrate independence. The idea is that what matters for consciousness is the right information processing, typically at some privileged computational scale. If that organization is preserved, then in principle consciousness could be realized in systems very different from biological tissue. I often hear this contrast framed as silicon versus neurons. The comparison is misleading. Those differ dramatically in scale and organization. If we want a fair comparison, it should be electric circuits versus neurons or silicon versus carbon."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Setting that aside, on the other end of the spectrum we have biological naturalism. In its strong form, the view holds that biological systems are uniquely privileged in realizing subjectivity, that there is something about that particular tissue that makes possible what it is like. This something has often remained unexplained, ineffable. So reasons are given, but rarely formalized or exposed in computational or dynamical terms."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "There is some great work out there. That has really inspired us. It's the kernel of the paper. It's what motivated us to write it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I don't think that these are two categorical camps. They are extremes on a continuum, a spectrum of how relevant biology is for subjectivity. Our position sits somewhere along this spectrum. We are closer towards biology, but not exclusively so."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "What my working intuition is and what I would like to suggest and convince you of throughout this talk is that biology may require us to revise what qualifies as computation before we can meaningfully debate synthetic consciousness — a term I prefer because \"artificial\" has such a weight attached to its semantics. We need clarity about computation itself. My primary aim is to define computation precisely in a way that is operational and formally usable in neuroscience and biology. That is the first task. And only after that can we responsibly ask how such principles might inform the construction of synthetic systems."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "To begin, we need to clarify what computation traditionally means, both at the physical level of systems—physical hardware systems—and at the abstract level of computability itself, what is known as computability theory, particularly recursion theory. Only then can we assess whether biological systems are simply implementing this classical computation or whether they instantiate something \"structurally different.\" Hopefully that term will be something you hold on to as you go through this to see what difference I'm trying to ascertain."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We'll start with digital systems. I've been asked whether this paper is really about digital hardware or about computability as the abstract formalism. The answer is, it's about both. And it has to be."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[10:36] So biological computationalism is concerned with what computations are permissible under physics. And more specifically, which computations are permissible under physics as realized in biological systems. For that reason, we need to examine two things. First, the concrete architecture of digital machines, what's called the von Neumann model that actually instantiates algorithmic computation. And second, the abstract definition of computation itself, the formal notion of computability in the Church-Turing sense. I know there have been slight nuances between the way the Church-Turing thesis has been explained, but I will try and summarize a general one that holds the most utility and is hopefully the most accurate in the way that we know it today. Only by considering both can we be precise about how structure and function relate in nervous systems and how this might relate to synthetic systems as well."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Let's begin with the hardware, because the hardware tells a story. This story is a tale of separability."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Some of you will have seen this diagram in undergraduate computer science textbooks, but it's worth revisiting carefully. A classical von Neumann architecture is built from three core components. First, a memory unit, which passively stores discrete symbols. Second, the arithmetic and logic unit, the ALU, which manipulates those same symbols. And third, a control unit, which fetches instructions from the memory, decodes them, and throws them back or dispatches operations to the ALU. Some of the instructions the control unit uses and the stored data share this uniform address space. It's a separate address space physically separated from the ALU, the arithmetic and logic unit. That separation is not an accident. It constrains how computation unfolds. This is the von Neumann bottleneck. These are modular separations of functions; we see clean boundaries."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "In the brain, we might be tempted to map this onto scale separations that I talk about later. But here, the separation is explicit and engineered across modules. It can relate to scale separation in the brain, but it's not yet a nice definition of scale separation. The first major scale separation, and the way we would like it to mean in the brain, appears at the level of what is called the instruction set architecture. This is where the processor's instruction set abstracts away from the underlying digital circuits and transistors, and it allows the binary code to run across different hardware. That's what allows it. It's this instruction set layer and this compiler toolchain."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "In other words, this means that the algorithm and the computations performed by the effective procedure, the procedure that goes step by step of the algorithms, are insulated and closed from the physical hardware. That is the clean separation. It is that the algorithmic computations are completely closed. Their effective procedure can occur on that level without recourse to the physical level. This insulation produces a form of closure of that level that is precisely what computability theory in the Church-Turing tradition requires. It requires disclosure of an abstract level of procedure."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I've stated something that's very important, but will not be discussed here: non-algorithmic dependencies still exist. We're not blind to the fact that the physical system does some physical things that help the software run. If I turn off my laptop, the software isn't running. But there is an algorithmic computational layer that is closed."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Interestingly, this closure, this insulation of algorithm from substrate, has also quietly shaped neuroscience because the computational metaphor was inherited along with the hardware architecture."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[15:55] And so the premise becomes, for computational functionalism anyway, that it has some commitments that are directly traceable to these metaphors. Consciousness, that feeling of what it is like to be us, supervenes on the algorithmic organization alone. If the right procedure is executed, the right function implemented, then that is sufficient. The substrate, the hardware beneath an instruction set architecture, becomes completely interchangeable. This is the substrate independence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We see echoes of this in theoretical neuroscience. I want to touch on this. Some simulations are performed purely at the microscopic level, detailed neuronal models without recourse to these larger scale dynamics. Others operate purely at the mesoscopic level, mean field approximations, neural mass models. They're treated as complete descriptions in themselves. The convention of splitting scales in this way is not accidental. It's inherited from this computational thinking. This is the kind of figure to the right that you're seeing that is feeding this intuition."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "To be clear, it has been enormously useful. I've worked on these models myself, as I mentioned at the start. They've taught us a great deal, but we have to recognize the limitation. Brains do not operate on clean, arbitrarily defined scales. They are not naturally decomposable into algorithmically closed levels. Another inheritance is this strong substrate independence that I've already mentioned. Neurons, silicon, carbon, in principle, don't matter. They're equivalently interchangeable when we're thinking about the properties that are necessary and sufficient for consciousness. That follows directly from the algorithm-implementation separation we discussed. Computation is abstract; physical realization is only secondary."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Once you assume closure at a given level of execution, something else comes along with it: this scale privilege, the commitment that there is a single computational level that realizes consciousness or any given biological function."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Finally, I want to touch on the last thing. I think there is the reduction of these neural computations to discrete semantics as well. Action potentials as ones and zeros, binary logic. This is the legacy left by the McCulloch and Pitts neuron, though it's interesting because even Turing himself did not restrict computation to binary symbols. His formalism began with natural numbers, and he explicitly considered continuous variables, though this was never worked out. So the binary reduction is not inevitable. It is in a way structural and architectural. This tenacity of the traditional computational metaphor might be feeding the computational functionalism camp."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This is a noble pursuit and a noble way of thinking, but we believe that there is a different way. Before we speak about this different way, we still need to go through the computational part. We need to touch on computability as a formal and abstract notion as well. I know it has a bit of a hazy history with slightly different distinctions that abound, and I have been trying to disambiguate these as a current work in progress, precisely to define a new form of computation."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "One definition that stands out as essential, and I've tried to narrow it down to, is that computation is the procedural sequential execution of an algorithm in order to compute a mathematical function. Under this premise, algorithmic computability is defined following four ontological primitives about this structure of computation. One is that in application and in principle, it is based on discrete alphabets, binary or natural numbers. It is a closed system, and it is on a single scale."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[21:23] So even with parallel processing, you can compress this into a sequential process that encodes this in a way, but it always is an encoding of the parallel processing rather than the parallel processing itself. And that's important. It executes next steps to compute a mathematical function. It always goes by this state transition procedure. Biological computation is nothing like this. It's discrete and continuous, given the biological medium in which it lives. It's an open system, both at the single neuron level and at a more global level, such as your interactions at the subjective, phenomenal level with the environment. It is multi-scale, truly, structurally as an ontological primitive, not as something that can be simulated. And it isn't defined by just an execution of functions. There is some level of interaction going on that's different from just execution."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "To summarize, digital computation is cleanly decomposable, modular, and separable; algorithmic closure reigns supreme. Biological computation is actually none of this. Biology or biological computation requires a revision of what qualifies as computation. Digital systems have a particular physical structure. Turing computation comes with particular ontological primitives. Digital systems, because of the way they are structured—modular, scalable, separable—scale by just adding more energy. We know this by current LLMs. But the brain scales in a different way: it scales by reorganizing computation and dynamics under particular constraints. Since it is about reorganizing computation, it is precisely a structural inequivalence with Turing computation."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Let's have a look at what biological neural tissue is doing. We begin from something simple. Life has finite resources. What do metabolic constraints actually do in neural systems? My claim is that they shape the dynamics and therefore the computations of the system. They really structure them. Energy limits are not just peripheral things. They are not simply a matter of speed; if you have more resources, the same computation will run faster. That's not what we're proposing. They are constitutive. They shape the ontology of neural tissue and the neural interactions both structurally and dynamically. And that already marks this structural inequivalence with current digital systems. It's important to understand this carefully."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We see this at the level of ion channels. There is evidence that channel kinetics, activity, are tuned by ATP efficiency. ATP is the energy source in biological systems. Hassenstraat's paper is informative. Instead of simply packing in more sodium channels to increase firing rate, some neurons often only adjust potassium conductances because they don't need that rate as much. This is because the cost per spike is lower. In other words, demand for dynamical communication shapes the physical medium itself. Structure adapts to energetic demands. This is an instance of what we call dynamico-structural co-determination. It's one of the tripartite principles later on in the paper. We already see this at the ion channel level."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Another example, and one I particularly find fascinating, particularly since my work in emergence, is that not all neurons in the brain spike. For neuroscientists, this is maybe old news for some. Outside of those circles, it's less frequently appreciated. There are non-spiking neurons that operate using graded potentials. What appears to be happening is quite interesting. They function as a form of coarse grading over incoming discrete synaptic inputs from presynaptic neurons."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[27:01] So already at this level, we see an interplay between discrete and continuous signals. So that to me is an instance of hybrid computation already, or what we call hybrid computation. Though I formalize the notion more carefully later, which I will speak about, but what was already shown in the 90s is that continuous transmission through these graded potentials can carry more bits of information per second than discrete spike trains. That, to me, is striking. That's the figure below from Laughlin. And it suggests that the system is not choosing to be multi-scale in some abstract sense. Rather, this multi-scale organization is something that emerges from metabolic and functional demand. Because many spiking neurons converge onto a single non-spiking neuron, the latter effectively spatially coarse grains the incoming signals. And it's not an anatomical curiosity. It's the real deal. It has computational and informational consequences. So projecting information through graded potential rather than spike trains reduces metabolic costs while expanding transmission capacities. This is a continuous signal. So here we are seeing something concrete."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "What emerges from this picture, or metabolism's dual outcome, is, first, metabolism binds dynamics to the physics made possible by biological substrates, and it induces this dynamic or structural co-determination. It necessarily induces something that already distinguishes biological systems, which is that computational time is physical time. While digital systems merely approximate this, they also approximate only continuity. Biological systems directly instantiate this. It's important."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Second, metabolic constraints make scale separation way too costly. Processes must reuse stuff across scales. As a result, this clean hierarchy compresses into something else, a heterarchy. It is not a flat, single-scale system. It is not a strictly layered hierarchical one with algorithmically closed levels that interact only at some fixed interfaces. It is something in between, a heterarchy. A heterarchy also comes with other notions, but primarily, this is the intuition here. And scale integration then emerges as an optimization strategy, as a metabolic optimization strategy. It defines this heterarchical nature of the dynamics in the brain. So there is no privileged scale that actually exists because there cannot be one. It is not a hierarchy, a clear one. And this is developed much more in the paper, of course. So since energy shapes computation, biological computation may be structurally inequivalent to computability in the Church-Turing sense. This is what I mean. So under scarcity, the brain cannot afford the separability of scales. So as I've already touched on, the form of organization that emerges is heterarchical and scale integrated. It is multiscale, of course, but it isn't hierarchical. And once energy becomes a constitutive constraint here, clean functional, dynamical separability just becomes too costly. Neural systems can't afford fully independent layers. Instead, these processes must be reused and integrated across scales, what we call the notion of accretion that develops over evolution. So what emerges is not really a hierarchy of control, that's the key part, but a heterarchy of distributed constraint. And here you get distributed processes occurring, and also that it is more constraint than a complete control. Constraints are, of course, controlling in a sense. But this slight softening really makes the case to me of what's going on in neural dynamics. So in a hierarchy, scales are ordered and separable. In a heterarchy, no scale is privileged. There is no single fundamental computational unit. There's a heterarchy of scales. There is no fixed unit size at a given scale, no algorithmic closed layer. Computation is distributed. Scales co-determine one another, as well as then determining the structure, as we saw before. Scale integration is therefore not just decorative at all, it is what defines the organization itself and conscious processing may require not just some region to region binding on the same scale, but also scale to scale tethering or integration."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[32:38] And that's the proposition. But this isn't just speculation. This notion of scale integration is not purely theoretical or speculative. It actually comes from some empirical results that colleagues and I have obtained while working on information theoretic measures of emergence in neural systems. And these measures of emergence formally capture scale integration."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "The measure I'm speaking about is dynamical independence, which was originally developed by Lionel Barnett with Anil Seth. It captures the dependence between microscopic dynamics and the lower-dimensional macroscopic variable or state space in which those dynamics can be expressed."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "In this dynamical independence framework, the higher the dynamical dependence between those scales, the more tightly integrated they are. We apply this framework across different conscious states, like anesthesia with propofol and xenon and ketamine, across sleep stages, and under 5ME or DMT, a potent psychedelic."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We consistently observed that wakefulness shows higher scale integration across macroscopic dimensionalities. These are functional, dynamical scales. For both propofol and xenon, the higher the dynamical dependence, the higher the scale integration. Ketamine does not simply reduce scale integration. In some cases, it preserves or even increases it compared to wake. Some anesthetics untether scales, while others tether them differently. That remains an open question and something I wish to explore further."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We see a similar pattern in sleep. Wake and N1, which is the first liminal sleep phase — dreamy and very creative — show high scale integration; deep sleep and even REM show lower integration. The landscape of scale integration is frequency specific: in the alpha band, the defining band of wakefulness, emergent macroscopic dynamics are more tightly integrated in both N1 and wake. But in deep sleep, the delta band shows its own maximality."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This begins to paint a consistent picture across conditions. That's a link to the anesthesia preprint. This shows wakefulness tends to exhibit stronger dynamical scale integration than anesthesia or sleep, and we even have data for psychedelics. Again, wake shows stronger scale integration across macroscopic sizes and frequency bands, with gamma band deviations where DMT shows more scale integration than wake."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This is an interesting point to think about. We already have ways to confront this constructively and empirically. We'll see where this research leads."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "The corollary is important. Consciousness is neither reducible to micro-level dynamics nor fully explicable by macro-level functional patterns alone. It emerges from independence across scales, from the coupling between dynamical levels of different dimensionalities. Different scales, truly heterarchical. There is no privileged scale of dynamics. Consciousness appears to reside in this integration across scales."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This brings us to our last pillar, hybrid computation, where we see subthreshold activity driving discrete transitions at the subcellular level. I won't spend much time here: non-spiking graded potentials."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[38:05] But another fascinating feature of the brain is seen very clearly in dendritic processing. Dendrites tell us something quite remarkable about how neurons communicate and maybe what would be a foundation of a new formal definition of biological computation that I've been moving away from. This notion that there's a sequential state transition, executable function vibe. Axons tend to run straight through this neuro pill. Which is this dense fiber bundle. While dendrites actively reach out to them, they don't just receive signals passively, they seek them out. For me, there is a genuine interaction happening here. These are called dendritic spines, and they grow given particular processes that occur in these spines. One often neglects some of these features happening before the soma. I do want to touch on some of them."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Dendritic spines function as nanoscopic biochemical and electrical compartments. And they actively interact with the synaptic cleft, the in-between, before anything is forwarded to the parent dendrite. Even before it gets to the dendrite. What this means is that presynaptic information is consolidated in a massive parallel, interactive, distributed way that is timing dependent. It is non-Markovian. It doesn't only depend on the one time step before. This is already computation and I might be hinting at what type of computation. That looks interactional and it's not easily stratified into any clean level, into any executable single-step maneuver. It's an organizational principle that is missing from artificial neural networks where units simply collapse weighted inputs into a single sum."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Dendrites themselves are not these passive cables. They are also densely packed with voltage-gated ion channels, which allow this integration of interactions, which happens actively rather than just relaying them. There are NMDA receptors as well. They introduce additional non-linearities in the system by generating local dendritic spikes at that position that can travel both toward and away from the soma up the dendrite, which is fascinating. Sometimes this is against the usual direction of information flow. This reverse signaling allows dendrites to detect the order of that timing I mentioned before. In other words, dendrites can retain a history and then choose through interaction which history is necessary. They exhibit inherent non-Markovian computational processes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "What we see here is not that neural behavior is a very simple input-output device, but it's deeply hybrid and interactional. So far, we've been looking at hybrid computation inside neurons, dendrites, spikes, and ion channels. The story doesn't stop at this membrane level. There is another layer that is often underappreciated. These are electric fields."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Electric fields couple neurons beyond just synapses. Neurons don't just communicate chemically or through direct synaptic transmission. They also influence each other through continuous electric or ionic fields generated by collective activity. The brain has continuum dynamics that emerge only on that scale. These are subthreshold, called ephaptic interactions. They don't necessarily trigger spikes directly, but they modulate excitability. That modulation matters. It changes the probability landscape of firing, which in turn reshapes network dynamics. Oscillatory fields do something similar. They guide excitability across populations. They synchronize."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[43:31] They scaffold activity patterns without requiring discrete synaptic events. So the computation is not confined to spike-to-spike transmission. It extends throughout this continuum physical medium. The brain is not just a network of discrete units. It is an electrochemical continuum. It's the point that I've made already. The material properties of that continuum matter. Tissue geometry, conductivity, ventricular structure — all of these shape how fields propagate."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This is active work now, modeling how the brain's physical substrate supports resonant oscillatory modes and how these modes might constrain neural dynamics, even at the scale of BOLD signals. This reinforces the idea: computation in the brain is not purely symbolic or purely discrete. It is embedded in a material field, in the material soup of things. Digital systems, on the other hand, can only approximate this continuity. Biological systems instantiate this, and this instantiation is important. Once again, we see hybrid continuous-discrete computations emerging. It's a real structural property."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "So we might be thinking why this might matter for consciousness. Here's where the real inference happens. We want to synthesize some of this from the biological ground-up approach. While this might matter for consciousness, it is not a complete criterion for conscious or phenomenal existence. It is rather some biological notions that might be necessary but not sufficient if we are thinking about systems that could potentially be vessels of conscious existence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "First, subjectivity requires boundedness. To have \"what it is like,\" a system must distinguish what belongs to itself and what does not. You need to define the boundaries of this \"it.\" Boundaries are foundational, though they might not be closed. Boundaries require partial global control. Local processes are not enough; mechanisms must coordinate across the whole. I need to feel what it is like in order to know, and this might require electrochemical boundaries to exist and be detectable. Subjectivity would require partial closure from the environment."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Biological systems repurpose the same substrate across scales. This is the notion of closure across scales — across chemistry, electrochemistry, distributed signaling. Old mechanisms are reused for new global functions. Evolution builds new scales from old materials. Scale integration binds the whole into a single intrinsic perspective. Continuous processes capture organism-level boundaries. Discrete processes specialize and differentiate. Subjectivity and the notion of intrinsic existence may emerge from the coupling between these scales."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "A very interesting example occurs with electric fish. They are a great example of a notion in neuroscience called efference copy, where they send out a discrete electric pulse into the environment from a particular organ in their skin, and read the divergence of that continuous electric field in another organ in the skin."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "[48:48] And in a way, this continuous field helps it distinguish self from other or this function that it performs with both discrete pulses and continuous electric fields that it feels later, allows it to understand or distinguish itself from the environment. This instantiation shows me that continuous fields are very useful to propagate signals that are necessarily needed to be read out instantaneously."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Regardless, that's an interesting notion of intrinsic existence and how it relates to some of these principles. I'm ending. If we take some of these preceding arguments seriously about metabolism, hybrid dynamics, scale integration particularly, then it becomes difficult to think that simple scaling of these current digital architectures will be sufficient for any form of sentience or intrinsic existence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "What we argue in the paper is not that artificial consciousness is impossible. Rather, if it is possible, the system would need to satisfy the tripartite criteria. This is hybrid computation, scale integration, and dynamic or structural co-determination."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "This is really important. We are not claiming that these three conditions are sufficient for consciousness. They are at best necessary. I would call this an incomplete list. Even satisfying them may not be enough."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "When it comes to implementation, one is this obvious coupling with the environment. Maybe Mike Levin, yourself, you've worked on this. I believe Anna Siawenika is already working on some of these ideas. There are broad teams around the world that are thinking about this very seriously. Without them, it's difficult to see how one can recover this intrinsic existence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "We also believe that without some of these biological primitives, it would be difficult or maybe impossible to recover this intrinsic scale-integrated association, the organization that we associate with subjectivity."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "The implication is that if consciousness is realizable in synthetic systems, we may need fundamentally different computational paradigms, both at the hardware level and at the formal level. At the hardware level, possibly neuromorphic, possibly fluidic, field-based. But all of this remains an open question and something we are currently working towards to see how we can implement something like this, if possible. I'm sure we will fail and fail over again, but hopefully we will fail better."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I think the current debates have underappreciated the computational significance of biological organization itself. The structural ontological primitives of computation that occur in biological systems are necessary, so a biologically-centered conception of computation might be a cool idea. Let's say we take physical, metabolic, hybrid and scale-integrated dynamics of neural tissue as foundational and build some formalism."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "It's not about whether synthetic systems can be conscious, but whether we are building the right machines."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "I'd like to thank you for listening. I'd like to thank the people who are implicated in some of the work I presented and who have helped guide and mentor me: Alanda Steck, who is my current postdoc supervisor; Olivia Carter, who was my primary PhD supervisor; Tomar Andrillon, Lionel Barnett, and Anil Seth, who are part of the supervisory team as well. George, Ross, and Jeremy collected the 5MEO DMT data that I presented, and Jan, of course, for being an incredible colleague and collaborator and friend."
+    },
+    {
+      "start_seconds": null,
+      "speaker": null,
+      "text": "Thank you very much."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-1c1f60eb1a8d80f1.txt",
+  "text_sha256": "a62d62deb483d2c399053c09239389edf96574b105c37cc395c1e1da1b3143fb",
+  "word_count": 5380,
+  "segment_count": 71
+}

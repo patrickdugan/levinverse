@@ -1,6 +1,10 @@
 __pycache__/
 *.py[cod]
 .venv/
+.cache/
+reports/*.lock
+reports/*worker*.log
+reports/*worker.json
 media/permitted/*
 !media/permitted/.gitkeep
 catalog/source_state.json

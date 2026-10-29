@@ -1,5 +1,7 @@
 {"event": "source_fetch_failed", "event_id": "0469151159f861217e43", "reason": "<urlopen error [Errno 11001] getaddrinfo failed>", "retry_after": "2026-10-29T07:51:03.613559+00:00", "source_url": "https://www.drmichaellevin.org/presentations/audiovideo.html", "status": "failed", "timestamp": "2026-10-29T06:51:00.532017+00:00"}
+{"event": "caption_attempt", "event_id": "ingest:-Bwq1oOST7w:2026-10-29T10:01:10.668702+00:00", "status": "failed", "timestamp": "2026-10-29T10:01:10.668702+00:00", "video_id": "-Bwq1oOST7w"}
 {"event": "caption_attempt", "event_id": "ingest:-isMj7XgLF4:2026-10-29T08:36:50.284818+00:00", "status": "failed", "timestamp": "2026-10-29T08:36:50.284818+00:00", "video_id": "-isMj7XgLF4"}
+{"event": "caption_attempt", "event_id": "ingest:7vsYIlukqn0:2026-10-29T09:56:21.683641+00:00", "status": "acquired", "timestamp": "2026-10-29T09:56:21.683641+00:00", "video_id": "7vsYIlukqn0"}
 {"event": "caption_attempt", "event_id": "ingest:U87rf4tasZY:2026-10-29T06:40:50Z", "status": "blocked", "timestamp": "2026-10-29T06:40:50Z", "video_id": "U87rf4tasZY"}
 {"event": "cataloged_from_curated_index", "event_id": "seed:-isMj7XgLF4", "source_url": "https://www.drmichaellevin.org/presentations/audiovideo.html", "timestamp": "2026-10-29", "video_id": "-isMj7XgLF4"}
 {"event": "cataloged_from_curated_index", "event_id": "seed:0BVM0UC28nY", "source_url": "https://www.drmichaellevin.org/presentations/audiovideo.html", "timestamp": "2026-10-29", "video_id": "0BVM0UC28nY"}

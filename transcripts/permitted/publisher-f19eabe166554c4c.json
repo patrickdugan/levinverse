@@ -1,0 +1,326 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-1-w-lisa-barrett-ben-lyons-eli-sennesh-jordan-theriault-brown-and-karen-quigley/",
+  "title": "Conversation 1 w/ Lisa Barrett, Ben Lyons, Eli Sennesh, Jordan Theriault-Brown, and Karen Quigley",
+  "publication_date": "2026-01-17",
+  "video_ids": [
+    "T1b7nEj7IlQ"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-f19eabe166554c4c",
+  "retrieved_at": "2026-10-29T09:13:50.258231+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[00:00] Benjamin Lyons: I'll do a little bit of an intro, explain what's motivating this, and then Mike has a few slides he can go through, and then I want to get y'all's takes and open things up for discussion. My background is in economics, and I've worked with Mike to produce some research showing some connections between his ideas in economics. We've got one paper out. There's a couple more on the way. The second biggest inspiration for me is the theory of constructive emotion and the ideas of interoception and allostasis. We're bringing a lot of ideas from that into these papers as well. Every time I talk to Mike, I talk about these people and these ideas and how related it all is. If I were to try to give a very brief, high level summary of what I think some of the similarities are, the most obvious one is just that you had this history. Mike studies development and y'all study emotion. In both fields, there was this history of thinking there is this genetic plan that just tells everything what to do. And it's rote and prescribed: basic emotions. Or if you look at the development of a cell into a human, it seems it's just on some fixed schedule, and then both of y'all have produced theories that basically say that's not how it works. It's a more in the moment, constructed on the fly thing where the parts and pieces figure out what they need to do to achieve their goals. Relatedly, there's a lot of emphasis on physiological states and physiological signaling. Mike has these very important ideas about cognitive glue: the cells are able to communicate aspects of their physiological states to each other. That enables a lot of coordination throughout the system in a way that I think matches very well with ideas about interoception and allostasis. My perception is that y'all have studied very different phenomena on the surface, but have produced very similar theories about how those ideas work. There are a lot of interesting broad conceptual things to explore. There are a lot of interesting specific hypotheses that might be worth experimenting on. I do have a blog where I write about some ideas. I've written about some of the connections, including that collective intelligence and allostasis are very much things that need each other: collective intelligence needs allostasis to function and operate. Allostasis needs collective intelligence to do it and carry itself out or else it wouldn't be able to operate. The cognitive glue mechanism that is an important focus for Mike is something that works through the sharing of interoception signals. That's an interesting generalization. There's a lot of really powerful comparisons here. Both theories have an important economic background. Mike's collective intelligence theory — we have a paper talking about how it's all about economic coordination. Allostasis has the allocation of resources within the body. Economics is traditionally defined as the study of the allocation of scarce resources. Behind it all, there's a lot of economics lurking. That's what I rely on. Unfortunately, some of the biological and neuroscientific details do go over my head at times. That's why I wanted everyone to meet each other, to share these ideas, because I think it's building toward a much bigger, more powerful synthesis that applies to a lot outside of the traditional phenomena that have been studied. I'll turn it over to Mike. He can go through a few of his slides and then we'll open it up for discussion."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[03:18] Michael Levin: Great. Thanks so much. And thanks, Ben, for pulling this all together. I've been looking at your work for a really long time, and I'm very excited to talk to you and to see what integration can take place and what I can learn from some of the things that you all do that applies to us. To give you a bit of background, my background is computer science. I now run a lab of mostly experimental biologists, some computational modelers. Our goal is to understand embodied intelligence very broadly. That means we use a wide variety of bizarre substrates. It's everything from individual cells and tissues and cyborgs and hybrots and different kinds of synthetic agents and biobots. We make all these different things. Our goal is to try to develop frameworks for understanding what it means to be able to recognize and communicate with minds that are not like ours — strange embodiments, different scales of space and time, different spaces that these things live in, and to create tools by which we can begin to understand that they exist and how then do we communicate with them. One of the workhorse models in our group is this notion of groups of cells navigating anatomical space as a collective intelligence. In other words, embryonic development, regeneration, metamorphosis, cancer suppression, aging, resistance — all of these things have in common that there is a group of cells that has to get together to pursue goals that no individual cell knows anything about. I'll show you a couple of quick examples. We study the mechanisms, and these are very specific biophysical mechanisms by which cells form networks that operate in spaces and follow large-scale set points, AKA goals, that their parts don't know anything about. That scaling of intelligence and its projection into new spaces is what we're interested in. In particular, the technology that we used to interface to this process is bioelectricity, because, very much like in the brain, the evolutionary history of what happens in the nervous system is an elaboration and a huge speedup of things that were happening long before we had nerve and muscle. Navigating back from the time of bacterial biofilms and then true multicellularity, navigating the space of anatomical possibilities, evolution already picked up on the fact that electricity is really good for this. All of the ion channels, the neurotransmitters, the gap junctions, all of the stuff that operates in the brain actually has a long history of doing exactly the same thing in development, just in a different space. What we typically do, and this is one reason why I'm very excited to talk to all of you, is that we try to steal as many tools as we can from neuroscientists and ask where else do they apply? We've been able to apply all kinds of things in systems that don't have brains, and that are shocking to a lot of people that these things apply. That's the overall deal. I'm going to share a couple of slides to show you. Ben asked me to show a couple of examples. Is everybody seeing a title slide? Ben asked me to show a couple of examples of context-sensitive sensing and actuation. We study a number of spaces that living systems traverse: high-dimensional space of possible gene expressions, physiological state spaces. There are navigational skills that systems develop in this space, and particularly what we're interested in is anatomical morphospace. What we've been able to find is that systems navigate that space of anatomical possibilities in a way that makes it very clear that the simple model Ben mentioned at the beginning — the idea that the genome codes for specific outcomes — doesn't fit the data at all, because what actually happens here is a high-competency navigational process that solves all kinds of problems. It encounters problems it's never seen before. It has plasticity, enormous plasticity. It has all kinds of ways to do things that normally it would never see. It is, I think, an example of a real-time intelligence that uses the genome as a set of prompts and as a set of hardware specifications, but not as a set of descriptors of what's going to happen. Very briefly, the most obvious thing is something like this. You have an animal like this, which is an axolotl. It will grow this limb. And then you find out that it's actually not simply emergence, as a lot of people make, we make these open loop models that are just emergent. If you cut it anywhere along this line, the cells will very quickly jump into action. They will rebuild the same limb, and then they stop."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[07:31] Michael Levin: And that's the most amazing thing about this. They know when to stop. When do they stop? They stop when they've built the correct structure. They've been deviated from this location in amorphous space. They get back there, then they stop. One way you can model this is as an error minimization scheme. So my delta from here to here is large. I'm going to keep taking actions until that delta is within some acceptable rate. Also there's a stress piece involved that we can talk about. But it's more than this. So it's not simply repairing damage or anything like that. This is one of my favorite experiments. What you can do is, and this is not mine, this was done back in the 50s, you can take a tail and graft it onto the side of the animal. And what happens over time is that this thing turns into a limb. Now, pay attention to the cells here at the tip of the tail. These are tail tip cells sitting at the end of a tail. There's nothing locally wrong. There is no damage. There is no injury. Locally there's no reason for them to do anything at all, except that they start turning into fingers. What's happening here is that there's a large-scale control over the molecular events that are here, because locally there's no error. But globally, the system as a whole knows that what you have in the middle here is not a tail, you should have a limb. And that error, that only exists in a large-scale anatomical space, has to then be propagated down to control molecular events that locally there's no reason for it to happen, which is similar in the sense that in voluntary motion, you have these very abstract cognitive goals that then have to make the ions move across your muscle membranes for you to do that. There's a transduction from all kinds of abstract spaces down to making the chemistry do what's needed to make it happen. That's one example. Other examples of context-sensitive behavior is a tadpole. Here are the eyes, the nostrils, the mouth, the brain, the gut. In order to become a frog, these guys have to rearrange their face. All kinds of things happen during their development. It used to be thought that this was a hardwired process. You just move every organ in the right direction, the right amount, and you get your frog. We wanted to test that. We made these Picasso tadpoles. Basically we scrambled all the organs. Everything was in the wrong. Literally the eye is on the back, the mouth is off to the side, the whole thing is an incredible mess. They still make normal frogs because it's not a hardwired process. What happens is all of these structures will move forward in novel paths, abnormal paths, until they get to a normal frog face and then they stop. Sometimes they go a little bit too far and they have to come back and then they stop. The obvious question is, how the heck does it know what a correct pattern is? We actually have an answer to this. We've figured it out to some extent. I'll show you that momentarily. I want to show you another couple of crazy examples first. This is a thing called trophic memory in deer antlers."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:44] Michael Levin: Every year these things shed this giant bony structure. What George Bubenik realized after about 40 years of experiments is that if you make a wound at one particular place in the structure, this whole thing falls off. Months later, next year, the new rack will grow. When it grows, it will actually grow in ectopic tine at this location. And that happens for about five or six years, and then eventually it goes away. It means that, first of all, this whole thing is going to be gone. The information has to be somewhere else in the body. Months later you have to store it. You have to remember where it was in this three-dimensional structure. Months later, you have to say, when you're doing the bone growth here, take an extra left turn and grow this thing right here. That's the kind of plasticity. None of this is genetic, because the genome hasn't been touched. Good luck drawing a molecular biology arrow diagram of what's going on here. Those kinds of models are not well suited for understanding phenomena like this. Working with deer is incredibly hard, so we came up with a tractable lab model. Those are planaria. Planaria are cool because, among other things, they are incredibly regenerative. You can cut them into many pieces. Here's an amazing example of context sensitivity. If you cut them in half, this side will grow a tail, this side will grow a head, but these cells were direct neighbors. They were sitting right next to each other. They have the same positional information. You have to cut them anywhere, and yet they have radically different anatomical fates because it isn't local. The wound actually talks to the rest of the animal to figure out what we have. This guy is incredibly regenerative, cancer-resistant, immortal. In fact, there's no aging in them, despite the fact that it has incredibly dirty genetics. It's a very interesting story. What we've discovered is that the question of how do you know how many heads you're supposed to have is actually stored as a bioelectrical pattern memory. We developed tools to visualize voltage gradients in living tissues of all kinds of species. Using various ion channel drugs and optogenetics, we can put in a different pattern that says you should have two heads. You can do that in a one-headed body. The anatomy is one-headed. The molecular biology is one-headed, meaning anterior markers expressed in the head. What it does have that's weird is a false memory of what it takes to be a good planarian. If you cut this guy, the pieces will make a two-headed worm. If you keep cutting them, they will continue to make two-headed worms. It's a memory. I have lots of other examples I can show you. I'm going to stop here. The bottom line is that groups of cells use electrical signaling driven by ion channels, propagated through gap junctions; serotonin is involved; all of these same players store large-scale pattern memories, and they have some amazing ingenuity about getting there. Unless they can't, in which case they form other kinds of beings that have never existed before. We've made those too, Xenobots and Anthrobots. You can find anything from simple error minimization to delayed gratification to memory rewriting to what I see as creative problem solving when you push them into scenarios that they simply can't do the thing they were trying to do. They do something else and they always do something interesting. We would deploy whatever tools and lessons we can learn from conventional cognition in these models and see what happens."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[16:00] Lisa Feldman Barrett: Is this a contextual constraint argument that the bioelectrical signaling between the cells produces a constraint that directs the biology down a particular path."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:29] Michael Levin: I would go further. I think you can say that. I would go further than that because what we see, one thing I didn't show you is something we call the electric phase. The electric phase is a pre-pattern. Long before the genes turn on to regionalize the ectoderm into a face, you literally see what looks like a face. The eyes are going to be here, the mouth is going to be here, the plaques are out to the side. This isn't just a constraint. It is literally an instructive pre-pattern or a memory of what you should do in the future. And if we rewrite that pattern, we can make all sorts of crazy stuff because the pattern is, as far as the cells are concerned, the ground truth of what they're building. If we alter that pattern through optogenetics or ion channel drugs, they will build something else. So I would say it's more than just a constraint. At the level of physics, sure, it's a constraint. But at the informational level, I think it's an instructive memory of what you should be doing. We have some control over that now. We can incept these false memories into these things. They will simply do it. Much like with the voluntary motion example, all of the molecular details are handled by the material. In other words, when we tell an animal to make an extra eye, I don't know how to build an eye. An incredible number of genes have to be activated in stem cell biology. We don't know any of that. We give a large-scale, high-level prompt that says \"build an eye here.\" To the extent that we are convincing, everything else gets handled by the material, which will trigger all the downstream stuff to make it happen."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[18:10] Lisa Feldman Barrett: The bioelectrical pattern is there before you have genes, before there's gene transcription."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[18:20] Michael Levin: Generally speaking, yes. The bioelectrical pattern precedes the implementation details of actually turning on the various genes. However, big picture, if you take a step back, the whole thing is a feedback loop because in order to have bioelectrical signals, you need ion channels expressed right before. But much like with a lot of hardware-software systems, the ion channels that are present — what you have is an excitable medium. You need a minimum number of channels to make a competent medium. You need some voltage-gated channels. That typically is maternally provided in the egg, but by itself, that doesn't have any of the specificity of the morphogenesis that happens later. What happens is that the excitable medium then, left to its own devices, undergoes spontaneous symmetry breaking and amplification that gives you Turing patterns. At the electrical level, that's what it does by default. But you can step in at any moment and not touch the genetics, not change the ion channels, but simply control what the voltages are at any given location, and that's enough, if you know what you're doing. We now have simulators that help us design, because the goal of all of this is regenerative medicine. So at some point, we can fix birth defects in these model systems and normalize tumors. The goal is to say, here's a bunch of cells, and they have an abnormal pattern memory of what they're going to build. We're going to fix that. We're going to give them some better memories of what to do, and that doesn't require putting in new channels or deleting channel genes or any of that. We don't usually touch the genetics."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[20:06] Lisa Feldman Barrett: This is so interesting. Can I ask a couple of questions? One question that I have is whether network homeostasis works like this, for example, in a brain. You see examples from Eve Marder's work all the way up to a larger scale brain where neurons are switching in and out. The function of the network is maintained as the neurons are switching in and out. There's not a lot known about exactly how that works. People are observing it, and the function is really a property of the relations between the cells. It's not a function of any given cell or any given signal train."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:08] Michael Levin: You're absolutely right. I think probably evolutionarily that's where the brain learned that amazing trick."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[21:17] Lisa Feldman Barrett: you're going right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:20] Michael Levin: Because during early development, you have a pattern and actual cells are moving in and out, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[21:28] Lisa Feldman Barrett: Finish, and then I'll ask my next question."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:29] Michael Levin: The cells are coming and going, and I'll take one step further. I would say that some of these, maybe all of these bioelectric patterns serve as virtual governors, where if you want to know what the causation is, it's the pattern that's exerting the force. It's not the cells, it's not the molecular stuff underneath, it's the pattern, and you can swap out. In fact, the hardware does swap itself out as things get bent out of shape and move this way and that way. It's the pattern that drives the show."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[22:04] Lisa Feldman Barrett: So my next question. This is the kind of thing that we're talking about, but really scaled up as Benjamin mentioned, that it's scaled up multiple levels, temporal and spatial scales. I'm not an embryologist, and I'm far from developmental neurobiology. My recollection is that some cells—their location and their trajectory in an embryo—are genetically prescribed, but most of them aren't. They're really under local or contextual control, of the origin or of the destination. Meaning that where they go and how they end up functioning is contextually determined either by where they originated or where they end up. Some things are genetically prescribed. For example, the synapses between neurons in the thalamus and stellate cells in the cortex. Those synapses—I think there's some genetic specification there. They have to recognize each other chemically in order to make the synapse. But most of the time it doesn't work like that. It's very, very rare. For example, another example is in the lateral geniculate nucleus. Sometimes people will say the brain is running a model of the world. But the brain is not running a model of the world. It's running a model of the sensory surfaces of its body that moves around in the world."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[24:36] Lisa Feldman Barrett: And the signals that the sensory surfaces are receiving are some of them from the world, some of them from the body, internal to the body. But the brain doesn't map the visual world, it maps the retina and it infers the rest. For example, in the lateral geniculate and in the superior colliculus, there is a map of the retina. That map is genetically determined or genetically influenced. You don't require experience for it to develop. But the retinotopic maps in V1, my recollection is that they are largely or almost exclusively experience-based, which means that there's something about the signaling that is required to actually establish the map. What's interesting about that is that for the most part the neurons that make up V1—their migration, from where they're born—is not genetically prescribed. It's contextually prescribed. I can't remember if it's the origin or the destination, but it works differently in different parts of the embryo and at different times. One question for us would be what's happening with the limbic circuitry, the circuitry at the center of the brain. Its main job really is the regulation of the body. So its main job is allostasis. It's not so much that this circuitry has special features as much as these neurons in particular— not just the neurons, probably glial cells, the whole tissue—play an important role not just in the regulation of the body, but in every cognitive phenomenon, every mental phenomenon, and in the coordination of the visceral motor system with the skeletal motor system. And so it'd be very interesting to understand whether the principles that you are studying and that you've established for anatomical organization you would also see for functional organization of the allostatic control of the body, or the importance of energetics-related signaling to cognition writ large."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[27:10] Michael Levin: It makes a ton of sense. And I think, for us, even broader, taking it to all kinds of weird scenarios. For example, we've done this thing in tadpoles where we can make animals that have no primary eyes in the head, but they have an eye on their tail. That eye on the tail makes an optic nerve. That optic nerve does not go to the brain, sometimes to the spinal cord, sometimes to the gut, sometimes nowhere at all. Those animals can see. We test them in visual learning assays. And they can see out of the box, no new rounds of adaptation or selection, no radically different sensory-motor architecture. They can get around in visual cues."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[27:52] Lisa Feldman Barrett: Is it like a blind sight kind of seeing?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[27:54] Michael Levin: I can't tell you what the experience of the tap is. I don't know if they know they can."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[28:02] Lisa Feldman Barrett: Some people would be very happy to speculate about the experience of a tadpole, but I'm with you on that one."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:09] Michael Levin: I can speculate, but I don't have any actual dates. So what's the point?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[28:14] Lisa Feldman Barrett: Let me ask the question differently. What I meant by blindsight is: is it gross spatial features that they can detect and behaviorally use? I don't know. Blindsight people usually talk about it in terms of conscious experience, but there is a difference in the type of visual signals, the type of visual features that the animal is using to navigate movement."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:58] Michael Levin: I understand the question. I don't know how much detail I can see. Our behavioral outputs are fairly coarse-grained. But between that and the anthrobots that we make, which have a perfectly normal human genome but a completely different kind of behavior and 9,000 different gene expressions, half the genome is now completely different. We haven't done anything to them. It's just a new lifestyle that they have and they can do all kinds of things that normal tissues don't do. I think the plasticity is incredible, and I think they try hard. All of these things try to get to their default configuration, but if they can't, they will do something else, and what they do will be coherent and adaptive. Other than certain nematodes, in C. elegans every lineage relationship is very precise and you can count every nematode has the same number of cells. Other than that, I'm very skeptical about stuff that is \"prescribed.\" I think the default might look prescribed, but if you start to push it, you'll find that they can do all sorts of other things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[30:21] Lisa Feldman Barrett: We're very sympathetic to that. For us, this is like music to our ears, but in the circles where we spend a lot of our time, people are still spouting the modern synthesis doctrine, ideology. I'm sure you're familiar with that. That's why everybody's smiling."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[30:51] Michael Levin: I'm glad because it's exactly the same in development and molecular genetics. These examples, when I teach students occasionally, my talk is called \"Why Is This Not in Your Textbook?\" And these are all things that are specifically not in the textbook, because if you look at the things in the textbook, then you get this picture of a nice genetic determinant, but when in your biology education did anybody tell you that the animal with the most regenerative capacity, meaning the most stable anatomical features, cancer resistance, no aging, is the one with the dirtiest genome. Shouldn't it be the opposite? Shouldn't it be the clean genomes that are responsible for all this stuff? It's actually exactly the opposite."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Jordan Theriault-Brown",
+      "text": "[31:37] Jordan Theriault-Brown: I mean, so by clean versus dirty genome."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:41] Michael Levin: Most of us, when we have offspring, the offspring does not inherit our somatic mutations. Planaria, at least the ones we study, are not like that. They tear themselves in half and regenerate. That means every mutation that doesn't kill the stem cell it hits gets propagated. They keep everything. They're mixoploid. Every cell has a different number of chromosomes. They look like a tumor."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Jordan Theriault-Brown",
+      "text": "[32:12] Jordan Theriault-Brown: There's no specialized gametes that mostly copy the DNA."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:17] Michael Levin: And this asexual, we study the asexual forms. And so these guys have been around for 400 million years, accumulating mutations. There is no such thing as a mutant line of planaria. There is for everything else. You can call the stock center and get mice with weird, curly tails. The only mutant line of planaria is our two-headed form, and that's not genetic. There's nothing genetically different about them. And so, because they ignore, there's no transgenics in planaria; you try to put in new genes, they don't care about that any more than the mutations they already have. We could go on and on about why this is, but specifically, I think in planaria the material — the fact that they're made of a really unreliable substrate. We've modeled this computationally; all the effort has gone into an algorithm that can do something useful even when your hardware is junky. The hardware is going to be different, you can't count on it, but you've got an algorithm that's rock solid and it's tolerant to all of that. To some extent, planaria have it all the way, amphibians a little more, and C. elegans maybe not at all."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Quigley",
+      "text": "[33:30] Karen Quigley: Maybe we're thinking about junk DNA in the wrong way. What we would say is that you need a lot of variance, a lot of variation, because that's the substrate on which evolution is driven. And so this seems like the perfect option if you were to think of it that way, in the sense that there's a lot of opportunity."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[33:52] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Quigley",
+      "text": "[33:53] Karen Quigley: Because there's a lot of opportunity to take advantage of something that exists already and utilize it, especially when something changes that you need to adapt to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:02] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[34:04] Lisa Feldman Barrett: The reason for the word junk is this old distinction between genes and junk DNA."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:09] Michael Levin: That's not what I meant."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[34:10] Lisa Feldman Barrett: I know that's not what you meant, but I was saying to Karen."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Quigley",
+      "text": "[34:18] Karen Quigley: I wasn't assuming that particular use. It's an interesting way of flipping on its head."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:25] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Quigley",
+      "text": "Karen Quigley: That it really isn't about being junky. It's about providing a really broad substrate for adaptivity."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:34] Michael Levin: I think that's a really interesting idea. What we see in our simulations is the following. When you're dealing with a material that is able to autonomously fix certain defects, what ends up happening is that selection can't see the genome very well. Because when you get a tadpole that looks perfect, you don't know, was that because my genetics were great or because my mouth started off over here but by now it's moved back to where it needs to be. So selection has a hard time seeing the structural genome. And so what it does is then spend more time working on the competency, the plasticity. But the more you do that, the harder it is to see. So there's a positive feedback loop. I think what's happened in Planaria is that loop went all the way to the end where we can't see the genetics at all. In the simulations, you can literally see where all the evolutionary optimization is happening. Once you have a competent material like that, it really starts to crank on this autonomous repair stuff. Because the more you have it, the harder it is; you can't select the good genomes from the bad because you don't see them. All you see is the final product and the final product is way beyond anything the genetics was telling you about."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[35:59] Lisa Feldman Barrett: The way that we think about it is that if you've got N elements, they could be neurons or whatever, but you have tremendous opportunity for variability, but you have tremendous complexity. Life requires the reduction of complexity. It requires some predictability and structure. But where is that structure? Where is that predictability? If this is complete complexity and variation, and this is complete: everything is hard coded into the elements themselves, which is what some people want to claim. Or maybe they'll allow for some variation around the edges. That context can tweak the edges. What we're saying is that, and it sounds like what you're saying too, is that there is a structure, but it's a structure not at the level of the elements. The elements are somehow constraining each other in a way that they were, with signals that are reinstatable or memorable, and it also can change. It's not hard coded at the level of the individual elements, which is really what a strong genetic variation-plus-selection argument is, where the properties of the genes are hard-coded; they're in the genes themselves, and then the genes just express those properties, as opposed to the structure being flexible. It's not infinitely flexible, but it's relational and at the level of the interaction of the elements. Those properties exist at the level of the interaction of the elements, not in the elements themselves. So they're fundamentally relational properties."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[38:04] Michael Levin: I think that's exactly right. I augment this constraint business, because I think a lot of people think about constraints. But what I emphasize also is that there are a lot of free lunches, which I'll define that momentarily, that actually become enablements rather than constraints. What I mean by that is that there are patterns. There are patterns that come from mathematics, that come from computation, that are not laws of physics. They're not anything you discover in physics. They come from some of these other domains that biology, I think, uses very effectively. For example, as soon as you evolve a voltage-gated ion channel, what you really have is a voltage-gated ion conductance, aka a transistor. If you have two of those, you can make a logic gate. Once you make a logic gate, you inherit all kinds of crazy properties that you didn't have to evolve. They're not in the materials: the fact that NAND is special and that you can do all these things. All of that is given to you for free from the laws of computation. You just have to make the right physical interface that hooks into it. And so absolutely there are constraints, but there are also these, and they're all over the place. There are all sorts of these wild enablements that are there for you as a free gift from mathematics."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[39:30] Lisa Feldman Barrett: Is there a word, an abstraction that means constraint or enablement? Meaning that not all possibilities are likely, but some become unlikely or impossible, and some become more likely. Is there a word?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[39:51] Michael Levin: There is. I still feel that there's a commitment."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[39:59] Lisa Feldman Barrett: When I said constraint, I wasn't ruling out enablement. What you're saying makes a tremendous amount of sense. Maybe it's a different word I should be using."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Eli Sennesh",
+      "text": "[40:09] Eli Sennesh: We've been really interested as a lab in constraint causation. One of the next things we really want to tackle is the labs to all read Moreno, Mosio, Biological Autonomy together to get some of that constraint causality out of it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[40:24] Lisa Feldman Barrett: And then there were other people who were talking about. I'm thinking I had a really interesting conversation with Philip Ball a couple of months ago because I read his \"How Life Works\" and was totally blown away, actually, because I didn't know a lot of it. I knew genomes were dirty, but I had no idea how random things were. I will say that I've recommended this book to a number of people in psychology and their minds are completely blown because this is not anything anybody knows in our field, it seems like. One thing that he was talking about is—if I understand him correctly—how what you would call bioelectric pattern memories, I think he would count that as an example of agency or meaning making that occurs at the level of multicellular systems. It occurs within a cell, but it also occurs anytime you have parts that are interacting and producing movement towards a state that could only exist because of the parts interacting. It's not a state that—so goal here just means direction towards a future state. I wanted to understand whether he thought that was a principle that could generalize across temporal and spatial scales, because it certainly seems like that's what we're talking about, but at a completely different scale. We're also talking about relational meaning, that a lot of the properties that we ascribe to objects or to people exist in the relationship between things, not in the things themselves. I wondered whether he—I'm thinking about Scott Turner's books, where he's making an argument that goals exist only at the level of the ensemble. Exactly what you said about how individual cells don't have any evidence that the cell itself would move towards a particular state. It's only the cell in combination with those cells. I was thinking of Scott Turner's first book, The Tinkerer's Apprentice, where he's talking about termites. Termites—individual termites don't have a goal to cool the nest. But when they're moving things around and making tunnels and tending their fungal gardens, they don't have a goal per se to homeostatically maintain a temperature in a particular range, but that's what's happening at the level of the nest. That has to happen at the level of the nest. Otherwise the nest will fail and all the animals will die. So it seems like conceptually there's great sympathy between these particular lines of work. I'm sitting here thinking I have 100 uses for your examples, but I'm wondering how we can help you exactly. How can we return that favor?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[45:04] Michael Levin: First, to comment on the last thing. I don't want to speak for Phil, I think I'd go further than he does along the lines of what you just said. We study, for example, molecular networks. Molecules that turn each other up or crank each other up or down — even small networks, let's say five or six subunits; it doesn't take very much complexity at all. Small networks can have habituation, sensitization, associative conditioning, where the network — you can pair chemical stimuli. We're using this now for drug conditioning in medicine. You can pair an effective stimulus with a placebo. You can do a placebo within a six-unit molecular network — no cells, no neurons. This kind of stuff goes all the way down to very minimal systems. We have two sets of tools that we use to study them. One is behavioral. If you want to know whether it's a goal or not, put a barrier between this thing and its goal in whatever space you're working on and see what happens. You will see sometimes it goes around and it has delayed gratification. If not, you haven't shown a goal. The other thing we have is the tools of causal information theory, the kind of stuff that Tononi does on coma patients, and we use it to look for causality at different levels. You can look at the bioelectrics, at the calcium signaling, at the molecular signaling, and do the calculation and ask, is there a whole that's more than the sum of its parts here? Sometimes the answer is yes, and sometimes it's no. I definitely think it goes very far below."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Jordan Theriault-Brown",
+      "text": "[46:59] Jordan Theriault-Brown: Excuse me, he may be at my door."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[47:04] Lisa Feldman Barrett: I wasn't saying that he was right. I was saying he's the gateway for a whole literature that I was not aware of and that is very useful for us."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:19] Michael Levin: So what I would love is, first of all, exactly as you said, I like examples from cognitive science that I can use to say this is not new and crazy. This has already been seen. And in this field, here's what they see. Concepts that we can adapt from what you guys see."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Eli Sennesh",
+      "text": "[47:51] Eli Sennesh: I'm tagging ahead. I don't want you to finish."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:57] Michael Levin: I want to understand as much as possible about what you guys think is happening in the brain. How early did biology actually take that on? Was it in cells and embryos? Was it in molecular networks inside of a single cell? Was it before that? We like to look all through the spectrum."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Eli Sennesh",
+      "text": "[48:20] Eli Sennesh: I've had a burning question on this: a lot of what you're describing—the thing that jumped out to me in your initial slides—was that you're talking about having a large-scale goal and a pattern, and basically anatomy rearranging itself to that macro-scale pattern in regenerative tissue?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:44] Michael Levin: That's one set of examples. We could go somewhere else."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Eli Sennesh",
+      "text": "[48:49] Eli Sennesh: The immediate analogy to that for me, and I think Lisa's been poking at this with some of the questions as well, is that it seems like it's also a description of what behavior is implemented by the brain. You basically have a macroscale pattern or a behavioral configuration that is a whole unit of how muscle tissue and sensory input is arranged, that involves a macroscale organization that's more than the sum of the parts of any one bit of muscle tissue or any one sensory stream. But what you're getting is a macroscale organization to that pattern that's then implemented and refined down through the details across the whole brain. When you were talking about goals at the molecular level or goals in these biological tissue patterns, it seems there's a straight analogy to how goals or behavior gets recognized at a macroscale level across the brain to configure itself. It solves a big problem that we have, which is how you think about goals or intentionality or goal-directedness in any psychological sense. There's a big overlap between something that Eli and I have both been into, and Karen and Lisa have also been interested in, which is how to think about different models at a psychological level that are built around this negative feedback control or this configuration to adapt to model subconfiguration in terms of sensory input. There's a sidestream of psychology that's thought about this, but it's been left behind and not developed well. I'm happy to share some outshoots from cybernetics where people have tried to think about things in those terms, but it is not the mainstream in psychology, and it seems to fit well with what you're talking about. It seems like you have some mechanisms to make that tractable rather than a purely theoretical thing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[51:00] Michael Levin: That's great. I'd love to see those. That's also something I'm very interested in to hear you guys talk about meta levels. You have a set point and a goal, but what are the components that can reset that to something else? Because that's what we're always on the lookout for: instead of trying to force the system into a particular behavior, how can we get buy-in and actually make it want to do the thing we want it to do by resetting its goals, which is really..."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Lisa Feldman Barrett",
+      "text": "[51:30] Lisa Feldman Barrett: What you're talking about is how does the network of elements produce enablements, right, that make it more likely that a particular future state will be reached, this future state versus that future state. One concept in allostasis, Karen, you could speak to this better, is that the system isn't really working around set points. It's working to optimize efficiency, energy efficiency at any level of energy output. It's anticipating needs and attempting to meet those needs, preparing to meet those needs in advance. Individual biological systems might work by homeostasis. We're willing to grant that. But the whole system, the nervous system, for example, in its regulation of all of those other systems, probably doesn't work that way. That's not our view anyways. Across the levels of the system, you could see it's possible to conceive of what's happening as complexity reduction. At every level of the nervous system, you could talk about the construction of categories, a bunch of things which are dissimilar in their sensorimotor particulars but are equivalent in their functional output. A category isn't a group of things that are the same. It's any group of elements that can be treated as or function as equivalent for some purpose in some context. If you think about it that way, what's really happening is the expansion and compression of signals for the purposes of constraining and enabling — constraining certain outcomes, making certain outcomes less likely or unlikely and making other outcomes much more likely. Another thing we are doing is taking concepts, conceptual tools, and attempting to configure them so they can be used across multiple levels of analysis, like the concept of a category as a complexity reducer. I think allostasis could probably work that way too."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[54:45] Michael Levin: Eli, did you want to say something?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Jordan Theriault-Brown",
+      "text": "[54:49] Jordan Theriault-Brown: I think this is recalling from background research that I did when working with the lab and writing a paper, but in my experience, once you get into systems biology and start figuring out the fine-grained mechanisms of what operates at one level versus another, the precise meaning of what is allostasis becomes a lot clearer and easier to figure out. In the sense that you can say there's a fold-change adaptation mechanism operating here that we found in this experiment. Then there's integral control over here in this separate part of the physiology in this experiment. Through evolution and development, you accumulate these separate mechanisms at different levels of a control hierarchy, which usually reduces complexity for the higher levels of the control system."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-f19eabe166554c4c.txt",
+  "text_sha256": "8b4576bf84e10c363bd001aabfcbb35d1b1e5fadea309a6c4aef06c994d78c1f",
+  "word_count": 7825,
+  "segment_count": 60
+}

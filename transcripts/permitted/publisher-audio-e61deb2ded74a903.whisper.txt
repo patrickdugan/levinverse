@@ -1,0 +1,247 @@
+[10.26 --> 15.18] Welcome to the TwiML AI podcast. I'm your host, Sam Charrington.
+[25.69 --> 30.49] All right, everyone. I am here with Michael Levin. Michael is a professor of biology and
+[30.49 --> 36.21] director of the Allen Discovery Center at Tufts University. Michael, welcome to This Week in
+[36.21 --> 38.43] Machine Learning and AI. Thank you so much. Pleasure to be here.
+[39.31 --> 46.17] So you gave a talk just this afternoon to a gigantic room here at the NeurIPS conference.
+[46.79 --> 53.51] Your talk was on a couple of themes that I found fascinating just from the summary of it,
+[53.71 --> 60.15] developmental bioelectricity and some of the implications for machine learning. Why don't
+[60.15 --> 64.37] we have you get started by telling us a little bit about your background and then we'll dive into the
+[64.37 --> 69.33] topic of your talk. Sure. My background originally was computer science. I did software engineering
+[69.33 --> 76.11] for a number of years. I got an undergrad degree in computer science. I then went to graduate school
+[76.11 --> 82.79] for biology. So I have a PhD in genetics. And then I did a postdoctoral training in cell biology.
+[82.79 --> 88.83] And my lab does a number of things in developmental biology and regenerative biology and computer
+[88.83 --> 93.73] science all around the theme of information processing and computation in living systems.
+[93.89 --> 99.69] So we are interested in how living biological systems process information and compute at all
+[99.69 --> 102.83] scales, molecular, tissue level, cell level, behavioral, and so on.
+[102.83 --> 111.05] Maybe you can give us a kind of a broad survey of what the current thinking is around biological
+[111.05 --> 113.91] computation. It's not something that I've had a lot of exposure to.
+[114.11 --> 120.65] No. And this is very much an emerging field. And in fact, there are lots of divergent opinions and
+[120.65 --> 126.99] approaches at this point in this area. It's very exciting time. My particular area comes in in trying to
+[126.99 --> 133.71] understand how cells and tissues interact to revise the anatomical plan of the body.
+[133.95 --> 138.97] So we all start life as a single cell. The fertilized egg gives rise to a bunch of early
+[138.97 --> 143.81] embryonic cells. And these have to arrange themselves into a particular anatomical structure.
+[143.81 --> 148.25] So it might be a tree or a snake or an elephant or a human or whatever. But all of these cells have to
+[148.25 --> 152.29] figure out what to do to make this appropriate structure. And in fact, it's much more than simply
+[152.29 --> 157.63] creating that structure. Some animals are highly regenerative, which means that you can, for example,
+[157.79 --> 161.97] if certain body parts are amputated, they will regrow those parts. So salamanders will regrow
+[161.97 --> 169.29] legs and eyes and jaws and portions of the brain. And these kind of examples and many others that I
+[169.29 --> 176.59] show today illustrate a remarkable capability of biological systems to do flexible dynamic remodeling.
+[176.59 --> 183.41] That is, they don't simply create a structure as some sort of a pre-written set of instructions,
+[183.55 --> 189.21] but they can modify on the fly to repair towards a particular goal state, a coherent organism.
+[189.41 --> 194.93] So when a salamander regenerates its limb, for example, it stops exactly when the limb reaches its
+[194.93 --> 200.95] correct size and shape. And so the question then for regenerative medicine is not only to try to
+[200.95 --> 206.05] trigger this kind of regenerative ability. We certainly work on this in our lab is to try to kickstart
+[206.05 --> 211.31] regeneration in human patients down the line, but also to understand how the whole system knows
+[211.31 --> 219.17] when to stop. And for us, regeneration is primarily a computational problem. The tissues need to know
+[219.17 --> 223.27] that they've been damaged, they need to know what to do to repair, and they need to know when it's
+[223.27 --> 227.61] done. And these are all questions that really are very much not understood today.
+[228.35 --> 233.49] This is kind of blowing my mind. I think for those of us outside of the field of biology,
+[233.49 --> 240.07] we know that bodies do these things. And the answer is just, oh, it's DNA, right? DNA controls
+[240.07 --> 245.13] all of this stuff. But to think of it as a computational process, that's a totally new
+[245.13 --> 249.69] way of thinking about it for me. Yeah. So this is very common. And in fact,
+[249.79 --> 255.27] so I gave a version of this talk to a bunch of middle school kids last year, and I asked them,
+[255.43 --> 259.77] I showed them a picture of an egg, and I asked them, what actually determines what comes out of this
+[259.77 --> 264.39] egg? It could be a snake, a turtle, a dinosaur, whatever. And even the nine-year-olds all said,
+[264.49 --> 272.11] DNA, it's DNA. Well, in a certain sense, it is DNA. But the thing to realize is that in the age of
+[272.11 --> 278.47] genomics, if you actually sequence the genome, you understand the genome has information about
+[278.47 --> 282.49] proteins. There is nothing directly that you could read out of a genome that would tell you how many
+[283.35 --> 287.85] limbs the creature was going to have, or what type of body symmetry it was going to have,
+[287.85 --> 292.33] whether it was going to be regenerative or not, or any of these other things. None of this is
+[292.33 --> 297.41] directly encoded in the DNA. What you see in the DNA is just the proteins. How do we know?
+[297.89 --> 302.75] Like, have we cracked the code? I mean, we know we can sequence the genome and know the protein
+[302.75 --> 309.43] sequence, but how do we know that that isn't somehow encoding some of these more discrete
+[309.43 --> 316.51] properties? Well, it's a subtle thing. So what the DNA, I'll jump right into the middle of the talk.
+[316.51 --> 322.75] So what I did at the beginning of the talk was to try to set up a couple of things that may be
+[322.75 --> 327.59] surprising to people. So one is this amazing ability of bodies to repair themselves. I showed
+[327.59 --> 332.23] one, for example, this creature known as the planarian flatworm, and these flatworms are able
+[332.23 --> 336.49] to regenerate any part of their body so they can be chopped into pieces. Every piece knows what a
+[336.49 --> 341.69] complete planarian looks like. It regrows exactly what's necessary, no more, no less. I also showed
+[341.69 --> 346.85] unicellular organisms that have one cell that are just, no brain, just one cell, but that are
+[346.85 --> 352.27] incredibly adept at behavior, at changing their body, changing their structure in order to
+[352.89 --> 357.51] fit their environment and so on. So I tried to get across the importance of understanding this kind
+[357.51 --> 364.85] of decision-making in biological tissues. Now, the DNA code has been cracked. We know exactly what
+[364.85 --> 370.45] the DNA actually encodes. The DNA actually encodes proteins. Now, down the line, of course, in an
+[370.45 --> 375.79] important sense, the DNA produces everything you need for the hardware of the body. So the proteins
+[375.79 --> 380.29] that are in the genome, that's what your body is going to be made of. So hardware is critical.
+[380.45 --> 384.65] Without hardware, you get nothing. However, hardware is only half the story. So the hardware that
+[384.65 --> 392.17] is produced by the DNA, some of these proteins are electrical conduits known as ion channels.
+[392.17 --> 397.79] And the thing about these ion channels is they can operate as little transistors. Some of them are
+[397.79 --> 402.23] voltage-gated current conductances, just like transistors. And this means that the hardware
+[402.23 --> 407.19] produced by that genome is electrically active. And it's not only electrically active, but the
+[407.19 --> 412.83] circuits that are present in these cells produce some very complex behaviors that allow symmetry
+[412.83 --> 420.11] breaking, self-organization, and decision-making in terms of pattern control at the large scale. So whole
+[420.11 --> 426.63] tissues, whole organs, whole appendages of bodies. So yes, the DNA is critical in that it establishes
+[426.63 --> 432.07] the hardware, but the software that runs on this hardware is not directly encoded anywhere in the
+[432.07 --> 439.07] DNA. It is the result of the electrical activity. So the DNA establishes the hardware, which creates the
+[439.07 --> 444.59] software that controls all these things, essentially? There's a default software that will run on this
+[444.59 --> 450.51] hardware if it's unperturbed. But the cool thing about the software is that it's very plastic and
+[450.51 --> 456.37] it's written and it operates in such a way that it makes it very easy for us to rewrite it. And so
+[456.37 --> 461.97] that means that we can intervene. And I showed numerous examples of us learning to intervene in
+[461.97 --> 468.41] the software to make the body into shapes that are entirely not what the genome default is.
+[469.91 --> 474.57] Are we talking about things like CRISPR or? Not at all. No. So no genomic editing whatsoever.
+[474.57 --> 478.19] Not genomic editing. No, not whatsoever. So the interesting thing about this approach,
+[478.19 --> 483.99] what makes it different is that another point I tried to make in the talk is that computer science,
+[484.07 --> 489.91] the reason computer science was able to drive this incredible revolution in information technology
+[489.91 --> 494.83] is that we moved from having to program at the level of hardware, which is where we were in the
+[494.83 --> 499.01] 40s. If you wanted to program a computer, you had to get in there and shift wires around. That was how
+[499.01 --> 504.23] we programmed. But now, because of the appreciation of the hardware-software distinction, we are able
+[504.23 --> 510.19] to work in these high-level programming formalisms where you can think about the information flow,
+[510.25 --> 514.37] the algorithm, and you're not worried about what the underlying hardware is. Because if the hardware
+[514.37 --> 518.73] is good enough, it can run lots of different kinds of software. And at that point, you can forget
+[518.73 --> 524.11] about the hardware and really focus on the algorithm. Our biological hardware is good enough. It is complex
+[524.11 --> 529.31] enough that it is able to run all sorts of interesting physiological software. There is
+[529.31 --> 534.57] some default that comes with, if you don't touch it, this is what it's going to do. But it is also
+[534.57 --> 540.57] a label such that we can rewrite it. And so what I've shown is rewriting the software without touching
+[540.57 --> 546.43] the hardware, meaning control what happens by input and experience rather than by changing the
+[546.43 --> 553.63] circuitry. There are two analogies that I will put forward. One is, at this point, we program our
+[553.63 --> 558.59] computers not by getting in there and melting bits of silicon here and there, but we have a keyboard.
+[558.77 --> 564.23] We have a way of entering information, not rewiring the physical hardware. And so everybody
+[564.23 --> 568.31] understands that the same piece of hardware, if it's decent, can run lots of different types of
+[568.31 --> 573.57] software. And the way you change it is by providing inputs that shift the electrical dynamics of the
+[573.57 --> 579.49] system without having to change the structure of it. The other analogy is with the brain. So the DNA
+[579.49 --> 584.41] certainly includes all of the proteins, instructions for all of the proteins that are required to make
+[584.41 --> 588.87] up your brain. But the information content of your brain is nowhere in the genome. And you couldn't
+[588.87 --> 594.47] dream of reading out the content of a person's memories and their mind or animals by looking at
+[594.47 --> 599.61] the genome. What you may recover from the genome is some default instinctual behavior. So for example,
+[600.23 --> 604.95] let's say some insects, wasps, you know, they're born knowing how to build a, you know, a thing to catch
+[604.95 --> 611.49] prey and all this. So the genome certainly gives rise to a neural network whose default behavior
+[611.49 --> 617.23] includes these kinds of interesting things that, that insects do. But other animals are also able
+[617.23 --> 622.17] to learn. And this means that you can have experiential inputs, information that they get
+[622.17 --> 626.83] through the visual, through other senses that radically change what their behavior is going to
+[626.83 --> 632.31] be down the line. Many circuits in the body have this kind of interesting plastic property. So some of
+[632.31 --> 636.97] the things that I've shown today, for example, one of the, one of the examples was we can take a flatworm
+[636.97 --> 642.91] that has a very particular shaped head and we can very transiently, briefly alter the electrical
+[642.91 --> 649.07] properties of that, of that animal such that when it regenerates a new head, it will make heads
+[649.07 --> 654.69] appropriate to other species of flatworms. Other species, 150 million years different. So the shape of
+[654.69 --> 659.51] the head is different. The shape of the brain is different. The stem cell distribution is appropriate to a
+[659.51 --> 665.77] completely different animal, 150 million years distant. The genome is untouched. We did not touch
+[665.77 --> 671.45] the genomic sequence because what the genomic sequence encodes is a body that can build a number
+[671.45 --> 676.21] of different types of structures. One of those structures is this other type of planarian head.
+[676.55 --> 682.87] I've shown other examples where we can induce different parts of the body. So for example, we can make
+[682.87 --> 688.61] a chunk of the gut of a frog embryo become an eye. And again, this is, this is the same thing because
+[689.09 --> 693.87] one of the things these electrical, as it turns out, one of the things these electrical networks do
+[693.87 --> 702.17] is they specify large scale anatomical decisions for the body. And so the decision of what organ
+[702.17 --> 708.57] shall I make at any given space in the, any given location in the body is dictated by the outcome of a
+[708.57 --> 712.85] complex electrical circuit. Downstream of that electrical circuit are all the familiar things
+[712.85 --> 716.87] people have heard about. So transcriptional cascades, genes turning on and off, physical
+[716.87 --> 724.05] forces, tension, stresses between cells, cells moving around, chromatin states. So, so all, all of these
+[724.05 --> 729.19] kinds of things. But many of these important decisions are made upstream by an electrical circuit,
+[729.19 --> 734.89] and we have the opportunity to intervene. And I've shown, I showed a number of examples of this where
+[734.89 --> 742.61] we can repair things that, for example, animals in which defects have been induced in genes that
+[742.61 --> 750.17] are required for brain development, for example. So we showed a bioelectrical fix, which is a strategy
+[750.17 --> 755.73] that repairs their brain. So basically by forcing the appropriate electrical states in that region of
+[755.73 --> 760.51] the body, they will build a correct brain with a correct structure, correct function, and even correct
+[760.51 --> 764.79] behavior. So these animals get their IQs back, despite the fact that they've had a genetic mutation,
+[764.79 --> 771.45] that normally takes out the brain completely, or that they've been exposed to a variety of horrible
+[771.45 --> 776.43] teratogens that normally cause really terrible defects. So there's the genome, there's the default
+[776.43 --> 781.43] set of things that happen normally, but that layer is very rich, and we get to intervene and make a number
+[781.43 --> 787.11] of changes. This is incredible. This kind of suggests that at least at some point, you know, there's a
+[787.11 --> 792.79] possibility of bioelectric medicine. Do we have any, you know, for humans, do we have any, you know, early
+[792.79 --> 797.63] indications of that being possible? Yeah, very much so. So we're working exactly on this. We're working
+[797.63 --> 802.89] on applications like limb regeneration, tumor reprogramming, repair of birth defects, all of
+[802.89 --> 809.43] these things I think are going to be part of human medicine. And one of the important things is that
+[809.43 --> 815.35] something like 20% of all drugs are ion channels, blockers, or activators. So this means that there's
+[815.35 --> 819.83] a huge tool. So we kind of already are starting to do this. Well, not, so they're all used for things
+[819.83 --> 825.51] like cardiac arrhythmias, epilepsy. So people use them to target neurons. But my big message today was
+[825.51 --> 834.97] that neurons are simply a sped up, sort of accelerated version of much more primitive ancient cells. So
+[834.97 --> 841.25] the cells were processing information in networks long before brains and neurons came on the scene.
+[841.25 --> 849.47] And while all of these drugs right now are being developed for problems in cardiac and neural
+[850.05 --> 855.03] kinds of syndromes, they form this amazing toolkit of electroceuticals that we've begun to
+[855.75 --> 861.61] apply them towards problems in tumor reprogramming, regenerative induction, repair, and so on. And so
+[861.61 --> 866.17] I absolutely think this is going to be part of human medicine. Yeah. One of the things that you were
+[866.17 --> 873.89] talking about in your talk was this notion of rewriting pattern memories. Is that this general
+[873.89 --> 878.13] concept that we've been discussing, or is there a more specific meaning to that? Well, I can give you
+[878.13 --> 886.35] a specific example, but it's part of that same idea. One of the things that we know is that even our
+[886.35 --> 892.35] unicellular ancestors, so single cells before they became multicellular, already had a lot of the
+[892.35 --> 898.21] machinery that we associate with decision-making and cognition. So synaptic proteins, ion channels,
+[899.17 --> 903.35] neurotransmitters, these things are extremely ancient. And cells and tissues were processing
+[903.35 --> 913.45] this information before we had brains. The way that they do this is by storing a bioelectric pre-patterns
+[913.45 --> 920.09] that are guideposts for what they're going to do if they're damaged. So I showed today an example where
+[920.09 --> 925.05] we can take a flatworm and in an intact flatworm, you can actually see, we've developed techniques
+[925.05 --> 929.65] to visualize some of these electrical memories. We can see these as stable electrical states in
+[929.65 --> 934.33] tissues, and we can go in and rewrite them. And when we rewrite them, what happens is initially
+[934.33 --> 939.29] nothing because that memory is latent. It's not being used. But if that animal gets injured in the
+[939.29 --> 943.57] future, so let's say we cut its head and its tail off, that middle fragment with a rewritten pattern
+[943.57 --> 949.71] memory will then go on to regenerate two heads, one at each end. So no tail, two heads at each end.
+[949.79 --> 954.69] And this is because we gave it a false memory. We gave it a false. Now this is a different kind of
+[954.69 --> 958.75] memory. It's not the kind of memory that lives in the brain about behavior. This is a memory that's
+[958.75 --> 963.71] distributed across the whole body that determines the behavior of the cells as they will try to recreate
+[963.71 --> 969.23] what they think a worm looks like. And this representation of the fact that a worm is supposed to have one head
+[969.23 --> 972.71] and one tail is not set in stone. We can rewrite it. And that's what we've done.
+[973.41 --> 982.39] It also calls to mind the whole idea of biological memory systems, like the human brain from a
+[982.39 --> 989.31] kind of storage perspective is a way more efficient memory store than DRAM that we use in computers.
+[989.71 --> 991.85] Are there clear implications to that?
+[992.07 --> 998.81] Yes, absolutely. So there are a number of applications of this work to machine learning and to AI in general.
+[999.23 --> 1005.25] Certainly living tissue is an incredibly dense information medium. There are networks made of
+[1005.25 --> 1012.43] cells within inside of each cell. There are incredibly complex molecular and also sub-cellular
+[1012.43 --> 1017.45] networks, things like the cytoskeleton, which process information in a distributed fashion in an
+[1017.45 --> 1024.59] incredibly dense and rich way. So I think as new media, as new excitable, unconventional media for
+[1024.59 --> 1028.95] computation, biological tissues have a lot to teach us. I think that's absolutely true.
+[1029.55 --> 1037.87] Some of the other implications are that biological systems are very, very good at adaptively
+[1039.29 --> 1047.33] altering their behavior and function in light of novel stressors. So a problem that we currently have
+[1047.33 --> 1051.55] in machine learning where some of these applications are really brittle. They're very good at doing one
+[1051.55 --> 1055.01] thing. You shift them to a slightly different problem and everything falls apart. Living things
+[1055.01 --> 1060.31] are the exact opposite of that. We have many examples of living structures that can adaptively
+[1060.31 --> 1067.65] respond to novel stressors in a very kind of efficient way. And this is something that we badly
+[1067.65 --> 1072.33] need in robotics and machine learning. And I think we're going to be able to get that by observing how
+[1072.33 --> 1075.53] cells and tissues make decisions in the kinds of experiments that we deal with.
+[1075.53 --> 1083.59] A lot of the mechanisms of machine learning are, you know, the manipulation of probability distributions.
+[1084.34 --> 1093.21] Do these kinds of bioelectric systems and signals within the body or other organisms, do they exhibit
+[1093.21 --> 1096.59] the same kind of probabilistic nature?
+[1096.59 --> 1103.37] Sure. They do. They do. So we've characterized several kinds of stochastic decision-making.
+[1103.61 --> 1112.07] Pretty much, we have an interesting review on this whole question. Pretty much every major concept
+[1112.07 --> 1119.25] in neuroscience and cognitive science that we've been able to find has an analog in somatic decision-making.
+[1119.25 --> 1125.99] So everything you can think of from memories to optical illusions to false memories to forgetting to inference
+[1125.99 --> 1134.33] to making mistakes to calculating forward for expectations in terms of anticipation. All of these concepts
+[1134.33 --> 1140.29] and many more have exact analogs outside the body. And I think one outside the brain rather. And I think one of the
+[1140.29 --> 1148.15] major implications of all this is that in developing new AI and machine learning technologies, we should not be trying
+[1148.15 --> 1156.25] to mimic the human brain. I think that a focus on architectures that try to mimic specific regions
+[1156.25 --> 1162.15] of the brain or specific processes in the brain or specific architectures are really looking at one very
+[1162.15 --> 1169.11] narrow and fairly recent evolutionary development. The kinds of things that we really want, which is robust,
+[1169.37 --> 1176.21] distributed, highly plastic performance and decision-making, these were things that were invented long before brains
+[1176.21 --> 1184.29] came on the scene. And those basic mechanisms still remain to be investigated and implemented in machine learning.
+[1184.91 --> 1193.25] Are there any kind of concrete examples of the intersection of machine learning and developmental bioelectricity to date?
+[1193.29 --> 1197.41] Or are you projecting into the future into a direction we need to go?
+[1197.57 --> 1203.09] There's two. I would think there's two branches of this. On the one hand, it's the question of what can machine learning do
+[1203.09 --> 1211.17] for regenerative medicine. And we have begun to develop and we need a lot more help with this and a lot more progress
+[1211.17 --> 1219.49] is available. This is a hugely exciting frontier area of using machine learning technology and strategies to help
+[1219.49 --> 1227.93] developmental biologists solve the problem of pattern control. What biologists are very, very good at
+[1227.93 --> 1234.37] is characterizing the molecular details of the hardware. We are basically where computer science
+[1234.37 --> 1241.01] was in the 40s. All we do is try to interface with the hardware. We try to push around single molecules.
+[1241.21 --> 1246.37] You know, all the fanciest papers in nature are all about how somebody can do something at a single molecule
+[1246.37 --> 1251.81] resolution. This is what we're very good at. What we're terrible at is solving the inverse problem of asking
+[1251.81 --> 1258.87] what do we need to tweak at the low level to get a desired systems level outcome. So if we have a fetus
+[1258.87 --> 1265.83] that's going to have three fingers instead of five, the question of what exactly do we need to tweak at the
+[1265.83 --> 1271.21] lowest level to get a particular outcome or to fix a certain organ or the shape of the face or something
+[1271.21 --> 1278.79] like this, we're actually really, really bad at that. And so using, meanwhile, the data on these low level
+[1278.79 --> 1285.31] pathways grows exponentially. So people keep sequencing things. This kind of deep data is just
+[1285.31 --> 1292.83] increasing in an incredible fashion. But this has already exceeded the human ability to synthesize
+[1292.83 --> 1299.93] all of these data into some sort of model that can be reversed so that we can ask, what would we have
+[1299.93 --> 1304.85] to do to get a particular anatomical outcome? So machine learning tools to help us with this problem
+[1304.85 --> 1309.83] are absolutely essential for regenerative medicine to move forward. And we've had a little bit of
+[1309.83 --> 1315.81] success with this. We've developed some genetic algorithm-based machine learning platforms that
+[1315.81 --> 1320.91] have actually helped us discover models of how some of these things work. It's kind of amazing. We made
+[1320.91 --> 1327.37] what I think is the first, this was a couple of years ago, what I think is the first example of a model
+[1327.37 --> 1331.59] in developmental biology that was discovered by a non-human intelligence. So basically, we have a
+[1331.59 --> 1336.59] platform that was able to derive a model, not just crunch the numbers, but actually come up with a
+[1336.59 --> 1342.29] theory of what was going on inside that planarian flatworm that was better able to explain all the
+[1342.29 --> 1346.07] experiments than existing models that humans have come up with. So I think this is the tip of the
+[1346.07 --> 1352.89] iceberg. We have to do better with this and give people tools to help extract wisdom from this mountain
+[1352.89 --> 1357.53] of data that we have. Going in the opposite direction, this is really just starting, and I don't have anything
+[1357.53 --> 1362.63] specific to point to other than people have started to look at things like slime molds, like
+[1362.63 --> 1369.39] ant colonies, like bacterial biofilms as models for computation. And there are people like Andrew
+[1369.39 --> 1376.61] Radomatsky and others who are using some of these kinds of unconventional media as very simple
+[1376.61 --> 1383.03] computers with the idea of understanding how they do what they do and trying to implement some of these
+[1383.03 --> 1387.75] disadvantages in robotics. And we're doing this too. We have collaborations with people like Josh
+[1387.75 --> 1394.25] Bongard at University of Vermont who make robots and trying to really squeeze some insights out of
+[1394.25 --> 1400.97] these biological systems for much better technology. Really fascinating work, Michael. Thanks so much for
+[1400.97 --> 1407.11] taking the time to share with us. Any kind of final thoughts or suggestions for folks that want to dig into
+[1407.11 --> 1413.29] this in a little bit more detail? Yeah, the biggest thing I can suggest is to drop me an email because
+[1413.29 --> 1417.87] we are always very interested in collaborating with people from the machine learning community. I think
+[1417.87 --> 1424.11] there are huge opportunities in both directions for enriching the progress. And so you can reach me
+[1424.11 --> 1431.63] at michael.levin.tufts.edu. And if you drop me an email, I will get back to you and you can see all of the
+[1431.63 --> 1436.81] data we have. There's lots of code that we've written. And I would love to talk to experts in this field for
+[1436.81 --> 1446.20] working together. Fantastic. Thanks so much, Michael. Thank you very much. All right, everyone. That's
+[1446.20 --> 1451.38] our show for today. To learn more about today's guest or the topics mentioned in this interview,
+[1451.82 --> 1458.50] visit twimla.com. Of course, if you like what you hear on the podcast, please subscribe, rate,
+[1458.66 --> 1464.54] and review the show on your favorite podcatcher. Thanks so much for listening and catch you next time.
