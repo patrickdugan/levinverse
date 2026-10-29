@@ -12,6 +12,7 @@ from levinverse.podcast_audio import resolve
 from levinverse.directory import classify
 from levinverse.harvest import render_transcript, save_transcript
 from levinverse.platforms import collect as collect_platforms
+from levinverse.reconcile import reconcile, title_contains_video_title
 from levinverse.store import read_jsonl, upsert
 
 
@@ -81,6 +82,26 @@ class SourceTests(unittest.TestCase):
         self.assertEqual("match", publisher_title_match("Dr. Michael Levin and Dr. Mark Solms on Consciousness, Cognition and Opponent Processing", "The Meaning Code", known))
         self.assertIsNone(publisher_title_match("Michael Levin on another topic", "The Meaning Code", known))
         self.assertIsNone(publisher_title_match("Dr. Michael Levin and Mark Solms on Consciousness, Cognition and Opponent Processing", "Different publisher", known))
+
+    def test_title_reconciliation_requires_the_distinctive_whole_video_title(self):
+        self.assertTrue(title_contains_video_title("187 - Michael Levin: The New Era of Cognitive Biorobotics", "The New Era of Cognitive Biorobotics"))
+        self.assertFalse(title_contains_video_title("Michael Levin on Cognitive Biorobotics", "The New Era of Cognitive Biorobotics"))
+
+    def test_stored_episode_links_only_a_matching_publisher_and_title(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            text = root / "transcripts/permitted/fixture.txt"
+            text.parent.mkdir(parents=True)
+            text.write_text("Fixture speech.", encoding="utf-8")
+            video = {"video_id": "abcdefghijk", "canonical_url": "https://www.youtube.com/watch?v=abcdefghijk", "title": "The New Era of Cognitive Biorobotics", "host": "Robinson's Podcast"}
+            upsert(root / "catalog/videos.jsonl", [video], "video_id")
+            episode = {"episode_id": "episode-1", "source_url": "https://example.org/episode", "feed_url": "https://example.org/feed", "title": "187 - Michael Levin: The New Era of Cognitive Biorobotics", "show": "Robinson's Podcast"}
+            upsert(root / "catalog/rss-episodes.jsonl", [episode], "episode_id")
+            upsert(root / "catalog/transcripts.jsonl", [{"transcript_id": "whisper-episode-1", "source_url": episode["source_url"], "status": "stored", "text_path": text.relative_to(root).as_posix(), "video_ids": [], "source_kind": "local_whisper"}], "transcript_id")
+            self.assertEqual(1, reconcile(root)["inferred_video_links"])
+            self.assertEqual(0, reconcile(root)["inferred_video_links"])
+            self.assertEqual(["abcdefghijk"], read_jsonl(root / "catalog/transcripts.jsonl")[0]["video_ids"])
+            self.assertEqual("publisher_and_title_match", read_jsonl(root / "catalog/videos.jsonl")[0]["transcript_video_link_method"])
 
     def test_existing_episode_match_requires_publisher_or_identical_enclosure(self):
         record = {"transcript_id": "fixture", "source_url": "https://publisher.org/transcript", "title": "Michael Levin on Growth Form Information Cognition and Self", "audio_url": "https://media.example.org/one.mp3"}

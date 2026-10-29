@@ -103,6 +103,7 @@ def generate_report(root: Path) -> str:
         "stored_transcript_source_records": len(stored_registry),
         "publisher_duplicate_sources": sum(bool(r.get("duplicate_of")) for r in stored_registry),
         "video_ids_with_stored_transcripts": len(stored_video_ids),
+        "video_ids_with_inferred_publisher_title_links": sum(v["video_id"] in stored_video_ids and v.get("transcript_video_link_method") == "publisher_and_title_match" for v in videos),
         "video_ids_without_stored_transcripts": len(videos) - len(stored_video_ids),
         "publisher_records_requiring_participation_review": sum(r.get("status") == "participation_review_required" for r in registry),
         "publisher_records_without_transcript": sum(r.get("status") == "no_publisher_transcript" for r in registry),
