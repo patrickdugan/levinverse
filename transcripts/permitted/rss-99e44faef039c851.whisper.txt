@@ -1,0 +1,883 @@
+[0.00 --> 2.44] You know, we like to think we understand what makes something alive.
+[2.60 --> 5.56] DNA, evolution, natural selection, the usual suspects.
+[5.74 --> 9.82] But what if I told you that cells from your own trachea sitting in a petri dish right now
+[9.82 --> 13.20] could spontaneously organize into swimming robots that heal brain tissue?
+[13.34 --> 16.12] What if frog skin cells with no genetic modification whatsoever
+[16.12 --> 19.12] could build copies of themselves from spare parts lying around?
+[19.26 --> 20.24] This isn't science fiction.
+[20.40 --> 22.54] This is the work of Michael Levin at Tufts University,
+[22.54 --> 24.74] and it's completely rewriting the rules of biology.
+[24.88 --> 27.98] So we took cells from adult human patients, tracheal epithelial cells.
+[27.98 --> 31.22] Turns out that they, too, come together and form these little motile creatures.
+[31.24 --> 32.18] We call them anthrobots.
+[32.32 --> 35.36] Those guys have 9,000 differently expressed genes,
+[35.44 --> 39.00] and they can do cool things like they can heal neural wounds.
+[39.10 --> 40.64] This is just the tip of the iceberg.
+[40.84 --> 44.92] Michael Levin's research challenges a fundamental understanding of what life is
+[44.92 --> 47.52] and where biological properties emerge from.
+[47.64 --> 50.34] Michael Levin is a distinguished biologist at Tufts University
+[50.34 --> 52.28] and director of the Allen Discovery Center,
+[52.28 --> 55.94] whose groundbreaking research on bioelectricity and regenerative biology
+[55.94 --> 61.38] is reshaping our understanding of how biological systems process information and pursue goals.
+[61.52 --> 64.08] His xenobots, living robots built from frog cells,
+[64.22 --> 67.70] swim around, work together, and reproduce in ways that have never existed on Earth.
+[67.80 --> 71.42] What does this tell us about consciousness, intelligence, and the nature of life itself?
+[71.66 --> 74.76] Professor Michael Levin, welcome to the Into the Impossible podcast.
+[75.14 --> 75.80] Thank you for having me.
+[75.90 --> 76.44] It's great to see you.
+[76.56 --> 78.12] We have so many questions.
+[78.28 --> 80.82] We'll run out of time before we run out of questions, I'm sure.
+[80.82 --> 84.26] But I want to first start with the big picture question.
+[84.76 --> 88.82] Why is electricity, of all the fundamental forces of nature,
+[89.18 --> 91.66] nuclear forces, strong and weak, gravitation,
+[92.00 --> 96.54] why is it that electricity and not, say, magnetism plays such an outsized role
+[96.54 --> 100.02] when we know that electricity and magnetism are unified via Maxwell's equation?
+[100.02 --> 102.90] So why does electricity play a bigger role than, say,
+[103.30 --> 105.34] these magnets here that I have on my desk do?
+[105.34 --> 110.36] It is certainly the case that living tissue is sensitive to magnetic fields,
+[111.54 --> 114.62] electromagnetism, you know, ultra weak photons are important.
+[114.74 --> 116.28] All of these things are important.
+[116.46 --> 121.92] I have no idea if biology can harness the stronger than, you know, or the weak force.
+[122.10 --> 123.02] I just don't know.
+[123.46 --> 123.90] You can do it.
+[124.24 --> 124.94] Yeah, maybe.
+[125.24 --> 126.28] I don't know.
+[126.42 --> 129.90] But the special thing about electricity at this point is the following.
+[130.08 --> 135.06] It is a really convenient modality to serve as what I call cognitive glue.
+[135.06 --> 137.30] There are other things that do it.
+[137.42 --> 139.70] There are other things that could do it elsewhere in the universe.
+[139.70 --> 143.00] I'm sure, you know, it's done by other mechanisms if there's life elsewhere.
+[143.00 --> 146.54] But here's the thing that evolution loves about bioelectricity.
+[146.64 --> 152.28] It's a very convenient way to make electrical networks out of subunits, right?
+[152.38 --> 158.86] So group subunits into bigger things in a way that allows the whole to have goals,
+[158.98 --> 163.16] memories, preferences, and, you know, basically problem-solving behavior
+[163.16 --> 165.04] that the individual pieces don't have.
+[165.16 --> 168.14] It allows a raising of levels, so to speak.
+[168.26 --> 169.90] And we can go into great detail how it does it.
+[170.20 --> 173.26] But basically, the exact same thing that electricity is doing in your brain,
+[173.60 --> 176.80] which makes you more than the sum of, than just a pile of neurons,
+[176.96 --> 180.00] it has been doing that for bodies, multicellular bodies,
+[180.02 --> 182.02] long before neurons ever came on the scene.
+[182.36 --> 187.16] It's a way to scale up the cognitive light cone of materials, basically.
+[187.16 --> 190.78] We'll get to the cognitive light cone, because it's impossible for a physicist.
+[190.98 --> 196.40] That's like, you know, bait for a physicist to evoke Einstein and all sorts of other things.
+[196.62 --> 199.86] But before I get there, you know, when I think about electricity,
+[199.86 --> 202.12] when I think about it as a physicist,
+[202.12 --> 205.94] I don't normally associate it with things that are squishy.
+[206.12 --> 209.92] And unless, you know, somebody threw a toaster in the bathtub,
+[210.42 --> 211.82] and that would be quite dangerous.
+[211.82 --> 213.20] Obviously, we're not recommending that.
+[213.20 --> 218.70] But talk about how electricity even arises, and on what scales does it manifest?
+[218.84 --> 221.04] I mean, we don't see little anodes and cathodes,
+[221.18 --> 224.06] or, you know, positive and negative terminals on cells.
+[224.16 --> 227.42] So how does it instantiate itself in a mechanistic way?
+[227.48 --> 228.32] And you can be very technical.
+[228.54 --> 233.74] I mean, my audience is, you know, one of the most magnificent and mindful in the known multiverse.
+[234.02 --> 239.26] So talk us through, how is a cell like a battery or a magnet
+[239.26 --> 242.98] with these kind of polarities and dipoles and everything associated with it?
+[242.98 --> 249.90] Yeah, no, cells absolutely have charged particles that typically ions of potassium,
+[250.12 --> 251.48] sodium, chloride, and things like this.
+[251.62 --> 255.40] And what happens is, and the best way to anchor these kinds of discussions
+[255.40 --> 257.16] is by thinking about what happens in neuroscience.
+[257.32 --> 264.16] So we understand that our cognition is underwritten by the bioelectricity
+[264.16 --> 266.58] that operates in individual neurons,
+[266.62 --> 269.48] and then in groups of neurons and other cells in the brain.
+[269.48 --> 273.34] So what happens is you have cells, and in their plasma membrane,
+[273.52 --> 276.50] which is basically this lipid kind of membrane,
+[276.50 --> 278.52] that's usually a pretty good insulator.
+[278.84 --> 283.16] What evolution has discovered are special kinds of proteins called ion channels.
+[283.38 --> 285.72] And these ion channels have some really interesting properties
+[285.72 --> 291.38] where they let certain charged species like potassium, chloride, sodium, and so on.
+[291.38 --> 294.88] They either preferentially let them in or out of the cell.
+[295.06 --> 297.44] And as a result, what you end up with is a voltage gradient.
+[297.72 --> 302.14] Now, the gradient itself might be on the scale of, let's say, 80 millivolts in neurons,
+[302.28 --> 302.88] something like that.
+[303.00 --> 307.04] But because the width across the membrane is actually extremely small,
+[307.08 --> 309.94] and I don't remember the exact numbers,
+[310.10 --> 314.22] but it's basically the actual field across that tiny distance is enormous.
+[314.22 --> 319.20] And what happens then is that you have these voltage gradients,
+[319.78 --> 321.62] and two things can happen.
+[321.78 --> 327.58] One is that the ion channels that regulate the voltage can be themselves voltage sensitive,
+[327.84 --> 331.30] which means that what you really have is a voltage sensitive current conductance,
+[331.60 --> 332.52] aka a transistor.
+[332.76 --> 334.20] And you can imagine that once you have that,
+[334.32 --> 336.02] you can do all sorts of cool computations.
+[336.24 --> 340.34] And then the other thing that happens is that there are these electrical synapses
+[340.34 --> 345.68] between adjacent cells, and those synapses also can be voltage sensitive.
+[345.82 --> 347.28] So what you actually have is a network.
+[347.44 --> 350.36] You have an electrical network through which voltage states can propagate.
+[350.58 --> 353.58] So many cells, I mean, in fact, all cells in the body
+[353.58 --> 355.26] generate these kind of voltage gradients,
+[355.38 --> 359.02] and most of them have these synapses by which they form into networks
+[359.02 --> 362.46] that process information using the cell electrical,
+[362.70 --> 364.66] the differences in electrical potential.
+[364.90 --> 366.88] And it's exactly what happens in your brain, basically.
+[367.06 --> 368.60] Yeah, so we'll get to the brain later.
+[368.60 --> 373.00] I've got a 3D printed brain that my son made for a conversation
+[373.86 --> 377.96] with Roger Penrose at one point field here, but I couldn't get it to work.
+[378.06 --> 379.16] So we'll talk about consciousness later.
+[379.40 --> 382.98] But I guess if we had to quantify it as a circuit, you know,
+[383.06 --> 387.00] and let's apply Kirchhoff's laws from your native Russia, as I understand,
+[387.22 --> 389.12] or I guess you were born in the Soviet Union.
+[389.30 --> 389.68] Is that true?
+[389.88 --> 390.44] True, true.
+[391.30 --> 394.98] So Kirchhoff had these famous laws that governed how current voltage,
+[395.18 --> 396.98] resistance, et cetera, are related in a circuit.
+[397.12 --> 397.90] Let's walk through it.
+[397.90 --> 400.78] What kind of potentials are we talking about?
+[400.84 --> 405.68] Kind of voltages, currents, resistances, conductances, and even magnetic fields,
+[405.70 --> 410.54] if you have anything to say about how those might play into understanding
+[410.54 --> 413.48] the biochemistry, bioelectricity of life.
+[413.66 --> 414.14] Sure, yeah.
+[414.54 --> 417.98] So the typical voltage changes that you're talking about in cells
+[417.98 --> 421.00] are on the scale of tens of millivolts.
+[421.00 --> 427.04] So what you will have are, so in the neural case, you have cells that normally sit at about,
+[427.16 --> 431.80] I don't know, minus 70, let's say minus 80, with the inside being more negative than the outside.
+[432.10 --> 436.00] And then in the non-neural bioelectricity, which is the far more ancient version,
+[436.18 --> 441.90] in typical somatic cells, you will be anywhere from, let's say, 10, you know,
+[441.96 --> 446.44] negative 10 millivolts up to, again, maybe minus 70, minus 80, something like that.
+[446.44 --> 451.68] So it's the differences in that voltage between a cell and its neighbor that matter.
+[451.86 --> 456.94] So what cells actually track and interpret are the spatial patterns,
+[457.24 --> 458.58] the differences across space.
+[458.58 --> 460.04] You have a whole bunch of cells in there.
+[460.26 --> 462.18] If you look, and we developed, back in 2000,
+[462.36 --> 465.98] we developed the first tools to read and write this electrical information
+[465.98 --> 466.88] outside the brain.
+[466.96 --> 468.96] Neurosciences have been doing it for a long time.
+[468.96 --> 474.88] We developed the first molecular tools to literally take a picture and then a video
+[474.88 --> 477.30] of these voltage gradients and tissues.
+[477.44 --> 480.66] And you can, so you can see them propagating across distance.
+[480.92 --> 484.22] And it is those differences that cells read.
+[484.42 --> 486.82] Now, as you mentioned, magnetic fields.
+[487.24 --> 491.54] So typically, of course, movement of charges absolutely makes magnetic fields, right?
+[491.86 --> 497.46] And the magnetic fields in the brain are quite sizable because the voltage spiking is so fast.
+[497.46 --> 500.60] So, you know, milliseconds, we're talking about milliseconds change.
+[500.74 --> 504.88] And so that generates a, you know, that DBDT generates a pretty good magnetic field,
+[505.00 --> 507.86] which people, of course, read with, you know, various devices.
+[508.02 --> 511.80] The non-neural bioelectricity that we deal with changes very slowly.
+[512.10 --> 516.52] And it's the magnetic fields that are induced there are extremely low.
+[516.72 --> 520.26] I'm not going to say that cells don't respond to those,
+[520.38 --> 525.02] but there isn't any evidence that I'm aware of right now that those extremely low level fields.
+[525.02 --> 526.92] Now, having said that, I know I'm going to get in trouble.
+[527.04 --> 528.78] People are going to yell at me because, because absolutely,
+[529.20 --> 531.26] like living things do care about magnetic fields.
+[531.46 --> 534.00] They sense the earth's geomagnetic field, which is about, you know,
+[534.08 --> 535.18] half a gauss, something like that.
+[535.50 --> 537.70] So those things are absolutely important.
+[537.70 --> 542.60] But the magnetic fields induced by non-neural bioelectricity are unbelievably weak.
+[542.64 --> 545.06] And I don't know of any evidence that they play a role.
+[545.30 --> 547.18] The electric changes absolutely play a role.
+[547.30 --> 552.10] Are there species that don't have as manifest an importance of bioelectricity
+[552.10 --> 554.74] in their electrophysiology or lack thereof?
+[556.10 --> 557.20] Well, let's see.
+[557.32 --> 560.94] I mean, so, for example, something like C. elegans, the nematode.
+[561.04 --> 563.44] I mean, they have neurons, so they definitely have neural bioelectricity.
+[563.70 --> 567.02] But I am not aware of any evidence yet.
+[567.22 --> 569.66] Now, there are people working on this, and so this could totally change.
+[569.86 --> 576.22] But I'm not aware of any stories about the importance of developmental bioelectricity in that model.
+[576.52 --> 578.46] And my guess is it will change.
+[578.54 --> 580.06] I think evolution just loves it.
+[580.06 --> 583.66] It first discovered these things around the time of bacterial biofilms.
+[583.80 --> 591.58] So there's a very nice paper by Grohl Suell from UCSD who shows brain-like signaling in biofilms.
+[591.82 --> 593.66] So it's a very ancient phenomenon.
+[593.92 --> 598.50] Yeah, I've had an Allison Miotry who's worked on brain organoids and launched them into space
+[598.50 --> 599.34] and a little bit about it.
+[599.42 --> 603.08] But when I look at the, you know, I'm going to keep nerding out about the physics of circuits
+[603.08 --> 607.24] because I love to solder and do stuff, although that would be quite dangerous in the human body.
+[607.24 --> 610.92] But, you know, looking at voltages at the, you know, tens to hundreds of millivolts
+[610.92 --> 617.08] and then thinking about, you know, human cells as, you know, not that dissimilar from C. elegans or something,
+[617.20 --> 618.82] you know, just scaled up trillions of times.
+[619.20 --> 622.16] I mean, how is it possible to go from something where, you know,
+[622.22 --> 625.96] there's essentially no voltage currents, you know, at a measurable level
+[625.96 --> 629.52] to actual macroscopic voltages that we can measure quite easily here.
+[629.52 --> 632.68] I can measure my heart rate using my Apple Watch, right?
+[632.80 --> 635.54] I mean, I know that to be a fact.
+[635.70 --> 640.24] So, and how long before we have electro, you know, encephalograms on our wrists?
+[640.28 --> 643.06] I have some meditation program that supposedly does that already.
+[643.18 --> 647.26] So walk us through the kind of reductionist or anti-reductionist.
+[647.36 --> 652.78] You know, how do we go from basically nothing in, you know, eukaryotic cell,
+[652.78 --> 657.20] our prokaryotic cells, I think, came first, right, to then these eukaryotic cells
+[657.20 --> 662.50] and even complex worms and creatures and so forth that have very little electrophysiology
+[662.50 --> 666.52] to humans, which have huge amounts by comparison of, you know, milliamps
+[666.52 --> 670.44] and millivolts or, you know, intensive volts.
+[670.78 --> 674.04] Yeah, well, I mean, to be clear, I'm not aware of any creature,
+[674.18 --> 678.08] including bacteria and various microbes that don't have these phenomena.
+[678.24 --> 679.08] These go all the way down.
+[679.16 --> 682.72] When I mentioned C. elegans, I simply meant that I wasn't aware of a morphogen
+[682.72 --> 684.86] role in that species for bioelectrics.
+[685.08 --> 689.72] But, I mean, you know, Kaushlin did the studies where you say,
+[689.84 --> 691.94] we talk about bacteria as a model neuron.
+[692.38 --> 697.28] And these, you know, basically, if you think about the earliest kind of steps towards life,
+[697.74 --> 699.76] you know, just imagine you've got some kind of membrane
+[699.76 --> 703.20] that is the first attempt to separate the inside from outside.
+[703.44 --> 706.02] Yeah, that you've got some kind of barrier that tries to keep the goodies in
+[706.02 --> 707.92] and the dangerous external world out.
+[708.26 --> 712.08] Well, as soon as you've done that, as soon as you've segregated molecules,
+[712.08 --> 714.72] chances are you're going to have an electrical imbalance
+[714.72 --> 718.74] because you're keeping something inside, you're concentrating it against the gradient.
+[718.94 --> 720.78] You're going to have a voltage imbalance.
+[721.04 --> 725.40] And when you do, then some other very cool things happen as free gifts from physics.
+[725.56 --> 728.40] So, for example, if you have a system like this and you poke it,
+[728.68 --> 729.82] let's say it gets injured, right?
+[729.90 --> 733.16] It runs into something that injures and pokes a hole through the membrane.
+[733.64 --> 737.96] Immediately that you're going to have an injury current that's going to try to go through that location
+[737.96 --> 739.64] to try to equalize the voltage rating.
+[740.22 --> 744.18] And so, for free now, without having to evolve any kind of additional mechanisms,
+[744.42 --> 746.02] you now have a vector to the damage.
+[746.20 --> 747.70] You know exactly where your damage was.
+[747.82 --> 750.84] And you know that you've been injured because now your voltage is dropping,
+[750.96 --> 751.84] so you're depolarizing.
+[752.10 --> 756.26] I would venture to guess that that's the first physical correlate of pain.
+[757.36 --> 761.72] And you also know immediately where the damage is because that's where the field lines are going.
+[761.72 --> 763.46] And so, all of that you get for free.
+[763.60 --> 771.24] So, this is just one example of the many amazing kind of free lunches that biology makes use of in physics.
+[771.42 --> 773.34] This video is sponsored by Superhuman.
+[773.64 --> 775.72] Ever feel like your inbox is a black hole?
+[775.88 --> 780.04] No matter how much you scroll, the dreaded, unread count just keeps growing.
+[780.28 --> 783.76] Your deadlines are vanishing like they're beyond the event horizon.
+[783.96 --> 786.62] That urgent collaborator message, it's out there somewhere.
+[786.76 --> 791.12] But finding it is going to be harder than hurting thousands of Schrodinger's cats.
+[791.12 --> 793.94] You tried AI add-ons before, haven't you?
+[794.10 --> 797.52] But let's be honest, they're slow, clunky, and the drafts sound like they're written
+[797.52 --> 801.40] by a grant reviewer who skimmed the abstract with too little coffee.
+[801.62 --> 806.12] Searching for that one important email feels like scanning the cosmic microwave background,
+[806.40 --> 808.64] hoping that your signal just isn't dust.
+[809.00 --> 811.42] Superhuman has transformed the way that I work.
+[811.70 --> 814.98] Imagine if your inbox didn't fight you, but it worked for you,
+[815.12 --> 817.34] like your brilliant and tireless graduate students.
+[817.52 --> 819.30] That's the transformation with Superhuman.
+[819.30 --> 821.74] It's the leading AI native email app.
+[821.92 --> 825.72] One that never misses proposals, never forgets referee replies,
+[825.82 --> 827.92] and always knows what matters most.
+[828.06 --> 832.28] From your family, to your friends, to your academic colleagues, students, and more,
+[832.68 --> 837.14] take thousands of unread emails into automatic organizational bliss.
+[837.66 --> 841.18] Auto-labels and auto-archive clear the clutter in my inbox.
+[841.46 --> 844.16] Split Inbox keeps urgent messages in focus.
+[844.16 --> 849.94] And Superhuman Calendar, Instant Event, and Ask AI makes scheduling seem like magic.
+[850.28 --> 852.62] From missed opportunities to automatic follow-ups,
+[852.84 --> 856.56] with Right With AI, drafts materialize faster than at Pulsar Pulses,
+[856.80 --> 859.26] perfectly timed and put into your voice.
+[859.70 --> 862.78] Auto-reminders and auto-drafts mean you never drop the ball,
+[862.96 --> 867.88] even if your collaborators take their sweet time collapsing their email reply wave functions.
+[867.88 --> 871.84] This is the emotional shift that I've experienced from stressed and overwhelmed
+[871.84 --> 873.90] to in control and mentally clear.
+[874.10 --> 877.74] No inbox singularities, just focus, clarity, and time back
+[877.74 --> 881.42] to finally read that paper you've been citing without actually opening.
+[881.66 --> 884.88] Escape the gravitational pull of email inbox overwhelm
+[884.88 --> 887.86] and experience Superhuman Transformation.
+[888.04 --> 891.28] Get started with one month free of Superhuman today using my link below.
+[891.28 --> 897.80] So, when I look at the kinds of ways that medical technology has been brought over from physics,
+[898.02 --> 900.92] I mean, one of those is something like a defibrillator,
+[901.12 --> 904.82] which, you know, will provide, you know, on a very short time scale,
+[905.08 --> 909.40] still, you know, huge amounts, you know, 30 amps or something occurring at 1,000 volts,
+[909.70 --> 911.24] but only for milliseconds of time.
+[911.86 --> 915.66] And as I've understood it, you know, the heart thrives on regularity
+[915.66 --> 918.54] and the brain sort of thrives on irregularity,
+[918.68 --> 922.24] although I'm kind of, I'm certainly messing up, you know, the terminology here.
+[922.36 --> 925.42] But can we talk about, like, how does, how do the cells know,
+[925.80 --> 927.58] you know, I guess it's part of the genotype,
+[927.58 --> 930.44] but how do they know, you know, for a brain cell,
+[930.60 --> 934.86] it would be very damaging to have a defibrillator sort of device?
+[935.10 --> 938.38] I mean, that would be maybe like electroshock therapy or something,
+[938.52 --> 941.20] which is basically outlawed, versus a heart cell,
+[941.34 --> 943.74] which says, you know, bring it on when I'm not feeling rhythmic.
+[943.74 --> 950.20] How do these bioelectric properties get instantiated in the cells,
+[950.38 --> 954.20] you know, rather than just kind of being scattershot through in every cell,
+[954.40 --> 958.64] basically reacting to voltages, currents, magnetic fields, frequencies, all the same.
+[958.78 --> 959.60] How does that work?
+[959.86 --> 960.04] Yeah.
+[960.84 --> 964.10] Well, what happens is that these cells,
+[964.34 --> 968.24] there are multiple scales of circuits here.
+[968.40 --> 970.56] So within a single cell, within any one cell,
+[970.56 --> 974.24] there is a circuit formed by the different ion channels that exist.
+[974.52 --> 977.40] So you've got ion channels that pass different kinds of ions,
+[977.52 --> 978.70] so positive and negative charges,
+[978.70 --> 981.46] and they have different sensitivities to the voltage.
+[981.60 --> 984.76] In other words, you can very easily imagine putting together some kind of a regulator
+[984.76 --> 986.86] that's going to keep the voltage roughly in,
+[987.06 --> 989.20] you know, some kind of homeostat that's going to keep the voltage
+[989.20 --> 991.72] in roughly the right category, range.
+[991.72 --> 993.84] So, so that's, that's the first thing that happens.
+[993.94 --> 995.82] The second thing that happens is that now you have these,
+[995.94 --> 998.16] and they are arranged in a network,
+[998.16 --> 999.74] because they're not sitting there by themselves.
+[999.96 --> 1002.68] Well, in unicellular organisms, they are amoebas and things like that.
+[1002.88 --> 1006.24] But, but in a multicellular body, all of these things are connected into a network.
+[1006.52 --> 1009.00] And so now you have a circuit of circuits, right?
+[1009.22 --> 1011.22] And, and, and so now you've got to the tissue level,
+[1011.38 --> 1012.96] and then the organ level, and, and so on.
+[1013.06 --> 1014.62] And so you've got circuits of circuits of circuits.
+[1014.90 --> 1017.60] Each level here has its own robustness properties.
+[1017.92 --> 1020.38] Each level has its own sensitivities and thresholds,
+[1020.38 --> 1022.76] such that when something interesting happens, it does kick off.
+[1023.02 --> 1025.72] It does do symmetry breaking and kick off various kinds of
+[1026.98 --> 1028.66] process, you know, amplification processes.
+[1029.08 --> 1031.14] And, and you've got different kinds of computation.
+[1031.36 --> 1033.98] So there are cells that are using these voltages to compute it.
+[1034.06 --> 1036.62] There are cell groups and tissues and organs and so on.
+[1036.84 --> 1037.88] So all of these things.
+[1038.02 --> 1041.48] And, and we now, the, the cool thing is that we now have simulators of all of this.
+[1041.76 --> 1046.60] So, you know, the first one was my, my colleague, Alexis Pytak,
+[1046.70 --> 1049.90] created this thing called Betsy, the bioelectric.
+[1051.00 --> 1051.96] Tissue simulation environment.
+[1052.20 --> 1054.66] And you can, you can, you can lay out a bunch of cells and you can say,
+[1055.08 --> 1056.84] here are the channels that are going to be expressed.
+[1057.16 --> 1059.22] Now go run, tell me, tell me what's going to happen.
+[1059.36 --> 1061.14] And then you can do all kinds of cool experiments, right?
+[1061.28 --> 1063.84] So, so you can say, okay, does it do pattern completion?
+[1063.84 --> 1066.94] The way that we see in flatworms where you cut off a piece of it and you say,
+[1066.94 --> 1069.36] what happens to the, to the rest of the voltage pattern?
+[1069.36 --> 1071.86] If we just cut, you know, we just killed a bunch of cells, what happened?
+[1072.24 --> 1074.18] And, and you can watch these things rescale.
+[1074.30 --> 1076.94] And the, you know, some of them have really interesting memory properties such that
+[1076.94 --> 1079.50] when you change the voltage, they remember it and they keep it.
+[1079.62 --> 1081.68] And so like a, like a, like a, like an electric memory.
+[1081.84 --> 1084.08] So yeah, so we, we have simulators now for all this stuff.
+[1084.14 --> 1087.96] And this is a very active area of development actually to be able to predict and,
+[1087.96 --> 1089.14] and infer intervention.
+[1089.14 --> 1092.14] So you could say, you know, if I wanted the voltage to be this or that,
+[1092.32 --> 1093.28] what, what would I need to do?
+[1093.42 --> 1095.16] And so that's the computational side.
+[1095.32 --> 1098.16] Would there be any implantables or would that involve, you know,
+[1098.40 --> 1102.24] external stimuli and response or how, how has that brought into effect?
+[1102.24 --> 1103.86] Yeah. Yeah. Great, great question.
+[1104.06 --> 1108.48] The technology for this actually right now is really not about electrodes.
+[1109.16 --> 1110.76] Electrodes are really good at two things.
+[1110.88 --> 1111.54] They're really good.
+[1111.66 --> 1113.72] So this is the implantables kind of idea that they're,
+[1113.72 --> 1115.50] they're really good at spiking neurons.
+[1115.80 --> 1120.22] So there's some, there's some beautiful work on the peripheral nervous system and the,
+[1120.22 --> 1122.22] and the vagus nerve and all this kind of thing, you, you know,
+[1122.30 --> 1124.10] being able to control the nervous system that way.
+[1124.20 --> 1125.08] So, so they're good at that.
+[1125.34 --> 1130.20] And they're also good at establishing a standing electric field that would be used by
+[1130.20 --> 1133.80] cells as a guidance cube. Cells love to crawl in electric fields.
+[1133.92 --> 1136.78] They can sense electric fields and they, they have preferences, you know,
+[1136.84 --> 1139.50] one will go anode, the other, another different cell type will go cathode.
+[1139.66 --> 1143.24] And if you wanted to make cells migrate, as we often do, for example,
+[1143.40 --> 1144.92] for regeneration towards wounds.
+[1145.08 --> 1149.78] So somebody like Min Zhao has done some amazing work on the,
+[1149.78 --> 1152.38] the natural electric fields that are formed when you puncture the skin,
+[1152.54 --> 1155.26] you know, when you have various epithelia damage, there's an electric field.
+[1155.26 --> 1159.20] And, and this is like the story I was telling before where the, the, the,
+[1159.20 --> 1161.92] the field lines are an immediate guide to the damage.
+[1162.06 --> 1165.72] So all these migratory cells immediately start following the field lines and they,
+[1165.78 --> 1167.68] and they, and they hit the, they hit the side of damage.
+[1167.86 --> 1173.68] So those kinds of things, the implantable electrodes are really good at what
+[1173.68 --> 1176.96] they're not good at, at least right now, maybe someday somebody will figure out a
+[1176.96 --> 1177.38] way to do it.
+[1177.70 --> 1182.90] What they're not good at is at setting up spatial patterns of differential voltage
+[1182.90 --> 1187.24] potential, which is what we need here in order to do the things that we do induce
+[1187.24 --> 1192.66] organ formation, limb regeneration, the tumor reprogramming, repairing birth defects,
+[1192.70 --> 1195.90] all these different kinds of things in order to do them, you need to set up
+[1195.90 --> 1199.76] complex patterns of different voltages across the space.
+[1199.98 --> 1203.64] And I don't know of any way, and I haven't seen anybody develop any way to
+[1203.64 --> 1206.76] really do that well with, with electrodes.
+[1207.04 --> 1208.74] So how, so how do we do all this stuff?
+[1208.74 --> 1215.08] So what we do is we use, um, uh, ion channel drugs that are chemical compounds that
+[1215.08 --> 1218.44] target, uh, specific, uh, kinds of ion channels.
+[1218.56 --> 1222.34] And so we have a computational platform where we can say, this is the pattern we
+[1222.34 --> 1222.74] have now.
+[1223.00 --> 1227.30] I'd like it to be this instead, uh, tell me what channels and pumps I would need
+[1227.30 --> 1229.52] to open and close in order for them to do that.
+[1229.66 --> 1231.34] And the model should give you a suggestion.
+[1231.34 --> 1236.30] And then we go to the shelf and something like 20% of the last time I looked at 20% of all
+[1236.30 --> 1237.50] drugs are ion channel drugs.
+[1237.72 --> 1239.58] So you have this incredible, yeah, I mean, it's amazing.
+[1239.72 --> 1243.66] You have this, you have this incredible, um, uh, of, of pharmacopoeia of
+[1244.12 --> 1246.90] electrosuitables of basically drugs that can be repurposed.
+[1247.20 --> 1249.56] You know, they may be used for neuro neurological symptoms.
+[1249.72 --> 1251.54] They may be used for, you know, inner ear or whatever.
+[1251.78 --> 1254.54] You can repurpose them for other, for other things.
+[1254.76 --> 1258.32] If you've got the platform that tells you which channels do I want to open and close.
+[1258.32 --> 1263.28] If you remember Jurassic Park, that great movie, you know, so, um, Jeff Goldblum, you
+[1263.28 --> 1266.48] know, says something like, you know, life finds a way life is always right.
+[1266.66 --> 1271.32] So I, I just remember it like that, but the counter examples neutrinos are left-handed
+[1271.32 --> 1276.36] and there's been some conjectures that only left-handed neutrinos, you know, kind of stemming
+[1276.36 --> 1282.70] from cosmic ray interactions could have caused the initial asymmetry, um, still not entirely
+[1282.70 --> 1287.28] understood by me at least, but, um, but talk about this breaking of symmetry and, and
+[1287.28 --> 1291.94] kind of the, the way that it kind of grows out again from, uh, objects.
+[1292.10 --> 1296.20] We know we can make sugars and we can make a whole mirror version of a human being, uh,
+[1296.74 --> 1298.82] according to many people that I've talked to.
+[1299.12 --> 1304.24] Um, so that would be quite striking, but, um, but how does handedness come into this?
+[1304.36 --> 1309.86] And is there potentially, again, a link between the physical world that I inhabit of say magnetic
+[1309.86 --> 1315.12] fields, which, which are also, you know, distinguishable at some level using the weak nuclear force
+[1315.12 --> 1321.44] alone as far as we know, uh, is there any way to, to trace the origin of handedness and embryonic
+[1321.44 --> 1327.58] development to handedness, you know, perhaps, uh, due to, uh, polarized radiation where we
+[1327.58 --> 1330.28] have antennas that are circularly polarized left to right.
+[1330.46 --> 1336.24] For example, is there anything to this notion that the origin of, of morphological asymmetry
+[1336.24 --> 1340.76] and chirality could come from, you know, some, some physical mechanism.
+[1341.48 --> 1341.80] Yeah.
+[1341.90 --> 1341.98] Yeah.
+[1342.08 --> 1342.68] This is, this is great.
+[1342.78 --> 1346.60] I love, this is a favorite topic and I haven't done work on left, right in, in quite a bit,
+[1346.70 --> 1350.54] quite a bit of time, but, but I used to, this was my, my PhD was in this and I worked for
+[1350.90 --> 1354.48] roughly until 2016, uh, pretty much on, on this, on this problem.
+[1354.88 --> 1356.48] Uh, it's, it's a fascinating problem.
+[1356.56 --> 1359.24] Let me, let me just kind of set up what, what we're talking about here first.
+[1359.32 --> 1362.94] And then, and then I'll talk about this, uh, uh, what, uh, relationship it might have
+[1362.94 --> 1364.60] to symmetry breaking in the, in the universe.
+[1364.74 --> 1370.56] So, so, so the basic fact is that most, most animals, uh, and in fact, it goes beyond well
+[1370.56 --> 1371.22] beyond animals.
+[1371.36 --> 1372.94] There are, there are plants that do it.
+[1373.14 --> 1376.12] There are, there are all kinds of, uh, all kinds of weird creatures that, that have a
+[1376.96 --> 1377.68] consistent asymmetries.
+[1378.00 --> 1382.54] They have a, basically a, a fundamentally a bilateral symmetrical body plan.
+[1382.62 --> 1386.28] So you can draw a kind of a mid plane and you can say, okay, you know, they're to a,
+[1386.28 --> 1388.40] to a first approximation, the reflections are the same.
+[1388.50 --> 1388.58] Yeah.
+[1388.58 --> 1392.78] They're the same left and right, except that you find that there are consistent differences.
+[1392.78 --> 1396.76] And so in humans, as you pointed out, the heart, the, the liver, the gallbladder, there's
+[1396.76 --> 1399.94] all sorts of the stomach, there's all sorts of organs that are asymmetric.
+[1400.10 --> 1402.18] The brain hemispheres are not the same.
+[1402.48 --> 1406.58] All kinds of interesting phenomena, such as, uh, certain, certain syndromes that affect
+[1406.58 --> 1410.18] non asymmetric structures, like shoulders and hips and things like this sometimes occur
+[1410.18 --> 1412.38] more, uh, prevalent on one side.
+[1412.56 --> 1416.74] Uh, there are lots of other creatures that are more obvious crabs and lobsters often will
+[1416.74 --> 1417.92] have one, one claw.
+[1418.06 --> 1422.76] That's quite different, uh, from, from, from, from another, uh, many, many interesting
+[1422.78 --> 1426.78] examples like this, you know, there are slide, we showed years ago that slime molds, when
+[1426.78 --> 1430.50] they're growing out and they want to turn, they preferentially turn in one direction versus
+[1430.50 --> 1430.82] another.
+[1430.98 --> 1433.62] So even the, even slime molds have a sense of left, right symmetry.
+[1434.08 --> 1437.08] And, and the cool thing about it is that it isn't random.
+[1437.24 --> 1440.30] It's easy enough to come up with a mechanism that will pick one side at random.
+[1440.58 --> 1445.58] What's much harder is to have consistent asymmetry where the, the direction of the symmetry
+[1445.58 --> 1448.48] breaking is fixed relative to the other two axes.
+[1448.48 --> 1453.02] And I used to, um, back when I talked about this a lot to, to, to students, I would say,
+[1453.34 --> 1456.92] imagine that you were going to, uh, you, you discovered some aliens far, far away.
+[1457.16 --> 1459.76] All you had was a telephone connection.
+[1459.94 --> 1461.36] You couldn't, you couldn't give them objects.
+[1461.60 --> 1463.18] You, you, all you could do is talk via voice.
+[1463.30 --> 1466.94] And so you're learning each other's language and you've got all the other words down and
+[1466.94 --> 1468.60] it's time to decide what left and right means.
+[1468.78 --> 1473.84] So you say, okay, so, so, so I'm standing here and, uh, let's say that, uh, you know, my,
+[1473.84 --> 1476.24] my, my sense organs are pointing forward.
+[1476.26 --> 1480.62] So that's the first axis and, uh, my feet are pointing towards the center of gravity
+[1480.62 --> 1481.10] of the planet.
+[1481.22 --> 1482.42] So that gives you the second axis.
+[1482.66 --> 1487.40] Now my left hand is the one that what, and now you're stuck, right now, now it's really,
+[1487.50 --> 1489.22] now it gets really hard unless, right.
+[1489.34 --> 1493.08] So, so, so, so as you, as you well know, you, we could do the right-hand rule and we
+[1493.08 --> 1497.72] can, we can do something with my, with, with, uh, you know, with magnetic fields and we
+[1497.72 --> 1501.98] could do the right-hand rule, um, or, or maybe, uh, we, you know, maybe they live
+[1501.98 --> 1505.62] in the same kind of universe as us and they have the same, uh, you know, neutrinos and
+[1505.62 --> 1509.28] all of that, but otherwise at a macroscopic scale, it's really hard.
+[1509.40 --> 1512.60] There really, there really isn't, I mean, genetics doesn't distinguish left from, left
+[1512.60 --> 1512.92] from right.
+[1513.24 --> 1516.74] And so you, you're going to express, uh, we actually don't.
+[1516.80 --> 1522.80] And that's what I did for my PhD is discover, um, a pathway of genes that are expressed on
+[1522.80 --> 1526.08] the left side differently than, than they're expressed on the right side.
+[1526.24 --> 1529.94] And, uh, and then I spent my postdoc and, and some years after that, chasing that back to
+[1529.94 --> 1530.84] see what the origin is.
+[1530.84 --> 1533.76] And I'll, and I'll tell you what that is, but, but it's a really, it's a really fundamentally
+[1533.76 --> 1539.16] a very fascinating and, and, and, and, uh, and difficult problem and compressing, you
+[1539.16 --> 1541.86] know, 20, 20 years of work, uh, into a couple of sentences.
+[1542.10 --> 1549.86] I will tell you that basically what it boils down to is the chirality of a particular little
+[1549.86 --> 1550.34] structure.
+[1550.34 --> 1552.90] It's part of the cytoskeleton inside of cells.
+[1553.02 --> 1555.76] And it literally does the right-hand rule thing.
+[1556.00 --> 1557.78] In other words, it has a chirality.
+[1557.78 --> 1562.34] One, the, the cell has, the cell has two, the, the early embryo, the very early embryo
+[1562.34 --> 1563.42] has, has two other axes.
+[1563.58 --> 1567.06] So, so it anchors this in one direction, it anchors this in the other direction.
+[1567.44 --> 1571.98] And then it's got a little, little feature that points in, in the actually right word.
+[1572.28 --> 1577.84] And that nucleates a bunch of cytoskeletal, um, tracks along which motor proteins will ride
+[1577.84 --> 1579.08] and they take certain cargo.
+[1579.26 --> 1581.98] The cargo they take among other things is ion channels.
+[1581.98 --> 1586.60] And it sets up literally when we can see, and we showed this in 2002, there is a voltage
+[1586.60 --> 1588.18] gradient between the left and the right sides.
+[1588.42 --> 1595.34] And it arises there consistently because, uh, this little, little, uh, uh, nucleating molecule
+[1595.84 --> 1599.52] allows the ion channels to, to be different on one side than the other.
+[1599.88 --> 1603.94] And so, uh, you know, your, your point about the, the, the, the, the, the symmetry breaking
+[1603.94 --> 1605.78] of in, in, in physics and so on.
+[1605.84 --> 1609.14] I mean, I'm certainly not an expert on it, but I used to read, read all this stuff and just
+[1609.14 --> 1612.06] this amazing, you know, this, the CPT violation, right.
+[1612.22 --> 1615.70] Uh, at the, at the, at the basis of it, I always thought it was, was the most amazing
+[1615.70 --> 1615.94] thing.
+[1616.26 --> 1620.78] And does, you know, does that actually, so, so there's two possibilities and I don't think
+[1620.78 --> 1622.24] we know which one is, is right.
+[1622.46 --> 1627.34] One possibility and people have, have published papers on this, that because of, because of
+[1627.34 --> 1632.72] the, the parity violation, some enantiomers of certain molecules are more stable than others.
+[1632.96 --> 1637.92] And the idea is that not by much, but enough that evolution might've picked up on this.
+[1637.92 --> 1643.12] And that the reason that we are all, uh, a chiral in the same direction is because literally,
+[1643.16 --> 1648.32] uh, you know, uh, because of, um, the way that, uh, that, uh, you know, I think it was,
+[1648.44 --> 1652.64] you know, the electrons, uh, get ejected in the, in the weak nuclear force, you, you are
+[1652.64 --> 1654.28] actually more stable.
+[1654.40 --> 1656.06] These molecules are more stable in one direction.
+[1656.26 --> 1657.22] That's, that's one possibility.
+[1657.46 --> 1661.38] The other possibility is that it's a frozen accident that, that basically, that basically
+[1661.38 --> 1667.18] there is no major difference, but the first successful, uh, universal ancestor, uh, to life
+[1667.18 --> 1669.00] just happened to have it going one way.
+[1669.18 --> 1672.10] And it was too hard to change it after, you know, evolution is full of these things that
+[1672.10 --> 1673.40] once you set it up, you can't change it.
+[1673.64 --> 1677.34] So I can't tell you, I can't tell you which one of those is, is, is the case, but, but
+[1677.34 --> 1680.16] I think it's fascinating to, to think about whether it goes all the way down.
+[1680.28 --> 1681.30] I want to stick to physics.
+[1681.30 --> 1687.86] And I want to also let the audience know that soon we'll get to Xenobots, not, not the Xenophobia,
+[1688.56 --> 1694.32] not Xena, the warrior princess, but we'll get to Michael's wonderful portmanteau Xenobots
+[1694.32 --> 1695.00] in just a minute.
+[1695.16 --> 1699.80] But before we get there, I want to ask you a very simple question to you, which is one
+[1699.80 --> 1703.76] posed by none other than Erwin Schrodinger himself, Michael.
+[1703.90 --> 1708.04] And I think, you know what I'm about to say, Michael, tell us what is life?
+[1708.04 --> 1710.96] Yeah, yeah, the simple, the simple questions, of course.
+[1711.62 --> 1716.98] So, so interestingly enough, we just, we just put out a paper where we, what I did was I
+[1716.98 --> 1721.46] polled about 70 various thinkers that I chose on this question.
+[1721.58 --> 1726.04] I gave them three set up to three sentences and, and everybody gave their definitions.
+[1726.24 --> 1731.24] And then we had, with the help of some AI tools, we actually created a conceptual space
+[1731.24 --> 1734.86] for all the definitions to kind of look at the structure of how people think about this.
+[1734.86 --> 1738.10] So there, needless to say, there is no, no real agreement.
+[1739.16 --> 1741.00] I, I'm going to say two, two, two things.
+[1741.14 --> 1744.04] One, which is weird for a biologist to say, but I'm going to say it anyway.
+[1744.26 --> 1746.66] I don't think it's a particularly interesting category.
+[1746.88 --> 1751.54] In other words, I think what's, what's a very interesting category is the spectrum of cognition,
+[1751.54 --> 1755.16] which, which I also think goes all the way, all the way down.
+[1755.46 --> 1758.14] And I think life is a subset of cognition.
+[1758.14 --> 1764.16] I don't think it's important to try to wrestle over difficult coroner cases and try to come
+[1764.16 --> 1766.66] up with definitions of life that try to make rulings.
+[1766.80 --> 1767.16] Yes or no.
+[1767.22 --> 1768.80] I don't, I don't like these binary definitions.
+[1769.00 --> 1771.98] I don't, I don't think they facilitate, I don't think they facilitate research in any
+[1771.98 --> 1772.56] way, you know?
+[1773.56 --> 1778.68] However, if we, if we wanted to say what it is that's that, that, that is special about
+[1778.68 --> 1778.94] life.
+[1779.12 --> 1784.74] I think that we, we human observers tend to call life those things that are very good at
+[1784.74 --> 1786.52] scaling their cognitive light cone.
+[1786.52 --> 1790.68] In other words, what you have are, so, so let me just give a definition.
+[1790.88 --> 1795.78] So, so the cognitive light cone is the size in some particular problem space of the biggest
+[1795.78 --> 1797.50] goal that a system can pursue.
+[1797.62 --> 1799.30] It's not the reach of its effectors.
+[1799.40 --> 1800.54] It's not the reach of its sensors.
+[1800.62 --> 1803.54] It is the size of the goal state that you can pursue.
+[1803.72 --> 1808.34] So for example, if you're a bacterium, all you really care about managing is the, is the
+[1808.34 --> 1811.66] concentration of nutrients and some other things in a very small area.
+[1811.66 --> 1813.92] You have a little bit of prediction going forward.
+[1814.04 --> 1815.96] You have a little bit of memory going backwards, but that's it.
+[1815.96 --> 1819.88] That little area of space time that you are managing, you could care less what happens anywhere
+[1819.88 --> 1820.14] else.
+[1820.28 --> 1824.46] You're managing a tiny little, little area of space time in terms of making efforts to
+[1824.46 --> 1828.88] make, make it be one way versus a different way that, that entropy would, would have you
+[1828.88 --> 1829.04] go.
+[1829.62 --> 1834.00] Um, if you, so if you tell me that all I care about is, is the sugar concentration within
+[1834.00 --> 1837.74] this, you know, the 20 micron region, I'm going to say you're probably a bacterium.
+[1837.94 --> 1843.28] If you tell me that, that, uh, you know, you're interested in, um, you're actively working
+[1843.28 --> 1847.12] on goals of what the financial markets are going to look like all over the earth, a hundred
+[1847.12 --> 1851.18] years from now, I'm going to say you're probably a human and there are many in between cases.
+[1851.18 --> 1855.64] So for example, if you've got a dog, the dog is never going to, to my knowledge, is never
+[1855.64 --> 1858.38] going to be able to care about in the sense of pursuing goals.
+[1858.74 --> 1862.18] What's going to happen three weeks from now, you know, three towns over, right?
+[1862.26 --> 1864.06] That's just outside of its cognitive light cone.
+[1864.12 --> 1867.08] It's certainly bigger than the bacterium, but it just isn't going to care.
+[1867.18 --> 1868.64] And there's nothing you can do to make it care.
+[1868.64 --> 1871.56] Again, as far as I know, these are all empirical things you'd have to do experiments to find
+[1871.56 --> 1871.72] out.
+[1872.02 --> 1878.26] Um, and so, and so what I think happens is that very, uh, tiny things in certainly cells,
+[1878.40 --> 1880.70] but I actually think it goes even below the cellular level.
+[1881.00 --> 1884.94] There are certain configurations of those things that when they get together, the cognitive
+[1884.94 --> 1885.68] light cone goes up.
+[1885.86 --> 1888.16] So, so I'll just give you a very simple example.
+[1888.58 --> 1893.54] Individual cells have little tiny cognitive light cones and they care about things like, uh,
+[1893.68 --> 1897.34] their pH level, their hunger level, their voltage state, you know, these, these kinds
+[1897.34 --> 1902.32] of local little tiny things, but groups of cells care about grandiose construction projects.
+[1902.46 --> 1906.30] For example, you've got a salamander limb, you amputate the limb immediately.
+[1906.34 --> 1910.72] The cells notice that they've been deviated from the correct state in, in, in the anatomical
+[1910.72 --> 1910.96] space.
+[1911.06 --> 1911.78] They work really hard.
+[1911.88 --> 1913.76] They, they build the limb and then they stop.
+[1913.96 --> 1918.02] That's the most amazing thing is when it's a homeostatic error reduction system, when they've
+[1918.02 --> 1922.44] solved their problem and they've reached, they've, they've reduced the error back to the acceptable
+[1922.44 --> 1923.76] levels, then they stop activity.
+[1923.76 --> 1929.22] So the collection of cells are able to pursue a very large goal that, you know, no individual
+[1929.22 --> 1932.08] cell knows what a finger is or how many fingers you're supposed to have, but the collective
+[1932.08 --> 1932.86] absolutely knows.
+[1932.98 --> 1937.20] And you know that, uh, with a, by experiment, because if you try to deviate them from their
+[1937.20 --> 1939.54] goal, they will do ingenious things to get back there.
+[1939.64 --> 1941.12] That's kind of the definition of it.
+[1941.24 --> 1945.38] And so, so I think what, and so, so what has happened, and this is what we study.
+[1945.50 --> 1948.66] We study how electrical networks scale the cognitive light cone.
+[1948.66 --> 1953.58] So what happens is that specifically by, by memory anonymization, stress sharing, and some
+[1953.58 --> 1957.82] other things, when you make these electrical networks, not only does your cognitive light
+[1957.82 --> 1960.74] cone get bigger, but it also projects into other spaces.
+[1960.98 --> 1966.34] Individual cells have access to metabolic space, uh, gene expression space, physiological space,
+[1966.46 --> 1969.36] but groups of cells have access to anatomical morphous space.
+[1969.50 --> 1973.14] If you happen to have a brain and some muscles, now you have access to three dimensional space.
+[1973.32 --> 1977.20] If you have access to, to language, then, then you're into linguistic space and God knows what
+[1977.20 --> 1978.72] else, but, but you get the idea.
+[1978.86 --> 1983.04] And so, and so I think when, when we see things like that, that have a multi-scale architecture,
+[1983.04 --> 1988.10] where the cognitive light cone of the parts becomes, uh, expanded and projected into new
+[1988.10 --> 1991.36] problem spaces, we say that that's, that's life.
+[1991.52 --> 1994.10] And then there are some other things that we could get into about interpreting your own
+[1994.10 --> 1998.00] memories and some other things, but, but fundamentally, that's what I think is, is what,
+[1998.06 --> 1999.44] that's what we mean when we say life.
+[1999.70 --> 1999.86] Yeah.
+[2000.04 --> 2004.84] Well, it's clear, you know, from the moment I click record that we're going to need, you know,
+[2004.84 --> 2008.78] probably a bigger boat, a bigger podcast, and we'll hopefully have many opportunities
+[2008.78 --> 2009.80] to do this in the future.
+[2010.02 --> 2015.40] Uh, but the, uh, the next question on the, you know, kind of ease of, of discussion is
+[2015.40 --> 2017.38] sort of a problem I have with my students.
+[2017.38 --> 2022.92] And I wonder how you approach it too, that in cosmology, you know, we study the evolution
+[2022.92 --> 2024.20] of the universe.
+[2024.42 --> 2029.34] The origin is part of it, but the question of, you know, what caused the universe to be
+[2029.34 --> 2034.70] in existence is not really part of the, of the process of cosmology.
+[2034.88 --> 2038.96] And so likewise, my next question is going to be about, you know, what caused life to
+[2038.96 --> 2039.24] begin?
+[2039.36 --> 2041.46] What is the origin of life as you see it?
+[2041.54 --> 2046.12] And if you can throw in the word panspermia, that would be helpful for me because I give
+[2046.12 --> 2049.70] away these meteorites that, um, have come from the early solar system.
+[2049.86 --> 2054.54] I give them away to everybody who has a .edu email address that lives in the United States.
+[2054.66 --> 2056.94] So you are going to get one, Michael, I'm going to ship one to you.
+[2056.94 --> 2057.68] I love it.
+[2057.84 --> 2062.24] Any, any of your students that you get to sign up for my magic Monday mailing list at
+[2062.24 --> 2063.90] briankeating.com slash edu.
+[2064.16 --> 2068.40] If you have an edu email address, you'll get one of these beauties shipped via not gravity
+[2068.40 --> 2071.22] the way I got it, but, uh, via the U S postal service.
+[2071.32 --> 2075.84] But if you don't, you can, I give away some to people that don't have the luxury and the
+[2075.84 --> 2078.42] sloth of being like you and me at a university, Michael.
+[2078.60 --> 2082.32] So I give those away at briankeating.com slash YT.
+[2082.68 --> 2084.40] So please do take us up on that.
+[2084.54 --> 2086.22] Michael, tell us how did life originate?
+[2086.22 --> 2086.92] Uh, okay.
+[2087.06 --> 2089.34] Uh, I don't have much to say about panspermia.
+[2089.58 --> 2094.18] I'm not terribly worried about it because that, yeah, sorry, but, but, but that basically
+[2094.18 --> 2095.80] just puts it off to somewhere else.
+[2095.92 --> 2096.00] Right.
+[2096.24 --> 2098.18] In that sense, it has to be coming from somewhere else.
+[2098.26 --> 2100.10] So I'm not going to worry about that terribly much.
+[2100.26 --> 2105.06] I can, I can say a couple of things that I hope are interesting about, um, uh, you know,
+[2105.16 --> 2107.70] how, how, how life, um, might have originated.
+[2107.88 --> 2113.38] One of the things that, and again, I, I'm not as worried about life as I am about mind and
+[2113.38 --> 2114.32] cognitive and cognition.
+[2114.62 --> 2117.94] And I actually think that that's, that's a superset of, of living thing of things that
+[2117.94 --> 2119.66] we recognize as living.
+[2119.84 --> 2124.94] Anyway, uh, we, um, there's a, there's a, there's a really interesting, uh, phenomenon
+[2124.94 --> 2129.72] that, that, that we found and that we actually, this, this, this paper just came out a couple
+[2129.72 --> 2136.16] of days ago, actually, if you imagine a, um, uh, a model of a, uh, of, of a, of a molecular
+[2136.16 --> 2136.56] pathway.
+[2136.70 --> 2140.94] So you've got, let's say 10 different molecules, each one, uh, basically up and down, regulate
+[2140.94 --> 2141.34] some others.
+[2141.48 --> 2142.64] So you can draw a little network, right.
+[2142.76 --> 2146.92] Of, of, you know, positive and negative interactions that, of chemicals that turn each other on and
+[2146.92 --> 2150.04] off or, you know, potentiate each other's activity or, or suppress it.
+[2150.38 --> 2154.10] Turns out that, and this is something we did a couple of years ago, and this was Sarama
+[2154.10 --> 2159.98] Biswas's work in my group, um, what we showed was that even, even those very simple molecular
+[2159.98 --> 2165.38] networks, nevermind cells or brains or synapses or any of that stuff, just, just a small group
+[2165.38 --> 2170.86] of chemicals that turn each other on and off already was, uh, able to do six different kinds
+[2170.86 --> 2171.28] of learning.
+[2171.44 --> 2175.36] They can do habituation sensitization, and they can do Pavlovian conditioning.
+[2175.58 --> 2179.78] They can do associative learning so that you get long before evolution kicks in.
+[2179.96 --> 2182.52] Now, now evolution, of course, is going to optimize the hell out of it.
+[2182.52 --> 2188.78] And we did find that, that, um, biological, like real biological networks do better at
+[2188.78 --> 2191.86] this than random networks, but even random networks do this a little bit.
+[2192.00 --> 2195.62] And the other thing we found out just recently, and this is, this is the thing that was, uh,
+[2195.88 --> 2196.94] that was published the other day.
+[2197.04 --> 2202.42] And this is, uh, Federico Pagosi's work that if you, if you compute, uh, measures of causal
+[2202.42 --> 2207.70] integration, which is to say very, uh, sort of, uh, very, very, very roughly it's, it's a,
+[2207.70 --> 2212.42] it's a new, it's a new set of, um, mathematical techniques that allow you
+[2212.42 --> 2216.54] to quantify to what extent is something more than the sum of its parts.
+[2216.92 --> 2221.46] You know, this was this, this idea that used to be a kind of a philosophical thing is that,
+[2221.52 --> 2225.02] are there any higher levels of causation or is everything, you know, is it reductionism,
+[2225.02 --> 2229.04] right versus holism that, that used to be a philosophical argument through, through the
+[2229.04 --> 2233.52] work of, um, of a number of people, including, um, Eric Holtle, who works, uh, at my, at my
+[2233.52 --> 2237.40] center here and, uh, and Giulio Tononi and Olaf Sporns and some others.
+[2237.40 --> 2240.80] There's, there's been a branch of mathematics developed that can actually quantify that
+[2240.80 --> 2242.00] in, in certain systems.
+[2242.18 --> 2245.20] You can literally do the calculation and you can say, okay, yeah, the, the parts are doing
+[2245.20 --> 2248.88] all the work or the, actually there is a higher level that's doing something that the parts
+[2248.88 --> 2249.20] aren't doing.
+[2249.42 --> 2251.46] So we can apply this math to all sorts of things.
+[2251.52 --> 2254.60] And we applied it to these, to these, uh, pathway models.
+[2254.94 --> 2258.82] And we found out that every time they learn something, their causal emergence goes up.
+[2259.00 --> 2263.40] In other words, the process of, the process of, of responding to stimuli in a way that
+[2263.40 --> 2267.66] trains you, meaning that you will respond to them in the future differently than you responded
+[2267.66 --> 2274.96] to them fresh going in that process makes you more than it makes you raises the amount
+[2274.96 --> 2279.64] by which you are a coherent, whole integrated entity, not just a sum of parts.
+[2279.76 --> 2285.94] Michael, on a personal note, you had a wonderful obituary after the death of your colleague,
+[2286.38 --> 2287.58] the late great Daniel Dennett.
+[2287.70 --> 2292.80] I had the honor of doing his last podcast interview right before he, I guess it's obvious.
+[2292.80 --> 2294.50] He, he did it before he passed away.
+[2294.90 --> 2301.00] Can you talk a little bit about this, uh, the impact that he had maybe beyond the laboratory
+[2301.00 --> 2305.72] and so forth, but what his modality of thinking, it seemed to really have affected you.
+[2305.84 --> 2308.44] And it's only about a year since he passed away.
+[2308.88 --> 2310.78] Uh, yeah, Dan, Dan was an amazing person.
+[2310.90 --> 2312.56] You know, I grew up reading his books.
+[2312.66 --> 2316.50] I have, I have all his books back there that I read when I was, when I was, you know, a teenager
+[2316.50 --> 2317.52] and, and, and beyond.
+[2317.94 --> 2323.68] And, uh, I, I was, I was just, I felt incredibly privileged to take a course with him when I,
+[2323.76 --> 2327.74] when I got to Tufts as an undergrad, he taught the, um, uh, philosophy of mind course.
+[2327.74 --> 2330.36] Uh, this would have been in the, you know, 91 or something like that.
+[2330.48 --> 2334.00] Uh, I took that course with him and, you know, he was, he was, he was incredible.
+[2334.28 --> 2338.26] Now, now to be clear, I don't, uh, we, we don't necessarily agree on everything.
+[2338.40 --> 2342.32] There are many things that we didn't actually agree on in terms of this field, but he was,
+[2342.32 --> 2345.06] he was an amazing, first of all, he was a gentleman.
+[2345.08 --> 2349.32] He was not interested in any kind of games in one-upmanship, uh, any of that stuff.
+[2349.48 --> 2354.88] He, he, he was really interested in, uh, getting to a better argument, to a better version of,
+[2355.02 --> 2359.00] uh, you know, whatever understanding we could all get by interacting with each other.
+[2359.40 --> 2365.64] And he was just, uh, just, just incredible in terms of being clear and, uh, uh, making,
+[2365.86 --> 2370.32] uh, you know, getting everybody else around him to be clear about what, what they were trying
+[2370.32 --> 2373.58] to say, and then just seeing what, you know, what, what we could make of it.
+[2373.62 --> 2379.06] And he was, he was always, um, uh, he was always kind and he was always generous with his time
+[2379.06 --> 2381.12] and with his ideas and with his advice.
+[2381.42 --> 2384.84] And, uh, yeah, I, I couldn't, I couldn't say more nice, nice things about him.
+[2384.94 --> 2389.56] And so, you know, uh, when I came back to Tufts as a faculty member, um, we collaborated
+[2389.56 --> 2390.26] on some things.
+[2390.26 --> 2394.10] We wrote a paper together, which I'm, I'm very, uh, you know, kind of, I'm very proud of, uh,
+[2394.58 --> 2396.54] talking about, um, cognition all the way down.
+[2396.54 --> 2400.48] And, um, yeah, he was, he was, he was, you know, he was an amazing person, an amazing
+[2400.48 --> 2402.44] mentor and a very deep thinker, I think.
+[2402.86 --> 2402.98] Yeah.
+[2402.98 --> 2403.30] Yeah.
+[2403.44 --> 2407.56] I was, uh, very, uh, very distressed when he passed away.
+[2407.56 --> 2412.48] I think I got to interview the three of the four horsemen of the apocalypse, at least.
+[2412.84 --> 2417.78] I never got to interview, uh, Christopher Hitchens, but, uh, but Dan was certainly, you
+[2417.78 --> 2419.84] know, at the very top of that very august list.
+[2419.98 --> 2420.20] So, okay.
+[2420.24 --> 2424.06] I want to finish up, uh, for this part one of hopefully many parts together.
+[2424.52 --> 2428.58] And, and that's, uh, with your wonderful work, as I promised earlier about Xenobots.
+[2428.72 --> 2434.70] So first of all, what are Xenobots and how are they behaving like living organisms, moving,
+[2434.82 --> 2439.98] healing, even cooperating, working together without any brain or nervous system?
+[2440.12 --> 2444.22] Well, uh, I mean, to be clear, there are many, uh, organisms that don't have a brain or nervous
+[2444.22 --> 2446.04] system and they do all kinds of interesting things.
+[2446.20 --> 2450.82] Um, but that's why I say, I call those colleagues of mine at the faculty club, you know, I say jellyfish
+[2450.82 --> 2453.16] have existed without brains for 65 million years.
+[2453.34 --> 2454.34] So there's hope for you yet.
+[2454.52 --> 2455.80] Not, not you, Michael, but yeah.
+[2455.90 --> 2456.00] Yeah.
+[2456.12 --> 2463.10] Well, yes, you, you, you, you said it, I, I, um, but, uh, yeah, I mean, look, uh, the here's,
+[2463.22 --> 2465.06] first of all, I'll tell, I'll tell you what the Xenobots are.
+[2465.20 --> 2468.84] So, so this is, this is joint work between my lab and Josh Bongard at the university of
+[2468.84 --> 2469.08] Vermont.
+[2469.08 --> 2474.38] And, uh, we are, we've, we've organized this thing called the ICVO, which is the Institute
+[2474.38 --> 2476.28] for computationally designed organisms.
+[2476.46 --> 2481.24] And the Xenobots are kind of the first, we were the first, um, uh, Busalho from, from
+[2481.24 --> 2482.08] that, that whole effort.
+[2482.48 --> 2486.86] And, uh, the computer science part of this was done by Sam Kriegman in Josh's lab and
+[2486.86 --> 2489.80] the, and most of the biology was done by Doug Blackiston and my group.
+[2490.00 --> 2496.24] What we basically found out is that if you isolate, uh, some prospective skin cells from
+[2496.24 --> 2500.56] the early frog embryo, and this is why they're called Xenobots, Xenopus laevis is the Latin
+[2500.56 --> 2501.88] name for the frog that we're using.
+[2502.08 --> 2505.16] And so this frog lays, lays eggs, they become embryos.
+[2505.26 --> 2508.86] And at a very early stage, we isolate some, some cells that are going to become kind of
+[2508.86 --> 2509.92] like an outer skin covering.
+[2510.04 --> 2515.52] And the deal is that under normal circumstances, these cells get basically get bullied by the
+[2515.52 --> 2519.86] other cells in the embryo to do a very specific thing, to be this boring outer two-dimensional
+[2519.86 --> 2522.36] kind of covering for the embryo, keep out the bacteria.
+[2522.60 --> 2525.88] And that's that, that's, that's, that's what they do in the natural state because they are
+[2525.88 --> 2527.84] hacked by these other cells that are there.
+[2528.00 --> 2532.88] If you liberate them, so very specifically not putting in any new genetic material, no
+[2532.88 --> 2537.34] synthetic biology circuits, no genomic editing, no weird nanomaterials or drugs or anything
+[2537.34 --> 2537.68] like that.
+[2537.96 --> 2542.92] All we have done at this point is liberate them from the influences that they normally
+[2542.92 --> 2543.18] get.
+[2543.34 --> 2546.20] And then you can ask the question, what, what, what are they, what, what else do they want
+[2546.20 --> 2546.42] to do?
+[2546.54 --> 2549.14] It's kind of a reboot of their multicellularity and they could do many things.
+[2549.24 --> 2550.68] They could, they could crawl away from each other.
+[2550.78 --> 2551.18] They could die.
+[2551.28 --> 2554.38] They could form a two-dimensional sheet, a monolith, they could do many things.
+[2554.38 --> 2558.84] What they instead do is they get together, they form this, this, this little, this little
+[2558.84 --> 2561.16] ball and that little ball is covered with cilia.
+[2561.32 --> 2566.68] These are little motile, tiny motile hairs that then organize and they start, the cilia
+[2566.68 --> 2570.92] start, start waving and they basically align so that the thing can now swim through the
+[2570.92 --> 2571.18] water.
+[2571.60 --> 2575.52] Normally the cilia are used to distribute mucus over the body of the frog, but now, now,
+[2575.60 --> 2576.22] now they can swim.
+[2576.44 --> 2579.16] And so they're, they, they swim around in the, in the water.
+[2579.30 --> 2582.26] And I'll just tell you a few things that, that it turns out they're capable of.
+[2582.26 --> 2584.66] Now, you know, they're obviously living organisms.
+[2584.66 --> 2585.76] They're made of living cells.
+[2586.46 --> 2590.84] The major interesting thing about them beyond the fact that they're a biorobotics platform.
+[2590.98 --> 2594.20] So that is we could, we could, once we understand how they work, we could potentially use them
+[2594.20 --> 2596.96] for all sorts of cool applications, cleaning up the environment.
+[2597.12 --> 2598.32] There's just a million different things.
+[2598.42 --> 2602.34] But the other cool thing about them is that unlike the actual frog, if you ask about what
+[2602.34 --> 2605.66] sets the properties of the frog, everybody will say, well, it's evolution.
+[2605.82 --> 2608.42] It's, it's a history of selection against specific environments, right?
+[2608.56 --> 2609.46] Going all the way back.
+[2609.46 --> 2613.50] That's when the computations were done to design what a frog is, is by testing things against
+[2613.50 --> 2615.38] the environment and killing off everything that didn't work.
+[2615.50 --> 2617.12] That that's why the frog looks like a frog.
+[2617.26 --> 2618.88] Well, there's never been any xenobots.
+[2619.02 --> 2621.10] There's never been any selection to be a good xenobot.
+[2621.28 --> 2622.98] And, and, and here, here are some things they do.
+[2623.04 --> 2627.38] First of all, they express hundreds of genes differently than they would have in the body.
+[2627.66 --> 2631.62] So they have a completely different transcriptome among those, among those genes, many interesting
+[2631.62 --> 2631.90] things.
+[2632.00 --> 2633.08] I'll just pick one to talk about.
+[2633.44 --> 2636.70] They express a bunch of genes that, and other creatures are related to hearing.
+[2636.70 --> 2640.82] And so we actually tested that and we put a speaker underneath the dish and we played
+[2640.82 --> 2644.10] certain frequencies and we found out that, yeah, in fact, they changed their behavior
+[2644.10 --> 2648.06] depending on the, the, the, the, the, the sound vibration that you're giving them.
+[2648.34 --> 2652.56] They, they do this other crazy thing we call kinematic self-replication, which is if you
+[2652.56 --> 2656.54] sprinkle a bunch of loose epithelial cells into the dish, they do what the kind of Von
+[2656.54 --> 2660.54] Neumann's dream of a robot that goes around and find and makes copies of itself from parts
+[2660.54 --> 2662.36] it's fine from materials it finds in the environment.
+[2662.36 --> 2668.10] They will literally both singly and as a collective, they will go around, they will collect the cells
+[2668.10 --> 2668.86] into little balls.
+[2669.00 --> 2673.70] And because the cells themselves are in a gentle material, just like the ones we started
+[2673.70 --> 2677.60] with, the little balls mature and become the next generation of xenobots.
+[2677.80 --> 2678.46] And guess what they do?
+[2678.54 --> 2679.56] They do exactly the same thing.
+[2679.64 --> 2680.96] They run around, they make the next generation.
+[2681.24 --> 2686.16] So now, you know, there's the, to our knowledge, no other creature on earth reproduces this way.
+[2686.54 --> 2689.68] I don't think there's ever been a kinematic self-replication on earth.
+[2689.68 --> 2694.48] So they raise these kinds of biobots and other kinds of constructs, raise these very interesting
+[2694.48 --> 2699.30] questions of where do the properties of novel beings come from if they don't have an evolutionary
+[2699.30 --> 2699.68] history?
+[2699.82 --> 2706.02] This is something that we are now confronting as a society with AIs and with cyborgs and
+[2706.02 --> 2708.22] hybrids and all these weird things that we're all making.
+[2708.32 --> 2710.68] Where do their properties actually come from?
+[2710.80 --> 2713.88] And here, if we had, you know, maybe next time we'll talk about it because I think it is
+[2713.88 --> 2718.38] this, this platonic space of forms where, where the truths of mathematics come from actually.
+[2718.38 --> 2720.24] But, but so, so that's xenobots.
+[2720.32 --> 2724.40] And we have another thing that was developed by a Gizem Gamushka in my group was a PhD
+[2724.40 --> 2724.70] student.
+[2725.14 --> 2729.18] We call them anthrobots because some people said, well, xenobots, you know, the amphibians
+[2729.18 --> 2730.82] are kind of plastic and it's embryonic.
+[2731.00 --> 2733.28] So maybe it's a, it's a one-off kind of special thing.
+[2733.52 --> 2733.96] So fine.
+[2734.04 --> 2737.12] What's the, what's the furthest you can get away from, from embryonic frog?
+[2737.32 --> 2738.56] Well, adult human, let's try that.
+[2738.70 --> 2741.82] So we took cells from adult human patients, tracheal epithelial cells.
+[2742.00 --> 2746.18] Turns out that they too come together and form these little motile creatures.
+[2746.18 --> 2747.16] We call them anthrobots.
+[2747.30 --> 2752.20] Those guys have 9,000 differently expressed genes, half the genome then, right?
+[2752.54 --> 2756.34] And they can do cool things like they can heal neural wounds.
+[2756.46 --> 2760.54] So if you put them on a bed of human neurons, you take a scalpel, put a big scratch through
+[2760.54 --> 2765.20] it, they can settle into that wound and form what we call a super bot cluster.
+[2765.46 --> 2768.56] And when you lift them up four days later, what you see is that they took the two sides
+[2768.56 --> 2769.86] of the gap and they healed them together.
+[2770.12 --> 2771.86] And again, there's never been any anthrobots.
+[2771.98 --> 2773.78] There's never been selection to be a good anthrobot.
+[2773.78 --> 2775.96] We have to understand where do these things come from?
+[2776.32 --> 2780.54] And who would have thought that your tracheal epithelial cells, which sit there quietly dealing
+[2780.54 --> 2785.24] with pollen and who knows what else, are able to make a self-motile little creature that
+[2785.24 --> 2787.46] can go around and heal things like neural wounds, right?
+[2787.50 --> 2789.50] And this is just the tip of the iceberg for these things.
+[2789.80 --> 2796.00] Well, instead of a frog mags, I humbly suggest the elephant next time as the mascot of Tufts.
+[2796.24 --> 2800.52] I'm from near Somers, New York, which if you know, is right where Barnum and Bailey got
+[2800.52 --> 2803.20] their start and where Tufts got part of its start.
+[2803.20 --> 2804.92] So Michael Levin, this has been phenomenal.
+[2805.04 --> 2805.62] I knew it would be.
+[2805.74 --> 2806.68] It's two years in the making.
+[2806.92 --> 2809.28] I'm glad you took so much of your time.
+[2809.42 --> 2809.88] You're so generous.
+[2809.90 --> 2810.40] Thank you so much.
+[2810.54 --> 2812.26] And I hope that we'll do it again.
+[2812.38 --> 2817.94] As I said, we have questions enough for, I'm counting up here, parts up to part four.
+[2818.14 --> 2820.10] So maybe in person even, that would be great.
+[2820.24 --> 2821.18] Thank you so much, Michael.
+[2821.26 --> 2821.70] Have a wonderful day.
+[2821.72 --> 2822.34] Very good to meet you.
+[2822.60 --> 2823.22] Okay, great.
+[2823.46 --> 2824.00] Thank you so much.
+[2824.00 --> 2828.76] The implication of Michael Levin's work extends far beyond biology, touches upon the very
+[2828.76 --> 2832.60] foundations of physics, consciousness, and our place in the biological cosmos.
+[2832.86 --> 2836.78] If cognition really does go all the way down, what does that mean for human understanding
+[2836.78 --> 2837.44] of intelligence?
+[2837.82 --> 2842.02] And what does that mean for other artificial and alien intelligences throughout the universe?
+[2842.02 --> 2845.82] I know if you enjoyed this conversation about the electric basis of life and consciousness,
+[2846.12 --> 2850.44] I know you'll enjoy my episode with Sir Roger Penrose and Stuart Hameroff, where we explore
+[2850.44 --> 2854.64] quantum mechanics in the brain and whether consciousness might emerge from quantum processes
+[2854.64 --> 2855.74] in microtubules.
+[2855.88 --> 2860.02] Two brilliant minds, two revolutionary ideas about the nature of consciousness and life itself.
+[2860.26 --> 2862.06] Don't forget to like, comment, and subscribe.

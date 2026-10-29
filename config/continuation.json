@@ -1,0 +1,18 @@
+{
+  "automation_id": "continue-levinverse-collection",
+  "kind": "Codex thread heartbeat",
+  "cadence": "hourly",
+  "last_verified_status": "ACTIVE",
+  "verified_at": "2026-10-29T12:01:58.285127+00:00",
+  "verification_basis": "Codex automation tool returned ACTIVE after direct user approval.",
+  "authorization": "User selected: Authorize hourly collection, commits and PR updates.",
+  "scope": [
+    "public source discovery",
+    "authorized full transcript retention",
+    "local CUDA transcription",
+    "task commits",
+    "updates to existing PR #1"
+  ],
+  "runtime_requirement": "Originating Codex app and local computer must be running.",
+  "continuous_crawler_daemon_installed": false
+}

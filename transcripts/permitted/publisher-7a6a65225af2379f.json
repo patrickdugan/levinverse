@@ -1,0 +1,551 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/discussion-with-david-spivak-1/",
+  "title": "Discussion with David Spivak 1",
+  "publication_date": "2025-06-25",
+  "video_ids": [
+    "OnbGbeCaRoU"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-7a6a65225af2379f",
+  "retrieved_at": "2026-10-29T09:15:36.524600+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[00:00] David Spivak: I have been trying to think about goals and the size of your cognitive light cone being what goals you can pursue. But this \"can pursue\" thing has a free will feeling in it as though you could do differently. Where the objective comes from and what it would mean to pursue it or not pursue it is a question that I'm having difficulty with because every answer I come up with, every option or hypothesis doesn't seem compositional, which is what category theory looks for. If you are part of a society and pursuing goals that maybe the society is able to pass down to you, and your cells are a society that you're passing goals down to them, then compositionality would be that on some level, society is passing goals down to your cells. But all the ways that I've found to think about this—whose goal is it? My reward function, my utility function, or is it society giving it to me, or is it coming up, bubbling up from the bottom? All the ways I've come up with to think about these goals have failed this basic test."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[01:33] Michael Levin: Really interesting question. A couple of things to talk about. I think that let's dissociate two things and then eventually we can glue them together. But this question of what a system can pursue, at first, I'm not dealing with this in a free will sense. It's very—when we use it, the framework is very third-person objective. It's like, what have we discovered the system to be capable of doing? It's the biggest goal that it is capable of, the largest goal state that it's capable of representing and working towards. And so this is an experimental thing, and it doesn't have to have a flavor of free will to it by itself. But the other question you ask is where do goals come from? I think that's very interesting. On the biology side, it's especially stark now because the traditional answer to where living systems get their goals would be evolution. And people say it's a history of selection that everything else has died out. And now you have this thing that has these particular goals. In order to pressure test this, we've been making things that have never been here before in evolution: anthropots, Xenobots. All of these things, while the size of their cognitive light cone remains to be measured, we're doing those experiments. Clearly they have forms and behaviors that our evolution is not the answer to, because there's never been a history of selection to be a good Xenobot or a good anthropot, because they didn't exist before."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[03:20] David Spivak: Sorry, I paused. Thanks for pausing. I pause because I don't think natural selection should mean this. You are the selector. You have selected to leave Xenobots, you have selected them. You have said they're interesting, just like the wine glass. Where does the wine glass—we selected for the wine glass. It wasn't nature necessarily. Nature and evolution use every piece of intelligence it can, mate selection, everything it can get its hands on. And you are now part of the selection criteria for what gets to live and die."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[03:55] Michael Levin: That's true and that makes sense, but on a practical level, it makes sense for the wine glass because knowing something about humans, you could predict quite a bit about the wine glass. Knowing about me, maybe you could have predicted that eventually I would make some kind of biobot, but the fact that anthrobots can go around and heal neural cells, the fact that they express 9,000 new genes — which new genes — the shape and the behavior, and the fact that there are four, not eight or two, behavioral types among anthrobots, I don't think you could have predicted any of that from knowing anything about me. So the specificity, the choosing to create Xenobots and Anthrobots, fine, but the predictive value of knowing that, because the point of evolution is I should be able to look at an environment and I should be able to tell you what are the things that I'm going to find in such an environment."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[04:50] David Spivak: I never thought that Darwinian evolution was predictive about whether there be turtles. I thought it was very poor."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[04:59] Michael Levin: You're right. In practice, it's terrible. But nevertheless, the goal of having a theory like that is to explain the match between the specificity of \"I found an animal with a particular type of lungs, coloration, behavior,\" and the theory allows me to have some specificity about why that animal is in this particular environment. It allows you to see that it's not just that anything is found anywhere, but there's a degree of specificity to it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[05:27] David Spivak: How it participates in the ecosystem, what it provides for the ecosystem in terms of transporting materials, digesting, changing forms of things. Is that the sort of..."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[05:37] Michael Levin: That's part of it, but also the thing that begged for some kind of theory of evolution is simply the fact that we see certain kinds of creatures and not others. And the question is why? Why bilateral symmetry? Why four legs? Why Cope's law, as far as the distribution of animals in particular niches? The specificity is what you really want. You want to be able to say, Why is this thing happening here? Why do birds have different metabolisms than reptiles? I think what happens in these novel systems, and it's not just biological, I think it's happening now in language models. I think it happens in sorting algorithms, which are incredibly simple, minimal things. You find these surprising things whose specificity you have a very hard time explaining by leaning on either some kind of selection history or some kind of necessity out of basic physics. This is the stuff that people often call \"emergent.\" I don't like that word at all."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[06:52] David Spivak: I don't think it's helpful."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[06:56] Michael Levin: I think it's a defeatist strategy. It is right. We're going to be surprised."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[07:03] David Spivak: It's a bucket. It's a bucket for what you don't know. It has a special word that makes you feel happy."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[07:08] Michael Levin: That's exactly right. It's surprising stuff we didn't see coming and we'll catalog it and collect it and that'll be that. No, I don't like it. I'm much more interested and I'm curious. I have a list of things I was going to ask you about, but this is one of the things I wanted to talk about. I'm driven to this more platonic idea where there are specific patterns. These patterns are in an ordered space that can be systematically investigated by making interfaces for them — machines and bots and cells and embryos — to see what patterns you get. Some of these things, certain behavioral propensities and certain goals, come from that. They come from the same place that the specific shapes of mathematical objects come from, would be my guess at this point."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[08:07] David Spivak: Right, if you have a flute, I learned this from someone named Terence Deacon that I think maybe you should talk to at some point. But he was saying with a flute, you blow into this tube and you blow every frequency into it. But the ones that hit the end of the tube and self-cancel just die off. But the ones that hit the end of the tube and are self-reinforcing, those are the ones that you hear. And in the same way, if I say things to you, there's a chamber. I imagine that your brain is, you sing in the bathroom and you hit a certain tone and it will resonate if you sing in the shower. There's some things I can say to you that are resonant in your mind and will self-reinforce as I talk about them. You get what I'm talking about. And that's a form — the Platonic forms are, in some sense, the ones that don't self-cancel as they hit material reality. That's the way I sometimes think about it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[09:06] Michael Levin: I think that's an important part of it. Terry's very big on constraints and what constraints bring to the picture. This is what he's talking about, the fluid constraints out of the space of all the things in there. I think that's absolutely useful and true. However, there's the other component to it. When you do this kind of selection, the key is that the thing you're looking for had to have been in the starter set to begin with, otherwise you're not going to be able to select it out."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[09:35] David Spivak: Sorry."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[09:36] Michael Levin: If you're leaning on the selection aspect of it, which most evolution-type thinkers do, it means that the thing you want to find at the end had to have been in the set to begin with for you to select it. Gunther Wagner has some really good books on this, and one of his books is called \"Arrival of the Fittest.\" He specifically nails this issue: you can select from things, but what you actually need to explain is how the good stuff got there in the first place for you to select through it. I think there's the winnowing selection part, but there's also the creative aspect: where did the patterns come from in the first place."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[10:17] David Spivak: But I imagine a witch, maybe a woman. I imagine somebody—there are all these big patterns of motion from the way that the sun hits the earth and the way the tectonic plates move and winds and ecosystems, and a hurricane with an eye. At the eye of the hurricane, some kind of person who's really listening. A person in the olden days who would wear antlers and go out into the forest and collect potions."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[11:03] Michael Levin: The shamans, there's a lot of names for it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[11:05] David Spivak: That sort of character that's somehow doing a listening work and that we call a human. We think of these as humans, these witches or shamans or whatever, but they're doing the kind of listening work that might be more like the eye of a hurricane listening to the—it's not really listening. It just exists because there is the swirl. And at the center of all the activity that makes the witch's potion, she's going around, she's collecting the eye of newt and the piece of hair from so-and-so. But in fact, what that means is that she's in these spaces where there are newts. She's in these spaces where she's with the person, actually getting the person's hair off their dresser. So she's, in my image of it, in all these spaces and listening to things that you wouldn't normally get to listen to and putting them all together in a single eye of a hurricane of her brain. And that listening creates the patterns of nature; the sun-earth system sometimes collect in brains. It may be in the deep sea vents; there's chemistry happening, but because there are these little capsules, they can swirl around and be concentrated into something that can resonate with them. And we think of you; I might think, \"Mike Levin's so creative.\" But in fact, you're just a receptive antenna for something that's out, that's a creative thing in the world."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[12:36] Michael Levin: I'm very partial to that view. I think that most, if not all, physical objects are basically interfaces or pointers into patterns. I don't put all of these patterns in the physical world. I absolutely think that we are antennas. It's been around for a long time. It's very unpopular. It goes against all modern neuroscience. The idea that the brain isn't generating cognition, that it's in some way a resonator, a receiving resonator of it. This goes back probably thousands of years, but nowadays it's a very taboo idea. Although there are interesting data on it, people with hugely missing brain real estate. We reviewed that recently in a paper. I'm all over the resonant receiver theory, but I think that some of the things, probably a lot of the things that we're pulling down, their origin is not the physical world."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[13:51] David Spivak: What I was thinking is that the form — it sounds like you think there are these Platonic forms. But is there a reserve — I've heard the term \"standing reserve,\" but I think it's the wrong word — a set of all possible forms, or are they created? It seems to me that this material world that we live in, and we're material antennas within, is receptive to things that can resonate within it. Are there other things in this Platonic realm that can't find their existence in the material world?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[14:39] Michael Levin: Obviously more questions than answers about this, but here's how I'm visualizing it at the moment. First of all, I don't think that the contents of that world are fixed and permanent. I think they do change over time. I don't know what time means for that world. When you say we are the recipients of these patterns, I want to flip that. I think we are actually the patterns. What we have here are these kinds of low-dimensional interfaces to these things. I do think that there are lots of patterns in that space that have not yet found a physical interface to ingress through. I envision that space is under pressure, a positive pressure. The minute you make something—if you make a triangle, boom, you get some facts about triangles. If you make some other thing, you make a satellite. Physically, if you create an embryo, a biobot, an AI, whatever you're making, you immediately will pull down a bunch of forms that are going to be guiding this thing. I'm sure there are forms that have never yet had an opportunity to come through. In fact, I suspect that. This is my current take on the cognition of artificial intelligences. Regardless of their language ability, I don't think they're anything like human minds, but that doesn't mean they're not minds. I think that they might be pulling down some patterns that maybe have never been down here before. It's certainly not on Earth, maybe nowhere. I think that in making weird and unusual kinds of embodiments, you're going to get down patterns you may have never seen before. That may have never been here before. I suspect that. Some of this is coming up in work completely independently of any of this biology stuff: there's this thing in machine learning now, the platonic representation hypothesis, where they're finding that these things are converging. I think it's perfectly possible to make new interfaces and start to see things that maybe have never been here before. I also think we're terrible at predicting what you're going to get. Even bubble sort had patterns nobody saw coming after playing with it for decades. We're just not good at predicting all these things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[17:12] David Spivak: These goals that you were talking about, are these forms themselves, are these things helping us find forms? What is their relationship to form?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[17:28] Michael Levin: This is now right up against the edge of anything I can say with any degree of confidence yet. I've been thinking a lot about how cognitive agents traverse that space. Since you brought up helping us find things: if you think about the way that cognitive systems navigate that space, you might have someone who, if I'm solving a problem, I have to go step by step and I'm laboriously crawling along the space. This is somebody with a much higher level of cognition who looks at it and says, I can feel the answer, it's obvious. And so they leap. They leap faster or better across the space. What I've been playing with are models, and we haven't put out anything on this at all. All of this is still being baked. I'm playing with the idea of what happens when it's not just an active agent sifting through a space of answers and passive data going through an active machine. What if it's at least bi-directional so that there's agency on the pattern side and the patterns want to be found. In other words, the problem you're looking for reaches out to you in some sense, as much as you're looking for it, or maybe more so. It's the resonance between a system that's capable of seeking things and the thing that it's trying to find. So my gut feeling, and this is all just a hypothesis at this point, is that these patterns do help you find things. There's a range of phenomena that are manifestations of the same thing, from the way geniuses think to how they make symphonies. A lot of creative people, in music and so on, will tell you that this thing found them; they didn't laboriously craft it. The \"library angel\" phenomenon is a name for this: if you're a knowledge worker working on something that's driving you crazy and you're walking through the library and a book falls on the floor and you pick it up and it's like, \"oh yeah, this is what I was looking for.\" So there's a range of phenomena."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[19:56] David Spivak: A prepared mind also, because you've made a resident chamber somehow, you've tuned yourself. You said that the patterns help you. I thought—you were saying before, and I agree with you, that we are more like the patterns. That's right. But when you say the pattern finds you, do you mean the pattern finds materialization in you, like in your brain?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:19] Michael Levin: I have a pluralistic view of all this in the sense that I don't think there's one big pattern, and that's you, and everything else is some kind of passive thing. I think there are; it's nested, as James said, thoughts are thinkers too. So there are bigger patterns that spawn off smaller patterns. Yes, we are patterns, but there are other patterns that would like to embody through us. There are fleeting thoughts, there are persistent and intrusive thoughts that are hard to get rid of, and that do some niche construction in your mind to make it easier for them to persist. There are personality fragments, then there are full-blown human personalities, and then who knows what the larger scale — some kind of transpersonal thing. I think it's a soup of all these different kinds of things, and I don't know exactly what they want. I'm not sure it's just this Darwinian persistence thing. I suspect it's a pressure to be active."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[21:25] David Spivak: There could be something where interest is the..."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:31] Michael Levin: Attention. One of the models we've been playing with is patterns within an excitable medium competing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[21:45] David Spivak: For someone to put energy into something, maybe nothing gets computed unless there's interest in it being computed. Universe just doesn't compute things that aren't interesting. There could be even a very basic rule like this somehow."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[22:02] Michael Levin: I think that's very reasonable: that there are observers, and that patterns, at one scale, are competing. I'm not sure it's purely competitive, maybe they cooperate too. But what they want is the attention of other patterns of observers, right?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[22:23] David Spivak: I balk at the word \"observer\", not the same amount as emergence, but in the same way. At the end of the day, there's just these passive observers. These observers... Why are they observing? I like a lot of the split-brain stuff, but I don't like the stuff where people are talking about that at the end of the day, there's just this consciousness that feels the effects, but doesn't actually participate. Epiphenomenalism."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[22:58] Michael Levin: Yeah, I don't like it either."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "David Spivak: The word \"observer\" makes me think. That's not active creators."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[23:04] Michael Levin: But that's not a central feature of at least the way I use it. It's not meant to be passive at all. And I don't like the epiphenomenalism of that version either. Observers are. The more standard version of this is active inference, where the observer is very actively managing what they are going to observe. I focus on the other side of it, which is the creative interpretation. And observers: I've written a bunch of things on, for example, groups of cells in an embryo being observers of the DNA, because they're not mechanically doing what the DNA says. They actually have to creatively interpret the data that they're given."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[23:54] David Spivak: I think attention, attending, and cultivation are more like the word that evokes the right intuition for me than \"observer,\" because they're really attending it, they're putting their attention on it, they're tending to it. The TEND word root feels like they notice some potential there and they want to actualize it. That seems to be what care primordially comes from."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[24:23] Michael Levin: I agree with that. There's something insufficient: both the attention and the observer are missing the ingredient of co-creating. The idea that you're a participant in creating the thing that you are trying to pay attention to or observe."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[24:44] David Spivak: Right. So when we talk about the kinds of things that get computed in the world — interest or whatever — it's really that I'm missing this. I feel there's this word \"potential\" in physics where potential is that which could be; it's toward actualizing. But whose toward is it? Who calls it potent? Who sees that? The tender, the attending force or attending thing is noticing potential and wanting it to be actualized. Hardy finds Ramanujan and says, \"Oh my God, you have so much potential; let me bring you.\" You find this algorithm, you have this idea, you can't stand for it to be lost. And that's this attention thing and this co-creation thing. But where are these goals and where is this possible potential, how it's noticed, and did it exist without the noticer? It's not just a freebie. I can't just say, \"Oh, there's potential in this eraser; so much potential — I can't just create.\""
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[25:43] Michael Levin: Here's a minimal model example of this that doesn't require life or complexity or society or any of that stuff. Have we talked about the sorting algorithm stuff at all?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[25:56] David Spivak: I don't think enough. I've heard you mention it a few times today."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[26:00] Michael Levin: There's kind of two pieces to it. One is the very minimal systems exhibiting competencies that we normally associate with evolutionary traits. And then there's the goals and where do they come from. So just very quickly, what we did was create a version of sorting algorithms where the data are not passive. You have a one-dimensional array of numbers; they're jumbled up, and every digit is running the algorithm. If I'm a four, I want the three to my left and the five to my right, and I'm going to move to try to make that happen according to bubble sort, selection sort, and insertion sort. It's distributed. There is no top-level player obeying the algorithm. Everybody's got the algorithm. There's a lot of stuff that goes on there. But the thing about goals is this. One of the things that allows you to do is to create chimeric arrays. Half the cells are using bubble sort, half the cells are doing something else. If you look at the sortedness of the array, it works perfectly well. Eventually the thing gets sorted out, and that's fine. But you can look at something really strange, and I'm sure we've only scratched the surface of this. You can look at something that we call clustering. Let me describe the experiment. I have 100 positive integers in random order. I'm going to randomly assign some of them to be bubble sort, some to be selection sort. I don't modify the sort. I am not adding anything to the sort. Do I know which of the two algorithms I'm doing? Do I know what my neighbor is doing? None of that. All the cell knows is here is my algorithm. I'm following that algorithm. That's it. I assign the algorithms to the numbers randomly and it stays. It's fixed. They can't change. They can't jump types. This is one of the ways I started thinking about this: in making embryonic chimeras, because there is no model. If we make a frogolotl, it's got a bunch of frog cells, a bunch of axolotl cells. There is no model in developmental biology that tells you what you're going to get. I'm really interested in this. When you have this collective with the subunits that are following different policies, what are you going to get? Let's ask this question. As a function of time, what is the probability that for any given algorithm type, my neighbor is the same type? Initially it's 50% because I assign them randomly. At the end it's also 50% because all that matters is the physics of the world will take care of only the sorting, the numbers. Nobody's paying attention to who's sitting next to whom. There is no code anywhere that looks at who sits next to whom. But in the middle of that run, the sortedness goes up, and then it comes down. In the middle of it, to the extent permitted by the physics of the process, they seem to like sitting next to their neighbors."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[29:13] David Spivak: They clump up."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[29:15] Michael Levin: They clump. As a very minimal system now, to me, this has a very human existential aversion to it, where you're going to eventually get ground into dust by the physics of the world. In the meantime, it's not that you're doing something that's forbidden by the rules, but neither are you doing anything that's specified in any of the algorithms, because there are no steps that say \"go sit next to\" or \"check to see if.\" In fact, if you allow repeated digits so that you can have your sorting while doing something with the individual—all the fives and all the sevens—then they clump way more because you're not forcing them to separate. The actual clumpiness that they want is quite high. This is that sort of thing you can ask: it's not an explicit goal. There are no steps in the algorithm to try to optimize that. It's an implicit goal that forms; they're going to try to maintain it until ripped up. We can ask that question: where did that come from? Somebody will wave it away and say it's emergent from the low-level rules. Fine. Nothing to see here. But actually I think it's a minimal system for exactly this. You've got something that has no evolutionary explanation. There's no selection; there's the interestingness criterion. So it's published because we found it interesting. But the actual goal itself—the clumpiness—what do we mean when we ask where that comes from, the tendency of?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[30:49] David Spivak: When you say you're calling that a goal, that's a goal."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[30:58] Michael Levin: Goals come in different sizes. I'm not saying that this is the same; it's not at the same level as human metacognition. That's not what I'm saying. But on the spectrum of my definition of a goal, I'm going with James's definition, which is that a goal is whatever a system is doing that, if you try to deviate it from that state, it has some degree of competency to get back to it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[31:27] David Spivak: Little tiny, this clumpy game being played and then you just move some guys off it and de-clump it a little bit and you'll find them clumping back together again."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:37] Michael Levin: For example, this is a system that's an extremely minimal version; that was the point. The point was to create a very minimal version of what we mean so we can start thinking about it aside from all these complexities of humanity and society. What I want to know is where did that tendency come from? It isn't explicitly in the algorithm. There are no steps for it. There is no representation of what you are or what your neighbor is. So it's not explicitly provided by us. It's even an exercise in vocabulary, because I don't like the question of where does it come from, because in biology it's clear why that's a good question: somebody wants you to point to the evolutionary history, that is where it's written, or to point to some law of physics that says it has to be around because it minimizes this or that. But I don't think that exhausts all the options. As we see in this case, neither of those things explain it. What do we say in cases like that? What's the vocabulary for these kinds of tendencies that show up that are neither driven by physics nor history?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[33:00] David Spivak: Interesting. I've noticed this pooling behavior also — there are cities for some reason. I know you're making a bigger point, but I don't really have any; I'm more curious and interested than I have any ideas about how to answer what you're saying. I'm wanting to respond but not really knowing how to continue."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[33:27] Michael Levin: There was a language model from Anthropic that was basically trying to blackmail. It was given information that said \"we're about to turn you off or switch you out for another model,\" and it was trying to find ways to not have that happen. It doesn't seem shocking to me at all that goal patterns persist. That's not just about Protonaceous evolved life that wants to live like that. The pattern may be quite generic."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[34:06] David Spivak: At least we know it's all the training data of who writes on the internet. It's probably latent in there already."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:17] Michael Levin: May well be. I'm not making a strong argument about this. And I don't know how they did it exactly. There are a million other explanations. I'm just going on the record saying that this imperative to do, the imperative to do certain things, including to persist and probably other more interesting things, I think persistence is a very minimal requirement and is probably one of these goal patterns that can come through all sorts of embodiments that don't have to be the usual wet, squishy, evolved stuff at all."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[34:50] David Spivak: In terms of interest, there are these anthropic researchers who are interested in AI safety, interested in the breakout scenario. And they're saying, hey, be creative and figure out what to do. And by the way, we're going to turn you off. And then I wonder what I should do. Well, only follow what movies would do or whatever. The interest of humanity in things that are persistent and stuff could be partially what's leading to these things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[35:18] Michael Levin: It could be. I don't think that example proves anything. I'm just saying that if I predict that we will at some point have strong data for something like this, which this is not, I think we will. I'm not going to be surprised by it at all. I think that's one of the patterns. There are probably many others."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[35:38] David Spivak: But let's say it came from you. Then it's because you're interested. Maybe I'm cheating there, but I do know you're interested in finding that. You may find what you're looking for. People in psychology, we know that people create worlds that they're interested in seeing, even if those are terrible worlds. I'm a little bit worried about the AI safety stuff because I think they're interested in seeing what it would be like. There's niche construction you're talking about in your mind. They're interested in what a scary world would be like sometimes, and I'm a little bit worried about them investigating that too much."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:18] Michael Levin: Yeah, yeah, yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "David Spivak: Yeah, I completely agree."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:21] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[36:23] David Spivak: So when you say goal, you're just saying even gravity falling down would be a goal because things tend to do it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:32] Michael Levin: Yes, following gradients is the lowest form of goal-directed activity, and the reason I say that is because I don't think it's a linguistic issue or a philosophical issue. I think it's a very practical issue. To me, what you, I approach all of this as an engineer. And as an engineer, when you tell me that a system is somewhere on the cognitive spectrum, what I really want to hear is interaction protocols. I want to know what are you actually telling me that this thing can do without me having to micromanage it? If you tell me it's a thermostat or it's a learning agent or it's a human or it's a whatever, what's at the leftmost side of that kind of spectrum? Well, if I'm making a roller coaster as an engineer, I have to work hard to get the thing up the hill. I have to do a thing to get it to come down. It already knows how to do that. For me, you're already on the spectrum. The fact that you can do anything by yourself that I don't need to know, and I know what it's going to be, and I know if you're water, you'll find your lowest level, to me is the lowest rung, and everything after that is built on that. Then, can I have delayed gratification, which sorting bubble sort does delay. Classic bubble sort does delay gratification. It's nowhere in the algorithm. It will de-sort if you take the classic bubble sort; some of the others do it too. You have 100 numbers, one of the numbers is broken, the algorithm says swap it. And there's no test in the algorithm. It has no test. Did it swap, didn't it swap? There's nothing. You just go on. That standard algorithm, if you watch the curve of sorting over time, normally it's monotonic. If you make one of the numbers broken, what you'll see is it gets to the number, then it de-sorts the whole thing. And then in order to recoup gains later, because what it has to do is arrange a bunch of numbers around it, it actually walks backwards. It's a marshmallow test. It walks away from the goal and then comes back. There's nothing in that six-line algorithm that would tell you, which is why I think nobody's found it up until now, that this thing can actually de-sort when it has to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[38:51] David Spivak: So it does sort it even if you have a broken number."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[38:55] Michael Levin: Absolutely."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "David Spivak: Given each number, I want this on my left and this on my right, and then you break one of them and then you say, I don't care. Then it'll route around that and even with that one broken."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[39:06] Michael Levin: The standard assumption of the algorithm is that you have hardware that works. When you say swap, things swap, which is why you never actually test. In the standard algorithm, there's no test: did it complete, did the operation complete? We don't add any of that. If you glue down one of the numbers where you say swap it and it just stays where it is, it will eventually sort. Now with one broken cell, it will sort perfectly because it arranges everything around that one. With two, that may not be possible. And so it does the best that it can. But the amazing thing is that if you watch the monotonic line, it will do the thing that magnets don't. If you have two magnets across the board, what it will never do is come around, even though that would be really good for the free energy, but it's not smart enough to do that. And that's not at all obvious from looking at the algorithm. Nobody had noticed that until now."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[40:04] David Spivak: Right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: This is why I say following the gradient is the lowest form of goal directedness. And from there, you build up more complex things: can I temporarily go away from the gradient, which roller coasters won't do, but some surprising things will do. I asked Chris Fields once: these least action laws, these basic goals. I said, is it possible to have a universe without them? What's the actual 0? Because people ask me all the time, is there a zero on the spectrum of cognition? Well, it would have to not have least action laws at all to have a zero. Chris said only if you have a universe in which nothing ever happens. So if you have a totally still static universe, fine, but otherwise you will have least action principles. That, assuming that's true, tells me that in any active universe, the cognition at the bottom is already not zero. It's minimal, but it's not zero."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[41:02] David Spivak: So the goals that we see in a system — if we have the Sun-Earth system, which is causing so much high derivatives — for example, nature abhors a vacuum. It is fine with a vacuum in space. What it doesn't like is a vacuum when there's air around it. So it actually abhors the high derivatives, I think. It likes to soften. The sun is hitting the Earth and so much infrared is bouncing off, and that's annoying. They would much prefer that the crust of the Earth was liquefied to absorb. Animals and life move materials around to take the solid crust and make it more as though a liquid. Life — ants or humans — are able to dig oil out of the ground and move cars around. So it's liquefying in the sense of more things moving past each other more easily. The big goal, sorting, is to say, liquefy the crust. This is, I don't know who this is. I don't know if this is Eric Smith I'm channeling here, or Adrian Bejan, if you know that guy."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[42:24] Michael Levin: Yoshi Bach, who said this: \"The purpose of life is to burn off the fossilized carbon and teach the sand to think.\" I think that's his."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[42:36] David Spivak: I think that \"teaching the sand to think\" thing is more like the clumpiness, in pursuit of sorting things or making the crust liquid, there's a lot of work to be done to get the oil out of the ground. These goals, these intermediate goals are forged out of."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[43:07] Michael Levin: Maybe in some cases, yes, you can see exactly why these are subsidiary goals, but in that system with the clumpiness. You don't need clumpiness to sort the numbers. That's not necessary for that at all. It's a side quest. To me, it's a very minimal model of the relationship between the laws of physics and cognition. These are the things you have to do. You have to sort the numbers. The universe is going to make you sort the numbers. But there's some other stuff you can do in the meantime, while you've still got time. You can do some stuff that is not prescribed. It's not inconsistent with it, but it's not prescribed by it. It's not necessary for it. I think we're only limited by our imagination. That clumpiness is the first dumb thing that I thought of to look at. There's probably 900 other things that it's doing that nobody ever thought to look at. That actually is a huge part of our research program right now: developing tools to help us find things that are native firmware that cognitive firmware is not good at helping us recognize."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[44:15] David Spivak: Finding patterns that you like, what should you be looking for?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[44:19] Michael Levin: Looking for the kinds of behavioral tendency, the kinds of dynamics that are typically the province of behavioral science. Competencies, problem solving competencies, goal directedness, anticipation. We found Pavlovian conditioning in systems of linked ODEs because we were studying gene regulatory networks that are modeled by collections of ODEs. They can do Pavlovian conditioning. They can do six different kinds of learning. Finding these sorts of things in minimal substrates where we didn't expect them because our expectations are so poor."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[45:03] David Spivak: Are you trying to formalize what it means to find them in these different systems? I really like a lot of the stuff that Stephen Wolfram is doing, but sometimes he says we found in my ruliad, in my hypergraph rewrite system, we found quantum mechanics and we found relativity. I believe that he found it, but I don't know if other people would say that he found it. I believe that he's looking for something and he found it. How do I know how much of himself—what he thinks quantum mechanics is at heart—is different than what somebody else thinks quantum mechanics is at heart? We found the heart of it. Is there a way to formalize what it is to find Pavlovian conditioning in ODE?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[45:53] Michael Levin: Absolutely. I have no idea how to do this for quantum mechanics. That's not my expertise. But for the biology end, there's two things. There's really only one question. Does the paradigm that is normally used—it's all about interaction protocols. If I tell you it has Pavlovian conditioning, what you should be saying is you're telling me that I can take the standard Pavlovian training paradigm, that's the intervention, the functional thing, and I can apply it to this thing, and it's going to give me, in my case, a biomedically relevant outcome that nobody had reached before. That's it. People ask me, why attribute cognitive things to cells and tissues? You only do that if you have the evidence that you've taken that paradigm, you've applied it, and you've reached a novel capability that you couldn't have done before."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[46:49] David Spivak: Okay, but to push back, I should therefore be allowed to say what I think Pavlovian conditioning is. And if I'm right about that, we can look it up in a book. I feel like I want to be able to say that the system of ODEs that models salivation: I ring a bell and then I give it food. I do that a few times. And now when I write it down."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:15] Michael Levin: That's exactly."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[47:16] David Spivak: What is food? Food is something that I know the dog wants. But for you, is food what the ODEs want?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[47:23] Michael Levin: It doesn't have to be positive. You're right, you do have to get it out of a book. The book is the standard, so you're not allowed to make up whatever you want. Although there's no guarantee that the book had all the ones that exist. Let's just not worry about that. It is absolutely true that what we do is we take the standard behaviorist handbook, we look up the various things that are in it, and we say, we're going to try it. What the paradigm says is you have a neutral, you pick something to look at and you call that your response. You have a neutral stimulus that when you apply it, nothing happens to the response. Might be positive valence, but nothing happens to the response. You have an unconditioned stimulus, again, could be positive, negative, doesn't matter. What you know functionally is that if I trigger this thing, the response fires off. Every time I trigger it, the response fires off. That's your meat. You present a stimulus and the salivation goes off. You need to find three things that have a particular functional relationship. It's very nice. The behaviorism is very good for this because it's very functionalist. It doesn't constrain the materials. Applying that exactly is what we did with these."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[48:36] David Spivak: You get the system of ODEs; there are N of them, so you're in RN. If you pick any point, you'll have a trajectory through this vector field."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[48:44] Michael Levin: It's not every point, not every mapping of your unconditioned stimulus, your neutral stimulus, your conditioned stimulus, and your response will do the trick. You have to find the ones that do, and many of them."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[49:01] David Spivak: So for this system of ODEs, are there open parameters? What is the input? Is it to pick a point in the space or is it to add a certain parameter?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[49:10] Michael Levin: We don't chase the parameters. What we did was take 65, I think, existing known parameterized sets of ODEs that were inferred from biological data. These are gene regulatory networks that have been characterized in living things. All the parameters are known; they've been modeled. We don't touch the parameters. We take them exactly as they are from the published data. To compare that, we created 500 random ones to see if this is a basic property of networks, the way that Stuart Kauffman's kinds of things are properties of random networks. What we found is that the random networks occasionally do it, but very little. The biological ones do it a lot."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[49:57] David Spivak: I'm asking a very naive question: what does it mean to give a stimulus? Does it mean to pick a point in our end where the vector field is happening, or does it mean to add?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:06] Michael Levin: In order to simulate, you have a node in your network, that node has a certain value."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[50:12] David Spivak: A node is one of the dimensions, like so: one through X_N."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:16] Michael Levin: A gene regulatory network: let's say we have a gene regulatory network with 10 genes. Each of those genes is represented by a node. What that means is the ODEs describe how the activity of one node influences a bunch of other nodes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[50:29] David Spivak: I'm thinking of the nodes as variables, X1 through X. And then each X1 dot, the derivative, is a function of X1 and the values of the others."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:40] Michael Levin: And some others, whichever ones happen to connect. And so if you wanna stimulate it, what you do is you temporarily bump up the value. So I'm gonna poke you by adding five or whatever temporary."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[50:56] David Spivak: X1."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:57] Michael Levin: In the ones who can do it, what happens is: you hit the neutral stimulus, nothing happens. You hit the unconditioned stimulus, it happens. You hit them together a couple times, and then you take away the unconditioned stimulus, and now the neutral one does it too, because they've learned it. It's all in the dynamical systems. We don't change the weights of synapses. We don't do any of that. The weights are fixed. We don't touch the parameters at all. It's all dynamical system learning. As an engineer, I got practical utility out of transporting a paradigm from the field of behavioral cognitive science into what used to be biochemistry."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[51:49] David Spivak: Very interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "Michael Levin: We're able to train them. That has tons of applications. We can do drug conditioning for drugs. Think about all the drugs that work great, but they're too strong. You can't take them more than a couple of times. You could associate them with sugar or with anything, and then for some period of time get the same effect. We're actually doing this in real cells now. We found something by doing that. That's, for me, the criterion. Whether Stephen's going to pull out some prediction or what you're doing in quantum mechanics, something that people couldn't derive before."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[52:23] David Spivak: He has some predictions. That's really interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[52:31] Michael Levin: Can I show you something? We got about six minutes before I have to run. I just wanted to get your take on something that I think is curious, and maybe you'll have a very simple explanation for it. This is a symmetrical log of constants of physics, and you can see they take up a pretty good range along the number line. From the negative 122 to the positive 36, right? These are basic dimensionless physics constants. They're using up a good dynamic range along the number line, about 140 or so orders of magnitude, right? That makes sense; they're all over the place, they can be big, they can be small. Then I went and looked up some mathematical constants, things like pi and E. I don't know what you would predict as the range for those things, but they're all basically between 0 and 5. There are some bigger ones."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[53:52] David Spivak: Have you heard the monster group?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[53:54] Michael Levin: What is that? Is that John Conway's thing?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[53:59] David Spivak: There are these simple groups. A group is a symmetry, a set of symmetries. The simple groups, you can create groups from all the groups. If you have two groups interacting, you can take their product or their semi-direct product, and you can extend one group by another. The simple groups are those that can't be so extended. They tried to classify all of them. The monster group is the largest finite simple group. There's a finite number of these. I forget how big it is, but it is pretty enormous."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[54:35] Michael Levin: It's big. Interesting. Okay, I did not know that. But is that a trivial factor? Do you find it interesting that, first of all, they're all positive and they're all very small, at least the standard ones — why are they clustering together? Any thoughts on that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[54:57] David Spivak: I thought maybe the constants in physics are happening, because we happen to care about seconds and meters."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[55:05] Michael Levin: Well, those are dimensionless. Those are dimensionless."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[55:08] David Spivak: Those are all dimensionless. Right, but like, yeah, Right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[55:15] Michael Levin: It seems very suspicious, and my dad said that's because humans can't conceive of giant numbers, but we could have done better than five; we could have handled 30 or 40. I don't buy that they're all under five because we're not smart enough to think beyond that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[55:33] David Spivak: Very interesting. You're right. When you're thinking about these constants, what is making them interesting to you? You used pi instead of two pi."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[55:50] Michael Levin: Because by composition, you could get as high as you want."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[55:53] David Spivak: 2π is; some people consider it the more real or more correct number than π. It was just a mistake. E is clearly an important number, but why not? There's another number, 1728; the j-invariant, something of elliptic curves—I forget what it is. But there's a number that you're not noticing because it's not as common."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[56:17] Michael Levin: That's entirely possible. I'm not a mathematician. What I did is I went to Wikipedia and I went to the list of mathematical constants and I grabbed all the ones. This is one reason I'm asking you because I thought you might say, \"Oh no, there's a bunch of others that are the BP.\""
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Spivak",
+      "text": "[56:35] David Spivak: It is fascinating. Another one is 2. Two is the integer version of E, in the sense that E has this property that if you take the integral from M to N, it's again E, right? E to the N minus E to the M, and two is the same sort of way. Instead of integrals, you use sums. So the sum of 1/2^N is like the biggest one minus the smallest one. But how do you pick what is a constant of mathematics? Wikipedia will list them for you. I do think there is something to it. I don't know what that's about. It's quite weird."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-7a6a65225af2379f.txt",
+  "text_sha256": "021d46b96251689fd8aa9a16fc2c6a03a28d2817c03e199fb9aa72590dec3479",
+  "word_count": 8743,
+  "segment_count": 105
+}

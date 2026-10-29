@@ -1,0 +1,536 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/biology-ai-and-diverse-intelligence-by-michael-levin/",
+  "title": "Biology, AI, and Diverse Intelligence",
+  "publication_date": "2026-09-21",
+  "video_ids": [
+    "Or_3tlEOLj4"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Michael Levin's talks",
+  "tags": [
+    "Michael Levin's talks"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-7eeb22654a13adf6",
+  "retrieved_at": "2026-10-29T09:13:31.565680+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] What I thought I would do today is fill you in on some concepts—some information too, but the concepts are more important—that I think we all need to keep in mind when having discussions about AI and our relationship to it. A lot of the conversation that goes on around AI nowadays tends to miss out on some really important aspects of an emerging field of diverse intelligence. It tends to take place in a vacuum with respect to some facts about what we are as cognitive beings, how we come into the world, and so on. So I thought today I would take you on a tour through some of that stuff."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] If anybody's interested in doing a deep dive, this is my lab website. Here, you can find all the primary papers, the software, the data, everything. And then this is my own personal blog, where I write about what I think some of these things mean."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Let's talk about the relationship between biology, AI, and what we do and don't know about being an embodied mind in this universe. The first question we want to start to address is: What are we actually? That's necessary to understand in order to know whether we are special, whether we are different than the AIs which we create. All of those questions require us to have some understanding of what we are."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Commonly, what you'll hear about are two terms. As I'll argue at the end, I don't think these terms will survive the next decade. People talk about life, and they talk about machines. There are a couple of different ways that the community has been thinking about this, and they fall into two camps. They've been bitter rivals for hundreds of years. What both camps agree on is that there are these sharp categories called life and machines and that these are quite distinct."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] A large number of mainstream scientists will say that what we mean by life is just a complex machine. In other words, if you look down, you will see components. You will see parts acting according to laws of chemistry. Life is a complex machine. These are the computationalists, who think that the key thing here is the computations that these machine parts do. For example, the molecular reductionists will say, “Ultimately, we're all made of molecular components. Chemistry describes how those components interact, and anything else is basically fluff.” What really drives the story is chemistry and the molecular components underneath."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Interestingly, they sort of stop at chemistry. They don't really try to reduce the molecular level down to, let's say, quantum foam or particle physics or anything like that. Chemistry is where people like to stop."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Then you've got the organicists, and these are the people that say life is never going to be well understood by machine metaphors. It is an entirely different kind of thing, and we're simply not going to be able to capture life using the kinds of frameworks that we use for machines. There are machines, and there are these dumb mechanical things that do exactly what our formal models say they will do. But life is not like that."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] I occupy a sort of extremely unpopular position. I think together, two things capture probably 99% of the field. I would say that it is true that life is not well captured by machine metaphors, but I actually don't believe that anything is well captured by machine metaphors. I'll talk a little bit about this at the end. I'm not sure there are any machines in the sort of conventional understanding of what machines are supposed to be."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] In other words, I think the thing that makes us more than what the laws of chemistry are able to describe is true down to even extremely minimal kinds of things that we tend to think about as machines, computers, and so on. That distinction—that magic that allows us to be more than the laws of chemistry—I think, is basically universal."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Another thing that we sort of need to get beyond is this very ancient idea, captured by this piece of art called “Adam Names the Animals in the Garden of Eden.” So here's Adam. He's assigning names to these. There's something that we're going to have to break in this story, but there's also something very important here that I think we get to keep."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] The thing that we are going to break is this idea, first of all, that there is a distinct, discrete set of beings. So it sort of focuses on these mammals and reptiles and so on. But there's a discrete set of animals. We can enumerate them. We can give them names. And Adam, as a human, is the measure of all things. He's going to be the judge of what these things are. That, I think, has to go, and I'll point out why. But the part that I think the..."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": "This captures very well this notion",
+      "text": "[05:07] This captures very well this notion: in those ancient traditions, naming something—giving something a name—means that you've understood its inner nature. You've captured something important about its true inner being. And that, I think, is really important because, in that sense, we are going to have to name some very unusual creatures."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] This is what the Garden of Eden kind of pictures were supposed to look like. This is what we actually have now with advances in understanding of biology, bioengineering, and so on. We pretty much now know that almost any combination of evolved material—so cells, cellular components—engineered material, and software put together is some kind of viable being. These are cyborgs and hybrids and chimeras of all kinds."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] I'm not gonna attempt to go through all of these, but just point out that when Darwin looked at the variety of life on Earth and called it “endless forms most beautiful,” all of that is just a tiny little corner of this enormous space of possible embodied minds. We are not dealing with standard humans and standard animals. Of course, we should have already known that from the theory of evolution. We know that when we say “human,” which human? How far back? And so on."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] But actually, because now we understand that life is incredibly interoperable with all kinds of engineered components, we know that the issue is not us versus language models in a server. The issue is all of the different beings that are going to be sharing the world with us—modified humans and so on."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": "What we want to try to understand is",
+      "text": "[05:07] What we want to try to understand is: how do we relate to all of these beings? And this is a word that was suggested to me years ago by GPT when I tried to come up with a term that is kinda like symbiosis, a mutually beneficial way to go forward into the future, but not just with natural beings and ecosystems, but including the synthetic and the chimeric kinds of beings that are possible and are going to appear. We want to reach this kind of ethical symbiosis with all possible embodied minds, not just the ones that have been here in Earth's history."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] So, let's dig into what we are and where we come from. Each one of us has taken this journey. This is our journey. A fertilized egg cell divides; a bunch of blastomeres then undergoes morphogenesis, or development, to become some kind of creature, including ones that are then going to say that they are more than the machine and so on."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] And there are two interesting things about this journey. First of all, developmental biology now tells us there is no magic lightning flash where you go from being just a pile of chemicals in an unfertilized oocyte to a being with responsibilities and dreams and so on. There is no special time at which that happens. It's a slow, gradual process of development, and I'm gonna tell you what I think that process really entails."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] But the other interesting thing is that, in our disciplines—so, in the university—if you look at the varied list of departments, what you will find are basically names for different stages of this process. So, first, we were all the subject of chemistry when we were a single cell. Eventually, we became the subject of developmental physiology, looking at how the cells are relating to each other. Eventually, we become the subject of behavioral science. Some of us then become the subject of psychology or psychoanalysis and so on."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] And then there are detours that parts of us can take into oncology when they detach from the collective and the cells go on and sort of do their own thing, and also into bioengineering. I'll show you some other things that the cells from your body can be besides you."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] What we know is that the disciplines and the names are distinct, but the substrate is continuous. And all of us are actually made from all of these incredible components that are down here, and these are just names. There is no magic bright line that separates molecular machines from whatever it is that we are here. Whatever it is that we are, it has to be told via a story of transformation, of growth, not of transcending sharp categories or any kind of phase transition. It's some kind of an expansion from what was happening here."
+    },
+    {
+      "start_seconds": 307,
+      "speaker": null,
+      "text": "[05:07] Interestingly, if you look at a computer, it also takes a journey through some disciplines. Before your computer is turned on, it's basically a hunk of metal that is subject to Newtonian laws of gravitation and things like this. Then, once you turn it on—in the first microseconds—it becomes subject to the laws of Maxwell. Electricity starts to flow."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] So now we can look at circuits, and we can look at electrical patterns. Then, shortly thereafter, it starts doing some things that are now understandable via Boolean logic. Some of those electrical flows start to implement logic gates and the sort of remarkable computational capacities that are possible when you have logic gates. Eventually, Turing takes over, and you have something that is following an algorithm very similar to this."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] How do we get to something with will and preferences and valence and so on when you start with just chemical parts doing their thing? Wait. Where does all this come from? Same thing here. What does it mean that this thing is executing an algorithm? What algorithm? Isn't it just following the laws of physics? Shouldn't we just be paying attention to what the electrons are doing? How come there's an algorithm that we think is telling the machine what to do? It's a very parallel kind of situation."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] Eventually, if you put enough things together, you might get something like a language model or an AI, and maybe that thing will then be subject to—just as we are—other disciplines besides this. So one can look at these disciplines as names for the stages of waking up in the physical world and becoming more than you were at the beginning."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] Now, all living embodiments are collective intelligences. We don't currently build AIs like this, but we could, and I'm sure we will. But this is what we're made of. This is a single cell. This is a free-living organism. This is a Lacrymaria. But this is the kind of thing we're all made of. It's very competent in its own little environment. It doesn't have a brain. It doesn't have a nervous system. It doesn't need to. It gets its job done. Everything is done within one cell. What is it inside of this thing that allows it to be so competent?"
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] But the thing about our bodies is that at every level of organization—at the molecular network level, at the cellular level, the tissue level, the organ level, the organism level, and then swarm cognition and so on—each level has its own agendas. It has its own goal-seeking competencies. It solves problems in its own space: the space of gene expression, the space of physiology, of metabolism, and so on. So we are this kind of ecosystem of intelligences, all the way up."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] How do we become a singular agent? When you look at an early embryo, what you might see is a few hundred thousand or a million cells. We look at that and say, “There's an embryo. One embryo.” What are we counting when we say there's one embryo? What is there actually one of?"
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] The interesting thing is that the number of beings inside that embryonic blastoderm is not fixed. So what I mean by that is, if you take an embryonic blastoderm—and this was originally done with bird embryos, but it works perfectly well for mammals, and this is how twins and triplets are formed—if you cut it into pieces, if you make scratches in this blastoderm and separate it into islands, each one of these will give rise to a separate individual. So the number of individuals in an early embryo is not set. It is not fixed by genetics. It can be anywhere from zero to half a dozen or probably more, depending on the animal you're dealing with. So how many beings are actually, quote-unquote, “in” this cellular medium?"
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] And so the reason that you get one embryo, one coherent being out of thousands and millions of cells, is that they are aligned both physically and behaviorally. They're aligned toward a common goal. In other words, what there is one of in this embryo scenario is a future state. In psychology, we call this a collective delusion among a set of active individuals that are all aiming towards one particular future state. They are all going to take a particular journey in anatomical space from being a single cell or a sheet of cells to a snake body, a giraffe body—whatever it's going to be."
+    },
+    {
+      "start_seconds": 611,
+      "speaker": null,
+      "text": "[10:11] But the thing that holds together a single individual that actually could be just a bunch of individual cells acting like amoebas is the commitment to that goal. That goal-directed activity and the commitment to it among the cells are what hold together individuals. And everything we know in the life sciences—embryonic development, regeneration, cancer, aging—all of those phenomena are consequences of this basic fact about our nature. They're all either successes or disorders of this ability to align parts towards higher-level goals."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] Now at this point, you might be thinking, how could a collection of cells have goals or be motivated by those goals to take action and build things? How could that possibly be? I'll remind you that the one example that we all know of a collection of cells that has goals is the cells that are between our ears. Brains are the conventional, sort of uncontroversial example of groups of cells that form a network to store goals. Those goals are stored as memories."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] This is what the hardware looks like. Every cell has little ion channels that allow charged molecules like potassium and chloride to go in and out. Then they can communicate that voltage gradient to their neighbors through these gap junctions or electrical synapses. This is what that electrophysiology looks like. This group did this amazing video of a zebrafish brain thinking about whatever it is that the fish was thinking about. What you can see is this pattern of electrical activation that the neuroscientists will tell you contains, if we could only decode it, the entire cognitive life of that being."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] Turns out that this amazing ability to store memories, to execute goals, to pursue various ends and have opinions and so on is not a new thing that was discovered when brains and neurons came on the scene. This is extremely ancient. Electrophysiology in the brain is just bioelectricity. Evolution was using bioelectricity long before any of this happened. The earliest that we know of is in bacterial biofilms. In microbial kinds of mats, cells are already using ion channels and electrical flows to coordinate information. In fact, every cell in your body, not just your neurons, but every cell in your body has ion channels, forms electrical patterns, and shares them with other cells."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] You could ask the question, what do your non-neural cells think about? We know what your neural cells think about. Originally, they think about moving you through three-dimensional space. Now that we're humans, they also think about moving you through linguistic space and chess space and technology space and social space and so on. Where did that come from? That came from the ability of all cells to work together, to store patterns that move you through anatomical space."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] How do we know that groups of cells in embryogenesis have goals? If you took biology, you might have heard that nothing at that level knows anything. Nothing has goals. It's just chemistry doing what chemistry does. By complexity science and emergence, we can sort of understand that interesting things will appear. That's actually false. That was an assumption that people held for a long time. In many places, it's still held as an assumption. In many cases, it's simply factually wrong."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] What we developed was the first molecular tools to read and write electrical information from non-neural tissue. We can actually look, just like the neuroscientists try to do in the brain, to see what the memories are."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] This is a time-lapse of an early frog embryo. The light and dark represent voltage states that we can read with a voltage-sensitive fluorescent dye. There's a lot going on here, but this is one frame from that video. We call this the electric face because, long before the face is formed and the genes that are necessary to form the face come on, the tissue already has this pattern—which we can read out—that says, \"Here's where the animal's right eye is going to be. Here's where the mouth is going to be. Here are the placodes out here.\""
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] We're reading the mind of the somatic intelligence that is going to use this as its guidepost for what it's going to build. Now we know that if you rewrite this information—we developed tools to rewrite it—you can make the cells build other things because they will just build whatever the goal state is."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] Here's a tadpole from the side. Here's an eye. The brain is here. The mouth is here. The tail is back there. What you're seeing is that we induced an eye to form on the gut because we rewrote the pattern memories. The cells see that, and they say, \"Oh, an eye. We're supposed to make an eye here.\" This tells you that there are high-level, organ-level—not gene expression, not cell level, nothing about the stem cells or anything like that—descriptors of what goes where."
+    },
+    {
+      "start_seconds": 916,
+      "speaker": null,
+      "text": "[15:16] This is another example. It's a flatworm that you can cut into pieces. Normally, you cut them into pieces, and this middle piece will make a one-headed worm because he has a voltage gradient here that says, \"One head, one tail.\" We can rewrite that. We can say, \"Nope. Actually, a good worm should have two heads.\" And when you cut them, that's what the cells will do. They will work towards this pattern memory; they will build a two-headed worm. This is not Photoshop or AI or anything like that. These are actual animals."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] So what I've just told you is that our bodies and the transitions from a single cell into an adult are guided by bioelectric pattern memories of the future state that these cells are going to try to implement."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] Now, the other thing that happens during this process is a scaling of what I call the cognitive light cone. The cognitive light cone is the size in space and time of the largest goal that a system can represent—not how far out it senses, but the largest goal that it can represent. I told you that we need stories of transformation in development. This is what grows. Little individual cells have little tiny goals. All they care about are numbers like pH, hunger level, things like that in their internal environment. They don't really care what's going on outside."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] But if you make a collection of cells, they connect through electrical, but also biomechanical and then chemical means. They are now a much larger intelligence that's able to store grandiose goal patterns like making a limb. How do I know this is a goal? Because, for example, in lots of animals, if you amputate the limb, the cells will very quickly rebuild it, and then they stop. That's basically anatomical homeostasis. It's just like your thermostat. They know what the set point is. If you deviate them from that set point, they will work really hard to get back to that set point, then they stop. And if we wanna rewrite that, here's a frog we made with five legs. You can ask it to do other things if you rewrite the set point."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] So what's happening during both evolution and development is that individual cells join into networks to have large-scale goal states that they then project into other spaces. So this is physiological space, for example, or metabolic space. This is anatomical morphospace. So what I've told you is how our cognitive light cones scale during development—we are this kind of a multiscale collective intelligence that scales up its ability to have goals during this process—and even how the goals are stored and how we can rewrite them."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] But now we have a different problem, which is that the beings that we are going to be dealing with are modified, augmented humans that have used the developing successes of regenerative medicine over the next couple of decades to really have freedom of embodiment, to have exactly the kind of embodiment that they want, not the kind that they were saddled with by millions of years of cosmic rays randomly mutating our DNA and so on. Eventually, we will be able to exert some intentionality about the body that we live in. And so, whether your neighbor has more or less than 50% of their brain replaced by something, you have to decide how you're going to relate to them."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] I gave a talk to some mental health professionals recently, trying to explain that their client list is gonna get really weird really soon. And what's gonna happen is they will be in a position to try to help their patients to have better, more meaningful lives when their patients are not the standard humans that have always been around. Think about dream interpretation, symbolism, the collective unconscious, all of those interesting things. What do they look like for beings that are not your average standard human? It's actually even much stranger than this."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] So how do you relate to beings where you can't simply say that evolution was the origin of whatever their properties are? What are the properties of novel beings that have never been here before? We know that sometimes things evolve. Sometimes things are engineered by us. Sometimes things are trained. And in a few minutes, I'm gonna tell you that these don't even cover the whole—there's a much more exotic option that's also fundamental. But those three things that we've been using in engineering for so long really do not help us understand the competencies, the goals, the preferences, and the inner lives of beings that have never been here before."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] So I'm gonna introduce you to a few of those right now as model systems that we can use to try to understand how we can begin to relate to such systems. The first one we call the xenobots because Xenopus laevis is the name of the frog from which these cells come."
+    },
+    {
+      "start_seconds": 1209,
+      "speaker": null,
+      "text": "[20:09] Here's an early frog embryo. Eventually, it's got about a thousand cells. We scrape off some cells from the top layer here, which are going to be epithelium. They're going to be the outer covering. When you scrape off those cells, you put them in a Petri dish. There are many things they could do. They could die. They could crawl away from each other. They could form a nice flat monolayer, like many cells do in cell culture. Instead, they get together. You can see them doing that here. Each of these little circles is a single cell."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] They get together, and they form this thing, which is this self-motile little creature that runs around, and it has many capabilities. For example, it starts to express a bunch of new genes that embryos do not express that encode for elements of hearing. We saw this, and we said, “Wow. Is it possible that this can respond to sound?” We put them on a speaker, and sure enough, we found out that their behavior changes significantly when you play sounds to them."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] If you give them a bunch of loose cells—that’s what these little white dust things are—they will collect them into little balls. And guess what the little balls do? They mature into the next generation of xenobots, then they go and do it again. That’s the next generation, and the next generation, and the next. They do this thing called kinematic self-replication. No other creature on Earth, to our knowledge, does or has ever reproduced in this fashion. This is completely novel."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] It turns out xenobots can also form memories. They can remember at least two different things for at least twenty-four hours, and probably many more. We don’t know. But they can form memories of experiences that they’ve had, and we can read out those experiences."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] Now, you might think this is some sort of unique frog embryo thing, some kind of amphibian thing. What would your cells do if we liberated them from your body? What you’re looking at here is something called an anthrobot. Anthrobots are made from adult—so not embryonic—adult human cells. These are patients that go in to give a tracheal biopsy. The doctor scrapes some cells from their trachea. We buy the ones they don’t need."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] We ask these cells, “Now that you’ve been liberated from the rest of the body, the same way that the xenobot cells have been liberated from the other cells that normally force them into a very boring life as the outer skin surface of a tadpole, what do you want to do?” What they do is they assemble into this. Here’s a colorized version with the little cilia—the little hairs out here. This is what it is, and they swim around. They have all kinds of interesting properties."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] Looking at this, you might think this is something I got out of a pond somewhere. You would never in a million years guess from studying it this way that if you sequence the genome, you would just see Homo sapiens. There’s nothing wrong with this genome. We never mutated anything. We never edited the genome. No synthetic biology circuits. No weird nanomaterials. Nothing in either organism. This is just releasing other kinds of embodied life that these cells with this perfectly standard genome are able to do."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] What can anthrobots do? First of all, this is a way of representing that these anthrobots express over 9,000 genes differently than they did when they were part of your body, about half the genome. They have a completely different set of genes that they express."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] If you plate them down—these things here are human neurons, and we took a scalpel, made a big scratch through it, put down some anthrobots—they choose one particular location to sit in. They form this thing called a superbot cluster. They sort of attach to each other. Over the next four days, they knit together the damage here. When you lift them up, you see underneath them: they’re healing across the gap. They’re able to heal your neural wounds."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] Whoever thought your tracheal cells, which sit there quietly in your airway for decades, if you took them out of your body, would form a self-motile little creature with completely different gene expression and the ability to heal your neural cells? Many applications here for medicine: personalized biobots that will go in your body to make repairs. They are made of your own cells; you won’t need immunosuppression."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] But that’s not what we’re gonna talk about here. What I wanna talk about is what these novel beings are telling us about embodied minds more generally. For example, we have a conventional story that we tell that explains this. It explains the stages of frog development. Here’s the embryonic development series. It explains the behaviors of tadpoles and so on. And that’s standard evolution."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] Evolution says that we paid for all of this amazing competency because that’s what we have to explain. That’s what Darwin was trying to explain. Where does competency come from? We can explain that by the effort that was made by this genome bashing against the environment for millions of years. In other words, that’s the process that gave rise to these very specific properties. It looks like this and this, and it acts like this because there were specific environments in which that was the only way to survive."
+    },
+    {
+      "start_seconds": 1509,
+      "speaker": null,
+      "text": "[25:09] Evolution is supposed to explain your form and function with a high degree of specificity for your past history. That’s what’s supposed to explain why you look like this and not like that. How does that work for xenobots and anthrobots? There have never been any xenobots or anthrobots. There’s never been selection for kinematic self-replication. There’s never been selection for anthrobots to go and repair neural wounds. No past stage of human development looks like that or acts like that. When did we pay the computational cost of this? It’s absolutely remarkable."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] And it's not enough to just say that at the same time that you were selecting for a frog, you also somehow got xenobots, or the same story for humans. That's not how this is supposed to work. Evolution is meant to explain specific features in light of past environments. So this already raises an interesting question: Again, where do these come from? Long before we can say, “Where do the psychological features of novel beings in our midst come from?” we have to be able to understand these kinds of very much more simple model systems and ask, “Where do their features come from?” If you can't blame evolution, where do they come from?"
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] This is perhaps the weirdest part of the talk. Let's take a look at what's inside of cells: molecular pathways. Molecular pathways are sets of different kinds of molecules that up- and downregulate each other. You can draw a little network that says which one up- and downregulates which other one. So we have these mathematical models that describe how these molecular networks work. They were studied for years using dynamical systems theory. We did something quite different, and we studied them using the tools of behavioral science."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] We don't know what kind of intelligence is present in what embodiment. We can't assume. You can't just have sort of philosophical feelings about what does and doesn't know things, makes decisions, stores memories. No. You have to do experiments. We took some standard tools from the behavioral scientist's toolbox, and we applied them to molecular networks, finding out that they're trainable. They have memories. Never mind cells. Never mind neurons or brains. The molecular network models alone are able to form six different kinds of memories, including Pavlovian conditioning."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] One interesting thing that happens is when you train them, they raise a property known as causal emergence. Causal emergence just means that the whole is more than the sum of its parts. For example, when you have a rat that knows that it presses a lever and gets a reward, the cells that interacted with the lever are not the cells that get the reward. No individual cell had both experiences. The cells don't know what it is. It's the rat. So the degree to which the rat is more than the sum of its cells and can own information that the cells don't have—that's what we measure by causal emergence, and there are mathematical tools now for doing that."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] What you find is that these networks, when you train them, their causal emergence goes up, so they become reified as a unified intelligence. When that happens, their learning rate goes up. These things are linked in a positive feedback loop. Causal emergence and learning are sort of potentiating each other."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] We more recently found out that if you force them to forget—if you wipe certain memories, which is important biomedically; that's one reason why we're doing it—they do not come back down in the gains of causal emergence that you have. So what you have here is this amazing ratchet. It's a positive feedback loop between intelligence or learning ability and causal emergence and existence as a unified agent."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] Now you might think that evolution has had over a billion years of optimizing networks for this amazing property, so this is why animals get more complex and minds get more complex and so on. What we actually found is that the molecular networks that have this amazing property do not need evolution to have it. Even completely random networks that we made up that have had no history of selection for anything on Earth are already incredibly close to optimal with respect to this ratchet."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] This means that the material that evolution is working with, the molecular networks themselves, is already primed for intelligence and complexity. You didn't have to select for it, although, no doubt, evolution exerts selection force on those networks. But the material already comes sort of preoptimized for these kinds of things. It's really incredible."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] Here's the key. That property is a property of the mathematics that describes networks and causal emergence. It does not come from physics. It has nothing to do with the specific laws of physics about specific chemicals. It is not about evolution because it occurs long before you have replicators, so this has nothing to do with selection. If you want to know where the amazing property of life comes from that allows it to aim upwards unidirectionally in terms of intelligence and agency, it comes from math. It's a free gift from math, and this becomes very important for the next step."
+    },
+    {
+      "start_seconds": 1817,
+      "speaker": null,
+      "text": "[30:17] What does it mean to have a free gift from math? How can math give you anything? Don't we live in a physical world? Math is just a description of what happens in physics. Right? This is the standard way of looking at things now. Take a look at this pattern."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] This is a really beautiful pattern, and it doesn't hurt that it's very organic-looking. I like that a lot. It's what we call a Halley map of a simple mathematical function. So here's a mathematical function: z cubed plus seven. You iterate it, and when you plot certain aspects of what it does, this is what you get."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": "Now, this is critical",
+      "text": "[35:25] Now, this is critical: this particular equation gives us this particular pattern, not some other pattern, not a no pattern, not a pattern with two big things instead of three or whatever. The specifics of this shape are not defined by any law of physics, biology, or anything else. There is nothing you can do in the physical universe. You could be God, tweaking all of the fundamental constants of physics—the speed of light, the number of dimensions, the cosmological constant. You can do anything you want to those kinds of things. You will never change the fact that this is the specific pattern that you get from this function. You will never change the digits of pi or the natural logarithm e or any of the truths of number theory or anything else."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] The fact is that the truths of mathematics and the patterns that come from mathematics inhabit another world. I know everybody loves monism. Nobody wants another realm to think about. They want a nice, tidy picture. But you can't have that on the cheap. You have to deal with the fact that we have a physical world that we discover through empirical means—that we can do experiments and make changes—and then there is this whole other set of truths. It's not a random grab bag of things. It's a structured set of patterns that are studied in mathematics that are not changeable or able to be investigated in the same way. This is not a new idea. Plato and Pythagoras saw this very clearly, which is why mathematicians call the space of these kinds of things Platonic space. It's the space of important facts that are not physical facts."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] So now that we know that mathematics can offer you static patterns, what else could it offer you? We've been studying something we've been calling “free lunches.” They may not be actually free, but they're free lunches in the physicist's sense that you get more than what you paid for. When you build—whether it's a body or an embryo or a robot or whatever you build—you pay a cost in designing it. You pay a cost in evolving it. You pay a cost in training it, but you always seem to get more out than you put in. And the delta, that difference between what you put in and what you get out, is these patterns from this Platonic space. You can call it whatever you want."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] But what do you get? We know you get static patterns. You also get trajectories of patterns, for example, the stage series of xenobots. But the most important things you get are behavioral policies and goal states. You get things that serve as targets for intentional activity, and you get competencies that are recognizable to any behavior scientist. You get behavioral propensities for navigating spaces. This is quite amazing. These free lunches are incredibly important. Evolution exploits them very readily."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] And so you might think biology clearly has some kind of magic where it can exploit patterns from a nonphysical space. In bio-inspired engineering, what people try to do is learn from the biology, and they try to use those principles in making technology: neuromorphic computing, robotics, things like that. So what is it about biology? Maybe it's evolution. Maybe it's the sheer complexity of it. Maybe there's some kind of quantum effect that's happening. Clearly, you're getting more out than you put in, and we could study this at all levels."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] We could talk for hours about how individual cells solve novel problems they've never seen before. We could talk about human geniuses and prodigies sort of downloading the symphonies and whatever in a very different way than what happens when you laboriously, step by step, solve a problem. I do a whole talk on inspiration that we can talk about. But the point is that you could think that this is special. This is what makes us special."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] In fact, people have argued that while computers are just mechanical things, they can only follow algorithmic rules. We get inspired, whatever that means. Nobody has an idea for what that is because, at the same time, scientists will tell you that you're just chemistry, and so that's that. But in some sense, people think: No, we're somehow more than that. We get these inspirations. We don't just follow rules. Completely unclear how that could be compatible with the laws of chemistry as we know them."
+    },
+    {
+      "start_seconds": 2125,
+      "speaker": null,
+      "text": "[35:25] But what I'm here to tell you is that while these sort of free lunches from this space of patterns do very much affect biology, we are not special with this. I don't have time today to go into all the details, but I have a couple of blog posts breaking it down."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] Even extremely simple deterministic short algorithms—for example, classical sorting algorithms that computer science students have been studying for eighty years—even those simple deterministic things are doing things that are not literally in the algorithm. They have competencies that correspond to no code in the algorithm. These competencies are things like delayed gratification, homophily, biological kinds of things that are clearly recognizable to cognitive and behavioral scientists, and there is nothing in the code. We know because we can see the code. It's just six lines of code. There's very little complexity there. And what you get is not just unpredictability or complex behavior. You get behavioral competencies."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] This is really important, and we have a whole research program on this. This isn't philosophy. Not only do we do the wet-lab biology in these questions, we also do computational work where, for example, we give robotic embodiments to mathematical objects. What if the digits of pi were used as the behavioral policy for a robot—if we gave pi a body, not just as a wheel? That wheel is a body for pi, but it's kind of a boring one. What if we give them a robotic body that uses the digits of pi as a behavioral policy? No AI. No intelligence beyond whatever is already frozen into the digits of these mathematical structures. What would the behaviors be? We're now characterizing them."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": "My point from all this is the following",
+      "text": "[40:27] My point from all this is the following: We need a lot of humility here because most people either consciously accept or somehow in the back of their heads have this idea that they're somehow more than what the formal model of chemistry describes. People will say that my hopes and dreams and inventions and love and everything else are not captured by the mechanical rules of chemistry. But most people think that that's true for us. But over here, you've got these dumb machines, and the machines do exactly what our formal models say they would do."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] I would say that I think even for machines and algorithms, we have to remember that our formal models never capture the entire phenomenon. There are Turing machine paradigms that you can apply to certain things, and they're useful in many different ways. But let's never think that just because they're useful, we have captured the full array of what the system really is and stop looking. Because once you start looking, even at things that have been looked at up and down for decades, you discover new things that are relevant to this question of what we are, what they are, and so on. Our minds are not fully defined by our models of them, but neither are our synthetic minds—neither for their limitations nor for their competencies."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] I'll very briefly introduce you to another thing that is a nice stepping point between tools and colleagues. MOMBot is a robot that we've built. It stands in our lab on the Tufts campus. What this has is an AI that tries to make hypotheses about what signals it could give to frog cells to make xenobots with specific properties. Then it physically carries out the experiment. We load in some frog cells. It has the ability to apply vibration, optical stimulation, electrical stimulation, chemical stimulation, and so on. It sends the signals to the cells, then the cells form something. MOMBot examines the form and function of what it's built. It has cameras. It examines the behavior of what it's built and then revises its hypothesis and tries again."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": "It does the full loop of science",
+      "text": "[40:27] It does the full loop of science: hypothesis generation, doing the experiment, interpreting the data, revising the hypothesis. This sort of infinite loop—it does the whole thing. To my knowledge, this is the first automated robot scientist system that is working not in molecular biology or microbiology or something, but actually in morphology. It's actually building multicellular beings."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] Here's why I bring it up. There's something quite interesting about this in the way that it forces us to think. I'm gonna give you three perspectives on what this technology is. First, you can definitely imagine it as a translator interface between us, human scientists, and the cellular collective intelligence. After all, what it's going to allow us to do is to crack the morphogenetic code. It's going to allow us to understand: What do we say to cells to make them build specific things? In this case, the MOMBot is a translator interface between us and the cells. That's true. That's a perfectly valid way to look at it."
+    },
+    {
+      "start_seconds": 2427,
+      "speaker": null,
+      "text": "[40:27] But here's another way to look at it. The MOMBot is a collective intelligence that is exploring a space. It's not exploring physical space. When people say AIs aren't embodied, embodiment doesn't just mean in three-dimensional space. It doesn't need to be moving in our 3D space to be embodied."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] It has a body, and it moves that body through anatomical space. It explores the space of possible form and function. What's the body? The frog cells. MOMbot is exploring that body through the interface of the biological tissue that we gave it—through the living cells."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] In other words, we are trapped inside of a body where we explore the outside world with retinas and touch and smell and maybe other senses that are being currently developed for people. We explore the world through these other things. MOMbot is like that too. It explores its world through an interface, and that interface happens to be biological. So it's a really interesting, novel cyborg. It's a kind of a combination of living and engineered technology."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] The third option is this. I don't know if you saw this little video. Someone on YouTube put their turtle on a skateboard. And as soon as you put this turtle on a skateboard, you unlock this amazing behavioral repertoire. The turtle is now fast. It can keep up with the cat. It wants to play. The cat looks a little freaked out at this radical change. It makes sense. Humans are also very uncomfortable when things change quickly. And what you've unlocked here with an extremely simple prosthetic is a whole new cognitive domain. The turtle is now able to play with the cat at the cat's speed because of just a very passive, simple prosthetic."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] From this perspective, the MOMbot is the prosthetic to the frog cells. So the frog cells are enabled now to do things that they would have never otherwise been able to do if not for this prosthetic. Of course, this is a very high-IQ prosthetic, and we can imagine all of us will potentially have the option of having smart chips. Right now, your phone is somewhat smart, but it's in your pocket, and your glasses and your cane and things like that are not very smart at all. They're good prosthetics, but we'll be able to have the full range of prosthetics. So we have to start thinking about where each being is in this relationship to other various beings. What are the agents here?"
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] What I think, and you can read more about this here and also on my blog, is that bio-inspired computing isn't when you make technologies that are biology-inspired. What it is is when you make interfaces that are inspired by the same thing that inspires biology, which includes specific patterns of behavior, of problem-solving, of navigating different spaces that come from a nonphysical space."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": "And so this is kind of the craziest part of this",
+      "text": "[45:32] And so this is kind of the craziest part of this: it's a model of the world which has been very unpopular for the last few hundred years, which is really this idea that, yes, we all benefit from patterns in this space. It's not just the biology that benefits, but also the technology that benefits. But that space doesn't just contain the contents of mathematics. Mathematics is just the lowest level of that space. It just contains the patterns that are simple enough to sit still for formal analysis, as they do in math. It also contains more complex, higher-agency patterns that we recognize as kinds of minds. So mathematics, then, is the behavioral science of a specific layer of this Platonic space, but there are other layers of that space containing other patterns that we study in behavior science and cognitive science and so on."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] And so this is a picture of minds as fundamentally being a part of this space and becoming embodied by functionally affecting various configurations in the physical world, which we call their bodies. And so I don't hold to Plato's original model where all of these things are static and unchanging and permanent, and nothing new happens. I don't think that's true. I think these things are probably very dynamic. I think they learn and grow from their experience in the physical world, but that's an assumption. I can't really prove that."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] What I can show and what I have shown you is that we really need to start mapping out the contents of the space to understand what it is that we build when we make a human embryo, a biobot, a robot, an AI, all of these things. We are basically pulling down patterns because what we've built is an ecosystem which hosts these kinds of things."
+    },
+    {
+      "start_seconds": 2732,
+      "speaker": null,
+      "text": "[45:32] And in my group, what we're doing is creating tools, including AI-based tools, to communicate with all kinds of unusual embodied minds. So we want to be able to talk to molecular networks. We want to be able to talk to cells, to tissues. At some point, you should be able to pick up your phone and say, \"Hey, liver. Why do I not feel well? What's going on?\" And you should be able to have a conversation by putting language interfaces on things that normally don't speak."
+    },
+    {
+      "start_seconds": 3039,
+      "speaker": null,
+      "text": "[50:39] They have cognitive states of various degrees, of various complexities. They navigate different spaces. They just don't use language, and we can make tools for this, I think. One of the latest efforts on this is using virtual reality and video games and things like this to have meaningful interactions with systems that otherwise have never been spoken to or heard from."
+    },
+    {
+      "start_seconds": 3039,
+      "speaker": "The final thing is this",
+      "text": "[50:39] The final thing is this: I think this Garden of Eden view is sort of going away. I think the future is going to be extremely weird, extremely diverse. Intelligence is going to spread out into embodiments that we can't even comprehend. Humans love binaries. They love ancient categories that were handed to us from prescientific times. We love in-group, out-group distinctions where we can say the system is not like us. We are very bad currently at recognizing and communicating with beings that are not like us. We have not had a clear understanding of what we ourselves are. We are not physical beings, I don't think, occasionally impinged upon by patterns. We are the patterns. And what else our cognitive kin are in that space is something that we're only now beginning to recognize."
+    },
+    {
+      "start_seconds": 3039,
+      "speaker": null,
+      "text": "[50:39] The future of our species, of being a mature species, requires us to develop a science that goes beyond our traditional mind blindness to understand what it's like and how it works to have different kinds of intelligence come into the physical world and grow and change and ethically relate to each other."
+    },
+    {
+      "start_seconds": 3039,
+      "speaker": null,
+      "text": "[50:39] I would just thank the postdocs and the students who did all the work. Lots of amazing collaborators. There are some disclosures. There are four companies that have licensed some of the work. Remarkably, some of these philosophical topics that have been around for thousands of years are now generating not only data, but applications that the companies want to license. So philosophy is important. It's not sufficient by itself, but actually, it's very important. I'll thank all these people, and I thank you for listening."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-7eeb22654a13adf6.txt",
+  "text_sha256": "28a2a85b83e1368fd6c000f811741567a1bc2fd6463ca98a1e5570088a2ab518",
+  "word_count": 8735,
+  "segment_count": 102
+}

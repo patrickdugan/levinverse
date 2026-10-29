@@ -1,0 +1,683 @@
+[0.40 --> 6.32] We've all conversed extensively about information previously, but what is the meaning of this
+[6.32 --> 12.46] information? What precisely is the distinction between information and meaning?
+[13.40 --> 17.56] For me, what I'm really interested in, and I'm not going to try to give a mathematical
+[17.56 --> 22.92] definition or anything, but what I'm really interested in is this polycomputing perspective
+[22.92 --> 29.54] where you focus on the observer. So there's some given set of physical events, and there
+[29.54 --> 35.74] are one or more observers that are choosing how to parse what they're observing in different
+[35.74 --> 41.20] ways. So that might be time scale, that may be granularity, and then the ways in which
+[41.20 --> 46.04] they fill in things that aren't actually in the data at all relative to their expectations,
+[46.04 --> 54.66] and most importantly, the way in which they will use the patterns in that data to do something
+[54.66 --> 59.28] moving on into the future, right? So adaptive utility of whatever's there. That's
+[59.28 --> 62.82] that, to me, is the most interesting thing about information. It's on the receiving end
+[62.82 --> 67.92] and how much processing and creativity is used by agents to do something interesting with
+[67.92 --> 68.10] it.
+[69.76 --> 75.58] Carl, do you have any disagreements as to how information becomes meaningful to a cell or
+[75.58 --> 81.60] an organism or to a society? And what's precisely this difference between information and meaning?
+[81.60 --> 89.38] Yeah. So I just recapitulate what Mike has just said, but using the language of a physicist. So I think
+[89.38 --> 97.76] you'd have to start just by acknowledging that most of the physics that's brought to the table to
+[97.76 --> 104.24] explain this kind of self-organization that has some meaning for the things that are self-organizing
+[104.24 --> 110.26] rests upon information theory. So you have very elemental concepts such as self-information,
+[110.26 --> 117.14] which is just the implausibility of an event as enumerated by the negative log probability.
+[117.46 --> 122.92] The average of self-information would be entropy, and that's an important measure. And then you can
+[122.92 --> 130.94] work up to sort of things like free energy as an information theoretic measure of the quality of any
+[130.94 --> 137.40] self-organization. But I think to sort of speak to Mike's point and to your question about the
+[137.40 --> 143.76] distinction between information in an information theoretic sense, possibly in a Shannon-esque sense,
+[143.92 --> 152.48] and meaning, I think you really do have to take a relational or observer position. So from my point of
+[152.48 --> 160.32] view, under the free energy principle, the whole point is that if you've got a separation between
+[160.32 --> 168.74] the observer and the observed, you now can understand the dynamics and the self-organization of the
+[168.74 --> 177.62] observer as holding probabilistic beliefs or mathematical or Bayesian beliefs about the observed. And I think
+[177.62 --> 185.36] that's where the meaning arises. So it's not the information theory of the observer. For example,
+[185.36 --> 196.16] neuronal activation when I see a particular visual scene. It's what that pattern of activity means for
+[196.16 --> 205.82] encoding and representing the meaning of the sensory input, the visual input that caused that activity.
+[205.82 --> 218.30] So if you allow me to use beliefs in a mathematical sense as Bayesian beliefs, then the meaning is
+[220.02 --> 227.46] inherent in what those beliefs are about. And because you've now got the separation between the observed and
+[227.46 --> 235.42] the observer, they are the beliefs of the observer about the observed, which could be the rest of the
+[235.42 --> 243.44] universe. It could be you, another person that constitutes my niche, you know, what I am observing. So I think
+[243.44 --> 249.16] there's a really important, you know, sort of distinction between meaning and information, which really takes you
+[249.16 --> 255.96] beyond Shannon, information and information theory, and really forces you to make a
+[255.96 --> 259.74] distinction between the observer and the observed.
+[260.82 --> 267.42] Could I try something out here? I want to see what Carl thinks about this, and just to see if you like the
+[267.42 --> 276.66] whole premise or, and if so, what you think. I've been thinking about information on a sort of
+[276.66 --> 281.86] behavioral timescale, a developmental timescale, and an evolutionary timescale from the perspective of
+[281.86 --> 288.70] this bow tie architecture idea. The idea that as an embryo, or as a cognitive being, you don't have
+[288.70 --> 293.70] access to the past, which you have access to are the memory engrams that the past has somehow left in
+[293.70 --> 299.62] your brain or body. And that at any given moment, as an active agent, what you have to do is interpret
+[299.62 --> 305.46] those traces, and then they make use of them in some sort of, you know, forward aimed behavior.
+[305.46 --> 315.92] And I've been playing around with the idea that whereas the left side of that bow tie where instances of
+[315.92 --> 320.96] experience and so on are then compressed somehow into a generative model that sits at the center of this
+[320.96 --> 329.22] bow tie. So that may be as algorithmic and mechanical, maybe. But the right side seems to the interpretation of
+[329.22 --> 334.08] your own memories and the information that you've got from the genetics or from anything else seems to be
+[334.08 --> 339.56] fundamentally creative, right? That doesn't seem, because you've lost information, it doesn't seem to me that
+[339.56 --> 345.58] you can do that in an algorithmic way. It seems like that's what we would call creativity, is being handed
+[345.58 --> 350.98] something and then you have to come up with different ways to make it relevant and make it useful to your
+[350.98 --> 358.18] future behavior. Do you think that kind of architecture is useful and that way of thinking about it is useful? And if so,
+[358.18 --> 364.86] what are your thoughts on that creative aspect? How do you uncompress these kinds of things where the
+[364.86 --> 369.66] environment has changed, you've changed, many things have changed, and now you have to make some kind of
+[369.66 --> 372.36] use out of this? So how do you see that, the right side of that funnel?
+[374.50 --> 382.52] That's a great question. I think the answer to that question would come in two parts. The first part would be a bit of a
+[382.52 --> 390.60] technical part, just to fully endorse this notion of a bow tie. You didn't mention light cones, so you should at some
+[390.60 --> 400.66] point mention cognitive light cones. But I'm going to sort of just take another perspective on that picture. And that
+[401.64 --> 408.34] perspective would be the kind of perspective that the people like Tali Tishby would have taken, which is the information
+[408.34 --> 417.14] bottleneck, which basically emphasizes the importance of compression. And one way of looking at this sort of
+[417.14 --> 424.10] bottleneck is over time, very much in the picture that you were painting, where the present is the
+[424.10 --> 431.28] bottleneck. And just incidentally, it is the simplest of Markov blankets that separate the observed from the
+[431.28 --> 438.22] observer. But in this instance, the Markov blanket is the present that provides a separation between
+[438.22 --> 445.66] the past and the future. So it's where it all plays out. I think compression is an important notion
+[445.66 --> 457.18] here, because one way of reading the interpretation of another kind of bottleneck, which is just the
+[457.18 --> 467.38] sensory input available to a particular system or organism or cell, is to infer the causes of that
+[470.08 --> 477.64] bottlenecked input, to decompress, to disentangle, and to find creatively, perhaps. I would say more
+[477.64 --> 482.82] constructively, because I think creation in a future-pointing way, I think that's the second part of my answer.
+[483.06 --> 492.28] But certainly in a constructive way, to reconstruct on the inside, the inside of the observer, the best
+[492.28 --> 500.40] explanation for this particular compressed sampling of the world that is available through your sensory
+[500.40 --> 506.20] epithelial, through your cell receptors. And the maths of that is really interesting, because
+[506.20 --> 514.48] you can also, well, in terms of interpretation, I would read that as imprints. So filling in the gaps,
+[514.48 --> 523.00] finding the best explanation for this partially observed bottlenecked sampling of the world, that just is
+[523.00 --> 530.42] inference. And that's important to say out loud, because any system that can be described as performing
+[530.42 --> 539.06] inference can also be described as performing a gradient descent or having some dynamics in which
+[539.06 --> 548.86] the variational free energy is minimized, simply because that is exactly the quantity used in statistical
+[548.86 --> 554.92] inference and variational inference, say, for example, a variational autoencoder that itself has a bottleneck
+[554.92 --> 563.34] architecture, if you think about it. So if you can describe self-organization as a gradient flow or a
+[563.34 --> 574.42] dynamic that looks as if it is interpreting and inferring, then you now have, I think, a formal link between
+[574.42 --> 582.16] the notion of creativity and the notion of the bottleneck from the point of view of compression. Because as
+[582.16 --> 588.66] people like Jürgen Spithuber would emphasize, or indeed people, you know, the architects of
+[588.66 --> 600.52] sort of induction and complexity, minimum description length ways of describing this art of interpreting
+[600.52 --> 608.02] through inference, they would all, all of these interpretations would lend themselves to a
+[608.02 --> 616.04] compression notion, which basically provides one heuristic on why bottleneck architectures are so
+[616.04 --> 621.80] predominant, say, machine learning. So you take a transformer architect or a variational autoencoder,
+[622.24 --> 626.92] anything that has a sort of encoder and decoder kind of architect, what's it doing? It's forcing
+[626.92 --> 633.76] it through a blocking leg, you're compressing it down in a way that it forces you to find a simple
+[633.76 --> 641.86] explanation for this content or for this data. So you could call that creative, but I think you were
+[641.86 --> 646.74] talking about a slightly deeper kind of creativity, which is the future pointing, the planning aspect,
+[647.64 --> 653.00] you know, what it means to me in terms of how I now go and sample that data and how I act upon that
+[653.00 --> 660.14] data. And I think that that's the essence of the creativity. And from my, from the physicist's point
+[660.14 --> 668.20] of view, or my perspective, that creativity is really acting in a way to get the right kind of
+[668.20 --> 675.34] information that allows me to find simpler explanations for my lived world. So if, and if
+[675.34 --> 681.42] you can do that, you've got to, if you like, a creative home, generalized homeostasis at hand.
+[681.66 --> 688.34] Yeah. I mean, so, so on the biology end, you know, you, you, you, you talked about filling in the gaps,
+[688.40 --> 695.94] right? And so, so I see, I see two, two aspects to this. One is the sort of in painting idea where
+[695.94 --> 700.32] it's, it's gaps with, you know, sort of, they're more minor in a way because they're within
+[700.78 --> 704.70] an existing structure and, and, you know, you sort of fill in the things you don't know,
+[704.78 --> 709.46] but overall it's within a structure. And then, and then what we see often in the biology is a kind
+[709.46 --> 716.72] of outpainting where you're going further into areas where the past has not, has not prepared you
+[716.72 --> 722.12] for. Right. And, and just as a, you know, as a simple example, the anthrobots, you know,
+[722.12 --> 727.16] we recently, right. So, so these are these, these self-motile little, little creatures that are
+[727.16 --> 734.20] formed from human tracheal samples. They self-assemble. We, we recently studied their
+[734.92 --> 740.86] transcriptome and we found out that about half of the genes in the human genome are differentially
+[740.86 --> 745.12] expressed in these anthrobots. And so we haven't touched the genome. There are no synthetic biology
+[745.12 --> 749.18] circuits. There are no nanomaterials. There are no weird drugs. It's just, they have a new lifestyle,
+[749.18 --> 755.00] a new environment. And they have, they have radically altered the way that they express
+[755.00 --> 759.08] the genes that they've been, that they've been given from their past experience as human embryos
+[759.08 --> 763.06] and then, and then humans. And the xenobots too, there's some, there's some amazing stuff that we
+[763.06 --> 769.50] fished out, out of novel transcriptional motifs that is that, that xenobots express now in their
+[769.50 --> 774.34] new lifestyle that actually allow us to, to communicate with them in a new way. This will all be
+[774.34 --> 779.70] forthcoming shortly. And so, so just, just, you know, this idea that, that there's, there's the
+[779.70 --> 784.92] in-painting filling in of gaps where your environment is in small ways different than,
+[785.10 --> 789.72] than what you knew, but basically the old tricks still work. And then there seems to be this,
+[789.78 --> 793.54] this is what I meant by the, by the creative, right? It's that you have to go beyond what you've
+[793.54 --> 798.04] already seen and use the affordances you have, the things that the genome does give you
+[798.04 --> 804.94] in novel ways for a new lifestyle that is, is clearly not random, clearly not just a trial
+[804.94 --> 809.04] and error. It's got some sort of a coherence to it. That's actually quite adaptive, you know,
+[809.10 --> 812.70] in these new environments. So that's what I'm really interested in is that, that kind of problem
+[812.70 --> 819.96] solving where it, it goes beyond filling in and, and kind of out into completely novel scenarios,
+[819.96 --> 827.36] you know. Is this not the same problem that you and I shared, Michael, when we were birthed?
+[828.06 --> 831.96] It, yes, yes, by the way, absolutely. I know. I, I a hundred percent agree. I think that
+[831.96 --> 837.68] the, the reason that, that these living things have all that plasticity is because they're never
+[837.68 --> 843.02] actually committed to the standard embryonic story anyway. They, they'll, they'll take that story
+[843.02 --> 848.16] under default circumstances, but I don't think they, with, with very small exceptions, maybe nematodes,
+[848.26 --> 851.18] you know, where all the cells are numbered and they kind of all do this, the exact same thing.
+[851.48 --> 856.70] The vast majority of us love living things, I think have to, have to solve this issue from,
+[856.70 --> 859.02] from, from, from the beginning. Yeah, I, I agree with that.
+[860.83 --> 867.67] So that speaks to a sort of interesting, um, application of scale-free, uh, polycomputation.
+[867.91 --> 875.85] Yeah. So, you know, my, my genotype then is basically my conspicuous or my species memory
+[875.85 --> 882.49] of the kind of world, but not the particular world that I have to creatively maintain myself
+[882.49 --> 889.89] in and self-organize within. So are you saying then that the, uh, the genome, um, basically
+[889.89 --> 898.95] equips me with a kind of, um, plasticity and the ability to learn an unrealized environment,
+[899.15 --> 905.37] an unrealized as yet, um, world, which we have to co-construct with each new generation?
+[905.89 --> 911.27] Yeah, I would say that, I would say that the genome is not, um, so much a memory of the past
+[911.27 --> 918.89] world as much as it's a memory of how to, uh, of various tricks that together can comprise a
+[918.89 --> 924.73] problem-solving agent that then might be exposed to the same things that you were exposed to before,
+[924.85 --> 929.33] but actually might not be. And long-term, you, you know that you, you can't just stick with what
+[929.33 --> 932.85] you have because you know you're going to be mutated. The, you know, your own parts will change,
+[932.85 --> 937.59] the environment will change, right? So, so I, most recently I've been really working on
+[937.59 --> 944.19] the implications of biology as a very unreliable medium. And the fact that unlike, uh, unlike
+[944.19 --> 949.49] current computational devices, it's not about, you know, error correcting in the sense of let's
+[949.49 --> 953.89] stick to the right, to the same meaning of the data that we had before. Conversely, we, we, we know
+[953.89 --> 959.69] that nothing we see is reliable and, uh, and, and our past ways of dealing with things cannot
+[959.69 --> 966.09] necessarily be counted on. And so what successful life forms do is, is, is create problem-solving
+[966.09 --> 970.15] agents that do their best, you know, kind of beginner's mind kind of thing from, from, from the,
+[970.23 --> 974.35] from, from scratch. So I would say, yeah, I think, I think more and more that that's what I think,
+[974.51 --> 980.19] uh, the genome is actually giving you is a, is a, is a bag of, uh, information processing, um,
+[980.47 --> 984.17] tricks as opposed to specific solutions for specific past problems.
+[984.17 --> 991.58] So that's one step up from Stuart Kaufman's selection for selectability or second order
+[991.58 --> 996.94] selection. That's right. It's actually, it's not just, um, selection for selectability. It's
+[996.94 --> 1003.08] actually selection for learnability. Yeah. And, and we see, right, if we, um, so, so I've had,
+[1003.22 --> 1008.48] uh, I've had a couple of papers now with, um, uh, Lakshwin, Shwisha and, um, Ben Hartle, where we
+[1008.48 --> 1014.00] actually model what happens when you take seriously the idea that the layer between the genome and the
+[1014.00 --> 1018.82] phenotype is actually intelligent, meaning it's not just a complex mapping. Well, certainly not a
+[1018.82 --> 1022.74] linear mapping, but it's not even just a complex mapping. It's actually a mapping that, uh, that,
+[1022.74 --> 1027.20] that's, that's a, that's a problem solving, uh, system. And when you do that evolution,
+[1027.56 --> 1032.38] the dynamics of evolution are quite different because what it ends up happening is, um, what it
+[1032.38 --> 1037.08] ends up doing is by, by being able to fix, as we see in embryos, you know, they're, they're, uh,
+[1037.16 --> 1042.24] they're able to repair all sorts of weird things that happen to them. Uh, by doing that,
+[1042.24 --> 1047.28] it hides information from selection about how good, what, what was actually in the genome,
+[1047.30 --> 1051.24] because when, you know, when selection sees a good embryo, well, was that good because your
+[1051.24 --> 1055.12] structural genome is good or because it was actually quite a mess, but, but you fixed it
+[1055.12 --> 1059.42] along the way. Right. And so when that, when that happens, a lot of pressure gets taken off of the
+[1059.42 --> 1064.72] actual, um, uh, genotype, but, but all the, the work tends to be done on the competency itself,
+[1064.72 --> 1069.22] on the problem solving capacity. And if you take that all the way to its conclusion, which I think is
+[1069.22 --> 1074.58] what planaria have done is basically because, because of their, um, lack of Weissman's barrier
+[1074.58 --> 1078.66] in the, in the asexual strains and the fact that they accumulate every mutation that doesn't kill
+[1078.66 --> 1083.54] those neoblastics spreads into the next, uh, you know, into the, into the regenerative body
+[1083.54 --> 1089.52] because the, because the hardware is so unstable, they've basically put all their effort into creating
+[1089.52 --> 1094.12] an algorithm that will build a proper worm, no matter what happens to the, you know, to the hardware.
+[1094.66 --> 1098.48] And this is, and, and then the rest of us are sort of, you know, salamanders and then,
+[1098.48 --> 1102.40] and then mammals and then C. elegans, you know, we're sort of at different levels on that continuum.
+[1102.54 --> 1106.24] How, how seriously do you actually take your genome? Right. I think, I think C. elegans takes
+[1106.24 --> 1111.06] it extremely seriously. I think planaria, uh, don't pay that much attention to it at all.
+[1111.26 --> 1115.60] And, and which, which, which explains a very weird observation. Well, two, actually two observations.
+[1115.92 --> 1120.52] One is that people have been trying, I think for about at least 30 years, probably longer to
+[1120.52 --> 1127.04] make transgenic planaria and it just doesn't work. There are no transgenic planaria. And also there
+[1127.04 --> 1132.16] are no, uh, mutant strains of planaria, uh, unlike every other species where you can get, you know,
+[1132.26 --> 1137.42] drosophila with curly wings and, you know, mice with weird tails and whatnot. There are no, uh,
+[1137.64 --> 1143.64] mutant strains of planaria, uh, except for there's, there's two weird lines of planaria hours that are
+[1143.64 --> 1148.32] not genetic, right? The, the double-headed form and the, and the cryptic confused form, and those are
+[1148.32 --> 1152.44] not genetic. And so I think, I think what's actually happening is planaria are, and we have
+[1152.44 --> 1158.44] computational, uh, experiments that show this is that there's this like runaway, uh, ratchet for,
+[1158.44 --> 1163.82] uh, taking pressure off of the structural genome and onto this competency, the, the intelligence of
+[1163.82 --> 1168.08] that layer that interprets the genome to give you some, you know, something. I think, I think that's
+[1168.08 --> 1175.91] what's going on. So I'd like to touch on something you had mentioned earlier, Carl, you said that
+[1175.91 --> 1183.87] the present moment is the simplest Markov blanket. Can you explain? As you know, on Theories of
+[1183.87 --> 1188.73] Everything, we delve into some of the most reality-spiraling concepts from theoretical
+[1188.73 --> 1195.41] physics and consciousness to AI and emerging technologies. To stay informed in an ever-evolving
+[1195.41 --> 1201.97] landscape, I see The Economist as a wellspring of insightful analysis and in-depth reporting
+[1201.97 --> 1208.59] on the various topics we explore here and beyond. The Economist's commitment to rigorous journalism
+[1208.59 --> 1213.43] means you get a clear picture of the world's most significant developments, whether it's in
+[1213.43 --> 1218.41] scientific innovation or the shifting tectonic plates of global politics. The Economist provides
+[1218.41 --> 1224.29] comprehensive coverage that goes beyond the headlines. What sets The Economist apart is their
+[1224.29 --> 1229.83] ability to make complex issues accessible and engaging, much like we strive to do in this podcast.
+[1229.83 --> 1234.59] If you're passionate about expanding your knowledge and gaining a deeper understanding of the forces
+[1234.59 --> 1240.15] that shape our world, then I highly recommend subscribing to The Economist. It's an investment
+[1240.15 --> 1246.73] into intellectual growth, one that you won't regret. As a listener of Toe, you get a special 20%
+[1246.73 --> 1252.63] off discount. Now you can enjoy The Economist and all it has to offer for less. Head over to their
+[1252.63 --> 1262.29] website www.economist.com to get started. Thanks for tuning in, and now back to our explorations of the
+[1262.29 --> 1265.51] mysteries of the universe. Can you explain?
+[1266.47 --> 1276.57] Um, simply in virtue of the fact that everything I need to know about the future that can be
+[1276.57 --> 1282.89] determined by the past is written on the present. So this is just a math, this is just a definition
+[1282.89 --> 1291.21] of any Markovian process, um, and assumes, of course, that we live in a Markovian universe,
+[1291.21 --> 1302.21] um, as described by things like the Lauschwan equation. Um, so reading a Markov blanket as a
+[1302.21 --> 1310.17] set of states, um, that provide a separation in terms of conditional independences, that's the
+[1310.17 --> 1316.13] definition of a Markov process, that the current observation has within it everything you need to
+[1316.13 --> 1322.63] know that is useful in predicting the future. And in a sense, that's the, you know, that that's one of
+[1322.63 --> 1331.89] the, um, foundations of the information bottleneck, um, um, approach to this and notions of predictive
+[1331.89 --> 1337.09] information, uh, that if you like is passed through this particular bottleneck, which is, which is the
+[1337.09 --> 1344.57] present, which I, I, you know, could be a mathematical, um, a useful mathematical device when thinking about
+[1344.57 --> 1352.55] the kind of, um, um, um, one could read what Mike was talking about. And I should say, it's always
+[1352.55 --> 1358.35] a delight to listen to him. He's encyclopedic when it comes to your biotic self-organization. There's
+[1358.35 --> 1363.87] a number of examples that he has at his fingertips. I think it's really illuminating. Um, but the,
+[1364.99 --> 1373.39] you know, what struck me is that one could, um, he was almost arguing for, um, you know, a return to
+[1373.39 --> 1380.23] Lamarck in evolution, which the, you know, the Evo Divo people would love the psychological, um, or a
+[1380.23 --> 1386.55] combination of evolution and psychology, uh, that puts sort of cultural niche construction into the
+[1386.55 --> 1392.89] mix, um, which is all about problem solving in a creative way. I would just write that down as,
+[1392.97 --> 1401.35] you know, um, inference towards, um, good models that, that have high explanatory power. Um, but it,
+[1401.35 --> 1408.83] it may be that that sort of Evo Divo perspective on, um, I think Mike might call it polycomputation,
+[1409.41 --> 1415.99] um, may be nicely articulated through this sort of, uh, predictive information, uh, notion when
+[1415.99 --> 1425.02] thinking about how generations and phenotypes within different, uh, how you get sort of, um,
+[1425.76 --> 1432.68] what is past transgenerationally? Is it the knowledge about how to solve problems or the knowledge
+[1432.68 --> 1442.78] about, uh, uh, the knowledge of, uh, how to, um, at a higher order, uh, solve any problem that
+[1442.78 --> 1447.84] have, that solve problems that have not been, uh, have not been solved before? I was very badly
+[1447.84 --> 1452.68] expressed, but I'm trying to get to a third order, uh, uh, uh, selection, uh, basically.
+[1454.46 --> 1459.68] Carl, your model has noise as something to be minimized or error as something to be minimized,
+[1459.68 --> 1468.10] but I'm curious if this noise is also a source of creativity and novelty. So I, I guess, Michael,
+[1468.16 --> 1472.58] you can speak on that even though it's a, it's about Carl's model. I want to know what you think
+[1472.58 --> 1480.24] of that. Yeah. Um, I think that, uh, the, you know, the question of what's noise and what's not
+[1480.24 --> 1486.60] is very much in the eye of the, of the beholder. And so trying to, trying to cut up the, you know,
+[1486.60 --> 1491.46] and, and, and I, I, I think, I think Carl will say that it also has to, uh, has to do with what
+[1491.46 --> 1495.50] you were expecting to measure and the things that are outside of that, you might interpret as noise,
+[1495.50 --> 1501.32] or you might take that as an opportunity to, to compute something else. Um, so I, I, you know,
+[1501.40 --> 1505.58] I think, I think, uh, no, no, I think noise is interesting, but I think it's just part of the,
+[1505.94 --> 1511.14] uh, moral, the bigger issue that even in the deterministic system, a finite observer that has no
+[1511.14 --> 1516.78] actual noise, a finite observer is going to have to pick some things to take very seriously. And
+[1516.78 --> 1521.10] then some other things that it's going to treat as noise in the sense that it's going to just, uh,
+[1521.36 --> 1525.72] coarse grain over it and ignore it and, and find invariants that are, uh, that, that are, that are
+[1525.72 --> 1533.86] not paying attention to that at all. Yeah. I have to sort of qualify, um, responsiveness, um, in terms
+[1533.86 --> 1539.58] of what, what kind of noise we're talking about, you know, you could be talking about the random
+[1539.58 --> 1549.92] fluctuations that are at the heart of the, the populistic statistical structure of the universe.
+[1550.02 --> 1554.76] So, for example, we mentioned before that we can reduce the universe to a Langevin equation,
+[1554.96 --> 1564.38] which just says that the states of the universe evolve in time as a function of the states of the
+[1564.38 --> 1584.52] universe plus noise. Um, so noise in that sense is foundational in terms of, um, uh, equipping this
+[1584.52 --> 1592.48] universe with a probabilistic description and the notion of inference and, uh, meaning, um, in the kind
+[1592.48 --> 1597.30] that we talked about before, or you could have meant prediction error, uh, which I think is what
+[1597.30 --> 1604.14] Mike was speaking to. So prediction error is the, um, the surprise or the mismatch that would ensue
+[1604.14 --> 1612.54] if the way that I make sense of this world, um, is not able to fully accommodate the sensory
+[1612.54 --> 1618.98] evidence or what the world tells me. That kind of prediction error, um, has got nothing to do with
+[1618.98 --> 1624.54] the random fluctuations that I was just talking about. This kind of prediction error, um, it plays
+[1624.54 --> 1631.14] an essential role in belief updating. So technically this, the prediction error is actually this, the
+[1631.14 --> 1639.82] variational free energy gradient. And if everything, if we, um, self-organize in a way that looks as if
+[1639.82 --> 1645.94] we are being, um, if we are interpreting, if we are being creative and creating good explanations
+[1646.56 --> 1654.82] for our sensorium, then, um, um, and we are describing that as a, uh, a gradient flow on
+[1654.82 --> 1661.22] variational free energy, what that is equivalent to saying is all my belief updating and all my
+[1661.22 --> 1667.32] self-organization is literally driven by prediction error. So in the absence of prediction error, I would
+[1667.32 --> 1674.06] be dead, or I wouldn't lose to be at thermodynamic equilibrium. Um, so it is prediction error that drives
+[1674.06 --> 1680.22] the dynamics and the utterance of biotic self-organization. So that kind of noise prediction error is
+[1680.22 --> 1686.90] absolutely, it, it, it shapes self-organization and it, uh, it underwrites the meaning of the kind
+[1686.90 --> 1690.80] that, uh, you know, that we'll be discussing in the opening of the conversation.
+[1691.96 --> 1698.52] Let me see here if I can tie some threads together, such as the bow tie, Michael, and the self-organization
+[1698.52 --> 1706.64] you've just mentioned, Carl, in the present moment, how necessary is the concept of the now, or even
+[1706.64 --> 1713.58] the experience of the now, to the self? Uh, well, let's see. So, so what I've been thinking about, um,
+[1714.24 --> 1722.54] is, uh, extending the, and Chris Fields and I have done some, some work on this together, is extending
+[1722.54 --> 1729.14] the notion of communicating laterally with other beings at, at your own sort of temporal level, uh,
+[1729.52 --> 1735.40] applying that to communication with your past self and future self. So this idea that, uh, what,
+[1735.54 --> 1741.84] what you have at any given moment is, um, uh, a set of, uh, uh, let's say engrams or information
+[1741.84 --> 1746.88] structures that are basically communications from a past self that has done some work on niche
+[1746.88 --> 1751.28] construction of your environment to make it easier or harder for you to do things now. And you're about
+[1751.28 --> 1755.72] to do that to your future self by actions that, that you take now. And so I think, I think that,
+[1755.80 --> 1761.24] that, um, that, that, that center of that, um, of that, of that bow tie is really critical
+[1761.24 --> 1769.56] because it defines the, uh, it defines the, the, the need for, for the, for the self to be an ongoing
+[1769.56 --> 1775.68] constructive process of storytelling and interpretation and, uh, and, and searching for meaning and, and
+[1775.68 --> 1780.70] this, um, you know, this, uh, constructive aspect that, that, that Carl talked about, uh, what I called it
+[1780.70 --> 1787.28] creative, but, but, but, but it, it really defines the job of the, of the self as this basic, well,
+[1787.46 --> 1793.02] to use recursively the same word in a definition, I guess is it's a, it's a, it's a self, uh, telling
+[1793.02 --> 1798.30] story in other words, right. It's a, it's a, it's a continuous process of trying to understand what
+[1798.30 --> 1803.90] you are based on what you've been communicated to by, by your past instances. And, and this happens,
+[1803.90 --> 1805.68] I think it happens all the time.
+[1806.92 --> 1817.85] And I, and I would agree entirely, um, and, um, perhaps just, you know, ask a question back, back to Mike
+[1817.85 --> 1824.87] about, about that particular formulation. Um, before so doing though, like, it's interesting to sort of pick
+[1824.87 --> 1834.55] out, um, how often the word self appears in both formal and narrative accounts of, um, being. So,
+[1834.55 --> 1841.67] we were talking before about self-information, which is just literally the negative log probability,
+[1841.99 --> 1848.99] um, of finding something in a particular state or an event happening. Um, and of course the thing
+[1848.99 --> 1855.79] that you are attributing, uh, that self-information to, uh, operationally as a self, but in a really
+[1855.79 --> 1864.21] trivial and, uh, unmeaningful way. Um, self-organization is another phrase we often use. So, we are,
+[1864.21 --> 1869.81] implying that there is a certain kind of selfhood from the point of view of an observer, um, which
+[1869.81 --> 1876.29] does not necessarily imply that the thing that is self-organizing itself has a notion of selfhood.
+[1876.45 --> 1884.51] So, I suspect that what Mike was talking about was this rather, um, uh, almost counterintuitive,
+[1884.51 --> 1893.23] but, but, uh, I think appealing notion that the observer is somehow creating an explanation
+[1893.23 --> 1903.09] for her observations that entail or rest upon a notion that the observer is itself a subject
+[1903.09 --> 1910.75] or observation. So, self-observation, which is quite remarkable. Um, and, um, you know,
+[1910.75 --> 1917.83] in my world, um, and we, we've, we've spoken about this on a number of occasions, it is just a fantasy.
+[1918.15 --> 1922.97] It's just a story, a narrative of the kind that Mike was trying to intimate that sort of ties the,
+[1922.97 --> 1928.81] the past and the future together to give you a sense of continuity. It is a story because you can
+[1928.81 --> 1933.39] certainly lose that sense of selfhood and certainly in certain psychiatric conditions
+[1933.39 --> 1941.13] where you don't have a notion of self. Um, so it's a, it's a quite a friable kind of, um, story that we
+[1941.13 --> 1949.33] tell ourselves that, you know, implies a certain degree of persistence and continuity as we, um, as we
+[1949.33 --> 1955.19] sort of take our present, our specious present and move our Markov blanket through this, uh, Markovian
+[1955.19 --> 1963.23] universe. Um, the one question that I'd come back to Mike on is to have this sort of,
+[1963.39 --> 1973.83] um, continuity of self that transcends the, the moment. Um, would you need to have as part of your
+[1973.83 --> 1984.65] apparatus for explaining the world, um, a notion of you changing the future, a notion of, um, acting upon
+[1984.65 --> 1991.85] the world and knowing the consequences of your action? So in my world, that there's a bright line
+[1991.85 --> 2000.33] between authentic agents who actually imagine in their head as an observer of the world, what would
+[2000.33 --> 2007.45] happen if I did that? Um, and as soon as you imagine these counterfactuals, you're now in the
+[2007.45 --> 2013.85] interesting game of selecting one or other to actually realize physically. Um, so my question, Mike,
+[2013.85 --> 2022.13] would be, is the kind of selfhood you were talking about, um, implicit in anything that self-organizes
+[2022.13 --> 2033.45] or is it a special gift or attribute of certain possibly quite complicated systems that are able
+[2033.45 --> 2039.57] to predict their future or specifically their counterfactual futures conditioned upon the way
+[2039.57 --> 2048.05] that they might act upon the world? Wow. I think that, um, what you, what you've described is, uh, is a
+[2048.05 --> 2057.61] special kind of advanced kind of self, but I do see, uh, simpler versions of it, uh, going far down
+[2057.61 --> 2065.79] below the explicit, um, uh, recognizable ability to, to model forward various things that are going to
+[2065.79 --> 2070.19] happen and then choose one. I think that there are simpler systems that do versions of that,
+[2070.33 --> 2075.47] uh, as, um, I don't know what the vocabulary for this is, but, but, but without having, without having
+[2075.47 --> 2082.17] an explicit mechanism to do so, some of that ends up happening anyway, as a by-product of simpler things
+[2082.17 --> 2089.43] that they're doing. And, uh, yeah. And so, and so, and okay. And, and so I want to, I want to tie this,
+[2089.63 --> 2094.41] maybe this will be part, part of the answer to this. I want to tie this to, um, a kind of weird,
+[2094.41 --> 2098.89] weird inversion that, that I, that I've been playing with recently. And, uh, Chris and I just
+[2098.89 --> 2103.93] had a paper on this too. Let's, we'll, we'll see, we'll see what you think of this. Um, under standard
+[2104.29 --> 2110.89] circumstances, we tend to think that, uh, thoughts and thinkers are quite different things, right? So,
+[2110.95 --> 2115.29] so let's say in the Turing machine kind of thing, you have the actual agent is the physical machine,
+[2115.29 --> 2120.07] and then you have passive data, you have patterns in some excitable medium, and the agent works on,
+[2120.07 --> 2125.43] you know, they, they, it modifies those patterns. Uh, perhaps an observer could see patterns in its
+[2125.43 --> 2131.13] cognitive medium, right? You know, thoughts of, of various kinds, uh, uh, as, as patterns in that
+[2131.13 --> 2136.39] medium. And so, uh, what I've been, what I've been thinking about is, is, is, is flipping it or,
+[2136.51 --> 2143.17] or more accurately dissolving the, the distinction and asking to what extent can we ascribe the,
+[2143.17 --> 2150.17] the, the agency or, or to take the perspective of the pattern itself as opposed to the, to the
+[2150.17 --> 2156.63] machine, to the thinker. So the idea is, uh, if we, if we look at it from the, okay, so on the
+[2156.63 --> 2160.63] Turing machine side, if we look at it from the perspective of the data is actually in charge,
+[2160.77 --> 2165.15] it's active data. The machine does whatever, whatever, whatever the data, you know, says,
+[2165.33 --> 2170.31] but, and, and the machine is in some way, just a scratch pad in the world for, for the, for,
+[2170.31 --> 2175.07] for what has actual agency, which is the pattern in the, you know, in the, in the data. And then
+[2175.07 --> 2180.15] you could imagine sort of, um, uh, a continuum of different, uh, different, different degrees of
+[2180.15 --> 2184.85] sophistication of these patterns. I mean, we know in different mediums, uh, some or different media,
+[2184.97 --> 2188.39] some patterns just sort of come and go and they dissipate immediately. Others hold themselves
+[2188.39 --> 2193.51] together. Others might compute or process information, but, but in all of these cases, uh,
+[2193.77 --> 2198.37] it's, it's the actual pattern in the medium that's, that's doing this. And so I wonder to what
+[2198.37 --> 2204.09] extent, you know, we can say like, like in a, in an embryo or in a, uh, or in a cognitive system,
+[2204.21 --> 2210.55] you could say that it is maintaining, um, it is maintaining a story by operating on these data and
+[2210.55 --> 2217.99] sort of concocting a consistent, uh, story that goes through time. But to what extent can we actually
+[2217.99 --> 2224.27] take the perspective of the pattern itself and to say that it's, it's the pattern that propagates
+[2224.27 --> 2229.33] across and that, uh, the degree of continuity you have, and again, it's not a fixed thing. It,
+[2229.39 --> 2234.21] it consistently, it continuously changes, but, but the continuity is provided not by the, the
+[2234.21 --> 2238.39] physical machine that's doing it, not by the thinker, but by the, by the pattern that in some
+[2238.39 --> 2244.77] way pulls along or resonates with, right? The, the, the, the structure that either can or cannot
+[2244.77 --> 2248.75] maintain it. And if it cannot maintain it, then you get birth defects and psychiatric, you know,
+[2249.39 --> 2254.53] disruptions and so on. But, but in the ideal case, it's the, it's the story itself. And the
+[2254.53 --> 2259.73] reason I bring this up is, um, not, not, not only because I, there are some actual, uh, biomedical
+[2259.73 --> 2264.15] implications of thinking of it this way in particular on bioelectricity, asking whether
+[2264.15 --> 2268.71] it's the body that tries to, uh, operate on bioelectric patterns or whether it's the patterns
+[2268.71 --> 2272.99] that are actually driving and pulling the biochemistry with it. There are some very specific experimental
+[2272.99 --> 2278.85] implications of that. But, but, but, but, you know, part of, I think you and I are in, in
+[2278.85 --> 2284.89] agreement on, on the, on the need for, for the self to be a process, but I'm, I'm worried
+[2284.89 --> 2289.53] that it might sound to people listening that it's a kind of, um, at least, and at least
+[2289.53 --> 2294.77] from my end, it's not meant to be a kind of, uh, deflation or a, you know, a nothing but
+[2294.77 --> 2299.11] ism, you know what I mean? That, that it's like, well, it's a story and in a, in a way
+[2299.11 --> 2302.69] that tends to reduce it. Like, it's just a story. It isn't, you know, it isn't real.
+[2302.81 --> 2307.61] And, and for me, I, I think, I think it's the best kind of story there is, which is a,
+[2307.73 --> 2312.37] you know, a, a, a self-referential loop that, um, actually locks itself into existence.
+[2312.37 --> 2317.41] And it's not the physical machine that might or might not, um, dilute itself with that
+[2317.41 --> 2322.63] story, but actually it is the, the, the story is the, is the thing. And, and, and the rest
+[2322.63 --> 2326.79] of it is just trying to sort of keep up and implement it. But, but the, the structure
+[2326.79 --> 2331.21] of the pattern is, uh, is, is, is the thing. And it's, you know, to me, it's, it's, it's
+[2331.21 --> 2334.97] a real, it's a real and important, uh, an important thing. So, so what do you think about
+[2334.97 --> 2340.21] that? This, this idea of taking the perspective of, uh, of, of, of the pattern as opposed to
+[2340.21 --> 2343.89] the machine and, and, and thinking about things like, you know, you can have fleeting thoughts
+[2343.89 --> 2347.79] and then you can have sort of persistent, uh, uh, thoughts that do a little bit of niche
+[2347.79 --> 2351.05] construction in the brain are actually quite hard to get rid of, right? You, you know,
+[2351.55 --> 2355.67] I'm sure more about this than I, but Gio Pizzullo and I just, just wrote something on,
+[2355.67 --> 2359.31] on niche construction by, uh, by mental, um, mental constructs, right? And then you have
+[2359.31 --> 2363.41] things like, like, you know, maybe, maybe, uh, a personality fragments and then of course
+[2363.41 --> 2366.91] full, full human selves and so on. Like, what, what, what do you think about this? Taking
+[2366.91 --> 2369.89] the, flipping the perspective from, from the view of the story itself?
+[2371.19 --> 2379.95] Um, I think, um, your notion of dissolving the distinction is probably the best, easiest
+[2379.95 --> 2384.89] way for me to think about this, because for me, it is, it is just the pattern. Uh, I, I struggle
+[2384.89 --> 2391.65] to find the machine, um, that is not part of the pattern. And I, I, I say that in the
+[2391.65 --> 2397.07] spirit of, um, mortal computation, which I know, you know, you would be fully committed
+[2397.07 --> 2403.17] to, uh, uh, and I, and meant in the sense, uh, you know, that Jeff Hinton originally introduced
+[2403.17 --> 2411.09] and Alex, um, will be does, uh, has certainly, um, um, promoted recently. So from that point
+[2411.09 --> 2416.29] of view, mortal computation is just, uh, an acknowledgement that it is the patterns that
+[2416.29 --> 2421.45] matter. And that's where the dynamics are. That's where the self-organization is. Um,
+[2421.45 --> 2427.27] and there is a substrate, uh, it could be a sort of, you know, uh, uh, an electrochemical
+[2427.27 --> 2434.11] substrate, or it could be possibly a von Neumann architecture. Um, but if you move into the world
+[2434.11 --> 2439.87] of von Neumann architectures and Turing machines, I think you're outside the world of natural physics
+[2439.87 --> 2446.45] and natural intelligence. Um, and you're talking about, um, simulation machines, which we, which
+[2446.45 --> 2452.53] we have built. And it may be that, um, that's what requires the dissolution, the realization
+[2452.53 --> 2460.23] that simulations of self-organization and pattern formation on a Turing architect, on a von Neumann
+[2460.23 --> 2467.21] architecture with reading right to memory, um, that become, renders the software immortal
+[2467.21 --> 2473.49] because you can run that pattern formation on any Turing machine, um, is a distraction.
+[2473.49 --> 2479.75] And the, you know, the really interesting questions and the physics of all of this and the interpretation
+[2479.75 --> 2486.23] and certainly sort of, you know, understanding, um, practically the implications for biotic
+[2486.23 --> 2491.53] self-organization are actually in the patterns. So when I was talking about states before, I
+[2491.53 --> 2498.19] was just talking about, um, the, you know, the particular pattern at the moment, um, uh, without
+[2498.19 --> 2510.28] any scaffolding or any structure in play to, um, you know, to, if you like, um, do the
+[2510.28 --> 2515.72] computation of computing, you know. So for me, the pattern is the data, it is the dynamics,
+[2515.72 --> 2520.04] it's all the same thing. And then the trick is, where does the self come from? Well, it's
+[2520.04 --> 2527.12] when one pattern somehow distinguishes itself from another pattern. How do you do that? You
+[2527.12 --> 2531.18] define the inputs and outputs, or do you find a marker blanket? Or if you were Chris Fields,
+[2531.30 --> 2535.92] you'd, you'd put a holographic screen, uh, in between them. Uh, but it's all about the
+[2535.92 --> 2541.50] patterns. So that's how I would say. Having said that, there is an interesting, um, because
+[2541.50 --> 2547.66] you mentioned, um, uh, niche construction. There is a, in conversation with people thinking,
+[2548.12 --> 2554.02] uh, at a slightly higher level in terms of communication and, um, um, hermeneutics and
+[2554.02 --> 2563.32] language, there might be a related kind of argument, uh, that, um, the culture, there
+[2563.32 --> 2567.94] might be a cultural environment out there. So I'm thinking now about the separation between
+[2567.94 --> 2574.26] the observer as a phenotype and the eco-niche, um, and certainly from the point of view of
+[2574.26 --> 2580.48] the free energy principle, if you read the observer making sense of data supplied from
+[2580.48 --> 2587.08] the, um, the, um, environment, um, as this constructive, active self-organization that
+[2587.08 --> 2593.16] can be, uh, read as creating explanations, then the converse, the, is exactly true. There's
+[2593.16 --> 2599.84] an exact mathematical symmetry that the environment must also be learning from and making sense of
+[2599.84 --> 2606.16] the, the, of the things that are observing it. So the environment observes the, um, the, uh,
+[2606.16 --> 2612.64] the denizens of any particular eco-niche. On that view, you could actually argue that,
+[2612.64 --> 2618.26] um, the environment could be, um, a cultural environment. It could be an environment of
+[2618.26 --> 2624.60] memes, of, of knowledge, of books, for example. Um, um, I can't remember whether you've written
+[2624.60 --> 2630.56] about this, but, uh, I suspect you have. Uh, but you, you could look at books as the agent,
+[2630.56 --> 2635.74] as particular patterns, um, that are actually, from the point of view of natural selection,
+[2635.88 --> 2640.40] much better than we are in terms of lasting longer than your typical human being. Um, you're
+[2640.40 --> 2646.88] reading the, the, the book as actually, um, learning from, at a very slow timescale, those
+[2646.88 --> 2654.14] symmetries and invariants of the, uh, its environment, which of course are the, are the little human
+[2654.14 --> 2659.76] beings that, that, that, that, that sort of create printing presses and write, and write stories. Uh,
+[2659.98 --> 2666.00] so that, that may be important, that distinction, which I think is distinct from the mortal
+[2666.00 --> 2670.30] computation argument, where there is no distinction. The substrate is a pattern. The pattern is a
+[2670.30 --> 2676.54] substrate once one puts time into play. Um, uh, that would be one sort of way of dissolving the
+[2676.54 --> 2682.06] problem. But there may be something beyond that that you were intimating, which is, you know,
+[2682.06 --> 2690.50] the, the patterns could be of, uh, an encultured sort, um, and could be treated as an observer of
+[2690.50 --> 2697.50] the, um, the culture creating or co-constructing, uh, artifacts that generate this particular
+[2697.50 --> 2706.16] environment. Um, what, what, if anything, does that say about this, uh, you know, the, the,
+[2706.22 --> 2711.32] the distinction and the argument between, um, organic and psychological disease? Like, does that,
+[2711.32 --> 2725.27] does that inform that, that issue? Um, I, uh, the, um, again, I, I, I, I, for me, that
+[2725.27 --> 2730.11] distinction is somewhat dissolved by the very arguments that you're making. Um, so in the
+[2730.11 --> 2737.81] context of mortal computational self-organization read as inference, um, then we are talking about
+[2737.81 --> 2744.89] the, um, the, um, the organic, the organismal self-organization sub-tending belief updating,
+[2745.63 --> 2753.01] um, and as such, you're talking about psychology. So for me, the two, um, perhaps they have dual
+[2753.01 --> 2758.09] aspects of the same thing. Um, you know, in the sense that, you know, there is this information
+[2758.09 --> 2762.79] theory you could apply to neuronal dynamics and neurochemistry and electrochemistry and
+[2762.79 --> 2770.95] pharmacology, um, but, or, uh, but this is exactly the same mortal substrate, um, that holds
+[2770.95 --> 2777.43] the, um, the meaning in terms of, uh, standing in for the sufficient statistics or beliefs about
+[2777.43 --> 2783.77] the causes of this system's, um, sensations. So, I mean, that plays out in the context of
+[2783.77 --> 2789.69] psychopathology very, very clearly in terms of something you were, uh, talking about earlier
+[2789.69 --> 2795.49] on which is sort of attending to this and that, um, even in a deterministic system. So attention
+[2795.49 --> 2802.55] in this instance is just another aspect of this sense-making. Um, and if you break that,
+[2803.03 --> 2812.97] then you have a, um, uh, quite a, um, a powerful explanation, a mechanistic explanation for a large
+[2812.97 --> 2819.35] range of neuropsychiatric and neurological conditions, um, that can all be cast in terms of
+[2819.35 --> 2828.03] some, um, some kind of false inference that is all, um, explained in terms of a certain
+[2828.03 --> 2833.93] disattention or a failure to attend to the right kind of things or ignore the right kind of things,
+[2834.21 --> 2840.15] you know, ranging from hallucinations and delusions right through to, um, uh, say dysmorphophobia,
+[2840.45 --> 2844.77] you know, abnormal beliefs about my body, for example. And then coming back to your favorite
+[2844.77 --> 2850.63] example, of course, cancer, just having beliefs about, um, the boundaries of my, you know, of my
+[2850.63 --> 2856.77] cell or myself, um, which could, you know, in a Freudian sense, be associated with ego boundaries.
+[2857.05 --> 2862.45] So inferences about what the boundaries are, uh, which again brings us back to sort of self-modeling
+[2862.45 --> 2868.19] and, you know, whether, you know, this, uh, interesting notion that the self can be observed.
+[2868.19 --> 2875.27] Um, I, you haven't mentioned the paper about can a self, uh, can you ever know yourself,
+[2875.57 --> 2880.15] uh, with, with Chris and the Godelian arguments that you've carved. I thought, I thought you might
+[2880.15 --> 2885.33] bring that to the table. Yeah. Um, okay. That's, that's very interesting. Uh, you know, one,
+[2885.45 --> 2891.63] one place where that, that distinction, um, uh, this, this, uh, uh, psychological versus organic
+[2891.63 --> 2896.85] disease distinction is coming up for us now is in a very practical way is in, uh, is in our efforts
+[2896.85 --> 2904.23] against aging. So the one standard set of theories about aging are basically noise based theories
+[2904.23 --> 2908.47] that, that the, just over time, something, it might be the genome, it might be something else
+[2908.47 --> 2914.41] over time, something accumulates errors and that it's basically the, uh, it's an external source
+[2914.41 --> 2918.57] of aging, if you will. It's, it's, you know, it happens because there's damage that accumulates
+[2918.57 --> 2926.49] over time. Um, we we've, we've been driven by some, some wild results in, in modeling of,
+[2926.49 --> 2931.13] uh, uh, goal directed morphogenetic systems. We've been driven to a different ideas. I'll,
+[2931.17 --> 2935.69] I'll bounce this off of you and see, see what you think of this, this, this, um, this idea that
+[2935.69 --> 2940.03] what, what we see in our, in our computational model is that when you have a system where,
+[2940.51 --> 2947.81] uh, a bunch of competent subunits cells are bound towards, uh, uh, implementing a particular
+[2947.81 --> 2952.67] goal. So there are, uh, error, you know, stress based mechanisms that keep them towards a
+[2952.67 --> 2957.65] particular goal. Once they've accomplished that goal, which is to build the correct morphogenesis
+[2957.65 --> 2963.01] of the body, then, then they sort of hang around for a while and everything is fine. But, but then
+[2963.01 --> 2968.89] eventually it, it, it starts to, it starts to degrade and it starts to degrade for no external
+[2968.89 --> 2974.25] reason. There is no damage. We've not introduced any, you know, progressive decay of, you know,
+[2974.37 --> 2980.37] thermodynamic or whatever. There isn't any of that. It, it starts to decay for what looks to me,
+[2980.37 --> 2984.37] and this is early days. I don't know, but, but what looks to me like a very psychological reason
+[2984.37 --> 2988.61] it's a, it's a goal directed system that has reached this goal and now doesn't know what to
+[2988.61 --> 2993.41] do anymore. And it starts to dissociate. There is no new goal. It's already done the thing it was
+[2993.41 --> 2997.41] supposed to do. And it's, and it's very weird that in a system like that, it doesn't just
+[2998.11 --> 3001.81] stabilize it. It sits there for a little bit, but then eventually it just starts to degrade.
+[3002.19 --> 3007.21] And so to me that, that, I mean, I like dissolving all kinds of distinctions for sure, but,
+[3007.21 --> 3013.57] but to me, it seems it's, it's, it's critical to how we think about interventions. This idea that,
+[3013.69 --> 3019.37] you know, is aging because external errors in the hardware accumulate or that no, actually,
+[3019.51 --> 3023.95] even in the absence of anything wrong being with being the hard in the hardware, you're going to
+[3023.95 --> 3029.91] have a fundamentally psychological reason for this. And in this case, psychological, not of the brain of
+[3029.91 --> 3034.03] the creature of the somatic intelligence, right? It's a, it's a, it's a, it's a kind of existential
+[3034.03 --> 3039.37] boredom of the, of the somatic intelligence, if you will. And, and so that, that led me to,
+[3039.49 --> 3044.63] to some weird thoughts. And, and I wonder what, what, what you think about this. If you can imagine
+[3045.47 --> 3049.87] a sort of, and I don't know if we've already, I can't recall if we've already talked about this,
+[3049.93 --> 3054.61] but, but a sort of Judeo-Christian notion of heaven, right? You sort of show up, everything
+[3054.61 --> 3059.79] is great and it's going to be great, you know, for an infinite amount of time. Now the question is,
+[3059.79 --> 3063.25] right? You know, you could, you, you've got a snake, you've got your pet dog and, and, and you,
+[3063.99 --> 3069.83] my intuition tells me the snake is going to be completely fine at, at infinitum, maybe. The dog,
+[3070.65 --> 3074.31] probably if the conditions are very good, every day is like every other day. I'm not sure if the
+[3074.31 --> 3077.75] dog's going to have any problems over, right? And so in this, in this environment, we've done away
+[3077.75 --> 3081.95] with brain degeneration. We've done away with aging of the physical, you know, there's no physical
+[3081.95 --> 3086.83] aging. Now what happens to the human, right? I don't know. We can, we could keep ourselves busy for the
+[3086.83 --> 3093.05] first 10,000 years, but what happens a billion years in? Is it, do you think it's possible to
+[3093.05 --> 3098.91] stay sane for, for, for pure, for, for, for extremely long periods of time with no organic
+[3098.91 --> 3105.33] damage, just by virtue of the, of, of the, I don't know, some, some sort of psychological need
+[3105.33 --> 3108.59] for further change? What do you think about that? Is that, is that anything?
+[3110.01 --> 3116.69] Fascinating. Yes, fascinating. I personally think that you, you, you, you couldn't, and
+[3116.69 --> 3121.73] you wouldn't want to. So from a purely mathematical perspective, what you're talking about is
+[3121.73 --> 3127.07] oscillator death. So attaining your steady state, your goal, and staying there, this is
+[3127.07 --> 3134.19] exactly equilibrium physics, death. And you become a closed system, and you lose that which
+[3134.19 --> 3139.87] is characteristic of biological self-organization. You could actually say any kind of interesting
+[3139.87 --> 3148.83] non-equilibrium, or out of equilibrium, or far from equilibrium dynamics. So to, you know,
+[3149.07 --> 3159.99] to stay in one place violates the kind of solenoidal dynamics, or red queen dynamics, that is
+[3161.21 --> 3168.71] definitional of life. So I don't think you can elude death. Death is just part of a life
+[3168.71 --> 3174.23] cyclist, is part of this solenoidal dynamics, is part of this itinerant attractor manifold
+[3174.99 --> 3181.45] that defines the self-organization and open systems that we'll be talking about. So I, I would
+[3181.45 --> 3190.37] actually contend that all the snake and the dog and you and I would, would not survive terribly
+[3190.37 --> 3197.01] long, even in heaven, in the same form. And if we did, we would technically be, we would
+[3197.01 --> 3202.45] no longer be sort of, well, of course, we wouldn't be living because we would be dead, but we certainly
+[3202.45 --> 3208.63] wouldn't have the dynamical itinerancy, and the normal laws of physics would not apply, nor
+[3208.63 --> 3215.27] would the way that certainly I understand self-organization as a constructive way of existing
+[3215.27 --> 3221.01] and living in a world, in a world to which you are open. So as soon as you're open as
+[3221.01 --> 3225.57] a system, you necessarily, and you have a steady state, in other words, you have characteristic
+[3225.57 --> 3234.57] states that define you as you and me as me, you necessarily have to have these solenoidal
+[3234.57 --> 3240.41] dynamics, which means that your attracting set is of the kind you have to keep moving,
+[3240.51 --> 3245.55] much like a shark or much like red queen dynamics. Clearly, because it's an attracting set, you
+[3245.55 --> 3251.05] will revisit characteristic states of the neighborhood periodically. And by you, I now
+[3251.05 --> 3255.75] mean that, you know, it could be a species or have a life cycle, or it could be, you know,
+[3256.21 --> 3259.79] the dendritic component of a cell. It could be a gamma oscillation, an electrochemical
+[3259.79 --> 3266.43] acceleration. But at every level, you've always got to keep moving, simply because you've got
+[3266.43 --> 3276.71] this solenoidal aspect to non-equilibria or dynamics of open systems. This is also mathematically
+[3276.71 --> 3285.51] called detailed balance. So if you have detailed balance, you're dead. And that's the situation
+[3285.51 --> 3292.63] where you have this equivalence between forward and time reversal dynamics. So it doesn't matter
+[3292.63 --> 3297.45] whether you can go backwards or forwards in time, that you look the same. So that's being dead. And
+[3297.45 --> 3304.91] that's exactly not changing. So, you know, I think there's a mathematical reason why one should not
+[3304.91 --> 3311.69] try and elude death. Death is just part of the natural cycle. And, you know, if you were able to
+[3313.13 --> 3318.57] immortalize one in the sense that you are no longer changing, I think that would be, from a
+[3318.57 --> 3322.97] mathematical perspective, a certain kind of death.
+[3323.75 --> 3331.43] Very interesting. So, yeah, so we are, in therapeutic terms, we're then focusing our attention
+[3331.43 --> 3337.93] on renewing. So, okay, clearly, you cannot stay the same. The question is, what can you renew
+[3337.93 --> 3344.63] to give a new sense of purpose to the somatic system? And that, at this point, is what we're
+[3344.63 --> 3345.15] going to try for.
+[3345.85 --> 3349.17] Well, normally, you and me, people, things like you and me, have children.
+[3350.31 --> 3354.77] So would you consider that to be a changing form of yourself? So earlier, you said you cannot
+[3355.59 --> 3361.25] last forever in the same form, which implies that maybe you can in a changing form. Now,
+[3361.35 --> 3366.29] it's difficult for me to think of a snake or dog, and especially us, that stays the same. We're
+[3366.29 --> 3371.83] constantly changing, even throughout this conversation. So is there a way, Carl, that we
+[3371.83 --> 3377.09] can live forever in a changing form, in such a manner that you do have a continuous self?
+[3377.19 --> 3381.01] Because you can change so much that you're no longer the same self a minute from now.
+[3381.35 --> 3386.37] Yeah, well, I was just thinking that, or thinking about that, when Mike was talking about this
+[3386.37 --> 3400.00] sort of selfhood that makes sense of the deep past and the deep future, part of my self-modeling,
+[3400.22 --> 3406.18] and I identify as a human. And of course, if I identify as a human, then my selfhood could
+[3406.18 --> 3411.72] actually be transgenerational. And on that view, at that particular scale, yes, you can live
+[3411.72 --> 3419.02] forever if your conspecifics procreate in the right kind of way. So from a purely sort of
+[3419.02 --> 3429.40] maths perspective, this is the cycle of reproduction, say, for sexual reproduction creatures, is just
+[3429.40 --> 3437.12] another expression of one of these solenoidal dynamics in open systems. And it's a particularly
+[3437.12 --> 3445.10] long one, but it's a necessary feature of any pullback attractor or attracting manifold that
+[3445.10 --> 3451.54] defines the self-information that we were talking about before. So that self-information is a
+[3451.54 --> 3457.80] probability you're close to or on that manifold that contains these itinerant trajectories at every
+[3457.80 --> 3466.46] scale. And of course, that also means that there's always a scale higher. So there will be
+[3467.86 --> 3476.26] cyclical motions of the heavenly bodies that are necessary to actually have a yearly cycle of
+[3476.26 --> 3484.88] climate, that are necessary to have a diurnal cycle of day and night that contain my sleep-wake cycle,
+[3484.98 --> 3491.70] that contain right the way down to respiration, right the way down to fast oscillations of
+[3494.72 --> 3500.36] dendrite in our favorite cell in the hippocampus. All of these contextualize each other, but the one
+[3500.36 --> 3508.34] recurrent theme is this revisiting states that I was once in simply because if my attracting set or
+[3508.34 --> 3516.08] the set of states that characterize me or my niche or my niche's niche was not attracting, then I would
+[3516.08 --> 3521.18] just exponentially diverge and dissipate. And of course, that would not be self-organization.
+[3522.38 --> 3527.30] So I know we all have to get going. Before we do, the last question, Michael, you mentioned that you
+[3527.30 --> 3532.62] were concerned that you don't want people to think of the self as merely a story. You called it nothing
+[3532.62 --> 3537.30] but-ism. So I want to know why is it you're concerned about that? What's underlying that concern?
+[3537.54 --> 3542.24] And while Michael is answering, Carl, I want to know, is there anything about what you've said during
+[3542.24 --> 3547.86] this conversation, or more broadly, the free energy principle, that you're concerned will be
+[3547.86 --> 3557.58] misrepresented? Here's the thing. I receive pretty much daily emails from people who say things like,
+[3557.72 --> 3563.98] I've read your paper. I now understand that I'm a collective of cells and furthermore,
+[3564.18 --> 3568.82] self-constructing or whatever. And I don't know what to do with myself. I don't know what to do anymore.
+[3568.82 --> 3583.24] I'm depressed. I think we have to come to grips with the fact that some people expect these important
+[3583.24 --> 3589.78] things about themselves to be magic. And when the lid is sort of lifted off of some of the processes
+[3589.78 --> 3595.10] that underlie them, they feel like something important has been lost. And in particular,
+[3595.10 --> 3600.80] these stories of collective intelligence, of processes, of self-constructing patterns,
+[3600.96 --> 3610.06] all this stuff, some people interpret this as a deflationary story, that they've lost something
+[3610.06 --> 3616.82] important that they had before. And I think it's dangerous. There's only a segment of people that
+[3616.82 --> 3621.08] like a very particular, you have to be a very thoughtful person in a certain sense to be
+[3621.08 --> 3626.86] destabilized by stuff like this. But there are people who are in that zone who read these things
+[3626.86 --> 3632.48] and they think that what science has now shown is that they somehow don't exist, basically.
+[3632.80 --> 3638.72] Right? That's taken to its conclusion. That's where it goes. And so I don't think that's a good
+[3638.72 --> 3644.20] conclusion. And I've made materials about it that I send people to, you know, this is not the
+[3644.20 --> 3649.94] conclusion you should draw from this. But yeah, I mean, I am concerned because I think the stories
+[3649.94 --> 3656.06] that we tell as scientists need to not only be the best picture of the world as we have,
+[3656.18 --> 3660.92] but actually be useful and constructive, not just for engineering, but actually for living,
+[3661.06 --> 3665.82] for people's lives. And it's an assumption of mine that to the extent that we can tell better
+[3665.82 --> 3669.58] stories, that they're actually going to be more useful to people, not destabilizing.
+[3669.58 --> 3670.90] I could be wrong, but.
+[3672.96 --> 3682.80] Well, just to pick up on Mike's comments, you know, he started by talking about self-organization
+[3682.80 --> 3690.00] as a quintessentially creative process and ended by explicitly talking about the constructive
+[3690.00 --> 3699.56] aspects of this so-called deflationary account. So I would fully concur with him. I mean, what we're
+[3699.56 --> 3705.06] talking about is a really beautiful, constructive process. And much of the scientific account of
+[3705.06 --> 3710.88] that is really to try and understand the fundamentals of the mathematical architecture and how to
+[3710.88 --> 3720.04] interpret that. But that scientific process is itself a creative, constructive act that complies
+[3720.04 --> 3730.62] with the very principles that we've been talking about. So I don't get emails from people who find
+[3730.62 --> 3743.66] that this is somehow demeaning their presence in their sensed world and all the issues that attend the
+[3743.66 --> 3750.46] sense-making and decision-making and navigating that world in the right kind of way.
+[3751.34 --> 3756.06] And of course, acknowledging that the world is largely comprised of other people like you and me.
+[3756.24 --> 3763.26] So there's a lot of sociality imbued in being creative and constructive in the way that you explain
+[3763.26 --> 3767.92] your world. In response to your question, is there anything that might have been misinterpreted?
+[3768.86 --> 3775.78] I'm sure the majority of it will be misinterpreted, and that's fine. So that misinterpretation
+[3776.80 --> 3783.68] can be read in terms of there being a prediction error. Should somebody pursue that? And that will
+[3783.68 --> 3789.20] drive their belief updating and a consilience of our respective world models or generative models.
+[3789.74 --> 3797.66] But in closing, don't take anything I say too seriously. It's probably the safest thing to say.
+[3798.60 --> 3801.08] What does it mean for consciousness to be scale-free?
+[3803.40 --> 3811.88] Well, if I was Mike, I would say that basically you could find processes that have the attribute of
+[3813.04 --> 3820.06] things that we consider to be conscious processes expressed at multiple scales, so that you could,
+[3820.16 --> 3826.80] in principle, associate conscious processing or sentient processing to a single cell
+[3826.80 --> 3831.26] right through to, again, the motion of the heavenly bodies.
+[3833.81 --> 3838.23] Earlier, you talked about consciousness, and you said something about the counterfactual of
+[3838.23 --> 3843.73] what would happen if I did so-and-so. So what's the difference between that and a hypothetical?
+[3844.89 --> 3858.01] I don't think there is a hypothetical. Well, it is a hypothetical, but with a particular future-pointing
+[3858.01 --> 3866.77] aspect that also depends upon your actions. So it's a hypothesis about what would happen in the future
+[3866.77 --> 3874.93] if you acted in this particular way. So it's a special kind of hypothesis that is conditioned
+[3874.93 --> 3881.41] upon or rests upon this course of action versus that course of action. So very simply, it's just
+[3881.41 --> 3889.39] our ability to plan. And in planning, you know, we are dealing with hypotheticals because the future
+[3889.39 --> 3895.37] has not yet revealed itself. I think that's what Mike is getting at when he talks about sort of,
+[3895.43 --> 3906.49] you know, the right-hand side. Well, what the future part of, say, a light cone or an information
+[3906.49 --> 3913.15] bottleneck centered on the present. Ah, I see. Okay. I was confused about the terminology because
+[3913.15 --> 3917.91] not all hypotheticals are counterfactuals. And I thought you said counterfactual.
+[3918.15 --> 3924.43] Well, I did, but I use the two interchangeably because I haven't had your philosophical training.
+[3924.73 --> 3929.95] So... Okay. Now, before we get going, what do you think is the simplest kind of
+[3930.61 --> 3935.45] physical system that's capable of curiosity and prediction and exploration?
+[3937.31 --> 3950.78] I think Mike is correct that all systems that are non-trivial in their scale will possess
+[3950.78 --> 3958.66] behaviors that could be described by an observer as curious and sentient behavior, that they look
+[3958.66 --> 3967.08] as if they are exploring. If you're asking, will the internal dynamics, which of course we can never
+[3967.08 --> 3979.40] know. But if we could know of the system are planning in a way to reveal information, to be novelty
+[3979.40 --> 3987.24] seeking or sensation seeking or to be curious, I think they are limited to certain larger scale
+[3987.24 --> 3999.90] kinds of systems. So, you have to have certain statistical architectures in play before you can describe
+[4001.44 --> 4008.96] self-organization in terms of this kind of planning and selection from, or looking as if you are selecting
+[4008.96 --> 4021.00] different futures, simply because if you're sufficiently big, then right on the inside, you don't have direct
+[4021.00 --> 4030.42] access to your action upon the world, your outputs, if you like. Or if you're Chris Fields, you don't have
+[4030.42 --> 4036.92] direct access to what you are writing to your holographic screen. Because you're so big, there's lots
+[4036.92 --> 4049.48] of intervening states. And at that point, you are now obliged to treat your realized and real actions
+[4049.48 --> 4059.78] as random variables. So, now you start to infer what you are doing. And as soon as you infer what you are
+[4059.78 --> 4066.24] doing, which is not the same thing as what you're actually doing, you're only able to use the
+[4066.24 --> 4071.38] consequences, the sensory consequences of your action to infer, oh, that's what I'm doing.
+[4072.22 --> 4080.50] But as soon as you have that capacity to infer how you are acting, you've now got the opportunity to
+[4080.50 --> 4090.20] infer the consequences in the future of acting like this or acting like that. So, that's what I meant by
+[4090.20 --> 4096.50] sort of counterfactual futures that are hypothetical in the sense that they rest upon the hypothesis
+[4096.50 --> 4103.88] that I will do this. I have another hypothesis, I might do that. And then you evaluate the two hypotheses in
+[4103.88 --> 4110.52] terms of what's the probability that something like me would experience the outcomes of acting like this
+[4110.52 --> 4116.12] versus acting like that. So, that's what I was implying by what people in machine learning might call
+[4116.12 --> 4121.86] planning as inference, which is not the same as controller's inference. So, controller's inference
+[4121.86 --> 4130.04] can be done by a thermostat that is so small, it has direct access to switching on the heater or
+[4130.04 --> 4137.54] switching off the heater. But when you get to something of our size, deep inside your brain,
+[4137.64 --> 4144.46] for example, there are multiple connections and states that intervene between your brain and the
+[4144.46 --> 4150.40] muscles which cause you to move or cause me to speak or your autonomic reflexes. So, now we have
+[4150.40 --> 4158.22] to think about in a creative, constructive way, what are we doing? What is the course of action,
+[4158.36 --> 4164.66] the path of action that we're currently committed to? And are there any better ones? And perhaps I
+[4164.66 --> 4170.70] should be doing this. Oh, yes, I'll do that now. I'll change my mind. And then you prescribe the
+[4170.70 --> 4176.50] predictions to those, the predictions consequent upon selecting that particular path into the future,
+[4176.66 --> 4183.26] and then those ultimately drive your reflexes, thereby supplying the evidence, oh, yes, I'm acting
+[4183.26 --> 4183.80] like this.
+[4185.68 --> 4191.40] Is it the case that once you have the ability to infer about your own actions, that you have the ability
+[4191.40 --> 4195.52] to infer about your inferences, and then that goes on ad infinitum?
+[4195.52 --> 4202.24] Absolutely. Yeah. Well, you should. So, there are lots of ways you could take that conversation.
+[4202.80 --> 4207.42] You could take it into higher order thought theory of consciousness and talk to people like Steve
+[4207.42 --> 4215.24] Fleming, a young colleague of mine at University College London. You could also talk to people like
+[4215.24 --> 4222.94] Lars Sandvind-Smith and Thomas Metzinger in terms of mental action. So, you know, thinking about
+[4222.94 --> 4229.70] thinking or metacognition is exactly what would happen when you get these big objects that are
+[4229.70 --> 4237.44] in a layered way separated from the sensorium or the sensory epithelia. So, now you can have notions
+[4237.44 --> 4242.96] of action on the inside. And if you're speaking to a psychologist, this will be like attention.
+[4243.40 --> 4251.36] So, you can pick out various parts of your internal dynamics that are doing the sense-making and
+[4251.36 --> 4258.22] exactly this creative or constructive way we were talking about earlier on. You can pick out by using
+[4258.22 --> 4264.46] attentional action or mental action, like action on the inside. Absolutely. And it's exactly these kinds
+[4264.46 --> 4271.04] of things that now speak to issues in consciousness research. So, to be able to, you know, there are people
+[4271.04 --> 4282.60] who argue that to be conscious requires you to have this counterfactual ability to mentalize or to,
+[4282.82 --> 4289.54] not mentalize, but certainly to represent in your internal dynamics, counterfactual futures under
+[4289.54 --> 4295.48] different actions. And those actions can be attentional. They can be covert actions. They don't
+[4295.48 --> 4304.74] actually have to be movements. Carl, Michael, thank you so much. It's been a pleasure. We could
+[4304.74 --> 4310.02] probably keep going for a few hours and maybe next time we will, but we all have to get going. So,
+[4310.38 --> 4314.40] thank you. Lovely. I look forward to the next time. Thank you so much, both of you. Awesome.
+[4314.70 --> 4318.78] Thank you so much. I really appreciate it. Thanks, Carl. Always an amazing pleasure. Thanks.
+[4319.34 --> 4321.42] Biker, thanks for pulling us together. Bye. Bye.
+[4322.88 --> 4327.40] I've received several messages, emails, and comments from professors saying that they recommend
+[4327.40 --> 4332.00] theories of everything to their students, and that's fantastic. If you're a professor or a lecturer,
+[4332.18 --> 4337.22] and there's a particular standout episode that your students can benefit from, please do share. And as
+[4337.22 --> 4343.86] always, feel free to contact me. New update. Started a substack. Writings on there are currently about
+[4343.86 --> 4348.54] language and ill-defined concepts, as well as some other mathematical details. Much more
+[4348.54 --> 4352.88] are being written there. This is content that isn't anywhere else. It's not on Theories of
+[4352.88 --> 4357.34] Everything. It's not on Patreon. Also, full transcripts will be placed there at some point
+[4357.34 --> 4362.78] in the future. Several people ask me, hey, Kurt, you've spoken to so many people in the fields of
+[4362.78 --> 4368.62] theoretical physics, philosophy, and consciousness. What are your thoughts? While I remain impartial in
+[4368.62 --> 4375.94] interviews, this substack is a way to peer into my present deliberations on these topics. Also,
+[4375.94 --> 4378.74] thank you to our partner, The Economist.

@@ -1,0 +1,235 @@
+[00:00] Richard Watson: On my mind, in relation to error-correcting codes, is: how seriously could one take the idea of quanta and quantum states into macroscopic scales?
+
+[00:25] Chris Fields: You can take it at least to the scale of gigantic black holes bigger than the solar system.
+
+[00:33] Richard Watson: Is that big enough? You've overshot a bit there. Does that cover it, Richard? I'd like to talk about some scales in between.
+
+[00:48] Chris Fields: There's this mythology of decoherence that magically happens at whatever the boundary is between the system and its environment. Decoherence is supposed to be an objective physical process, and the boundary between the system and the environment is drawn by us. The question of how an objective physical process knows to execute decoherence at exactly the boundary that we have drawn is studiously ignored in the physics literature. Does that mean that the physics literature around environmental decoherence or that part of the physics literature around environmental decoherence that treats it as objective? And if it's not objective, then you have to talk about observer relative quantum states.
+
+[01:45] Richard Watson: Okay, I would like to spend the next hour trying to understand a little bit of what you just said. That would suit me very well. I don't know what else you had on your agenda, Mike.
+
+[02:01] Michael Levin: Perfect. Let's start with that.
+
+[02:03] Richard Watson: All yours, Chris, of course.
+
+[02:05] Chris Fields: We're going to get to meet in LA in about a week and a half.
+
+[02:10] Richard Watson: Yeah. I'm looking forward to that.
+
+[02:12] Chris Fields: Actually in person.
+
+[02:14] Richard Watson: Can I try saying back to you what you just said and see how much of it I failed to get? Environmental decoherence, you might need to expand on what that means. You said that if the boundary between a system and its environment is something which we ascribed as an observer, then the object or system doesn't really know where that boundary is or when that boundary has been violated. The idea that decoherence is a physical phenomenon rather than something that we project onto it doesn't make sense.
+
+[02:58] Chris Fields: Yeah, that's roughly right.
+
+[03:02] Richard Watson: An object could have coherence or be subject to decoherence only to another object that defines a system of object and boundary and object-environment boundary, right?
+
+[03:21] Chris Fields: Right.
+
+[03:22] Richard Watson: If I was a quantum object, then I could see you as a quantum object, and then you would really be an object and have an environment and you would do all weird quantum things. But if I'm not a quantum object, if I'm just an observer, then the whole conceptual framework doesn't make sense.
+
+[03:51] Chris Fields: The conceptual framework only makes sense if you treat all observers as physical systems, which everyone who talks about decoherence at least claims to be doing.
+
+[04:12] Richard Watson: But they're not.
+
+[04:13] Chris Fields: In classical physics, the observer is treated as a god who adopts some view from nowhere that's completely outside of everything being described. That tradition was carried over into quantum theory at the very beginning. So the theory was not applied in principle to the observer, which was treated as a god or a platonic entity, a bundle of consciousness somewhere. If one takes that view, then one has to do one of two things. Either modify quantum theory in some way that makes collapse of the wave function or reduction of the quantum state an objective, observer-independent process with its own physics, whatever that may be. Or one has to claim that the environment of the system, which is in some ontological sense distinct from the system, interacts with the system. This interaction removes quantum coherence from the system effectively by transferring it to the environment. This theory was worked out in the 70s by Zeh and Zurek. The most careful formulation is due to Zurek. He models the interaction at the border between the system and the environment, and on the assumption that the environment is large, which is essentially always made with respect to the system, one can write down the interaction between system and environment in the natural coordinate system for describing the environment. That's a bit of a fudge because what counts as natural is from the point of view of this Platonic observer. But if you write it down in that coordinate system, typically a position coordinate system, then the interaction between the system and the environment automatically puts the system into an eigenstate of position. The Hamiltonian that's described at the boundary is in position coordinates. The boundary ends up encoding the classical state of the system and effectively serving as a communication channel between the system and the observer. This theoretical structure ended up being called quantum Darwinism because it is based on the idea that the environment will encode multiple copies of the information that's in its natural coordinate system. Values of the interaction that are not in that coordinate system will interfere and dissipate. The key assumption here is that the system and the environment are in some sense optically distinct. That assumption is from classical physics: there is a classical boundary that separates them.
+
+[08:47] Richard Watson: Did you just say the environment has a frame of reference of some kind, a coordinate system. And there are multiple states or kinds of information that can exist in that coordinate system. And the ones that don't exist naturally in that coordinate system dissipate.
+
+[09:17] Chris Fields: Are not observable by an observer who's looking at the environment as a bulk.
+
+[09:24] Richard Watson: I need to do things in a simple way because I don't know the quantum physics or the maths. I wonder if you would indulge me in helping me understand how that might play out for some simple systems, which I think I do understand a little bit better. I have in mind three kinds of system. One is I'm imagining a rotating body with a light on it, looking at another rotating body with a light on it and what they see of each other when they're rotating at different frequencies. I have in mind what one organism sees of another organism when their life cycles are similar or when their life cycles are dissimilar. And the third thing, I've forgotten what the third thing was. Can I start at the beginning?
+
+[10:45] Chris Fields: But I think we should back up and look at a much simpler example first.
+
+[10:49] Richard Watson: Okay.
+
+[10:50] Chris Fields: Because it will give you an idea of the sense of the structure of the theory. So imagine a dust particle that's floating around in the air. So the dust particle is 1000 or so times bigger than any of the air molecules. And there are lots and lots of air molecules. So the kind of canonical picture is you've got this dust ball, my fist, and there are lots of little air molecules hitting it from every direction all the time. And so each air molecule that hits it strikes it and bounces off. And there's some energy exchange between the dust particle and the recoiling air molecule. So the standard picture is that constant process. If the dust particle is in a superposition of states, so it's in both of these states simultaneously, then all these dust particles bouncing off of it are going to remove that superposition. They're going to transfer the quantum coherence that makes that state superposed into the bulk of the atmosphere. And in so doing, they'll create a probability distribution of velocities that encodes the position of the dust particle. In the same way that when we shine a light on the dust particle, this gets a little closer to your first example, the scattered photons after banging into it create a probability distribution of velocities that encodes the position of the particle. And that encoding is, from a distance that's much larger than the diameter of the dust particle, effectively classical. In Zurek's picture, the observers are not interacting with the dust particle. The atmosphere is, or the light, the ambient photon array is. The observers are interacting with that environment. They're either measuring sound or scattered light or something like that at some large distance from whatever's going on with respect to the dust particle. So that's a beautiful theoretical picture. But it does make this assumption that there's a fixed boundary that's known to the Platonic observer between the dust particle and the atmosphere, that those are distinct in some observer-independent way. I'm happy to send you a paper about this.
+
+[14:14] Chris Fields: It's written for philosophers. It's very old, but it doesn't involve very much technical quantum theory stuff. The goal of this approach is to explain why multiple observers can see the same thing, can measure the same effectively classical state of things like dust molecules without any prior communication or prior conceptual agreement of any kind. That assumption can be criticized. The observers wouldn't agree about anything unless they spoke a common language. So there's all sorts of stuff being assumed under the table in this sort of theorizing. So let's now think about your first example and imagine that the first of the objects is fixed somewhere and it's observing all the time. It's observing the other object that's rotating and has a light on it. If it only sees light, then it's just going to see flashes and it's not going to know anything except that a light is flashing. But if it is also able to observe scattered light at some reasonable intensity, then it may be able to see that there's an object that's spinning that's flashing, which requires capturing a different chunk of the photon field to do that analysis. So it requires an observer who's capable of, one, sampling a broader environment, and two, doing a lot of computation to distinguish photons that are scattered by this object from photons that are emitted by the object. The second part of your example, as I understood it, was the observer is actually rotating and its eye is only on one side. Then the observer has to be capable of even more computation, because it sees the thing and then it doesn't see it. If it's going to regard the thing as the same object, it's going to have to be computationally capable of saying, I'm watching my memory, and now I'm seeing something that showed up previously in my memory, and I'm going to infer that that's the same thing. Though there is no evidence that it's the same thing. So that's a pure inference.
+
+[17:39] Michael Levin: Is it trivial to know that what you're looking at is your own memory versus primary environment data? Can we assume that you know which inputs are your actual memory?
+
+[17:56] Chris Fields: It's almost always assumed that it is trivial. But I think from a clinical perspective, it's clearly not trivial. And from a neuroscience perspective, it's not trivial either. Memories have to be somehow labeled as such for the global workspace to tell the difference.
+
+[18:28] Michael Levin: Doesn't it also, though, imply the boundary between the agent and the outside world? Because whatever's inside that boundary is memory and whatever's outside is environment, right? And then you have some kind of stigmergic in-between cases, right?
+
+[18:47] Chris Fields: In the formalism that I've developed with Jim and Antonino, we actually treat the memory as a sector of the boundary. The reason we do that is to allow the memory to encode classical information. In that theoretical approach, at least, the only classical information around is written on boundaries. So the memory has to be a sector of the boundary. It may be an internal sector of the boundary. So it may be the boundary between one internal component and another internal component. But in order to be classical, it has to be written on some boundary or other.
+
+[19:42] Michael Levin: Who's driving here? Does the memory define the boundary, or does the boundary tell you where the memory is going to be?
+
+[19:49] Chris Fields: The boundary serves as an encoding for the memory. The system that's comparing memory with current perception has to have two distinct readers. One read operation that reads from the part of the boundary that's the memory, and another read operation that reads from the part of the boundary that's the outside world. Those two readers effectively have to have different names so their outputs can be labeled by where they came from.
+
+[20:32] Richard Watson: What if the way that I know that this mug in front of me is a mug that I'm perceiving right now, rather than a memory of a mug in front of me, is because of the way in which I can interact with it now? When I remember the mug, I can't manipulate it with my hands in the same way that I can manipulate the actual mug. When I remember an image, it doesn't move in my head when I turn; it doesn't move in my visual field when I turn my head the same way that an image coming into my eyes right now does. The ways in which I can interact with it reveal the difference.
+
+[21:22] Chris Fields: I think that would work. As long as you have the computational power to associate your motions and your manipulation with the image that you see, that will work. But you do have to have the computational power to do all the fusion necessary to bundle those things into one event and say that the thing I'm seeing is the same as the thing that my hand is grabbing, which is not a trivial process.
+
+[22:14] Richard Watson: If we took that fusion problem, the sensor fusion problem as a different problem, then it helps us with the memory versus reality problem.
+
+[22:34] Chris Fields: Right.
+
+[22:35] Richard Watson: Perhaps just shoves the difficulty somewhere else.
+
+[22:39] Chris Fields: You have to pay the piper somewhere in terms of acknowledging the computational challenge of...
+
+[22:53] Richard Watson: If I'm a rotating object with a light on and I'm looking at another rotating object, let's forget about its light for the moment. If I'm rotating at a very different angular velocity from the object I'm observing, it might just look like a mess to me. But if I tune in my rotational speed to its rotational speed, it looks stationary. That makes it easy to understand. And what's interesting about that is that it also appears stationary if I rotate at half the speed of the other object or any simple integer ratio. But I can't use my rotational speed, therefore, to determine what the rotational speed of the other object is. It could be any of those that make it look like it stays still. At the in-between frequencies, it's almost not there at all. I can't see it at all. It just becomes a blur.
+
+[24:31] Chris Fields: If you're missing it most of the time.
+
+[24:33] Richard Watson: In that respect, identity — I don't want to use the word "coherence" because you're using it in a more technical sense than I am — is determined by the match between me and the other object, not the object in isolation.
+
+[24:59] Chris Fields: Yeah.
+
+[25:02] Richard Watson: So if I was an environment where a particular combination or assembly of frequencies could live naturally, a guitar string of a particular length. Some frequencies can live on that guitar string naturally and other frequencies can't. An impact on that string, which contains initially a scattering of different frequencies zipping up and down the wire, the ones which persist in the long term will be the ones that fit into the length of the wire an integer number of times. So that's like the quantum Darwinism of identifying which states will fit in the environment and which states want to be on the right track.
+
+[26:02] Chris Fields: In a classical setting, you typically think of a noisy input. The frequencies that it can detect are part of the input, but they may be a very minor component of the input. In a quantum setting, you think of the input being some superposition of frequencies. Again, the frequencies that your reference frame can detect are in there somewhere. The reference frame responds to those and ignores the rest.
+
+[26:53] Richard Watson: Interesting. I've been thinking about vibrations on guitar strings and how they interact with one another. I wonder if I could run that by you, because there's a conceptual shift which might be important or trivial, and I'd like to get your opinion on it, which is whether this is simply a filtering process, a selection process, as implied by the name quantum Darwinism, or whether there's any transformation involved, whether energy can be transferred from one frequency to another so that you're not just ignoring the frequencies which don't fit, but they're being converted or rotated until they do fit. So the story goes something like: imagine two impulses applied to the guitar string at different locations on the string that create waves which run up and down the string and bounce off the ends and come back again. Now, if their natural wavelength fits into the length of the string an integer number of times, then they'll be coherent with themselves. But the two waves starting in different places might not be in the same phase with each other. If they were in the same phase with one another, then they would just add up. If they were completely out of phase, they would cancel out. That's not really what happens on a guitar string. I'm going to tell you what happens on a guitar string. If you have two waves meeting each other, same frequency, so they both happily live on that string, but they meet each other out of phase, it produces a kink in the string, which the string doesn't like. It's a high energy local configuration in the string that is going to produce some pushback on those waves. The effect of that is that the string is going to move out of the plane and rotate those waves in another direction so that they can move past each other on the string. This isn't just a kink that occurs in one place because both waves are all over the string and they're creating that kink, and it's actually making a spiral wave that's going up and down the string instead. In the process, the one wave that was out of phase rotates around until it's in phase with the other wave so that instead of canceling each other out, the energy from both waves is resolved on the string. Do you buy that story for a start, and do you see the relevance of it?
+
+[30:04] Chris Fields: It's certainly relevant in that the story about exact cancellation, et cetera, is for an idealized one-dimensional string. You're talking about something with a real cross section and elasticity in this torquing direction that's finite, not infinite, and not zero. In the idealized case, even if you make the string two-dimensional, it remains ideal, or close to ideal, if it has zero twist. What you've constructed is a much more complicated reference frame that is able to detect a very different range of frequencies because, whereas the idealized string would detect delta functions here, this string is detecting a broad distribution created by these finite physical degrees of freedom of the string. Your string is not only moving in two dimensions, it's moving fully in three dimensions, and it has this extra twisting degree of freedom that an idealized string wouldn't have.
+
+[32:00] Richard Watson: Right.
+
+[32:01] Chris Fields: So I don't know anything about guitar strings, but to the extent that they're finite physical objects with all these extra degrees of freedom, finite physical objects don't like even the appearance of singularities, and they're going to do something to prevent anything going to infinity.
+
+[32:23] Richard Watson: I think that that's, when we think about the set of the energies on a string when it's percussed, is probably a slightly better example than when it's plucked. It seems to me that the energies in those frequencies are not just filtered to find only the frequencies that are natural harmonics of the string, but they're actually converted through rotations of one wave in interaction with another into the fundamental frequency and its harmonics.
+
+[33:22] Chris Fields: A better way to say it is that in a physical string, the idea of fundamental frequencies and harmonics are approximations that have distributions around them, within which a lot can happen. It looks more like a quantum device than a classical device because you could model that not as a distribution of discrete excitations within this Gaussian envelope, but rather as a superposition within the Gaussian envelope.
+
+[34:17] Richard Watson: So it would look like a superposition if you believed it was or were measuring it only in that one-dimensional up-and-down space, right?
+
+[34:28] Chris Fields: Right.
+
+[34:29] Richard Watson: But when you know there are other dimensions in which it can move, then it becomes non weird again.
+
+[34:35] Chris Fields: Right.
+
+[34:38] Richard Watson: It's not just that the filtering is sloppy. It's not just that the fundamental frequency and some frequencies near it will live on the string.
+
+[34:48] Chris Fields: If it was perfectly one-dimensional, it would look like a sloppy filter. But as you're pointing out, the thing can also vibrate in this plane. And it can vibrate in all of these planes because you have this twisting degree of freedom.
+
+[35:08] Richard Watson: So the reason that I mentioned that is because I think about something that looks like an ordinary one-dimensional oscillator. And it looks like I know what the frequency of it is because I've tuned my laser beam to the right frequency of its oscillations and I've made it look stationary. And then when I start poking it, it appears to move discretely from one frequency to another without visiting the frequencies in between. But really, that's because it's squirming around in a higher-dimensional space that wasn't visible in my strobe.
+
+[36:01] Chris Fields: I think this story really does generalize very well. I would certainly expect it to generalize to the sorts of measuring devices that evolved systems naturally have.
+
+[36:24] Richard Watson: Yeah. So the best.
+
+[36:26] Chris Fields: Which are not approximate; they're not the approximations that we describe them as.
+
+[36:35] Richard Watson: Right.
+
+[36:36] Chris Fields: They are things with more degrees of freedom than we've probably measured.
+
+[36:44] Richard Watson: The best thing to observe a guitar string with is another guitar string of the same length. That would be able to pick up all of the goings-on in the first guitar string. Anything that just measures frequency F1 and frequency F2 or a frequency spectrum doesn't have the same ability to synchronize, to get in phase with, to resonate with what's going on in the string. If you were to try and measure a guitar string with another guitar string that was just the same, you would find that you weren't just observing it anymore because the observing guitar string would also be producing vibrations that the first guitar string would pick up on. Then they become a coupled system and not just an observer and a system.
+
+[37:52] Chris Fields: This circles all the way around to the very first thing we talked about, which is that if one models the observer as a physical system, then one's always dealing with a coupled system.
+
+[38:13] Richard Watson: Yeah.
+
+[38:14] Chris Fields: One can no longer idealize the observer. We also inherited from classical physics this idea of two ideas. One of them was that I can interact specifically with one physical system without touching anything else, which clearly requires infinite energy. I have to hold the entire rest of the universe at bay so that I can interact with my one thing. The observer is also considered passive. So the back reaction of the observer on the thing is assumed to be zero.
+
+[39:14] Richard Watson: Yes.
+
+[39:15] Chris Fields: And quantum theory basically throws both of those out the window, as it should, because they're both unrealistic assumptions.
+
+[39:27] Richard Watson: So you can get good approximations to that. If the resonant frequencies of the observer and the object are very different from each other and not harmonically related to one another, then the air molecules, the dust molecule, and the dust particle are very, very different in scale. And you can treat them as though one of them is inert and the other is bouncing off it. But that means that you don't really know it that well when you're observing it with a frequency that's very different from what's really going on. To know it better, you have to get closer to the same frequencies and harmonics to be more sensitive. And as you do that, you become more and more part of the system.
+
+[40:20] Chris Fields: That's a very good way to say it.
+
+[40:23] Richard Watson: Cool. How are we doing?
+
+[40:30] Chris Fields: You end up observing an incredible coarse graining along one or two dimensions of interest that you pick.
+
+[40:38] Richard Watson: That's not far from saying you can only really see reflections of yourself.
+
+[40:48] Chris Fields: Which is not far from saying you can only see the things that you're specifically equipped to see.
+
+[40:55] Richard Watson: That makes sense then: when we think about objects at everyday physical scales, it seems like they are not doing anything weird. It seems like we can observe them in a way which doesn't alter anything else, and that we're passive observers who are not part of the system. But it's not like that when one person meets another person. Why not? It's because the natural frequencies within that person are like the natural frequencies in the observer. You can't find out anything about a person without it altering you. And you can't make a person do something in a way that doesn't alter all of their social relationships or hold everything else constant.
+
+[42:02] Chris Fields: Yeah, that's good.
+
+[42:05] Richard Watson: How are we doing, Mike?
+
+[42:07] Michael Levin: I've been taking notes. A couple of things if I can get into it or we can keep going with what you've been doing.
+
+[42:25] Richard Watson: There's one more thing I'd like to try on you, if that's okay, Chris. When two oscillators phase lock in a harmonic relationship, like a two-to-one ratio, let's start with them being the same frequency first. It's clear that although they are locked to each other, neither one of them is in control. It's not metronome A controlling the period of metronome B or vice versa; they are a coupled system that has one phase together. And that's true even when you have a two-to-one relationship between the oscillators. It's not the case that the fast one determines the wavelength of the long one, or the wavelength of the long one forces the two beats of the little one to fit inside it. In the same way, we can think of those as just a coupled system. They co-define the phase of each other.
+
+[43:39] Chris Fields: All this is up to assumptions about how they're coupled together. In some straightforward way, that's true.
+
+[43:49] Richard Watson: If we extend that from, instead of just a two-to-one relationship to a very small scale to the very large scale, but still phase locked, then the slow-scale things would look almost stationary as though they were just structural, and the fast-scale things would look like behaviors. And then if we look really tiny down at the fine-scale behaviors, they would look like they were in control, and that 1000 oscillations of this one defines the wavelength of that one. And we would be able to look at this system in a bottom-up way about why the wavelength of this thing is a thousand. Well, because it's a period-doubling thing going on from the bottom that determined what its wavelength would be. We would also be able to look at it the other way around and say, why are the frequencies on this guitar string the way that they are? Because of the length of the string. The macro-scale properties determine the micro-scale properties. But it would also be true that in addition to that top-to-bottom and bottom-to-top causal communication, there's stronger communication between an oscillator at a given frequency and another oscillator at a given frequency nearby. Two stacks of oscillators. So each one has this bottom-to-top and top-to-bottom communication in determining why this particular molecule in this particular position can be described at the micro scale, but also at the macro scale. There's an underdetermination depending on which direction you're going, but it's not a zero determination. And then there's also a communication between this particular frequency in this stack and that same frequency in another stack, which circles back to error-correcting codes. The particular frequencies that can live with one another at one particular scale in this quantum Darwinism way, or perhaps in a transformational way that's less selectionist, prescribe a language of what frequencies are able to live harmoniously with one another at that scale. But they also have to be contained within a structure that's given by the scale above. That's a lower-frequency thing. This is changing more slowly. And they have to be consistent with the higher-frequency components of which they are made. They have to fit into them as well. You have a discreteness, a quantization, which is given by the harmonics, which will fit at any scale. Plus you have these changes in scale from the very small to the very large. In many physical systems, like a rock, it's as though lots of the middle scales are missing. There's the molecules, there's the atoms inside the rock, and there's the rock, or there's the atoms inside the billiard ball and there's the billiard ball. But there isn't any mesoscale dynamical structure making good connections between the fast, small-scale vibrations and the slow vibrations of structure. To us, they're just inanimate objects. A billiard ball is a billiard ball to other billiard balls. A ceramic molecule is a ceramic molecule to another ceramic molecule. But those two scales can't see each other. They don't communicate with one another dynamically in an interesting way. But organisms are different precisely because all of the scales in between are also active, they're labile, they are harmonically connected so that they see each other from one scale to the next. The scales that are very many octaves away don't see each other very clearly. They only interact with one another every thousand revolutions or every thousandth of a revolution, but they're still connected. That's what makes them organic rather than inanimate. My question is, how do you like that?
+
+[49:02] Chris Fields: Well, the constraining behavior in living systems is certainly more interesting than the constraining behavior in, for example, billiard balls. I'm not sure that you can say that there's nothing going on at the intermediate scale. You have these intermediate scale properties like elasticity that are important in thinking about something like a billiard ball.
+
+[49:48] Richard Watson: Yeah.
+
+[49:50] Chris Fields: They.
+
+Richard Watson: Don't have any error correction at those intermediate levels, though, right?
+
+[49:56] Chris Fields: There's error correction in one sense, in that there's at least approximate isotropy of the elasticity across the spherical structure. The ball would behave very differently if its elasticity along the X direction was an order of magnitude different from the elasticity along the Y direction. One could think about trying to make such a thing, but it wouldn't work like a billiard ball.
+
+[50:28] Michael Levin: The stuff we did that tries to detect where the bigger masses are tugs on the medium all the time and reads back the strain angle. As part of that paper, we made a medium that goes in lines of differing stiffness this way versus perpendicular. Your anisotropy reminded me of that.
+
+[50:55] Richard Watson: I want to do Faraday worms on that medium, Mike.
+
+[50:58] Michael Levin: It's really not hard because Narosha did this work where she just made agarose gels of different percentages. Some are very floppy and some are quite stiff. Then she laid them out in strips, perpendicular versus parallel to the line between the Faizarum and the masses. Listening to this about mesoscale error correction, Robert Batterman's stuff — I've talked to him a number of times — it's really interesting about these kinds of mesoscale properties he studies in metals and concrete and things like that, as far as how they dissipate and how they react to different kinds of forces and strains. Isn't fundamentally part of the issue about error correction that error itself has to be defined by an observer? It might be the material itself, but in our case we think about what's a developmental error. Chemistry doesn't make mistakes. Chemistry just does what chemistry does. But development can make an error. But even that's subtle because certain morphogenetic changes are a birth defect for one species but a perfectly good shape for a different species. We've made tadpole tails that look like a different species of frog. For Xenopus laevis, that's a birth defect, but for another species it's a perfectly good tail. What do we think about that at the mesoscale? The idea that in order to have error, there has to be an expectation with respect to which things didn't go right.
+
+[52:46] Chris Fields: You can only define error or noise or any of these other kinds of properties with respect to some specific observer or some specific detector or reference frame that observer is equipped with.
+
+[53:10] Michael Levin: But it's one step more than the detector, because being able to measure it is one thing, but actually having an expectation of what you were going to get is on top of that.
+
+[53:19] Chris Fields: That's why I use the term reference frame, since there's always an expectation built into that idea. It's a semantic notion.
+
+[53:30] Richard Watson: I put it to you that there is only harmony. There is only whether this frequency sits well with this other frequency. The error correction at multiple scales shouldn't be interpreted as that's how you get this macro scale structure with all of this fine resolution exactly, as though it was a blueprint from the beginning. Instead, the error correction at every scale has this under-determination, that there's two ways in which frequency one can lock with frequency two. And that in between is wrong in so much that it's a high-energy stress state and it's not phase-locked, but the two ways of doing it are both equally good, except in the broader context that one way of doing it fits well with this other thing that was doing it the same way. This other way of doing it doesn't fit well with this other way of doing it. Nothing is right or wrong except in so much as it fits well with another thing of a similar kind.
+
+[54:53] Michael Levin: One question I have is Chris said something earlier where you said that physical things don't like singularities and try to avoid them. I wonder if that determines the singularities and whether such a tendency determines an objective level of wrongness — you definitely want to avoid that. Whatever else, other things may be equal, but you want to avoid that. The related question is: is this similar to trying to avoid inconsistencies in cognitive or logical systems? Is that similar? If you bump into a real contradiction, you've got problems; something has to give. Are those two things related at all? To me, they seem related.
+
+[56:07] Chris Fields: They do seem related. I would say that physical systems avoid singularities because they don't have the energetic resources to actually go to the singular point. So they do something else. As the strain starts to go to infinity, the thing breaks or bends or something like that. The strain never makes it to infinity because that would take way too much energy.
+
+[56:48] Michael Levin: Maybe Carl Friston would say this is obvious, but it sounds like if you've got two things that seem incompatible, some sort of cognitive paradox, you just don't have the effort to dig in and figure out what's going on. You give up because it would take too much. You avoid it because you don't have the energy to get down to what this implies for the rest of your cognitive structure.
+
+[57:18] Chris Fields: That seems very likely. Because it may turn out that it's not a paradox after all, and something else that you thought was perfectly okay is what's paradoxical.
+
+[57:33] Richard Watson: But that's great. That's only saying the class XOR is paradoxical because I can't draw a linear boundary that separates them. And if I'm willing to push out into an extra dimension, then I can place a planar boundary between them. And you need a higher dimensional conceptual space in order to accommodate all the facts that you have without them contradicting each other. But if you go to too high a dimensional space, then anything is possible. Now, all factors are compatible because one is 0 on a Tuesday and zero was one on a Wednesday, and anything is possible if I add enough dimensions. So when the guitar string finds a contradiction that produces a singularity, it causes the guitar string to push out into the extra dimension to enable those things to live with each other simultaneously. They can be orthogonal to each other. But as they rotate around, it turns out that was actually the same frequency. It was in the wrong phase. I turn it around and now the string can snap back into a one-dimensional oscillation and the conflict is resolved. But some combinations of frequencies won't do that. The minimum space in which they can live is still a high-dimensional space. And then, what can you do with that? That's what it is. There isn't a simplified model to make sense of that.
+
+[59:13] Chris Fields: You get something that doesn't sound very nice.
+
+[59:16] Richard Watson: Yeah, because it sounds discordant. Yeah.
+
+[59:28] Michael Levin: This is interesting. Part of it is just the active inference, free energy minimization stuff, where you're trying to make a coherent picture of the world because it's more costly to not have one that's full of these disparate elements, but putting that together with what you just said, Richard, this ability to push into a new dimension in order to accommodate these things as a new way to — on the one hand that's costly to do, on the other hand you gain because it simplifies a bunch of other stuff.
+
+[1:00:08] Richard Watson: When you push into the higher dimensions, I don't think that in itself is simplifying because in the limit you can push into a higher number of dimensions where you memorize everything and you haven't simplified anything. You do allow things to at least coexist whilst they're in that higher dimensional space. If they are compatible, then they can be rotated so that they then collapse back down into a lower dimensional space, which is what I think you're doing when you do logic resolution. The idea of a logical contradiction is only possible in the non-physical system of logic because they don't bend. When you try to put true equals false, neither of them gives way when they're logical symbols. Whenever they are a physical system representing true and false and you smush them together, they give way, they bend.
+
+[1:01:23] Michael Levin: So this ties to some work by Patrick Grim from the 90s, which I absolutely love, where he looked at these logical contradictions, self-referential and contradictory sentences, and the way he allowed them to bend is in time. He would say none of these have a fixed truth value. What happens to the sentences is that they can oscillate. The "this sentence is false" thing becomes an up-down oscillator, and he stretches the whole thing in time, and then he draws them as fractals. You can plot them as a deterministic chaos kind of thing, and he has visualizations of single or double paradoxical and self-referential sentences where they actually do have a structure. In this higher space, where you don't just try to say it's only got the one thing and therefore we can't handle it because we can't decide which it is, he says no, if you let it oscillate through time, then it's perfectly compatible. You just have a dynamic structure. He basically does exactly what you just said: he gives it an extra dimension. Then these things get resolved. But I wonder if we could do something with that, because what he doesn't address is the frequency or frame rate of that oscillation. He just does a tick, the logical tick, one per whatever. I wonder if we could make it a little more complicated by giving it a frequency to that oscillation.
+
+[1:03:04] Richard Watson: That's what connects with the inner alignment paper that you were reading this weekend, Mike, right? The extra dimension, the incompatible states can't resolve their tension, that incompatibility is allowed to resolve by changing their phase. And then, when they can change their phase, they can get their states coordinated. But at the moment, all of the units have the same frequency. So there's only one extra dimension, as it were. But the thing about moving it into the frequency domain is that you could say, in the guitar string, I'll add an extra dimension. That's not enough either. It's more complicated than that. It's still tied in a knot. It's still making a singularity. I'll add another dimension. And that feels a little bit... So instead, when you do it in time, you have this: I'll move it up an octave, I'll move it up another octave. The frequencies in between can't see each other, right? They are invisible to each other; one wave and another wave, unrelated, not in a harmonic relationship, just cancel out as often as they add up and they don't have any effect on each other. So you can have multiple things going on at the same time, but all the different frequencies that enable you to have multiple dimensions going on, which seem like they're orthogonal to each other. But when you get to the frequency that's a harmonic again, they connect up again.
+
+[1:04:54] Michael Levin: I wonder what would happen. This would be easy enough to try. Patrick's got these two sentences that refer to each other. Sentence A is false and sentence B is 0.5, 0.57% true, something like that. And they just make these crazy fractals. But I wonder if we can set the two sides to oscillate at different frequencies, and what you would then get. Because, as I recall in his work, the assumption is that everybody goes together, all the truth values are updated simultaneously. But what happens if that's not true? I wonder if we can make a more careful link between this dynamical systems approach that we're talking about now and the logic?
+
+[1:05:37] Richard Watson: And then go a little bit further to say it's not just that they're not static, they have a frequency, it's not just that they have different frequencies. But that the resolution of the statements is the phase locking of the frequency so that the frequencies adjust and change to one another. That's the collapsing back down for the lower-dimensional one. So that, if it resolves, you end up with one oscillation, which is the fundamental frequency. And if it doesn't resolve, then you end up with something that's not one-dimensional.
+
+[1:06:12] Michael Levin: So that makes, that is amazing. It makes a really direct, very minimal system link between these things and really high-level cognition. Logic and these things. And maybe these paradoxes do have a resolution. If you play with the frequencies, then maybe there is actually a stable fact of the matter about what the truth value should be. You can come to a stable decision on that.
+
+[1:06:44] Richard Watson: Yeah.
+
+[1:06:48] Michael Levin: We should play with that, I think.
+
+[1:06:52] Richard Watson: I'm enjoying our vibrations. I'm looking forward to meeting you in a couple of weeks, Chris.
+
+[1:07:00] Chris Fields: Yeah, that'll be very cool. Very cool.
+
+[1:07:11] Michael Levin: I've plenty of stuff for next time. I'll send around this link to Graham's work.
+
+[1:07:26] Chris Fields: That would be interesting.
+
+Michael Levin: I think there's really something there.
+
+[1:07:28] Chris Fields: It sounds like the sort of question that's been explored in theories of concurrent processes that run at different rates, but that need to talk to each other now and then. You want to minimize waiting time between processes.
+
+[1:07:49] Richard Watson: Interesting.
+
+[1:07:50] Michael Levin: We've been playing with these sorting algorithms. And Richard, last time you made the really important point that if they're running at different efficiency rates, then that could explain some of the stuff we're seeing. We've been exploring that. So what we do is we mix; we're investigating these emergent properties of sorting algorithms. We make these chimeric systems where two different algorithms are placed simultaneously and they do have somewhat different rates at which they go, but they're not that different. We checked that and we really paid some attention. I'll send you some updates on this. They have a little bit of difference, but it's not that much.
+
+[1:08:35] Richard Watson: Even the insertion operator that needs to go all the way along the list until it finds its place runs in the same time as the bubble sort.
+
+[1:08:43] Michael Levin: So what we've done is we now, as you correctly pointed out, we were only counting the moves, we weren't counting the reads, right? So now we do that. And there are differences, but they're all within 2X of each other. I'll send you the data. They're not farther than twofold. The difference between them doesn't correlate with respect to speed or any differences in how they actually segregate. We're still looking at that, but it doesn't look like that explains it. I think I'll think more about this. I think we should get back to this. This different rate thing is critical.

@@ -1,0 +1,1284 @@
+[0.00 --> 4.62] Michael Levin's work on regulating intractable pattern formation in living systems has made him
+[4.62 --> 8.96] one of the most compelling biologists of our time. In translation, this means that his team
+[8.96 --> 13.08] is sussing out how to develop limbs, regenerate limbs, how to generate minds, and even life
+[13.08 --> 18.06] extension by manipulating electric signals rather than genetics or epigenetics. His work is something
+[18.06 --> 21.38] that I consider to be worthy of a Nobel Prize, and I don't think I've said that about anyone
+[21.38 --> 25.82] on the podcast. Michael Levin's previous podcast, On Toe, is in the description. That's a solo
+[25.82 --> 30.16] episode with him where we go into a two-hour deep dive, as well as there's a theolocution,
+[30.34 --> 34.90] so that is him and another guest, just like today, except between Carl Friston and Chris Fields on
+[34.90 --> 39.66] consciousness. Yoshibok is widely considered to be the pinnacle of an AI researcher, dealing with
+[39.66 --> 45.04] emotion, modeling, and multi-agent systems. A large focus of Bach's is to build a model of the mind
+[45.04 --> 50.00] from strong AI. Speaking of minds, Bach is one of the most inventive minds in the field of computer
+[50.00 --> 54.74] science and has appeared several times on Toe Prior. Again, there's a solo episode. There's also
+[54.74 --> 58.94] a theolocution between Yoshibok and Donald Hoffman on consciousness, and Yoshibok and John
+[58.94 --> 63.58] Vervecki also on consciousness and reality. Biology has much to teach us about artificial
+[63.58 --> 68.08] intelligence and vice versa. This discussion between two brilliant researchers is something
+[68.08 --> 74.16] that I'm extremely lucky, blessed, fortunate to be a part of, as well as us as collective,
+[74.16 --> 78.18] as an audience, are fortunate enough to witness. Approximately 30 minutes into the conversation,
+[78.18 --> 83.02] you'll see two sponsors. They are Masterworks and Roman. I implore you not to skip it,
+[83.02 --> 87.82] as firstly, watching it supports Toe directly, and then secondly, they're fascinating companies
+[87.82 --> 91.98] in and of themselves. Additionally, you'll hear from one more trade coffee around the
+[91.98 --> 96.90] one and a half hour mark. Thank you and enjoy this theolocution between Yoshibok and Michael
+[96.90 --> 102.10] Levin. Welcome, both Professor Michael Levin and Yoshibok. It's an honor to have you on the
+[102.10 --> 104.84] Toe podcast. Again, both of you and then together right now.
+[105.20 --> 106.04] Thank you. It's great to be here.
+[107.04 --> 111.02] Likewise. I enjoy very much being here and look forward to this conversation.
+[111.02 --> 116.52] I look forward to it as well. So we'll start off with the question of what is it that you,
+[116.70 --> 121.60] Michael, find most interesting about Yoshibok's work? And then Yoshibok will go for you toward
+[121.60 --> 121.92] Michael.
+[122.44 --> 128.12] Yeah. I really enjoy the breadth. So I've been looking, I think I've probably read almost
+[128.12 --> 133.02] everything on your website, you know, the short kind of blog pieces and everything. And yeah,
+[133.02 --> 139.40] I'm, I'm, I'm, I'm a big fan of, of the breadth of, of tackling a lot of the different issues that
+[139.40 --> 145.68] you do with respect to, you know, computation and, and cognition and AI and, you know, and ethics and
+[145.68 --> 147.90] everything. I, I really like that aspect of it. So.
+[148.90 --> 149.44] And Yoshibok?
+[150.24 --> 154.06] Yeah. My apologies. My blog is not up to date. I haven't
+[156.44 --> 165.22] done any updates for a few years now on it, I think. So of course I'm still in the process of
+[165.22 --> 172.38] progressing and having new ideas and the ideas that I had in recent years, I have a great overlap
+[172.38 --> 180.54] with a lot of the things that you are working on. And when I listened to your Lex podcast last night,
+[180.54 --> 184.14] there were many thoughts that you had, that I had stumbled on,
+[185.92 --> 190.00] that I've never heard from anybody else. And so I found this very fascinating and thought,
+[190.80 --> 195.40] maybe let's look at some of these thoughts first and then go from there and expand
+[196.26 --> 203.20] beyond those ideas. But I, for instance, found after thinking about how cells work,
+[203.74 --> 207.76] kind of obvious, but missed by most people in neuroscience or in science in general,
+[207.76 --> 214.40] is that every cell has the ability to send multiple message types and receive multiple
+[214.40 --> 218.46] message types and do this conditionally and learn under which conditions to do that and
+[218.46 --> 222.78] to modulate this. Also, every cell is an individual reinforcement learning agent.
+[223.36 --> 228.28] Single-celled animal that tries to survive by cooperating with its environment gets most of
+[228.28 --> 234.92] its rewards from its environment. And as a result, this means that every cell can in principle
+[234.92 --> 240.18] function like a neuron. It can fulfill the same learning and information processing tasks as a
+[240.18 --> 245.02] neuron. The only difference that exists with respect to neurons, or the main difference is
+[245.02 --> 252.54] that they cannot do this over very long distances, because they are mostly connected only to cells that
+[252.54 --> 257.64] are directly adjacent. Of course, neurons also only communicate to adjacent cells, but the adjacency
+[257.64 --> 262.88] of neurons is such that they have axons, parts of the cell that reach very far through the organism.
+[262.88 --> 270.08] So in some sense, a neuron is a telegraph cell that uses very specific messages that are encoded in a
+[270.08 --> 276.10] way, like Morse's signals, in extremely short, high-energy bursts that allow to send messages over
+[276.10 --> 283.06] very long distances very quickly to move the muscles of an animal at the limit of what physics allows.
+[283.56 --> 288.68] So it can compete with other animals in search for food. And in order to make that happen,
+[288.68 --> 293.70] it also needs to have a model of the world that gets updated at this higher rate. So there is going
+[293.70 --> 299.28] to be an information processing system that is duplicating basically this cellular brain that
+[299.28 --> 304.30] is made from all the other cells in the body of the organism. And at some point, these two systems
+[304.30 --> 310.30] get decoupled. They have their own codes, their own language, so to speak. But it still makes sense,
+[310.42 --> 315.50] I guess, to see the brain as a telegraphic extension of the community of cells in the body.
+[315.50 --> 322.08] And for me, this insight that I stumbled on just because means and motive that evolution would
+[322.08 --> 328.04] equip cells with doing that information processing if the organism lives long enough and if the cells
+[328.04 --> 332.20] share a common genetic destiny so they can get attuned to each other in an organism,
+[332.58 --> 339.70] that basically every organism has the potential to become intelligent. And if it gets old enough to
+[339.70 --> 347.26] possess enough data to get to a very high degree of understanding of its environment in principle.
+[347.72 --> 353.86] So of course, a normal house plant is not going to get very old compared to us because its
+[353.86 --> 359.30] information processing is so much slower. So they're not going to be very smart. But at the level of
+[359.30 --> 364.56] ecosystems, it's conceivable that there is quite considerable intelligence. And then I stumbled
+[364.56 --> 371.22] on this notion that our ancestors thought that one day in fairyland equals seven years in human
+[371.22 --> 379.04] land, which is told in the old myth. And also, at some point, I revised my notion of what a spirit
+[379.04 --> 385.14] is. For instance, a spirit is an old word for the operating system for an autonomous robot.
+[386.36 --> 392.56] And when this word was invented, the only autonomous robots that were known were people and plants and
+[392.56 --> 399.02] animals and nation states and ecosystems, right? There were no robots built by people yet. But
+[399.02 --> 406.42] there was this pattern of control in it that people could observe that was not directly tied to the
+[406.42 --> 412.56] hardware that was realized by the hardware, but disembodied in a way. And this notion of spirit is
+[412.56 --> 419.16] something that we lost after the Enlightenment, when we tried to deal with the wrong Christian
+[419.16 --> 424.36] metaphysics and superstition that came with it. And threw out a lot of babies with the bathwater,
+[424.48 --> 430.16] and suddenly we basically lost a lot of concepts, especially this concept of software that existed
+[430.16 --> 436.50] before in a way, this software being a control pattern, or a pattern of causal structure that exists
+[436.50 --> 442.68] at a certain level of core screening, as some type of very, very specific physical law that we exist by
+[442.68 --> 449.92] looking at reality from a certain angle. And what I liked about your work is that you
+[450.86 --> 456.94] systematically have focused on this direction of what a cell can do, that a cell is an agent,
+[457.10 --> 464.62] and that levels of agency emerge in the interaction between cells. And you use very clear language and
+[464.62 --> 470.28] clear concepts, and you obviously are driven by questions that you want to answer, which is unusual in
+[470.28 --> 477.22] science. I found that most of our contemporaries in science get broken, if it doesn't happen earlier
+[477.22 --> 484.38] during the PhD, into people who apply methods in teams, instead of people who join academia,
+[484.38 --> 488.66] because they think it's the most valuable thing they can do with their lives to pursue questions
+[488.66 --> 490.86] that they're interested in, want to make progress on.
+[492.46 --> 494.46] All right, Michael, there's plenty to respond to.
+[494.46 --> 500.76] Yeah, yeah, lots of lots of ideas. Yeah, I think I think it's very, your point is very interesting
+[500.76 --> 504.60] about, you know, what, what, what it really, what really fundamentally is the difference between
+[504.60 --> 509.74] neurons and other cells. Of course, evolutionarily, they're reusing machinery that has been around
+[509.74 --> 514.56] for a very long time, since the time of bacteria, basically, right? So our multi, our unicellular
+[514.56 --> 520.04] ancestors had a lot of the same machinery. And, and even, I mean, of course, axons are very,
+[520.04 --> 525.22] can be very long. But, but there are sort of intermediate structures, right, there are
+[525.22 --> 530.64] tunneling nanotubes and things that allow cells to connect to maybe five or 10 diameters, cell
+[530.64 --> 535.02] diameters away, right? So, so not terribly long, but, but also not immediate neighbors necessarily.
+[535.02 --> 540.40] So that kind of architecture has been around for a while. And people like Gourl Sowell look at
+[542.50 --> 547.52] very brain like electrical signaling in bacterial colonies. So this is, you know, I think, I think
+[548.64 --> 555.80] evolution began to reuse this toolkit specifically of using this kind of communication to scale up
+[556.84 --> 563.82] the computational and other kinds of other kinds of tricks. Yeah, a really long time ago, you know,
+[563.88 --> 569.00] and I like to, I like to imagine that if somebody had come to the people who were inventing
+[569.00 --> 572.82] connectionism and the first, you know, sort of perceptrons and neural networks and so on,
+[572.82 --> 576.96] if somebody had come to them and said, Oh, by the way, sorry, you know, we're with the biologists.
+[577.16 --> 580.38] We, we, we got it wrong. It's not the brain thinking isn't in the brain, it's in the liver.
+[580.80 --> 583.96] And so then the question is, what would they do? Right. Would, would, would they have changed
+[583.96 --> 587.82] anything about what they're doing? And then we said, ah, now we have to rethink our model
+[587.82 --> 591.78] or whether they've said, fine, who cares? This is exactly the same, the same model. Everything
+[591.78 --> 596.38] works just as well. So I often, I often think about that, that, that question. What exactly
+[596.38 --> 603.00] do we mean by, by neurons? And isn't it interesting that we are able to, to, to steal most of the
+[603.00 --> 609.88] tools, the concepts, um, uh, the frameworks, the, the math from neuroscience and apply it to problems
+[609.88 --> 614.78] in other spaces. So not movement in three-dimensional space with muscles, but for example, movement
+[614.78 --> 619.28] through a morphous space, right? Anatomical morphous space. The techniques can't tell the difference.
+[619.44 --> 623.98] We use all the same stuff, optogenetics, neurotransmitter signaling, we model, um, active
+[623.98 --> 629.88] inference and, uh, uh, we see perceptual by stability that you name it. You know, we, we take
+[629.88 --> 635.26] concepts from, from neuroscience and we apply it out elsewhere in the body. And, uh, generally
+[635.26 --> 640.70] speaking, uh, everything works exactly the same. And that shows us, I think what you were saying
+[640.70 --> 647.64] that there's this really interesting, uh, kind of, um, symmetry between these, these, uh, that,
+[647.74 --> 651.08] that a lot of the distinctions that we've been making are, you know, in terms of having different
+[651.08 --> 655.32] departments and different PhD programs and other things that say, no, this is neuroscience, this is
+[655.32 --> 660.92] developmental biology. A lot of these things are just not, um, uh, not as, not as firm distinctions
+[660.92 --> 667.18] as, as, as we used to think. Yeah. I suspect that people who insist on strong disciplinary
+[667.18 --> 673.74] boundaries do this out of, of, of a protective impulse. And, uh, what I noticed by studying many
+[673.74 --> 680.22] disciplines when I was young, uh, that, um, the different methodologies are so incompatible across
+[680.22 --> 686.52] fields that, um, when I was studying philosophy, um, I, or psychology, I felt that computer scientists
+[686.52 --> 691.38] would be laughing about the methods that, uh, each of these fields are using to justify what
+[691.38 --> 698.62] they're doing. And, uh, this, I think it is indicative of a defect because if you, uh, take
+[698.62 --> 704.54] science into the current regime of, um, regulating it entirely by peer review, there is no external
+[704.54 --> 709.18] authority. Even the grant authorities are mostly fields of people who have been trained in the
+[709.18 --> 714.22] sciences in, uh, existing paradigms, and then are funding the continuation of those paradigms
+[714.22 --> 722.10] from the outside. This, um, um, better paradigmatic thinking does not really exist that much in a
+[722.10 --> 726.34] peer-reviewed paradigm. And ultimately, when you do peer review for a couple generations,
+[726.64 --> 730.72] it also means that if your peers deteriorate, there is nothing who pulls your science back.
+[731.30 --> 737.42] And, uh, what I miss specifically in a lot of the way which neuroscience is done is what you call
+[737.42 --> 743.46] the engineering stance. And, uh, this engineering stance is very powerful and you get it automatically
+[743.46 --> 747.50] when you're a computer scientist, because you don't really care what language is it written in.
+[747.64 --> 754.10] What you care in is what causal pattern is realized and how can this be realized and how could I do it?
+[754.28 --> 759.28] Uh, how would I do it? How can evolution do it? What means are its disposal? And this determines the
+[759.28 --> 764.58] search space for the things that I'm looking for, but this requires that I think in causal systems
+[764.58 --> 770.98] and this thinking in causal systems is, uh, uh, not impossible to, uh, it's possible not to do for
+[770.98 --> 776.88] a computer scientist, but, uh, it is unusual outside of computer science. And once you realize that it's,
+[776.94 --> 782.46] it's very weird. And suddenly you have notions that try to replace causal structure with say evidence.
+[783.02 --> 789.80] And then you notice that, uh, for instance, evidence-based medicine is, is not about, uh, probabilities
+[789.80 --> 794.92] of how something is realized and must work. Like you see people on a cruise ship getting infected
+[794.92 --> 799.56] over distances and you think, oh, this must be airborne, but no, there is no peer controlled
+[799.56 --> 804.58] study. So there is no evidence that it's airborne. And when you look at disciplines from the outside,
+[804.76 --> 809.88] like in this case, the medical profession or, um, the, um, medical messaging and decision-making,
+[810.06 --> 815.80] or, um, um, I get terrified because it directly affects us. And in terms of neuroscience,
+[815.80 --> 821.48] um, of course, uh, there's more theoretical for the most part, but, uh, there must be a reason why
+[821.48 --> 827.52] it's for the most part a theoretical, uh, why there is no, uh, causal model that clinicians can
+[827.52 --> 834.02] use to explain, uh, what is happening in certain syndromes that people are exhibiting. And I noticed
+[834.02 --> 841.04] this when, uh, I go to a doctor and, um, even at a reputable institution like Stanford, that, um,
+[841.04 --> 846.20] most of the neuroscientists at some level there, uh, of most of the, um, neurologists that I'm
+[846.20 --> 853.68] talking to at some level dualists, that they, uh, don't have a causal model of, uh, of the way in
+[853.68 --> 858.94] which the brain is realizing things. And a lot of studies which, uh, discover that very simple
+[858.94 --> 864.46] mechanisms like, um, the ability of human beings to use grammatical structure are actually reflected
+[864.46 --> 872.77] in the brain. This is so amazing. Who would have thought? Yeah. Um, but, uh, the developments that
+[872.77 --> 876.65] existed in computer science have led us on a completely different track. There is, uh, the
+[876.65 --> 883.25] perceptron is vaguely inspired by what the brain might be doing, but I think it's, it's really a
+[883.25 --> 889.49] toy model or a caricature of what cells are doing. Not in the sense that it's inferior. It's amazing
+[889.49 --> 894.95] what you can put forth with the modern perceptron for variations, right? The, uh, current machine
+[894.95 --> 900.29] learning systems are mind blowing and what they can do, uh, but they don't do it like biological
+[900.29 --> 906.15] organisms at all. It's, it's very different. The, uh, cells do not form change in which they weight,
+[906.15 --> 913.03] uh, sums of real numbers. There, uh, there is something going on that is roughly similar to it,
+[913.11 --> 917.47] but there's a self-organizing system that designs itself from the inside out, not by a
+[917.47 --> 921.73] machine learning principle that applies to the outside and updates weights after reading and
+[921.73 --> 928.25] comparing them and computing gradients to the system. So this perspective of local self-organization by
+[928.25 --> 934.37] reinforcement agents that try to trade rewards with each other, um, that is a perspective that
+[934.37 --> 940.63] I find totally fascinating. And I wish this would have come from neuroscience into, uh, computer
+[940.63 --> 945.19] science, but it hasn't. There are some people which have thought about these ideas to some degree,
+[945.35 --> 950.35] but there's been very little cross-pollination. And I think, uh, all this talk of neuroscience,
+[950.35 --> 953.61] uh, influencing computer science is mostly visual thinking.
+[955.95 --> 960.71] Yeah. It's also, uh, I find, uh, this, you know, what you were saying about, um, the different,
+[960.71 --> 966.09] uh, disciplines. It's, it's kind of amazing how, uh, well, when I, when I give a talk, um,
+[966.09 --> 971.21] I can always tell which department I'm in by, by which part of the talk makes people uncomfortable
+[971.21 --> 975.47] and upset. And it's always different depending on which department it is. Right. So, so there are
+[975.47 --> 979.05] things you can say in one department that are completely obvious. And you say this in the,
+[979.05 --> 982.01] in another group of people and they, they throw tomatoes. They think this is just crazy.
+[983.95 --> 988.91] For instance, um, I could, I could, uh, say in, you know, in a, in a neuroscience department,
+[988.91 --> 995.25] I could say, uh, information can be processed is without changes in gene expression. You don't
+[995.25 --> 999.65] need changes in gene expression to process information because the, the, the processing
+[999.65 --> 1004.55] inside a neural network that runs on the physics of, of action potentials. Right. So, I mean, so,
+[1004.67 --> 1008.17] right. So, so you can do all kinds of interesting information processing and you don't need genetic
+[1008.97 --> 1012.37] transcriptional or genetic change for that. If I say the same thing in a molecular genetics
+[1012.37 --> 1016.83] department that say, Hey, these cells could be processing tons of information long before the,
+[1016.83 --> 1020.53] the transcriptome ever finds out about it. This is, this is considered, you know, just,
+[1020.65 --> 1025.51] just completely wild because, because it's thought that, that, that most of the hard work or,
+[1025.57 --> 1029.85] or in fact, all of the hard work is done and in gene regulatory circuits and things like that.
+[1030.13 --> 1036.25] Right. There are other, other examples. If I say, um, uh, here's a, uh, here's a collection of cells that,
+[1036.25 --> 1041.51] that communicate electrically to, to remember a particular spatial pattern. Again, molecular
+[1041.51 --> 1046.41] cell biology, that's the, what do you mean? How can, how can a collection of, of cells remember a
+[1046.41 --> 1050.47] spatial pattern, but again, in neuroscience or in, in an engineering department, yeah, of course,
+[1050.57 --> 1055.19] of course they have electrical circuits that remember patterns and can come do pattern completion
+[1055.19 --> 1061.27] and things like that. So, um, you know, views of, views of causality views of, uh, just,
+[1061.27 --> 1065.77] just lots of things like that, that are, that are very obvious, uh, to one group of people is,
+[1065.77 --> 1071.29] is completely taboo elsewhere. So that, that, that distinction and, and, and, and, and yeah,
+[1071.37 --> 1077.33] and as, as you, as Joshua just said, um, it impacts, it impacts everything. It impacts education. It
+[1077.33 --> 1083.21] impacts grants, you know, grant, uh, grant reviews, because when these kinds of interdisciplinary grants
+[1083.21 --> 1088.11] come up, the study sections have a really hard time finding people that can actually review them.
+[1088.11 --> 1092.27] Because what often happens is you'll find you'll, you'll get a, some kind of computational
+[1093.05 --> 1097.89] biology grant and you put a proposal and you'll have some people on the, on the panel who are
+[1097.89 --> 1102.69] biologists and some people who are the computational folks. And it's very hard to get people that
+[1102.69 --> 1107.55] actually can appreciate both sides of it and understand what's happening together. Right.
+[1107.57 --> 1111.29] So they will sort of each critique a certain part of it. And the other part, they say, ah, I don't know what
+[1111.29 --> 1116.87] this is. And, and as a result, grants like that don't tend to not have a champion, you know,
+[1116.87 --> 1121.25] one person who can say, no, I get, I get the whole thing. And I, I think it's really good or, or not.
+[1122.17 --> 1127.69] So yeah, it's, uh, even to the point where I'm, I'm often asked, uh, you know, when, when, when
+[1127.69 --> 1132.33] people want to list me somewhere, they'll say, so, so what, what, what, what are you, you know,
+[1132.39 --> 1136.49] what kind of, what kind of, uh, what's your field? And I never know how to answer that question.
+[1136.61 --> 1139.07] You know, this day it's been 30 years. I still don't know how to answer that question.
+[1139.23 --> 1143.53] I can't, I just can't boil it down to one, you know, it just wouldn't make any sense to, to,
+[1143.53 --> 1146.87] to say any of the traditional, um, you know, the traditional fields.
+[1147.81 --> 1150.75] So what do you say, Josia, when someone asks you what field you're in?
+[1151.59 --> 1158.51] And it depends on who's asking. So, uh, for instance, uh, I found it quite useful to, uh,
+[1158.73 --> 1166.53] sometimes say, um, uh, sorry, I'm not a philosopher. Um, but, uh, but this, uh, or, um,
+[1166.53 --> 1171.53] I'm, uh, I'm not that interested in machine learning and I'm, I did publish papers in
+[1171.53 --> 1176.35] philosophy and in machine learning, but, uh, it's not my, uh, specialty in the sense that
+[1176.35 --> 1182.31] I need to identify with it. And, um, in some sense, I guess that these categories are important,
+[1182.31 --> 1188.31] uh, when you try to, uh, write a grant proposal or when you try to find a job in a particular
+[1188.31 --> 1194.07] institution and they need to fill a position. But, um, for me, it's more, um, what questions am I
+[1194.07 --> 1197.65] interested in? What is the thing that I want to make progress on? Or what is the thing that I
+[1197.65 --> 1205.31] want to build right now? And, uh, I guess that in terms of the intersection, I'm a cognitive scientist.
+[1207.13 --> 1212.47] So I was asking Michael prior to you joining Josia, why is it Michael that you were doing
+[1212.47 --> 1216.87] podcasts? And if I understand correctly, part of the reason was because you think out loud and you
+[1216.87 --> 1220.99] like to hear the other person's thoughts and take notes and it spurs your own. And firstly, like
+[1220.99 --> 1225.41] Michael, you can correct me if that's incorrect. And then secondly, Josia, I'm curious for an answer
+[1225.41 --> 1230.95] for this, the same question. What is it that you get out of doing podcasts other than say some
+[1230.95 --> 1234.61] marketing for if you were promoting something, which I don't imagine you are currently.
+[1235.47 --> 1243.73] Uh, no, I'm not, uh, marketing anything. I, uh, what I like about podcasts is the ability to, uh,
+[1243.81 --> 1249.63] publish something in a format that is engaging to, uh, interesting to people who actually care about it.
+[1250.47 --> 1257.89] I like this informal way of, uh, holding onto some ideas and also like conversations is a medium to
+[1257.89 --> 1264.07] develop thought is this, uh, space in which we can, um, reflect on each other, look into each
+[1264.07 --> 1270.69] other's minds, interact with the ideas of others in real time. Uh, the production format of a podcast
+[1270.69 --> 1276.45] creates a certain focus of the conversation that can be useful. And it's a pleasant kind of tension
+[1276.45 --> 1284.29] that focuses you to stay on task. And, uh, I also found that, uh, it's generally useful to some
+[1284.29 --> 1290.11] people. Like, uh, the feedback that I get is that, uh, people tell me I had this really
+[1290.11 --> 1296.51] important question and I found this allowed me to make a progress on it. And I feel much better now
+[1296.51 --> 1302.49] about these questions. I, uh, just clarified something for me that has plagued me for years and,
+[1302.49 --> 1308.57] um, put me on track to solving it, or this has inspired the following work. So it's a form of,
+[1308.65 --> 1313.77] uh, publishing ideas and getting them into circulation in, uh, in our global health minds,
+[1313.79 --> 1320.91] uh, that is a very informal in a way, but it's not useless. And also it's, uh, relieves me in,
+[1320.99 --> 1326.33] in, in, in this instance, at least of the work of cutting, editing, and so on. Uh, by any way,
+[1326.33 --> 1331.87] so I'm very grateful that you provide the service of curating our conversation and, uh, putting it
+[1331.87 --> 1337.05] in a form that is useful to other people. Yeah. Yeah. There's something, well, there are two,
+[1337.11 --> 1341.81] two things I was thinking of. One is that, uh, you know, I mean, I have conversations with people
+[1341.81 --> 1346.25] all day long about these issues, right? So people in my lab, collaborators, whatever. And most, of
+[1346.25 --> 1350.81] course, the vast majority of those conversations are not recorded and they just sort of disappear into
+[1350.81 --> 1354.55] the ether. And then, then I take something away from it and the other person takes something away from
+[1354.55 --> 1358.27] it. But I've often, I've often thought that wouldn't it be, wouldn't, isn't it a shame that
+[1358.27 --> 1363.67] all of this is, uh, just, just kind of disappears and it would be amazing to, to have, have a record
+[1363.67 --> 1367.75] of it. And, and of course not every conversation is, you know, is gold, but, but, but a lot of them
+[1367.75 --> 1373.37] are, are useful and interesting. And, uh, there are plenty of people that, um, could, could be
+[1373.37 --> 1378.45] interested and could, could, could benefit from it. So, so I really like this aspect that, uh, we can have
+[1378.45 --> 1383.43] conversations and then they're, you know, sort of canned and they're out there for, uh, for, for, for people who are,
+[1383.43 --> 1388.01] or interested. The, the other kind of, um, aspect of it, which I don't really understand, but, but
+[1388.01 --> 1394.75] it's kind of neat is that if when somebody, when somebody asks me to pre-record a talk, it takes
+[1394.75 --> 1399.55] a crazy amount of time because, because I keep stopping and realizing, ah, I could have said that
+[1399.55 --> 1403.75] better. Let me start from the beginning. And, and it's just, it's, it's an incredible ordeal. Whereas
+[1403.75 --> 1409.73] something like this, that's real time, uh, I'm sure it has as many, you know, mistakes and things that I
+[1409.73 --> 1413.09] would have rather fixed later, but, but you can't do that. Right. So you just sort of go with it.
+[1413.09 --> 1417.25] And that's it. And then it's done and you can move on. So, so I like, I like that real time aspect
+[1417.25 --> 1422.37] of it because it just, it just helps you to get the ideas out without getting hung up and trying
+[1422.37 --> 1430.93] to redo things 50 times. Yeah. It's a format that allows tentativity. If we publish, we have a
+[1430.93 --> 1437.59] culture in sciences that requires us to publish the things that we can hope to prove and make the
+[1437.59 --> 1442.53] best proof that we can. But, uh, when we have anything complicated, especially when we take our
+[1442.53 --> 1449.49] engineering stance, uh, we often cannot prove how things work. Instead, our, uh, answers are in the
+[1449.49 --> 1454.43] realm of the possible and we need to discuss the possibilities. And, uh, there is a value in
+[1454.43 --> 1459.75] understanding these possibilities, uh, to direct our future experiments and the practical work that
+[1459.75 --> 1465.41] we do to see what's actually the case. And, uh, we don't really have a publication format for that.
+[1465.41 --> 1471.19] Right. We, um, don't get neuroscientists to publish their ideas on how the mind works because nobody
+[1471.19 --> 1475.73] has a theory that they can prove. And as a result, there is basically a vacuum where theories should
+[1475.73 --> 1481.51] be. And the theory building happens informally in conversations that basically requires personal
+[1481.51 --> 1487.35] contact, which is a big issue once a conference has been virtual because that, uh, contact diminished
+[1487.89 --> 1493.45] and you get a lot of important ideas by reading the publications and so on. But this, uh, what could
+[1493.45 --> 1498.53] be, or connecting the dots or possibilities or ideas that might be proven wrong later that we just
+[1498.53 --> 1503.19] exchange as in the status of ideas, that is something that has a good place in a podcast.
+[1504.91 --> 1510.51] Now, is this podcast, not this total podcast, but podcasts in general, something new? So for instance,
+[1510.65 --> 1515.31] I was thinking about this and I, well, podcasts go back a while and Rogan invented this long form
+[1515.31 --> 1521.55] format or popularized it. However, on television, there are interviews. So there's Oprah and those
+[1521.55 --> 1526.99] are long one hour, there's 60 minutes. And then back in the nineties, there was a three and a half
+[1526.99 --> 1531.83] hour. It's essentially a podcast. It's like Charlie Rose, three and a half hour conversation. It's like
+[1531.83 --> 1539.51] a theolocution with Freeman Dyson, Daniel Dennett, Stephen Jay Gould, like the Rupert Sheldrake, all of those
+[1539.51 --> 1546.03] podcasts on the same one format. It's essentially a podcast talking about metaphysics. I'm like, man,
+[1546.15 --> 1549.55] oh man, I can't believe that got published. And then also I think about it. Well, did Plato have
+[1549.55 --> 1553.91] the first podcast because he's just publishing these dialogues and you read them, but it's not
+[1553.91 --> 1557.51] as if there, maybe he would have published it in video. I think Plato was the first podcaster.
+[1558.63 --> 1564.17] So is there something new about this format of podcasting that wasn't there before or what's new
+[1564.17 --> 1569.61] about it? I think it's like, it's like blogging. Blogging is also not new, right? Being able to
+[1569.61 --> 1577.41] write texts that you publish and people can follow what you are writing and so on did exist in some
+[1577.41 --> 1582.91] sense before, but the internet made it possible to publish this for everyone. You don't need a
+[1582.91 --> 1588.15] publisher anymore and you don't need a TV studio anymore. You don't need a broadcast station that
+[1588.15 --> 1593.31] is recording your talk show and sends it to an audience. There is no competition with all the other
+[1593.31 --> 1598.63] talk shows because there is no limitations on how many people can broadcast at the same time.
+[1598.99 --> 1607.09] And this allows an enormous diversity of thoughts and small productions that are done at a very low
+[1607.09 --> 1612.81] cost, lowering the threshold for putting something out there and seeing what happens. So in this sense,
+[1612.95 --> 1618.69] it's the ecosystem that emerged as new because a variable change that changed the cost of producing
+[1618.69 --> 1628.73] a talk show. Right. Michael, you agree? Yeah, yeah. I mean, yes, that and all of that. And also just the fact
+[1628.73 --> 1635.51] that, you know, as you just said, these kind of like long form things were fairly rare. So most of the time,
+[1635.63 --> 1640.29] if you're going to be in one of the traditional media, they tell you, okay, you've got, you've got, you know,
+[1640.39 --> 1644.09] three minutes, you know, we're going to cut all this stuff and we're going to boil it down to three minutes.
+[1644.09 --> 1648.61] And this is often incredibly frustrating. And, and, and I understand, I mean, we're drowned in
+[1648.61 --> 1653.37] information. And so, so there is obviously a place for very short statement on things, but the kind
+[1653.37 --> 1659.43] of stuff that we're talking about, uh, cannot be boiled down to, to, you know, TV sound bites or
+[1659.43 --> 1664.75] any, it's just not. And so, so the ability to have these long form things so that anybody who wants to
+[1664.75 --> 1669.83] really dig in can hear what the actual thought is, as opposed to something that's, that's been just,
+[1669.83 --> 1675.87] uh, you know, boiled into, into a very, um, very, very short statement, I think is, is invaluable.
+[1676.09 --> 1680.53] Just being able to have it out there for people to find. Now, a brief note from two sponsors.
+[1680.87 --> 1685.65] This is a considerably easy sponsor because some of you watching this are losing your hair and it's
+[1685.65 --> 1688.61] not because you have a, you have trouble understanding the contents. You're pulling it
+[1688.61 --> 1693.49] out. It happens to approximately half of all men. It's uncomfortable, but there are methods to help
+[1693.49 --> 1698.81] and even to stop the process of balding. Roman offers clinically proven medication to help treat
+[1698.81 --> 1703.19] hair loss. All of course, from the comfort and privacy of your own home. Roman offers prescription
+[1703.19 --> 1708.11] medication and over the counter treatments. They also offer specially formulated shampoos and
+[1708.11 --> 1713.01] conditioners with ingredients that fortify and moisturize the hair to look fuller. Research shows
+[1713.01 --> 1717.95] that 80% of men who use prescription hair loss medication had no further hair loss after two years.
+[1718.23 --> 1724.11] Roman is licensed and the whole process is straightforward and discreet. Plans start at $20 a month.
+[1724.11 --> 1730.01] Currently, Roman has a special offer for Toe listeners, that is you. Use the link ro.co
+[1730.01 --> 1737.09] slash curt, C-U-R-T, to get 20% off your first order. Again, that's ro.co slash C-U-R-T.
+[1737.35 --> 1742.05] The link is in the description and you get 20% off. As the Toe project grows, we get plenty of
+[1742.05 --> 1746.59] sponsors coming. And I thought, you know, this one is a fascinating company. Our new sponsor is
+[1746.59 --> 1751.47] Masterworks. Masterworks is the only platform that allows you to invest in multi-million dollar
+[1751.47 --> 1756.69] works of art by Picasso, Bansky, and more. Masterworks is giving you access to invest in
+[1756.69 --> 1761.27] fine art, which is usually only accessible to multi-millionaires or billionaires. The art that
+[1761.27 --> 1766.15] you see hanging in museums can now be partially owned by you. The inventive part is that you don't
+[1766.15 --> 1770.13] need to know the details of art or investing. Masterworks makes the whole process straightforward
+[1770.13 --> 1775.09] with a clean interface and exceptional customer service. They're innovating as more traditional
+[1775.09 --> 1780.67] investments suffer. Last month, we verified a sell which had a 21.5% return. So for instance,
+[1780.67 --> 1784.17] if you were to put $10,000 in, you would now have $12,000. Welcome to our new sponsor,
+[1784.25 --> 1787.27] Masterworks. And the link to them is in the description. Just so you know, there's in fact
+[1787.27 --> 1792.27] a wait list to join their platform right now. However, Toe listeners can skip the wait list
+[1792.27 --> 1796.99] by visiting the link in the description, as well as by using the promo code, Theories of
+[1796.99 --> 1801.23] Everything. Again, the link is in the description. You can see important regulation aid disclosures
+[1801.23 --> 1807.79] at masterworks.com slash CD. What's some stance of yours, some belief that has changed most drastically
+[1807.79 --> 1812.39] in the past few years, let's say three. And it could be anywhere from something abstruse and
+[1812.39 --> 1817.25] academic to more colloquial, like I didn't realize the value of children, or I overvalued children.
+[1817.33 --> 1819.35] Now I'm stuck with them. Like, geez, that was a mistake.
+[1820.55 --> 1824.53] Yeah. So something where I changed my mind was RNA-based memory transfer.
+[1825.83 --> 1833.25] And I think it's a super interesting idea in this context, because it's close to stuff that Michael
+[1833.25 --> 1838.69] has been working on and is interested in. There have been some experiments in the Soviet Union,
+[1838.89 --> 1847.61] I think in the 70s, where scientists took planaria, trained them to learn something. I think they
+[1847.61 --> 1853.21] learned how to be afraid of electric shocks and things like that. And then they put their brains
+[1853.21 --> 1858.17] into a blender, extracted the RNA, injected other planaria with it, and these other planaria
+[1858.17 --> 1865.29] had learned it. And I learned about this as a kid when I, in the 1980s, read Soviet science fiction
+[1865.29 --> 1873.65] literature. I grew up in Eastern Germany. And the evil scientist harvested the brains of geniuses
+[1873.65 --> 1881.13] and injected himself this RNA extracted from these brains and thereby acquired the skills. And even
+[1881.13 --> 1889.29] though I'm pretty sure this probably doesn't work if you do it at this level, this was inspired by
+[1889.29 --> 1896.37] this original research. And I later heard nothing about this anymore. And so I dismissed it as
+[1897.37 --> 1902.93] similar things as I read in Sputnik and other Russian publications, which create their own
+[1902.93 --> 1909.63] mythological universe about ball lightning that is agentic and possibly sentient and so on,
+[1909.63 --> 1914.95] and dismissed this all as basically another universe of another reader's digest culture that is
+[1914.95 --> 1920.35] producing its own ideas that then later on get dissolved once science advances. Because everybody
+[1920.35 --> 1925.17] knows it's synapses. It's connections between neurons that matter. The RNA is not that important
+[1925.17 --> 1930.01] for the information processing. It might change some state, but you cannot learn something by extracting
+[1930.01 --> 1935.57] RNA and re-injecting it into the next organism. Because how would that work if it's done in the synapses?
+[1935.57 --> 1941.71] And then recently there were some papers which replicated the original research and has been
+[1941.71 --> 1950.85] replicated from time to time in different types of organisms. But to my knowledge, not in, of course,
+[1951.07 --> 1957.41] macaques or not even mice. But so it's not clear if their brains work according to the same principles
+[1957.41 --> 1964.65] as planaria. But planaria are not extremely simple organisms, only a handful of neurons. They are
+[1964.65 --> 1970.91] something intermediate. So their main architecture is different from ours and the functioning principles
+[1970.91 --> 1975.39] of their neurons might be slightly different, but it's worth following this idea and going down that
+[1975.39 --> 1981.69] rabbit hole. And then I looked from my computer science engineering perspective and I realized that
+[1981.69 --> 1988.87] there are always things about the synaptic story that I find confusing because they're very difficult to
+[1988.87 --> 1995.33] implement. So for instance, weight sharing. As a computer scientist, I require weight sharing. I don't
+[1995.33 --> 2001.33] know how to get around this. If I want to entrain myself as computational primitives in the local area of
+[2001.33 --> 2009.03] my brain, for instance, the ability to rotate something. Rotation is some operator that I apply on a pattern that
+[2009.03 --> 2015.75] allows this pattern to be represented in a slightly different way to have this object rotated a few
+[2015.75 --> 2021.99] degrees. But an object doesn't consist of a single point. It consists of many features that all need to
+[2021.99 --> 2028.47] get the same rotation applied to them using the same mathematical primitives. So how do you implement the
+[2028.47 --> 2035.45] same operator across an entire brain area? Do you make many, many copies of the same pattern? And
+[2035.45 --> 2039.65] computer scientists solve that with so-called convolutional neural networks, which basically
+[2039.65 --> 2046.55] use the same weights again and again in different areas, but using only training them once and making
+[2046.55 --> 2051.55] them available everywhere. And that would be very difficult to implement in synapses. Maybe there are
+[2051.55 --> 2059.35] ways, but it's not straightforward. Another thing is if we see how training works in babies, they learn
+[2059.35 --> 2064.05] something and then they get rid of the surplus synapses. Initially, they have much more connectivity than they
+[2064.05 --> 2072.23] need. And after they've trained, they optimize the way in which the wiring works by discarding the
+[2072.23 --> 2078.15] things they don't need to compute what they want to compute. So it's like culling the synapses. It does
+[2078.15 --> 2083.71] not freeze or etch the learning into the brain, but it optimizes the energy usage of the brain.
+[2084.11 --> 2089.77] Another issue is that patterns of activation are not completely stable in the brain. In the cortex,
+[2089.77 --> 2094.75] if you look, you find that they might be moving the next day or even rotate a little bit, which is
+[2094.75 --> 2099.83] also difficult to do with synapses. You cannot read out the weights and copy them somewhere else in an
+[2099.83 --> 2105.67] easy, straightforward fashion. And another issue is defragmentation. If you learn, for instance,
+[2105.79 --> 2111.43] your body map into a brain area, and then somebody changes your body map because you have an accident and
+[2111.43 --> 2116.65] lose a finger, or somebody gives you an artificial limb and you start to integrate this into your body
+[2116.65 --> 2121.59] map. How do you shift all the representations around? How do you make space for something else
+[2121.59 --> 2126.77] and move it? Or also initially, when you set up your maps via heavier learning, how do you make sure
+[2126.77 --> 2131.95] that the neighborhoods are always correct and you don't need to realign anything? And I guess you need
+[2131.95 --> 2137.47] some kind of realignment. And all these things seem to be possible when you switch to a different
+[2137.47 --> 2145.39] paradigm. So if you take this RNA-based theory seriously, go down this rabbit hole, what you get
+[2145.39 --> 2152.63] is the neurons are not learning a local function over its neighbors, but they are learning how to
+[2152.63 --> 2158.15] respond to the shape of an incoming activation front, a spatial-temporal pattern in their neighborhood.
+[2158.31 --> 2162.73] And they are densely enough connected, so the neighborhood is just a space around them.
+[2162.73 --> 2168.91] And in this space, they basically interpret this according to a certain topology to say this
+[2168.91 --> 2176.25] is maybe a convolution that gives me 2.5D or it gives me 2D or 1D or whatever. The type of function
+[2176.25 --> 2184.97] is that they want to compute. And they learn how to fire in response to those patterns and thereby
+[2184.97 --> 2189.39] modulate the patterns when they're passed on. So the neurons act as something like a self-modulating
+[2189.39 --> 2196.51] ether through which wavefronts propagate that perform the computations. And they store the
+[2196.51 --> 2202.69] responses to the distributions of incoming signals, possibly in RNA. So you have little
+[2202.69 --> 2209.33] mixtapes, little tape fragments that they store in the soma and that it can make more of very cheaply
+[2209.33 --> 2213.83] and easily if there are successful mixtapes and they're useful computational primitives that they
+[2213.83 --> 2218.95] discovered. And they can distribute this to other neurons through the entire cortex. So neurons of the
+[2218.95 --> 2226.05] same type will gain the knowledge to apply the same computational primitives. And that is something
+[2226.05 --> 2230.49] I don't know if the brain is doing that. And the human brain is using these principles or if it's using
+[2230.49 --> 2235.71] them a lot and how important this is and how many other mechanisms exist. But it's a mechanism that we
+[2235.71 --> 2241.83] haven't, through my knowledge, tried very much in AI and computer science. And it would work. There is
+[2241.83 --> 2248.93] something that is a very close analog that is a neural cellular automaton. So you basically, instead of
+[2248.93 --> 2255.81] learning weight shifts or weight changes between adjacent neurons, what you learn is global functions
+[2255.81 --> 2263.95] that tell neurons on how to respond to patterns in the neighborhood. And these functions are the same for
+[2263.95 --> 2271.23] every point in your matrix. And you can learn arbitrary functions in this way. And what's nice about it is
+[2271.23 --> 2277.07] that you only need to learn computational primitives once. Our current neural networks need to learn the
+[2277.07 --> 2283.05] same linear algebra over and over again in many different corners of the neural network. Because you need
+[2283.05 --> 2289.87] vector algebra for many kinds of operations that we perform. For instance, operations in space where we shift
+[2289.87 --> 2297.35] things around or rotate them. And if they could exchange these useful operations with each other
+[2297.35 --> 2302.85] and just apply an operator whenever the environment dictates that this would be a good idea to try to
+[2302.85 --> 2307.97] apply this operator right now in this context, that could speed up learning. That could make training much
+[2307.97 --> 2312.93] more sample efficient. And so something super interesting to try. And this is one of the rabbit holes
+[2312.93 --> 2320.51] I recently fell down where I changed my thinking based on some experiment from neuroscience that
+[2320.51 --> 2326.57] doesn't have very big impact for the mainstream of neuroscience, but that I found reflected in
+[2326.57 --> 2335.25] Michael's work with Planaria. Yeah, that's super interesting stuff. I can sprinkle a few details onto this.
+[2335.25 --> 2342.21] Um, uh, the original, so, so the original finding in Planaria was, um, was a guy named James McConnell
+[2342.21 --> 2347.35] in, uh, in, in Michigan, actually in the U S and the, and then that was in the sixties, the early sixties.
+[2347.47 --> 2352.13] And then there was some really interesting Russian work, um, that, that picked it up after that. Uh,
+[2352.41 --> 2358.51] we reproduced some of it recently in using modern, uh, modern quantitative, uh, automation and things like
+[2358.51 --> 2363.01] this. But one of the, one of the really cool aspects of this, and, and there's a whole community by the way,
+[2363.01 --> 2367.47] with, um, you know, people like, uh, Randy Gallistel and Sam Gershman, and, um, you know,
+[2367.57 --> 2371.67] of course, a glanceman, the David glanceman and people, people who are that, that, that story of
+[2371.67 --> 2376.73] memory in the, in the precise details of the, um, of the synapses is that that story is really starting
+[2376.73 --> 2381.03] to crack actually for a number of reasons. But one of the, one of the cool things that, that was done
+[2381.03 --> 2387.01] in the Russian work, and it was also done later on by, um, uh, Doug Blackiston, who's, who's in my lab
+[2387.01 --> 2392.39] now as a staff scientist and other people is this, you can, this certain, certain animals that go
+[2392.39 --> 2396.59] through larval stages, right? So you can say, so what the Russians were using, um, beetle, beetle
+[2396.59 --> 2402.15] larvae and, uh, and Doug and other people used, uh, used, used, uh, moths and butterflies. So what
+[2402.15 --> 2407.29] happens is you train, you train the larva, right? So, so, so here you've got a butterfly, a caterpillar.
+[2407.41 --> 2411.61] So, so this caterpillar lives in a two-dimensional world. It's a soft bodied robot. It lives in a
+[2411.61 --> 2415.69] two-dimensional world that eats leaves and so on. Right. And so you train this thing for a particular
+[2415.69 --> 2421.79] task. Well, during metamorphosis, it needs to become a moth or butterfly, which it lives in a
+[2421.79 --> 2425.63] three-dimensional world. Plus it's a hard bodied creature. So, so the controller is completely
+[2425.63 --> 2430.15] different, right? For running this, for running a caterpillar versus a butterfly. So, so during that
+[2430.15 --> 2434.89] process, what happens is the brain is basically dissolved. So most of the connections are broken.
+[2435.01 --> 2439.73] Most of the cells are gone. They die. Uh, you, you put together a brand new brain, it self-assembles
+[2439.73 --> 2444.73] and you can ask all sorts of interesting philosophical questions of what it's like to be a creature whose
+[2444.73 --> 2450.69] brain is undergoing this massive change. Uh, but the information remains. And so one can ask, okay,
+[2450.69 --> 2454.47] this is, you know, certainly for computer science, it's, it's, it's, it's, it's amazing to have a comp,
+[2454.67 --> 2460.09] to have a, to have a memory medium that can survive this radical re re remodeling and reconstruction.
+[2461.31 --> 2466.79] And there's, there's the RNA story, but, but also, um, uh, you had mentioned, you know, does this,
+[2466.87 --> 2471.09] does this work from, for mammals? So there was a guy in the seventies and eighties, there was a,
+[2471.19 --> 2476.61] there was a guy named George Ungar who did tons of, he's got tons of papers. He, uh, reproduced it in
+[2476.61 --> 2482.91] rats. So, so his was fear of the dark and he actually, um, by, by, by establishing this assay
+[2482.91 --> 2488.07] and then, um, uh, you know, fractionating their brains and, and, and extracting this, this, uh,
+[2488.37 --> 2493.17] activity. Now he thought it was a peptide, not, not RNA. So he, he ended up with a, with a thing
+[2493.17 --> 2498.81] called a scotaphobin, which turns out to be, I think an eight mer peptide or something. And the
+[2498.81 --> 2503.47] claim was that you can transfer this scotaphobia, you can synthesize it, uh, and then transfer it from
+[2503.47 --> 2507.55] brain to brain. And, and that's, and that's, you know, that's, that's, that's what he thought it
+[2507.55 --> 2512.67] was. And then of course, I think David Glantzman favors RNA again, but yeah, I agree with you. I
+[2512.67 --> 2518.17] think, I think that's a, that's a, that's a super important story of how it is that this kind of
+[2518.17 --> 2523.77] information can survive, uh, just, just massive, uh, remodeling of the, of the cognitive substrate
+[2523.77 --> 2528.33] in planaria, what we, what we did and, and planaria, you know, they, they have a true centralized
+[2528.33 --> 2532.13] brain. They have all the same neurotransmitters that we have. They're not a simple,
+[2532.13 --> 2537.77] a simple organism. Um, what we did was McConnell's first experiments, which is to train them on
+[2537.77 --> 2543.01] something. And we trained them to recognize a laser etched, um, kind of bumpy pattern on the
+[2543.01 --> 2546.23] bottom of the dish and to recognize that that's where their food was going to be found. So they
+[2546.23 --> 2550.77] made this association between this pattern and the, and the, and getting food. And then we cut
+[2550.77 --> 2555.51] their heads off and, and we took the tails and the tails sit there for 10 days doing nothing. And then
+[2555.51 --> 2560.73] eventually they grow a new brain. And what happens is that information is then imprinted onto the new
+[2560.73 --> 2564.81] brain. And then, and then you can recover behavioral, you know, uh, evidence that they remember the
+[2564.81 --> 2570.25] information. So, so that's pretty cool too, because it suggests that, well, we don't know
+[2570.25 --> 2576.35] if the information is everywhere or if it's in other places in the peripheral nervous system or in the,
+[2576.45 --> 2580.99] you know, in the nerve core that we, we don't know where it is yet, but it's clear that it can move
+[2580.99 --> 2585.57] around, that the information can move around in the body because it can be in the posterior half and
+[2585.57 --> 2590.41] then imprinted onto the brain, which actually drives all the, all the behaviors. And so thinking
+[2590.41 --> 2594.69] about that, I, I totally agree with that. This is, this is a really important rabbit hole for asking,
+[2594.81 --> 2599.19] but, but it has, it, there's an interesting puzzle here, which, which is, which is this,
+[2599.29 --> 2607.73] you know, it's one thing to remember things that are evolutionarily, uh, adaptive, like fear of the
+[2607.73 --> 2612.51] dark and things like this, but imagine, and this hasn't really been done well, but imagine for a moment,
+[2613.01 --> 2618.05] if we could train them to something that is completely novel, let's say, let's say we train
+[2618.05 --> 2622.87] them, um, uh, three yellow life flashes means to take a step to your left. Otherwise you get
+[2622.87 --> 2625.71] shocked, something like that. And let's say they learned to do it. We haven't done this yet, but
+[2625.71 --> 2630.89] let's say, let's say this could be, could work. One of the big, uh, puzzles is going to be when you
+[2630.89 --> 2635.91] extract whatever it is that you extract, let's say it's RNA or protein, whatever it is, you stick it
+[2635.91 --> 2641.71] into the brain of a recipient host. And in order for that memory to transfer, one of the things that the
+[2641.71 --> 2646.23] host has to be able to do is has to be able to decode it. And in order to decode it, it's one
+[2646.23 --> 2650.31] thing if we share the same code book and by evolution, we could have the same code book for
+[2650.31 --> 2655.49] things that come up all the time, like fear of the dark fear, you know, things like that. But how do
+[2655.49 --> 2660.39] you, how, how would the recipient look at a, a, a, a weird sort of, you know, some, some kind of crazy
+[2660.39 --> 2665.07] hairpin RNA structure and look at, and, and, and analyze it and be like, oh yes, that's three light
+[2665.07 --> 2670.33] flashes. And then, uh, step to the left. I see. So you would need to be able to interpret
+[2670.33 --> 2675.07] somehow this, this structure and convert it back to the behavior. And for, and for behaviors that
+[2675.07 --> 2680.39] are truly arbitrary, that might be, I don't know actually how that would work. And so, so I think
+[2680.39 --> 2687.71] the frontier of this field is going to be to have a really, uh, convincing demonstration of, of a
+[2687.71 --> 2694.43] transfer of a memory that doesn't have a plausible preexisting shared evolutionary decoding, because,
+[2694.55 --> 2698.39] because otherwise you have a, you have a real puzzle as to how the, as to how the decoding is going to
+[2698.39 --> 2703.03] work. So this, this idea, and, and then, and then even without the transfer, you can also think of
+[2703.03 --> 2708.69] it a different way. Every memory is like a message is like basically a transplanted message from your
+[2708.69 --> 2712.53] past self to your future self, meaning that you still have to decode your memories, whatever your
+[2712.53 --> 2716.39] memories are in an important sense, you have to, you know, those engrams, you have to decode them
+[2716.39 --> 2722.45] somehow. So, um, that, that whole issue of, of, of encoding and decoding, whatever the substrate of
+[2722.45 --> 2725.63] memory is, is, you know, maybe one of the most important questions there are.
+[2726.39 --> 2731.17] Mm-hmm. One of the ways I, we can think about these engrams, I think that there are
+[2731.17 --> 2737.97] priors that, uh, condition what kinds of, uh, features are being spawned in which context.
+[2738.43 --> 2743.45] For instance, when we see a new scene, the way that perception seems to be working is that we,
+[2743.55 --> 2749.95] uh, spawn, uh, lots, lots of feature controllers that then organize into objects that are controlled
+[2749.95 --> 2755.27] at the level of the scene. And, uh, this is basically like a game engine that is forming in
+[2755.27 --> 2762.25] our brain that is creating a population of interacting objects that are tuned to track
+[2762.25 --> 2766.49] our perceptual data at the lowest level. So all the patterns that we get from our retina and so on,
+[2766.59 --> 2772.87] uh, are samples, noisy samples, um, that are difficult to interpret, but we are matching them
+[2772.87 --> 2778.59] into these hierarchies of features that, uh, are translated into objects that assign every
+[2778.59 --> 2784.05] feature, a feature to exactly one object and every pixel, so to speak to, uh, exactly one,
+[2784.33 --> 2789.29] except in the case of transparency and, uh, use this to interpret the scene that is happening in
+[2789.29 --> 2794.25] front of us. And when we are in the dark, what happens is that we spawn lots of object controllers
+[2794.25 --> 2799.71] without being able to, uh, disprove them because there is no data that forces us to reject them.
+[2799.71 --> 2805.77] And if you have a vivid imagination, especially as a child, you will fill this darkness automatically
+[2805.77 --> 2812.67] with lots of objects, many of which will be scary. And, uh, so I think that lots of the fear of the
+[2812.67 --> 2818.49] dark doesn't need a lot of encoding in our brain. It is just an artifact of, uh, the fact that there
+[2818.49 --> 2823.33] are scary things in the world, which we can learn to represent at an early age and that we cannot just
+[2823.33 --> 2829.53] prove them that they just will just spawn. I remember this vividly as a child that whenever I had to go
+[2829.53 --> 2835.83] into the dark basement to, uh, uh, get, uh, some food in our house, uh, in the countryside, uh,
+[2836.43 --> 2841.39] that, uh, this darkness automatically filled with all sorts of shapes and things and possibilities.
+[2842.63 --> 2848.29] And, uh, it took me later to learn that, uh, you need to be much more afraid of the ghost that can
+[2848.29 --> 2849.01] hide in the light.
+[2850.57 --> 2855.11] So what would be the implications of if you were able to transfer memory for something that's
+[2855.83 --> 2862.47] not trivial. So nothing that's like an archetype of fear of the dark between a mammal like rats.
+[2863.97 --> 2867.65] And when I say transfer memory, I mean, in this way that you blend up the brain or you,
+[2867.89 --> 2871.67] and also, can you explain what's meant by, I think I understand what it means to blend the
+[2871.67 --> 2876.01] brain of a plein area, but I don't think that's the same process that's going on in rats. Maybe it is.
+[2876.01 --> 2881.33] They, they, well, Ungar did exactly the same thing. He would train rats for particular tasks. He would
+[2881.33 --> 2887.07] extract the brain, literally liquefy to extract the chemical contents. Uh, he would then either
+[2887.07 --> 2891.67] inject the whole extract or a filtered extract where you would divide it up. You'd, you'd set for
+[2891.67 --> 2896.61] fractionated. So here's the RNAs, here's the proteins here, you know, other things. Uh, and,
+[2896.61 --> 2902.53] and then he would inject that liquid directly into the brains of recipient rats. So, you know,
+[2902.53 --> 2908.15] when you do that, you lose, you lose spatial structure on the input because you just blended
+[2908.15 --> 2912.97] your brain, you, whatever spatial structure that was, you just destroyed it. Also on the recipient,
+[2913.53 --> 2918.67] you just, you just inject it. It's not, you know, you're not finding that particular place where you're
+[2918.67 --> 2921.93] going to stick, but you just inject this, this, this thing right in the middle of the brain, who
+[2921.93 --> 2926.29] knows where it goes, you know, where the fluid goes. It's sort of, there's no spatial specificity
+[2926.29 --> 2932.37] there whatsoever. So if that works, uh, what you're counting on is the ability
+[2932.37 --> 2939.25] of the brain to take up information via a completely novel route. So it's not information.
+[2939.41 --> 2943.39] That's for example, visual, right? Visual information that comes, comes in exactly the
+[2943.39 --> 2946.77] same place all the time, right? There are, there are, there are optic nerves that connect
+[2946.77 --> 2950.41] to the same place in the, in the brain. And that's where that information arrives. If the,
+[2950.47 --> 2956.89] if you bathe the brain in some sort of, uh, informational extract, you're basically asking the cells
+[2956.89 --> 2961.85] to take it up almost as, as a primitive animal would with taste or touch, right? That that's kind
+[2961.85 --> 2965.65] of distributed all over the body and you can sort of pick it up anywhere. And then you have to process
+[2965.65 --> 2969.97] this information. So, so, so you've got those issues right off the bat, right? That, that you've
+[2969.97 --> 2974.75] destroyed the incoming spatial structure. You, you can't really count on where it's going to land
+[2974.75 --> 2979.83] in the brain. And, and then the third thing is, as, as you just mentioned, is the idea that,
+[2980.53 --> 2986.57] especially if we start with information that isn't any, that, that is, that is so, um, uh,
+[2986.57 --> 2995.83] kind of a specific and, um, uh, you know, kind of, uh, invented, you know, the three light flashes
+[2995.83 --> 2999.59] means move to your left. I mean, there's never, there's never been an evolutionary reason to have
+[2999.59 --> 3003.77] that encoded. Like, as, as you just said, having a fear of the dark is absolutely a natural kind of
+[3003.77 --> 3007.49] thing that shows that, that you can expect, but, and then there are many other things like that, but,
+[3007.49 --> 3012.97] but something, something as, as contrived as, as, you know, three light flashes, and then you move to your left.
+[3012.97 --> 3018.21] There's no reason to think that we have a built-in way to recognize that. So when you, as a, as a
+[3018.21 --> 3024.03] recipient brain or handed this weird, uh, molecule with a particular structure or, or a set of molecules,
+[3024.35 --> 3029.43] uh, being able to analyze that, be of having the cells in your brain to air or, or other parts of
+[3029.43 --> 3034.65] the body actually that could analyze that and recover that original information would be extremely
+[3034.65 --> 3039.43] puzzling. I actually don't know how that would work. And I'm a big fan of, of unlikely sounding
+[3039.43 --> 3044.49] experiments that have implications if they would work. So this is something that, uh, that I think
+[3044.49 --> 3048.73] should absolutely be done. And, um, and, you know, at some point we'll, we'll, we'll do it,
+[3048.77 --> 3053.71] but we haven't done it yet. But. So how far did the research in my school, what is the complexity
+[3053.71 --> 3060.57] of things that could be transmitted via, uh, this route? The, I, as, as I, I, I don't remember
+[3060.57 --> 3069.81] everything that he did, uh, the vast majority of, he, he, he did not, um, go far to test all
+[3069.81 --> 3074.51] the complexities. What he tried to do was because as you can imagine, he faced incredible opposition,
+[3074.65 --> 3079.37] right? So, so, so everybody, you know, sort of wanted to critique this thing. So he spent all
+[3079.37 --> 3084.67] of his time on, he, he picked one simple assay, which was this fear of the dark thing. And then he
+[3084.67 --> 3090.71] just, he just bashed it for, for 20 years, uh, to just finally try to kind of crack that into the,
+[3090.81 --> 3095.99] into the paradigm. He did not, um, as far as I know, do lots of different assays to try and make
+[3095.99 --> 3100.77] it more complex. I think, uh, I think it's, you know, it's, it's very ripe for, for investigation.
+[3101.27 --> 3106.35] Uh, this is the kind of, did anyone else build upon his work? Um, not that I know. I mean, I mean,
+[3106.43 --> 3110.91] David Glantzman is the best modern person who works on this, right? So he does a plesia and he,
+[3110.91 --> 3117.19] you know, and he does RNA. So, so he favors, um, he favors RNA. Um, there's a little bit of work
+[3117.19 --> 3123.73] from, um, Oded Rahavi in Israel with C. elegans. Uh, he's kind of looking into that. It, uh, there's
+[3123.73 --> 3129.11] related work that has to do with cryogenics, which is this, this, you know, this idea that,
+[3129.23 --> 3134.67] that if, if, if it is, if, if, if memories are a particular kind of dynamic electrical state,
+[3135.21 --> 3140.81] then some sort of cryogenic freezing is probably going to disrupt that. Whereas if it's a stable
+[3140.81 --> 3146.35] molecule, then it should survive. So again, I think there are people interested in that aspect
+[3146.35 --> 3149.75] of it, but I'm not sure. Um, I'm not sure they've done anything with it.
+[3150.19 --> 3154.99] There's also, uh, Gaurav Venkataraman. I think he's at Berkeley.
+[3155.09 --> 3161.21] Yeah. Yeah. Yeah. Yeah. He, uh, told me that, uh, he has been working on this for several years,
+[3161.21 --> 3167.77] but he said it's sociologically tricky. And, uh, that's to me fascinating that, uh, we should care
+[3167.77 --> 3172.95] about that. Why, what does he mean by that? What do you care about? What stupid people think,
+[3173.23 --> 3179.11] uh, if this, uh, possibility exists that this works, the upside is so big that it's criminal
+[3179.11 --> 3185.15] to not research this. I think it's a disaster that you can read, uh, introductory textbooks
+[3185.15 --> 3189.45] on neuroscience and never, ever hear about any of these experiments. Yeah. Yeah. Like, uh,
+[3189.79 --> 3195.03] everybody who gets the introductory stuff on neuroscience only knows about, uh, information
+[3195.03 --> 3200.29] stored in the connectome. Yeah. And, uh, this, uh, leads to, for instance, the blue brain
+[3200.29 --> 3205.33] project. If that, if, uh, RNA-based memory transfer is a thing, then this entire project
+[3205.33 --> 3210.87] is doomed. And because, uh, you cannot get the story out of, uh, just recording the connectome
+[3210.87 --> 3216.01] or the, most of the research right now is focused on reconstructing the connectome as, as it was
+[3216.01 --> 3223.35] circuitry and hoping that we can get the functionality of, uh, information processing and to do the specificity
+[3223.35 --> 3228.55] of the particular brain, what it has learned from the connections between neurons. But, uh,
+[3228.59 --> 3233.55] what if it turns out this doesn't matter? What is, if you just need, uh, connections that are
+[3233.55 --> 3238.61] dense enough. And so basically a stochastic lattice that is somewhat randomly wired. And what matters
+[3238.61 --> 3242.77] is what the neurons are doing with the information that they're getting through this ether, through
+[3242.77 --> 3247.39] this lattice, right? This changes the entire way in which we need to look at things. And, uh,
+[3247.45 --> 3252.49] if this possibility exists and if this possibility is just 1%, but there is some experiment,
+[3252.49 --> 3258.25] this points in this direction, it is, uh, not, um, it's ridiculous to not pursue this with high
+[3258.25 --> 3263.71] pressure and focus on it and support research that goes in this direction. Basically, uh,
+[3263.77 --> 3268.85] what's useful is not so much answering questions in science, it's discovering questions. It's
+[3268.85 --> 3274.33] discovering new uncertainty. Reducing the uncertainty is much easier than discovering new areas of where
+[3274.33 --> 3280.19] you thought that you were certain, but, uh, that allow you to, uh, get new insights. And, uh,
+[3280.19 --> 3285.51] it seems to me that a lot of neuroscience is stuck, that it does not produce, uh, results that seem to
+[3285.51 --> 3290.83] accumulate, uh, in an obvious way towards a theory on how the brain processes information.
+[3291.45 --> 3291.55] Yeah.
+[3292.01 --> 3298.51] So the neuroscientists, uh, don't deliver input to the, uh, researchers in AI. The transformer is not
+[3298.51 --> 3304.91] the result of, uh, reading a lot of neuroscience. It's really mostly the result of, uh, people's
+[3304.91 --> 3311.39] thinking about statistics of data processing. And, uh, it would be great if we would, uh, focus on,
+[3311.39 --> 3317.15] uh, ideas that are promising and new and that have the power to shake existing paradigms.
+[3317.73 --> 3322.63] Yeah. This is, you know, this is, this is so important. Uh, and it's not just neuroscience in,
+[3322.63 --> 3326.91] uh, developmental biology. We have exactly the same thing. And, and, and I'll just give you two,
+[3327.05 --> 3331.97] two very simple examples of it where, and I tell the students when I, when I give talks to students,
+[3331.97 --> 3337.71] I say, well, isn't it amazing that, that in, in your whole course of biology and your developmental
+[3337.71 --> 3343.93] biology textbook, there's not a mention of any of this because it completely, um, uh, just undermines
+[3343.93 --> 3349.27] a lot of the basic assumptions. So, so here's a couple of examples. One, one example is that as
+[3349.27 --> 3354.65] of trophic memory and deer. So there are species of deer that every year they regenerate the, you know,
+[3354.73 --> 3357.99] the whole, so they make this antler rack on their heads, the whole thing falls off and then it
+[3357.99 --> 3365.17] regrows the next year. So these two guys, Bobenik, which are a father and son team that did these
+[3365.17 --> 3369.61] experiments for 40 years. And, uh, and I actually have all these antlers in my lab now, because when,
+[3369.79 --> 3374.19] when the younger one retired, I asked him, he sent me all these things, all these antlers.
+[3374.39 --> 3380.03] The idea is this, um, what you can do is you take a knife and somewhere in this branch structure,
+[3380.03 --> 3384.75] you, you make a wound and the bone will heal and you get a little callous and that's,
+[3384.91 --> 3387.43] you know, that's it for that year. Then the whole thing drops off.
+[3387.99 --> 3393.93] And then next year it starts to grow and it will make an ectopic tine, an ectopic branch at the
+[3393.93 --> 3398.55] point where you injured it last year. And this goes on for five or six years. And then eventually
+[3398.55 --> 3405.11] it goes away and, and, and, and you get a normal, normal rack again. And so the, the amazing thing
+[3405.11 --> 3409.51] about it is that, you know, as you, you can, you can, you can, you can, the, the, the, the standard
+[3409.51 --> 3414.83] models for, for patterning for morphogenesis are these kinds of, um, gene regulatory networks and,
+[3414.83 --> 3419.59] and, you know, genetic, um, kinds of, uh, kinds of, uh, biochemical gradients and so on.
+[3419.75 --> 3424.59] You know, if you try to try to come up with an, with a, with a model for this, so for, for encoding
+[3425.25 --> 3430.73] an arbitrary point within a branch structure that your cells at the scalp have to remember for months
+[3430.73 --> 3435.91] after the whole thing is dropped off. And then not only remember it, but then implement it so that
+[3435.91 --> 3440.07] when the bone starts to grow, something says, Oh yes, that's the, you know, the, the start another,
+[3440.07 --> 3444.57] another time growing to your left. Exactly, exactly here. Right. Trying to try to make a
+[3444.57 --> 3449.91] model of this using the standard tools of the field is, uh, just, just incredibly difficult.
+[3449.91 --> 3454.63] And this is that that's, and there are other examples of this, but this kind of non, non-genetic
+[3454.63 --> 3458.83] memory, that's just very difficult to explain with standard models. The other thing, which is any,
+[3458.93 --> 3465.27] I think an even bigger scandal is the whole situation with planaria, um, planaria, some species
+[3465.27 --> 3469.79] of planaria, the way they reproduce is they tear themselves in half. Each half regenerates the
+[3469.79 --> 3473.39] missing piece and now you've got to, that's how they reproduce. So if you're going to do that,
+[3473.57 --> 3478.03] what you end up, uh, avoiding is Weissman's barrier. This idea that when we get mutations
+[3478.03 --> 3482.71] in our body, our children don't inherit those mutations, right? So this means that any mutation
+[3482.71 --> 3487.87] that doesn't kill the stem cell in the body gets amplified as that cell contributes to regrowing the
+[3487.87 --> 3493.47] worm. So as a result of this for, for 400 million years, these planaria have accumulated mutations.
+[3493.67 --> 3498.65] Their genomes are an incredible mess. Uh, their cells are basically mix-aploid that meaning,
+[3498.65 --> 3501.79] meaning they're like a tumor. Every cell has a different number of chromosomes. Potentially.
+[3502.05 --> 3506.75] They're just, they just look, look, you know, it just looks horrible as an end result. You've got
+[3506.75 --> 3511.95] an animal that is immortal, incredibly good at regenerating with a hundred percent fidelity
+[3512.45 --> 3518.63] and very resistant to cancer. Now this is all of this is the exact opposite of the message you get,
+[3518.85 --> 3523.77] uh, from, from, from a typical course through, through biology, which is says that what is the genome
+[3523.77 --> 3527.43] for? The genome is for setting your body structure. If you mess with the genome,
+[3527.43 --> 3532.61] that information goes away. You get, uh, you get aging, you get cancer, right? Why does the animal
+[3532.61 --> 3537.47] with the worst genome have the, the, the, the best anatomical fidelity? I mean, that's just,
+[3537.57 --> 3541.11] and, and I think we actually, as of, as of, you know, a few months ago, we actually, I think have
+[3541.11 --> 3545.39] some insight into this, but, but, but it's been bugging me for, for years. And this is the kind
+[3545.39 --> 3550.63] of thing that nobody ever talks about because it, it, it goes against the general assumption of what,
+[3550.69 --> 3555.05] of what genomes actually do and, and what they're for. And, you know, this, this complete lack of,
+[3555.05 --> 3559.37] uh, correlation between the genome, in fact, an anti-correlation between the genome quality
+[3559.37 --> 3564.33] and the incredible ability of this, of this animal to, uh, to, to, to, to have a healthy
+[3564.67 --> 3568.53] anatomy. Yeah. What, what is that insight that you mentioned you acquired a few months ago?
+[3569.19 --> 3573.83] Preliminary. So, so, okay. Uh, in the, in the name of, uh, you know, throwing out, uh, kind of new
+[3573.83 --> 3579.03] unproven ideas, right? So this is, you know, this, this is, this is just my, my, my conjecture. We've
+[3579.03 --> 3583.49] done some, we've done some computational modeling of it, which, which I initially, this was a, um,
+[3584.13 --> 3588.85] uh, a very, uh, clever, uh, student that I work with named Lakshwin, who I did, did some models
+[3588.85 --> 3593.97] with me. And, uh, uh, I initially thought it was a bug. And then I realized that, no, actually this
+[3593.97 --> 3599.45] is, this is, this is the feature. The idea is this imagine. So, so we've been working for a long,
+[3599.45 --> 3606.33] a long time on a concept of, um, competency among embryonic parts. And what this means is basically
+[3606.33 --> 3614.07] the idea that, uh, there are, there are, um, homeostatic feedback loops among various cells
+[3614.07 --> 3620.27] and tissues and organs that attempt to reach specific outcomes in anatomical morpheus space,
+[3620.43 --> 3625.93] despite various perturbations. So the idea is that if you have a tadpole and you do something to it,
+[3625.99 --> 3631.31] whether by a mutation or by a drug or something, you do something to it where the eye is a little
+[3631.31 --> 3636.11] off kilter or the mouth is a little off, all of these organs pretty much know where they're
+[3636.11 --> 3640.37] supposed to be. They will try to minimize distance from other, um, landmarks and they
+[3640.37 --> 3643.65] will remodel. And eventually you get a normal frog so that, so that they will, they will
+[3643.65 --> 3649.63] sort of, um, uh, uh, uh, recover the correct, uh, anatomy despite starting off in the wrong
+[3649.63 --> 3653.67] position or even things like changes in the number of cells or the size of cells. They're
+[3653.67 --> 3658.63] really good at getting their job done despite various changes, right? So, okay. So they have
+[3658.63 --> 3662.75] these, they have these competencies to, to optimize specific, uh, things like, like their
+[3662.75 --> 3667.53] position and structure and things like that. So, uh, so, so that's, so that's competency.
+[3667.61 --> 3673.55] Now, now here's, here's the interesting thing. Imagine that you have, uh, a species that, uh,
+[3673.97 --> 3678.79] has some, some degree of that competency. And so you've got an individual of that species
+[3678.79 --> 3683.99] comes up for selection. Uh, fitness is high, looks pretty good, but here's the problem.
+[3684.27 --> 3690.21] Selection doesn't know whether the fitness is high because his genome was amazing or the fitness
+[3690.21 --> 3694.23] is high because the genome was actually so, so, but the competency sort of made up for
+[3694.23 --> 3698.39] it and now everything kind of got back to where it needs to go. So what the competency
+[3698.39 --> 3704.69] apparently does is shield information from evolution about the actual genome. It makes
+[3704.69 --> 3710.09] it harder to pick the best genomes because your individuals that perform well don't necessarily
+[3710.09 --> 3716.09] have the best genomes. What they do have is competency. So what happens and what happens
+[3716.09 --> 3721.15] in our simulations is that when, if you start off with even a little bit of that competency,
+[3722.35 --> 3727.57] evolution loses some power in selecting the best genomes, but it, but, but where all the
+[3727.57 --> 3732.57] work tends to happen is increasing the competency. So then the competency goes up. So the cells are
+[3732.57 --> 3737.29] even better at, and the tissues are even better at getting the job done despite the bad genome.
+[3737.51 --> 3743.07] That makes it even worse. That, that, that, that, that makes it even harder for, for evolution
+[3743.07 --> 3748.53] to see the best genomes, which relieves some of the pressure on having a good genome, but it basically
+[3748.53 --> 3753.07] puts all the pressure on being really competent. So you've got this. So, so basically what happens
+[3753.07 --> 3760.39] is that, uh, the, the, the, the genetic fitness basically levels out at a really suboptimal level.
+[3760.53 --> 3764.43] And in fact, the pressure is off of it. So, so it's tolerant to all kinds of craziness,
+[3764.99 --> 3772.07] but the competency and the mechanisms of competency get, get pushed up really high. So in many animals,
+[3772.07 --> 3775.99] and there are other factors that sort of push against this ratchet, but it becomes, it becomes
+[3775.99 --> 3782.19] a positive feedback loop. It becomes a ratchet for optimal performance, despite a suboptimal genome.
+[3782.39 --> 3787.89] And so in some animals, this sort of evens out at a particular point, but I think what happened in
+[3787.89 --> 3794.03] planaria is that this whole process ran away to its ultimate conclusion. The ultimate conclusion is
+[3794.91 --> 3801.61] the competency algorithm became so good that basically whatever the genome is, it's really good at
+[3801.61 --> 3807.41] creating and maintaining a proper worm because it is already being evolved in the presence of a genome
+[3807.41 --> 3813.19] whose quality we cannot control. So, so in computer science speak, it's kind of like, um, and Steve
+[3813.19 --> 3817.85] Frank put me onto this analogy. It's kind of like what happens in rate arrays. When you have a nice
+[3817.85 --> 3822.91] rate array where the software makes sure that you don't lose any data, the pressure is off to have
+[3822.91 --> 3828.89] really, uh, really high quality media. And so now, um, you can tolerate, you can tolerate media with
+[3828.89 --> 3832.81] lots of mistakes because the, because the software takes care of it in the, in the rate and the, and
+[3832.81 --> 3837.65] the, and the architecture takes care of it. So, so basically what happens is you've got this animal
+[3837.65 --> 3844.97] where that, uh, that runaway, uh, feedback loop went, went so far that the algorithm is amazing.
+[3844.97 --> 3850.81] And it's been, it's been, uh, uh, evolved specifically for the ability to do what it needs to do,
+[3851.05 --> 3856.69] even though the hardware is kind of crap and, and, and it's, it's incredibly tolerant. So, so this has a
+[3856.69 --> 3859.89] number of implications that, that, uh, to my knowledge have never been explained before.
+[3860.15 --> 3865.87] For example, in every kind, every other kind of animal, you can, you can call a stock center and
+[3865.87 --> 3872.03] you can get mutants. So you can get mice with, with kinky kind of kink tails. You can get flies
+[3872.03 --> 3877.63] with red eyes and you can get, uh, chickens without toes and you can get, you know, humans come with
+[3878.13 --> 3882.13] various, you know, albinos and things you can, you can, there's, there's always mutants that you can get,
+[3882.13 --> 3889.29] uh, planaria, there are no, there are no abnormal lines of planaria anywhere, except for the only
+[3889.29 --> 3893.51] exception is our two headed line. And that, that one's not genetic. That one's, that one's by
+[3893.51 --> 3898.89] electric. So, so isn't it amazing that, that, that nobody has been able to spite, despite a hundred
+[3898.89 --> 3906.19] and, you know, I don't know, 120 years of experiments with planaria, nobody has isolated a, uh, a line of
+[3906.19 --> 3910.53] planaria that is anything other than a perfect planarian. And I think this is why I think it's because
+[3910.53 --> 3914.85] they have been actually selected for being able to do what they need to do, despite the fact that
+[3914.85 --> 3919.93] the, that the, that the hardware is just very junky. And so, so that's my, that's my current,
+[3920.05 --> 3926.57] that's my current, current take on it. And, and, and really, uh, it puts more kind of more emphasis
+[3926.57 --> 3932.65] on, on, on the algorithm and the decision-making among that cellular collective of what, what, what,
+[3932.65 --> 3935.87] you know, what are we going to build and what's the algorithm for, for making sure that we're all
+[3935.87 --> 3941.03] working to build the correct thing. So if you translate this idea into computer science,
+[3941.25 --> 3948.63] a way to look at it is imagine that you find some computers that, uh, have, um, hard disks that are
+[3948.63 --> 3953.55] very, very noisy and, uh, where the hard disk basically makes lots and lots of mistakes in
+[3953.55 --> 3959.17] encoding things and bits often flip and so on. And you will find that these computers still work
+[3959.17 --> 3964.75] and they work in pretty much the same way as the other computers that you have. And, uh, there is
+[3964.75 --> 3970.49] an orthodox sect of computer scientists that thinks, uh, it is necessary that, uh, every bit on the hard
+[3970.49 --> 3977.19] disk is, uh, completely reliable or reliable to such a degree that you only have a mistake once every
+[3977.19 --> 3982.45] hundred trillion copies. Uh, and you can have an error correction code running on the hard disk at the
+[3982.45 --> 3986.95] low level that corrects this. And after some point it doesn't become efficient anymore. So you need to
+[3986.95 --> 3992.43] have reliable hard disks to be able to have computers that work like this, but, uh, how would these other
+[3992.43 --> 3998.13] computers work? And it basically means that you create a virtual structure on top of the noisy
+[3998.13 --> 4004.55] structure that is correcting for whatever degree of, um, uncertainty you have, or the degree of
+[4004.55 --> 4010.63] randomness that gets injected into your substrate. Uh, David, uh, Dave Ackley has a very nice metaphor
+[4010.63 --> 4019.25] for this, you know, maybe. Yeah. Yeah. He's a, I think beautiful artist who is explores complexity by
+[4019.25 --> 4024.71] tinkering with computational models. I really find this work very inspiring. And he has this idea of
+[4024.71 --> 4030.45] best effort computing. So he, in his view, our own nervous system is a best effort computer. It's one
+[4030.45 --> 4036.89] that does not rely on the other neurons around you, uh, working perfectly, uh, but, uh, make an effort
+[4036.89 --> 4042.89] to be better than random. And, uh, then you stack the improbabilities empirically by, uh, having a
+[4042.89 --> 4050.89] system that evolves to, uh, measure in effect the, uh, unreliability of its components and then stack
+[4050.89 --> 4055.57] the probabilities until you get the system to be deterministic enough to do what you're doing with
+[4055.57 --> 4061.47] what you to do with it. Right. So you, uh, uh, if you have a system that is as in the planaria
+[4061.47 --> 4067.19] inherently very noisy, where the genome is an unreliable witness of, uh, what should be done
+[4067.19 --> 4072.87] in the body, you just need to interpret it in a way that stacks the probabilities that is
+[4072.87 --> 4078.87] evaluating things with much more error tolerance. And, um, maybe this is always the case. Maybe there
+[4078.87 --> 4083.97] is a continuum. Um, maybe not. It's also possible that there is some kind of phase shift where you
+[4083.97 --> 4089.33] switch from organisms with reliable genomes to organisms with noisy genomes. And you basically
+[4089.33 --> 4093.63] use a completely different way to construct the organism as a result. But it's a, uh, it's a very
+[4093.63 --> 4099.37] interesting hypothesis then to see if, if this is a radical thing or a gradual thing that happens
+[4099.37 --> 4104.71] in all organisms to some degree. Yeah. What I also like about this, uh, description that you give
+[4104.71 --> 4111.45] about how the organism emerges, it maps on, uh, in some sense, also in how perception works in,
+[4111.57 --> 4116.77] in our own mind. At the moment, machine learning is mostly focused on recognizing images.
+[4117.37 --> 4123.13] So, uh, or individual frames and the, you feed in information frame by frame and the information
+[4123.13 --> 4129.37] is relatively disconnected. A system like, uh, Dali 2 is trained by giving it several hundreds
+[4129.37 --> 4134.37] of millions of images and they're disconnected. They're not adjacent images in the space of
+[4134.37 --> 4139.83] images. And a baby could not probably learn from giving 600 million images in a dark room
+[4139.83 --> 4145.07] and only looking at this and deduce the structure of the world from this. Whereas Dali can, which
+[4145.07 --> 4150.43] gives testament to the power of our statistical methods and hardware that we have, that far
+[4150.43 --> 4154.61] surpasses, I think, the combined power and reliability of brains, which probably would
+[4154.61 --> 4159.33] not be able to integrate so much information over such a big distance. For us, the world
+[4159.33 --> 4164.67] is learnable because its adjacent frames are correlated. Basically, information gets preserved
+[4164.67 --> 4169.63] in the world through time. And we only need to learn the way in which the information gets
+[4169.63 --> 4174.73] transmogrified. And these transmogrifications of information means that we have a dynamic
+[4174.73 --> 4179.89] world in which the static image is an exception. The identity function is a special case of how
+[4179.89 --> 4186.03] the universe changes. And we mostly learn change. I just got visited by my cat and my cat has
+[4186.03 --> 4190.49] difficulty to recognize static objects compared to moving objects where it's much, much easier
+[4190.49 --> 4193.73] to see a moving ball than a ball that is lying still.
+[4193.73 --> 4198.17] And it's because it's much easier to segment it out the environment when it moves, right? So
+[4198.17 --> 4203.31] the task of learning on a moving environment, a dynamic environment is much easier because it
+[4203.31 --> 4209.59] imposes constraints on the world. And so how do we represent a moving world compared to a static
+[4209.59 --> 4215.63] world? The semantics of features changes. And the object is basically composed of features
+[4215.63 --> 4222.05] that can be objects themselves. And the scene is a decomposition of all the features that we see
+[4222.05 --> 4227.35] into a complete set of objects that explain the entirety of the scene. And the interaction between
+[4227.35 --> 4233.17] them. And causality is the interaction between objects, right? And in a static image, these objects
+[4233.17 --> 4237.25] don't do anything. They don't interact with each other. They just stand in some kind of relationship that
+[4237.25 --> 4243.37] you need to infer, which is super difficult because you only have this static snapshot. And so the features
+[4243.37 --> 4251.09] are classifiers that tell you whether a feature is a hand or a foot or a pen or a sun or a flashlight
+[4251.09 --> 4256.55] or whatever, and how they relate to the larger scene in which, again, you have a static relationship
+[4256.55 --> 4261.47] in which you need to classify the objects based on the features that contribute to them. And you need
+[4261.47 --> 4265.61] to find some kind of description where you interpret features, which are usually ambiguous and could be
+[4265.61 --> 4270.39] many different things, depending on the context in which you interpret them, into one optimal global
+[4270.39 --> 4276.61] configuration, right? But if the scene is moving, this changes a little bit. What happens now is that the
+[4276.61 --> 4281.45] features become operators. They're no longer classifiers that tell you how your internal state
+[4281.45 --> 4285.57] needs to change, how your world needs to change, how your simulation of the universe in your mind
+[4285.57 --> 4291.83] needs to change to track the sensory patterns, right? So a feature now is a change operator, a
+[4291.83 --> 4298.55] transformation. And the feature is in some sense a controller that tells you how the bits are moving
+[4298.55 --> 4303.63] in your local model of the universe. And they're organized in a hierarchy of controllers.
+[4304.75 --> 4308.63] And these controllers need to be turned on and off at the level of the scene. And they have
+[4308.63 --> 4312.13] a lot of flexibility once you have them. They can move around in the scene. They're basically
+[4312.13 --> 4317.75] now self-organizing, self-stabilizing entities. In the same way as the mouse is moving around in
+[4317.75 --> 4322.71] your organism, a feature can move around in the organism and shift itself around to communicate
+[4322.71 --> 4326.79] with other features until they negotiate a valid interpretation of reality.
+[4328.23 --> 4336.07] That's incredibly interesting because as soon as you started saying that, I was starting to think
+[4336.07 --> 4341.15] that the virtualization that enables, right? So it's the earlier part of what you were saying,
+[4341.23 --> 4350.63] the virtualization of the information that allows you to deal with unreliable hardware and everything.
+[4351.49 --> 4356.81] The bioelectric circuits that we deal with are a great candidate for that because actually we see
+[4356.81 --> 4363.01] exactly that. We see a bioelectric pattern that is very resistant to changes in the details and make
+[4363.01 --> 4368.81] sure that everybody does the right thing under a wide range of different defects and so on. But even
+[4368.81 --> 4373.61] more than that, the other thing that you were just emphasizing this, the fact that we learn the delta,
+[4373.83 --> 4379.03] right? And that we're looking for a change. Very interesting. If you pivot the whole thing from
+[4379.03 --> 4386.27] the temporal domain to the spatial domain, so in development, when we look at these bioelectric
+[4386.27 --> 4391.69] patterns, now these patterns are across space, not across time. So unlike in neuroscience where
+[4391.69 --> 4397.21] everything is kind of in the temporal domain for neurons, these things, these are static voltage
+[4397.21 --> 4403.53] patterns across tissue, right? Across the whole thing. So for the longest time, we asked this question,
+[4403.71 --> 4408.65] how are these read out? How do cells actually read these? Because one possibility,
+[4408.65 --> 4414.77] early, this was a very early hypothesis 20 years ago, was that maybe the local voltage tells every
+[4414.77 --> 4422.69] cell what to be. So it's like a paint by numbers kind of thing. And each voltage value corresponds to
+[4422.69 --> 4427.99] some kind of outcome. That turned out to be false. What we did find is that, and we have computational
+[4427.99 --> 4436.57] models of how this works now, what is read out is the delta, the difference between regions. It doesn't
+[4436.57 --> 4442.01] care, nobody cares about what the absolute voltage is, what is read out in terms of outcomes for
+[4442.01 --> 4447.07] downstream cell behavior, gene expression, all that. What is actually read out is the voltage difference
+[4447.07 --> 4452.13] between two adjacent domains. So that is exactly actually what it's doing just in the spatial domain.
+[4452.13 --> 4460.33] It only keys off of the delta. And what is learned from that is exactly just as you were saying,
+[4460.41 --> 4465.33] it modifies the controller for what's downstream of that. And there may be multiple ones that are
+[4465.33 --> 4470.95] sort of moving around and co-inhabiting. I mean, it's a very compelling picture, actually,
+[4471.03 --> 4477.55] and way to look at some of the simulations that we've been doing about how the bioelectric data are
+[4477.55 --> 4482.57] interpreted by the rest of the cells. You know, it's very interesting. Could we take a couple
+[4482.57 --> 4485.15] of a couple of minute break? Yeah. Sure. Me too. Okay. I'll get a new coffee.
+[4485.53 --> 4492.27] All right. Speaking of coffee, a brief note from our sponsor. Coffee helps me work. It helps me fast
+[4492.27 --> 4496.89] from carbs. It's become one of the best parts of my day consistently. That's why I'm delighted that
+[4496.89 --> 4502.63] we're collaborating with Trade Coffee. They partner with top independent roasters to freshly roast and send
+[4502.63 --> 4508.05] the finest coffee in the country directly to your home on your preferred schedule. This matters to me
+[4508.05 --> 4514.21] as I work from home. Their team of experts do all the work testing hundreds of disparate coffees to
+[4514.21 --> 4521.23] land on a final curated collection of 450 exceptional coffees. I chose these three and the team at Trade
+[4521.23 --> 4526.41] Coffee worked to create a special lineup for theories of everything for the total audience based on
+[4526.41 --> 4531.05] some questions they asked me, such as how much caffeine do I enjoy and what's the bitterness ratio,
+[4531.05 --> 4536.73] etc. You can get that lineup or if that's not let's say your cup of coffee, then you can take your own
+[4536.73 --> 4541.89] quiz on their website to find a set that matches your specific profile. If you'd like to support
+[4541.89 --> 4546.83] small businesses and brew the best cup of coffee you've ever made at home, then it's time to try
+[4546.83 --> 4553.77] Trade Coffee. Right now, Trade is offering our listeners $30 off your first order plus free shipping
+[4553.77 --> 4561.85] at drinktrade.com slash everything. That's drinktrade.com slash everything for $30 off.
+[4562.03 --> 4566.65] So, Professor Levin, you used the word competence earlier, and I'd like you to define that.
+[4567.41 --> 4578.45] Yeah. In order to define it, I want to put out two concepts to this. One idea is that to me, and this
+[4578.45 --> 4585.33] goes back to what we were talking about before as the engineering stance on things, I think that
+[4585.33 --> 4592.19] useful cognitive claims such as something, you know, when you say this system has whatever or it
+[4592.19 --> 4597.05] can whatever, right, as far as various types of cognitive capacities, I think those kind of claims
+[4597.05 --> 4603.57] are really engineering claims. That is, when you tell me that something is competent at a particular level,
+[4603.57 --> 4609.81] maybe, right, so you can think about like Wiener and Rosenblatt's scale of cognition that goes from
+[4609.81 --> 4615.77] simple, you know, simple passive materials and then reflexes and then all the way up to kind of
+[4615.77 --> 4620.87] second order metacognition and all that. When you tell me that something is on that ladder and where it
+[4620.87 --> 4626.83] is, what you're really telling me is, if I want to predict its behavior or I want to use it in an
+[4626.83 --> 4632.31] engineering context or I want to interact with it or relate to it in some way, this is what I can expect.
+[4632.31 --> 4636.83] So, right, so that's what you're really telling me. So all of these terms, what they really are,
+[4636.91 --> 4641.49] are engineering protocols. So if you tell me that something has the capacity to do
+[4643.47 --> 4647.85] associative learning or whatever, what you're telling me is that, hey, you can do something
+[4647.85 --> 4653.91] more with this than you could with a mechanical clock, you can provide certain types of stimuli or
+[4653.91 --> 4658.45] experiences and you can expect it to do this or that afterwards. Or if you tell me that something
+[4658.45 --> 4666.67] is a homeostat, that means that, hey, I can count on it to keep some variable at a particular range
+[4666.67 --> 4671.37] without having to be there myself to control it all the way. It has a certain autonomy. Now,
+[4671.51 --> 4675.49] how much, right? And if you tell me that something is really intelligent and it can do X, Y, Z,
+[4675.63 --> 4679.87] then I know that, okay, you're telling me that it has even more autonomous behavior in certain
+[4679.87 --> 4684.97] contexts. So all of these terms, to me, what they really are, they're not, and that has an important
+[4684.97 --> 4690.87] implication. The implication is that they're observer dependent, that you've picked some kind
+[4690.87 --> 4696.29] of problem space, you've picked some kind of perspective. And from that problem space and
+[4696.29 --> 4702.97] that perspective, you're telling me that given certain goal states, this system has that much
+[4702.97 --> 4707.23] competency to pursue those goal states. And different observers can have different views on
+[4707.23 --> 4711.97] this for any given system. So for example, somebody might look at a brain, like let's say a human brain
+[4711.97 --> 4716.29] and say, well, I'm pretty sure the only thing, this is a paperweight. So it's really pretty much
+[4716.29 --> 4720.61] just competent in going down gravitational gradients. So all it can do is hold down paper,
+[4720.73 --> 4724.25] that's it. And somebody else will look at it and say, you missed the whole point. You missed the
+[4724.25 --> 4727.57] whole point. This thing has competencies in behavioral space and linguistic space, right?
+[4727.75 --> 4734.93] So these are all empirically testable engineering claims about what you can expect the system to do.
+[4735.21 --> 4740.87] So when I say competency, what I mean is we specify a space, a problem space. And at the time
+[4740.87 --> 4746.03] when we were talking about this, the problem space that I was talking about was the anatomical
+[4746.03 --> 4750.57] morphous space. That was the space we were talking about. So the space of possible anatomical
+[4750.57 --> 4756.53] configurations and specifically navigating that morphous space. So you start off as an egg or you
+[4756.53 --> 4762.21] start off as a damaged limb or whatever, and you navigate that morphous space into the correct
+[4762.21 --> 4768.41] structure. So when I say competency, I mean, you have the ability to deploy certain kinds of tricks
+[4768.41 --> 4775.49] to navigate that morphous space with some level of performance that I can count on. And so the
+[4775.49 --> 4779.73] competency might be really low or it might be really high. And I would have to make specific
+[4779.73 --> 4783.81] claims about what I mean. Here's an example of a, of a comment. And there are many, you know, if you
+[4783.81 --> 4787.55] just think about the behavioral science of navigation, there are many competencies you can
+[4787.55 --> 4792.29] think about. Does it, you know, does it, does it know ahead of time where it's going? Does it have a memory of
+[4792.29 --> 4799.51] where it's been, or is it a very simple, you know, sort of reflex arc is all it has? Or here's one,
+[4799.51 --> 4806.31] one example of a pretty cool competency that, that, that a lot of biological systems have. If we take
+[4806.31 --> 4815.03] some cells that are in the tail of a tadpole and we give them a particular, we, we, we modify their ion
+[4815.03 --> 4823.69] channels with such that they now acquire the goal of navigating to an eye fate in more in, in this
+[4823.69 --> 4827.49] morphous space, meaning that they're going to make an eye. These things, in fact, will, will create an
+[4827.49 --> 4831.77] eye and they'll make an eye in the tail on the gut, wherever you want. But one of the cool, and so
+[4831.77 --> 4838.05] that's already pretty, pretty cool. But, but, but one of the amazing aspects is if I only modify a few
+[4838.05 --> 4842.51] cells, not enough to make an actual eye, just, just a handful of cells. And then we've done this and
+[4842.51 --> 4848.41] you can see this work. One of the competencies they have is to recruit local neighbors that were
+[4848.41 --> 4853.53] themselves not in any way manipulated to help them achieve that goal. It's a little bit like in an
+[4853.53 --> 4857.43] ant colony, right? There's a, there's this idea of recruitment and ants and termites is an idea of
+[4857.43 --> 4861.53] recruitment where, where individuals can, can recruit others and, you know, talk about a flexible
+[4861.53 --> 4866.07] collective intelligence. This is it. This is they, they, you, you've, you've re-specified the goal for
+[4866.07 --> 4871.87] that set of cells. But one of the things that they do without us telling them how to do it or having to
+[4871.87 --> 4877.15] micromanage it, they already have the competency to recruit as many cells as they need to get the
+[4877.15 --> 4882.53] job done. So that's a very nice, for an engineer, that's a very nice competency because it means that
+[4882.53 --> 4887.09] I don't need to worry about taking care of getting exactly the right number of cells.
+[4887.69 --> 4892.35] If I'm, if I'm a little bit over, that's fine. If I'm way under, also fine. The system has that
+[4892.35 --> 4897.29] competency of recruiting other cells to get the job done. So, so that's what I, so that's what I meant.
+[4897.29 --> 4901.65] So to me, to make an, um, any kind of a cognitive claim, you have to specify the problem space.
+[4901.81 --> 4907.77] You have to specify the goal towards which it's expressing competencies and that may, right. And,
+[4907.85 --> 4912.23] and, and then, and then you can make a claim about, well, how competent is it to get to that goal?
+[4912.33 --> 4916.25] And somebody, I wish I could remember who it was, but somebody made this really nice analogy about
+[4916.25 --> 4922.33] kind of the ends of that spectrum. They said two magnets try to get together and Romeo and Juliet try to
+[4922.33 --> 4926.65] get together. But the degree of flexible problem solving that you can expect out of those two systems
+[4926.65 --> 4931.97] is incredibly different. And within that range, there are all kinds of in-between systems that
+[4931.97 --> 4936.45] may be better or worse and may deploy different kinds of strategies. You know, can they avoid local
+[4936.45 --> 4940.89] optima? Can they have a memory of where they've been? Can they look further than their local
+[4940.89 --> 4944.57] environment? And the million different things. So that's, that's what I meant by competency. It's,
+[4944.57 --> 4950.69] it's, it's, it's a claim about what an, what an engineer can expect the system to do given a
+[4950.69 --> 4954.91] particular problem space and a particular goal that you think it's, uh, trying to reach.
+[4955.75 --> 4962.71] So the way in which you use the word competency, uh, could be treated as, um, the capacity of a
+[4962.71 --> 4970.79] system for adaptive control. Yeah, yeah, yeah. Right. So one, uh, issue that I have with the
+[4970.79 --> 4975.71] notion of goals and goal directedness is that, uh, sometimes you only have a tendency in a system
+[4975.71 --> 4981.57] to go in a certain direction. And so it's, it's directed, but the goal is something that can
+[4981.57 --> 4986.33] be emergent. Sometimes it's not. Sometimes there is an explicit representation in the system of a
+[4986.33 --> 4991.35] discrete event that is associated or a class of events with fulfilling a certain condition that
+[4991.35 --> 4994.83] the system has committed itself to. And if you don't have that, you don't have a proper goal,
+[4994.93 --> 5001.45] but in real systems, it's difficult to say, I mean, uh, when do we pursue goals, right? Sometimes we just
+[5001.45 --> 5006.15] are vaguely hungry, are moving towards the kitchen because we hope that something will
+[5006.81 --> 5012.37] opportunistically emerge that will deal with this vague tendency in our behavior. We could also say
+[5012.37 --> 5017.59] we have the goal of finding food, but, uh, that is a rationalization that is maybe stretching things
+[5017.59 --> 5024.07] sometimes. Yeah. So, uh, sometimes a better distinction for me is going from a simple controller
+[5024.07 --> 5029.99] to an agent. And I try to, uh, because we are very good at discovering agency in the world. What does
+[5029.99 --> 5035.33] it actually mean when we discover agency and when we discover our own agency and start to amplify it,
+[5035.77 --> 5041.35] um, by making models of who we are and how we deal with the world and with others and so on?
+[5041.55 --> 5045.39] The minimal definition of agent that I found, it's a controller for future states.
+[5046.29 --> 5053.27] The thermostat doesn't have a goal by itself, right? It just has a target value and a sensor that tells
+[5053.27 --> 5058.25] it the deviation from the target value. And when that exceeds a certain threshold, uh, the heating is
+[5058.25 --> 5063.33] turned on. And, uh, if it goes below a certain threshold, the heating is turned off again, and
+[5063.33 --> 5069.45] this is it. So the thermostat is not an agent. It only reacts to the present frame. It's only a
+[5069.45 --> 5076.31] reactive system. Whereas an agent is proactive, which means that it's trying to, um, not just, um,
+[5076.83 --> 5083.29] minimize the current deviation from the target value, but the integral over a time span, the future
+[5083.29 --> 5090.83] deviation. So it's built an expectation about how, uh, an action is going to change this trajectory of
+[5090.83 --> 5097.59] the universe. And over that trajectory, it tries to figure out some measure of how big the compound
+[5097.59 --> 5103.43] target deviation is going to be. And so as a result, you get a branching universe and, uh, the branches
+[5103.43 --> 5108.15] in this universe, some of these branches depend on, uh, actions that are available to you and that
+[5108.15 --> 5114.13] translate into decisions that you can make that, uh, move you, uh, into more or less preferable
+[5114.13 --> 5117.99] world states. And suddenly you have a system with emergent beliefs, desires, and intentions,
+[5117.99 --> 5125.95] but to make that happen, uh, to move from a controller to agency and agent just really being a controller
+[5125.95 --> 5132.37] with an integrated set point generator and, uh, the, um, ability to control future states that requires
+[5132.37 --> 5138.53] that you can make models that are counterfactual. So, because, uh, the future universe doesn't
+[5138.53 --> 5143.65] exist right now that you need to create a counterfactual universe, the future model of the future
+[5143.65 --> 5148.29] universe, maybe even a model of the past universe that allows you to reason about possible future
+[5148.29 --> 5154.39] universes and so on. And to make these counterfactual causal models of the universe, you need to have
+[5154.39 --> 5160.67] a Turing machine. So without a computer, without something that is, uh, Turing complete, that insulates
+[5160.67 --> 5166.49] you from the causal structure of your substrate that allows you to build representations regardless
+[5166.49 --> 5171.25] of what the universe says right now around you, right? You, you need to have that machine. And the
+[5171.25 --> 5178.31] simplest, uh, uh, system in nature that has Turing machine integrated is the cell. So, uh, it's very
+[5178.31 --> 5185.63] difficult to find a system in nature that is an agent that is not made from cells as a result. Maybe
+[5185.63 --> 5191.53] there are systems in nature that are able to, uh, compute things and make models, but, uh, I, I'm not
+[5191.53 --> 5198.11] aware of any. So the simplest one that, uh, I know that can do this reliably is the cells or, uh,
+[5198.27 --> 5205.11] arrangement of cells and that can possess agency, which is an interesting thing that, uh, explains this
+[5205.11 --> 5211.05] coincidence that living things are agents and vice versa, that, uh, the agents that we discover are
+[5211.05 --> 5218.13] mostly living things, or there are robots that have computers built into them or, uh, virtual robots that
+[5218.13 --> 5224.11] have, uh, that rely on computation. So the ability to make models of the future is the prerequisite for
+[5224.11 --> 5231.91] agency and to make arbitrary models, which means, uh, structures that embody, uh, causal, uh, simulations
+[5231.91 --> 5234.83] of some sort that requires computation.
+[5236.53 --> 5241.95] Yeah. Yeah. Um, you know, I'm, I'm on board with that, with that ladder of that, that taxonomy,
+[5241.97 --> 5249.01] uh, of, of, uh, of, of goals and so on. One, one interesting thing about, uh, about goals. And as
+[5249.01 --> 5254.27] you say, some are emergent and some are not, there's a, there's an interesting, uh, planarian, um, uh,
+[5254.59 --> 5261.63] version of this, which is, which is this, we, we made this hypothesis about, so, so within planaria,
+[5261.63 --> 5266.03] you chop it up into pieces and every piece regenerates exactly the right rest of the work,
+[5266.13 --> 5269.97] right? So if it's, if it, if, if you chop it into pieces, each piece will have one head, one tail.
+[5271.05 --> 5275.73] So, and then, and then of course, what happens is it stops when it, when it may, when it reaches a
+[5275.73 --> 5281.69] correct planarian, then, then it stops. And so, so we started to think that there are two, there are a
+[5281.69 --> 5286.65] couple of possibilities. One possibility is that this is a purely emergent process and that the goal of
+[5286.65 --> 5291.03] rebuilding ahead is, is, is an emergent thing that comes about as a consequence of other things.
+[5291.63 --> 5297.15] Or could there be a, an actual explicit representation of what a correct planarian is
+[5297.15 --> 5301.85] that serves as a set point, as an encoded, as an explicitly encoded set point for these cells to
+[5301.85 --> 5307.15] follow. And, and because it's a cellular collective, we had, we were communicating electrically. We
+[5307.15 --> 5313.73] thought, well, maybe, maybe what it's doing is basically storing a memory of what, like you would
+[5313.73 --> 5318.01] in, in a, in a neural circuit, you'd storing a memory of what it should be. So we started looking
+[5318.01 --> 5322.73] for this and this is what we found. And this is, this is kind of, I think one type of one,
+[5322.73 --> 5329.09] one important type of goal in an, in a goal seeking system is, is a, is a goal that you can
+[5329.09 --> 5333.85] rewrite without changing the hardware. And the system will now pursue that goal instead of
+[5333.85 --> 5338.31] something else in a purely emergent system. That doesn't work, right? If you have a cellular
+[5338.31 --> 5342.21] automaton or a fractal or something that, that does some kind of complex thing. If you want to
+[5342.21 --> 5345.85] change what that complex thing is, you have to figure out what the local rule, how to change the
+[5345.85 --> 5350.65] local rules. That's very hard in most cases. But what we found in planaria is that we can literally
+[5351.27 --> 5358.01] using a voltage reporter die, we can look at the worm and we can see now the pattern, the,
+[5358.13 --> 5362.45] and it's a distributed pattern, but we can see the pattern that tells this animal how many heads it's
+[5362.45 --> 5370.53] supposed to have. And what you can do is you can go in and using a brief transient manipulation of
+[5370.53 --> 5375.09] the ion channels with drugs, with ion channel drugs that, and we have a computational model that
+[5375.09 --> 5380.43] tells you what those drugs should be that briefly changes the electrical state of the circuit.
+[5380.63 --> 5385.89] But the circuit is amazing. It's it, it, once you've changed that state, it holds. So, so by default
+[5385.89 --> 5390.71] it in a standard planarian, it always says one head, but, but it's kind of like a flip-flop in that
+[5390.71 --> 5395.75] when you, you temporarily shift it, it holds and you can push it to a, to a state that says two heads.
+[5395.89 --> 5400.69] So now something very interesting happens. Um, two, two interesting things. One is that if you,
+[5400.69 --> 5405.53] if you take those worms and you cut those into pieces, you get two headed worms, even though the
+[5405.53 --> 5409.11] genetics are the, the hardware is all wild type. There's nothing wrong with the hardware. All the
+[5409.11 --> 5413.67] proteins are the same. All the genetics is the same, but the electric circuit now says make two heads
+[5413.67 --> 5419.17] instead of one. And so this is in an, in an, in an interesting way, it is an explicit goal because
+[5419.17 --> 5423.51] you can rewrite it because much like with your thermostat, there's an interface for changing what the
+[5423.51 --> 5426.75] goal state is. And then you don't even need to know how the rest of the thermostat works. As long as you
+[5426.75 --> 5430.51] know how to use your, how to, how to modify that interface, the system takes care of the rest.
+[5430.97 --> 5434.77] The other interesting thing is, and, and, and I love what you said about the counterfactuals.
+[5435.35 --> 5442.91] What you can do is you can change that electrical pattern in an intact worm and not cut it for a long
+[5442.91 --> 5447.73] time. And if you do that, when you look at that pattern, that is a counterfactual pattern because
+[5448.37 --> 5453.81] that two headed pattern is not a readout of the current state. It says two heads, but the animal only
+[5453.81 --> 5459.17] has one head. It's a normal planarian. So the, that, that pattern memory is not a readout of what
+[5459.17 --> 5465.01] the animal is doing right now. It is a representation of what the animal will do in the future. If it
+[5465.01 --> 5469.69] happens to get injured and you may never cut it or you may cut it, but if you do, then the pattern
+[5469.69 --> 5474.61] becomes, uh, then the cells consult the pattern and build a two headed worm. And then it becomes a,
+[5474.77 --> 5480.21] you know, the current state. But until then it's this weird, like primitive, um, uh, it's a
+[5480.21 --> 5485.17] primitive counterfactual system because it's able to, a body of a planarian is able to store
+[5485.17 --> 5491.37] at least two different representations of what a, probably many more, but we found two so far,
+[5491.67 --> 5496.13] what a correct planarian should look like. It can have a memory of a one headed planarian or a memory
+[5496.13 --> 5501.69] of a two headed planarian. And, and, and both of those can live in exactly the same hardware and
+[5501.69 --> 5506.89] exactly the same, the same body. The other kind of cool thing about this, and, um, uh, I'll just
+[5506.89 --> 5511.31] mention this, even though this is, this is, you know, um, disclaimer, this is not published yet.
+[5511.45 --> 5515.21] So this is a, you know, take, take all this with a grain of salt, the, the, but, but the,
+[5515.23 --> 5520.35] the latest thing you can do is you can actually treat it with some of the same compounds that are
+[5520.35 --> 5526.59] used in, uh, neuroscience and in humans and in rats as a memory blockers. So, so things that block
+[5526.59 --> 5531.97] recall or, or, or memory consolidation. And when you do that, you can make the animal forget how many
+[5531.97 --> 5536.21] heads it's supposed to have. And then they basically turn into a featureless circle when, when, uh,
+[5536.21 --> 5539.97] you can just wipe, you can just wipe the, the, the pattern memory completely with it using exactly
+[5539.97 --> 5544.73] the same techniques you would use in a, in a, in a, in a rat or a human. They just forget what to do
+[5544.73 --> 5550.07] when they turn into, they, they fail to break symmetry and they just become a circle. So yeah,
+[5550.27 --> 5554.53] uh, I, I think, I think what you were saying is, is, is right on with, with this, this ability to,
+[5554.67 --> 5560.85] uh, store counterfactual states that are not true now, but may represent the aspects of the,
+[5560.85 --> 5563.11] of the future. I think that's, that's a very important capacity.
+[5563.95 --> 5570.01] Another important notion is a constraint, uh, constraint satisfaction. A constraint is a rule
+[5570.01 --> 5575.01] that tells you, uh, whether two things are compatible or not. And the constraint is satisfied
+[5575.01 --> 5579.23] if they're compatible. So you basically have a number of conditions that you establish by
+[5579.23 --> 5586.01] measuring that somehow, for instance, uh, whether you have a head or multiple heads and, uh, you try
+[5586.01 --> 5591.33] to find a solution where you can end up with exactly one head. And if you end up with exactly one
+[5591.33 --> 5596.51] head based on the starting state, then you have managed to find a way to satisfy your constraints.
+[5596.99 --> 5603.81] And so in, in a sense, uh, what you call a competency is the ability of a system to take
+[5603.81 --> 5610.47] a region of the, uh, states of the, uh, space of the universe, some, basically some local region
+[5610.47 --> 5617.31] of possible state that the universe can be in and, uh, move that region to, uh, a smaller region
+[5617.89 --> 5622.47] that is acceptable. So there is a region on the universe state space where you have only one head
+[5623.03 --> 5627.07] and there's a larger region where you don't have any head at all, but the starting state of your
+[5627.07 --> 5632.85] organism. And then you try to get from A to B. So you get from this larger region to the one in
+[5632.85 --> 5637.59] which you want to be. Of course, if you have one head, you want to stay in the region in which you
+[5637.59 --> 5642.41] have one head, which of course is usually much easier, but the ability basically to condense the
+[5642.41 --> 5649.53] space to get, uh, to bridge over many regions into the target region is what comes down to this.
+[5649.67 --> 5654.07] This is what this competency is. The system basically has an emergent wanting to go in this
+[5654.07 --> 5658.61] region and it's trying to move there. And so there are constraints at the level of the substrate,
+[5658.61 --> 5663.63] uh, that are battling with the functional constraints that the organism wants to realize
+[5663.63 --> 5668.95] to fulfill its function. And sometimes, uh, you cannot satisfy this and you end up with two heads
+[5668.95 --> 5674.05] because you don't know which one you get rid of or how to, uh, digest one of the heads and so on.
+[5674.13 --> 5681.21] And you end up with some Siamese twin. And, uh, so this, this is an interesting constraint that you
+[5681.21 --> 5687.31] have to solve for when you are dealing with reality and how you battle with the substrate until you get
+[5687.31 --> 5693.55] to the functional solution that you evolve for. Yeah, it's, that's, that's interesting. I mean,
+[5693.55 --> 5701.05] we, we, we've also found that there are, so, so we look at exactly this, uh, the, the, the navigation,
+[5701.33 --> 5705.19] this kind of navigation and Morpha space, how you get from here to there and what paths are possible
+[5705.19 --> 5710.71] to get from here to there and so on. One of the things that we found is that there are regions of
+[5710.71 --> 5717.51] that space that belong to other species. And you can, you can push a, a planarian with a standard
+[5717.51 --> 5722.69] wild type genome into, uh, the goal state of a completely different species. So we can get them to grow
+[5722.69 --> 5727.01] a head. So there's a species that normally has a triangular head. You can make it grow a round head,
+[5727.19 --> 5733.05] like a, like a, like a different species or, or a flat head or whatever. Uh, you can, so those are
+[5733.05 --> 5739.39] about a hundred and a hundred to 150 million years of evolutionary distance. And you can do it, you know,
+[5739.55 --> 5744.91] within, within a few days, just by, um, by, by, by perturbing that electrical circuit so that it lands
+[5744.91 --> 5751.27] in the wrong space. And then outside of that, there are regions that don't belong to planaria at all.
+[5751.27 --> 5755.13] So planaria are normally nice and flat. We can make, we've made planarians that are,
+[5755.63 --> 5758.79] they look like a, they are cylinder, like a, like a ski cap, you know, they become like a,
+[5758.79 --> 5764.21] like a, like a hemisphere or a really weird ones that are spiky. They're, they're like a ball with
+[5764.21 --> 5768.53] spikes on it. There are all kinds of other, uh, regions in that space that you can, that you can
+[5768.53 --> 5774.25] push them to. Uh, and so. And those are new, those are not species that they diverge from. Those are
+[5774.25 --> 5779.01] new species. No one's ever, to my knowledge, that's yes, there's no such, there are no such species.
+[5779.01 --> 5783.43] Um, it's easier to, you know, and we've done this in frog too. You can, you can push tadpoles
+[5784.05 --> 5789.31] to may, to look like those of other species. Um, or you can make, you know, I mean, that,
+[5789.31 --> 5793.45] that's a whole interesting thing for evolution anyway, right? What, what one species birth defect
+[5793.45 --> 5798.43] is a pretty, is a perfectly reasonable different species. So we can make Z we can make tadpoles with
+[5798.43 --> 5803.67] a rounded tail, which for a Xenopus tadpole is a, is a terrible tail, but for a zebrafish,
+[5803.67 --> 5808.91] that's exactly the right tail. So you can sort of imagine, imagine, right? Evolution, uh,
+[5809.27 --> 5814.61] manipulating the different information processing, whether, whether by the bioelectrical circuits or
+[5814.61 --> 5820.63] other, other machinery, uh, that helped the system explore that more of a space and, you know, start
+[5820.63 --> 5826.71] to, uh, start to, start to move away from, from whatever the, you know, that speciation is moving
+[5826.71 --> 5829.87] away from your standard attractor that you're usually land on.
+[5829.87 --> 5831.53] How does this relate to intelligence?
+[5832.45 --> 5837.65] Well, intelligence is the ability to make models and, and usually in the service of control,
+[5837.79 --> 5843.47] at least that's the way I would, uh, explain intelligence. There are other definitions,
+[5843.71 --> 5847.77] but it's the simplest one that I found. It also accounts for the fact that many intelligent
+[5847.77 --> 5853.13] people are not very good at getting things done. Uh, it's basically intelligence and goal
+[5853.13 --> 5859.41] rationality are somewhat orthogonal. Uh, excessive intelligence is often a prosthesis for,
+[5859.41 --> 5860.83] uh, uh, bad regulation.
+[5861.13 --> 5862.79] Have you read the intelligence trap?
+[5864.03 --> 5864.51] No.
+[5865.19 --> 5869.99] Okay. The author makes a similar case and he's coming on shortly, essentially saying that there
+[5869.99 --> 5875.09] are certain traps that people with high IQs have that are not beneficial for them as biological
+[5875.09 --> 5880.03] beings. They're mainly cognitive biases. So for instance, it's extremely interesting. So let's just
+[5880.03 --> 5885.19] give one of the biases to say you're either liberal biased or you're conservative biased. And then you
+[5885.19 --> 5889.29] were to give a test where there's some data that says that on the surface, it shows that the data
+[5889.29 --> 5894.57] shows that gun control prevents gun violence. Well, the liberals are more likely to say, yes,
+[5894.73 --> 5898.27] this data does show that. But if you're conservative, you're more likely to find,
+[5898.43 --> 5903.89] oh, actually the subtleties in the data show that gun control increases gun violence. And then they
+[5903.89 --> 5908.29] thought, okay, well, let's just switch this to make it such that the superficial data suggests that gun
+[5908.29 --> 5912.89] control increases violence. You need to look at the data carefully to show that it actually prevents
+[5912.89 --> 5916.27] violence. Well, the conservatives in that case would be more quickly to say, oh, look,
+[5916.27 --> 5921.97] the gun control increases violence, and the liberals would find the loophole. Well, that's one of the
+[5921.97 --> 5927.55] reasons why I don't mind interviewing people who are biased. Because to me, they're more able to find
+[5927.55 --> 5934.45] a justification for something that may be true. But I and others are so well, we all have our own biases,
+[5934.47 --> 5939.83] we're so inclined in some other direction that we just were blind to it. But anyway, the point is to affirm
+[5939.83 --> 5944.31] what you're saying, Yosha. Okay, so I know Michael has a hard cutoff at 2pm. So I want to ask the
+[5944.31 --> 5950.09] question for AGI that is artificial general intelligence. It seems as though we're far away
+[5950.09 --> 5956.59] or that our current methods of machine learning and what we learn in neuroscience or or what we
+[5956.59 --> 5961.05] learn in computer science is something that we're missing some paradigm shift or missing some new
+[5961.05 --> 5965.49] techniques. Is there something from Michael's work? Yosha, I'm asking you this and then Michael,
+[5965.63 --> 5969.03] please respond. Is there something from Michael's work that you think can be applied
+[5969.03 --> 5975.15] to the development of AGI if such a creature mind can exist? Because there are some arguments
+[5975.15 --> 5979.13] against it. First of all, I don't know how far we are from AGI. It could be that the existing
+[5979.13 --> 5984.79] paradigms are sufficient to bootforce it. But we don't know that yet. So we are going to find out
+[5984.79 --> 5990.23] in the next few months. But it could also be that we need to rewrite the stack to build systems that
+[5990.23 --> 5995.87] work in real time that are entangled with the environment that can build shared representations with
+[5995.87 --> 6001.63] the environment and that we need to rewrite the stack. And there are actually a number of questions
+[6001.63 --> 6009.69] that I'd like to ask Michael. I noticed that Michael is wisely reluctant to use certain words
+[6009.69 --> 6014.15] like consciousness a lot. And it's because a lot of people are very opinionated about what these
+[6014.15 --> 6018.63] concepts mean. And you first have to deal with these opinions before you come down to saying,
+[6018.79 --> 6024.25] oh, I have the following proposal for implementing reflexive attention as a tool to form coherence and
+[6024.25 --> 6029.73] a representation. And this leads to the same phenomena as what you call consciousness.
+[6030.77 --> 6036.03] So that is a detailed discussion. Maybe you don't want to have that discussion in every forum. And
+[6036.03 --> 6042.37] rather than having this discussion, you may be looking at how to create coherence using a reflexive
+[6042.37 --> 6047.69] attention process that makes a real-time model of what it's attending to and the fact that it's
+[6047.69 --> 6054.21] attending to it so it remains coherent but for itself. So this is a concrete thing. But I'm
+[6054.21 --> 6058.61] wondering how to implement this in a self-organized fashion if the substrate that you have are
+[6058.61 --> 6066.37] individual agents. And there is a similarity here between societies and brains and social networks.
+[6067.23 --> 6074.65] That is, if you have self-interested agents in a way that try to survive and that get their rewards
+[6074.65 --> 6082.91] from other agents that are similar to them structurally. And they have the capacity to learn to some degree.
+[6083.57 --> 6092.53] And that capacity is sufficient so they can, in the aggregate, learn arbitrary programs, arbitrary computable functions.
+[6094.73 --> 6101.65] And it's sufficient enough so they can converge on the functions that they need to, to, as a group, reap rewards
+[6101.65 --> 6106.95] that apply to the whole group because they have a shared destiny, like the poor little cells that are locked
+[6106.95 --> 6112.61] in the same skull and they're all going to die together if they fuck up. So they have to get along.
+[6112.77 --> 6116.71] They have to form an organization that is distributing rewards among each other.
+[6116.71 --> 6122.61] And this gives us a search space for possible systems that can exist. And the search space is
+[6122.61 --> 6130.23] mostly given, I think, by the minimal agent that is able to learn how to distribute rewards efficiently
+[6130.93 --> 6136.45] while doing something useful, using these rewards to change how you do something useful. So you have
+[6136.45 --> 6141.95] an emergent form of governance in these systems. There's not some centralized control that is imposed
+[6141.95 --> 6146.15] on the system from the outside as an existing machine learning approaches and AI approaches.
+[6146.15 --> 6151.87] But this only is an emergent pattern in the interactions between the individual small
+[6151.87 --> 6157.43] units, small reinforcement learning agents. And this control architecture leads to hierarchical
+[6157.43 --> 6162.55] government. It's not fully decentralized in any way. There are centralized structures that distribute
+[6162.55 --> 6167.37] rewards, for instance, via the dopaminergic system in a very centralized, top-down manner.
+[6167.59 --> 6172.53] And that's because every regulation has an optimal layer where it needs to take place. Some stuff needs to be
+[6172.53 --> 6177.07] decided very high up. Some stuff needs to be optimally regulated very low down, depending on the
+[6177.07 --> 6183.07] incentives. Game theoretically, a government is an agent that imposes an offset on your payoff metrics
+[6183.07 --> 6188.65] to make your Nash equilibrium compatible with the globally best outcome.
+[6190.15 --> 6196.03] So to do this, you need to have agents that are sensitive to rewards. It's super interesting to think about
+[6196.03 --> 6202.89] these reward infrastructures. Elon Musk has bought Twitter, I think, because he has realized that Twitter is the network
+[6202.89 --> 6209.69] among all the social networks that is closest to a global brain. It's totally mind-blowing to realize that he basically
+[6209.69 --> 6217.31] trades a bunch of frothy stock for the opportunity to become Pope. Pope of a religion that has more active
+[6217.31 --> 6223.65] participants than Catholicism, even, right? Daily-practitioning people who enter this church and think together.
+[6223.65 --> 6227.23] And it's a thing that is completely incoherent at this point, almost completely incoherent.
+[6227.39 --> 6231.31] There are bubbles of sentience, but for the most part, this thing is just screeching at itself.
+[6231.97 --> 6236.43] And now there is the question, can we fix the incentives of Twitter to turn it into a global brain?
+[6237.45 --> 6243.25] And Elon Musk is global brain-pulled. He believes that this is the case. And that's the experiment that
+[6243.25 --> 6247.65] he's trying to do, which makes me super excited, right? This might fail. There's a very big chance that it
+[6247.65 --> 6252.53] fails. But there is also the chance that we get a global brain, that we get an emergent collective
+[6252.53 --> 6257.55] intelligence that is working in real time using the internet in a way that didn't exist before.
+[6258.01 --> 6263.15] So super fascinating thing that might happen here. And it's fascinating that very few people are
+[6263.15 --> 6270.99] seeing that Elon Musk is crazy enough to spend $44 billion on that experiment, just because he can
+[6270.99 --> 6275.27] and has nothing else to do and thinks it's meaningful to do it, more meaningful than having so much money
+[6275.27 --> 6283.29] in the bank. So this makes me interested in this testbed for rules. And this is something that
+[6283.29 --> 6287.47] translates into the way in which society is organized, because social media is not different
+[6287.47 --> 6292.25] from society, not separate from it. The problem of governing social media is exactly the same thing
+[6292.25 --> 6297.67] as governing a society. You need a right form of government, you need a legal system, ultimately you
+[6297.67 --> 6301.55] need representation and all these issues, right? It's not just the moderation team.
+[6301.55 --> 6306.85] And the same thing is also true for the brain. What is the government of the brain that emerges
+[6307.31 --> 6312.87] in what Gary Edelman calls neurodarwinism, among different forms of organization in the mind,
+[6313.07 --> 6318.47] until you have a model of a self-organizing agent that discovers that what it's computing is driving
+[6318.47 --> 6322.25] the behavior of an agent in the real world and it discovers a first-person perspective and so on.
+[6322.45 --> 6327.39] How does that work? How can we get a system that is looking for the right incentive architecture?
+[6327.39 --> 6335.41] And that is basically the main topic where I think that where Michael's research is pointing from my
+[6335.41 --> 6341.87] perspective, that is super interesting. We have this overlap between looking at cells and looking at
+[6341.87 --> 6345.93] the world of humans and animals and stuff in general.
+[6347.27 --> 6357.03] Yeah. Yeah. Super interesting. So Chris Fields and I are working on a model of, on a framework to
+[6357.03 --> 6366.03] understand where collective agents first come from, right? Autopoiesis, how do they organize
+[6366.03 --> 6375.47] themselves? And we've got a model already about this idea of rewards and cells rewarding other cells with
+[6376.25 --> 6380.37] neurotransmitters and things like this to keep copies of themselves nearby because they're the
+[6380.37 --> 6384.89] most predictable. So, so this idea of reducing surprise, well, what's the least surprising thing?
+[6384.91 --> 6390.19] It's a copy of yourself. And so you can sort of, Chris calls it the imperial model of multicellularity.
+[6390.29 --> 6397.55] But one thing to really think about here is imagine an embryo. This is a, an amniote embryo,
+[6397.67 --> 6402.87] let's say a human or a bird or something like that. And what you have there is you have a flat disc of
+[6402.87 --> 6409.39] 50, 10,000, 50,000 cells. And when people look at it, you say, what is that? They say it's an
+[6409.39 --> 6415.01] embryo, one, one embryo. Well, the reason it's one embryo is that under normal conditions, what's going
+[6415.01 --> 6421.23] to happen is that in this, in this disc, one cell is, the symmetry breaking, one cell is going to
+[6421.23 --> 6425.81] decide that it's the organizer. It's going to do local activation, long range inhibition. It's going
+[6425.81 --> 6429.57] to tell all the other cells, you're not the organizer. I'm the organizer. And as a result,
+[6429.57 --> 6437.05] you get one special point that, uh, begins, uh, the process that's going to walk through this,
+[6437.05 --> 6441.59] um, amorphous space and create a particular large scale structure with two eyes and four legs and
+[6441.59 --> 6446.83] whatever else it's going to have. But here's the interesting thing. Those cells, that's not really
+[6446.83 --> 6452.17] one embryo. That's, that's, um, uh, a weird kind of Freudian ocean of potentiality. What I mean by
+[6452.17 --> 6456.73] that is if you take, and I did this as a grad student, you can take a needle and you can put a
+[6456.73 --> 6461.51] little scratch through that blastoderm, put a little scratch through it. What will happen is
+[6461.51 --> 6465.89] the cells on either side of that scratch don't feel each other. They don't hear each other's
+[6465.89 --> 6471.11] signals. So that symmetry breaking process will happen twice, once on each end. And then when
+[6471.11 --> 6475.87] they keels together, what you end up with is two conjoined twins, because, because each side
+[6475.87 --> 6481.17] organized an embryo, and now you've got two conjoined twins. Now, many interesting things happen
+[6481.17 --> 6488.39] there. Uh, one is that every cell is some other cells and external environment. So in order to
+[6488.39 --> 6494.39] make an embryo, you have to self-organize a system that, uh, puts an arbitrary boundary between itself
+[6494.39 --> 6499.07] and the outside world. You have to decide where do I end and the world begins. And it's not given to
+[6499.07 --> 6504.43] you, uh, uh, you know, somehow, um, from outside for a biological system, every biological system has
+[6504.43 --> 6508.95] to figure this out for itself. Unlike modern robotics or whatever, where it's very clear, here's where you
+[6508.95 --> 6512.15] are, here's where the world is. These are your effectors. These are your sensors. Here's the
+[6512.15 --> 6516.11] boundary of the outside world. Living things don't have any of that. They have to figure out all of
+[6516.11 --> 6521.59] this out from scratch. The benefit to, uh, being able to figure it out from scratch, having to figure
+[6521.59 --> 6526.99] it out from scratch is that you are then compatible with all kinds of weird initial conditions. For
+[6526.99 --> 6531.13] example, if I separate you in half, you can make two, you can make twins. You don't, you don't have
+[6531.13 --> 6534.97] a failure, you know, a total failure because now you have half the number of cells. You can make
+[6534.97 --> 6540.07] twins. You can make triplets, uh, probably, uh, you know, many more than that. So if you ask the
+[6540.07 --> 6544.97] question, you look at that, um, blasted room and you ask how many individuals are there, you actually
+[6544.97 --> 6549.13] don't know. It could be zero. It could be one. It could be some small number of, of individuals.
+[6549.83 --> 6555.49] That process of autopolisis has to happen. And, and, and here are all the, here are a number of things
+[6555.49 --> 6561.81] that, that are uniquely biological that, that I think relate to the kind of flexibility plasticity,
+[6561.81 --> 6566.69] uh, that you need for, for, for, for AGI in whatever space, it doesn't have to be the same
+[6566.69 --> 6572.31] space that we work in, but your, your boundaries are not set for you by an outside creator. You
+[6572.31 --> 6576.33] have to figure out where your boundaries are, where is the outside world. So you make hypotheses
+[6576.33 --> 6581.09] about where you end and where the world begins. You don't actually know what your structure is
+[6581.09 --> 6585.31] kind of like Bongard's robots from 2006, where they didn't know their structure and they had to
+[6585.31 --> 6589.07] make hypotheses about, well, do I have wheels? Do I have legs? What do I have? And then
+[6589.57 --> 6595.63] make a model based on basically babbling, right? Like the way that babies babble. So, so you have
+[6595.63 --> 6599.49] to figure out, you have to make a model of, of where the boundary is. You have to make a model
+[6599.49 --> 6605.43] of what your structure is. You are energy limited, which most, the most AI and robotics nowadays are
+[6605.43 --> 6611.41] not when you're energy and time limited. It means that you cannot pay attention to everything. You are
+[6611.41 --> 6616.03] forced to coarse grain in some way and lose a lot of information and compress it down. So you have to,
+[6616.03 --> 6621.03] you have to choose a lens, a coarse graining lens on the world and figure out how you're going to
+[6621.03 --> 6627.33] represent things. And, and all of this has to, and, and there are many more things that we could
+[6627.33 --> 6631.99] talk about, but all of these things are self-constructions from the, from the very
+[6631.99 --> 6636.13] beginning. And, and then, and then you have to, you have to, you have to, you, you start to act in
+[6636.13 --> 6640.61] various, in various spaces, which again, are not predefined for you. You have to solve problems that
+[6640.61 --> 6647.57] are metabolic, physiological, anatomical, maybe behavioral, if you have muscles. But, but nobody's
+[6647.57 --> 6652.19] telling, nobody's defining the space for you. For example, if you're a bacterium, Chris Fields
+[6652.19 --> 6657.57] points this out, if you're a bacterium and you're in some sort of chemical gradient, you want to
+[6657.57 --> 6662.65] increase the amount of sugar in your environment. You could act in three-dimensional space by physically
+[6662.65 --> 6667.69] swimming up the gradient, or you can act in transcriptional space by turning on other genes
+[6667.69 --> 6671.73] that are better at converting whatever sugar happens to be around. And that solves your,
+[6671.73 --> 6677.07] your metabolic problem instead of, right. So you have these hybrid problem spaces. So all of this,
+[6677.15 --> 6681.69] I think what, what contributes in a strong sense to all the things that, that we were just talking
+[6681.69 --> 6686.09] about is the fact that everything is in, in biology is self-constructed from the beginning.
+[6686.23 --> 6689.69] You can't rely on, you don't know ahead of time when you're a new creature born into the world.
+[6689.83 --> 6694.15] And we have many, I have many examples of, of, of this kind of stuff. You don't know how many
+[6694.15 --> 6697.57] cells you have, how big your cells are. You can't count on any of the priors.
+[6697.69 --> 6703.89] So you have this like weird thing that evolution makes these, these machines that don't take the
+[6703.89 --> 6708.79] past history too seriously. It doesn't overtrain on them. It makes problem solving machines that
+[6708.79 --> 6714.13] use whatever hardware you have. This is why we can make weird chimeras and, and, and cyborgs,
+[6714.19 --> 6720.75] and you can mix things and mix and match biology in every, in every way with other living things or
+[6720.75 --> 6725.05] with, with non-living things, because all of this is interoperable because it does not make
+[6725.05 --> 6729.03] assumptions about what you have to have. It tries to solve whatever problem it's given.
+[6729.17 --> 6735.47] It plays the hands that it's dealt. And, um, that, that, that results in, uh, that, that assumption
+[6735.47 --> 6740.75] that you cannot, uh, you cannot trust what you come into the world with. You cannot assume that the
+[6740.75 --> 6745.35] hardware is what it is. It gives rise to a lot of that intelligence, I think, and a lot of that
+[6745.35 --> 6746.03] plasticity.
+[6746.03 --> 6751.93] So if you translate this into necessary and sufficient conditions, what seems to be necessary
+[6751.93 --> 6760.09] for the emergence of a general intelligence in a bunch of cells or units is, uh, that basically
+[6760.09 --> 6766.37] each of them is a small agent, which means it's able to behave with an expectation of minimizing
+[6766.37 --> 6771.79] future target value deviations. So it learns that the configurations environment that signal
+[6771.79 --> 6776.87] the anticipated reward. Next thing, these units need to be, uh, not just agents, they need
+[6776.87 --> 6782.51] to be connected to each other and they need to get the rewards or proxy rewards, something
+[6782.51 --> 6785.77] that allows them to anticipate whether the organism is going to feed them in the future
+[6786.27 --> 6792.77] from other units that also adaptive. So you need multiple message types and the ability to
+[6792.77 --> 6798.88] recognize and send them with a certain degree of reliability. Uh, what else do you need?
+[6798.88 --> 6804.38] You need, you need enough of them, of course. Uh, what, what's not clear to me is how deterministic
+[6804.38 --> 6809.02] do the units need to be? How much memory do they need to be? How much state can they store?
+[6809.30 --> 6815.90] How much, uh, uh, how deep in time does their need recollection need to go and how much forward
+[6815.90 --> 6822.52] in time do they need to be able to form expectations? So we see how large is this, um, activation
+[6822.52 --> 6828.34] front that they can, or this, uh, shape of the distribution that they can learn and, uh, have
+[6828.34 --> 6833.80] to learn to make this whole thing happen. And so basically the conditions that are necessary
+[6833.80 --> 6839.68] are relatively simple. If you just wait for long enough and get such a system to percolate,
+[6839.86 --> 6845.48] I imagine that their compound agency will at some level emerge on the system just in a
+[6845.48 --> 6851.88] competition of, um, possibilities in the same way as emerging agency has emerged on Twitter
+[6851.88 --> 6857.62] in a way with, um, uh, the woke religion in a way that people were starting to shift around
+[6857.62 --> 6862.54] their behavior to maximize likes and retreats. And there was no external reward that was given
+[6862.54 --> 6867.80] on Twitter. So as a result, a local structure emerged, a local agency that was shifting the
+[6867.80 --> 6872.68] rewards by itself and emerging causal structure that was in some sense in downward causation
+[6872.68 --> 6880.28] going to organize groups of people into, uh, behavioral things. It's really interesting to
+[6880.28 --> 6886.52] look at Twitter as something like a mind at some level, right? It's working slower, but it would
+[6886.52 --> 6891.66] probably be possible to make a simulation of these dynamics in a more abstract way and to use this
+[6891.66 --> 6898.22] for arbitrary problem solving. And so what would an experiment look like in which we, uh, start with
+[6898.22 --> 6904.26] these necessary conditions and narrow down the sufficient conditions? Yeah. Yeah. Yeah. Yeah.
+[6904.40 --> 6908.46] Very, very right on. And that's, I mean, yeah, we're, we're doing some of that stuff, uh, some of
+[6908.46 --> 6912.42] that kind of modeling. Um, I apologize. I've got to, I've got to, um, I've got to run here.
+[6912.90 --> 6916.34] Thank you both for coming out for this. I appreciate it. Thank you so much. And thank
+[6916.34 --> 6919.64] you for bringing us together. So a great, great conversation. I really enjoyed it. So yeah,
+[6919.78 --> 6924.36] thank you. Likewise. Enjoyed it very much. Thank you, Kurt. Thank you so much, Kurt. Thanks,
+[6924.44 --> 6929.38] Joshua. The podcast is now concluded. Thank you for watching. If you haven't subscribed or clicked
+[6929.38 --> 6935.10] on that like button, now would be a great time to do so as each subscribe and like helps YouTube
+[6935.10 --> 6940.82] push this content to more people. Also, I recently found out that external links count plenty toward the
+[6940.82 --> 6945.84] algorithm, which means that when you share on Twitter, on Facebook, on Reddit, et cetera,
+[6946.18 --> 6951.20] it shows YouTube that people are talking about this outside of YouTube, which in turn greatly
+[6951.20 --> 6955.48] aids the distribution on YouTube as well. If you'd like to support more conversations like this,
+[6955.74 --> 6961.44] then do consider visiting theories of everything.org. Again, it's support from the sponsors and you
+[6961.44 --> 6967.18] that allow me to work on tow full time. You get early access to ad free audio episodes there as well.
+[6967.18 --> 6972.26] Every dollar helps far more than you may think. Either way, your viewership is generosity enough.
+[6972.44 --> 6973.00] Thank you.

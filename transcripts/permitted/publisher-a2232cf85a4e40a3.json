@@ -1,0 +1,561 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-between-joscha-bach-chris-fields-and-michael-levin/",
+  "title": "Conversation between Joscha Bach, Chris Fields, and Michael Levin",
+  "publication_date": "2024-06-06",
+  "video_ids": [
+    "knADtWMGxmw"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-a2232cf85a4e40a3",
+  "retrieved_at": "2026-10-29T09:14:31.378737+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:00] Michael Levin: When Joscha was visiting our lab, we had two interesting points that we talked about that Chris could talk about as well, which one was about error correcting codes. And then the other one had to do with proto-cognitive capacities at the bottom of the scale, particles. So we start with the error correcting codes. You guys want to talk about error correction and how you see it. Joscha, do you want to go first and summarize what you were saying?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[00:34] Joscha Bach: Very briefly put, the reason why there is something rather than nothing is probably because the universe is not impossible. If you have base reality, nothing precedes the universe to make it not happen. It's going to have an existing and a non-existing branch. In the non-existing branch, you don't get observers that complain. You basically have existence for free. Now we need to figure out why some things are happening in the existing branch and others are not happening. The easiest answer to that is that simply everything is happening because there's nothing preceding the universe to select operators. The universe is the superposition of all operators, which means it's a multi-way system. You yourself, being computed by it, don't know which path you are. The universe for you is going to have the appearance of being indeterministic, which means that if you zoom in at the lowest level near the vacuum, you'll see lots of random fluctuations that usually don't amount to anything. In order to build structure, one part of the universe needs to do what another part is doing. Sometimes you get circumstances where you have a pattern that remains statistically stable. You will not be able to figure out whether you are in the path where the proton is going to the right or left slot, but you know what a million photons are going to look like. In the same way, you don't know which operator is going to happen next, but you know what the superposition of operators is going to look like when you have enough of them in a certain starting state. Sometimes you get a situation where the universe is going to perform error correction. A good metaphor is you sit in a bathtub, you move your hand, you see on the surface lots of patterns emerging, lots of waves, most of which are just dissipating, not amounting to anything. But sometimes you get a particle, which means a vortex. The vortex has this property that it's basically circular, so it's shoving the information around in the same volume of space and doesn't dissipate until friction makes it disappear or until it bumps into something. It's not that the water in the bathtub wants to produce those vortices more than other things, it's just what's left over. I suspect the same thing is true for all the particles: they are error-correcting codes. The simplest ones are control systems that act in the present, on the immediate state. Slightly more complex control systems have a certain degree of elasticity, like molecules. You can squish them and they bounce back into shape. Cells are controllers for future states. They're agents. They basically make models of future paths so you can remain stable over much more complicated circumstances. In this way, you could say that life itself is an error-correcting code that allows keeping particle configurations stable. It doesn't stop at the level of cells, but also the systems above the level of cells, like organisms, societies, and so on, where you find the replication of those control principles."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[03:36] Chris Fields: But that all sounds good to me."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[03:39] Joscha Bach: The conclusion from that train of thought is that one way of thinking about mental representations is to look at them from the perspective of error correction, to look at them as quasi-particles. The difference between heat and sound is not that one is bouncing molecules and the other is not. They both are, but sound is information-preserving. It's even quantized. Phonons are quasi-particles that emerge from the activity of the molecules. It's what's left over after you dissipate the heat. In the same way, our brain can be seen as an ether, where individual neurons are nodes that pass signals to neighboring nodes in its topology. If that thing is stable and information-preserving so you can compute with it, it's basically representations—activation waves—as quasi-particles moving through it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[04:40] Chris Fields: Are you familiar with Friston's work on free energy? I see the free energy principle in its simplest form as saying something much along these lines, that any system that persists, that remains stable, has to do something or other to keep its boundary intact. It has to effectively be autopoietic. It has to maintain some level of structure. Whatever the system looks like."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[05:37] Joscha Bach: It needs to keep its boundary in time intact, not in space. It needs to write itself into the future, but it can be something that is actively colonizing as long as nothing invades it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[05:53] Chris Fields: It has to write some bounded set of values of some bounded set of degrees of freedom into the future."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[06:04] Joscha Bach: But for instance, life doesn't need to keep its boundary intact in the sense that it needs to be worried about being invaded by nothingness. It's because it can just invade chaos itself. But it needs to keep its boundary and time intact. Its frontier by which it writes itself into the future needs to preserve it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[06:25] Chris Fields: Okay, yeah, by boundary, I mean state space boundary."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[06:29] Joscha Bach: Yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "Chris Fields: Put everything in a Hilbert space. That's the boundary that's of interest in the free energy principle. One can translate what you just said into free energy principle terms without too much trouble. It's certainly consistent with what the free energy principle says, although the FEP community doesn't seem to talk about error correcting codes very much. They talk about persistent structure instead. But since they fundamentally think of systems as informational structures, maintaining a consistent structure, if you're an informational structure, just is being an error correcting code. That hangs together quite nicely. Another reflection off of what you just said is Zurek's quantum Darwinist picture, which you probably are familiar with also, in which state components of some system are being selected by its environment for stability. Again, it's a very boundary preservation idea. If you fix the boundary between the system and its environment, then you fix the interaction at that boundary. The stability of that interaction has to be preserved by the system and its environment working together. In that case, the eigenvalues of the interaction are essentially being preserved by an error correcting code, the code space being the internal dynamics of both the system and its environment. The third kind of perspective on that is the more general perspective of error-correcting codes that's operable in things like AdS/CFT, where the state of some volume is coupled to the state of its surface. Although there, in that community, they don't talk explicitly about observation, they take that for granted. There is something going on in the surface that's describable by some theory."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[09:32] Joscha Bach: I suspect that the AdS/CFT correspondence is a bit of a red herring. I think that the universe fundamentally is automata. So it is not a volume or a surface because it's not geometry. Geometry is only what happens when you squint at automata at scale."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[09:54] Chris Fields: Yeah, no."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[09:55] Joscha Bach: You need to have some kind of conformance like this if you have a field description of the universe and the graph description and you need to map between them. Space-time is basically a set of locations that we can make out and the trajectories that information can take between them. That puts some constraints on what spaces you can observe if they give rise to systems like you within them."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[10:23] Chris Fields: I completely agree about Spacetime being emergent."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[10:32] Joscha Bach: I don't know what it exactly describes. If you look at the LLM, that seems to be a radically Fristonian machine in that it's trying to minimize the prediction error. There is free energy minimization going on at some level. I suspect that for organisms, it's happening in the limit, for all life on Earth. But individual organisms look for more concrete things because they are occupying only a small region in the space of behaviors. In some sense, humanity is not an independent species. It's more an organ in the entire dance of the cell on Earth. Our particular role in this organ is just to burn the oil, apparently."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[11:20] Chris Fields: No, our role is to really provide walking apartment houses for bacteria."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[11:27] Joscha Bach: That's true for all large organisms. I think we are the only organism that is able to collect this particular entropy, the accidentally fossilized biocarbon that was turned into trees before there were enough insects to take the trees apart. And so our role is to put it back into circulation so Gaia can make new organisms. They don't know whether Gaia already planned for us to wake up the rocks. I think if that happens, it's the next stage of evolution. It's going to be awesome because we are going to have substrates to run consciousness on that are magnitudes faster. Which leads me to the question of what consciousness is. I suspect that it's not a prediction error minimizer, but a coherence maximizer. It's an operator that is not working like the transformer does in LLMs, minimizing some prediction error, but it's a colonizing operator that takes suitable, trainable, but somewhat chaotic substrate and then imposes an administration on it that is locally coherent. So it acts as if it was a single agent."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[12:49] Chris Fields: Is there any operational difference between those two?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[12:53] Joscha Bach: I suspect it is, because we see that the LLM is becoming coherent in the limit. After you train the entire internet into it and use almost all of the computers on the planet, it's almost coherent."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[13:09] Chris Fields: You can say the same thing about people. Most of us are not coherent all the time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[13:15] Joscha Bach: Humans have evolved to be domesticated. We are not the smart hominid. We are the programmable hominid. We can walk on lockstep. A lot of humans, when they are confronted with the opportunity to be truthful or to be in synchronization with the environment, pick the latter. You can see why that is evolutionarily beneficial under the conditions where their ancestors grew up. But there are a lot of humans who lack that limitation and they are generally intelligent within the limitations of the substrate, which are severe. But if you put them onto a different substrate, there's nothing that they cannot do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[14:03] Chris Fields: It would be interesting to test. We'd never get it past the IRB. Historically, people tried to test it, but we can't replicate those experiments."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[14:18] Michael Levin: I like that. I'm not sure how similar it is to surprise minimization, but I really like this notion of Sense making as the primary goal of it, and I've been thinking about this recently in the context of memory and the idea that what you get in these engrams is an incredibly compressed, very sparse representation of things that happened before. At any given time, you don't have access to all of that; what you have access to is just the n-gram. The process of re-expanding it back out is very creative. It isn't that you have a real allegiance to what this meant before. All you have is what do I do with this now? What sense can I make of this now? This ongoing dynamic property of a process of trying to understand what your own memories mean. Mark Holmes has this phrase about consciousness being palpated uncertainty about the environment. Maybe it's more palpated uncertainty about your own memories. It's this constant process of here you are now with whatever traces the past has left in your brain and body, and you're constantly trying to make a coherent story out of this. A lot of it, I think, has to be creative. You have to bring stuff to it that is not in the engram itself, because you've, of course, compressed it. You've thrown away all the correlations and everything else. A lot of it, I think, is that confabulatory process where it doesn't matter what it used to mean; what matters is what can I do with it now? We have in biology examples of this: the fact that the butterfly retains memories of the caterpillar, even though the brain is refactored during metamorphosis. To me, the most interesting part of that is that the actual memories of the caterpillar are of no use to the butterfly whatsoever. You can't use the exact memories, but what you can do is remap some of that information onto a completely new body, new preferences, food preferences, new motion control. Now you live in a 3D world. You're a hard-bodied creature. Now, instead of a crawler in 2D, you can't use the memories directly, but you can reinterpret them in ways that make sense to you now and do things with them. So I like that emphasis on this, the act of construction aspect of it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[16:56] Chris Fields: Mike, I think we could tell exactly the same story you've told here about percepts from the external world as opposed to memories, which we tend to think of as percepts from the internal world. Although lots of them are actually written on the external world as some stigmergic record, as we've discussed a lot. Take it down to the cellular level, some receptor becomes activated and kicks off some pathway. It doesn't actually matter to the cell what the previous event that kicked off that receptor was. What matters to the cell is, what do I have to do now, given what I just sensed? And that sensation or percept can be external or internal, it doesn't really matter. It's still information that has to be coped with in the present somehow or other. This is why I think that Carl's emphasis on appropriate action is a nice way to think about coherence. We've adopted previously in papers Bateson's notion of differences that make a difference. And what do they make a difference for? They make a difference for doing something and coping in real time with whatever information is coming in. From that point of view, the question of, I have this information, what do I do? What do I do next is a prediction problem. You make a prediction, you do something. You act on the environment in some way or other. And the result of that action is either good for you or bad for you. So maybe you cease to exist, or maybe some food appears, or maybe something very threatening appears, who knows? In that sense, this is a very simple sense of testing predictions. You're just acting and seeing what happens. But there was some model that drove the selection of that action. I think that's really all that Carl's talking about. You can make it sound very cognitive, but you don't have to."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[20:20] Joscha Bach: A big insight of the transformer is, in my view, that the serialization of only adjacent events has limitations. When you want to model the structure of text, you cannot use the same as for images. For images, you can use convolutional networks because they embody this bias that adjacent pixels are semantically related, which works relatively well in the visual world. But for text, this doesn't work because you are going to miss all the long-range connections in the text if you look at n-grams. It's very difficult because the alphabet is too large to make an n-gram model that is bridging over a large distance in the text. So now you need to find structure that is free-form that is deserializing the text into a scene and operate on that scene. And you need to have a process that is actively constructing your working memory contents, not as a sequence of events where you decide what to do next, but where you're modeling the entire future space of possibilities at once and then sort that space somehow."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[21:27] Michael Levin: Sam Gershman wrote a couple of days ago about the computer code and keeping it up to date. He said, \"your most important collaborator is you six months ago, and he's not answering emails.\" I thought that was pretty funny in terms of the messages, interpreting messages and where they come from. But Chris, to your point a minute ago, when this event happens, I think one important piece of metadata you might want is whether that event was caused by you or by something else. Because wouldn't you want to know if something is: am I being hacked? Am I learning or am I being trained? If there's a particular event, biologically anyway, there's value in understanding: did I just do that or was this triggered from the outside? There would be evolutionary pressure to have ways of figuring that out."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[22:31] Chris Fields: Well, we certainly have very complicated machinery that tries to answer that question. That this whole cognitive ownership and the emotions associated with cognitive ownership that goes wrong in particular ways in particular unfortunate people. Getting that thing systematically wrong is debilitating. But it's all essentially heuristic. It's a heuristic solution to an undecidable problem. It's like our frame problem, heuristics. So I think that sort of heuristic meta-processing is extremely important. Let me remark also for a moment on language. When we're thinking about language and parsing and non-local relations and all of that, I think one thing we have to think about in terms of chunking input into bigger pieces that are then analyzed as units is that that's a time windowing process where we allow some input to come in and we say, okay, you mentioned working memory capacity. Now we're going to put this in working memory and we're going to do a bunch of stuff to it. And then we're going to allow the frame to advance and do a bunch of stuff to the next chunk and compare those two results for consistency, et cetera. So we are working at this larger delta T. But I think at that larger delta T, we're still answering a what do I do next question. What do I do with this sentence? What do I do with this paragraph? How can I put this in a representation that I feel like I understand? And feeling like I understand it means feeling like there's something I could do with it. There's some inference I can make from it, for example. So it's a very good point that you make about the difference between language and images. But I think it's mainly a scaling point as well. It's like the geometry point you made earlier. We're constantly imposing these sorts of geometries on information that we encounter. And the geometry may or may not be there. We always treat it as there. We say, oh, that geometry is in the external world. But it's really us that's putting that geometry under the input."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[26:17] Joscha Bach: I think a lot of our actions only make sense when we recognize that you're not just deciding what to do now; some of us start as a control system in the present, but the agency is the control of future states. What I observe in humans is that they seem to be temporally more coherent than, for instance, the present AI video models, which have more real-time coherence: they're coherent in space; when you generate a picture, all the features in the picture seem to be more coherent with each other than the picture is coherent two seconds into the future. Information preservation across time is something that's difficult for present models to discover. Humans are much better at this, recognizing that the volume that you're looking at needs to remain constant over many frames into the future for the spatial cohesion of the objects we're looking at. It probably means we have to build a model that is more compressed than the ones the LLMs and the foundation models are currently building."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[27:25] Chris Fields: I can certainly see that. In a sense, you're making Mike's point about memory, except in the other direction. We have this notion of not only a past notion of, but a future expectation about the preservation of identity, but what counts as identity gets fuzzier and fuzzier as the planning horizon increases. So if I'm planning my future, I could think, I'm still going to exist a year from now, maybe, but who knows what I'll be like. In the same way that I don't have details about last year. So I think this business of coarse graining is very important when we think about temporal coherence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[28:29] Joscha Bach: I think that identity is ultimately always instrumental to a graded assignment. And if you remove that, then identity is going to dissolve. If you don't have a reason to discover yourself as something that is idiosyncratic, for instance, behaving specifically based on your protocol memory, then it makes very little sense to assign an identity to yourself, making a self-model. One thing that's interesting to me is the question of what it means to train another system. I'd observe that cats are usually more stupid than dogs, but they are much better at training people. As a result, they are also less trainable. And it seems they have evolved to train others."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[29:21] Chris Fields: As opposed to being trained, which dogs are evolved to be."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[29:25] Joscha Bach: Yes, similar to a government. I sometimes joke that government is the principle to recursively bully people. It's invented in many societies independently. Once government is discovered, it's going to colonize until it meets the boundary of another government with a shorter logistics chain. Up to a certain size of the system, governments tend to be singletons. I suspect the same is true for consciousness in the brain, for instance. Across brains, the protocol changes and the degree of cohesion changes, the bandwidth changes, and it's much easier for other systems to work up to this boundary than you to spread over that boundary, because your bandwidth is no longer large enough to do that. A similar thing is happening when 120 people are controlling the Indian subcontinent during the British East India Company, until the local systems figure out how this algorithm works, have a shorter information chain, and push out the occupants. I wonder what it means to colonize an environment, to entrain yourself, visit, and to build it into a structure that extends you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[30:46] Chris Fields: That's a nice way to think about that. More sociology applied to biology and physics."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[30:58] Joscha Bach: Normally we distinguish two types of sociologists, those who understand social power and those who don't. The former are called economists. Ultimately it's an economic problem. What meditators call energy is actually compute credits that are computed by the substrate when you're competing with other agents that want to be computed by the same substrates in your society of mind, for instance, or more generally in nature."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[31:33] Michael Levin: Interesting. Could I jump back for a second to just one last thing on this error correction business? Would you say that the notion of error correction presupposes a distinction between what's an error and what isn't. Chemistry doesn't make mistakes. Chemistry just does what chemistry does. But developmental biology, which in theory people think is driven by chemistry, definitely makes mistakes. You have birth defects. The distinction is that you make errors relative to expectation of some other observer, expectation of yourself about what you were trying to do, expectation with respect to some goal state. But in the way that you guys are using this term, is there any notion of error as distinct from non-error or is this something else?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[32:29] Joscha Bach: There are invariances that we observe. I told you I became an animist in recent years. It's not because I think that physicalism is wrong, but because I think that the invariance that you're looking at when you look at living things is the software that runs on regional physics, not the mechanism itself. Our current dominant perspective in Western science is that the world is mechanical, and we need to explain it in terms of mechanisms. Yet we also understand that money is not mechanical. It's a software that is only apparent when you have a certain coarse graining that you put onto the world to interpret the world. Important aspects of the world make no sense if you don't use money as the expendandum. Because money itself is the invariant pattern that inscribes itself onto the physical reality there. Minds are an invariant pattern, or software is an invariant pattern that we care about. We don't care about the number of transistors that implement the software. We don't care about the specific neurons that implement the mind, because the mind is able to recruit other neurons if some of them fail. The invariance is actually the software pattern. The reason why these invariances exist is because they compress reality in such a way that it becomes controllable. According to the good regulator theorem, if you want to control something, you need to implement a model of what you control. I suspect that's the reason why the universe is so surprisingly learnable, because all the structure that you observe is probably control structure. That means that the universe, with its means on every level, was able to discover models. Particles are probably just vortices, so there's not much to discover. Atoms and molecules are the emergent patterns over the particle dynamics. For cells, it's much more complicated because you need to have some kind of control system. That is looking into the future. Here, the complexity becomes so large that you need to stay in the realm of discoverable models. That means that you need to highly compress what the agent is doing. You describe it as a single system with a single main concern and all the other concerns of the system being subservient to it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[34:54] Chris Fields: Reminds me of our discussion about thoughts and thinkers, Mike. I broadly agree with that. I would say to have a usable error correcting code, you also need to have classical communication. What counts as an error then is a discrepancy between what some system sees and what it expects to see based on its communications with some other system. This is basically Shannon information theory. If I'm sending a message across some channel and you're receiving it, then the message is noise unless we've already shared some sort of information, like a language, for example, or a language plus some semantic box that the message is supposed to be about. If we share enough, then all I need to do is send a bit. For safety, I send three bits to give you some error correction capacity. But those three bits only mean anything if we've communicated before about what the question is that's being answered. The same considerations go over into quantum codes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[36:39] Joscha Bach: When you talk about classical communication, what alternative is there to classical communication?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[36:49] Chris Fields: I think the question here is, if you have a bunch of interactions which you're defining using quantum theory or information flow, the question becomes, what do you have to assume to call some of them classical? And you're making some assumption about thermodynamic irreversibility to call something classical — that I actually said these words, not some superposition. And you hear some words, not some superposition, which gets back to what you were saying very early on in the discussion about encountering superpositions, but imposing order on them based on regularities. The regularities are classical. The regularities are what we mean by classical information."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[37:59] Joscha Bach: The superpositions are not very actionable. You need to figure a focus on those aspects that are not in superposition."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[38:08] Chris Fields: The very notion of action is classical. I did this, not that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[38:13] Joscha Bach: I think in order to conceptualize itself as an observer with memories, the system needs to be able to maintain a classical model of itself."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[38:24] Chris Fields: Right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[38:25] Joscha Bach: And the collapse of the wave function is the point in your past beyond which you fail to pretend that the universe is classical. This, I suspect, is the correct interpretation of Copenhagen: not that consciousness is causing the collapse, but that consciousness can only exist in collapse timelines."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[38:51] Chris Fields: An observer can only be an observer if it considers itself to be an observer. To exist for more than just an instant. To have an identity over time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[39:09] Michael Levin: Yeah, right. Isn't isn't that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[39:10] Chris Fields: To have a Markov blanket, whatever. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[39:14] Michael Levin: Isn't it fundamentally then what you have to do is define some time period where if during that minimal period, it's a frame rate, where during that time, if you had multiple thoughts, multiple models, they are in a superposition if that whole period is what you're seeing? If it's not infinitely thin, where you have to say, was it this or was it that? If that time period of yourself is wide enough, then there might have been multiple different things going on. And as far as you're concerned, it is a superposition because you can't cut it any further. Isn't that what we're saying? That what's going on within that minimal time frame, those are all superpositions, but between time frames, you've got to settle. It was either this or that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[40:14] Chris Fields: If you think about any model of an observed process, think of digitizing what's going on in your laptop. We observe the laptop at basically the nanosecond scale. We don't observe it at the femtosecond scale. So between those observations we don't care what happens. We just think of these classical state transitions between effectively nanosecond-wide slices. And within, between those boundaries that we could look at with our resolution, we don't care. Some quantum nonsense is going on, but we don't care about that."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[41:15] Joscha Bach: We don't really care about the duration of the event. We care about how many events are taking place during a duration that we integrate over to see them as one event. So even if there was a transistor interaction that would only take a femtosecond, we very much do care if it's affecting the thing that we are going to observe on the nanosecond scale or on the second scale."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[41:37] Chris Fields: We can care about it theoretically. My point was we can't care about it observationally."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[41:42] Joscha Bach: It depends on how much energy you're moving in that femtosecond. If that femtosecond is large enough to let your computer go up in smoke, you very much care."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[41:58] Chris Fields: That's true, but we can't localize it in time."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[42:03] Joscha Bach: Yes."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[42:05] Chris Fields: Right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[42:06] Joscha Bach: Maybe we can't. Ultimately, we probably can if we really care. I imagine if you were to live in a universe where all the relevant events are happening in femtoseconds, which means to build computers you probably need to figure out equipment to deal with those femtoseconds."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[42:25] Chris Fields: If we were protons, then we'd naturally care about that time scale."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[42:33] Joscha Bach: Maybe we are protons, we just forget."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[42:38] Chris Fields: Have you read Italo Calvino's book \"Cosmic Comics\"?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[42:45] Joscha Bach: Yeah, but long ago."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[42:47] Chris Fields: It's wonderful. He tells us the story of the evolution of the universe from every point of view, from that of a proton up."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[43:04] Michael Levin: I haven't seen it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[43:06] Chris Fields: It's a wonderful, very thin little book. You can read it in an hour."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[43:12] Michael Levin: Amazing. Since we got there, can we talk for a minute about your view on the status of the smallest components? What can or should we say about how much of these proto-cognitive perspectives that we've been using apply at the lowest scale? What can you say about particles versus their environment and so on?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[43:47] Joscha Bach: Are you asking Chris or me?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[43:48] Michael Levin: Let's start with you, Joshua."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[43:52] Joscha Bach: I suspect that the lowest level is not yet exerting interest in control, but it's just mechanical in the same way the vortex that emerges in the bathtub does not require intelligence to form. It's what's left over after you look at all the patterns and only retain those that are self-propagating. It's some selection process, some evolutionary process that is selecting all the non-error-correcting patterns from reality, and only those that are error-correcting get to stay around with a certain probability. And once they are over the threshold, you can pretend that they are static for a given time, and then you build structure above them. I suspect that at the lowest level, you don't have intelligence yet. The intelligence only forms at the level where you have persistent particles that can be linked into symmetry breaking multi-stable structures. And then exploit entropy gradients. They're what life is doing. It performs controlled chemical reactions that outcompete dumped chemical reactions."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[45:01] Michael Levin: What's the first or simplest thing that was doing that?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[45:10] Joscha Bach: That's a very tricky question. I think the smallest structure is the cell, but it's not necessarily the simplest one because the cell is incredibly complicated. I could imagine very, very large systems, say, storm systems on Jupiter, that wake up into general intelligence before the first cell does, because the first cell is so complicated. I don't know what the assembly complexity of a cell really is or how likely it is for this first cell to randomly emerge. I could imagine that this probability is lower than the probability of a generally intelligent agent to emerge at much, much larger scales. So in a sense, I don't know whether you will find spontaneous formations of agency at, say, planetary scales that we would miss from our cell-centric perspective. But I think that it's probably impossible to build intelligence simply from elementary particles at the subatomic scale, because atoms or molecules are the first level where you break symmetries."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[46:23] Michael Levin: What would you be looking for? Let's say the Jupiter spot."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[46:31] Joscha Bach: I think that the time scales on Jupiter would be so large that it's almost pointless to figure this out. Ultimately, you would need to simulate it over very long time spans and then see if the simulation deviates from a system that is energy optimizing in such a way that you need to assume that it has memory and is making models of the future to explain what you're observing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[46:58] Michael Levin: Gotcha. Interesting. What do you think, Chris?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[47:18] Chris Fields: I agree that one needs a certain amount of complexity to think about planning for the future. I wouldn't want to try to put a finger on where that complexity actually lives. If you look, the kind of characteristic scale for, say, elementary particles not bound together in atoms, that characteristic energy scale is very large. So what we at our scale and our observational capabilities call a particle, is it at that scale some kind of complicated mess? Think of drawing the first several orders of Feynman diagrams. There's a lot going on. Whether any of that stuff at its own scale could be interacting with other entities like that at that scale is hard for me to think about. Certainly it's not something that we can observe with any technology that we have. We're doing this business of calling things objects at a resolution that we can observe them, and then building a theory that maintains that sense of objecthood down to arbitrary scales. That theory is predictive of what we can observe at our scale. I think it's more dangerous to say it's really describing what's going on at the scales that are of interest there. Certainly, from the point of view of what we can observe, what are the kinds of intelligence that we can get a handle on? The cell or some set of coupled pathways that are bounded in some way is probably the smallest entity that we can think about. Maybe they're very large entities that have lower complexity. The question is, how would we observe such a thing?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[50:43] Michael Levin: There's some really interesting work with minimal matter, such as droplets and things that are only a few chemicals, but they have some pretty rich behaviors. I think we need to start developing sets of tools and criteria, because just observations don't do the trick. Obviously you have to do perturbative experiments, but we really need to start trying to understand it because some of them certainly look like there's a lot of potential for finding some of these things, and we need a suite of tests that can start giving us a clue that something like that is going on. The last set, they were running around a maze and they're coming together in multi, in higher-order structures, and I asked him, how long did you have to search? It's a total of, I believe, three chemicals that they're made of. I said, how long did you have to search before you found the chemicals that do this? He said, that's basically the first thing I picked up off the shelf. So my guess is that it might not be super rare, this kind of thing. It might be pretty natural, but it's unclear yet. I think the field of diverse intelligence still doesn't have agreed-upon criteria about what to look for in these kinds of systems, even for the ones that are tractable. Obviously, they talk about the economic markets and the spot of Jupiter and the cosmic web and all these things. We can't do experiments there. But for some of these minimal active systems, we can. So I think we need to settle on some experimental criteria."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[52:35] Chris Fields: No, that's very interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[52:37] Joscha Bach: I suspect that ultimately you might have to resort to simulations where you try to figure out the behavior of the system from first principles and then run the simulation to see how your observations deviate and identify criteria under which you need to ascribe more levels of control to the system that you're observing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[53:05] Michael Levin: We see very simple things in terms of going around barriers and delayed gratification, where it has to go backwards in the gradient in order to get gains later on in extremely simple systems. That capacity emerges even in very simple systems — we studied it in simple sorting algorithms, this ability to go backwards to make gains later on. You don't have to change anything. Very simple algorithms can have those behaviors. So I think we're going to end up with a lot of surprises, but we need to start looking for that stuff."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[53:46] Chris Fields: Ideally one would have a way of looking at the system's ability to operate on its own environment for its own future benefit. With your algorithm experiments, the environment is us."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[54:15] Michael Levin: There's a system which constantly generates a self-repellent. What that does is if you're traversing a maze and you end up at a dead end, you sit there for a little bit, but eventually the self-repellent builds up and chases you out of there. In practical terms, it means that you're never stuck in a dead end for any length of time. It pulls you out of these cul-de-sacs where you can't do anything else. It's super simple. You can look at it as a stigmergic effect on the environment because you basically dumped a bunch of messages that 10 minutes later are going to say, \"don't be here, go, go, go somewhere else.\" So it is a very weak version of niche construction in that sense."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[55:15] Chris Fields: That sounds like a good limit to be pushing. Indeed."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[55:20] Joscha Bach: That is how to build a self-organizing system that is generally intelligent. What is the minimal pattern for this colonizing seed that we observe in our own mind? I suspect that consciousness is an operator that induces coherence. I don't have a proper formalization for coherence that is tested. I think of it as a minimization of constraint violations across models. I could think of it as a consensus algorithm forming in the mind that is trying to find one interpretation where you maximize the number of simultaneously true statements in your working memory. And out of this would fall the notion that there must be an observer that is in the act of observation. But I suspect that the phenomenology of self-reflexivity comes from the fact that for consciousness to work it needs to be self-organizing. And to do that, it needs to be self-stabilizing and self-observing. And so I wonder what is this minimal self-observing observer that keeps itself stable and is colonizing the environment? What is the invariance and how can we formalize it in a substrate-agnostic way?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[56:51] Chris Fields: You want the informational analog of a microbial mat."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[56:57] Joscha Bach: I want to have something that is more than a biofilm. I want something that imposes structure on itself. Maybe the microbial mat is the precursor. It's a sufficient substrate where you have self-interested local nodes that can be recruited into performing the computations that you want."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[57:18] Michael Levin: They actually are on their way to what you're talking about because in Gorol Soel's work, he shows that some of these biofilms have very brain-like potassium waves that ensure that the whole thing can eat. It synchronizes the metabolism across the network so that the ones on the outside don't get all the food and then the inside starves. It has these large-scale potassium waves. One of the papers was called \"brain-like signaling in bacteria maps.\" They're working."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[57:52] Joscha Bach: It's like an organism."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[57:53] Michael Levin: They're working up to a whole that's doing something different than the parts would do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[58:02] Joscha Bach: So what is holding systems back? Elephants are not able to be creative. They don't draw images. They only replicate drawings stroke by stroke. Why is it that elephants, despite having a long childhood, do not achieve the same level of generality as we do? Is this the result of a need for tuning the system in a particular way that is tricky for evolution? Or is there a Goldilocks size to brains that they can only integrate information up to a certain scale deeply?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[58:38] Michael Levin: I don't know. The only thing I know about elephants is that we had a guest speaker once years ago at my seminar series, where he said that he makes these giant xylophones and he drops them off in the jungle of, I think, Thailand, for wild elephants. He said that wild elephants, when they come across these xylophones, immediately figure out what the deal is and they start to play them. I said, is it good? He said, no, the music's terrible. But they like it, and they presumably haven't heard it before; they just start to play."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[59:18] Joscha Bach: They have larger brains than us."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[59:20] Michael Levin: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "Chris Fields: Well, it's probably good for them."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[59:22] Michael Levin: Exactly right. It maybe."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[59:24] Chris Fields: We just don't like it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "Joscha Bach: I would suspect that what we consider to be good or not is not so much a question of cultural habits, but it's the question of the sophistication of the structure that is being encoded."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[59:38] Michael Levin: That's interesting. There's all kinds of videos on YouTube where you can see some guy will take a violin out in the woods and just start playing it. All these wild animals come; foxes will come and listen. I always thought that was really interesting. Why does it sound good to them too?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[59:56] Chris Fields: I think part of the answer to your question could have to do just with the form of the body. But we've got these things that are really interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[1:00:08] Joscha Bach: Yeah, but got good news."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[1:00:11] Chris Fields: Pardon me."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[1:00:12] Joscha Bach: They have very good noses, the elephant. They basically have something that's almost as good as we do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[1:00:21] Chris Fields: Maybe that's an equally good toy for the brain to play with in its early development. But I don't know."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[1:00:37] Joscha Bach: Also, people who grow up without arms are not necessarily cognitively diminished."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[1:00:42] Chris Fields: They're growing up in a cognitively rich environment that's created by lots of other people."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Joscha Bach",
+      "text": "[1:00:49] Joscha Bach: In the same way, build these models. Their brains are evolved to discover this way of sophistication and abstract modeling."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:01:02] Michael Levin: I found out recently the elephant trunk requires babbling in babies when they learn to use their arms at the beginning, they have no control over it. It waves around, crazy. And then eventually they get some control over it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Chris Fields",
+      "text": "[1:01:18] Chris Fields: Interesting."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[1:01:19] Michael Levin: Interesting. Not the legs. The legs stand up pretty early. So the legs are good to go almost immediately. But the one with a lot of degrees of freedom takes a while to get going."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-a2232cf85a4e40a3.txt",
+  "text_sha256": "092732bc4c536631cc3c50b97f3dcbb328e7e621ccd7fe01a5b3bdeb06ac8e2f",
+  "word_count": 7743,
+  "segment_count": 107
+}

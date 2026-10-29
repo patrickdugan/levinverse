@@ -1,0 +1,5612 @@
+{
+  "source_url": "https://podcasters.spotify.com/pod/show/livelongerworld/episodes/Optimize-Cancer-Therapy-Using-Evolution--Michael-Levin--Robert-Gatenby-e38k9pq",
+  "transcript_track_url": "https://transcript-files.spotifycdn.com/2Zc65BZb02msGuF9ujBThC/2wWFwzrKpMgo0rb9pTSqgx/transcript.srt",
+  "raw_transcript_path": "transcripts/permitted/rss-3a4d67b57b14ece9.srt",
+  "source_kind": "platform_caption",
+  "title": "Optimize Cancer Therapy Using Evolution | Michael Levin & Robert Gatenby",
+  "publication_date": null,
+  "video_ids": [],
+  "relevance_confirmed": true,
+  "relevance_evidence": "publisher RSS episode explicitly identifies Michael Levin",
+  "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred",
+  "host": "Live Longer World",
+  "language": "en",
+  "episode_guid": "59a9d516-c070-430e-97d2-8249c595fff6",
+  "publisher_feed_url": "https://anchor.fm/s/62cbf1e4/podcast/rss",
+  "transcript_id": "publisher-284808450610d29a",
+  "retrieved_at": "2026-10-29T11:25:02.541577+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 0.16,
+      "end_seconds": 4.16,
+      "speaker": null,
+      "text": "My name is Astha Simes and  welcome to Live Longer World."
+    },
+    {
+      "start_seconds": 5.6,
+      "end_seconds": 7.56,
+      "speaker": null,
+      "text": "I'm really excited for this  conversation because I think you"
+    },
+    {
+      "start_seconds": 7.56,
+      "end_seconds": 10.92,
+      "speaker": null,
+      "text": "bring such a multifaceted  approach to looking at cancer"
+    },
+    {
+      "start_seconds": 10.92,
+      "end_seconds": 15.04,
+      "speaker": null,
+      "text": "from mathematical modeling, game theory and also evolutionary"
+    },
+    {
+      "start_seconds": 15.04,
+      "end_seconds": 18.44,
+      "speaker": null,
+      "text": "lens.  So just to jump in, I would love"
+    },
+    {
+      "start_seconds": 18.44,
+      "end_seconds": 22.84,
+      "speaker": null,
+      "text": "it if you could discuss the new  framing of the hallmarks of"
+    },
+    {
+      "start_seconds": 22.84,
+      "end_seconds": 27.48,
+      "speaker": null,
+      "text": "cancer, not as a static process, but one which you see from an"
+    },
+    {
+      "start_seconds": 27.48,
+      "end_seconds": 30.28,
+      "speaker": null,
+      "text": "evolutionary lens.  So you've discussed how the"
+    },
+    {
+      "start_seconds": 30.28,
+      "end_seconds": 34.04,
+      "speaker": null,
+      "text": "cancer gets tumor gets  initiated, it changes this tumor"
+    },
+    {
+      "start_seconds": 34.04,
+      "end_seconds": 36.92,
+      "speaker": null,
+      "text": "microenvironment.  And then you also start to see"
+    },
+    {
+      "start_seconds": 36.92,
+      "end_seconds": 41.52,
+      "speaker": null,
+      "text": "this emergent phenomena of  cooperation among these tumor"
+    },
+    {
+      "start_seconds": 41.52,
+      "end_seconds": 44.44,
+      "speaker": null,
+      "text": "cells, something which Mike  talks about a bit bit as well."
+    },
+    {
+      "start_seconds": 45.0,
+      "end_seconds": 48.76,
+      "speaker": null,
+      "text": "How do you see this evolutionary progression of cancer?"
+    },
+    {
+      "start_seconds": 50.08,
+      "end_seconds": 57.52,
+      "speaker": null,
+      "text": "Well, from an evolutionary point of view, cancer is, is, is a, is"
+    },
+    {
+      "start_seconds": 57.52,
+      "end_seconds": 60.2,
+      "speaker": null,
+      "text": "a fundamental evolutionary  event."
+    },
+    {
+      "start_seconds": 60.44,
+      "end_seconds": 63.28,
+      "speaker": null,
+      "text": "And, and whenever you talk about evolutionary, you talk about"
+    },
+    {
+      "start_seconds": 63.28,
+      "end_seconds": 68.76,
+      "speaker": null,
+      "text": "what's the unit of selection and in for our body, for the cells"
+    },
+    {
+      "start_seconds": 68.76,
+      "end_seconds": 71.4,
+      "speaker": null,
+      "text": "in our body, the unit of  selection is us."
+    },
+    {
+      "start_seconds": 72.64,
+      "end_seconds": 76.72,
+      "speaker": null,
+      "text": "Our cells have the same fitness  as the, the, the"
+    },
+    {
+      "start_seconds": 76.72,
+      "end_seconds": 81.76,
+      "speaker": null,
+      "text": "three-dimensional, the, the, the multitude organ us."
+    },
+    {
+      "start_seconds": 83.08,
+      "end_seconds": 87.2,
+      "speaker": null,
+      "text": "And they share that with us.  They, they contribute to our"
+    },
+    {
+      "start_seconds": 87.2,
+      "end_seconds": 93.52000000000001,
+      "speaker": null,
+      "text": "fitness and, and so they're  controlled by the, the, the"
+    },
+    {
+      "start_seconds": 94.64,
+      "end_seconds": 95.8,
+      "speaker": null,
+      "text": "structures of our, of our  tissue."
+    },
+    {
+      "start_seconds": 96.16,
+      "end_seconds": 100.2,
+      "speaker": null,
+      "text": "You know, the, the local tissue  instructions, their death, their"
+    },
+    {
+      "start_seconds": 100.2,
+      "end_seconds": 103.0,
+      "speaker": null,
+      "text": "proliferation, their movement,  their phenotype, all that is"
+    },
+    {
+      "start_seconds": 103.0,
+      "end_seconds": 107.0,
+      "speaker": null,
+      "text": "controlled by the tissue, but by tissue signals."
+    },
+    {
+      "start_seconds": 107.03999999999999,
+      "end_seconds": 109.4,
+      "speaker": null,
+      "text": "And as a result of that, they do not evolve."
+    },
+    {
+      "start_seconds": 111.4,
+      "end_seconds": 115.84,
+      "speaker": null,
+      "text": "Whereas in cancer, it's the unit of selection as the individual"
+    },
+    {
+      "start_seconds": 115.84,
+      "end_seconds": 118.56,
+      "speaker": null,
+      "text": "cell.  So that carcinogenesis means"
+    },
+    {
+      "start_seconds": 118.96000000000001,
+      "end_seconds": 123.08,
+      "speaker": null,
+      "text": "that you've, it is a fundamental transition of, of cells that are"
+    },
+    {
+      "start_seconds": 123.08,
+      "end_seconds": 127.2,
+      "speaker": null,
+      "text": "defined by the fitness of their  Organism to cells that are"
+    },
+    {
+      "start_seconds": 127.2,
+      "end_seconds": 130.919,
+      "speaker": null,
+      "text": "individually subject to  evolutionary selection."
+    },
+    {
+      "start_seconds": 131.64,
+      "end_seconds": 135.2,
+      "speaker": null,
+      "text": "And, and that's a, that's a  tremendously, I, I think"
+    },
+    {
+      "start_seconds": 135.76,
+      "end_seconds": 140.04,
+      "speaker": null,
+      "text": "important way to look at this.  The the traditional view of"
+    },
+    {
+      "start_seconds": 140.52,
+      "end_seconds": 143.48,
+      "speaker": null,
+      "text": "carcinogenesis is that it's an  accumulating mutations."
+    },
+    {
+      "start_seconds": 143.8,
+      "end_seconds": 146.56,
+      "speaker": null,
+      "text": "Something about those mutations  generate a cancer."
+    },
+    {
+      "start_seconds": 148.36,
+      "end_seconds": 152.2,
+      "speaker": null,
+      "text": "In this setting, what we would  say is that the the cancer cells"
+    },
+    {
+      "start_seconds": 152.2,
+      "end_seconds": 155.72,
+      "speaker": null,
+      "text": "have to become independent of  the host tissue signals."
+    },
+    {
+      "start_seconds": 157.8,
+      "end_seconds": 161.88,
+      "speaker": null,
+      "text": "One of the, one of the problems  with the, the, the kind of"
+    },
+    {
+      "start_seconds": 161.88,
+      "end_seconds": 167.44,
+      "speaker": null,
+      "text": "sequential mutation model is  observations that you could see"
+    },
+    {
+      "start_seconds": 167.44,
+      "end_seconds": 170.12,
+      "speaker": null,
+      "text": "the same mutations in the  apparently normal tissue"
+    },
+    {
+      "start_seconds": 170.6,
+      "end_seconds": 175.36,
+      "speaker": null,
+      "text": "adjacent to the cancer, which  seems to suggest that's not"
+    },
+    {
+      "start_seconds": 175.64,
+      "end_seconds": 179.44,
+      "speaker": null,
+      "text": "yeah, that it's, it's, it's a,  it's a part of it, but it's not"
+    },
+    {
+      "start_seconds": 179.44,
+      "end_seconds": 183.24,
+      "speaker": null,
+      "text": "the necessarily the cause of it. And so in the evolution model,"
+    },
+    {
+      "start_seconds": 184.48,
+      "end_seconds": 189.4,
+      "speaker": null,
+      "text": "we admit that you may get these  accumulating mutations which"
+    },
+    {
+      "start_seconds": 189.4,
+      "end_seconds": 194.16,
+      "speaker": null,
+      "text": "renders the, the cell, you know, blind and deaf to the tissue"
+    },
+    {
+      "start_seconds": 194.16,
+      "end_seconds": 195.44,
+      "speaker": null,
+      "text": "signals.  So they become totally"
+    },
+    {
+      "start_seconds": 195.44,
+      "end_seconds": 197.56,
+      "speaker": null,
+      "text": "independent because they just  can't receive them."
+    },
+    {
+      "start_seconds": 198.4,
+      "end_seconds": 202.32,
+      "speaker": null,
+      "text": "On the other hand, an  alternative is that the you can"
+    },
+    {
+      "start_seconds": 202.32,
+      "end_seconds": 207.52,
+      "speaker": null,
+      "text": "damage the normal tissue and  that damage prevents it from"
+    },
+    {
+      "start_seconds": 207.52,
+      "end_seconds": 211.92000000000002,
+      "speaker": null,
+      "text": "controlling the local cell  population, which now allows"
+    },
+    {
+      "start_seconds": 211.92000000000002,
+      "end_seconds": 217.0,
+      "speaker": null,
+      "text": "them to to evolve.  And now the accumulated"
+    },
+    {
+      "start_seconds": 217.0,
+      "end_seconds": 220.8,
+      "speaker": null,
+      "text": "mutations that they've, that,  that have occurred over a"
+    },
+    {
+      "start_seconds": 220.8,
+      "end_seconds": 224.8,
+      "speaker": null,
+      "text": "lifetime, which are similar to,  you know, all around, but, but"
+    },
+    {
+      "start_seconds": 225.12,
+      "end_seconds": 230.04,
+      "speaker": null,
+      "text": "now these mutations can become  part of the fitness function of"
+    },
+    {
+      "start_seconds": 230.04,
+      "end_seconds": 233.84,
+      "speaker": null,
+      "text": "an individual cell.  So there's a, there's sort of a"
+    },
+    {
+      "start_seconds": 233.84,
+      "end_seconds": 238.4,
+      "speaker": null,
+      "text": "subtle difference in this.  And, and, and, and so it's that"
+    },
+    {
+      "start_seconds": 238.4,
+      "end_seconds": 241.8,
+      "speaker": null,
+      "text": "transition to independence.  That's the, that's the critical"
+    },
+    {
+      "start_seconds": 242.08,
+      "end_seconds": 247.04,
+      "speaker": null,
+      "text": "function.  And what this suggests, I think"
+    },
+    {
+      "start_seconds": 247.04,
+      "end_seconds": 251.04,
+      "speaker": null,
+      "text": "is that is that cancer is not  just a mutation."
+    },
+    {
+      "start_seconds": 251.04,
+      "end_seconds": 253.76,
+      "speaker": null,
+      "text": "It's not just, it just isn't  happening to the cells, it's"
+    },
+    {
+      "start_seconds": 253.76,
+      "end_seconds": 257.88,
+      "speaker": null,
+      "text": "happening to the tissue.  So, you know, damages to the"
+    },
+    {
+      "start_seconds": 257.88,
+      "end_seconds": 263.36,
+      "speaker": null,
+      "text": "tissue, inflammation, injury or  just old age, you know, where"
+    },
+    {
+      "start_seconds": 263.72,
+      "end_seconds": 268.28,
+      "speaker": null,
+      "text": "the tissues sort of lose control of the local cell population can"
+    },
+    {
+      "start_seconds": 268.28,
+      "end_seconds": 270.36,
+      "speaker": null,
+      "text": "then trigger this evolutionary  process."
+    },
+    {
+      "start_seconds": 271.68,
+      "end_seconds": 275.8,
+      "speaker": null,
+      "text": "And so when you think then about cancer as an evolutionary"
+    },
+    {
+      "start_seconds": 276.4,
+      "end_seconds": 282.15999999999997,
+      "speaker": null,
+      "text": "process, the, the, these the  hallmarks of cancer then need to"
+    },
+    {
+      "start_seconds": 282.15999999999997,
+      "end_seconds": 288.52,
+      "speaker": null,
+      "text": "be framed in terms of how they  add to the fitness of the, of"
+    },
+    {
+      "start_seconds": 288.52,
+      "end_seconds": 292.72,
+      "speaker": null,
+      "text": "the Organism.  And so one of the things that"
+    },
+    {
+      "start_seconds": 293.15999999999997,
+      "end_seconds": 296.72,
+      "speaker": null,
+      "text": "organisms do is, is called niche construction."
+    },
+    {
+      "start_seconds": 297.88,
+      "end_seconds": 302.24,
+      "speaker": null,
+      "text": "Beaver Dam being the, the most  obvious one, but, but that's"
+    },
+    {
+      "start_seconds": 302.48,
+      "end_seconds": 305.2,
+      "speaker": null,
+      "text": "kind of been added to  evolutionary theory over the"
+    },
+    {
+      "start_seconds": 305.2,
+      "end_seconds": 312.44,
+      "speaker": null,
+      "text": "last decade or so as, as part of the, of the inheritance process,"
+    },
+    {
+      "start_seconds": 312.44,
+      "end_seconds": 316.08,
+      "speaker": null,
+      "text": "because you can, the Beaver Dam  is an example, again, you know,"
+    },
+    {
+      "start_seconds": 316.08,
+      "end_seconds": 317.8,
+      "speaker": null,
+      "text": "can last for several  generations."
+    },
+    {
+      "start_seconds": 318.32,
+      "end_seconds": 321.24,
+      "speaker": null,
+      "text": "And so it can persist as an  ecological mechanism of"
+    },
+    {
+      "start_seconds": 321.24,
+      "end_seconds": 324.48,
+      "speaker": null,
+      "text": "inheritance.  And so, you know, when, when you"
+    },
+    {
+      "start_seconds": 324.48,
+      "end_seconds": 329.0,
+      "speaker": null,
+      "text": "start to think in these terms,  to me, a, a, a great example is"
+    },
+    {
+      "start_seconds": 329.0,
+      "end_seconds": 331.72,
+      "speaker": null,
+      "text": "the Warburg effect.  And, and, and this has been"
+    },
+    {
+      "start_seconds": 331.72,
+      "end_seconds": 336.52,
+      "speaker": null,
+      "text": "known since Warburg, I was 100  something years ago that cancer"
+    },
+    {
+      "start_seconds": 336.52,
+      "end_seconds": 341.28,
+      "speaker": null,
+      "text": "cells, even in the presence of  oxygen, prefer glycolytic"
+    },
+    {
+      "start_seconds": 341.28,
+      "end_seconds": 345.0,
+      "speaker": null,
+      "text": "metabolism, meaning that they,  they don't use oxygen to"
+    },
+    {
+      "start_seconds": 345.0,
+      "end_seconds": 347.08,
+      "speaker": null,
+      "text": "metabolize glucose.  They just metabolize it to"
+    },
+    {
+      "start_seconds": 347.08,
+      "end_seconds": 350.92,
+      "speaker": null,
+      "text": "lactic acid and the the problem  with that is that it's very"
+    },
+    {
+      "start_seconds": 350.92,
+      "end_seconds": 355.56,
+      "speaker": null,
+      "text": "inefficient compared to aerobic  glycolysis or aerobic"
+    },
+    {
+      "start_seconds": 355.56,
+      "end_seconds": 358.92,
+      "speaker": null,
+      "text": "metabolism.  And so that's often called a"
+    },
+    {
+      "start_seconds": 358.92,
+      "end_seconds": 361.56,
+      "speaker": null,
+      "text": "dysregulation.  You know, there's something"
+    },
+    {
+      "start_seconds": 361.56,
+      "end_seconds": 364.04,
+      "speaker": null,
+      "text": "wrong with the cancer that it's  not doing what it should be"
+    },
+    {
+      "start_seconds": 364.04,
+      "end_seconds": 367.12,
+      "speaker": null,
+      "text": "doing.  And you know, evolution doesn't"
+    },
+    {
+      "start_seconds": 367.12,
+      "end_seconds": 370.64,
+      "speaker": null,
+      "text": "do dysregulation.  Evolution is, you know, at the"
+    },
+    {
+      "start_seconds": 370.64,
+      "end_seconds": 373.8,
+      "speaker": null,
+      "text": "greatest optimizing force in the universe."
+    },
+    {
+      "start_seconds": 374.44,
+      "end_seconds": 381.24,
+      "speaker": null,
+      "text": "So if the, if you're seeing the, the cancer cells use glycoidic"
+    },
+    {
+      "start_seconds": 381.24,
+      "end_seconds": 385.28,
+      "speaker": null,
+      "text": "metabolism in the presence of  oxygen, that means it's, it, it,"
+    },
+    {
+      "start_seconds": 385.28,
+      "end_seconds": 387.32,
+      "speaker": null,
+      "text": "it's conferring a fitness  advantage."
+    },
+    {
+      "start_seconds": 388.92,
+      "end_seconds": 392.76,
+      "speaker": null,
+      "text": "And my own hypothesis is it's  the acid that it's produced"
+    },
+    {
+      "start_seconds": 393.04,
+      "end_seconds": 396.12,
+      "speaker": null,
+      "text": "that's the fitness advantage.  It's, it's a niche construction"
+    },
+    {
+      "start_seconds": 396.88,
+      "end_seconds": 402.52,
+      "speaker": null,
+      "text": "so that the cancer cells now can adapt to a, a, a high level of"
+    },
+    {
+      "start_seconds": 402.52,
+      "end_seconds": 405.0,
+      "speaker": null,
+      "text": "acidity, which normal cells  cannot."
+    },
+    {
+      "start_seconds": 406.24,
+      "end_seconds": 410.04,
+      "speaker": null,
+      "text": "It promotes invasion and it  tends to blunt the immune"
+    },
+    {
+      "start_seconds": 410.04,
+      "end_seconds": 412.48,
+      "speaker": null,
+      "text": "response.  And so it serves a purpose."
+    },
+    {
+      "start_seconds": 414.12,
+      "end_seconds": 419.15999999999997,
+      "speaker": null,
+      "text": "And, and I guess that's the kind of the, the theme here is that"
+    },
+    {
+      "start_seconds": 420.68,
+      "end_seconds": 422.88,
+      "speaker": null,
+      "text": "evolution is a scientific game  of jeopardy."
+    },
+    {
+      "start_seconds": 422.96,
+      "end_seconds": 427.08,
+      "speaker": null,
+      "text": "Evolution gives you the answer.  Our job is to provide the"
+    },
+    {
+      "start_seconds": 427.08,
+      "end_seconds": 431.84,
+      "speaker": null,
+      "text": "question.  Evolution tells you that that"
+    },
+    {
+      "start_seconds": 432.08,
+      "end_seconds": 436.48,
+      "speaker": null,
+      "text": "aerobic glycolysis is necessary. It's it increases fitness."
+    },
+    {
+      "start_seconds": 436.48,
+      "end_seconds": 441.52,
+      "speaker": null,
+      "text": "Our job is then to find out why  it is not to say that evolution"
+    },
+    {
+      "start_seconds": 441.52,
+      "end_seconds": 444.8,
+      "speaker": null,
+      "text": "is making an error that just  will not happen."
+    },
+    {
+      "start_seconds": 446.0,
+      "end_seconds": 450.04,
+      "speaker": null,
+      "text": "And so the idea that this that  that this aerobic glycolysis is"
+    },
+    {
+      "start_seconds": 450.04,
+      "end_seconds": 454.56,
+      "speaker": null,
+      "text": "a dysregulation is, is an error  in metabolism and somehow is at"
+    },
+    {
+      "start_seconds": 454.56,
+      "end_seconds": 457.48,
+      "speaker": null,
+      "text": "the root of cancer is really  kind of missing the point."
+    },
+    {
+      "start_seconds": 458.56,
+      "end_seconds": 464.4,
+      "speaker": null,
+      "text": "And it's interesting to, you  know, talk to, to, to"
+    },
+    {
+      "start_seconds": 464.44,
+      "end_seconds": 469.24,
+      "speaker": null,
+      "text": "pathologists who who use stains  to identify tumor cells, PSMA"
+    },
+    {
+      "start_seconds": 469.24,
+      "end_seconds": 471.4,
+      "speaker": null,
+      "text": "stain in, in prostate cancer,  for example."
+    },
+    {
+      "start_seconds": 473.4,
+      "end_seconds": 477.24,
+      "speaker": null,
+      "text": "You can then ask why is the PSMA overexpressed?"
+    },
+    {
+      "start_seconds": 478.52,
+      "end_seconds": 481.24,
+      "speaker": null,
+      "text": "And it's funny, 'cause it  becomes a circular answer."
+    },
+    {
+      "start_seconds": 481.24,
+      "end_seconds": 484.84,
+      "speaker": null,
+      "text": "It's, it's, well, it's because  cancer, prostate cancer cells"
+    },
+    {
+      "start_seconds": 485.16,
+      "end_seconds": 487.56,
+      "speaker": null,
+      "text": "make it and, and you know,  that's how we identify them."
+    },
+    {
+      "start_seconds": 488.28,
+      "end_seconds": 492.2,
+      "speaker": null,
+      "text": "And, and I have to say that no,  it's not there for you."
+    },
+    {
+      "start_seconds": 493.2,
+      "end_seconds": 497.64,
+      "speaker": null,
+      "text": "It's there because it's, it's,  it's increasing the fitness of"
+    },
+    {
+      "start_seconds": 497.64,
+      "end_seconds": 500.68,
+      "speaker": null,
+      "text": "the cancer cell.  Your job is to understand then"
+    },
+    {
+      "start_seconds": 500.68,
+      "end_seconds": 505.2,
+      "speaker": null,
+      "text": "why PSMA is, is, is increasing  the fitness."
+    },
+    {
+      "start_seconds": 506.0,
+      "end_seconds": 509.92,
+      "speaker": null,
+      "text": "It's nice to say that you can  use that as a, as a diagnostic"
+    },
+    {
+      "start_seconds": 509.92,
+      "end_seconds": 512.44,
+      "speaker": null,
+      "text": "tool.  You know, Gatta 3 increased"
+    },
+    {
+      "start_seconds": 512.679,
+      "end_seconds": 517.32,
+      "speaker": null,
+      "text": "expression in, you know, as a,  as a marker for breast cancer."
+    },
+    {
+      "start_seconds": 517.84,
+      "end_seconds": 521.12,
+      "speaker": null,
+      "text": "But but but it's also evolution  telling you this is really"
+    },
+    {
+      "start_seconds": 521.12,
+      "end_seconds": 525.8,
+      "speaker": null,
+      "text": "important and that that that  connection is often not not"
+    },
+    {
+      "start_seconds": 525.8,
+      "end_seconds": 529.44,
+      "speaker": null,
+      "text": "made, I think.  Interesting."
+    },
+    {
+      "start_seconds": 529.44,
+      "end_seconds": 532.88,
+      "speaker": null,
+      "text": "So instead of seeing the  hallmarks of cancer as static,"
+    },
+    {
+      "start_seconds": 532.88,
+      "end_seconds": 538.48,
+      "speaker": null,
+      "text": "dysregulated traits, you instead see them as traits that evolve"
+    },
+    {
+      "start_seconds": 538.6,
+      "end_seconds": 541.76,
+      "speaker": null,
+      "text": "to enhance the fitness of the  cancer cells in order to allow"
+    },
+    {
+      "start_seconds": 541.76,
+      "end_seconds": 545.8,
+      "speaker": null,
+      "text": "them to spread further.  Yes, this is evolution's message"
+    },
+    {
+      "start_seconds": 545.8,
+      "end_seconds": 549.32,
+      "speaker": null,
+      "text": "to us.  Evolution is telling us this is"
+    },
+    {
+      "start_seconds": 549.32,
+      "end_seconds": 551.88,
+      "speaker": null,
+      "text": "what's important for cancer.  This is what's necessary to"
+    },
+    {
+      "start_seconds": 551.88,
+      "end_seconds": 554.32,
+      "speaker": null,
+      "text": "optimize its fitness, which  means to optimize its"
+    },
+    {
+      "start_seconds": 554.32,
+      "end_seconds": 556.96,
+      "speaker": null,
+      "text": "proliferation.  We should listen to evolution"
+    },
+    {
+      "start_seconds": 557.28,
+      "end_seconds": 561.36,
+      "speaker": null,
+      "text": "more than we do.  And, and you know, we, we talk"
+    },
+    {
+      "start_seconds": 561.36,
+      "end_seconds": 566.32,
+      "speaker": null,
+      "text": "about mutations and, and, and  clearly if you see mutations in"
+    },
+    {
+      "start_seconds": 566.32,
+      "end_seconds": 570.08,
+      "speaker": null,
+      "text": "a lot of the cancer cells, then  that's that mutation is"
+    },
+    {
+      "start_seconds": 570.08,
+      "end_seconds": 573.44,
+      "speaker": null,
+      "text": "optimizing fitness.  But the opposite is also true."
+    },
+    {
+      "start_seconds": 573.76,
+      "end_seconds": 577.12,
+      "speaker": null,
+      "text": "If you don't see mutations in  the cancer cell in certain"
+    },
+    {
+      "start_seconds": 577.12,
+      "end_seconds": 580.8,
+      "speaker": null,
+      "text": "genes, those genes are necessary for fitness."
+    },
+    {
+      "start_seconds": 581.16,
+      "end_seconds": 584.24,
+      "speaker": null,
+      "text": "And although we always talk  about drugging, you know,"
+    },
+    {
+      "start_seconds": 584.96,
+      "end_seconds": 588.68,
+      "speaker": null,
+      "text": "mutations, I think, and we have  some math models that have"
+    },
+    {
+      "start_seconds": 588.68,
+      "end_seconds": 592.6,
+      "speaker": null,
+      "text": "looked at this, is that actually targeting the, the, the genes"
+    },
+    {
+      "start_seconds": 592.6,
+      "end_seconds": 597.2,
+      "speaker": null,
+      "text": "that are conserved is probably a more effective way to, to treat"
+    },
+    {
+      "start_seconds": 598.24,
+      "end_seconds": 602.96,
+      "speaker": null,
+      "text": "than, than the mutations cause  those are unconditionally"
+    },
+    {
+      "start_seconds": 602.96,
+      "end_seconds": 606.6,
+      "speaker": null,
+      "text": "necessary for, for optimal  cancer cell fitness."
+    },
+    {
+      "start_seconds": 608.04,
+      "end_seconds": 610.56,
+      "speaker": null,
+      "text": "Why do you say that?  What does it mean to treat the"
+    },
+    {
+      "start_seconds": 610.56,
+      "end_seconds": 615.88,
+      "speaker": null,
+      "text": "genes that are not affected?  So what that tells you is that"
+    },
+    {
+      "start_seconds": 615.92,
+      "end_seconds": 619.64,
+      "speaker": null,
+      "text": "if, if you assume that all the,  all the genes are undergoing"
+    },
+    {
+      "start_seconds": 619.68,
+      "end_seconds": 625.48,
+      "speaker": null,
+      "text": "random mutations, they then  undergo what we've called"
+    },
+    {
+      "start_seconds": 625.48,
+      "end_seconds": 629.84,
+      "speaker": null,
+      "text": "evolutionary triage, meaning  that this if, if they increase"
+    },
+    {
+      "start_seconds": 629.84,
+      "end_seconds": 631.4,
+      "speaker": null,
+      "text": "fitness, the cell will  prophyrate."
+    },
+    {
+      "start_seconds": 632.32,
+      "end_seconds": 635.12,
+      "speaker": null,
+      "text": "If they decrease fitness, the  cell will not proliferate."
+    },
+    {
+      "start_seconds": 635.68,
+      "end_seconds": 639.64,
+      "speaker": null,
+      "text": "So over time, what you'll see is that any mutation in that gene"
+    },
+    {
+      "start_seconds": 640.04,
+      "end_seconds": 644.08,
+      "speaker": null,
+      "text": "is, is selected out, meaning  that evolution is telling you"
+    },
+    {
+      "start_seconds": 644.4,
+      "end_seconds": 648.48,
+      "speaker": null,
+      "text": "that that that a mutation in  those in that gene decreases"
+    },
+    {
+      "start_seconds": 648.48,
+      "end_seconds": 651.32,
+      "speaker": null,
+      "text": "fitness.  Evolution does not want that"
+    },
+    {
+      "start_seconds": 651.32,
+      "end_seconds": 658.04,
+      "speaker": null,
+      "text": "that gene has to work perfectly. And so attacking that gene is"
+    },
+    {
+      "start_seconds": 658.04,
+      "end_seconds": 660.2,
+      "speaker": null,
+      "text": "attacking something that's very  important to the cancer."
+    },
+    {
+      "start_seconds": 664.36,
+      "end_seconds": 666.72,
+      "speaker": null,
+      "text": "Right, I see.  OK, this this maybe."
+    },
+    {
+      "start_seconds": 666.72,
+      "end_seconds": 669.76,
+      "speaker": null,
+      "text": "Does this feed into some of the  atavistic theory of cancer as"
+    },
+    {
+      "start_seconds": 669.76,
+      "end_seconds": 672.68,
+      "speaker": null,
+      "text": "well, in terms of attacking some of the weaknesses of cancer"
+    },
+    {
+      "start_seconds": 672.68,
+      "end_seconds": 674.04,
+      "speaker": null,
+      "text": "instead of the strengths of  cancer?"
+    },
+    {
+      "start_seconds": 675.76,
+      "end_seconds": 681.36,
+      "speaker": null,
+      "text": "I, I think it does the, you  know, the atavistic theory is"
+    },
+    {
+      "start_seconds": 681.36,
+      "end_seconds": 687.6,
+      "speaker": null,
+      "text": "that cancer sort of becomes more primitive and, and there's"
+    },
+    {
+      "start_seconds": 687.6,
+      "end_seconds": 690.6,
+      "speaker": null,
+      "text": "something that's slightly  pejorative about that, you know,"
+    },
+    {
+      "start_seconds": 690.6,
+      "end_seconds": 692.36,
+      "speaker": null,
+      "text": "way of looking at it.  Oh, they're primitive self."
+    },
+    {
+      "start_seconds": 693.24,
+      "end_seconds": 696.28,
+      "speaker": null,
+      "text": "In fact, they've evolved to a  very high state of fitness."
+    },
+    {
+      "start_seconds": 697.48,
+      "end_seconds": 701.64,
+      "speaker": null,
+      "text": "So, so I sort of admire them.  You know, I mean, as, as a,"
+    },
+    {
+      "start_seconds": 701.92,
+      "end_seconds": 705.6,
+      "speaker": null,
+      "text": "they're, they're deadly, but  beautiful evolutionary"
+    },
+    {
+      "start_seconds": 705.6,
+      "end_seconds": 708.72,
+      "speaker": null,
+      "text": "processes.  They, they, they can basically"
+    },
+    {
+      "start_seconds": 708.72,
+      "end_seconds": 710.8,
+      "speaker": null,
+      "text": "withstand almost anything we can throw at them."
+    },
+    {
+      "start_seconds": 712.24,
+      "end_seconds": 717.28,
+      "speaker": null,
+      "text": "So Atavistics feels like, it's  like it's we're, we're"
+    },
+    {
+      "start_seconds": 717.44,
+      "end_seconds": 724.44,
+      "speaker": null,
+      "text": "minimizing the, the, the  complexity of cancers."
+    },
+    {
+      "start_seconds": 726.68,
+      "end_seconds": 730.64,
+      "speaker": null,
+      "text": "Taking this fitness function  forward, is it fair to view that"
+    },
+    {
+      "start_seconds": 730.76,
+      "end_seconds": 735.08,
+      "speaker": null,
+      "text": "saying normal cells, there's a  degree of cooperation, right,"
+    },
+    {
+      "start_seconds": 735.08,
+      "end_seconds": 739.16,
+      "speaker": null,
+      "text": "for them to function?  And then the cancer cell, it"
+    },
+    {
+      "start_seconds": 739.16,
+      "end_seconds": 744.12,
+      "speaker": null,
+      "text": "becomes this individual cell  that starts off as an individual"
+    },
+    {
+      "start_seconds": 744.12,
+      "end_seconds": 749.56,
+      "speaker": null,
+      "text": "cell and then it become it.  It adapts these functions to"
+    },
+    {
+      "start_seconds": 749.56,
+      "end_seconds": 752.72,
+      "speaker": null,
+      "text": "gain cooperation again, but it's a different level of cooperation"
+    },
+    {
+      "start_seconds": 752.72,
+      "end_seconds": 756.24,
+      "speaker": null,
+      "text": "now at this point.  Yeah, I the the word cooperation"
+    },
+    {
+      "start_seconds": 756.24,
+      "end_seconds": 761.52,
+      "speaker": null,
+      "text": "is so is so anthropomorphic that it's it's it's I think you have"
+    },
+    {
+      "start_seconds": 761.52,
+      "end_seconds": 766.96,
+      "speaker": null,
+      "text": "to be careful about using that  the the evolutionary biologists"
+    },
+    {
+      "start_seconds": 766.96,
+      "end_seconds": 771.88,
+      "speaker": null,
+      "text": "tend to use the word mutualism  or something like herd effects."
+    },
+    {
+      "start_seconds": 771.88,
+      "end_seconds": 775.4,
+      "speaker": null,
+      "text": "So for example, herd effects  being I guess the most obvious"
+    },
+    {
+      "start_seconds": 775.64,
+      "end_seconds": 780.08,
+      "speaker": null,
+      "text": "one where you know these animals individually are the are the"
+    },
+    {
+      "start_seconds": 780.08,
+      "end_seconds": 784.72,
+      "speaker": null,
+      "text": "unit of selection.  But groups of animals can act in"
+    },
+    {
+      "start_seconds": 784.72,
+      "end_seconds": 792.32,
+      "speaker": null,
+      "text": "a way that protects them all.  And so groups of cancer cells"
+    },
+    {
+      "start_seconds": 792.32,
+      "end_seconds": 795.88,
+      "speaker": null,
+      "text": "need to have at least a loose  affiliation to to work."
+    },
+    {
+      "start_seconds": 795.88,
+      "end_seconds": 800.56,
+      "speaker": null,
+      "text": "So, for example, to be cancer  cells need blood vessels, but"
+    },
+    {
+      "start_seconds": 800.56,
+      "end_seconds": 804.96,
+      "speaker": null,
+      "text": "it's probable that one cancer  cell cannot produce enough"
+    },
+    {
+      "start_seconds": 805.64,
+      "end_seconds": 809.68,
+      "speaker": null,
+      "text": "angiogenic, you know, molecules  to to to bring those in."
+    },
+    {
+      "start_seconds": 809.68,
+      "end_seconds": 811.88,
+      "speaker": null,
+      "text": "So, so the whole group has to do it."
+    },
+    {
+      "start_seconds": 813.64,
+      "end_seconds": 815.48,
+      "speaker": null,
+      "text": "Now then there's cheating that  can occur."
+    },
+    {
+      "start_seconds": 815.48,
+      "end_seconds": 819.92,
+      "speaker": null,
+      "text": "So you can that, you know, a  someone in in this group can"
+    },
+    {
+      "start_seconds": 820.04,
+      "end_seconds": 824.36,
+      "speaker": null,
+      "text": "that's getting blood vessels in  can decide not to have not to"
+    },
+    {
+      "start_seconds": 824.36,
+      "end_seconds": 827.8,
+      "speaker": null,
+      "text": "make GEDF, for example.  And so now it's getting the"
+    },
+    {
+      "start_seconds": 827.8,
+      "end_seconds": 831.16,
+      "speaker": null,
+      "text": "benefit of the group, but not  giving, you know, paying, not"
+    },
+    {
+      "start_seconds": 831.16,
+      "end_seconds": 837.6,
+      "speaker": null,
+      "text": "paying its, its due cost.  And, and so these are, these can"
+    },
+    {
+      "start_seconds": 837.6,
+      "end_seconds": 842.68,
+      "speaker": null,
+      "text": "be very complicated dynamics,  but, but the word cooperation,"
+    },
+    {
+      "start_seconds": 843.24,
+      "end_seconds": 846.68,
+      "speaker": null,
+      "text": "the, the word cooperation  implies sentience, you know,"
+    },
+    {
+      "start_seconds": 846.68,
+      "end_seconds": 848.88,
+      "speaker": null,
+      "text": "that there's some thinking  that's going on."
+    },
+    {
+      "start_seconds": 849.36,
+      "end_seconds": 853.04,
+      "speaker": null,
+      "text": "And I think we should, I, I tend to like to avoid that."
+    },
+    {
+      "start_seconds": 854.24,
+      "end_seconds": 857.68,
+      "speaker": null,
+      "text": "One of the things that, that  I've noticed in working with"
+    },
+    {
+      "start_seconds": 857.68,
+      "end_seconds": 861.48,
+      "speaker": null,
+      "text": "oncologists is that there's  almost a tendency to think"
+    },
+    {
+      "start_seconds": 861.48,
+      "end_seconds": 865.24,
+      "speaker": null,
+      "text": "magically about the cancer that  somehow it can, it's, it's,"
+    },
+    {
+      "start_seconds": 865.56,
+      "end_seconds": 868.0,
+      "speaker": null,
+      "text": "these are plotting against you  and they, and they, you know,"
+    },
+    {
+      "start_seconds": 868.0,
+      "end_seconds": 871.32,
+      "speaker": null,
+      "text": "has a remarkable capacity to  overcome your therapy."
+    },
+    {
+      "start_seconds": 871.76,
+      "end_seconds": 874.28,
+      "speaker": null,
+      "text": "And, and they said there must be some inherent evil in it."
+    },
+    {
+      "start_seconds": 874.48,
+      "end_seconds": 880.28,
+      "speaker": null,
+      "text": "And, and I, I think it's, it's,  it's more mundane than that, but"
+    },
+    {
+      "start_seconds": 880.28,
+      "end_seconds": 883.0,
+      "speaker": null,
+      "text": "it's not playing.  They're not sitting down there,"
+    },
+    {
+      "start_seconds": 883.0,
+      "end_seconds": 885.6,
+      "speaker": null,
+      "text": "you know, like, Gee, what let's, how can I get around this?"
+    },
+    {
+      "start_seconds": 886.44,
+      "end_seconds": 889.16,
+      "speaker": null,
+      "text": "But they are extraordinarily  powerful because they have the"
+    },
+    {
+      "start_seconds": 889.16,
+      "end_seconds": 894.76,
+      "speaker": null,
+      "text": "whole human genome to to bring  to bear on whatever evolutionary"
+    },
+    {
+      "start_seconds": 894.76,
+      "end_seconds": 899.68,
+      "speaker": null,
+      "text": "problem they face.  Mike, you often talk about"
+    },
+    {
+      "start_seconds": 900.2,
+      "end_seconds": 905.44,
+      "speaker": null,
+      "text": "cancer as dissociating from the  collective behavior of cells or"
+    },
+    {
+      "start_seconds": 905.44,
+      "end_seconds": 908.28,
+      "speaker": null,
+      "text": "the tumor cells.  So what are your thoughts here"
+    },
+    {
+      "start_seconds": 908.28,
+      "end_seconds": 911.8,
+      "speaker": null,
+      "text": "with the herd behavior and  evolutionary processes?"
+    },
+    {
+      "start_seconds": 912.6,
+      "end_seconds": 915.24,
+      "speaker": null,
+      "text": "I have a couple of, a couple of  things to to talk about."
+    },
+    {
+      "start_seconds": 915.64,
+      "end_seconds": 919.16,
+      "speaker": null,
+      "text": "I think, I think one thing I'd  love to dig into a little more"
+    },
+    {
+      "start_seconds": 919.16,
+      "end_seconds": 922.96,
+      "speaker": null,
+      "text": "is the, the notion of, of stress initiating these processes."
+    },
+    {
+      "start_seconds": 923.64,
+      "end_seconds": 928.72,
+      "speaker": null,
+      "text": "And you know, there's a, there's a particular kind."
+    },
+    {
+      "start_seconds": 928.72,
+      "end_seconds": 930.28,
+      "speaker": null,
+      "text": "And so you mentioned tissue  level stress."
+    },
+    {
+      "start_seconds": 930.28,
+      "end_seconds": 933.0,
+      "speaker": null,
+      "text": "And so it was one of my favorite examples from our developmental"
+    },
+    {
+      "start_seconds": 933.0,
+      "end_seconds": 936.4,
+      "speaker": null,
+      "text": "biology world is this old, old  finding that when you take a,"
+    },
+    {
+      "start_seconds": 936.4,
+      "end_seconds": 940.56,
+      "speaker": null,
+      "text": "when you take a tail of a of a  Newt and you graft it to the"
+    },
+    {
+      "start_seconds": 940.56,
+      "end_seconds": 943.76,
+      "speaker": null,
+      "text": "flank, to the side, the thing  turns into a limb."
+    },
+    {
+      "start_seconds": 944.08,
+      "end_seconds": 947.16,
+      "speaker": null,
+      "text": "And if you look at the cells at  the very end of the tail,"
+    },
+    {
+      "start_seconds": 947.6,
+      "end_seconds": 950.44,
+      "speaker": null,
+      "text": "they're tail tip cells sitting  at the end of a tail."
+    },
+    {
+      "start_seconds": 950.44,
+      "end_seconds": 952.52,
+      "speaker": null,
+      "text": "There's nothing locally wrong.  Nobody's poisoned, nobody's"
+    },
+    {
+      "start_seconds": 952.52,
+      "end_seconds": 955.24,
+      "speaker": null,
+      "text": "damaged.  And yet they completely remodel"
+    },
+    {
+      "start_seconds": 955.92,
+      "end_seconds": 957.56,
+      "speaker": null,
+      "text": "this.  You know, the, the issue isn't"
+    },
+    {
+      "start_seconds": 957.56,
+      "end_seconds": 960.0,
+      "speaker": null,
+      "text": "that the cell level, it's at a  much, it's at a much higher"
+    },
+    {
+      "start_seconds": 960.0,
+      "end_seconds": 962.96,
+      "speaker": null,
+      "text": "level, but then filters down and makes the molecular biology"
+    },
+    {
+      "start_seconds": 962.96,
+      "end_seconds": 965.88,
+      "speaker": null,
+      "text": "dance to this, to this, to this  higher level of error."
+    },
+    {
+      "start_seconds": 966.36,
+      "end_seconds": 970.48,
+      "speaker": null,
+      "text": "So, so my question is, what  typically do you think that"
+    },
+    {
+      "start_seconds": 970.48,
+      "end_seconds": 974.32,
+      "speaker": null,
+      "text": "cells are measuring that leads  them to be unhappy enough to"
+    },
+    {
+      "start_seconds": 974.32,
+      "end_seconds": 977.68,
+      "speaker": null,
+      "text": "break the multicellularity  contract and say, you know what,"
+    },
+    {
+      "start_seconds": 977.68,
+      "end_seconds": 980.08,
+      "speaker": null,
+      "text": "this isn't working out for me.  I'm going on my own like, what's"
+    },
+    {
+      "start_seconds": 980.08,
+      "end_seconds": 982.24,
+      "speaker": null,
+      "text": "the, what is it?  Is it metabolic?"
+    },
+    {
+      "start_seconds": 982.24,
+      "end_seconds": 984.24,
+      "speaker": null,
+      "text": "Is it like what, what usually  triggers this stuff?"
+    },
+    {
+      "start_seconds": 984.24,
+      "end_seconds": 987.2,
+      "speaker": null,
+      "text": "And do we know?  It's a great question because"
+    },
+    {
+      "start_seconds": 987.8,
+      "end_seconds": 991.4,
+      "speaker": null,
+      "text": "I'm not really sure.  I mean, and, and we've, we've"
+    },
+    {
+      "start_seconds": 991.4,
+      "end_seconds": 994.96,
+      "speaker": null,
+      "text": "talked about this a little bit.  I mean, the, the, there's this"
+    },
+    {
+      "start_seconds": 994.96,
+      "end_seconds": 999.16,
+      "speaker": null,
+      "text": "tendency to, to think about  diffusing hormones and diffusing"
+    },
+    {
+      "start_seconds": 999.16,
+      "end_seconds": 1003.6,
+      "speaker": null,
+      "text": "signaling molecules and, and  receptors and things that seems"
+    },
+    {
+      "start_seconds": 1004.4,
+      "end_seconds": 1009.44,
+      "speaker": null,
+      "text": "to be nowhere near enough to,  to, to, to, to get the level of"
+    },
+    {
+      "start_seconds": 1009.44,
+      "end_seconds": 1011.84,
+      "speaker": null,
+      "text": "complexity that you see in  cells."
+    },
+    {
+      "start_seconds": 1011.84,
+      "end_seconds": 1014.84,
+      "speaker": null,
+      "text": "I mean, they, they in tissue.  I mean, it's not, it's their"
+    },
+    {
+      "start_seconds": 1014.84,
+      "end_seconds": 1017.16,
+      "speaker": null,
+      "text": "location, it's their phenotype.  I mean, there's this"
+    },
+    {
+      "start_seconds": 1017.24,
+      "end_seconds": 1021.24,
+      "speaker": null,
+      "text": "extraordinary synchronization of all this."
+    },
+    {
+      "start_seconds": 1023.24,
+      "end_seconds": 1028.079,
+      "speaker": null,
+      "text": "I, I tend to think that and, and Mike, we've, we've talked about"
+    },
+    {
+      "start_seconds": 1028.079,
+      "end_seconds": 1032.64,
+      "speaker": null,
+      "text": "this, that, that, that, that  actually we're missing the a key"
+    },
+    {
+      "start_seconds": 1034.56,
+      "end_seconds": 1037.16,
+      "speaker": null,
+      "text": "information dynamic in, in  cells."
+    },
+    {
+      "start_seconds": 1037.16,
+      "end_seconds": 1040.56,
+      "speaker": null,
+      "text": "And that is the I, I, I guess  you would probably call it"
+    },
+    {
+      "start_seconds": 1040.56,
+      "end_seconds": 1043.72,
+      "speaker": null,
+      "text": "electricity.  I I would maybe say ions that"
+    },
+    {
+      "start_seconds": 1043.72,
+      "end_seconds": 1050.04,
+      "speaker": null,
+      "text": "there's communication that goes  on that's not genetic that that"
+    },
+    {
+      "start_seconds": 1050.24,
+      "end_seconds": 1054.32,
+      "speaker": null,
+      "text": "is and that is fundamentally  important."
+    },
+    {
+      "start_seconds": 1054.32,
+      "end_seconds": 1059.52,
+      "speaker": null,
+      "text": "I, I think it was, I don't, no,  if you remember this, this era,"
+    },
+    {
+      "start_seconds": 1059.52,
+      "end_seconds": 1063.8,
+      "speaker": null,
+      "text": "but when the human genome was,  was being deciphered, there was"
+    },
+    {
+      "start_seconds": 1063.8,
+      "end_seconds": 1070.0,
+      "speaker": null,
+      "text": "a, a, a, a contest and there was a, this was a around the world."
+    },
+    {
+      "start_seconds": 1070.4,
+      "end_seconds": 1072.88,
+      "speaker": null,
+      "text": "Scientists from over the world  could put in."
+    },
+    {
+      "start_seconds": 1073.84,
+      "end_seconds": 1076.68,
+      "speaker": null,
+      "text": "They would bet it was a, a pool. And in fact, I think it was"
+    },
+    {
+      "start_seconds": 1076.68,
+      "end_seconds": 1081.56,
+      "speaker": null,
+      "text": "called the gene pool.  And they, they put in, each of"
+    },
+    {
+      "start_seconds": 1081.56,
+      "end_seconds": 1085.44,
+      "speaker": null,
+      "text": "them put in, I don't know, $20  and they bet what the number of"
+    },
+    {
+      "start_seconds": 1085.44,
+      "end_seconds": 1089.2,
+      "speaker": null,
+      "text": "human, how many genes would be  in the human genome."
+    },
+    {
+      "start_seconds": 1090.92,
+      "end_seconds": 1097.48,
+      "speaker": null,
+      "text": "And four or 500 scientists  across the world took part in"
+    },
+    {
+      "start_seconds": 1097.48,
+      "end_seconds": 1099.48,
+      "speaker": null,
+      "text": "this.  And basically none of them are"
+    },
+    {
+      "start_seconds": 1099.48,
+      "end_seconds": 1102.64,
+      "speaker": null,
+      "text": "right.  The, the, the, they, they"
+    },
+    {
+      "start_seconds": 1102.64,
+      "end_seconds": 1109.12,
+      "speaker": null,
+      "text": "measure the, the mean estimate  was about I think 6070 thousand"
+    },
+    {
+      "start_seconds": 1109.12,
+      "end_seconds": 1111.64,
+      "speaker": null,
+      "text": "genes.  Upper ranges were in the"
+    },
+    {
+      "start_seconds": 1111.64,
+      "end_seconds": 1116.28,
+      "speaker": null,
+      "text": "300,000, the lowest was 27,000  and the number is it's under"
+    },
+    {
+      "start_seconds": 1116.28,
+      "end_seconds": 1122.12,
+      "speaker": null,
+      "text": "20,000.  And so David Baltimore wrote in"
+    },
+    {
+      "start_seconds": 1122.64,
+      "end_seconds": 1127.08,
+      "speaker": null,
+      "text": "a, a, an editorial with with in  that I think it was, I think it"
+    },
+    {
+      "start_seconds": 1127.08,
+      "end_seconds": 1131.96,
+      "speaker": null,
+      "text": "was published in Nature and said we need to understand this."
+    },
+    {
+      "start_seconds": 1132.12,
+      "end_seconds": 1135.2,
+      "speaker": null,
+      "text": "You know, if we believe that we  are the most complex of the"
+    },
+    {
+      "start_seconds": 1135.2,
+      "end_seconds": 1139.48,
+      "speaker": null,
+      "text": "organisms on earth, why is our  genome smaller than that of a"
+    },
+    {
+      "start_seconds": 1139.48,
+      "end_seconds": 1143.88,
+      "speaker": null,
+      "text": "mouse?  And, and I, I think the argument"
+    },
+    {
+      "start_seconds": 1144.2,
+      "end_seconds": 1147.68,
+      "speaker": null,
+      "text": "I would have is that it's  because the genome only"
+    },
+    {
+      "start_seconds": 1147.68,
+      "end_seconds": 1152.68,
+      "speaker": null,
+      "text": "indirectly controls the  information dynamics."
+    },
+    {
+      "start_seconds": 1152.96,
+      "end_seconds": 1158.96,
+      "speaker": null,
+      "text": "It sets up the, the dynamics  that are based on ion conduction"
+    },
+    {
+      "start_seconds": 1158.96,
+      "end_seconds": 1165.28,
+      "speaker": null,
+      "text": "and on electricity flow that  really are at the, at the basis"
+    },
+    {
+      "start_seconds": 1165.28,
+      "end_seconds": 1170.52,
+      "speaker": null,
+      "text": "of complexity and of these  interactions among cells."
+    },
+    {
+      "start_seconds": 1170.72,
+      "end_seconds": 1175.52,
+      "speaker": null,
+      "text": "And you know, one of the, what  to me is interesting is that"
+    },
+    {
+      "start_seconds": 1177.16,
+      "end_seconds": 1181.52,
+      "speaker": null,
+      "text": "that our cells have tremendous  transmembrane ion gradients."
+    },
+    {
+      "start_seconds": 1182.36,
+      "end_seconds": 1187.76,
+      "speaker": null,
+      "text": "They're they're enormous.  And mammalian cells spend about"
+    },
+    {
+      "start_seconds": 1187.76,
+      "end_seconds": 1191.44,
+      "speaker": null,
+      "text": "a third of their energy budget  maintaining these, which is"
+    },
+    {
+      "start_seconds": 1191.44,
+      "end_seconds": 1193.8,
+      "speaker": null,
+      "text": "about as much as they use  maintaining the genome."
+    },
+    {
+      "start_seconds": 1194.96,
+      "end_seconds": 1198.68,
+      "speaker": null,
+      "text": "Now you know, if you remember  the Watergate thing, you know"
+    },
+    {
+      "start_seconds": 1198.68,
+      "end_seconds": 1202.28,
+      "speaker": null,
+      "text": "you follow the money.  And I think in evolution, you"
+    },
+    {
+      "start_seconds": 1202.28,
+      "end_seconds": 1206.32,
+      "speaker": null,
+      "text": "follow the energy.  What evolution is telling you is"
+    },
+    {
+      "start_seconds": 1206.32,
+      "end_seconds": 1210.4,
+      "speaker": null,
+      "text": "that this transmembrane ion  gradient is really important."
+    },
+    {
+      "start_seconds": 1210.76,
+      "end_seconds": 1215.36,
+      "speaker": null,
+      "text": "It's so important that it, it  devotes A tremendous fraction of"
+    },
+    {
+      "start_seconds": 1215.36,
+      "end_seconds": 1219.52,
+      "speaker": null,
+      "text": "its annual of its energy budget. And yet we know no reason for"
+    },
+    {
+      "start_seconds": 1219.52,
+      "end_seconds": 1221.56,
+      "speaker": null,
+      "text": "that.  I mean, there it, it, it serves"
+    },
+    {
+      "start_seconds": 1221.56,
+      "end_seconds": 1225.72,
+      "speaker": null,
+      "text": "no apparent purpose in the  current sort of understanding of"
+    },
+    {
+      "start_seconds": 1225.72,
+      "end_seconds": 1228.64,
+      "speaker": null,
+      "text": "biology.  And, and what I think is that"
+    },
+    {
+      "start_seconds": 1228.64,
+      "end_seconds": 1236.08,
+      "speaker": null,
+      "text": "that's a tremendous a gradient  of information and, and cells"
+    },
+    {
+      "start_seconds": 1236.08,
+      "end_seconds": 1240.64,
+      "speaker": null,
+      "text": "interact with each other at  opening ion pores, which allows"
+    },
+    {
+      "start_seconds": 1240.64,
+      "end_seconds": 1247.08,
+      "speaker": null,
+      "text": "flux of ions across the these  gradients and those fluxes are"
+    },
+    {
+      "start_seconds": 1247.08,
+      "end_seconds": 1252.88,
+      "speaker": null,
+      "text": "information.  And that another interesting,"
+    },
+    {
+      "start_seconds": 1252.88,
+      "end_seconds": 1257.6,
+      "speaker": null,
+      "text": "you know, factoid is that  elements of the cytoskele are"
+    },
+    {
+      "start_seconds": 1257.6,
+      "end_seconds": 1261.16,
+      "speaker": null,
+      "text": "tremendous ion conductors.  I mean, they're really, really"
+    },
+    {
+      "start_seconds": 1261.16,
+      "end_seconds": 1262.24,
+      "speaker": null,
+      "text": "good.  I mean, they, they're, they're"
+    },
+    {
+      "start_seconds": 1262.24,
+      "end_seconds": 1267.16,
+      "speaker": null,
+      "text": "described as living wires.  Why is that the case?"
+    },
+    {
+      "start_seconds": 1267.16,
+      "end_seconds": 1270.36,
+      "speaker": null,
+      "text": "And, and, and, and you know,  again, there should be a purpose"
+    },
+    {
+      "start_seconds": 1270.36,
+      "end_seconds": 1274.0,
+      "speaker": null,
+      "text": "to that evolution doesn't do  things with no purpose."
+    },
+    {
+      "start_seconds": 1274.68,
+      "end_seconds": 1279.72,
+      "speaker": null,
+      "text": "And, and I think that that is,  is sort of a kind of wiring that"
+    },
+    {
+      "start_seconds": 1279.8,
+      "end_seconds": 1284.16,
+      "speaker": null,
+      "text": "of that allows ion flows across  the cell to communicate within"
+    },
+    {
+      "start_seconds": 1284.16,
+      "end_seconds": 1287.8,
+      "speaker": null,
+      "text": "the cell.  And then I think Mike does a lot"
+    },
+    {
+      "start_seconds": 1287.8,
+      "end_seconds": 1291.44,
+      "speaker": null,
+      "text": "of work without cells  communicate among themselves,"
+    },
+    {
+      "start_seconds": 1292.8,
+      "end_seconds": 1298.52,
+      "speaker": null,
+      "text": "all of which is through ions  kind of connectivity and stuff."
+    },
+    {
+      "start_seconds": 1298.92,
+      "end_seconds": 1300.6,
+      "speaker": null,
+      "text": "There's, there's no genetics in  that."
+    },
+    {
+      "start_seconds": 1300.6,
+      "end_seconds": 1306.48,
+      "speaker": null,
+      "text": "The, the, the genes set up, the, the dynamics that allows the,"
+    },
+    {
+      "start_seconds": 1306.52,
+      "end_seconds": 1308.64,
+      "speaker": null,
+      "text": "they, they make the pumps, they  make the pores."
+    },
+    {
+      "start_seconds": 1308.64,
+      "end_seconds": 1315.4,
+      "speaker": null,
+      "text": "And this, this is necessary for  this other information dynamic,"
+    },
+    {
+      "start_seconds": 1315.4,
+      "end_seconds": 1319.2,
+      "speaker": null,
+      "text": "but I think it's an information  dynamic that has been sort of"
+    },
+    {
+      "start_seconds": 1319.2,
+      "end_seconds": 1323.6,
+      "speaker": null,
+      "text": "missed over the, the years, or  at least it's hinted at, but"
+    },
+    {
+      "start_seconds": 1323.6,
+      "end_seconds": 1327.24,
+      "speaker": null,
+      "text": "not, or, or let's say it's not,  not necessarily in the"
+    },
+    {
+      "start_seconds": 1327.24,
+      "end_seconds": 1332.48,
+      "speaker": null,
+      "text": "mainstream of biology.  And, and I, and so I, I think"
+    },
+    {
+      "start_seconds": 1332.48,
+      "end_seconds": 1335.96,
+      "speaker": null,
+      "text": "that to understand  multicellularity and multicent"
+    },
+    {
+      "start_seconds": 1336.36,
+      "end_seconds": 1340.08,
+      "speaker": null,
+      "text": "and complexity, I think we need  to invoke a different"
+    },
+    {
+      "start_seconds": 1340.4,
+      "end_seconds": 1346.44,
+      "speaker": null,
+      "text": "information dynamic, you know,  going beyond the genome."
+    },
+    {
+      "start_seconds": 1347.28,
+      "end_seconds": 1349.88,
+      "speaker": null,
+      "text": "Yeah, yeah, for sure.  Do you want to talk a little bit"
+    },
+    {
+      "start_seconds": 1349.88,
+      "end_seconds": 1354.32,
+      "speaker": null,
+      "text": "about your, your recent paper on the, on the computations in the"
+    },
+    {
+      "start_seconds": 1355.32,
+      "end_seconds": 1358.08,
+      "speaker": null,
+      "text": "in the networks within cells, I  thought was was incredibly"
+    },
+    {
+      "start_seconds": 1358.08,
+      "end_seconds": 1359.52,
+      "speaker": null,
+      "text": "interesting.  Do you want to talk about that a"
+    },
+    {
+      "start_seconds": 1359.52,
+      "end_seconds": 1362.16,
+      "speaker": null,
+      "text": "little bit?  Well, it really goes to that."
+    },
+    {
+      "start_seconds": 1362.2,
+      "end_seconds": 1368.36,
+      "speaker": null,
+      "text": "That idea is that, and, and I, I don't know if it, it may be"
+    },
+    {
+      "start_seconds": 1368.6,
+      "end_seconds": 1370.88,
+      "speaker": null,
+      "text": "going off the deep end here, but there's something called"
+    },
+    {
+      "start_seconds": 1370.88,
+      "end_seconds": 1374.72,
+      "speaker": null,
+      "text": "Maxwell's demon.  And if you're familiar with"
+    },
+    {
+      "start_seconds": 1374.72,
+      "end_seconds": 1380.52,
+      "speaker": null,
+      "text": "that, Maxwell proposed this  Pedonkan immunity thought"
+    },
+    {
+      "start_seconds": 1380.52,
+      "end_seconds": 1383.64,
+      "speaker": null,
+      "text": "experiment.  This was in the, the mid to late"
+    },
+    {
+      "start_seconds": 1383.84,
+      "end_seconds": 1387.96,
+      "speaker": null,
+      "text": "19th century and is when  thermodynamics and both Swan"
+    },
+    {
+      "start_seconds": 1388.24,
+      "end_seconds": 1391.08,
+      "speaker": null,
+      "text": "kinetics were being discovered  sort of simultaneously."
+    },
+    {
+      "start_seconds": 1391.64,
+      "end_seconds": 1395.36,
+      "speaker": null,
+      "text": "And what he said was that  suppose you, you have a, you"
+    },
+    {
+      "start_seconds": 1395.36,
+      "end_seconds": 1398.96,
+      "speaker": null,
+      "text": "have two boxes with gases at the same temperature and there's a,"
+    },
+    {
+      "start_seconds": 1399.04,
+      "end_seconds": 1403.88,
+      "speaker": null,
+      "text": "there's a hole between them with a gate and a demon sits there."
+    },
+    {
+      "start_seconds": 1404.32,
+      "end_seconds": 1407.56,
+      "speaker": null,
+      "text": "And because the temperature that because in, in any given"
+    },
+    {
+      "start_seconds": 1407.56,
+      "end_seconds": 1410.16,
+      "speaker": null,
+      "text": "temperature, you have this  Boltzmann distribution of"
+    },
+    {
+      "start_seconds": 1410.16,
+      "end_seconds": 1414.08,
+      "speaker": null,
+      "text": "velocities.  And what he said the, the demon"
+    },
+    {
+      "start_seconds": 1414.08,
+      "end_seconds": 1418.88,
+      "speaker": null,
+      "text": "would open the, the gate if, if, if, if a high velocity molecule"
+    },
+    {
+      "start_seconds": 1418.88,
+      "end_seconds": 1421.92,
+      "speaker": null,
+      "text": "was, was coming toward it and  close it otherwise."
+    },
+    {
+      "start_seconds": 1422.16,
+      "end_seconds": 1425.2,
+      "speaker": null,
+      "text": "So essentially what he did was  to shift all of the high"
+    },
+    {
+      "start_seconds": 1425.2,
+      "end_seconds": 1429.04,
+      "speaker": null,
+      "text": "velocity molecules to 1 box and  the low velocity molecules to"
+    },
+    {
+      "start_seconds": 1429.04,
+      "end_seconds": 1432.64,
+      "speaker": null,
+      "text": "the to the other.  And basically, so this one box"
+    },
+    {
+      "start_seconds": 1432.64,
+      "end_seconds": 1435.76,
+      "speaker": null,
+      "text": "would be hotter than the other.  It would look like a spontaneous"
+    },
+    {
+      "start_seconds": 1435.76,
+      "end_seconds": 1440.6,
+      "speaker": null,
+      "text": "flow of heat in isothermal  between two systems of the same"
+    },
+    {
+      "start_seconds": 1440.6,
+      "end_seconds": 1442.68,
+      "speaker": null,
+      "text": "temperature.  It's also a spontaneous"
+    },
+    {
+      "start_seconds": 1442.68,
+      "end_seconds": 1448.88,
+      "speaker": null,
+      "text": "reduction in entropy.  And he said this, he viewed this"
+    },
+    {
+      "start_seconds": 1448.88,
+      "end_seconds": 1452.0,
+      "speaker": null,
+      "text": "as a as a violation of the  second law of thermodynamics."
+    },
+    {
+      "start_seconds": 1452.36,
+      "end_seconds": 1456.72,
+      "speaker": null,
+      "text": "And it's been controversial ever since, but what it gave rise to"
+    },
+    {
+      "start_seconds": 1456.72,
+      "end_seconds": 1459.96,
+      "speaker": null,
+      "text": "in the wake in the early 20th  century is information theory,"
+    },
+    {
+      "start_seconds": 1460.2,
+      "end_seconds": 1462.6,
+      "speaker": null,
+      "text": "because what they said is the  demon has information."
+    },
+    {
+      "start_seconds": 1463.48,
+      "end_seconds": 1466.0,
+      "speaker": null,
+      "text": "And so that's become sort of a,  a, a link."
+    },
+    {
+      "start_seconds": 1468.8,
+      "end_seconds": 1473.84,
+      "speaker": null,
+      "text": "And there's what, So the, the,  the ion gradient across the cell"
+    },
+    {
+      "start_seconds": 1473.84,
+      "end_seconds": 1478.16,
+      "speaker": null,
+      "text": "membrane is similar to what the, what the, what the demon does,"
+    },
+    {
+      "start_seconds": 1478.16,
+      "end_seconds": 1484.8,
+      "speaker": null,
+      "text": "but in with, with velocities.  And what, what was really never"
+    },
+    {
+      "start_seconds": 1484.8,
+      "end_seconds": 1488.04,
+      "speaker": null,
+      "text": "appreciated is the fact that  you, once the demon has set up"
+    },
+    {
+      "start_seconds": 1488.04,
+      "end_seconds": 1494.0,
+      "speaker": null,
+      "text": "this gradient, you can have, you know, Maxwell's angels that can"
+    },
+    {
+      "start_seconds": 1494.0,
+      "end_seconds": 1497.44,
+      "speaker": null,
+      "text": "sit on the, on the looking out  for information coming from the,"
+    },
+    {
+      "start_seconds": 1499.24,
+      "end_seconds": 1502.64,
+      "speaker": null,
+      "text": "the environment.  And they can open a gate And now"
+    },
+    {
+      "start_seconds": 1503.04,
+      "end_seconds": 1507.68,
+      "speaker": null,
+      "text": "ions can flow down the this gate look according to the gradient"
+    },
+    {
+      "start_seconds": 1507.68,
+      "end_seconds": 1509.24,
+      "speaker": null,
+      "text": "and that is a flux of  information."
+    },
+    {
+      "start_seconds": 1510.56,
+      "end_seconds": 1517.4,
+      "speaker": null,
+      "text": "And so I, I think that's an  important part of the, of, of"
+    },
+    {
+      "start_seconds": 1517.4,
+      "end_seconds": 1519.56,
+      "speaker": null,
+      "text": "how cells interrogate their  environment."
+    },
+    {
+      "start_seconds": 1520.36,
+      "end_seconds": 1526.8,
+      "speaker": null,
+      "text": "And now the, the, the, the gross part of this at a, so there's"
+    },
+    {
+      "start_seconds": 1526.8,
+      "end_seconds": 1531.12,
+      "speaker": null,
+      "text": "this molecular level difference. These are the ion gradients, but"
+    },
+    {
+      "start_seconds": 1531.44,
+      "end_seconds": 1537.32,
+      "speaker": null,
+      "text": "they, they converge to make a  transmembrane potential."
+    },
+    {
+      "start_seconds": 1538.36,
+      "end_seconds": 1545.12,
+      "speaker": null,
+      "text": "And, and this is this is at the  border of ions."
+    },
+    {
+      "start_seconds": 1545.72,
+      "end_seconds": 1551.88,
+      "speaker": null,
+      "text": "And so you have this molecular  level dynamic and you have this"
+    },
+    {
+      "start_seconds": 1551.96,
+      "end_seconds": 1556.36,
+      "speaker": null,
+      "text": "bigger scale dynamic.  And for, for, for Maxwell's"
+    },
+    {
+      "start_seconds": 1556.84,
+      "end_seconds": 1561.44,
+      "speaker": null,
+      "text": "demon, it was really the gas  molecules and the as, as"
+    },
+    {
+      "start_seconds": 1561.6,
+      "end_seconds": 1566.32,
+      "speaker": null,
+      "text": "changing the Boltzmann kinetics  of each of the chambers, but"
+    },
+    {
+      "start_seconds": 1566.32,
+      "end_seconds": 1569.92,
+      "speaker": null,
+      "text": "manifesting as a thermodynamic  change."
+    },
+    {
+      "start_seconds": 1570.16,
+      "end_seconds": 1576.76,
+      "speaker": null,
+      "text": "That, that I think that that  intersection of, of, of"
+    },
+    {
+      "start_seconds": 1576.76,
+      "end_seconds": 1581.16,
+      "speaker": null,
+      "text": "microstates and macrostates is  kind of where information works."
+    },
+    {
+      "start_seconds": 1582.44,
+      "end_seconds": 1586.56,
+      "speaker": null,
+      "text": "In this case, the, the  information from the, from the"
+    },
+    {
+      "start_seconds": 1586.56,
+      "end_seconds": 1590.56,
+      "speaker": null,
+      "text": "genome pumps the ions against  the gradient using it, using"
+    },
+    {
+      "start_seconds": 1590.56,
+      "end_seconds": 1593.88,
+      "speaker": null,
+      "text": "energy.  You know, again, there's got to"
+    },
+    {
+      "start_seconds": 1593.88,
+      "end_seconds": 1596.16,
+      "speaker": null,
+      "text": "be a reason for that.  And I, I think what you can"
+    },
+    {
+      "start_seconds": 1596.4,
+      "end_seconds": 1600.6,
+      "speaker": null,
+      "text": "calculate the amount of  information within that by"
+    },
+    {
+      "start_seconds": 1600.6,
+      "end_seconds": 1606.6,
+      "speaker": null,
+      "text": "Shannon information criteria and it's enormous."
+    },
+    {
+      "start_seconds": 1607.56,
+      "end_seconds": 1610.72,
+      "speaker": null,
+      "text": "It's it's orders of magnitude  greater than the information"
+    },
+    {
+      "start_seconds": 1610.72,
+      "end_seconds": 1617.16,
+      "speaker": null,
+      "text": "content of the genome.  Yeah, yeah."
+    },
+    {
+      "start_seconds": 1618.6,
+      "end_seconds": 1621.68,
+      "speaker": null,
+      "text": "You know, another, another  interesting thing that you were"
+    },
+    {
+      "start_seconds": 1621.68,
+      "end_seconds": 1626.16,
+      "speaker": null,
+      "text": "mentioning before about aging  and we, we have this, we have"
+    },
+    {
+      "start_seconds": 1626.16,
+      "end_seconds": 1628.6,
+      "speaker": null,
+      "text": "this new.  So, so I think it might be, it"
+    },
+    {
+      "start_seconds": 1628.6,
+      "end_seconds": 1632.84,
+      "speaker": null,
+      "text": "might be relevant to this, this, this new, new work where, you"
+    },
+    {
+      "start_seconds": 1632.84,
+      "end_seconds": 1635.52,
+      "speaker": null,
+      "text": "know, we, we, we look at, at  morphogenesis as a kind of"
+    },
+    {
+      "start_seconds": 1637.24,
+      "end_seconds": 1641.08,
+      "speaker": null,
+      "text": "homeostatic process which tries  to minimize error from a, from a"
+    },
+    {
+      "start_seconds": 1641.08,
+      "end_seconds": 1645.4,
+      "speaker": null,
+      "text": "certain setpoint.  And we did this simulation where"
+    },
+    {
+      "start_seconds": 1646.2,
+      "end_seconds": 1651.08,
+      "speaker": null,
+      "text": "we looked at what happens to to  this goal seeking system in the"
+    },
+    {
+      "start_seconds": 1651.08,
+      "end_seconds": 1654.16,
+      "speaker": null,
+      "text": "cybernetic sense, right?  What happens to that system"
+    },
+    {
+      "start_seconds": 1654.16,
+      "end_seconds": 1657.56,
+      "speaker": null,
+      "text": "after it has completed its goal? What was it due after that?"
+    },
+    {
+      "start_seconds": 1657.92,
+      "end_seconds": 1662.8,
+      "speaker": null,
+      "text": "And what we found is that in the absence of any additional noise,"
+    },
+    {
+      "start_seconds": 1662.88,
+      "end_seconds": 1667.84,
+      "speaker": null,
+      "text": "thermodynamic, you know, the  damage, no entropic stuff at"
+    },
+    {
+      "start_seconds": 1667.84,
+      "end_seconds": 1670.56,
+      "speaker": null,
+      "text": "all.  Even without all of that stuff,"
+    },
+    {
+      "start_seconds": 1671.0,
+      "end_seconds": 1674.4,
+      "speaker": null,
+      "text": "what the morphogenetic system  does is it, it, it reaches its"
+    },
+    {
+      "start_seconds": 1674.4,
+      "end_seconds": 1676.04,
+      "speaker": null,
+      "text": "goal and it builds a nice  pattern."
+    },
+    {
+      "start_seconds": 1676.04,
+      "end_seconds": 1678.56,
+      "speaker": null,
+      "text": "So there's your embryo and then  it hangs out for a while."
+    },
+    {
+      "start_seconds": 1679.2,
+      "end_seconds": 1682.8,
+      "speaker": null,
+      "text": "And then, and then the cells  start to, it starts to disband."
+    },
+    {
+      "start_seconds": 1683.12,
+      "end_seconds": 1685.76,
+      "speaker": null,
+      "text": "The cells start to go off and do different things because that,"
+    },
+    {
+      "start_seconds": 1685.76,
+      "end_seconds": 1689.48,
+      "speaker": null,
+      "text": "that, that pressure to keep to,  to a like to upkeep a specific"
+    },
+    {
+      "start_seconds": 1689.48,
+      "end_seconds": 1691.84,
+      "speaker": null,
+      "text": "morphology is no longer there.  They've sort of done it."
+    },
+    {
+      "start_seconds": 1691.84,
+      "end_seconds": 1695.0,
+      "speaker": null,
+      "text": "And now what?  And mission accomplished."
+    },
+    {
+      "start_seconds": 1695.0,
+      "end_seconds": 1698.36,
+      "speaker": null,
+      "text": "And, and that, and, and, and it, you know, this, it's, it's sort"
+    },
+    {
+      "start_seconds": 1698.36,
+      "end_seconds": 1702.44,
+      "speaker": null,
+      "text": "of my of, of, of a scheme that  I've, that I've been developing"
+    },
+    {
+      "start_seconds": 1702.44,
+      "end_seconds": 1704.76,
+      "speaker": null,
+      "text": "on this idea that these, the  goals are what keep collective"
+    },
+    {
+      "start_seconds": 1704.76,
+      "end_seconds": 1707.52,
+      "speaker": null,
+      "text": "intelligences together.  And that after that goal is no"
+    },
+    {
+      "start_seconds": 1707.52,
+      "end_seconds": 1711.76,
+      "speaker": null,
+      "text": "longer active, it they just,  they just start to, to go off"
+    },
+    {
+      "start_seconds": 1711.76,
+      "end_seconds": 1714.68,
+      "speaker": null,
+      "text": "and, and do theirs, their, they  go their separate ways in the"
+    },
+    {
+      "start_seconds": 1714.68,
+      "end_seconds": 1717.4,
+      "speaker": null,
+      "text": "absence of any external damage.  You know, it's a, it's a"
+    },
+    {
+      "start_seconds": 1717.56,
+      "end_seconds": 1719.08,
+      "speaker": null,
+      "text": "fundamentally A cognitive  problem."
+    },
+    {
+      "start_seconds": 1719.08,
+      "end_seconds": 1721.68,
+      "speaker": null,
+      "text": "It's not a, it's not a, you  know, a, a thermodynamic"
+    },
+    {
+      "start_seconds": 1721.68,
+      "end_seconds": 1723.76,
+      "speaker": null,
+      "text": "problem.  And even that's even there."
+    },
+    {
+      "start_seconds": 1724.08,
+      "end_seconds": 1727.12,
+      "speaker": null,
+      "text": "And, and then you start  thinking, well, what happens to"
+    },
+    {
+      "start_seconds": 1727.12,
+      "end_seconds": 1730.88,
+      "speaker": null,
+      "text": "what, how, how do, how do  immortal animals deal with this?"
+    },
+    {
+      "start_seconds": 1730.88,
+      "end_seconds": 1734.88,
+      "speaker": null,
+      "text": "Well, Planaria, who are both  extremely cancer resistant and,"
+    },
+    {
+      "start_seconds": 1735.08,
+      "end_seconds": 1737.32,
+      "speaker": null,
+      "text": "and ageless and highly  regenerative."
+    },
+    {
+      "start_seconds": 1737.68,
+      "end_seconds": 1740.92,
+      "speaker": null,
+      "text": "They tear themselves in half  every two weeks and they sort of"
+    },
+    {
+      "start_seconds": 1740.92,
+      "end_seconds": 1743.88,
+      "speaker": null,
+      "text": "refresh this, this thing, you  know, they don't have a chance"
+    },
+    {
+      "start_seconds": 1743.88,
+      "end_seconds": 1746.88,
+      "speaker": null,
+      "text": "to sort of settle down and, and  wonder what to do next because"
+    },
+    {
+      "start_seconds": 1747.08,
+      "end_seconds": 1750.28,
+      "speaker": null,
+      "text": "they, they have this right, like radical damage event every that"
+    },
+    {
+      "start_seconds": 1750.28,
+      "end_seconds": 1752.32,
+      "speaker": null,
+      "text": "they caused themselves every  every couple of weeks."
+    },
+    {
+      "start_seconds": 1752.76,
+      "end_seconds": 1755.88,
+      "speaker": null,
+      "text": "And that seems to be enough to  keep them rolling."
+    },
+    {
+      "start_seconds": 1755.88,
+      "end_seconds": 1758.48,
+      "speaker": null,
+      "text": "And so I just wonder, you know,  this in the connection between"
+    },
+    {
+      "start_seconds": 1759.2,
+      "end_seconds": 1762.2,
+      "speaker": null,
+      "text": "aging and cancer and everything  that's like, you know, what,"
+    },
+    {
+      "start_seconds": 1762.2,
+      "end_seconds": 1765.72,
+      "speaker": null,
+      "text": "what do you think as part of the part like a stressor can be?"
+    },
+    {
+      "start_seconds": 1765.72,
+      "end_seconds": 1770.6,
+      "speaker": null,
+      "text": "And we, we all know people who  they, they, they retire and they"
+    },
+    {
+      "start_seconds": 1770.6,
+      "end_seconds": 1773.16,
+      "speaker": null,
+      "text": "don't know what to do.  And then the things things go"
+    },
+    {
+      "start_seconds": 1773.16,
+      "end_seconds": 1775.72,
+      "speaker": null,
+      "text": "poorly after that, right?  So it seems like that's a whole"
+    },
+    {
+      "start_seconds": 1775.72,
+      "end_seconds": 1777.84,
+      "speaker": null,
+      "text": "other new kind of stress.  It's not like there's anything"
+    },
+    {
+      "start_seconds": 1777.84,
+      "end_seconds": 1781.76,
+      "speaker": null,
+      "text": "happening to you.  It's that the goal setting is"
+    },
+    {
+      "start_seconds": 1781.76,
+      "end_seconds": 1786.08,
+      "speaker": null,
+      "text": "kind of gone, you know?  Maybe that's where exercise is"
+    },
+    {
+      "start_seconds": 1786.32,
+      "end_seconds": 1790.44,
+      "speaker": null,
+      "text": "creating these sort of micro  stresses, keeps us alert, keeps"
+    },
+    {
+      "start_seconds": 1790.48,
+      "end_seconds": 1792.88,
+      "speaker": null,
+      "text": "your body, keeps your cells in  the game."
+    },
+    {
+      "start_seconds": 1794.52,
+      "end_seconds": 1799.44,
+      "speaker": null,
+      "text": "But one of the interesting  things that I've been sort of"
+    },
+    {
+      "start_seconds": 1799.44,
+      "end_seconds": 1805.32,
+      "speaker": null,
+      "text": "thinking about is that the, the  information in a, in a gene is"
+    },
+    {
+      "start_seconds": 1805.32,
+      "end_seconds": 1809.64,
+      "speaker": null,
+      "text": "translated into a, a string of  amino acids that can do"
+    },
+    {
+      "start_seconds": 1809.64,
+      "end_seconds": 1812.72,
+      "speaker": null,
+      "text": "precisely nothing until it  folds."
+    },
+    {
+      "start_seconds": 1813.36,
+      "end_seconds": 1818.92,
+      "speaker": null,
+      "text": "But that folding process is non  it, it is, there's a, there's a,"
+    },
+    {
+      "start_seconds": 1819.68,
+      "end_seconds": 1821.56,
+      "speaker": null,
+      "text": "it's almost a, a probability  matrix."
+    },
+    {
+      "start_seconds": 1821.56,
+      "end_seconds": 1823.6,
+      "speaker": null,
+      "text": "There is, it can fold into a  number of different"
+    },
+    {
+      "start_seconds": 1823.6,
+      "end_seconds": 1828.28,
+      "speaker": null,
+      "text": "configurations.  And because of that, there's"
+    },
+    {
+      "start_seconds": 1828.28,
+      "end_seconds": 1831.52,
+      "speaker": null,
+      "text": "actually information gain in the folding process."
+    },
+    {
+      "start_seconds": 1831.52,
+      "end_seconds": 1835.2,
+      "speaker": null,
+      "text": "And I, I don't, I'm not sure  we've sort of understood that."
+    },
+    {
+      "start_seconds": 1835.2,
+      "end_seconds": 1841.0,
+      "speaker": null,
+      "text": "But what's interesting then is  that proteins for proteins that"
+    },
+    {
+      "start_seconds": 1841.0,
+      "end_seconds": 1846.96,
+      "speaker": null,
+      "text": "form enzymes, for example, are,  are fine graining because they"
+    },
+    {
+      "start_seconds": 1846.96,
+      "end_seconds": 1851.0,
+      "speaker": null,
+      "text": "act at a quantum level.  But they, they, they're what"
+    },
+    {
+      "start_seconds": 1851.0,
+      "end_seconds": 1854.48,
+      "speaker": null,
+      "text": "they do is they, the substrate,  half the, the quantum"
+    },
+    {
+      "start_seconds": 1854.48,
+      "end_seconds": 1857.64,
+      "speaker": null,
+      "text": "interactions of the substrate  need to be optimized to make"
+    },
+    {
+      "start_seconds": 1857.64,
+      "end_seconds": 1864.12,
+      "speaker": null,
+      "text": "this, this the enzyme work and  which and and so, and fine"
+    },
+    {
+      "start_seconds": 1864.12,
+      "end_seconds": 1868.92,
+      "speaker": null,
+      "text": "graining requires information.  And it, it, it's occurred to me"
+    },
+    {
+      "start_seconds": 1868.92,
+      "end_seconds": 1876.4,
+      "speaker": null,
+      "text": "that this, that the, the, the,  the way life does this is that"
+    },
+    {
+      "start_seconds": 1876.4,
+      "end_seconds": 1878.96,
+      "speaker": null,
+      "text": "is the protein folding that,  that going from one dimension to"
+    },
+    {
+      "start_seconds": 1878.96,
+      "end_seconds": 1884.48,
+      "speaker": null,
+      "text": "3 dimensions in a sort of  predictable way provides an, an"
+    },
+    {
+      "start_seconds": 1884.48,
+      "end_seconds": 1888.96,
+      "speaker": null,
+      "text": "information gain.  And I wonder if some of multi"
+    },
+    {
+      "start_seconds": 1888.96,
+      "end_seconds": 1893.88,
+      "speaker": null,
+      "text": "cellular organisms have that  same kind of process where the"
+    },
+    {
+      "start_seconds": 1893.88,
+      "end_seconds": 1896.6,
+      "speaker": null,
+      "text": "cells you you have essentially a point source in in in the sense"
+    },
+    {
+      "start_seconds": 1896.6,
+      "end_seconds": 1899.44,
+      "speaker": null,
+      "text": "of the the cell is a point  source as it proliferates."
+    },
+    {
+      "start_seconds": 1899.88,
+      "end_seconds": 1903.0,
+      "speaker": null,
+      "text": "The interactions among the  different cells are sufficiently"
+    },
+    {
+      "start_seconds": 1903.0,
+      "end_seconds": 1908.28,
+      "speaker": null,
+      "text": "predictable somehow in this in  this in this fertilized egg."
+    },
+    {
+      "start_seconds": 1909.36,
+      "end_seconds": 1913.4,
+      "speaker": null,
+      "text": "The information content is then  sort of magnified, is increased"
+    },
+    {
+      "start_seconds": 1913.4,
+      "end_seconds": 1917.6,
+      "speaker": null,
+      "text": "by these interactions, these non random distributions of the"
+    },
+    {
+      "start_seconds": 1917.6,
+      "end_seconds": 1922.04,
+      "speaker": null,
+      "text": "cells so that the the the  collective information of a"
+    },
+    {
+      "start_seconds": 1922.04,
+      "end_seconds": 1925.36,
+      "speaker": null,
+      "text": "multi Organism, which is vastly  greater than that of a single"
+    },
+    {
+      "start_seconds": 1925.36,
+      "end_seconds": 1931.84,
+      "speaker": null,
+      "text": "cell is gained by these these  dimensionality changes."
+    },
+    {
+      "start_seconds": 1932.88,
+      "end_seconds": 1937.68,
+      "speaker": null,
+      "text": "It's kind of hard to explain  that, I guess, but it, it does"
+    },
+    {
+      "start_seconds": 1937.8,
+      "end_seconds": 1943.8,
+      "speaker": null,
+      "text": "it, it feels like biological  information is not as simple, I"
+    },
+    {
+      "start_seconds": 1943.8,
+      "end_seconds": 1948.12,
+      "speaker": null,
+      "text": "think as we well, I mean,  everybody's the biological"
+    },
+    {
+      "start_seconds": 1948.12,
+      "end_seconds": 1951.08,
+      "speaker": null,
+      "text": "information is in the genome of  of so great."
+    },
+    {
+      "start_seconds": 1951.72,
+      "end_seconds": 1955.44,
+      "speaker": null,
+      "text": "How do you go from genetic  information to the thermodynamic"
+    },
+    {
+      "start_seconds": 1955.44,
+      "end_seconds": 1959.12,
+      "speaker": null,
+      "text": "state of the cell, which is a,  which is a highly, you know,"
+    },
+    {
+      "start_seconds": 1959.16,
+      "end_seconds": 1963.96,
+      "speaker": null,
+      "text": "highly ordered low entropy, but  far from thermodynamic"
+    },
+    {
+      "start_seconds": 1964.0,
+      "end_seconds": 1965.68,
+      "speaker": null,
+      "text": "equilibrium state?  It's extraordinary."
+    },
+    {
+      "start_seconds": 1965.68,
+      "end_seconds": 1968.04,
+      "speaker": null,
+      "text": "There's nothing in the universe  like that."
+    },
+    {
+      "start_seconds": 1969.52,
+      "end_seconds": 1972.6,
+      "speaker": null,
+      "text": "Intuitively, it seems clear the  genetic information does that,"
+    },
+    {
+      "start_seconds": 1973.2,
+      "end_seconds": 1977.6,
+      "speaker": null,
+      "text": "but to me it's not clear how you go from genetic information"
+    },
+    {
+      "start_seconds": 1977.88,
+      "end_seconds": 1982.12,
+      "speaker": null,
+      "text": "quantified incidentally by bits. So there's no physical unit in"
+    },
+    {
+      "start_seconds": 1982.12,
+      "end_seconds": 1986.48,
+      "speaker": null,
+      "text": "that to thermodynamics, which is of course quantified by the the"
+    },
+    {
+      "start_seconds": 1986.48,
+      "end_seconds": 1988.56,
+      "speaker": null,
+      "text": "typical units of thermodynamics. You don't."
+    },
+    {
+      "start_seconds": 1988.56,
+      "end_seconds": 1990.72,
+      "speaker": null,
+      "text": "You don't have unit matching in  this."
+    },
+    {
+      "start_seconds": 1992.96,
+      "end_seconds": 1995.2,
+      "speaker": null,
+      "text": "Yeah.  I mean they do you know they"
+    },
+    {
+      "start_seconds": 1995.28,
+      "end_seconds": 2000.12,
+      "speaker": null,
+      "text": "there there is there is some  some theory around that what"
+    },
+    {
+      "start_seconds": 2000.12,
+      "end_seconds": 2002.52,
+      "speaker": null,
+      "text": "bits like the minimal cost of a  bit, right."
+    },
+    {
+      "start_seconds": 2002.52,
+      "end_seconds": 2004.72,
+      "speaker": null,
+      "text": "The the Bennett stuff and and  all the land hour and all that."
+    },
+    {
+      "start_seconds": 2005.16,
+      "end_seconds": 2008.28,
+      "speaker": null,
+      "text": "But I think, you know, the  bigger I, I think the bigger"
+    },
+    {
+      "start_seconds": 2008.28,
+      "end_seconds": 2011.88,
+      "speaker": null,
+      "text": "issue with, with the genome is  that it's information about the"
+    },
+    {
+      "start_seconds": 2011.88,
+      "end_seconds": 2014.2,
+      "speaker": null,
+      "text": "hardware.  And as you pointed out, it's,"
+    },
+    {
+      "start_seconds": 2014.2,
+      "end_seconds": 2017.0,
+      "speaker": null,
+      "text": "it's some very cool  reprogrammable hardware that it"
+    },
+    {
+      "start_seconds": 2017.0,
+      "end_seconds": 2018.92,
+      "speaker": null,
+      "text": "encodes.  And after that, you know,"
+    },
+    {
+      "start_seconds": 2018.92,
+      "end_seconds": 2021.24,
+      "speaker": null,
+      "text": "there's only so much you can,  you know, you can blame on the"
+    },
+    {
+      "start_seconds": 2021.24,
+      "end_seconds": 2022.84,
+      "speaker": null,
+      "text": "hardware itself.  There's a lot of the"
+    },
+    {
+      "start_seconds": 2023.08,
+      "end_seconds": 2025.44,
+      "speaker": null,
+      "text": "physiological dynamics  afterwards that that are the"
+    },
+    {
+      "start_seconds": 2025.44,
+      "end_seconds": 2028.44,
+      "speaker": null,
+      "text": "main show I think.  It's, it's, it's magnificent."
+    },
+    {
+      "start_seconds": 2028.68,
+      "end_seconds": 2032.96,
+      "speaker": null,
+      "text": "It's an extraordinary thing.  And as I said, I think there's"
+    },
+    {
+      "start_seconds": 2032.96,
+      "end_seconds": 2037.52,
+      "speaker": null,
+      "text": "a, there's, there's the, the  I'm, I've become interested in"
+    },
+    {
+      "start_seconds": 2037.52,
+      "end_seconds": 2041.48,
+      "speaker": null,
+      "text": "the idea of dimensionality, you  know, the, the linear, the"
+    },
+    {
+      "start_seconds": 2041.48,
+      "end_seconds": 2044.8,
+      "speaker": null,
+      "text": "linear string of the DNA folding into a three-dimensional"
+    },
+    {
+      "start_seconds": 2045.08,
+      "end_seconds": 2049.92,
+      "speaker": null,
+      "text": "configuration, a a single sort  of point source of as a"
+    },
+    {
+      "start_seconds": 2051.48,
+      "end_seconds": 2055.92,
+      "speaker": null,
+      "text": "fertilized egg turning into a,  you know, large 3 dimensional,"
+    },
+    {
+      "start_seconds": 2056.56,
+      "end_seconds": 2062.0,
+      "speaker": null,
+      "text": "you know, structure.  There's, there's, there's those"
+    },
+    {
+      "start_seconds": 2062.0,
+      "end_seconds": 2067.159,
+      "speaker": null,
+      "text": "rules may be similar.  I I think and the changing"
+    },
+    {
+      "start_seconds": 2067.159,
+      "end_seconds": 2075.719,
+      "speaker": null,
+      "text": "dimensionality may have it may  it may be a it where how life"
+    },
+    {
+      "start_seconds": 2075.719,
+      "end_seconds": 2080.28,
+      "speaker": null,
+      "text": "exploits the limited information that comes from the genome to,"
+    },
+    {
+      "start_seconds": 2080.28,
+      "end_seconds": 2084.12,
+      "speaker": null,
+      "text": "to generate these, you know,  highly large and complex, you"
+    },
+    {
+      "start_seconds": 2084.12,
+      "end_seconds": 2088.239,
+      "speaker": null,
+      "text": "know, organisms.  Yeah, and that and that's just"
+    },
+    {
+      "start_seconds": 2088.239,
+      "end_seconds": 2091.76,
+      "speaker": null,
+      "text": "in 3D like in 3D space, right  you so you so you also get"
+    },
+    {
+      "start_seconds": 2091.92,
+      "end_seconds": 2095.36,
+      "speaker": null,
+      "text": "structures in, in physiological  state space and transcriptional"
+    },
+    {
+      "start_seconds": 2095.36,
+      "end_seconds": 2098.04,
+      "speaker": null,
+      "text": "state space got only your  metabolic like who knows like"
+    },
+    {
+      "start_seconds": 2098.04,
+      "end_seconds": 2099.8,
+      "speaker": null,
+      "text": "there are all these different  spaces, right that it's"
+    },
+    {
+      "start_seconds": 2099.8,
+      "end_seconds": 2104.48,
+      "speaker": null,
+      "text": "unfolding into.  And then I mean to, to get like"
+    },
+    {
+      "start_seconds": 2104.56,
+      "end_seconds": 2108.28,
+      "speaker": null,
+      "text": "really wild, you could say,  well, what is the, what's the"
+    },
+    {
+      "start_seconds": 2108.28,
+      "end_seconds": 2112.68,
+      "speaker": null,
+      "text": "human mind, which is, which is  also sort of unique in nature."
+    },
+    {
+      "start_seconds": 2114.4,
+      "end_seconds": 2118.32,
+      "speaker": null,
+      "text": "You could argue, I think that  what evolution is going to"
+    },
+    {
+      "start_seconds": 2118.32,
+      "end_seconds": 2122.96,
+      "speaker": null,
+      "text": "select for things that allow you to live longer or to survive or"
+    },
+    {
+      "start_seconds": 2122.96,
+      "end_seconds": 2125.88,
+      "speaker": null,
+      "text": "to proliferate.  There's no evolutionary"
+    },
+    {
+      "start_seconds": 2125.88,
+      "end_seconds": 2130.6,
+      "speaker": null,
+      "text": "selection, you know, to figure  out the stars or to, you know,"
+    },
+    {
+      "start_seconds": 2131.48,
+      "end_seconds": 2136.12,
+      "speaker": null,
+      "text": "engage in quantum mechanics.  There's no it it, it exceeds"
+    },
+    {
+      "start_seconds": 2136.12,
+      "end_seconds": 2138.68,
+      "speaker": null,
+      "text": "what evolution would have  selected."
+    },
+    {
+      "start_seconds": 2139.36,
+      "end_seconds": 2143.48,
+      "speaker": null,
+      "text": "And you know, my kind of  armchair and speculation, which"
+    },
+    {
+      "start_seconds": 2143.48,
+      "end_seconds": 2149.04,
+      "speaker": null,
+      "text": "I'll deny ever, ever saying,  including saying that this, this"
+    },
+    {
+      "start_seconds": 2149.04,
+      "end_seconds": 2156.64,
+      "speaker": null,
+      "text": "whole broadcast was a hoax, is  that is that we have a we, we"
+    },
+    {
+      "start_seconds": 2157.04,
+      "end_seconds": 2162.04,
+      "speaker": null,
+      "text": "recognize an additional  dimension time, that our ability"
+    },
+    {
+      "start_seconds": 2162.04,
+      "end_seconds": 2167.68,
+      "speaker": null,
+      "text": "to work in the dimension of time adds A dimensionality change"
+    },
+    {
+      "start_seconds": 2168.0,
+      "end_seconds": 2172.8,
+      "speaker": null,
+      "text": "which allows us to access  information that would not"
+    },
+    {
+      "start_seconds": 2172.8,
+      "end_seconds": 2178.0,
+      "speaker": null,
+      "text": "ordinarily be present in  strictly 3 dimensional"
+    },
+    {
+      "start_seconds": 2178.0,
+      "end_seconds": 2180.44,
+      "speaker": null,
+      "text": "structures.  Again, you can."
+    },
+    {
+      "start_seconds": 2180.88,
+      "end_seconds": 2189.6,
+      "speaker": null,
+      "text": "I'll deny I ever said that.  Going back to information"
+    },
+    {
+      "start_seconds": 2189.6,
+      "end_seconds": 2192.48,
+      "speaker": null,
+      "text": "dynamics, I guess, how do you  think about information dynamics"
+    },
+    {
+      "start_seconds": 2192.48,
+      "end_seconds": 2196.32,
+      "speaker": null,
+      "text": "for a cancer cell then compared  to healthy cell?"
+    },
+    {
+      "start_seconds": 2198.0,
+      "end_seconds": 2201.32,
+      "speaker": null,
+      "text": "Well, I think there's two  components to to this."
+    },
+    {
+      "start_seconds": 2202.68,
+      "end_seconds": 2207.76,
+      "speaker": null,
+      "text": "The healthy cells, you know, are really tuned into their"
+    },
+    {
+      "start_seconds": 2207.76,
+      "end_seconds": 2210.12,
+      "speaker": null,
+      "text": "environment and to the other  cells in the environment."
+    },
+    {
+      "start_seconds": 2210.12,
+      "end_seconds": 2212.8,
+      "speaker": null,
+      "text": "They're they're, they're tuned  into this collective."
+    },
+    {
+      "start_seconds": 2212.88,
+      "end_seconds": 2216.88,
+      "speaker": null,
+      "text": "I I think might use the term  cancer cells have to be"
+    },
+    {
+      "start_seconds": 2216.88,
+      "end_seconds": 2221.08,
+      "speaker": null,
+      "text": "independent of these of these  control mechanisms."
+    },
+    {
+      "start_seconds": 2221.6,
+      "end_seconds": 2228.04,
+      "speaker": null,
+      "text": "At the same time, cancer cells  have to be able to forage, they"
+    },
+    {
+      "start_seconds": 2228.04,
+      "end_seconds": 2233.2,
+      "speaker": null,
+      "text": "have to be able to detect  sources of of substrate and they"
+    },
+    {
+      "start_seconds": 2233.2,
+      "end_seconds": 2236.12,
+      "speaker": null,
+      "text": "also have to detect bad  environments."
+    },
+    {
+      "start_seconds": 2236.2,
+      "end_seconds": 2240.72,
+      "speaker": null,
+      "text": "And probably ideally they have  to detect predators like like"
+    },
+    {
+      "start_seconds": 2240.72,
+      "end_seconds": 2243.96,
+      "speaker": null,
+      "text": "the immune system.  So the information dynamics"
+    },
+    {
+      "start_seconds": 2243.96,
+      "end_seconds": 2250.0,
+      "speaker": null,
+      "text": "change and and that's where, you know, I think that calling them"
+    },
+    {
+      "start_seconds": 2250.0,
+      "end_seconds": 2252.56,
+      "speaker": null,
+      "text": "atavistic is, is is sort of  insulting to them."
+    },
+    {
+      "start_seconds": 2253.08,
+      "end_seconds": 2259.64,
+      "speaker": null,
+      "text": "You know, they've they they are  extremely fine-tuned to optimize"
+    },
+    {
+      "start_seconds": 2259.64,
+      "end_seconds": 2261.92,
+      "speaker": null,
+      "text": "their proliferation in the  middle of your body."
+    },
+    {
+      "start_seconds": 2262.88,
+      "end_seconds": 2268.04,
+      "speaker": null,
+      "text": "And and that's often not a very, you know, good, good place to"
+    },
+    {
+      "start_seconds": 2268.04,
+      "end_seconds": 2270.84,
+      "speaker": null,
+      "text": "be.  I mean, some, some of them, they"
+    },
+    {
+      "start_seconds": 2270.84,
+      "end_seconds": 2273.16,
+      "speaker": null,
+      "text": "grow in the lymph nodes where  the it's, it's that's like"
+    },
+    {
+      "start_seconds": 2273.36,
+      "end_seconds": 2276.36,
+      "speaker": null,
+      "text": "robbing from a police station.  They the, you know, the whole"
+    },
+    {
+      "start_seconds": 2276.36,
+      "end_seconds": 2278.96,
+      "speaker": null,
+      "text": "immune system is around them and yet they continue to grow."
+    },
+    {
+      "start_seconds": 2279.52,
+      "end_seconds": 2283.72,
+      "speaker": null,
+      "text": "So they need sophisticated  information next."
+    },
+    {
+      "start_seconds": 2283.72,
+      "end_seconds": 2288.68,
+      "speaker": null,
+      "text": "But these are different from  what I think normal mammalian"
+    },
+    {
+      "start_seconds": 2288.68,
+      "end_seconds": 2292.72,
+      "speaker": null,
+      "text": "cells have.  But they what, what's I think is"
+    },
+    {
+      "start_seconds": 2292.72,
+      "end_seconds": 2296.8,
+      "speaker": null,
+      "text": "really important to cancer is  that the, you know, normal"
+    },
+    {
+      "start_seconds": 2296.96,
+      "end_seconds": 2300.04,
+      "speaker": null,
+      "text": "mammalian cells a, a lot of the  genome is, is blocked."
+    },
+    {
+      "start_seconds": 2300.52,
+      "end_seconds": 2303.56,
+      "speaker": null,
+      "text": "You know, they, they don't have  access to a lot of the gene"
+    },
+    {
+      "start_seconds": 2303.84,
+      "end_seconds": 2307.28,
+      "speaker": null,
+      "text": "cancer seems to be able to  access the whole human genome."
+    },
+    {
+      "start_seconds": 2307.28,
+      "end_seconds": 2310.88,
+      "speaker": null,
+      "text": "So they, they find things that  were the genes that were being"
+    },
+    {
+      "start_seconds": 2310.88,
+      "end_seconds": 2317.0,
+      "speaker": null,
+      "text": "expressed in, in the fetus that, you know, just weren't expressed"
+    },
+    {
+      "start_seconds": 2317.0,
+      "end_seconds": 2319.12,
+      "speaker": null,
+      "text": "in adults, but now, but they can use that."
+    },
+    {
+      "start_seconds": 2319.12,
+      "end_seconds": 2327.52,
+      "speaker": null,
+      "text": "So they, they, they find ways  to, to, to evolve and to"
+    },
+    {
+      "start_seconds": 2327.72,
+      "end_seconds": 2332.24,
+      "speaker": null,
+      "text": "optimize their fitness using  parts of the genome that"
+    },
+    {
+      "start_seconds": 2332.28,
+      "end_seconds": 2335.44,
+      "speaker": null,
+      "text": "ordinarily are not accessible.  And, and I, I think it's"
+    },
+    {
+      "start_seconds": 2335.44,
+      "end_seconds": 2342.08,
+      "speaker": null,
+      "text": "remarkably clever and, and  really scary because they're"
+    },
+    {
+      "start_seconds": 2342.08,
+      "end_seconds": 2346.96,
+      "speaker": null,
+      "text": "really good at it.  But I suppose from an"
+    },
+    {
+      "start_seconds": 2346.96,
+      "end_seconds": 2351.52,
+      "speaker": null,
+      "text": "evolutionary perspective, I  mean, evolution would obviously"
+    },
+    {
+      "start_seconds": 2351.52,
+      "end_seconds": 2355.32,
+      "speaker": null,
+      "text": "want us to reproduce and live as long and pass on our genes."
+    },
+    {
+      "start_seconds": 2355.76,
+      "end_seconds": 2359.32,
+      "speaker": null,
+      "text": "So the information that it would pass to us would be the ones"
+    },
+    {
+      "start_seconds": 2359.32,
+      "end_seconds": 2363.8,
+      "speaker": null,
+      "text": "that normal healthy cells have.  Where do you think cancer cells"
+    },
+    {
+      "start_seconds": 2363.8,
+      "end_seconds": 2366.68,
+      "speaker": null,
+      "text": "are acquiring this information  per SE?"
+    },
+    {
+      "start_seconds": 2366.68,
+      "end_seconds": 2370.68,
+      "speaker": null,
+      "text": "Or, or do you say maybe it's  it's the fact that evolution has"
+    },
+    {
+      "start_seconds": 2370.68,
+      "end_seconds": 2374.68,
+      "speaker": null,
+      "text": "just programmed us for fitness  and cancer cells just have this"
+    },
+    {
+      "start_seconds": 2374.68,
+      "end_seconds": 2377.96,
+      "speaker": null,
+      "text": "ability to figure out whatever  is needed in order to"
+    },
+    {
+      "start_seconds": 2377.96,
+      "end_seconds": 2382.56,
+      "speaker": null,
+      "text": "proliferate?  Well, I, I think, you know,"
+    },
+    {
+      "start_seconds": 2382.56,
+      "end_seconds": 2385.28,
+      "speaker": null,
+      "text": "after you've reproduced, and I'm sorry, I know you have a, a new"
+    },
+    {
+      "start_seconds": 2385.28,
+      "end_seconds": 2389.16,
+      "speaker": null,
+      "text": "baby at home, but after you've  reproduced, nature would rather"
+    },
+    {
+      "start_seconds": 2389.16,
+      "end_seconds": 2392.36,
+      "speaker": null,
+      "text": "you were dead.  I mean, and, and of course"
+    },
+    {
+      "start_seconds": 2392.36,
+      "end_seconds": 2395.36,
+      "speaker": null,
+      "text": "there's, I mean, there's the,  the, the whole grandmother"
+    },
+    {
+      "start_seconds": 2395.36,
+      "end_seconds": 2401.56,
+      "speaker": null,
+      "text": "hypothesis and various things  that are, are, are, you know,"
+    },
+    {
+      "start_seconds": 2401.56,
+      "end_seconds": 2405.84,
+      "speaker": null,
+      "text": "that, that produce the offs that increase fitness of offspring."
+    },
+    {
+      "start_seconds": 2406.36,
+      "end_seconds": 2411.12,
+      "speaker": null,
+      "text": "But basically, if you're a man  at my age, you know, evolution"
+    },
+    {
+      "start_seconds": 2411.16,
+      "end_seconds": 2416.6,
+      "speaker": null,
+      "text": "would rather I just drop dead  because in fact, that's why I"
+    },
+    {
+      "start_seconds": 2416.6,
+      "end_seconds": 2419.16,
+      "speaker": null,
+      "text": "exercise, because I'm trying to  convince my body that I'm still"
+    },
+    {
+      "start_seconds": 2419.16,
+      "end_seconds": 2425.52,
+      "speaker": null,
+      "text": "part of the hunt.  And it'll let me live but but I,"
+    },
+    {
+      "start_seconds": 2425.6,
+      "end_seconds": 2427.24,
+      "speaker": null,
+      "text": "but I think that's a really  important point."
+    },
+    {
+      "start_seconds": 2427.24,
+      "end_seconds": 2432.36,
+      "speaker": null,
+      "text": "There's, there's no evolutionary selection for anti cancer"
+    },
+    {
+      "start_seconds": 2433.68,
+      "end_seconds": 2437.8,
+      "speaker": null,
+      "text": "mechanisms beyond the sort of  reproductive age."
+    },
+    {
+      "start_seconds": 2438.08,
+      "end_seconds": 2443.96,
+      "speaker": null,
+      "text": "And we live far longer than our  reproductive age, unlike I think"
+    },
+    {
+      "start_seconds": 2444.44,
+      "end_seconds": 2448.64,
+      "speaker": null,
+      "text": "most animals.  And so I, I, there's, there's"
+    },
+    {
+      "start_seconds": 2448.64,
+      "end_seconds": 2453.28,
+      "speaker": null,
+      "text": "unfortunately no selection for  people that get cancer in their"
+    },
+    {
+      "start_seconds": 2453.28,
+      "end_seconds": 2456.2,
+      "speaker": null,
+      "text": "60s and 70s.  It's, it's just because we've"
+    },
+    {
+      "start_seconds": 2456.2,
+      "end_seconds": 2461.4,
+      "speaker": null,
+      "text": "reproduced.  So evolution is pretty harsh."
+    },
+    {
+      "start_seconds": 2463.92,
+      "end_seconds": 2466.2,
+      "speaker": null,
+      "text": "But if you think about it from  an information standpoint,"
+    },
+    {
+      "start_seconds": 2466.2,
+      "end_seconds": 2469.96,
+      "speaker": null,
+      "text": "because cancer cells also have  some information embedded in"
+    },
+    {
+      "start_seconds": 2469.96,
+      "end_seconds": 2472.32,
+      "speaker": null,
+      "text": "them in terms of just how they  want to behave."
+    },
+    {
+      "start_seconds": 2472.76,
+      "end_seconds": 2477.32,
+      "speaker": null,
+      "text": "So do you think after we've  reproduced the information"
+    },
+    {
+      "start_seconds": 2477.96,
+      "end_seconds": 2481.24,
+      "speaker": null,
+      "text": "dynamics change in the sense  that the information that the"
+    },
+    {
+      "start_seconds": 2482.64,
+      "end_seconds": 2486.8,
+      "speaker": null,
+      "text": "evolution programmed us for  being healthy just shifts or it"
+    },
+    {
+      "start_seconds": 2486.8,
+      "end_seconds": 2490.48,
+      "speaker": null,
+      "text": "just no longer cares about that? And I I guess what I'm trying to"
+    },
+    {
+      "start_seconds": 2490.48,
+      "end_seconds": 2493.0,
+      "speaker": null,
+      "text": "understand is how cancer cells  acquire this different set of"
+    },
+    {
+      "start_seconds": 2493.0,
+      "end_seconds": 2496.0,
+      "speaker": null,
+      "text": "information dynamics.  Yeah, I, well, I think that the"
+    },
+    {
+      "start_seconds": 2497.24,
+      "end_seconds": 2501.36,
+      "speaker": null,
+      "text": "James De Gregory is, you know, a great scientist in, in Colorado"
+    },
+    {
+      "start_seconds": 2501.36,
+      "end_seconds": 2506.32,
+      "speaker": null,
+      "text": "who, who looks at aging and one  of the things that happens with"
+    },
+    {
+      "start_seconds": 2506.32,
+      "end_seconds": 2511.04,
+      "speaker": null,
+      "text": "aging is that there seems to be  a loosening of the, of the"
+    },
+    {
+      "start_seconds": 2511.16,
+      "end_seconds": 2514.96,
+      "speaker": null,
+      "text": "tissue controls over the  individual cells."
+    },
+    {
+      "start_seconds": 2515.56,
+      "end_seconds": 2520.68,
+      "speaker": null,
+      "text": "And so probably that contributes to the fact that it's a, you"
+    },
+    {
+      "start_seconds": 2520.68,
+      "end_seconds": 2524.28,
+      "speaker": null,
+      "text": "know, process that occurs over  generally in older adults."
+    },
+    {
+      "start_seconds": 2527.04,
+      "end_seconds": 2535.8,
+      "speaker": null,
+      "text": "And, and I, you know, I, I think the, it's the information."
+    },
+    {
+      "start_seconds": 2536.6,
+      "end_seconds": 2540.64,
+      "speaker": null,
+      "text": "I, I, I don't think the  information cancer uses was not"
+    },
+    {
+      "start_seconds": 2540.64,
+      "end_seconds": 2543.6,
+      "speaker": null,
+      "text": "necessarily information that was there for the cancer's benefit."
+    },
+    {
+      "start_seconds": 2544.04,
+      "end_seconds": 2546.8,
+      "speaker": null,
+      "text": "It was there because it  benefited fetal cells or"
+    },
+    {
+      "start_seconds": 2546.8,
+      "end_seconds": 2551.72,
+      "speaker": null,
+      "text": "there's, there's some, some part of it that's that the cancer"
+    },
+    {
+      "start_seconds": 2551.72,
+      "end_seconds": 2556.6,
+      "speaker": null,
+      "text": "that a cell can then adapt.  And, and, and of course it, you"
+    },
+    {
+      "start_seconds": 2556.6,
+      "end_seconds": 2558.96,
+      "speaker": null,
+      "text": "know, it's also, it's not just  the, the gene itself, but"
+    },
+    {
+      "start_seconds": 2558.96,
+      "end_seconds": 2562.0,
+      "speaker": null,
+      "text": "there's the spliceosome, there's the, you know, there's a number"
+    },
+    {
+      "start_seconds": 2562.0,
+      "end_seconds": 2567.12,
+      "speaker": null,
+      "text": "of things that the, that the  cancer cell can change not, not"
+    },
+    {
+      "start_seconds": 2567.12,
+      "end_seconds": 2571.16,
+      "speaker": null,
+      "text": "to mention the role of the  environment of, of, of, you"
+    },
+    {
+      "start_seconds": 2571.16,
+      "end_seconds": 2572.92,
+      "speaker": null,
+      "text": "know, acidos and things, things  like that."
+    },
+    {
+      "start_seconds": 2572.92,
+      "end_seconds": 2575.72,
+      "speaker": null,
+      "text": "It can change the environment in ways that are, that are"
+    },
+    {
+      "start_seconds": 2575.72,
+      "end_seconds": 2580.92,
+      "speaker": null,
+      "text": "beneficial.  So but but I will not pretend to"
+    },
+    {
+      "start_seconds": 2580.92,
+      "end_seconds": 2584.0,
+      "speaker": null,
+      "text": "know all of the all of the  details of this."
+    },
+    {
+      "start_seconds": 2588.56,
+      "end_seconds": 2591.32,
+      "speaker": null,
+      "text": "Do do you have any?  I mean, you must, you must get"
+    },
+    {
+      "start_seconds": 2591.32,
+      "end_seconds": 2593.16,
+      "speaker": null,
+      "text": "this way way more than than I do even."
+    },
+    {
+      "start_seconds": 2593.16,
+      "end_seconds": 2596.12,
+      "speaker": null,
+      "text": "But but I get, you know, we, we, we published some things on"
+    },
+    {
+      "start_seconds": 2596.12,
+      "end_seconds": 2599.04,
+      "speaker": null,
+      "text": "cancer and we have a lot of a  lot of patients writing to us,"
+    },
+    {
+      "start_seconds": 2599.04,
+      "end_seconds": 2603.36,
+      "speaker": null,
+      "text": "you know, saying what to do.  So, so do, do, do you have any?"
+    },
+    {
+      "start_seconds": 2603.36,
+      "end_seconds": 2604.48,
+      "speaker": null,
+      "text": "And if if you don't, that's  fine."
+    },
+    {
+      "start_seconds": 2605.0,
+      "end_seconds": 2608.44,
+      "speaker": null,
+      "text": "Aside from sort of follow  whatever the your best"
+    },
+    {
+      "start_seconds": 2608.44,
+      "end_seconds": 2611.16,
+      "speaker": null,
+      "text": "oncologist is telling you, do  you have any other favorite"
+    },
+    {
+      "start_seconds": 2611.16,
+      "end_seconds": 2613.76,
+      "speaker": null,
+      "text": "thoughts for people to look into whether that'd be like"
+    },
+    {
+      "start_seconds": 2613.76,
+      "end_seconds": 2617.56,
+      "speaker": null,
+      "text": "Seyfried's, you know, metabolic  stuff or anything else at all?"
+    },
+    {
+      "start_seconds": 2617.56,
+      "end_seconds": 2619.28,
+      "speaker": null,
+      "text": "Do you have anything that that  you tell people?"
+    },
+    {
+      "start_seconds": 2620.88,
+      "end_seconds": 2623.92,
+      "speaker": null,
+      "text": "As a cancer prevention agency  agent, is that well?"
+    },
+    {
+      "start_seconds": 2623.92,
+      "end_seconds": 2625.84,
+      "speaker": null,
+      "text": "I think we're be, I mean the be  be on that."
+    },
+    {
+      "start_seconds": 2625.92,
+      "end_seconds": 2629.12,
+      "speaker": null,
+      "text": "So once somebody's already been  diagnosed, any, anything, any"
+    },
+    {
+      "start_seconds": 2629.12,
+      "end_seconds": 2631.96,
+      "speaker": null,
+      "text": "suggestions there?  Well, you know, cancer is an"
+    },
+    {
+      "start_seconds": 2631.96,
+      "end_seconds": 2636.72,
+      "speaker": null,
+      "text": "evolutionary process.  It's it cancers, like all living"
+    },
+    {
+      "start_seconds": 2636.72,
+      "end_seconds": 2640.0,
+      "speaker": null,
+      "text": "systems, have to obey the laws  of evolution."
+    },
+    {
+      "start_seconds": 2641.24,
+      "end_seconds": 2646.2,
+      "speaker": null,
+      "text": "And so cancer is not magic.  You know, it's, it's not an evil"
+    },
+    {
+      "start_seconds": 2646.2,
+      "end_seconds": 2648.56,
+      "speaker": null,
+      "text": "entity, it's just an evolving  population."
+    },
+    {
+      "start_seconds": 2649.32,
+      "end_seconds": 2651.84,
+      "speaker": null,
+      "text": "Now we know evolution.  I mean, we know the rules of"
+    },
+    {
+      "start_seconds": 2651.84,
+      "end_seconds": 2657.64,
+      "speaker": null,
+      "text": "evolution and we can use those  to optimize cancer therapy."
+    },
+    {
+      "start_seconds": 2659.0,
+      "end_seconds": 2665.0,
+      "speaker": null,
+      "text": "So for example, the standard  practice in oncology, which has"
+    },
+    {
+      "start_seconds": 2665.0,
+      "end_seconds": 2669.88,
+      "speaker": null,
+      "text": "been the case for five decades,  is that any therapy is given at"
+    },
+    {
+      "start_seconds": 2669.88,
+      "end_seconds": 2673.4,
+      "speaker": null,
+      "text": "maximum tolerated dose  continuously until progression."
+    },
+    {
+      "start_seconds": 2673.4,
+      "end_seconds": 2678.28,
+      "speaker": null,
+      "text": "It's almost the the mantra that  they have evolutionarily, you"
+    },
+    {
+      "start_seconds": 2678.28,
+      "end_seconds": 2682.4,
+      "speaker": null,
+      "text": "could hardly do it worse because what you're doing is that you're"
+    },
+    {
+      "start_seconds": 2683.72,
+      "end_seconds": 2688.2,
+      "speaker": null,
+      "text": "placing strong selection  pressure for resistance on a, on"
+    },
+    {
+      "start_seconds": 2688.2,
+      "end_seconds": 2691.88,
+      "speaker": null,
+      "text": "a large and diverse population.  And you're also removing their"
+    },
+    {
+      "start_seconds": 2691.88,
+      "end_seconds": 2693.32,
+      "speaker": null,
+      "text": "competitors.  You know, you're killing the"
+    },
+    {
+      "start_seconds": 2693.32,
+      "end_seconds": 2697.32,
+      "speaker": null,
+      "text": "cells that are sensitive.  You're selecting the ones that"
+    },
+    {
+      "start_seconds": 2697.32,
+      "end_seconds": 2702.04,
+      "speaker": null,
+      "text": "are resistant and you're,  you're, you're these resistant"
+    },
+    {
+      "start_seconds": 2702.04,
+      "end_seconds": 2706.84,
+      "speaker": null,
+      "text": "cells are now open to, to they,  they have no competitors."
+    },
+    {
+      "start_seconds": 2708.2,
+      "end_seconds": 2711.08,
+      "speaker": null,
+      "text": "And so it's, it's open for them  to proliferate."
+    },
+    {
+      "start_seconds": 2712.16,
+      "end_seconds": 2714.44,
+      "speaker": null,
+      "text": "And this is well known.  This is actually a phenomenon"
+    },
+    {
+      "start_seconds": 2714.96,
+      "end_seconds": 2718.72,
+      "speaker": null,
+      "text": "in, in that's observed in, in  evolution that's called"
+    },
+    {
+      "start_seconds": 2718.72,
+      "end_seconds": 2724.6,
+      "speaker": null,
+      "text": "competitive release.  And you know, this, this is not"
+    },
+    {
+      "start_seconds": 2724.6,
+      "end_seconds": 2729.36,
+      "speaker": null,
+      "text": "a, this is a strategy that's,  that optimizes the proliferation"
+    },
+    {
+      "start_seconds": 2729.36,
+      "end_seconds": 2732.84,
+      "speaker": null,
+      "text": "resistance cells.  So, so one of the things that"
+    },
+    {
+      "start_seconds": 2732.84,
+      "end_seconds": 2739.6,
+      "speaker": null,
+      "text": "we've tried to do is to bring  evolutionary dynamics into"
+    },
+    {
+      "start_seconds": 2739.6,
+      "end_seconds": 2745.28,
+      "speaker": null,
+      "text": "cancer therapy.  So for example, we've used"
+    },
+    {
+      "start_seconds": 2745.32,
+      "end_seconds": 2747.64,
+      "speaker": null,
+      "text": "something, something that's  called adaptive therapy."
+    },
+    {
+      "start_seconds": 2748.24,
+      "end_seconds": 2751.96,
+      "speaker": null,
+      "text": "And here what you do is instead  of giving maximum tolerated dose"
+    },
+    {
+      "start_seconds": 2751.96,
+      "end_seconds": 2755.12,
+      "speaker": null,
+      "text": "continuously, what you give is,  is cancer dose."
+    },
+    {
+      "start_seconds": 2755.2,
+      "end_seconds": 2760.68,
+      "speaker": null,
+      "text": "I mean, you give a, a drug dose  a little bit in, in prostate"
+    },
+    {
+      "start_seconds": 2760.68,
+      "end_seconds": 2763.88,
+      "speaker": null,
+      "text": "cancer, for example, we use the  serum, the biomarker, which is"
+    },
+    {
+      "start_seconds": 2763.88,
+      "end_seconds": 2769.2,
+      "speaker": null,
+      "text": "PSA and just drop it 50%.  And then you stop there, you"
+    },
+    {
+      "start_seconds": 2769.2,
+      "end_seconds": 2773.16,
+      "speaker": null,
+      "text": "withdraw it, the tumor comes  back, but the tumor's not"
+    },
+    {
+      "start_seconds": 2773.16,
+      "end_seconds": 2777.44,
+      "speaker": null,
+      "text": "proliferating with no selection  for resistance."
+    },
+    {
+      "start_seconds": 2778.2,
+      "end_seconds": 2783.0,
+      "speaker": null,
+      "text": "And because in general, in the  absence of therapy, the, the"
+    },
+    {
+      "start_seconds": 2783.0,
+      "end_seconds": 2787.28,
+      "speaker": null,
+      "text": "resistant guys have some  molecular machinery that allows"
+    },
+    {
+      "start_seconds": 2787.28,
+      "end_seconds": 2791.84,
+      "speaker": null,
+      "text": "them to be resistant, which is  really good when you've got, it"
+    },
+    {
+      "start_seconds": 2791.84,
+      "end_seconds": 2794.88,
+      "speaker": null,
+      "text": "gives them a fitness advantage  when therapy's present."
+    },
+    {
+      "start_seconds": 2795.48,
+      "end_seconds": 2798.88,
+      "speaker": null,
+      "text": "But in the absence of therapy,  it's, it's, it's a, it's a cost"
+    },
+    {
+      "start_seconds": 2798.92,
+      "end_seconds": 2802.56,
+      "speaker": null,
+      "text": "with no benefit.  And so in general, the fitter,"
+    },
+    {
+      "start_seconds": 2802.56,
+      "end_seconds": 2806.72,
+      "speaker": null,
+      "text": "the, the, the sensitive cells  are fitter than the, the"
+    },
+    {
+      "start_seconds": 2806.72,
+      "end_seconds": 2808.68,
+      "speaker": null,
+      "text": "resistant cells in the absence  of treatment."
+    },
+    {
+      "start_seconds": 2809.28,
+      "end_seconds": 2814.28,
+      "speaker": null,
+      "text": "So the tumor comes back and you, and it recapitulates the"
+    },
+    {
+      "start_seconds": 2814.28,
+      "end_seconds": 2817.84,
+      "speaker": null,
+      "text": "distribution of fit of, of  sensitive and resistant cells"
+    },
+    {
+      "start_seconds": 2817.84,
+      "end_seconds": 2819.96,
+      "speaker": null,
+      "text": "that was there at the beginning. And you just treat it again, You"
+    },
+    {
+      "start_seconds": 2819.96,
+      "end_seconds": 2822.56,
+      "speaker": null,
+      "text": "just just just keep pushing it  down."
+    },
+    {
+      "start_seconds": 2824.0,
+      "end_seconds": 2828.32,
+      "speaker": null,
+      "text": "Now this is in metastatic  cancers that are fatal."
+    },
+    {
+      "start_seconds": 2828.56,
+      "end_seconds": 2833.68,
+      "speaker": null,
+      "text": "This is a where the, the goal is to maintain life with as high"
+    },
+    {
+      "start_seconds": 2833.68,
+      "end_seconds": 2835.92,
+      "speaker": null,
+      "text": "quality as possible for as long  as you can."
+    },
+    {
+      "start_seconds": 2836.96,
+      "end_seconds": 2840.52,
+      "speaker": null,
+      "text": "So what we've, what we've  learned is that we can this in"
+    },
+    {
+      "start_seconds": 2840.52,
+      "end_seconds": 2843.16,
+      "speaker": null,
+      "text": "this kind of mechanism, we,  we're only giving about half the"
+    },
+    {
+      "start_seconds": 2843.16,
+      "end_seconds": 2845.2,
+      "speaker": null,
+      "text": "drug that you would ordinarily  get."
+    },
+    {
+      "start_seconds": 2845.28,
+      "end_seconds": 2849.08,
+      "speaker": null,
+      "text": "And so the side effects and the  cost of the drugs are much less,"
+    },
+    {
+      "start_seconds": 2849.76,
+      "end_seconds": 2852.92,
+      "speaker": null,
+      "text": "but we can prolong life  considerably with that kind of"
+    },
+    {
+      "start_seconds": 2852.92,
+      "end_seconds": 2856.68,
+      "speaker": null,
+      "text": "approach.  It doesn't have this sort of"
+    },
+    {
+      "start_seconds": 2856.68,
+      "end_seconds": 2858.6,
+      "speaker": null,
+      "text": "sexiness of trying to kill all  the Kingstons."
+    },
+    {
+      "start_seconds": 2858.92,
+      "end_seconds": 2862.76,
+      "speaker": null,
+      "text": "I mean, that intuitively is what we would like to do."
+    },
+    {
+      "start_seconds": 2862.96,
+      "end_seconds": 2865.16,
+      "speaker": null,
+      "text": "I mean that that's, that just  feels very appealing."
+    },
+    {
+      "start_seconds": 2865.92,
+      "end_seconds": 2868.24,
+      "speaker": null,
+      "text": "And that would be the, the right thing to do if you could."
+    },
+    {
+      "start_seconds": 2869.6,
+      "end_seconds": 2873.48,
+      "speaker": null,
+      "text": "But given the fact that we don't have magic bullets, we, we don't"
+    },
+    {
+      "start_seconds": 2873.48,
+      "end_seconds": 2877.24,
+      "speaker": null,
+      "text": "have treatments that will kill  all the cancer cells and"
+    },
+    {
+      "start_seconds": 2877.24,
+      "end_seconds": 2882.2,
+      "speaker": null,
+      "text": "standard good example is antigen deprivation therapy for"
+    },
+    {
+      "start_seconds": 2882.28,
+      "end_seconds": 2884.84,
+      "speaker": null,
+      "text": "metastatic prostate cancer.  It's really effective."
+    },
+    {
+      "start_seconds": 2885.44,
+      "end_seconds": 2890.2,
+      "speaker": null,
+      "text": "You know, 9095% of the time it  reduces the PSA to normal or"
+    },
+    {
+      "start_seconds": 2890.2,
+      "end_seconds": 2895.36,
+      "speaker": null,
+      "text": "even unmeasurable.  But it's also never curative."
+    },
+    {
+      "start_seconds": 2895.48,
+      "end_seconds": 2899.2,
+      "speaker": null,
+      "text": "I mean, we know that just  historically it just is never"
+    },
+    {
+      "start_seconds": 2899.2,
+      "end_seconds": 2905.36,
+      "speaker": null,
+      "text": "curative.  So, you know, that's, that's the"
+    },
+    {
+      "start_seconds": 2905.36,
+      "end_seconds": 2909.8,
+      "speaker": null,
+      "text": "dynamic, yeah.  And the, the goal is then, you"
+    },
+    {
+      "start_seconds": 2909.8,
+      "end_seconds": 2913.92,
+      "speaker": null,
+      "text": "know, to to reduce the amount of ADT that you give antigen"
+    },
+    {
+      "start_seconds": 2913.92,
+      "end_seconds": 2916.72,
+      "speaker": null,
+      "text": "deprivation therapy, which meant hate, by the way."
+    },
+    {
+      "start_seconds": 2917.0,
+      "end_seconds": 2921.36,
+      "speaker": null,
+      "text": "And it's, and it's, it's got a  lot of toxicity, significantly"
+    },
+    {
+      "start_seconds": 2921.36,
+      "end_seconds": 2926.4,
+      "speaker": null,
+      "text": "decreases quality of life and  typically gives you maybe three"
+    },
+    {
+      "start_seconds": 2926.4,
+      "end_seconds": 2929.84,
+      "speaker": null,
+      "text": "years.  But if, if we can do much better"
+    },
+    {
+      "start_seconds": 2929.84,
+      "end_seconds": 2932.84,
+      "speaker": null,
+      "text": "than that with so that they,  they have a normal testosterone"
+    },
+    {
+      "start_seconds": 2932.84,
+      "end_seconds": 2937.56,
+      "speaker": null,
+      "text": "level about half the time.  We've both reduced the cost and"
+    },
+    {
+      "start_seconds": 2937.6,
+      "end_seconds": 2941.4,
+      "speaker": null,
+      "text": "we've reduced the, the toxicity  while also increasing, you know,"
+    },
+    {
+      "start_seconds": 2941.4,
+      "end_seconds": 2944.4,
+      "speaker": null,
+      "text": "lifespan.  So that's kind of the approach"
+    },
+    {
+      "start_seconds": 2944.4,
+      "end_seconds": 2949.56,
+      "speaker": null,
+      "text": "that we've tried to take.  And so we, and, and you know,"
+    },
+    {
+      "start_seconds": 2949.56,
+      "end_seconds": 2953.32,
+      "speaker": null,
+      "text": "that's, that's, that's worked  quite well, but it's, it's so"
+    },
+    {
+      "start_seconds": 2953.32,
+      "end_seconds": 2958.72,
+      "speaker": null,
+      "text": "different from the standard  cancer therapy that it's, it's"
+    },
+    {
+      "start_seconds": 2958.72,
+      "end_seconds": 2963.76,
+      "speaker": null,
+      "text": "really kind of intuitively  unappealing to, to oncologists."
+    },
+    {
+      "start_seconds": 2964.04,
+      "end_seconds": 2967.4,
+      "speaker": null,
+      "text": "And sometimes the patients, you  know, 'cause they, you, you, you"
+    },
+    {
+      "start_seconds": 2967.72,
+      "end_seconds": 2972.0,
+      "speaker": null,
+      "text": "drop the PSA to 50% of its  original prefigurement value."
+    },
+    {
+      "start_seconds": 2972.0,
+      "end_seconds": 2975.12,
+      "speaker": null,
+      "text": "And there's some, there's  something that says, let's just"
+    },
+    {
+      "start_seconds": 2975.12,
+      "end_seconds": 2977.52,
+      "speaker": null,
+      "text": "keep hitting it.  You know, that that's the, the"
+    },
+    {
+      "start_seconds": 2977.52,
+      "end_seconds": 2982.04,
+      "speaker": null,
+      "text": "right thing to do.  So it takes a sort of, you have"
+    },
+    {
+      "start_seconds": 2982.04,
+      "end_seconds": 2987.12,
+      "speaker": null,
+      "text": "to like think through that and,  and overcome that kind of the,"
+    },
+    {
+      "start_seconds": 2987.16,
+      "end_seconds": 2990.44,
+      "speaker": null,
+      "text": "the intuitive sense that that  you're, you're, you're not doing"
+    },
+    {
+      "start_seconds": 2990.44,
+      "end_seconds": 2993.36,
+      "speaker": null,
+      "text": "it right.  And and is that sort of thing"
+    },
+    {
+      "start_seconds": 2993.36,
+      "end_seconds": 2996.92,
+      "speaker": null,
+      "text": "just in terms of availability  it's so you guys are doing it at"
+    },
+    {
+      "start_seconds": 2996.92,
+      "end_seconds": 3001.68,
+      "speaker": null,
+      "text": "Moffett, is that it or are are  is this accessible to people or"
+    },
+    {
+      "start_seconds": 3001.72,
+      "end_seconds": 3005.8,
+      "speaker": null,
+      "text": "like how is this?  It's, it's, there are trial,"
+    },
+    {
+      "start_seconds": 3005.8,
+      "end_seconds": 3010.08,
+      "speaker": null,
+      "text": "there's there's large trials  going on in in Europe and"
+    },
+    {
+      "start_seconds": 3010.08,
+      "end_seconds": 3013.64,
+      "speaker": null,
+      "text": "Australia.  There's one using this approach"
+    },
+    {
+      "start_seconds": 3013.64,
+      "end_seconds": 3017.12,
+      "speaker": null,
+      "text": "in ovarian cancer that's going  on in a multi institutional"
+    },
+    {
+      "start_seconds": 3017.12,
+      "end_seconds": 3021.4,
+      "speaker": null,
+      "text": "study in the UK.  There are some physicians,"
+    },
+    {
+      "start_seconds": 3022.0,
+      "end_seconds": 3026.68,
+      "speaker": null,
+      "text": "oncologists who are not willing  to, to do this, but it would, it"
+    },
+    {
+      "start_seconds": 3026.68,
+      "end_seconds": 3029.92,
+      "speaker": null,
+      "text": "would still be considered, I  think non standard practice."
+    },
+    {
+      "start_seconds": 3031.2,
+      "end_seconds": 3037.88,
+      "speaker": null,
+      "text": "And so is it it it it?  It will take a a long time to, I"
+    },
+    {
+      "start_seconds": 3037.88,
+      "end_seconds": 3046.16,
+      "speaker": null,
+      "text": "think, change ideas about this.  If you were to hypothesize,"
+    },
+    {
+      "start_seconds": 3046.16,
+      "end_seconds": 3050.08,
+      "speaker": null,
+      "text": "where do you think adaptive  therapy might not work the best?"
+    },
+    {
+      "start_seconds": 3052.16,
+      "end_seconds": 3057.36,
+      "speaker": null,
+      "text": "We, we don't know.  We, we, I don't think we"
+    },
+    {
+      "start_seconds": 3057.36,
+      "end_seconds": 3060.0,
+      "speaker": null,
+      "text": "understand immunotherapy  sufficiently well."
+    },
+    {
+      "start_seconds": 3061.04,
+      "end_seconds": 3062.76,
+      "speaker": null,
+      "text": "The, the, the basic rules should be the same."
+    },
+    {
+      "start_seconds": 3062.76,
+      "end_seconds": 3068.64,
+      "speaker": null,
+      "text": "I mean, evolution is evolution,  but what we don't know are we"
+    },
+    {
+      "start_seconds": 3068.64,
+      "end_seconds": 3073.2,
+      "speaker": null,
+      "text": "have like to, we have the, the  cancer cell population which can"
+    },
+    {
+      "start_seconds": 3073.2,
+      "end_seconds": 3077.28,
+      "speaker": null,
+      "text": "evolve and we have the immune  response, which can change."
+    },
+    {
+      "start_seconds": 3077.56,
+      "end_seconds": 3080.6,
+      "speaker": null,
+      "text": "And, and those are very complex  dynamics."
+    },
+    {
+      "start_seconds": 3081.76,
+      "end_seconds": 3084.68,
+      "speaker": null,
+      "text": "And we're just beginning to, to  sort of look at those dynamics"
+    },
+    {
+      "start_seconds": 3084.68,
+      "end_seconds": 3089.48,
+      "speaker": null,
+      "text": "as they're very complicated.  And there's so many things that"
+    },
+    {
+      "start_seconds": 3089.48,
+      "end_seconds": 3093.0,
+      "speaker": null,
+      "text": "are going on it it's, it's  difficult to put all that"
+    },
+    {
+      "start_seconds": 3093.0,
+      "end_seconds": 3094.64,
+      "speaker": null,
+      "text": "together.  It's much easier to work with"
+    },
+    {
+      "start_seconds": 3095.44,
+      "end_seconds": 3097.2,
+      "speaker": null,
+      "text": "hormonal therapy and  chemotherapy."
+    },
+    {
+      "start_seconds": 3098.2,
+      "end_seconds": 3103.72,
+      "speaker": null,
+      "text": "Targeted therapy seems to be  perhaps slightly different, but"
+    },
+    {
+      "start_seconds": 3103.72,
+      "end_seconds": 3107.4,
+      "speaker": null,
+      "text": "but I will, you know, continue  to argue that the fundamentally"
+    },
+    {
+      "start_seconds": 3107.48,
+      "end_seconds": 3113.04,
+      "speaker": null,
+      "text": "evolution are first principles.  We we evolutionary dynamics will"
+    },
+    {
+      "start_seconds": 3113.04,
+      "end_seconds": 3115.64,
+      "speaker": null,
+      "text": "hold all it's these principles  will occur."
+    },
+    {
+      "start_seconds": 3115.84,
+      "end_seconds": 3119.04,
+      "speaker": null,
+      "text": "They simply, we don't know how  they play out in, in some of"
+    },
+    {
+      "start_seconds": 3119.04,
+      "end_seconds": 3121.96,
+      "speaker": null,
+      "text": "these treatments.  But I, but I think you can"
+    },
+    {
+      "start_seconds": 3121.96,
+      "end_seconds": 3127.28,
+      "speaker": null,
+      "text": "argue, I mean, when I first was  working at a Cancer Center,"
+    },
+    {
+      "start_seconds": 3127.28,
+      "end_seconds": 3131.72,
+      "speaker": null,
+      "text": "which is a long time ago, there  just weren't effective therapies"
+    },
+    {
+      "start_seconds": 3131.72,
+      "end_seconds": 3134.76,
+      "speaker": null,
+      "text": "for a lot of cancers, lung  cancer, renal cancer, Melanoma,"
+    },
+    {
+      "start_seconds": 3134.88,
+      "end_seconds": 3140.6,
+      "speaker": null,
+      "text": "I mean, there's just nothing.  And what we have now is really"
+    },
+    {
+      "start_seconds": 3141.16,
+      "end_seconds": 3144.76,
+      "speaker": null,
+      "text": "pretty good therapies for almost every cancer."
+    },
+    {
+      "start_seconds": 3145.96,
+      "end_seconds": 3151.24,
+      "speaker": null,
+      "text": "And yet metastatic lung cancer  is, is fatal now as it was then."
+    },
+    {
+      "start_seconds": 3151.48,
+      "end_seconds": 3157.92,
+      "speaker": null,
+      "text": "And the reason is evolution that that the cancer cells evolve"
+    },
+    {
+      "start_seconds": 3157.92,
+      "end_seconds": 3160.8,
+      "speaker": null,
+      "text": "resistance to an initially  effective therapy."
+    },
+    {
+      "start_seconds": 3162.4,
+      "end_seconds": 3167.56,
+      "speaker": null,
+      "text": "And so I, I think increasingly  you could argue that evolution"
+    },
+    {
+      "start_seconds": 3167.56,
+      "end_seconds": 3171.68,
+      "speaker": null,
+      "text": "is the proximate cause of death  in, in cancer, cancer patients."
+    },
+    {
+      "start_seconds": 3172.36,
+      "end_seconds": 3177.4,
+      "speaker": null,
+      "text": "And I think unless we  acknowledge that, and unless we"
+    },
+    {
+      "start_seconds": 3177.68,
+      "end_seconds": 3179.72,
+      "speaker": null,
+      "text": "start to really actively  integrate evolutionary"
+    },
+    {
+      "start_seconds": 3179.72,
+      "end_seconds": 3183.68,
+      "speaker": null,
+      "text": "principles into our therapy,  we're we're, we're not going to"
+    },
+    {
+      "start_seconds": 3183.68,
+      "end_seconds": 3189.64,
+      "speaker": null,
+      "text": "necessarily make progress unless we find a magic bullet which may"
+    },
+    {
+      "start_seconds": 3189.64,
+      "end_seconds": 3193.92,
+      "speaker": null,
+      "text": "or may not exist.  Yeah."
+    },
+    {
+      "start_seconds": 3193.92,
+      "end_seconds": 3196.76,
+      "speaker": null,
+      "text": "I'm curious, what are some of  the open questions you're"
+    },
+    {
+      "start_seconds": 3196.76,
+      "end_seconds": 3199.96,
+      "speaker": null,
+      "text": "tackling now by integrating more of the evolutionary dynamics"
+    },
+    {
+      "start_seconds": 3200.0,
+      "end_seconds": 3205.24,
+      "speaker": null,
+      "text": "into cancer?  One of the things that we we"
+    },
+    {
+      "start_seconds": 3205.24,
+      "end_seconds": 3208.8,
+      "speaker": null,
+      "text": "need desperately are biomarkers  to understand intratremal"
+    },
+    {
+      "start_seconds": 3208.8,
+      "end_seconds": 3213.04,
+      "speaker": null,
+      "text": "evolution over time.  We don't have a good way to"
+    },
+    {
+      "start_seconds": 3213.04,
+      "end_seconds": 3219.48,
+      "speaker": null,
+      "text": "estimate that recently.  And, and sometimes you just need"
+    },
+    {
+      "start_seconds": 3219.48,
+      "end_seconds": 3222.0,
+      "speaker": null,
+      "text": "more data, you know, just need  to acquire more data."
+    },
+    {
+      "start_seconds": 3222.0,
+      "end_seconds": 3225.44,
+      "speaker": null,
+      "text": "A lot of our trials have been  done on shoestring budgets."
+    },
+    {
+      "start_seconds": 3225.44,
+      "end_seconds": 3229.2,
+      "speaker": null,
+      "text": "So we, we didn't necessarily  have the ability to take, do"
+    },
+    {
+      "start_seconds": 3229.2,
+      "end_seconds": 3230.64,
+      "speaker": null,
+      "text": "some of the tests that we would  like to do."
+    },
+    {
+      "start_seconds": 3231.0,
+      "end_seconds": 3234.16,
+      "speaker": null,
+      "text": "But something as simple, what we found recently is, is if you"
+    },
+    {
+      "start_seconds": 3234.16,
+      "end_seconds": 3238.24,
+      "speaker": null,
+      "text": "take the testosterone level and  the PSA level simultaneously,"
+    },
+    {
+      "start_seconds": 3239.16,
+      "end_seconds": 3243.0,
+      "speaker": null,
+      "text": "the ratio of that can tell you a lot about the subpopulations."
+    },
+    {
+      "start_seconds": 3244.16,
+      "end_seconds": 3247.2,
+      "speaker": null,
+      "text": "So it doesn't have to be  esoteric, you know, circulating"
+    },
+    {
+      "start_seconds": 3247.2,
+      "end_seconds": 3252.96,
+      "speaker": null,
+      "text": "DNA, you know, we can use kind  of standard tests by by"
+    },
+    {
+      "start_seconds": 3252.96,
+      "end_seconds": 3254.76,
+      "speaker": null,
+      "text": "understanding the connection  between them."
+    },
+    {
+      "start_seconds": 3255.56,
+      "end_seconds": 3261.28,
+      "speaker": null,
+      "text": "So what we find is if the, the,  the, the, the PSA should reflect"
+    },
+    {
+      "start_seconds": 3261.28,
+      "end_seconds": 3263.28,
+      "speaker": null,
+      "text": "the testosterone level in  general."
+    },
+    {
+      "start_seconds": 3265.08,
+      "end_seconds": 3270.24,
+      "speaker": null,
+      "text": "But if you start to see the, the PSA for each, for a, for any,"
+    },
+    {
+      "start_seconds": 3270.28,
+      "end_seconds": 3273.2,
+      "speaker": null,
+      "text": "yeah, for the testosterone  level, if the PSA starts to be"
+    },
+    {
+      "start_seconds": 3273.4,
+      "end_seconds": 3277.52,
+      "speaker": null,
+      "text": "increasing over over time for  that individual, that means"
+    },
+    {
+      "start_seconds": 3277.52,
+      "end_seconds": 3283.16,
+      "speaker": null,
+      "text": "there are cells present that are able to, to use much lower"
+    },
+    {
+      "start_seconds": 3283.16,
+      "end_seconds": 3285.24,
+      "speaker": null,
+      "text": "amounts of testosterone.  That's over the concentration of"
+    },
+    {
+      "start_seconds": 3285.24,
+      "end_seconds": 3289.36,
+      "speaker": null,
+      "text": "testosterone to proliferate.  And so you're, they're making"
+    },
+    {
+      "start_seconds": 3289.36,
+      "end_seconds": 3293.32,
+      "speaker": null,
+      "text": "the PSA, but the testosterone  level is, is low."
+    },
+    {
+      "start_seconds": 3293.52,
+      "end_seconds": 3298.08,
+      "speaker": null,
+      "text": "So something like that then  allows us to understand that the"
+    },
+    {
+      "start_seconds": 3298.12,
+      "end_seconds": 3302.6,
+      "speaker": null,
+      "text": "that there's an this population  of resistant cells is increasing"
+    },
+    {
+      "start_seconds": 3303.04,
+      "end_seconds": 3304.6,
+      "speaker": null,
+      "text": "and we need to do something  about that."
+    },
+    {
+      "start_seconds": 3310.8,
+      "end_seconds": 3314.76,
+      "speaker": null,
+      "text": "I know you've also discussed  this idea of habitat imaging and"
+    },
+    {
+      "start_seconds": 3314.76,
+      "end_seconds": 3318.88,
+      "speaker": null,
+      "text": "looking at the tumor  microenvironment itself and then"
+    },
+    {
+      "start_seconds": 3318.88,
+      "end_seconds": 3322.84,
+      "speaker": null,
+      "text": "personalizing protocols based on that one."
+    },
+    {
+      "start_seconds": 3322.84,
+      "end_seconds": 3326.76,
+      "speaker": null,
+      "text": "I'm curious how, how, how that  personalization gets done."
+    },
+    {
+      "start_seconds": 3326.76,
+      "end_seconds": 3330.4,
+      "speaker": null,
+      "text": "And then two, I guess, why is  this something that's not being"
+    },
+    {
+      "start_seconds": 3330.4,
+      "end_seconds": 3336.48,
+      "speaker": null,
+      "text": "done right now?  The, the I don't, if you've ever"
+    },
+    {
+      "start_seconds": 3336.48,
+      "end_seconds": 3340.48,
+      "speaker": null,
+      "text": "seen habitat maps, I'm sorry,  species maps."
+    },
+    {
+      "start_seconds": 3340.84,
+      "end_seconds": 3343.96,
+      "speaker": null,
+      "text": "So if you look Florida, for  example, and say, what's the"
+    },
+    {
+      "start_seconds": 3343.96,
+      "end_seconds": 3345.4,
+      "speaker": null,
+      "text": "distribution of ground  squirrels?"
+    },
+    {
+      "start_seconds": 3345.4,
+      "end_seconds": 3348.0,
+      "speaker": null,
+      "text": "They'll be, you know that  they'll show you maps of what"
+    },
+    {
+      "start_seconds": 3348.0,
+      "end_seconds": 3350.28,
+      "speaker": null,
+      "text": "are these?  The Gray squirrel is dominant"
+    },
+    {
+      "start_seconds": 3350.28,
+      "end_seconds": 3351.72,
+      "speaker": null,
+      "text": "where the fox squirrel is  dominant."
+    },
+    {
+      "start_seconds": 3353.2,
+      "end_seconds": 3356.72,
+      "speaker": null,
+      "text": "People don't walk around, you  know, every square meter of"
+    },
+    {
+      "start_seconds": 3356.72,
+      "end_seconds": 3362.6,
+      "speaker": null,
+      "text": "Florida measuring squirrels and  the way it's done is, is, is is"
+    },
+    {
+      "start_seconds": 3362.6,
+      "end_seconds": 3367.64,
+      "speaker": null,
+      "text": "what's called landscape ecology. And, and this was developed for"
+    },
+    {
+      "start_seconds": 3367.64,
+      "end_seconds": 3370.88,
+      "speaker": null,
+      "text": "satellite images and, and  basically large space of scale"
+    },
+    {
+      "start_seconds": 3370.88,
+      "end_seconds": 3377.92,
+      "speaker": null,
+      "text": "images by identifying habitats,  you can then you can bite, but"
+    },
+    {
+      "start_seconds": 3377.92,
+      "end_seconds": 3381.4,
+      "speaker": null,
+      "text": "and then investigating a habitat and counting the squirrels in"
+    },
+    {
+      "start_seconds": 3381.4,
+      "end_seconds": 3383.84,
+      "speaker": null,
+      "text": "that one habitat, you can then  do a distribution."
+    },
+    {
+      "start_seconds": 3384.36,
+      "end_seconds": 3391.44,
+      "speaker": null,
+      "text": "So for example, grey squirrels  are very good at at at 4G and,"
+    },
+    {
+      "start_seconds": 3391.44,
+      "end_seconds": 3395.24,
+      "speaker": null,
+      "text": "and so they can out compete the  the red squirrels and the and"
+    },
+    {
+      "start_seconds": 3395.24,
+      "end_seconds": 3399.2,
+      "speaker": null,
+      "text": "the fox squirrels for competing. So if you see a college campus,"
+    },
+    {
+      "start_seconds": 3399.84,
+      "end_seconds": 3403.08,
+      "speaker": null,
+      "text": "you will basically always see  grey squirrels there."
+    },
+    {
+      "start_seconds": 3404.44,
+      "end_seconds": 3409.2,
+      "speaker": null,
+      "text": "What fox squirrels and, and, and red squirrels are, are good at"
+    },
+    {
+      "start_seconds": 3409.2,
+      "end_seconds": 3413.28,
+      "speaker": null,
+      "text": "is, is dealing with predators.  They'll go up a tree and attack"
+    },
+    {
+      "start_seconds": 3413.28,
+      "end_seconds": 3414.8,
+      "speaker": null,
+      "text": "an owl and, and that sort of  thing."
+    },
+    {
+      "start_seconds": 3414.8,
+      "end_seconds": 3423.2,
+      "speaker": null,
+      "text": "So in forests and in, you know,  in, in wildlife areas, the red"
+    },
+    {
+      "start_seconds": 3423.2,
+      "end_seconds": 3424.96,
+      "speaker": null,
+      "text": "squirrel will Dom, the fox  squirrel will dominate."
+    },
+    {
+      "start_seconds": 3425.52,
+      "end_seconds": 3427.04,
+      "speaker": null,
+      "text": "You won't see grey squirrels as  much."
+    },
+    {
+      "start_seconds": 3428.96,
+      "end_seconds": 3431.44,
+      "speaker": null,
+      "text": "Now on the other hand, if you  see grey squirrels on a college"
+    },
+    {
+      "start_seconds": 3431.44,
+      "end_seconds": 3437.0,
+      "speaker": null,
+      "text": "campus, that means either  there's coyotes there or there's"
+    },
+    {
+      "start_seconds": 3437.0,
+      "end_seconds": 3441.52,
+      "speaker": null,
+      "text": "feral cats.  So again, evolution tells you"
+    },
+    {
+      "start_seconds": 3442.08,
+      "end_seconds": 3445.2,
+      "speaker": null,
+      "text": "the truth and our job is to  understand."
+    },
+    {
+      "start_seconds": 3445.36,
+      "end_seconds": 3450.08,
+      "speaker": null,
+      "text": "So in this case, when we do  imaging with radiologic studies,"
+    },
+    {
+      "start_seconds": 3450.08,
+      "end_seconds": 3456.16,
+      "speaker": null,
+      "text": "so these are large scale, the  kind of the equivalent of of of"
+    },
+    {
+      "start_seconds": 3458.72,
+      "end_seconds": 3462.96,
+      "speaker": null,
+      "text": "satellite images.  If we can identify certain"
+    },
+    {
+      "start_seconds": 3462.96,
+      "end_seconds": 3467.96,
+      "speaker": null,
+      "text": "habitats that we know will in  which there will be typically"
+    },
+    {
+      "start_seconds": 3468.48,
+      "end_seconds": 3471.08,
+      "speaker": null,
+      "text": "certain kinds of tumor cells.  So for example, if it's if it's"
+    },
+    {
+      "start_seconds": 3471.08,
+      "end_seconds": 3473.96,
+      "speaker": null,
+      "text": "an area that's very poorly  perfused, we would expect cells"
+    },
+    {
+      "start_seconds": 3473.96,
+      "end_seconds": 3476.96,
+      "speaker": null,
+      "text": "that are, you know, hypoxic,  that acidic, they have those"
+    },
+    {
+      "start_seconds": 3477.2,
+      "end_seconds": 3483.24,
+      "speaker": null,
+      "text": "kinds of capacities.  So by by understanding how the"
+    },
+    {
+      "start_seconds": 3483.48,
+      "end_seconds": 3488.64,
+      "speaker": null,
+      "text": "large scale environment selects  for the small scale population,"
+    },
+    {
+      "start_seconds": 3489.24,
+      "end_seconds": 3494.56,
+      "speaker": null,
+      "text": "you can then estimate the  subpopulations of the, of the"
+    },
+    {
+      "start_seconds": 3494.56,
+      "end_seconds": 3498.92,
+      "speaker": null,
+      "text": "cancer.  The the, the problem is that is"
+    },
+    {
+      "start_seconds": 3498.92,
+      "end_seconds": 3500.2,
+      "speaker": null,
+      "text": "that it's really hard to do  that."
+    },
+    {
+      "start_seconds": 3501.88,
+      "end_seconds": 3506.64,
+      "speaker": null,
+      "text": "You know, what we did was take  MRI scan."
+    },
+    {
+      "start_seconds": 3506.64,
+      "end_seconds": 3511.16,
+      "speaker": null,
+      "text": "So MRI scans are the the same  tissue was repeatedly"
+    },
+    {
+      "start_seconds": 3511.16,
+      "end_seconds": 3515.4,
+      "speaker": null,
+      "text": "interrogated with different  sequences that are that are"
+    },
+    {
+      "start_seconds": 3515.4,
+      "end_seconds": 3517.52,
+      "speaker": null,
+      "text": "sensitive to different  components of the tissue."
+    },
+    {
+      "start_seconds": 3518.32,
+      "end_seconds": 3523.36,
+      "speaker": null,
+      "text": "Putting those together, we can  generate a habitat the, the,"
+    },
+    {
+      "start_seconds": 3523.88,
+      "end_seconds": 3526.84,
+      "speaker": null,
+      "text": "the, the, the, but this is  technically very difficult"
+    },
+    {
+      "start_seconds": 3526.84,
+      "end_seconds": 3529.76,
+      "speaker": null,
+      "text": "because the, the sequences are  never precisely the same."
+    },
+    {
+      "start_seconds": 3531.24,
+      "end_seconds": 3534.6,
+      "speaker": null,
+      "text": "They, the, the, the, the spatial scales are often slightly"
+    },
+    {
+      "start_seconds": 3534.6,
+      "end_seconds": 3537.12,
+      "speaker": null,
+      "text": "different.  For example, there can be a 3mm"
+    },
+    {
+      "start_seconds": 3537.12,
+      "end_seconds": 3540.8,
+      "speaker": null,
+      "text": "slice thickness versus 5mm, even 7mm."
+    },
+    {
+      "start_seconds": 3541.2,
+      "end_seconds": 3543.88,
+      "speaker": null,
+      "text": "And so technically there's a lot of things to overcome."
+    },
+    {
+      "start_seconds": 3543.88,
+      "end_seconds": 3549.0,
+      "speaker": null,
+      "text": "What we have pleaded with the  imaging companies to do is to,"
+    },
+    {
+      "start_seconds": 3549.0,
+      "end_seconds": 3554.64,
+      "speaker": null,
+      "text": "is to develop a, a sequence that allows you to interrogate the"
+    },
+    {
+      "start_seconds": 3554.64,
+      "end_seconds": 3557.92,
+      "speaker": null,
+      "text": "same tissue with multiple  sequences simultaneously, which"
+    },
+    {
+      "start_seconds": 3557.92,
+      "end_seconds": 3560.96,
+      "speaker": null,
+      "text": "in theory is possible, but, but  that's been very slow to"
+    },
+    {
+      "start_seconds": 3560.96,
+      "end_seconds": 3563.84,
+      "speaker": null,
+      "text": "develop.  So it's been a a frustrating"
+    },
+    {
+      "start_seconds": 3566.32,
+      "end_seconds": 3571.56,
+      "speaker": null,
+      "text": "path and it's, it's and these  are this, this is sufficiently"
+    },
+    {
+      "start_seconds": 3571.56,
+      "end_seconds": 3575.12,
+      "speaker": null,
+      "text": "extent expensive that we need  grants for that and they have"
+    },
+    {
+      "start_seconds": 3575.12,
+      "end_seconds": 3584.24,
+      "speaker": null,
+      "text": "not been forthcoming.  Mike, any other questions?"
+    },
+    {
+      "start_seconds": 3585.0,
+      "end_seconds": 3586.8,
+      "speaker": null,
+      "text": "No, no, a lot, a lot to think  about it."
+    },
+    {
+      "start_seconds": 3586.8,
+      "end_seconds": 3592.32,
+      "speaker": null,
+      "text": "You know, I think this really  this, this, this conciliants of,"
+    },
+    {
+      "start_seconds": 3592.36,
+      "end_seconds": 3595.88,
+      "speaker": null,
+      "text": "of evolutionary kinds of  considerations over the, over"
+    },
+    {
+      "start_seconds": 3595.88,
+      "end_seconds": 3601.08,
+      "speaker": null,
+      "text": "the population and the sort of  software aspects in the, the"
+    },
+    {
+      "start_seconds": 3601.08,
+      "end_seconds": 3603.32,
+      "speaker": null,
+      "text": "decision making of the  collective and this, this"
+    },
+    {
+      "start_seconds": 3603.32,
+      "end_seconds": 3607.76,
+      "speaker": null,
+      "text": "physiological circuits.  I think this is this is where in"
+    },
+    {
+      "start_seconds": 3607.76,
+      "end_seconds": 3610.52,
+      "speaker": null,
+      "text": "the end the the the solutions  are going to come from."
+    },
+    {
+      "start_seconds": 3610.88,
+      "end_seconds": 3613.0,
+      "speaker": null,
+      "text": "I think we really, we really  need to understand both sides of"
+    },
+    {
+      "start_seconds": 3613.0,
+      "end_seconds": 3615.4,
+      "speaker": null,
+      "text": "it.  It's funny if you go back to the"
+    },
+    {
+      "start_seconds": 3616.52,
+      "end_seconds": 3620.72,
+      "speaker": null,
+      "text": "era when the human genome was  being deciphered and was if you"
+    },
+    {
+      "start_seconds": 3620.72,
+      "end_seconds": 3624.84,
+      "speaker": null,
+      "text": "read the literature, it sort of  implies that this is pretty much"
+    },
+    {
+      "start_seconds": 3624.84,
+      "end_seconds": 3627.52,
+      "speaker": null,
+      "text": "it.  We this is the end of the"
+    },
+    {
+      "start_seconds": 3627.52,
+      "end_seconds": 3629.08,
+      "speaker": null,
+      "text": "disease.  I mean, I think that that term"
+    },
+    {
+      "start_seconds": 3629.16,
+      "end_seconds": 3634.48,
+      "speaker": null,
+      "text": "was even used.  And, and it's funny because"
+    },
+    {
+      "start_seconds": 3634.48,
+      "end_seconds": 3638.92,
+      "speaker": null,
+      "text": "they, we still live in a, the  very genetic era where, you"
+    },
+    {
+      "start_seconds": 3638.92,
+      "end_seconds": 3644.2,
+      "speaker": null,
+      "text": "know, everything that's done is, is, you know, it's based on, you"
+    },
+    {
+      "start_seconds": 3644.2,
+      "end_seconds": 3649.64,
+      "speaker": null,
+      "text": "know, genetic measurements.  And, and I think that, you know,"
+    },
+    {
+      "start_seconds": 3649.64,
+      "end_seconds": 3652.64,
+      "speaker": null,
+      "text": "it's, it's a whole generation, I think has been almost lost"
+    },
+    {
+      "start_seconds": 3653.08,
+      "end_seconds": 3657.08,
+      "speaker": null,
+      "text": "because there's been so much  focus on that, that we've, we've"
+    },
+    {
+      "start_seconds": 3657.88,
+      "end_seconds": 3660.36,
+      "speaker": null,
+      "text": "given up on many of the other  things which are actually being"
+    },
+    {
+      "start_seconds": 3660.36,
+      "end_seconds": 3664.12,
+      "speaker": null,
+      "text": "developed in the 50s and 60s,  but then just kind of got passed"
+    },
+    {
+      "start_seconds": 3664.12,
+      "end_seconds": 3666.4,
+      "speaker": null,
+      "text": "over by the, by the genetic  revolution."
+    },
+    {
+      "start_seconds": 3666.4,
+      "end_seconds": 3670.56,
+      "speaker": null,
+      "text": "It's just so easy to put your  sample in a molecular biology"
+    },
+    {
+      "start_seconds": 3670.56,
+      "end_seconds": 3675.4,
+      "speaker": null,
+      "text": "machine and, and generate data.  And I think there's a false"
+    },
+    {
+      "start_seconds": 3675.4,
+      "end_seconds": 3678.4,
+      "speaker": null,
+      "text": "sense that, you know, this, all  this data is going to tell us"
+    },
+    {
+      "start_seconds": 3678.4,
+      "end_seconds": 3680.84,
+      "speaker": null,
+      "text": "something, you know, really  great."
+    },
+    {
+      "start_seconds": 3681.84,
+      "end_seconds": 3687.56,
+      "speaker": null,
+      "text": "An interesting analogy is to  say, suppose you were a modern"
+    },
+    {
+      "start_seconds": 3687.56,
+      "end_seconds": 3694.88,
+      "speaker": null,
+      "text": "Darwin and and you were on the  Beagle with with just $1,000,000"
+    },
+    {
+      "start_seconds": 3694.88,
+      "end_seconds": 3697.56,
+      "speaker": null,
+      "text": "worth of, of molecular biology  machinery."
+    },
+    {
+      "start_seconds": 3698.52,
+      "end_seconds": 3704.2,
+      "speaker": null,
+      "text": "And suppose the sailors tramped  through the the Galapagos"
+    },
+    {
+      "start_seconds": 3704.2,
+      "end_seconds": 3707.4,
+      "speaker": null,
+      "text": "Islands and they brought you  back pinch samples and you"
+    },
+    {
+      "start_seconds": 3707.4,
+      "end_seconds": 3710.56,
+      "speaker": null,
+      "text": "ground them up and put put them  into the your molecular biology"
+    },
+    {
+      "start_seconds": 3710.56,
+      "end_seconds": 3713.72,
+      "speaker": null,
+      "text": "machines and generated, you  know, terabytes of data."
+    },
+    {
+      "start_seconds": 3714.76,
+      "end_seconds": 3719.8,
+      "speaker": null,
+      "text": "Could that modern Darwin have  written on the origin of"
+    },
+    {
+      "start_seconds": 3719.8,
+      "end_seconds": 3724.84,
+      "speaker": null,
+      "text": "species?  And I think the answer is no,"
+    },
+    {
+      "start_seconds": 3725.84,
+      "end_seconds": 3729.04,
+      "speaker": null,
+      "text": "although I, I've posed this to  molecular biologists who always"
+    },
+    {
+      "start_seconds": 3729.04,
+      "end_seconds": 3731.72,
+      "speaker": null,
+      "text": "say, well, I think they've done  it."
+    },
+    {
+      "start_seconds": 3731.72,
+      "end_seconds": 3734.44,
+      "speaker": null,
+      "text": "But the, but the problem is that there's, there's not a clear"
+    },
+    {
+      "start_seconds": 3735.56,
+      "end_seconds": 3737.44,
+      "speaker": null,
+      "text": "mapping from genotype to  phenotype."
+    },
+    {
+      "start_seconds": 3739.12,
+      "end_seconds": 3743.8,
+      "speaker": null,
+      "text": "So you would have to know from  the gene that, that the, there's"
+    },
+    {
+      "start_seconds": 3743.8,
+      "end_seconds": 3747.12,
+      "speaker": null,
+      "text": "something about the beak.  But you laugh like what you,"
+    },
+    {
+      "start_seconds": 3747.12,
+      "end_seconds": 3750.92,
+      "speaker": null,
+      "text": "what you cannot see is the  selection force, the, the"
+    },
+    {
+      "start_seconds": 3750.92,
+      "end_seconds": 3753.6,
+      "speaker": null,
+      "text": "morphology of the beak.  I mean, what, what Darwin saw"
+    },
+    {
+      "start_seconds": 3753.6,
+      "end_seconds": 3756.92,
+      "speaker": null,
+      "text": "was something very  straightforward and logical."
+    },
+    {
+      "start_seconds": 3756.92,
+      "end_seconds": 3760.56,
+      "speaker": null,
+      "text": "The morphology, the beacon, the  morphology of the seed matched."
+    },
+    {
+      "start_seconds": 3762.08,
+      "end_seconds": 3767.56,
+      "speaker": null,
+      "text": "And we, we, I don't, I, I think  for all the data we generate"
+    },
+    {
+      "start_seconds": 3767.8,
+      "end_seconds": 3773.72,
+      "speaker": null,
+      "text": "from the, from the molecular  data, I don't know if we've"
+    },
+    {
+      "start_seconds": 3775.04,
+      "end_seconds": 3780.2,
+      "speaker": null,
+      "text": "gotten a, a true sense of the,  of the, of what's, what's really"
+    },
+    {
+      "start_seconds": 3780.2,
+      "end_seconds": 3781.84,
+      "speaker": null,
+      "text": "going on.  I mean, I think we've sort of"
+    },
+    {
+      "start_seconds": 3783.88,
+      "end_seconds": 3788.16,
+      "speaker": null,
+      "text": "missed the, the, the way we,  we've missed the seeds, you"
+    },
+    {
+      "start_seconds": 3788.16,
+      "end_seconds": 3792.36,
+      "speaker": null,
+      "text": "know, and, and in cancer at  least we've not done the"
+    },
+    {
+      "start_seconds": 3792.36,
+      "end_seconds": 3796.96,
+      "speaker": null,
+      "text": "phenotype, the beak versus seed  kind of understanding."
+    },
+    {
+      "start_seconds": 3797.56,
+      "end_seconds": 3800.72,
+      "speaker": null,
+      "text": "And so we've got lots of genetic information, but, but it's not"
+    },
+    {
+      "start_seconds": 3800.72,
+      "end_seconds": 3804.68,
+      "speaker": null,
+      "text": "being built on a solid framework of of sort of evolutionary first"
+    },
+    {
+      "start_seconds": 3804.68,
+      "end_seconds": 3809.8,
+      "speaker": null,
+      "text": "principles.  Yeah, I think you're framing off"
+    },
+    {
+      "start_seconds": 3809.8,
+      "end_seconds": 3813.56,
+      "speaker": null,
+      "text": "where is evolution spending  energy and how 1/3 of it is, say"
+    },
+    {
+      "start_seconds": 3813.56,
+      "end_seconds": 3815.68,
+      "speaker": null,
+      "text": "even just iron channel  transport."
+    },
+    {
+      "start_seconds": 3816.08,
+      "end_seconds": 3819.2,
+      "speaker": null,
+      "text": "It just tells you a lot where  perhaps we should be focusing"
+    },
+    {
+      "start_seconds": 3819.2,
+      "end_seconds": 3820.68,
+      "speaker": null,
+      "text": "our efforts and other things as  well."
+    },
+    {
+      "start_seconds": 3821.24,
+      "end_seconds": 3827.8,
+      "speaker": null,
+      "text": "Yeah, follow the money.  Yeah, I think, I think evolution"
+    },
+    {
+      "start_seconds": 3828.24,
+      "end_seconds": 3832.68,
+      "speaker": null,
+      "text": "is trying to tell us something  and we've not been listening"
+    },
+    {
+      "start_seconds": 3832.68,
+      "end_seconds": 3835.88,
+      "speaker": null,
+      "text": "very well up until now.  Hi everyone, if you wish to be"
+    },
+    {
+      "start_seconds": 3835.88,
+      "end_seconds": 3840.2,
+      "speaker": null,
+      "text": "notified of future podcast  episodes and my writing on"
+    },
+    {
+      "start_seconds": 3840.2,
+      "end_seconds": 3844.88,
+      "speaker": null,
+      "text": "longevity and the frontiers of  biology, please subscribe at"
+    },
+    {
+      "start_seconds": 3844.88,
+      "end_seconds": 3849.44,
+      "speaker": null,
+      "text": "liblongworld.com.  And if you're enjoying the show,"
+    },
+    {
+      "start_seconds": 3849.64,
+      "end_seconds": 3853.4,
+      "speaker": null,
+      "text": "please leave a rating on Apple,  Spotify, or elsewhere."
+    },
+    {
+      "start_seconds": 3854.12,
+      "end_seconds": 3856.56,
+      "speaker": null,
+      "text": "Thank you for listening and I  will see you next time."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-284808450610d29a.txt",
+  "text_sha256": "30b58050fc059cd2fbd8b097e3747e3e9edbb4f996ad5760c4b5c418917e7224",
+  "word_count": 9152,
+  "segment_count": 931
+}

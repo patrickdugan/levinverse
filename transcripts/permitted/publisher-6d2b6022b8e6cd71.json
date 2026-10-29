@@ -1,0 +1,6512 @@
+{
+  "source_url": "https://omny.fm/shows/inner-cosmos-with-david-eagleman/ep111-might-we-be-surrounded-with-undetected-minds-with-michael-levin",
+  "transcript_track_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d7b6bac4-68f5-4c82-86c3-b313005d97bb/transcript?format=WebVTT&t=1751905793",
+  "raw_transcript_path": "transcripts/permitted/rss-e10810646e7d655f.srt",
+  "source_kind": "platform_caption",
+  "title": "Ep111 \"Might we be surrounded with undetected minds?\" (with Michael Levin)",
+  "publication_date": null,
+  "video_ids": [],
+  "relevance_confirmed": true,
+  "relevance_evidence": "publisher RSS episode explicitly identifies Michael Levin",
+  "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred",
+  "host": "Inner Cosmos with David Eagleman",
+  "language": "en-us",
+  "episode_guid": "d7b6bac4-68f5-4c82-86c3-b313005d97bb",
+  "publisher_feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/534dc725-2971-42a1-b1bf-afaa0107416e/bee00526-7528-4581-b6b6-afaa01083a3d/podcast.rss",
+  "transcript_id": "publisher-6d2b6022b8e6cd71",
+  "retrieved_at": "2026-10-29T11:24:55.559956+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 5.12,
+      "end_seconds": 9.52,
+      "speaker": null,
+      "text": "What is intelligence And if we look hard, might we"
+    },
+    {
+      "start_seconds": 9.76,
+      "end_seconds": 13.6,
+      "speaker": null,
+      "text": "find it in very weird places, not just in brains,"
+    },
+    {
+      "start_seconds": 13.72,
+      "end_seconds": 17.08,
+      "speaker": null,
+      "text": "but in all kinds of structures in our universe? And"
+    },
+    {
+      "start_seconds": 17.239,
+      "end_seconds": 20.36,
+      "speaker": null,
+      "text": "how would we even recognize it? And what does any"
+    },
+    {
+      "start_seconds": 20.44,
+      "end_seconds": 23.24,
+      "speaker": null,
+      "text": "of this have to do with a dog born without"
+    },
+    {
+      "start_seconds": 23.28,
+      "end_seconds": 27.92,
+      "speaker": null,
+      "text": "front legs learning how to walk bipedally, or making new"
+    },
+    {
+      "start_seconds": 28.0,
+      "end_seconds": 33.12,
+      "speaker": null,
+      "text": "little organisms out of single cells, or how Wikipedia might"
+    },
+    {
+      "start_seconds": 33.2,
+      "end_seconds": 37.159,
+      "speaker": null,
+      "text": "be like an axilautel and why we are so blind"
+    },
+    {
+      "start_seconds": 37.4,
+      "end_seconds": 41.68,
+      "speaker": null,
+      "text": "to the vast variety of minds that might surround us."
+    },
+    {
+      "start_seconds": 44.44,
+      "end_seconds": 48.0,
+      "speaker": null,
+      "text": "Welcome to Intercosmos with me, David Eagleman. I'm a neuroscientist"
+    },
+    {
+      "start_seconds": 48.0,
+      "end_seconds": 50.919,
+      "speaker": null,
+      "text": "and an author at Stanford, and in these episodes we"
+    },
+    {
+      "start_seconds": 51.0,
+      "end_seconds": 55.44,
+      "speaker": null,
+      "text": "sail deeply into our three pound universe to understand some"
+    },
+    {
+      "start_seconds": 55.52,
+      "end_seconds": 73.6,
+      "speaker": null,
+      "text": "of the most surprising aspects of the world around us."
+    },
+    {
+      "start_seconds": 75.2,
+      "end_seconds": 78.84,
+      "speaker": null,
+      "text": "Today's episode is about intelligence, not in the way that"
+    },
+    {
+      "start_seconds": 78.88,
+      "end_seconds": 82.68,
+      "speaker": null,
+      "text": "I've talked about in earlier episodes, about how the structure"
+    },
+    {
+      "start_seconds": 82.72,
+      "end_seconds": 85.52,
+      "speaker": null,
+      "text": "of the human brain gives rise to intelligence and how"
+    },
+    {
+      "start_seconds": 85.52,
+      "end_seconds": 89.839,
+      "speaker": null,
+      "text": "we can measure whether AI's intelligence. Today's episode is way"
+    },
+    {
+      "start_seconds": 89.88,
+      "end_seconds": 92.6,
+      "speaker": null,
+      "text": "beyond that. Today I'm going to talk with one of"
+    },
+    {
+      "start_seconds": 92.64,
+      "end_seconds": 97.0,
+      "speaker": null,
+      "text": "my most brilliant and creative colleagues, Michael Levin, about how"
+    },
+    {
+      "start_seconds": 97.03999999999999,
+      "end_seconds": 101.72,
+      "speaker": null,
+      "text": "we might find intelligence all around us in ways that"
+    },
+    {
+      "start_seconds": 101.75999999999999,
+      "end_seconds": 105.24000000000001,
+      "speaker": null,
+      "text": "we don't typically into it. So let's start at the beginning."
+    },
+    {
+      "start_seconds": 105.84,
+      "end_seconds": 109.52000000000001,
+      "speaker": null,
+      "text": "What is intelligence. It's a word that we usually reserve"
+    },
+    {
+      "start_seconds": 109.92,
+      "end_seconds": 114.47999999999999,
+      "speaker": null,
+      "text": "for something abstract and cerebral, something associated with problem solving"
+    },
+    {
+      "start_seconds": 114.56,
+      "end_seconds": 118.68,
+      "speaker": null,
+      "text": "and planning and passing IQ tests. We tend to picture"
+    },
+    {
+      "start_seconds": 118.75999999999999,
+      "end_seconds": 123.68,
+      "speaker": null,
+      "text": "intelligence as a property of brains, and especially big human brains."
+    },
+    {
+      "start_seconds": 124.16,
+      "end_seconds": 128.48,
+      "speaker": null,
+      "text": "We're generally willing to grant some intelligence to dolphins and"
+    },
+    {
+      "start_seconds": 128.56,
+      "end_seconds": 132.28,
+      "speaker": null,
+      "text": "chimps and clever birds like ravens, but it's hard to"
+    },
+    {
+      "start_seconds": 132.4,
+      "end_seconds": 135.68,
+      "speaker": null,
+      "text": "know how to think about so many other things happening"
+    },
+    {
+      "start_seconds": 135.72,
+      "end_seconds": 140.56,
+      "speaker": null,
+      "text": "in the world. For example, my skin cells heal a wound."
+    },
+    {
+      "start_seconds": 141.07999999999998,
+      "end_seconds": 145.07999999999998,
+      "speaker": null,
+      "text": "Is that intelligence or is that just biochemical cascades? A"
+    },
+    {
+      "start_seconds": 145.16,
+      "end_seconds": 150.56,
+      "speaker": null,
+      "text": "plant grows towards sunlight intelligent? A worm gets its head"
+    },
+    {
+      "start_seconds": 150.6,
+      "end_seconds": 153.92000000000002,
+      "speaker": null,
+      "text": "cut off and it regrows it. That's amazing, But we"
+    },
+    {
+      "start_seconds": 154.0,
+      "end_seconds": 157.239,
+      "speaker": null,
+      "text": "don't tend to call that cognition. But what if we've"
+    },
+    {
+      "start_seconds": 157.28,
+      "end_seconds": 161.48,
+      "speaker": null,
+      "text": "been looking at the whole notion of intelligence too narrowly."
+    },
+    {
+      "start_seconds": 161.8,
+      "end_seconds": 165.76,
+      "speaker": null,
+      "text": "What if intelligence isn't just about neurons and genes, but"
+    },
+    {
+      "start_seconds": 165.84,
+      "end_seconds": 169.56,
+      "speaker": null,
+      "text": "it's about goals, and specifically, it's about the ability of"
+    },
+    {
+      "start_seconds": 169.56,
+      "end_seconds": 174.92000000000002,
+      "speaker": null,
+      "text": "a system to navigate towards an objective, to adapt to"
+    },
+    {
+      "start_seconds": 174.96,
+      "end_seconds": 177.84,
+      "speaker": null,
+      "text": "its circumstances, to make decisions."
+    },
+    {
+      "start_seconds": 177.2,
+      "end_seconds": 177.96,
+      "speaker": null,
+      "text": "Along the way."
+    },
+    {
+      "start_seconds": 178.4,
+      "end_seconds": 182.56,
+      "speaker": null,
+      "text": "That's a broader definition of intelligence. And if we apply it,"
+    },
+    {
+      "start_seconds": 182.6,
+      "end_seconds": 187.6,
+      "speaker": null,
+      "text": "suddenly intelligence doesn't just belong to creatures with brains. It"
+    },
+    {
+      "start_seconds": 187.68,
+      "end_seconds": 192.0,
+      "speaker": null,
+      "text": "becomes something that shows up in places we didn't expect."
+    },
+    {
+      "start_seconds": 192.12,
+      "end_seconds": 196.359,
+      "speaker": null,
+      "text": "Think about really simple creatures like a tadpole. It's millions"
+    },
+    {
+      "start_seconds": 196.4,
+      "end_seconds": 200.919,
+      "speaker": null,
+      "text": "of cells collaborate and communicate and organize into an eye"
+    },
+    {
+      "start_seconds": 201.0,
+      "end_seconds": 205.72,
+      "speaker": null,
+      "text": "and a spine and a heart without anybody orchestrating the"
+    },
+    {
+      "start_seconds": 205.76,
+      "end_seconds": 208.88,
+      "speaker": null,
+      "text": "whole thing. There's no central planning, it's just a kind"
+    },
+    {
+      "start_seconds": 208.88,
+      "end_seconds": 213.519,
+      "speaker": null,
+      "text": "of emergent intelligence at work. Or think about a flatworm"
+    },
+    {
+      "start_seconds": 213.56,
+      "end_seconds": 216.6,
+      "speaker": null,
+      "text": "that can be cut into pieces and each piece regenerates"
+    },
+    {
+      "start_seconds": 216.64,
+      "end_seconds": 220.76,
+      "speaker": null,
+      "text": "a complete, properly shaped body. How does each fragment know"
+    },
+    {
+      "start_seconds": 221.24,
+      "end_seconds": 225.32,
+      "speaker": null,
+      "text": "what's missing? Where exactly is that information stored? What is"
+    },
+    {
+      "start_seconds": 225.4,
+      "end_seconds": 229.6,
+      "speaker": null,
+      "text": "guiding the process? And as we ask these questions, that"
+    },
+    {
+      "start_seconds": 229.72,
+      "end_seconds": 232.64,
+      "speaker": null,
+      "text": "leads us to ask how we can learn to talk"
+    },
+    {
+      "start_seconds": 232.68,
+      "end_seconds": 235.4,
+      "speaker": null,
+      "text": "to these systems in the language that they understand, like"
+    },
+    {
+      "start_seconds": 235.8,
+      "end_seconds": 239.84,
+      "speaker": null,
+      "text": "voltage gradients or bioelectric circuits or chemical signals. Can we"
+    },
+    {
+      "start_seconds": 239.84,
+      "end_seconds": 244.76,
+      "speaker": null,
+      "text": "start reprogramming the goals of tissues? Can we tell a"
+    },
+    {
+      "start_seconds": 244.88,
+      "end_seconds": 248.56,
+      "speaker": null,
+      "text": "clump of cells to build something new? And can we"
+    },
+    {
+      "start_seconds": 248.72,
+      "end_seconds": 253.6,
+      "speaker": null,
+      "text": "use this kind of knowledge to regenerate organs, or repair"
+    },
+    {
+      "start_seconds": 253.92,
+      "end_seconds": 255.2,
+      "speaker": null,
+      "text": "birth defects or."
+    },
+    {
+      "start_seconds": 255.56,
+      "end_seconds": 257.84,
+      "speaker": null,
+      "text": "Create entirely new forms of life."
+    },
+    {
+      "start_seconds": 257.92,
+      "end_seconds": 261.2,
+      "speaker": null,
+      "text": "These are the kinds of questions that today's guest has"
+    },
+    {
+      "start_seconds": 261.24,
+      "end_seconds": 264.76,
+      "speaker": null,
+      "text": "spent his career exploring and his work leads us to"
+    },
+    {
+      "start_seconds": 264.8,
+      "end_seconds": 269.68,
+      "speaker": null,
+      "text": "the conclusion that we're probably surrounded by minds, almost all"
+    },
+    {
+      "start_seconds": 269.68,
+      "end_seconds": 273.12,
+      "speaker": null,
+      "text": "of which we don't recognize. Minds are pervasive, and they're"
+    },
+    {
+      "start_seconds": 273.15999999999997,
+      "end_seconds": 277.44,
+      "speaker": null,
+      "text": "not restricted to brains, but spread across all kinds of"
+    },
+    {
+      "start_seconds": 277.56,
+      "end_seconds": 285.04,
+      "speaker": null,
+      "text": "levels of organization, from single cells to societies. My guest"
+    },
+    {
+      "start_seconds": 285.4,
+      "end_seconds": 289.32,
+      "speaker": null,
+      "text": "is Michael Levin. He's a distinguished professor of developmental and"
+    },
+    {
+      "start_seconds": 289.36,
+      "end_seconds": 292.76,
+      "speaker": null,
+      "text": "Synthetic biology at Tufts University, and I've had him on"
+    },
+    {
+      "start_seconds": 292.8,
+      "end_seconds": 295.92,
+      "speaker": null,
+      "text": "the podcast before because he's really one of my favorite"
+    },
+    {
+      "start_seconds": 295.96,
+      "end_seconds": 299.279,
+      "speaker": null,
+      "text": "thinkers in the field. He's massively creative and always pulling"
+    },
+    {
+      "start_seconds": 299.279,
+      "end_seconds": 304.039,
+      "speaker": null,
+      "text": "off amazing results that the frontier where biology meets information"
+    },
+    {
+      "start_seconds": 304.12,
+      "end_seconds": 307.4,
+      "speaker": null,
+      "text": "theory or computation or philosophy, and as you're going to see,"
+    },
+    {
+      "start_seconds": 307.4,
+      "end_seconds": 311.96,
+      "speaker": null,
+      "text": "his work always challenges our deepest intuitions about agency and"
+    },
+    {
+      "start_seconds": 312.04,
+      "end_seconds": 316.24,
+      "speaker": null,
+      "text": "memory and selfhood. So you've heard of SETI, the Search"
+    },
+    {
+      "start_seconds": 316.32,
+      "end_seconds": 321.359,
+      "speaker": null,
+      "text": "for Extraterrestrial Intelligence. Recently, Levin proposed SUTI, the search for"
+    },
+    {
+      "start_seconds": 321.8,
+      "end_seconds": 327.0,
+      "speaker": null,
+      "text": "unconventional terrestrial intelligence. As we're about to hear, his position"
+    },
+    {
+      "start_seconds": 327.16,
+      "end_seconds": 330.88,
+      "speaker": null,
+      "text": "is that right here on Earth, there are already aliens"
+    },
+    {
+      "start_seconds": 331.04,
+      "end_seconds": 335.44,
+      "speaker": null,
+      "text": "among us that stretch and sometimes break. Are typical ways"
+    },
+    {
+      "start_seconds": 335.839,
+      "end_seconds": 340.52,
+      "speaker": null,
+      "text": "of thinking about minds. So if you've ever wondered where"
+    },
+    {
+      "start_seconds": 340.56,
+      "end_seconds": 344.12,
+      "speaker": null,
+      "text": "intelligence begins, how far it reaches, or whether you might"
+    },
+    {
+      "start_seconds": 344.2,
+      "end_seconds": 347.719,
+      "speaker": null,
+      "text": "share more in common with blobs of cells than you think."
+    },
+    {
+      "start_seconds": 348.0,
+      "end_seconds": 356.64,
+      "speaker": null,
+      "text": "This episode is for you. Here's my interview with Mike Levin. So, Mike,"
+    },
+    {
+      "start_seconds": 356.8,
+      "end_seconds": 360.839,
+      "speaker": null,
+      "text": "let's start by telling us how you define intelligence."
+    },
+    {
+      "start_seconds": 361.24,
+      "end_seconds": 364.52,
+      "speaker": null,
+      "text": "Okay, what I use is a definition that helps us"
+    },
+    {
+      "start_seconds": 364.64,
+      "end_seconds": 366.52,
+      "speaker": null,
+      "text": "move forward in the lab. I do not claim that"
+    },
+    {
+      "start_seconds": 366.52,
+      "end_seconds": 369.0,
+      "speaker": null,
+      "text": "it's the only definition or that it captures everything there"
+    },
+    {
+      "start_seconds": 369.08,
+      "end_seconds": 373.08,
+      "speaker": null,
+      "text": "is to capture about intelligence. But I like William James's definition,"
+    },
+    {
+      "start_seconds": 373.12,
+      "end_seconds": 375.44,
+      "speaker": null,
+      "text": "which is some degree of the ability to reach the"
+    },
+    {
+      "start_seconds": 375.48,
+      "end_seconds": 378.279,
+      "speaker": null,
+      "text": "same goal by different means. So it's some level of"
+    },
+    {
+      "start_seconds": 378.44,
+      "end_seconds": 381.28,
+      "speaker": null,
+      "text": "ingenuity to get your goals met when things change. That"
+    },
+    {
+      "start_seconds": 381.32,
+      "end_seconds": 384.64,
+      "speaker": null,
+      "text": "doesn't capture play. It doesn't necessarily capture creativity, things other"
+    },
+    {
+      "start_seconds": 384.68,
+      "end_seconds": 385.479,
+      "speaker": null,
+      "text": "than problem solving."
+    },
+    {
+      "start_seconds": 385.52,
+      "end_seconds": 387.56,
+      "speaker": null,
+      "text": "But this is what we focus on experimentally."
+    },
+    {
+      "start_seconds": 387.72,
+      "end_seconds": 390.36,
+      "speaker": null,
+      "text": "So typically when we think about intelligence, we think about"
+    },
+    {
+      "start_seconds": 390.44,
+      "end_seconds": 393.279,
+      "speaker": null,
+      "text": "brains and nervous systems. But you think it doesn't even"
+    },
+    {
+      "start_seconds": 393.279,
+      "end_seconds": 394.719,
+      "speaker": null,
+      "text": "necessarily require that."
+    },
+    {
+      "start_seconds": 395.15999999999997,
+      "end_seconds": 398.4,
+      "speaker": null,
+      "text": "Correct, Because if you're looking at it in this way,"
+    },
+    {
+      "start_seconds": 398.4,
+      "end_seconds": 401.28,
+      "speaker": null,
+      "text": "that it's basically a functional capacity to navigate some kind"
+    },
+    {
+      "start_seconds": 401.279,
+      "end_seconds": 405.44,
+      "speaker": null,
+      "text": "of problem space and meet specific goals under changing circumstances."
+    },
+    {
+      "start_seconds": 405.68,
+      "end_seconds": 408.4,
+      "speaker": null,
+      "text": "There are apparently a wide range of architectures that can"
+    },
+    {
+      "start_seconds": 408.4,
+      "end_seconds": 410.68,
+      "speaker": null,
+      "text": "do this, and in order to see that what you"
+    },
+    {
+      "start_seconds": 410.76,
+      "end_seconds": 413.96,
+      "speaker": null,
+      "text": "need to do is to relax some really constraining assumptions"
+    },
+    {
+      "start_seconds": 414.0,
+      "end_seconds": 416.28,
+      "speaker": null,
+      "text": "that we often have about the problem space that we're"
+    },
+    {
+      "start_seconds": 416.279,
+      "end_seconds": 416.68,
+      "speaker": null,
+      "text": "working in."
+    },
+    {
+      "start_seconds": 416.839,
+      "end_seconds": 420.36,
+      "speaker": null,
+      "text": "And so you often describe intelligence as scale free. So"
+    },
+    {
+      "start_seconds": 420.44,
+      "end_seconds": 421.88,
+      "speaker": null,
+      "text": "just give us a sense what you mean by that."
+    },
+    {
+      "start_seconds": 422.04,
+      "end_seconds": 424.92,
+      "speaker": null,
+      "text": "Yeah, I mean that you know, as humans, we are"
+    },
+    {
+      "start_seconds": 425.0,
+      "end_seconds": 427.0,
+      "speaker": null,
+      "text": "because of our own evolutionary firm where we are so"
+    },
+    {
+      "start_seconds": 427.12,
+      "end_seconds": 430.04,
+      "speaker": null,
+      "text": "obsessed with three dimensional space and moving around in three"
+    },
+    {
+      "start_seconds": 430.04,
+      "end_seconds": 432.36,
+      "speaker": null,
+      "text": "dimensional space, to the point where if people see some"
+    },
+    {
+      "start_seconds": 432.4,
+      "end_seconds": 434.52,
+      "speaker": null,
+      "text": "sort of AI that isn't rolling around in some sort"
+    },
+    {
+      "start_seconds": 434.56,
+      "end_seconds": 436.92,
+      "speaker": null,
+      "text": "of robotic body, they're going to say, this is not embody, right,"
+    },
+    {
+      "start_seconds": 436.92,
+      "end_seconds": 439.92,
+      "speaker": null,
+      "text": "because they're expecting a body. People are expecting a body"
+    },
+    {
+      "start_seconds": 439.92,
+      "end_seconds": 443.52,
+      "speaker": null,
+      "text": "that moves through three dimensional space. But actually the biology,"
+    },
+    {
+      "start_seconds": 443.56,
+      "end_seconds": 446.4,
+      "speaker": null,
+      "text": "for example, has been solving problems and navigating all kinds"
+    },
+    {
+      "start_seconds": 446.44,
+      "end_seconds": 448.56,
+      "speaker": null,
+      "text": "of spaces that are hard for us to visualize. So"
+    },
+    {
+      "start_seconds": 448.6,
+      "end_seconds": 451.6,
+      "speaker": null,
+      "text": "the space of gene expression states, the space of physiological states,"
+    },
+    {
+      "start_seconds": 451.6,
+      "end_seconds": 454.72,
+      "speaker": null,
+      "text": "the space of anatomical possible outcomes, and so on, and"
+    },
+    {
+      "start_seconds": 454.76,
+      "end_seconds": 458.0,
+      "speaker": null,
+      "text": "so in order to understand how we navigate those spaces,"
+    },
+    {
+      "start_seconds": 458.44,
+      "end_seconds": 460.2,
+      "speaker": null,
+      "text": "you have to think in other scales. Some of these"
+    },
+    {
+      "start_seconds": 460.2,
+      "end_seconds": 462.88,
+      "speaker": null,
+      "text": "things happen very slowly, some of these things happen incredibly quickly."
+    },
+    {
+      "start_seconds": 463.4,
+      "end_seconds": 465.8,
+      "speaker": null,
+      "text": "Some of these things are very small, some of them"
+    },
+    {
+      "start_seconds": 465.8,
+      "end_seconds": 469.15999999999997,
+      "speaker": null,
+      "text": "are very large, and we are just you know, focused"
+    },
+    {
+      "start_seconds": 469.2,
+      "end_seconds": 472.4,
+      "speaker": null,
+      "text": "on medium sized objects moving at medium speeds. But you know,"
+    },
+    {
+      "start_seconds": 472.56,
+      "end_seconds": 475.08,
+      "speaker": null,
+      "text": "I'm not claiming it's entirely scale free, but I'm saying"
+    },
+    {
+      "start_seconds": 475.08,
+      "end_seconds": 479.32,
+      "speaker": null,
+      "text": "that there are very deep scale invariant principles that operate"
+    },
+    {
+      "start_seconds": 479.36,
+      "end_seconds": 481.52,
+      "speaker": null,
+      "text": "at many different scales besides the ones we're used to."
+    },
+    {
+      "start_seconds": 481.76,
+      "end_seconds": 485.72,
+      "speaker": null,
+      "text": "So how have you gone about looking for intelligence at"
+    },
+    {
+      "start_seconds": 485.72,
+      "end_seconds": 486.44,
+      "speaker": null,
+      "text": "other scales?"
+    },
+    {
+      "start_seconds": 486.8,
+      "end_seconds": 489.64,
+      "speaker": null,
+      "text": "So one thing that you that you can do once"
+    },
+    {
+      "start_seconds": 489.64,
+      "end_seconds": 493.0,
+      "speaker": null,
+      "text": "you've bought into the fact that we can't assume how"
+    },
+    {
+      "start_seconds": 493.04,
+      "end_seconds": 495.24,
+      "speaker": null,
+      "text": "intelligent anything is or what kind of intelligence it has,"
+    },
+    {
+      "start_seconds": 495.28,
+      "end_seconds": 497.68,
+      "speaker": null,
+      "text": "but you have to do experiments. Then then what it"
+    },
+    {
+      "start_seconds": 497.72,
+      "end_seconds": 499.6,
+      "speaker": null,
+      "text": "turns out you have to do is you have to"
+    },
+    {
+      "start_seconds": 499.92,
+      "end_seconds": 502.72,
+      "speaker": null,
+      "text": "posit some sort of problem space you have that the"
+    },
+    {
+      "start_seconds": 502.76,
+      "end_seconds": 505.08,
+      "speaker": null,
+      "text": "system is working in. You have to posit some sort"
+    },
+    {
+      "start_seconds": 505.08,
+      "end_seconds": 507.2,
+      "speaker": null,
+      "text": "of goal. That is, these are all hypotheses on some"
+    },
+    {
+      "start_seconds": 507.24,
+      "end_seconds": 509.6,
+      "speaker": null,
+      "text": "sort of goal that it's it's trying to reach. And"
+    },
+    {
+      "start_seconds": 509.64,
+      "end_seconds": 512.28,
+      "speaker": null,
+      "text": "then what you have to do is perturbational experiments to"
+    },
+    {
+      "start_seconds": 512.92,
+      "end_seconds": 514.84,
+      "speaker": null,
+      "text": "prevent it from reaching its goal. And then you see"
+    },
+    {
+      "start_seconds": 514.84,
+      "end_seconds": 516.88,
+      "speaker": null,
+      "text": "what how you know how how smart the system is"
+    },
+    {
+      "start_seconds": 516.92,
+      "end_seconds": 518.64,
+      "speaker": null,
+      "text": "in getting around whatever you did to it, So you."
+    },
+    {
+      "start_seconds": 518.64,
+      "end_seconds": 520.48,
+      "speaker": null,
+      "text": "Knock it off track and then you see how it"
+    },
+    {
+      "start_seconds": 520.52,
+      "end_seconds": 522.319,
+      "speaker": null,
+      "text": "comes back, or if it comes back."
+    },
+    {
+      "start_seconds": 522.32,
+      "end_seconds": 525.24,
+      "speaker": null,
+      "text": "Knock it off track is a good one add barriers"
+    },
+    {
+      "start_seconds": 525.36,
+      "end_seconds": 527.319,
+      "speaker": null,
+      "text": "of some sort in whatever space you're working doesn't have"
+    },
+    {
+      "start_seconds": 527.36,
+      "end_seconds": 529.28,
+      "speaker": null,
+      "text": "to be a physical barrier, but whatever space you're working in,"
+    },
+    {
+      "start_seconds": 529.32,
+      "end_seconds": 531.68,
+      "speaker": null,
+      "text": "add a barrier, or in fact manipulate."
+    },
+    {
+      "start_seconds": 531.2,
+      "end_seconds": 532.0,
+      "speaker": null,
+      "text": "The system itself."
+    },
+    {
+      "start_seconds": 532.12,
+      "end_seconds": 534.24,
+      "speaker": null,
+      "text": "So change the system, right, It's not all about the environment,"
+    },
+    {
+      "start_seconds": 534.36,
+      "end_seconds": 536.12,
+      "speaker": null,
+      "text": "so it can be about the system itself. And so"
+    },
+    {
+      "start_seconds": 536.559,
+      "end_seconds": 539.16,
+      "speaker": null,
+      "text": "we've done this now in many different context Here are"
+    },
+    {
+      "start_seconds": 539.16,
+      "end_seconds": 541.28,
+      "speaker": null,
+      "text": "a couple of favorites of ours. The biggest one that"
+    },
+    {
+      "start_seconds": 541.32,
+      "end_seconds": 544.12,
+      "speaker": null,
+      "text": "we do most of our work in is morphogenesis. So"
+    },
+    {
+      "start_seconds": 544.44,
+      "end_seconds": 547.12,
+      "speaker": null,
+      "text": "we all make a journey from a single cell to whatever."
+    },
+    {
+      "start_seconds": 547.36,
+      "end_seconds": 549.76,
+      "speaker": null,
+      "text": "You know, we're going to be a human, a giraffe, plant, whatever,"
+    },
+    {
+      "start_seconds": 549.84,
+      "end_seconds": 552.44,
+      "speaker": null,
+      "text": "And that journey, as it turns out, as a matter"
+    },
+    {
+      "start_seconds": 552.48,
+      "end_seconds": 554.76,
+      "speaker": null,
+      "text": "of experimental fact, it turns out that journey is not"
+    },
+    {
+      "start_seconds": 555.0,
+      "end_seconds": 557.64,
+      "speaker": null,
+      "text": "a kind of open loop. What you know, the way"
+    },
+    {
+      "start_seconds": 557.64,
+      "end_seconds": 560.4,
+      "speaker": null,
+      "text": "people model the emergence and complexity, lots of simple things"
+    },
+    {
+      "start_seconds": 560.44,
+      "end_seconds": 563.199,
+      "speaker": null,
+      "text": "happening again and again, and ultimately some sort of complex"
+    },
+    {
+      "start_seconds": 563.24,
+      "end_seconds": 563.92,
+      "speaker": null,
+      "text": "event happens."
+    },
+    {
+      "start_seconds": 564.08,
+      "end_seconds": 567.16,
+      "speaker": null,
+      "text": "That isn't how it works. It's very contact sensitive."
+    },
+    {
+      "start_seconds": 567.32,
+      "end_seconds": 570.8,
+      "speaker": null,
+      "text": "If you try to prevent let's say, embryos or regenerating limbs,"
+    },
+    {
+      "start_seconds": 571.12,
+      "end_seconds": 573.84,
+      "speaker": null,
+      "text": "or or you know, in any you know, metamorphosis, any"
+    },
+    {
+      "start_seconds": 573.84,
+      "end_seconds": 576.24,
+      "speaker": null,
+      "text": "of these processes, you try to prevent them from reaching"
+    },
+    {
+      "start_seconds": 576.28,
+      "end_seconds": 579.24,
+      "speaker": null,
+      "text": "their goal. They often have extremely ingenious ways to get"
+    },
+    {
+      "start_seconds": 579.24,
+      "end_seconds": 582.52,
+      "speaker": null,
+      "text": "there anyway, okay, And you can quantify this, and you"
+    },
+    {
+      "start_seconds": 582.559,
+      "end_seconds": 586.12,
+      "speaker": null,
+      "text": "can say, what are kinds of perturbations that it's able"
+    },
+    {
+      "start_seconds": 586.16,
+      "end_seconds": 588.76,
+      "speaker": null,
+      "text": "to deal with? And does it have delayed gratification? Does"
+    },
+    {
+      "start_seconds": 588.8,
+      "end_seconds": 591.68,
+      "speaker": null,
+      "text": "it have planning, does it have a representation of the"
+    },
+    {
+      "start_seconds": 592.2,
+      "end_seconds": 595.0,
+      "speaker": null,
+      "text": "of counterfactual states? Does it have learning and memory? Does"
+    },
+    {
+      "start_seconds": 595.04,
+      "end_seconds": 597.52,
+      "speaker": null,
+      "text": "it store you know, a map of its environment? You"
+    },
+    {
+      "start_seconds": 597.559,
+      "end_seconds": 599.4,
+      "speaker": null,
+      "text": "can you can test all of these things empirically."
+    },
+    {
+      "start_seconds": 599.559,
+      "end_seconds": 602.72,
+      "speaker": null,
+      "text": "So I mean in terms of let's say an embryo developing,"
+    },
+    {
+      "start_seconds": 603.04,
+      "end_seconds": 606.559,
+      "speaker": null,
+      "text": "what we think traditionally in textbooks is that the genetics"
+    },
+    {
+      "start_seconds": 606.559,
+      "end_seconds": 609.72,
+      "speaker": null,
+      "text": "somehow gives a blueprint and the whole thing just donepacks."
+    },
+    {
+      "start_seconds": 610.04,
+      "end_seconds": 613.28,
+      "speaker": null,
+      "text": "But you're asking is how is the system intelligent if"
+    },
+    {
+      "start_seconds": 613.28,
+      "end_seconds": 615.64,
+      "speaker": null,
+      "text": "we knock it off track or put barriers in the way,"
+    },
+    {
+      "start_seconds": 615.84,
+      "end_seconds": 619.0,
+      "speaker": null,
+      "text": "how does it figure out how to come together correctly? So,"
+    },
+    {
+      "start_seconds": 619.2,
+      "end_seconds": 621.92,
+      "speaker": null,
+      "text": "what's the specific example of something you've done here? Here"
+    },
+    {
+      "start_seconds": 622.08,
+      "end_seconds": 624.4,
+      "speaker": null,
+      "text": "there are some of my favorites. These first two are"
+    },
+    {
+      "start_seconds": 624.44,
+      "end_seconds": 626.64,
+      "speaker": null,
+      "text": "not my work. These this is like classic, classic work"
+    },
+    {
+      "start_seconds": 626.64,
+      "end_seconds": 627.12,
+      "speaker": null,
+      "text": "in the field."
+    },
+    {
+      "start_seconds": 627.48,
+      "end_seconds": 631.44,
+      "speaker": null,
+      "text": "So if you take normally, imagine cutting a cross section"
+    },
+    {
+      "start_seconds": 631.559,
+      "end_seconds": 634.6,
+      "speaker": null,
+      "text": "through the kidney tubule of a newt. Normally what you'd"
+    },
+    {
+      "start_seconds": 634.64,
+      "end_seconds": 636.4,
+      "speaker": null,
+      "text": "find is like eight to ten cells and they work"
+    },
+    {
+      "start_seconds": 636.44,
+      "end_seconds": 640.76,
+      "speaker": null,
+      "text": "together to build to build this tube like structure. So"
+    },
+    {
+      "start_seconds": 641.0,
+      "end_seconds": 642.84,
+      "speaker": null,
+      "text": "what you can do is you can make polyploid neutes"
+    },
+    {
+      "start_seconds": 642.88,
+      "end_seconds": 645.76,
+      "speaker": null,
+      "text": "that have multiple copies of their chromosomes, which means their"
+    },
+    {
+      "start_seconds": 645.76,
+      "end_seconds": 647.92,
+      "speaker": null,
+      "text": "cells have to get bigger. Those newts are still the"
+    },
+    {
+      "start_seconds": 647.96,
+      "end_seconds": 650.84,
+      "speaker": null,
+      "text": "same correct size. So that's the first interesting thing. Wow,"
+    },
+    {
+      "start_seconds": 650.84,
+      "end_seconds": 653.12,
+      "speaker": null,
+      "text": "well the cells get bigger, the thing scales down. How"
+    },
+    {
+      "start_seconds": 653.12,
+      "end_seconds": 656.08,
+      "speaker": null,
+      "text": "does it do it by using fewer but bigger cells"
+    },
+    {
+      "start_seconds": 656.12,
+      "end_seconds": 657.48,
+      "speaker": null,
+      "text": "to make the exact same structure."
+    },
+    {
+      "start_seconds": 657.679,
+      "end_seconds": 660.0,
+      "speaker": null,
+      "text": "So that's an adjustment, right, never mind the environment."
+    },
+    {
+      "start_seconds": 660.08,
+      "end_seconds": 661.92,
+      "speaker": null,
+      "text": "Your own parts are changing, and this thing is figuring"
+    },
+    {
+      "start_seconds": 661.92,
+      "end_seconds": 663.48,
+      "speaker": null,
+      "text": "out how to get to the exact same goal, the"
+    },
+    {
+      "start_seconds": 663.48,
+      "end_seconds": 666.84,
+      "speaker": null,
+      "text": "same neud same shape, same size, fewer of these bigger cells."
+    },
+    {
+      "start_seconds": 666.96,
+      "end_seconds": 668.36,
+      "speaker": null,
+      "text": "So let me ask you a quick question."
+    },
+    {
+      "start_seconds": 668.48,
+      "end_seconds": 672.48,
+      "speaker": null,
+      "text": "Is this analogous to the fact that a mouse's heart"
+    },
+    {
+      "start_seconds": 672.52,
+      "end_seconds": 675.72,
+      "speaker": null,
+      "text": "and an elephant's heart are doing the same thing, but"
+    },
+    {
+      "start_seconds": 675.76,
+      "end_seconds": 679.16,
+      "speaker": null,
+      "text": "they're made of a completely different number of cells. It's"
+    },
+    {
+      "start_seconds": 679.2,
+      "end_seconds": 681.56,
+      "speaker": null,
+      "text": "a massive heart in an elephant, very tiny mouse, but"
+    },
+    {
+      "start_seconds": 681.76,
+      "end_seconds": 683.76,
+      "speaker": null,
+      "text": "it's doing the same function."
+    },
+    {
+      "start_seconds": 684.16,
+      "end_seconds": 687.24,
+      "speaker": null,
+      "text": "It's similar, but there's only but there's one major difference"
+    },
+    {
+      "start_seconds": 687.28,
+      "end_seconds": 689.48,
+      "speaker": null,
+      "text": "both in a mouse and in an elephant. What people"
+    },
+    {
+      "start_seconds": 689.52,
+      "end_seconds": 691.96,
+      "speaker": null,
+      "text": "will say is, well, both of those have had long,"
+    },
+    {
+      "start_seconds": 692.28,
+      "end_seconds": 694.32,
+      "speaker": null,
+      "text": "long history of being what they are, and so this"
+    },
+    {
+      "start_seconds": 694.4,
+      "end_seconds": 695.04,
+      "speaker": null,
+      "text": "is just mechanical."
+    },
+    {
+      "start_seconds": 695.12,
+      "end_seconds": 696.08,
+      "speaker": null,
+      "text": "It just does what it does."
+    },
+    {
+      "start_seconds": 696.76,
+      "end_seconds": 699.48,
+      "speaker": null,
+      "text": "My example is different because you've done something to this"
+    },
+    {
+      "start_seconds": 699.6,
+      "end_seconds": 700.48,
+      "speaker": null,
+      "text": "new that it does."
+    },
+    {
+      "start_seconds": 700.36,
+      "end_seconds": 701.04,
+      "speaker": null,
+      "text": "Not normally do."
+    },
+    {
+      "start_seconds": 701.24,
+      "end_seconds": 705.4,
+      "speaker": null,
+      "text": "You've given it a completely novel circumstance, and then it"
+    },
+    {
+      "start_seconds": 705.44,
+      "end_seconds": 708.04,
+      "speaker": null,
+      "text": "adjusts in a new way. And the craziest thing happens"
+    },
+    {
+      "start_seconds": 708.2,
+      "end_seconds": 711.44,
+      "speaker": null,
+      "text": "when you make the cells really gigantic. Okay, these are"
+    },
+    {
+      "start_seconds": 711.44,
+      "end_seconds": 713.68,
+      "speaker": null,
+      "text": "like I think six or eight and the newts so"
+    },
+    {
+      "start_seconds": 713.76,
+      "end_seconds": 716.92,
+      "speaker": null,
+      "text": "massive polyplaty. What happens is the cells are so big"
+    },
+    {
+      "start_seconds": 717.04,
+      "end_seconds": 718.56,
+      "speaker": null,
+      "text": "there's no room for more than one cell."
+    },
+    {
+      "start_seconds": 718.679,
+      "end_seconds": 721.44,
+      "speaker": null,
+      "text": "One cell will wrap around und itself and give you"
+    },
+    {
+      "start_seconds": 721.52,
+      "end_seconds": 723.12,
+      "speaker": null,
+      "text": "the lumen of the tubule in the middle."
+    },
+    {
+      "start_seconds": 723.28,
+      "end_seconds": 726.28,
+      "speaker": null,
+      "text": "Now, now this is crazy because because that is that's"
+    },
+    {
+      "start_seconds": 726.32,
+      "end_seconds": 728.96,
+      "speaker": null,
+      "text": "a different molecular mechanism that side of skeletalle bending before"
+    },
+    {
+      "start_seconds": 729.0,
+      "end_seconds": 732.0,
+      "speaker": null,
+      "text": "it was sell to sell communication and tubulo genesis. So"
+    },
+    {
+      "start_seconds": 732.16,
+      "end_seconds": 733.88,
+      "speaker": null,
+      "text": "think about what this means. If you're a nude coming"
+    },
+    {
+      "start_seconds": 733.88,
+      "end_seconds": 736.36,
+      "speaker": null,
+      "text": "into the world. Never mind the environment. You don't really"
+    },
+    {
+      "start_seconds": 736.36,
+      "end_seconds": 737.84,
+      "speaker": null,
+      "text": "know what your environment's going to be. You don't know"
+    },
+    {
+      "start_seconds": 737.84,
+      "end_seconds": 739.8,
+      "speaker": null,
+      "text": "how many copies of your chromosomes you're going to have,"
+    },
+    {
+      "start_seconds": 740.16,
+      "end_seconds": 742.08,
+      "speaker": null,
+      "text": "you don't know how big your cells are going to be."
+    },
+    {
+      "start_seconds": 742.16,
+      "end_seconds": 745.2,
+      "speaker": null,
+      "text": "You don't know which of your many genetic affordances you"
+    },
+    {
+      "start_seconds": 745.24,
+      "end_seconds": 747.8,
+      "speaker": null,
+      "text": "can use. Right, you have different molecular mechanisms you can use."
+    },
+    {
+      "start_seconds": 748.04,
+      "end_seconds": 749.32,
+      "speaker": null,
+      "text": "You have to figure out what to do in a"
+    },
+    {
+      "start_seconds": 749.32,
+      "end_seconds": 751.92,
+      "speaker": null,
+      "text": "novel circumstance and still get the job done. I mean"
+    },
+    {
+      "start_seconds": 752.0,
+      "end_seconds": 754.679,
+      "speaker": null,
+      "text": "this sounds like every IQ test you've ever heard of"
+    },
+    {
+      "start_seconds": 754.72,
+      "end_seconds": 756.64,
+      "speaker": null,
+      "text": "when people show you, here's a little box, some tax"
+    },
+    {
+      "start_seconds": 756.679,
+      "end_seconds": 758.28,
+      "speaker": null,
+      "text": "and a candle, and I want you to, you know,"
+    },
+    {
+      "start_seconds": 758.36,
+      "end_seconds": 761.88,
+      "speaker": null,
+      "text": "solve this this particular problem. Right, Yeah, you have genetic affordances,"
+    },
+    {
+      "start_seconds": 762.2,
+      "end_seconds": 765.84,
+      "speaker": null,
+      "text": "and then that morphogenetic process is not just doing the"
+    },
+    {
+      "start_seconds": 765.84,
+      "end_seconds": 767.0,
+      "speaker": null,
+      "text": "same thing every single time."
+    },
+    {
+      "start_seconds": 767.04,
+      "end_seconds": 769.0,
+      "speaker": null,
+      "text": "You have to solve these problems. That's one of my"
+    },
+    {
+      "start_seconds": 769.0,
+      "end_seconds": 769.84,
+      "speaker": null,
+      "text": "favorite examples."
+    },
+    {
+      "start_seconds": 770.0,
+      "end_seconds": 773.44,
+      "speaker": null,
+      "text": "Another one that we discovered is tadpoles become frogs, and"
+    },
+    {
+      "start_seconds": 773.48,
+      "end_seconds": 774.96,
+      "speaker": null,
+      "text": "in order to do that, they have to rearrange their"
+    },
+    {
+      "start_seconds": 775.0,
+      "end_seconds": 777.8,
+      "speaker": null,
+      "text": "face because their face looks actually quite different from and"
+    },
+    {
+      "start_seconds": 778.12,
+      "end_seconds": 779.679,
+      "speaker": null,
+      "text": "you know, so the eyes, the jaws of reading has"
+    },
+    {
+      "start_seconds": 779.679,
+      "end_seconds": 780.44,
+      "speaker": null,
+      "text": "to has to move."
+    },
+    {
+      "start_seconds": 780.52,
+      "end_seconds": 782.88,
+      "speaker": null,
+      "text": "What people thought was that this is a hardwired process."
+    },
+    {
+      "start_seconds": 782.92,
+      "end_seconds": 785.559,
+      "speaker": null,
+      "text": "Basically, somehow the genetics just tells every organ how far"
+    },
+    {
+      "start_seconds": 785.6,
+      "end_seconds": 787.8,
+      "speaker": null,
+      "text": "to moving, what direction, and then you get from a"
+    },
+    {
+      "start_seconds": 787.84,
+      "end_seconds": 789.24,
+      "speaker": null,
+      "text": "normal tadpole to a normal frog."
+    },
+    {
+      "start_seconds": 789.44,
+      "end_seconds": 790.439,
+      "speaker": null,
+      "text": "So we decided to test that."
+    },
+    {
+      "start_seconds": 790.52,
+      "end_seconds": 792.4,
+      "speaker": null,
+      "text": "Because you can't assume these things, you have to test"
+    },
+    {
+      "start_seconds": 792.679,
+      "end_seconds": 796.12,
+      "speaker": null,
+      "text": "and so what we created was something called Picasso tadpoles,"
+    },
+    {
+      "start_seconds": 796.4,
+      "end_seconds": 800.72,
+      "speaker": null,
+      "text": "so basically scrambled all the initial positions, so the mouth"
+    },
+    {
+      "start_seconds": 800.8,
+      "end_seconds": 802.32,
+      "speaker": null,
+      "text": "is off to the side, the eyes on the back"
+    },
+    {
+      "start_seconds": 802.36,
+      "end_seconds": 805.76,
+      "speaker": null,
+      "text": "of the head like everything is completely scramble. And what"
+    },
+    {
+      "start_seconds": 805.8,
+      "end_seconds": 808.48,
+      "speaker": null,
+      "text": "we find is that they make pretty normal frogs because"
+    },
+    {
+      "start_seconds": 808.52,
+      "end_seconds": 811.12,
+      "speaker": null,
+      "text": "all of these things will move in novel paths to"
+    },
+    {
+      "start_seconds": 811.4,
+      "end_seconds": 813.6,
+      "speaker": null,
+      "text": "reach the correct goal, and then they stop. Actually, sometimes"
+    },
+    {
+      "start_seconds": 813.64,
+      "end_seconds": 815.04,
+      "speaker": null,
+      "text": "they go too far and they have to double back"
+    },
+    {
+      "start_seconds": 815.04,
+      "end_seconds": 816.92,
+      "speaker": null,
+      "text": "and stop. This is another example. You start them off"
+    },
+    {
+      "start_seconds": 816.92,
+      "end_seconds": 818.76,
+      "speaker": null,
+      "text": "in the wrong position, they don't just blindly go the"
+    },
+    {
+      "start_seconds": 818.8,
+      "end_seconds": 821.72,
+      "speaker": null,
+      "text": "same distance. They actually go until they meet their goal."
+    },
+    {
+      "start_seconds": 821.76,
+      "end_seconds": 822.64,
+      "speaker": null,
+      "text": "And you know, it's a goal."
+    },
+    {
+      "start_seconds": 822.84,
+      "end_seconds": 824.96,
+      "speaker": null,
+      "text": "And when I say goal, I don't mean it's a human."
+    },
+    {
+      "start_seconds": 824.8,
+      "end_seconds": 826.52,
+      "speaker": null,
+      "text": "Level, like I know what my goal is. That's a"
+    },
+    {
+      "start_seconds": 826.559,
+      "end_seconds": 828.88,
+      "speaker": null,
+      "text": "kind of metacognition that I'm not claiming here. I'm saying"
+    },
+    {
+      "start_seconds": 828.96,
+      "end_seconds": 831.64,
+      "speaker": null,
+      "text": "it's in the cybernetic sets like your thermostat has goals."
+    },
+    {
+      "start_seconds": 831.8,
+      "end_seconds": 834.0,
+      "speaker": null,
+      "text": "It's a set point, and now how clever are you"
+    },
+    {
+      "start_seconds": 834.08,
+      "end_seconds": 836.52,
+      "speaker": null,
+      "text": "to be able to reach that set point when things change?"
+    },
+    {
+      "start_seconds": 838.12,
+      "end_seconds": 840.92,
+      "speaker": null,
+      "text": "As an interesting analogy, what's going on at the level"
+    },
+    {
+      "start_seconds": 840.96,
+      "end_seconds": 844.0,
+      "speaker": null,
+      "text": "of brain plasticity. We tend to think that, let's say,"
+    },
+    {
+      "start_seconds": 844.04,
+      "end_seconds": 848.88,
+      "speaker": null,
+      "text": "a dog's brain is pre wired to drive a dog's body."
+    },
+    {
+      "start_seconds": 849.24,
+      "end_seconds": 851.8,
+      "speaker": null,
+      "text": "But one of the examples that I talked about in"
+    },
+    {
+      "start_seconds": 851.8,
+      "end_seconds": 854.88,
+      "speaker": null,
+      "text": "my book Live Wired was this dog who was born"
+    },
+    {
+      "start_seconds": 854.96,
+      "end_seconds": 858.48,
+      "speaker": null,
+      "text": "without front legs, and so she just walks bipedally and"
+    },
+    {
+      "start_seconds": 858.52,
+      "end_seconds": 860.4,
+      "speaker": null,
+      "text": "she moves all around and."
+    },
+    {
+      "start_seconds": 860.4,
+      "end_seconds": 861.24,
+      "speaker": null,
+      "text": "Gets by that way."
+    },
+    {
+      "start_seconds": 861.28,
+      "end_seconds": 865.76,
+      "speaker": null,
+      "text": "Why, because she needed to get to her her dog"
+    },
+    {
+      "start_seconds": 865.8,
+      "end_seconds": 868.36,
+      "speaker": null,
+      "text": "bowl and her water and other dogs and so on,"
+    },
+    {
+      "start_seconds": 868.6,
+      "end_seconds": 870.32,
+      "speaker": null,
+      "text": "and so she just figured out. It turns out it's"
+    },
+    {
+      "start_seconds": 870.36,
+      "end_seconds": 872.84,
+      "speaker": null,
+      "text": "not that hard for a dog to walk on back legs."
+    },
+    {
+      "start_seconds": 872.84,
+      "end_seconds": 875.16,
+      "speaker": null,
+      "text": "And the question is could all dogs walk on their"
+    },
+    {
+      "start_seconds": 875.2,
+      "end_seconds": 879.0,
+      "speaker": null,
+      "text": "back legs? Presumably, but they don't have the proper motivation"
+    },
+    {
+      "start_seconds": 879.92,
+      "end_seconds": 883.44,
+      "speaker": null,
+      "text": "to do so. But the point is that the dog's"
+    },
+    {
+      "start_seconds": 883.52,
+      "end_seconds": 884.76,
+      "speaker": null,
+      "text": "body is very flexible."
+    },
+    {
+      "start_seconds": 884.76,
+      "end_seconds": 886.4,
+      "speaker": null,
+      "text": "It meets the goals of the world."
+    },
+    {
+      "start_seconds": 886.72,
+      "end_seconds": 891.08,
+      "speaker": null,
+      "text": "Another analogy is the world's best archer, as in he's"
+    },
+    {
+      "start_seconds": 891.12,
+      "end_seconds": 895.24,
+      "speaker": null,
+      "text": "got the world record for the longest accurate shot in archery."
+    },
+    {
+      "start_seconds": 895.68,
+      "end_seconds": 897.92,
+      "speaker": null,
+      "text": "Is a guy named Matt Stutsman who happens to have"
+    },
+    {
+      "start_seconds": 898.0,
+      "end_seconds": 901.44,
+      "speaker": null,
+      "text": "no arms, and he got interest in archery and figured"
+    },
+    {
+      "start_seconds": 901.48,
+      "end_seconds": 905.16,
+      "speaker": null,
+      "text": "out how to pull the bow with his legs, and"
+    },
+    {
+      "start_seconds": 905.24,
+      "end_seconds": 907.84,
+      "speaker": null,
+      "text": "so he shoots with his legs and became a great"
+    },
+    {
+      "start_seconds": 907.92,
+      "end_seconds": 908.6,
+      "speaker": null,
+      "text": "archer that way."
+    },
+    {
+      "start_seconds": 909.0,
+      "end_seconds": 912.72,
+      "speaker": null,
+      "text": "Amazing, amazing. Yeah, yeah, the plasticity is incredible."
+    },
+    {
+      "start_seconds": 912.8,
+      "end_seconds": 915.64,
+      "speaker": null,
+      "text": "And you know, the earlier the earliest example that I"
+    },
+    {
+      "start_seconds": 915.68,
+      "end_seconds": 917.52,
+      "speaker": null,
+      "text": "know of the of this hind leg thing is is"
+    },
+    {
+      "start_seconds": 917.72,
+      "end_seconds": 920.08,
+      "speaker": null,
+      "text": "Slipper's Goat, which was this I think it was in"
+    },
+    {
+      "start_seconds": 920.12,
+      "end_seconds": 923.56,
+      "speaker": null,
+      "text": "the forties. This guy Slipper, a published study of a"
+    },
+    {
+      "start_seconds": 923.6,
+      "end_seconds": 926.12,
+      "speaker": null,
+      "text": "goat who, again born without four legs, learned to walk"
+    },
+    {
+      "start_seconds": 926.16,
+      "end_seconds": 928.72,
+      "speaker": null,
+      "text": "on its hind legs. When they dissected the goat, they"
+    },
+    {
+      "start_seconds": 928.72,
+      "end_seconds": 931.44,
+      "speaker": null,
+      "text": "found out that a lot of the adjustments that you"
+    },
+    {
+      "start_seconds": 931.48,
+      "end_seconds": 933.84,
+      "speaker": null,
+      "text": "need for bipedal locomotion, right, So things about the hips,"
+    },
+    {
+      "start_seconds": 934.16,
+      "end_seconds": 936.48,
+      "speaker": null,
+      "text": "you know, the spine, all kind of stuff, we're all"
+    },
+    {
+      "start_seconds": 936.52,
+      "end_seconds": 938.68,
+      "speaker": null,
+      "text": "there right as opposed to what you normally think of"
+    },
+    {
+      "start_seconds": 938.72,
+      "end_seconds": 940.64,
+      "speaker": null,
+      "text": "for the evolution of modern humans as you know how"
+    },
+    {
+      "start_seconds": 940.88,
+      "end_seconds": 942.84,
+      "speaker": null,
+      "text": "I mean, many hundreds of thousands of years you need"
+    },
+    {
+      "start_seconds": 942.88,
+      "end_seconds": 945.48,
+      "speaker": null,
+      "text": "for that. And this is what's really interesting about this"
+    },
+    {
+      "start_seconds": 945.52,
+      "end_seconds": 947.92,
+      "speaker": null,
+      "text": "plasticity is that you can project it into other spaces."
+    },
+    {
+      "start_seconds": 947.96,
+      "end_seconds": 950.6,
+      "speaker": null,
+      "text": "So so, as you pointed out, you know, can a"
+    },
+    {
+      "start_seconds": 950.64,
+      "end_seconds": 952.64,
+      "speaker": null,
+      "text": "dog brain run an upright body?"
+    },
+    {
+      "start_seconds": 952.72,
+      "end_seconds": 952.92,
+      "speaker": null,
+      "text": "Right?"
+    },
+    {
+      "start_seconds": 953.24,
+      "end_seconds": 953.48,
+      "speaker": null,
+      "text": "Now?"
+    },
+    {
+      "start_seconds": 953.8,
+      "end_seconds": 955.52,
+      "speaker": null,
+      "text": "Look at individual cells?"
+    },
+    {
+      "start_seconds": 955.52,
+      "end_seconds": 958.6,
+      "speaker": null,
+      "text": "Can the same genome run a completely different anatomy and"
+    },
+    {
+      "start_seconds": 958.64,
+      "end_seconds": 961.2,
+      "speaker": null,
+      "text": "set of behaviors? And this is what we've I mean,"
+    },
+    {
+      "start_seconds": 961.24,
+      "end_seconds": 963.92,
+      "speaker": null,
+      "text": "other people have shown other examples of this, but for example,"
+    },
+    {
+      "start_seconds": 963.92,
+      "end_seconds": 967.68,
+      "speaker": null,
+      "text": "in our lab, xenobots anthwrobots, right, these living constructs that"
+    },
+    {
+      "start_seconds": 967.76,
+      "end_seconds": 970.44,
+      "speaker": null,
+      "text": "have a completely different body than what they normally do."
+    },
+    {
+      "start_seconds": 970.44,
+      "end_seconds": 973.72,
+      "speaker": null,
+      "text": "They have a different behavioral repertoire, no genetic change, same"
+    },
+    {
+      "start_seconds": 973.84,
+      "end_seconds": 977.0,
+      "speaker": null,
+      "text": "gene regulatory networks are running a completely different body."
+    },
+    {
+      "start_seconds": 977.08,
+      "end_seconds": 980.28,
+      "speaker": null,
+      "text": "For the listenership, can you define anthrobots and xenobots which"
+    },
+    {
+      "start_seconds": 980.28,
+      "end_seconds": 980.76,
+      "speaker": null,
+      "text": "you've built?"
+    },
+    {
+      "start_seconds": 980.92,
+      "end_seconds": 982.52,
+      "speaker": null,
+      "text": "Sure, let's start with the zenobots."
+    },
+    {
+      "start_seconds": 982.52,
+      "end_seconds": 985.8,
+      "speaker": null,
+      "text": "So in the cases of zennabots, what our team did,"
+    },
+    {
+      "start_seconds": 985.8,
+      "end_seconds": 988.16,
+      "speaker": null,
+      "text": "and this is in collaboration with Josh bond Guard's lab"
+    },
+    {
+      "start_seconds": 988.16,
+      "end_seconds": 990.32,
+      "speaker": null,
+      "text": "at University the e Vermont and this is Doug Blackiston"
+    },
+    {
+      "start_seconds": 990.36,
+      "end_seconds": 992.56,
+      "speaker": null,
+      "text": "in my group and Sam Kregman did a lot of"
+    },
+    {
+      "start_seconds": 992.56,
+      "end_seconds": 995.04,
+      "speaker": null,
+      "text": "the computational work for it. What happens is that when"
+    },
+    {
+      "start_seconds": 995.04,
+      "end_seconds": 997.64,
+      "speaker": null,
+      "text": "you liberate some epithelial cells from an early frog embryo,"
+    },
+    {
+      "start_seconds": 997.84,
+      "end_seconds": 1000.16,
+      "speaker": null,
+      "text": "normally what they do is they form this like two"
+    },
+    {
+      "start_seconds": 1000.24,
+      "end_seconds": 1003.92,
+      "speaker": null,
+      "text": "dimensional outer covering of an embryo and the outer skin layer,"
+    },
+    {
+      "start_seconds": 1003.96,
+      "end_seconds": 1006.68,
+      "speaker": null,
+      "text": "and they do that because they're induced to do that by."
+    },
+    {
+      "start_seconds": 1006.56,
+      "end_seconds": 1007.28,
+      "speaker": null,
+      "text": "The other cells."
+    },
+    {
+      "start_seconds": 1007.36,
+      "end_seconds": 1009.0,
+      "speaker": null,
+      "text": "Well, if you get them away from the other cells,"
+    },
+    {
+      "start_seconds": 1009.0,
+      "end_seconds": 1010.84,
+      "speaker": null,
+      "text": "you sort of liberate, then find out what they really"
+    },
+    {
+      "start_seconds": 1010.84,
+      "end_seconds": 1012.6,
+      "speaker": null,
+      "text": "want to do on their own and what they do."
+    },
+    {
+      "start_seconds": 1012.92,
+      "end_seconds": 1013.84,
+      "speaker": null,
+      "text": "They could do many things."
+    },
+    {
+      "start_seconds": 1013.88,
+      "end_seconds": 1015.56,
+      "speaker": null,
+      "text": "They could crawl away from each other, they could die,"
+    },
+    {
+      "start_seconds": 1015.56,
+      "end_seconds": 1018.28,
+      "speaker": null,
+      "text": "they could make a flat layer like cell culture. What"
+    },
+    {
+      "start_seconds": 1018.32,
+      "end_seconds": 1020.32,
+      "speaker": null,
+      "text": "to actually do is they form this little ball with"
+    },
+    {
+      "start_seconds": 1020.72,
+      "end_seconds": 1022.64,
+      "speaker": null,
+      "text": "cilia that are on the outside. He's a little moving"
+    },
+    {
+      "start_seconds": 1022.68,
+      "end_seconds": 1025.64,
+      "speaker": null,
+      "text": "hairs and they organize them so that the thing can"
+    },
+    {
+      "start_seconds": 1025.68,
+      "end_seconds": 1027.16,
+      "speaker": null,
+      "text": "swim and it starts swimming around."
+    },
+    {
+      "start_seconds": 1027.16,
+      "end_seconds": 1028.8,
+      "speaker": null,
+      "text": "It has all sorts of interesting behaviors."
+    },
+    {
+      "start_seconds": 1028.84,
+      "end_seconds": 1030.159,
+      "speaker": null,
+      "text": "A couple of years ago we show that they do"
+    },
+    {
+      "start_seconds": 1030.2,
+      "end_seconds": 1032.959,
+      "speaker": null,
+      "text": "kinematic cell for replication, which is that if you sprinkle"
+    },
+    {
+      "start_seconds": 1032.96,
+      "end_seconds": 1034.76,
+      "speaker": null,
+      "text": "a bunch of loose skin cells in their environment, they"
+    },
+    {
+      "start_seconds": 1034.8,
+      "end_seconds": 1037.16,
+      "speaker": null,
+      "text": "will collect them into little balls and guess what, those"
+    },
+    {
+      "start_seconds": 1037.2,
+      "end_seconds": 1039.76,
+      "speaker": null,
+      "text": "become the next generation of zenobots. Right, So they can"
+    },
+    {
+      "start_seconds": 1039.76,
+      "end_seconds": 1042.44,
+      "speaker": null,
+      "text": "do this weird kinematic replication that, as far as we know,"
+    },
+    {
+      "start_seconds": 1042.52,
+      "end_seconds": 1045.88,
+      "speaker": null,
+      "text": "no other creature does. They express hundreds of genes differently"
+    },
+    {
+      "start_seconds": 1045.96,
+      "end_seconds": 1049.32,
+      "speaker": null,
+      "text": "than they do within the embryo. No genetic change. By"
+    },
+    {
+      "start_seconds": 1049.359,
+      "end_seconds": 1051.32,
+      "speaker": null,
+      "text": "the way, this is we're not adding anything. There are"
+    },
+    {
+      "start_seconds": 1051.32,
+      "end_seconds": 1054.32,
+      "speaker": null,
+      "text": "no scaffolds, no, no synthetic circuits. But they use their"
+    },
+    {
+      "start_seconds": 1054.96,
+      "end_seconds": 1058.96,
+      "speaker": null,
+      "text": "transcriptional affordances differently. They turn to hundreds of new genes"
+    },
+    {
+      "start_seconds": 1059.359,
+      "end_seconds": 1062.119,
+      "speaker": null,
+      "text": "and among other things, it turns out they're sensitive to"
+    },
+    {
+      "start_seconds": 1062.32,
+      "end_seconds": 1063.44,
+      "speaker": null,
+      "text": "acoustic vibrations."
+    },
+    {
+      "start_seconds": 1063.56,
+      "end_seconds": 1065.4,
+      "speaker": null,
+      "text": "That's the latest thing that just came out a month ago."
+    },
+    {
+      "start_seconds": 1065.44,
+      "end_seconds": 1067.28,
+      "speaker": null,
+      "text": "Is that we get because we found they were turning"
+    },
+    {
+      "start_seconds": 1067.28,
+      "end_seconds": 1069.0,
+      "speaker": null,
+      "text": "out a bunch of genes related to hearing."
+    },
+    {
+      "start_seconds": 1068.76,
+      "end_seconds": 1070.52,
+      "speaker": null,
+      "text": "And we said, is it possible at these things we hear?"
+    },
+    {
+      "start_seconds": 1070.84,
+      "end_seconds": 1073.8,
+      "speaker": null,
+      "text": "And so Vipofpie my group put a speaker under them"
+    },
+    {
+      "start_seconds": 1073.88,
+      "end_seconds": 1075.88,
+      "speaker": null,
+      "text": "and showed that, yeah, there's actually sounds you can send"
+    },
+    {
+      "start_seconds": 1075.88,
+      "end_seconds": 1077.399,
+      "speaker": null,
+      "text": "them that they will respond to."
+    },
+    {
+      "start_seconds": 1077.64,
+      "end_seconds": 1078.6,
+      "speaker": null,
+      "text": "So that's zenobots."
+    },
+    {
+      "start_seconds": 1078.64,
+      "end_seconds": 1082.04,
+      "speaker": null,
+      "text": "Anthrobots are a similar story because when we first did it,"
+    },
+    {
+      "start_seconds": 1082.08,
+      "end_seconds": 1085.28,
+      "speaker": null,
+      "text": "some people said, well, you know, they're embryonic cells and"
+    },
+    {
+      "start_seconds": 1085.4,
+      "end_seconds": 1087.679,
+      "speaker": null,
+      "text": "amphibia are plastic. Maybe that's why this is like a"
+    },
+    {
+      "start_seconds": 1087.68,
+      "end_seconds": 1090.28,
+      "speaker": null,
+      "text": "frog embryology thing. You know, this is specific to and centebat."
+    },
+    {
+      "start_seconds": 1090.44,
+      "end_seconds": 1092.16,
+      "speaker": null,
+      "text": "So I said, okay, what's the furthest you can get"
+    },
+    {
+      "start_seconds": 1092.16,
+      "end_seconds": 1093.08,
+      "speaker": null,
+      "text": "from an embryonic frog."
+    },
+    {
+      "start_seconds": 1093.08,
+      "end_seconds": 1094.16,
+      "speaker": null,
+      "text": "Well, I'll be an adult human."
+    },
+    {
+      "start_seconds": 1094.52,
+      "end_seconds": 1097.879,
+      "speaker": null,
+      "text": "And so we went and we took trachael epithelial cells"
+    },
+    {
+      "start_seconds": 1098.119,
+      "end_seconds": 1101.04,
+      "speaker": null,
+      "text": "from adult human patients and we showed and this is"
+    },
+    {
+      "start_seconds": 1101.24,
+      "end_seconds": 1104.04,
+      "speaker": null,
+      "text": "Gizem Gumushke's work, PhD student in my group."
+    },
+    {
+      "start_seconds": 1103.8,
+      "end_seconds": 1106.44,
+      "speaker": null,
+      "text": "Who developed a protocol whereby."
+    },
+    {
+      "start_seconds": 1106.4,
+      "end_seconds": 1109.6,
+      "speaker": null,
+      "text": "Again simply by taking the cells out of their normal context,"
+    },
+    {
+      "start_seconds": 1109.64,
+      "end_seconds": 1113.04,
+      "speaker": null,
+      "text": "you get to release their the various possible outcomes that"
+    },
+    {
+      "start_seconds": 1113.08,
+      "end_seconds": 1115.32,
+      "speaker": null,
+      "text": "they can do, and they make anthrobots. It's a little"
+    },
+    {
+      "start_seconds": 1116.119,
+      "end_seconds": 1119.36,
+      "speaker": null,
+      "text": "round little thing that zips around. It has a couple"
+    },
+    {
+      "start_seconds": 1119.44,
+      "end_seconds": 1122.88,
+      "speaker": null,
+      "text": "of interesting properties. First of all, it can heal neural wounds."
+    },
+    {
+      "start_seconds": 1123.08,
+      "end_seconds": 1125.0,
+      "speaker": null,
+      "text": "So if you played a dish of human neurons and"
+    },
+    {
+      "start_seconds": 1125.0,
+      "end_seconds": 1126.84,
+      "speaker": null,
+      "text": "you put a big scratch through it with a scalpel,"
+    },
+    {
+      "start_seconds": 1127.2,
+      "end_seconds": 1129.6,
+      "speaker": null,
+      "text": "they will. When they find the scratch, they settle down,"
+    },
+    {
+      "start_seconds": 1129.6,
+      "end_seconds": 1131.359,
+      "speaker": null,
+      "text": "a bunch of them. We call it a superbot cluster."
+    },
+    {
+      "start_seconds": 1131.44,
+      "end_seconds": 1134.119,
+      "speaker": null,
+      "text": "They settle down and within about four days, if you"
+    },
+    {
+      "start_seconds": 1134.2,
+      "end_seconds": 1135.56,
+      "speaker": null,
+      "text": "lift them up, you see that what they did. For"
+    },
+    {
+      "start_seconds": 1135.64,
+      "end_seconds": 1137.8,
+      "speaker": null,
+      "text": "what they did meanwhile is they healed across the They"
+    },
+    {
+      "start_seconds": 1137.88,
+      "end_seconds": 1140.2,
+      "speaker": null,
+      "text": "healed across the gap. Okay, who would have thought that"
+    },
+    {
+      "start_seconds": 1140.24,
+      "end_seconds": 1142.96,
+      "speaker": null,
+      "text": "your trachular ethelial cells that sit there quietly dealing with"
+    },
+    {
+      "start_seconds": 1143.0,
+      "end_seconds": 1146.199,
+      "speaker": null,
+      "text": "you know, mucus and and and the air particles have"
+    },
+    {
+      "start_seconds": 1146.28,
+      "end_seconds": 1149.52,
+      "speaker": null,
+      "text": "the ability to to to to heal neurons. And these"
+    },
+    {
+      "start_seconds": 1149.52,
+      "end_seconds": 1153.84,
+      "speaker": null,
+      "text": "guys express about nine thousand genes differently than right, so"
+    },
+    {
+      "start_seconds": 1153.96,
+      "end_seconds": 1157.0,
+      "speaker": null,
+      "text": "what almost half the genome they express differently than than"
+    },
+    {
+      "start_seconds": 1157.0,
+      "end_seconds": 1160.0,
+      "speaker": null,
+      "text": "they do in the body. They're, by the way, younger"
+    },
+    {
+      "start_seconds": 1160.04,
+      "end_seconds": 1162.24,
+      "speaker": null,
+      "text": "than the patient, than the than the cells that they"
+    },
+    {
+      "start_seconds": 1162.24,
+      "end_seconds": 1164.679,
+      "speaker": null,
+      "text": "came from. So so actually that process of becoming an"
+    },
+    {
+      "start_seconds": 1164.68,
+      "end_seconds": 1167.0,
+      "speaker": null,
+      "text": "answer what actually rolls back the epigenetic clock."
+    },
+    {
+      "start_seconds": 1167.28,
+      "end_seconds": 1169.0,
+      "speaker": null,
+      "text": "So so they're they're they're a bit younger."
+    },
+    {
+      "start_seconds": 1169.0,
+      "end_seconds": 1171.72,
+      "speaker": null,
+      "text": "This is fascinating, you know, behaviors and and all of"
+    },
+    {
+      "start_seconds": 1171.72,
+      "end_seconds": 1174.2,
+      "speaker": null,
+      "text": "this is run by that standard controller. So so that's"
+    },
+    {
+      "start_seconds": 1174.24,
+      "end_seconds": 1176.119,
+      "speaker": null,
+      "text": "kind of my point is that is that there's amazing"
+    },
+    {
+      "start_seconds": 1176.16,
+      "end_seconds": 1179.119,
+      "speaker": null,
+      "text": "plasticity in the brain and nervous system. But this goes"
+    },
+    {
+      "start_seconds": 1179.16,
+      "end_seconds": 1181.359,
+      "speaker": null,
+      "text": "all the way down. This is not just for you know,"
+    },
+    {
+      "start_seconds": 1181.44,
+      "end_seconds": 1182.639,
+      "speaker": null,
+      "text": "fancy fancy brains."
+    },
+    {
+      "start_seconds": 1197.56,
+      "end_seconds": 1201.84,
+      "speaker": null,
+      "text": "So we think about this as problems solved by the system."
+    },
+    {
+      "start_seconds": 1202.32,
+      "end_seconds": 1204.52,
+      "speaker": null,
+      "text": "And what's interesting, let's just come back for a second"
+    },
+    {
+      "start_seconds": 1204.56,
+      "end_seconds": 1208.119,
+      "speaker": null,
+      "text": "to the dog or the goat without fore limbs. We"
+    },
+    {
+      "start_seconds": 1208.76,
+      "end_seconds": 1212.88,
+      "speaker": null,
+      "text": "generally assume Okay, Look, if you're born with the typical"
+    },
+    {
+      "start_seconds": 1212.96,
+      "end_seconds": 1215.68,
+      "speaker": null,
+      "text": "structure of the animal, then you just develop in this way."
+    },
+    {
+      "start_seconds": 1215.72,
+      "end_seconds": 1218.6,
+      "speaker": null,
+      "text": "But otherwise there's a lot of deep problem solving that"
+    },
+    {
+      "start_seconds": 1218.64,
+      "end_seconds": 1221.2,
+      "speaker": null,
+      "text": "has to go on. But I know that you think"
+    },
+    {
+      "start_seconds": 1221.24,
+      "end_seconds": 1224.679,
+      "speaker": null,
+      "text": "about it as, Hey, maybe the system is always problem solving."
+    },
+    {
+      "start_seconds": 1224.76,
+      "end_seconds": 1227.399,
+      "speaker": null,
+      "text": "Maybe it's problem solving no matter what if you have"
+    },
+    {
+      "start_seconds": 1227.52,
+      "end_seconds": 1230.439,
+      "speaker": null,
+      "text": "front legs or not. It's just figuring out what to"
+    },
+    {
+      "start_seconds": 1230.52,
+      "end_seconds": 1233.76,
+      "speaker": null,
+      "text": "do to get to the goals. Yeah, I think I"
+    },
+    {
+      "start_seconds": 1233.76,
+      "end_seconds": 1234.4,
+      "speaker": null,
+      "text": "think that's right."
+    },
+    {
+      "start_seconds": 1234.48,
+      "end_seconds": 1236.24,
+      "speaker": null,
+      "text": "And and you know, in the last couple of years"
+    },
+    {
+      "start_seconds": 1236.48,
+      "end_seconds": 1240.24,
+      "speaker": null,
+      "text": "we've really emphasized this and started to develop this idea"
+    },
+    {
+      "start_seconds": 1240.28,
+      "end_seconds": 1242.4,
+      "speaker": null,
+      "text": "that you know, you can think about it as beginner's"
+    },
+    {
+      "start_seconds": 1242.4,
+      "end_seconds": 1244.64,
+      "speaker": null,
+      "text": "mind basically, the way that the reason that all these"
+    },
+    {
+      "start_seconds": 1244.64,
+      "end_seconds": 1248.28,
+      "speaker": null,
+      "text": "incredible plastic the plasticities exist. You know, when when we"
+    },
+    {
+      "start_seconds": 1248.359,
+      "end_seconds": 1251.52,
+      "speaker": null,
+      "text": "make a Doug Blackiston years ago in our lab, many"
+    },
+    {
+      "start_seconds": 1251.56,
+      "end_seconds": 1254.359,
+      "speaker": null,
+      "text": "tadpoles with eyes on their tails, and these these guys"
+    },
+    {
+      "start_seconds": 1254.359,
+      "end_seconds": 1255.48,
+      "speaker": null,
+      "text": "could see they were."
+    },
+    {
+      "start_seconds": 1255.359,
+      "end_seconds": 1256.24,
+      "speaker": null,
+      "text": "Not connected to the brain."
+    },
+    {
+      "start_seconds": 1256.28,
+      "end_seconds": 1258.159,
+      "speaker": null,
+      "text": "They make an optic nerve that connects sometimes to the"
+    },
+    {
+      "start_seconds": 1258.16,
+      "end_seconds": 1260.88,
+      "speaker": null,
+      "text": "spinal corse, sometimes to the gut, sometimes no where. They"
+    },
+    {
+      "start_seconds": 1260.92,
+      "end_seconds": 1263.44,
+      "speaker": null,
+      "text": "can see it, and they can learn visual tasks. Why"
+    },
+    {
+      "start_seconds": 1263.44,
+      "end_seconds": 1265.159,
+      "speaker": null,
+      "text": "does that work out of the box. Why don't you"
+    },
+    {
+      "start_seconds": 1265.24,
+      "end_seconds": 1268.159,
+      "speaker": null,
+      "text": "need you know, new rounds of selection mutation? You know,"
+    },
+    {
+      "start_seconds": 1268.2,
+      "end_seconds": 1269.16,
+      "speaker": null,
+      "text": "basically adaptation."
+    },
+    {
+      "start_seconds": 1269.64,
+      "end_seconds": 1270.44,
+      "speaker": null,
+      "text": "All of these things."
+    },
+    {
+      "start_seconds": 1270.52,
+      "end_seconds": 1274.96,
+      "speaker": null,
+      "text": "Plasticities work, I think because it never expected everything to"
+    },
+    {
+      "start_seconds": 1274.96,
+      "end_seconds": 1276.6,
+      "speaker": null,
+      "text": "be in the right place to begin with. It has"
+    },
+    {
+      "start_seconds": 1276.64,
+      "end_seconds": 1279.479,
+      "speaker": null,
+      "text": "to solve the problem from scratch every single time. And"
+    },
+    {
+      "start_seconds": 1279.52,
+      "end_seconds": 1282.36,
+      "speaker": null,
+      "text": "that goes back to the idea that biology is fundamentally"
+    },
+    {
+      "start_seconds": 1282.4,
+      "end_seconds": 1285.08,
+      "speaker": null,
+      "text": "dealing with an unreliable medium. Think about the way we"
+    },
+    {
+      "start_seconds": 1285.119,
+      "end_seconds": 1288.639,
+      "speaker": null,
+      "text": "build computers today. So we have error correcting codes, we"
+    },
+    {
+      "start_seconds": 1288.64,
+      "end_seconds": 1289.8,
+      "speaker": null,
+      "text": "have abstraction layers."
+    },
+    {
+      "start_seconds": 1289.88,
+      "end_seconds": 1290.04,
+      "speaker": null,
+      "text": "Right."
+    },
+    {
+      "start_seconds": 1290.32,
+      "end_seconds": 1292.84,
+      "speaker": null,
+      "text": "The reason that we do, you know, our microchips can't"
+    },
+    {
+      "start_seconds": 1292.88,
+      "end_seconds": 1295.159,
+      "speaker": null,
+      "text": "can't scale down easily, is because you don't want the"
+    },
+    {
+      "start_seconds": 1295.68,
+      "end_seconds": 1297.439,
+      "speaker": null,
+      "text": "data interfering with each other. Right when you get to"
+    },
+    {
+      "start_seconds": 1297.48,
+      "end_seconds": 1301.08,
+      "speaker": null,
+      "text": "that atomic limit that you know, the memory, the bits"
+    },
+    {
+      "start_seconds": 1301.08,
+      "end_seconds": 1302.8,
+      "speaker": null,
+      "text": "that are in there are stars starting to you know,"
+    },
+    {
+      "start_seconds": 1303.08,
+      "end_seconds": 1304.6,
+      "speaker": null,
+      "text": "interact with each other, and you don't want that."
+    },
+    {
+      "start_seconds": 1304.96,
+      "end_seconds": 1306.8,
+      "speaker": null,
+      "text": "All of all of our current."
+    },
+    {
+      "start_seconds": 1306.52,
+      "end_seconds": 1309.56,
+      "speaker": null,
+      "text": "Computer technology is built around the fidelity of the data."
+    },
+    {
+      "start_seconds": 1309.92,
+      "end_seconds": 1312.239,
+      "speaker": null,
+      "text": "And that's because the interpreter of that data is us,"
+    },
+    {
+      "start_seconds": 1312.28,
+      "end_seconds": 1314.359,
+      "speaker": null,
+      "text": "the user. We don't you know, the computer has no issues,"
+    },
+    {
+      "start_seconds": 1314.72,
+      "end_seconds": 1316.96,
+      "speaker": null,
+      "text": "It doesn't need to interpret the data. We interpret the data,"
+    },
+    {
+      "start_seconds": 1317.04,
+      "end_seconds": 1319.0,
+      "speaker": null,
+      "text": "so all the computer has to do is keep the"
+    },
+    {
+      "start_seconds": 1319.08,
+      "end_seconds": 1322.32,
+      "speaker": null,
+      "text": "data still. Biology is exactly the opposite. First of all,"
+    },
+    {
+      "start_seconds": 1322.359,
+      "end_seconds": 1324.44,
+      "speaker": null,
+      "text": "you have no hope of keeping anything still in biology."
+    },
+    {
+      "start_seconds": 1324.48,
+      "end_seconds": 1326.72,
+      "speaker": null,
+      "text": "You have no idea, never mind your environment but you're"
+    },
+    {
+      "start_seconds": 1326.76,
+      "end_seconds": 1328.72,
+      "speaker": null,
+      "text": "going to mutate as a lineage, you're going to mutate."
+    },
+    {
+      "start_seconds": 1328.76,
+      "end_seconds": 1329.84,
+      "speaker": null,
+      "text": "You can't count on your parts."
+    },
+    {
+      "start_seconds": 1329.84,
+      "end_seconds": 1332.32,
+      "speaker": null,
+      "text": "You can't count on, you know, knowing how many copies"
+    },
+    {
+      "start_seconds": 1332.359,
+      "end_seconds": 1334.76,
+      "speaker": null,
+      "text": "of any protein you're going to have. Things degrade, the environment,"
+    },
+    {
+      "start_seconds": 1335.0,
+      "end_seconds": 1338.76,
+      "speaker": null,
+      "text": "you know, internal millire plus or minus, you know whatever, homeostasis."
+    },
+    {
+      "start_seconds": 1338.76,
+      "end_seconds": 1342.24,
+      "speaker": null,
+      "text": "But things are always changing. So I think what biology"
+    },
+    {
+      "start_seconds": 1342.48,
+      "end_seconds": 1345.48,
+      "speaker": null,
+      "text": "really cranks on. And we've done computational simulations showing how"
+    },
+    {
+      "start_seconds": 1345.48,
+      "end_seconds": 1347.639,
+      "speaker": null,
+      "text": "this happens. That the minute you have this kind of"
+    },
+    {
+      "start_seconds": 1348.24,
+      "end_seconds": 1351.0,
+      "speaker": null,
+      "text": "problem solving material, I call it an agential material because"
+    },
+    {
+      "start_seconds": 1351.0,
+      "end_seconds": 1354.0,
+      "speaker": null,
+      "text": "it's not just the computational material, it's actually an agential material."
+    },
+    {
+      "start_seconds": 1354.04,
+      "end_seconds": 1356.76,
+      "speaker": null,
+      "text": "And the minute you have that material, evolution it starts"
+    },
+    {
+      "start_seconds": 1356.76,
+      "end_seconds": 1359.359,
+      "speaker": null,
+      "text": "to hide information from selection because you're not looking at"
+    },
+    {
+      "start_seconds": 1359.4,
+      "end_seconds": 1362.4,
+      "speaker": null,
+      "text": "the genome. You're looking at what's going on after you've"
+    },
+    {
+      "start_seconds": 1362.6,
+      "end_seconds": 1364.28,
+      "speaker": null,
+      "text": "you've solved the problem using whatever."
+    },
+    {
+      "start_seconds": 1364.08,
+      "end_seconds": 1365.32,
+      "speaker": null,
+      "text": "Tools the genome has given you."
+    },
+    {
+      "start_seconds": 1365.64,
+      "end_seconds": 1367.92,
+      "speaker": null,
+      "text": "And that means that evolution starts to spend a lot"
+    },
+    {
+      "start_seconds": 1367.96,
+      "end_seconds": 1370.8,
+      "speaker": null,
+      "text": "of its time cranking on that problem solving capacity."
+    },
+    {
+      "start_seconds": 1370.96,
+      "end_seconds": 1374.72,
+      "speaker": null,
+      "text": "It spends you know, less of its time on the."
+    },
+    {
+      "start_seconds": 1374.64,
+      "end_seconds": 1376.8,
+      "speaker": null,
+      "text": "On the hardwired mechanisms, and more of its time on"
+    },
+    {
+      "start_seconds": 1376.84,
+      "end_seconds": 1379.28,
+      "speaker": null,
+      "text": "that creative, confabulatory problem solving."
+    },
+    {
+      "start_seconds": 1379.56,
+      "end_seconds": 1381.12,
+      "speaker": null,
+      "text": "So I see all of these."
+    },
+    {
+      "start_seconds": 1380.92,
+      "end_seconds": 1384.72,
+      "speaker": null,
+      "text": "Things, you know, behavioral memories, genetic memories, meaning you know"
+    },
+    {
+      "start_seconds": 1384.72,
+      "end_seconds": 1387.04,
+      "speaker": null,
+      "text": "your genome, of your lineage. All of these things are"
+    },
+    {
+      "start_seconds": 1387.08,
+      "end_seconds": 1390.72,
+      "speaker": null,
+      "text": "basically messages. They're messages from your past self. They're prompts,"
+    },
+    {
+      "start_seconds": 1391.24,
+      "end_seconds": 1392.879,
+      "speaker": null,
+      "text": "but at any given moment it's up to you how"
+    },
+    {
+      "start_seconds": 1392.92,
+      "end_seconds": 1396.44,
+      "speaker": null,
+      "text": "you're going to interpret them. And the biological material has"
+    },
+    {
+      "start_seconds": 1396.48,
+      "end_seconds": 1400.4,
+      "speaker": null,
+      "text": "eons of pressure to learn to tell good stories with"
+    },
+    {
+      "start_seconds": 1400.44,
+      "end_seconds": 1402.48,
+      "speaker": null,
+      "text": "whatever it's given, whatever information it's given."
+    },
+    {
+      "start_seconds": 1402.56,
+      "end_seconds": 1404.6,
+      "speaker": null,
+      "text": "And that's morphogenesism, behavior and so on."
+    },
+    {
+      "start_seconds": 1406.52,
+      "end_seconds": 1409.84,
+      "speaker": null,
+      "text": "Yeah, you know, as an analogy, this is exactly the"
+    },
+    {
+      "start_seconds": 1409.96,
+      "end_seconds": 1412.199,
+      "speaker": null,
+      "text": "argument that I made in Live Wired, is that the"
+    },
+    {
+      "start_seconds": 1412.359,
+      "end_seconds": 1417.56,
+      "speaker": null,
+      "text": "genes do not specify the blueprints for making the brain. Instead,"
+    },
+    {
+      "start_seconds": 1417.6,
+      "end_seconds": 1421.28,
+      "speaker": null,
+      "text": "it's just specifying how to build this problem solving organism."
+    },
+    {
+      "start_seconds": 1421.28,
+      "end_seconds": 1423.719,
+      "speaker": null,
+      "text": "And as you know, you know, children can get a"
+    },
+    {
+      "start_seconds": 1423.8,
+      "end_seconds": 1426.8,
+      "speaker": null,
+      "text": "hemisphere ectomy, which means half of their brain is removed."
+    },
+    {
+      "start_seconds": 1427.0,
+      "end_seconds": 1427.96,
+      "speaker": null,
+      "text": "For example, if they."
+    },
+    {
+      "start_seconds": 1427.88,
+      "end_seconds": 1431.0,
+      "speaker": null,
+      "text": "Have an epilepsy that affects an entire half of the brain,"
+    },
+    {
+      "start_seconds": 1431.2,
+      "end_seconds": 1433.96,
+      "speaker": null,
+      "text": "So the surgeon removes half the brain and the kids"
+    },
+    {
+      "start_seconds": 1433.96,
+      "end_seconds": 1436.52,
+      "speaker": null,
+      "text": "grow up to be just fine because the other half"
+    },
+    {
+      "start_seconds": 1436.84,
+      "end_seconds": 1439.679,
+      "speaker": null,
+      "text": "that remains takes over the missing functions."
+    },
+    {
+      "start_seconds": 1440.04,
+      "end_seconds": 1441.959,
+      "speaker": null,
+      "text": "So it's actually I wanted to ask you about that."
+    },
+    {
+      "start_seconds": 1442.24,
+      "end_seconds": 1444.119,
+      "speaker": null,
+      "text": "I want to see what your take on it is."
+    },
+    {
+      "start_seconds": 1444.119,
+      "end_seconds": 1447.24,
+      "speaker": null,
+      "text": "So we reviewed recently. I've got this Karina Coffin that"
+    },
+    {
+      "start_seconds": 1447.28,
+      "end_seconds": 1451.32,
+      "speaker": null,
+      "text": "I reviewed these cases where people have massive amounts of"
+    },
+    {
+      "start_seconds": 1451.32,
+      "end_seconds": 1454.879,
+      "speaker": null,
+      "text": "brain missing, like the part that's left is incredibly small."
+    },
+    {
+      "start_seconds": 1455.0,
+      "end_seconds": 1456.879,
+      "speaker": null,
+      "text": "So most of them, of course have very reduced function."
+    },
+    {
+      "start_seconds": 1456.96,
+      "end_seconds": 1459.92,
+      "speaker": null,
+      "text": "But the interesting cases, and there are some amazing cases"
+    },
+    {
+      "start_seconds": 1460.04,
+      "end_seconds": 1462.6,
+      "speaker": null,
+      "text": "where it's a massive reduction on both sides, right, so"
+    },
+    {
+      "start_seconds": 1462.6,
+      "end_seconds": 1464.48,
+      "speaker": null,
+      "text": "it's not a hemisphere, I mean, and yet they have"
+    },
+    {
+      "start_seconds": 1464.6,
+      "end_seconds": 1467.6,
+      "speaker": null,
+      "text": "normal or in some cases above normal intelligence. What do"
+    },
+    {
+      "start_seconds": 1467.64,
+      "end_seconds": 1469.439,
+      "speaker": null,
+      "text": "you think is going on in these in these you know,"
+    },
+    {
+      "start_seconds": 1469.48,
+      "end_seconds": 1472.04,
+      "speaker": null,
+      "text": "fairly unique but still have to be explained cases, What's"
+    },
+    {
+      "start_seconds": 1472.04,
+      "end_seconds": 1472.6,
+      "speaker": null,
+      "text": "going on there?"
+    },
+    {
+      "start_seconds": 1472.72,
+      "end_seconds": 1473.0,
+      "speaker": null,
+      "text": "Yeah?"
+    },
+    {
+      "start_seconds": 1473.08,
+      "end_seconds": 1475.399,
+      "speaker": null,
+      "text": "So this is the uh, this is the magic of"
+    },
+    {
+      "start_seconds": 1475.52,
+      "end_seconds": 1477.64,
+      "speaker": null,
+      "text": "live weiring. I think one of the cases that used"
+    },
+    {
+      "start_seconds": 1477.64,
+      "end_seconds": 1481.439,
+      "speaker": null,
+      "text": "in that paper was people with hydrocephalis, which means you"
+    },
+    {
+      "start_seconds": 1481.44,
+      "end_seconds": 1484.44,
+      "speaker": null,
+      "text": "get this build up of this pressure in the ventricles,"
+    },
+    {
+      "start_seconds": 1484.48,
+      "end_seconds": 1486.6,
+      "speaker": null,
+      "text": "these fluid filled spaces in the brain, and the whole"
+    },
+    {
+      "start_seconds": 1486.72,
+      "end_seconds": 1489.32,
+      "speaker": null,
+      "text": "ring gets squished up against the sides of the skull."
+    },
+    {
+      "start_seconds": 1489.4,
+      "end_seconds": 1492.8,
+      "speaker": null,
+      "text": "So when you look at it on MRI, it looks"
+    },
+    {
+      "start_seconds": 1492.88,
+      "end_seconds": 1496.0,
+      "speaker": null,
+      "text": "like it's essentially empty space and the little bit of"
+    },
+    {
+      "start_seconds": 1496.0,
+      "end_seconds": 1499.159,
+      "speaker": null,
+      "text": "brain is squished up against it. What that demonstrates is"
+    },
+    {
+      "start_seconds": 1499.16,
+      "end_seconds": 1502.24,
+      "speaker": null,
+      "text": "exactly what you I both love, which is how flexible"
+    },
+    {
+      "start_seconds": 1502.28,
+      "end_seconds": 1505.76,
+      "speaker": null,
+      "text": "this material is. Because you know, you can't run over"
+    },
+    {
+      "start_seconds": 1506.2,
+      "end_seconds": 1510.479,
+      "speaker": null,
+      "text": "half your laptop and expected to still function, but you"
+    },
+    {
+      "start_seconds": 1510.52,
+      "end_seconds": 1513.48,
+      "speaker": null,
+      "text": "can squish this stuff anyway you want, and it just"
+    },
+    {
+      "start_seconds": 1513.56,
+      "end_seconds": 1516.92,
+      "speaker": null,
+      "text": "figures out how to accomplish the goals, in this case,"
+    },
+    {
+      "start_seconds": 1517.0,
+      "end_seconds": 1520.56,
+      "speaker": null,
+      "text": "the cognitive and movement goals that it needs to do."
+    },
+    {
+      "start_seconds": 1520.72,
+      "end_seconds": 1523.399,
+      "speaker": null,
+      "text": "There's one of the cases in the medical literature this"
+    },
+    {
+      "start_seconds": 1523.84,
+      "end_seconds": 1525.6,
+      "speaker": null,
+      "text": "guy who was forty years old and he went to"
+    },
+    {
+      "start_seconds": 1525.64,
+      "end_seconds": 1527.119,
+      "speaker": null,
+      "text": "the doctor because he was having a little bit of"
+    },
+    {
+      "start_seconds": 1527.24,
+      "end_seconds": 1530.6,
+      "speaker": null,
+      "text": "leg pain. And the doctor couldn't figure out why the"
+    },
+    {
+      "start_seconds": 1530.6,
+      "end_seconds": 1532.6,
+      "speaker": null,
+      "text": "guy's leg was hurting, so he said, hey, why don't"
+    },
+    {
+      "start_seconds": 1532.64,
+      "end_seconds": 1535.08,
+      "speaker": null,
+      "text": "we just take a brain scan, And that's when they"
+    },
+    {
+      "start_seconds": 1535.119,
+      "end_seconds": 1537.8,
+      "speaker": null,
+      "text": "discovered that most of the brain scan just looks like"
+    },
+    {
+      "start_seconds": 1538.32,
+      "end_seconds": 1540.24,
+      "speaker": null,
+      "text": "empty or fluid filled space."
+    },
+    {
+      "start_seconds": 1540.64,
+      "end_seconds": 1542.8,
+      "speaker": null,
+      "text": "But you know, he was married, he had a job,"
+    },
+    {
+      "start_seconds": 1543.0,
+      "end_seconds": 1543.64,
+      "speaker": null,
+      "text": "normal IQ."
+    },
+    {
+      "start_seconds": 1544.72,
+      "end_seconds": 1550.0,
+      "speaker": null,
+      "text": "It's quite remarkable how different this livewear is from the"
+    },
+    {
+      "start_seconds": 1550.04,
+      "end_seconds": 1552.52,
+      "speaker": null,
+      "text": "way that we think about building things in Silicon Valley."
+    },
+    {
+      "start_seconds": 1552.8,
+      "end_seconds": 1554.96,
+      "speaker": null,
+      "text": "And of course you're what you do which is so"
+    },
+    {
+      "start_seconds": 1555.0,
+      "end_seconds": 1559.32,
+      "speaker": null,
+      "text": "remarkable is is look at all the cells, the whole system,"
+    },
+    {
+      "start_seconds": 1559.76,
+      "end_seconds": 1563.28,
+      "speaker": null,
+      "text": "and this massive flexibility and the collective intelligence of all"
+    },
+    {
+      "start_seconds": 1563.32,
+      "end_seconds": 1565.0,
+      "speaker": null,
+      "text": "the pieces and parts all the way up. Tell me"
+    },
+    {
+      "start_seconds": 1565.08,
+      "end_seconds": 1568.08,
+      "speaker": null,
+      "text": "you think this is a good analogy about collective intelligence."
+    },
+    {
+      "start_seconds": 1568.16,
+      "end_seconds": 1569.879,
+      "speaker": null,
+      "text": "I was thinking about I was just trying to think"
+    },
+    {
+      "start_seconds": 1569.92,
+      "end_seconds": 1573.56,
+      "speaker": null,
+      "text": "of an analogy, and I was thinking about with Wikipedia,"
+    },
+    {
+      "start_seconds": 1573.76,
+      "end_seconds": 1577.24,
+      "speaker": null,
+      "text": "everybody's doing their little thing depending on their own expertise,"
+    },
+    {
+      "start_seconds": 1577.359,
+      "end_seconds": 1580.96,
+      "speaker": null,
+      "text": "they put in some things, and nobody who's doing this"
+    },
+    {
+      "start_seconds": 1581.2,
+      "end_seconds": 1584.64,
+      "speaker": null,
+      "text": "knows the giant shape of the full Wikipedia."
+    },
+    {
+      "start_seconds": 1584.68,
+      "end_seconds": 1587.32,
+      "speaker": null,
+      "text": "It's much too big for any given human."
+    },
+    {
+      "start_seconds": 1588.8,
+      "end_seconds": 1591.64,
+      "speaker": null,
+      "text": "But nonetheless everyone's doing their things, and what you get"
+    },
+    {
+      "start_seconds": 1591.72,
+      "end_seconds": 1595.28,
+      "speaker": null,
+      "text": "is this collective intelligence out of it. And I was"
+    },
+    {
+      "start_seconds": 1595.28,
+      "end_seconds": 1598.56,
+      "speaker": null,
+      "text": "thinking about whether I could stretch its analogy. You know,"
+    },
+    {
+      "start_seconds": 1598.68,
+      "end_seconds": 1602.0,
+      "speaker": null,
+      "text": "if some part of Wikipedia got cut off, like an"
+    },
+    {
+      "start_seconds": 1602.04,
+      "end_seconds": 1605.48,
+      "speaker": null,
+      "text": "Axi Lotel's limb, it would grow back and it would"
+    },
+    {
+      "start_seconds": 1605.52,
+      "end_seconds": 1609.28,
+      "speaker": null,
+      "text": "take the right shape again, because that knowledge is somehow"
+    },
+    {
+      "start_seconds": 1609.4,
+      "end_seconds": 1612.119,
+      "speaker": null,
+      "text": "stored in all the individuals who are writing the stuff."
+    },
+    {
+      "start_seconds": 1612.44,
+      "end_seconds": 1616.08,
+      "speaker": null,
+      "text": "But again, nobody knows what they're doing. Everyone's just contributing"
+    },
+    {
+      "start_seconds": 1616.08,
+      "end_seconds": 1618.0,
+      "speaker": null,
+      "text": "where they see a gap. Does that seem like an"
+    },
+    {
+      "start_seconds": 1618.04,
+      "end_seconds": 1618.84,
+      "speaker": null,
+      "text": "interesting analogies?"
+    },
+    {
+      "start_seconds": 1619.119,
+      "end_seconds": 1621.32,
+      "speaker": null,
+      "text": "It is and what it suggests to me, And I'll"
+    },
+    {
+      "start_seconds": 1621.359,
+      "end_seconds": 1623.879,
+      "speaker": null,
+      "text": "actually I'll actually talk to Eric Hole about this and"
+    },
+    {
+      "start_seconds": 1623.92,
+      "end_seconds": 1626.0,
+      "speaker": null,
+      "text": "see I see if this is a good analysis to do."
+    },
+    {
+      "start_seconds": 1626.24,
+      "end_seconds": 1631.119,
+      "speaker": null,
+      "text": "Because there are now computational tools from from information theories"
+    },
+    {
+      "start_seconds": 1631.2,
+      "end_seconds": 1632.68,
+      "speaker": null,
+      "text": "and then Eric Hole was one of the one of"
+    },
+    {
+      "start_seconds": 1632.72,
+      "end_seconds": 1635.439,
+      "speaker": null,
+      "text": "the key developers of some of this where you can"
+    },
+    {
+      "start_seconds": 1635.52,
+      "end_seconds": 1638.24,
+      "speaker": null,
+      "text": "actually in a specific given circumstance, you can actually ask"
+    },
+    {
+      "start_seconds": 1638.28,
+      "end_seconds": 1641.84,
+      "speaker": null,
+      "text": "whether the higher level has caught more causal power than"
+    },
+    {
+      "start_seconds": 1641.88,
+      "end_seconds": 1644.24,
+      "speaker": null,
+      "text": "the lower level. And so so it's actually an amazing"
+    },
+    {
+      "start_seconds": 1644.24,
+      "end_seconds": 1646.56,
+      "speaker": null,
+      "text": "advance because it means that questions that before used to"
+    },
+    {
+      "start_seconds": 1646.56,
+      "end_seconds": 1648.44,
+      "speaker": null,
+      "text": "be philosophy, and people argued about this for you know,"
+    },
+    {
+      "start_seconds": 1648.6,
+      "end_seconds": 1652.04,
+      "speaker": null,
+      "text": "probly thousands of years, whether the reductionism or you know,"
+    },
+    {
+      "start_seconds": 1652.2,
+      "end_seconds": 1654.199,
+      "speaker": null,
+      "text": "was was all you need or whether sometimes you have"
+    },
+    {
+      "start_seconds": 1654.2,
+      "end_seconds": 1656.399,
+      "speaker": null,
+      "text": "these higher level things that are causally powerful. Now, now"
+    },
+    {
+      "start_seconds": 1656.48,
+      "end_seconds": 1658.639,
+      "speaker": null,
+      "text": "now there's actual maths to answer that question. It's it's"
+    },
+    {
+      "start_seconds": 1658.68,
+      "end_seconds": 1660.28,
+      "speaker": null,
+      "text": "it's quite amazing. And so so you know, there are"
+    },
+    {
+      "start_seconds": 1660.32,
+      "end_seconds": 1663.359,
+      "speaker": null,
+      "text": "Python toolkits now to estimate in your given system, is"
+    },
+    {
+      "start_seconds": 1663.4,
+      "end_seconds": 1666.44,
+      "speaker": null,
+      "text": "everything explainable by the lower levels or is there a"
+    },
+    {
+      "start_seconds": 1667.08,
+      "end_seconds": 1669.8,
+      "speaker": null,
+      "text": "higher level that does something that the lower levels don't do."
+    },
+    {
+      "start_seconds": 1670.2,
+      "end_seconds": 1674.72,
+      "speaker": null,
+      "text": "And actually, people like Julio Tononi and Laris Albontakis in"
+    },
+    {
+      "start_seconds": 1674.76,
+      "end_seconds": 1677.32,
+      "speaker": null,
+      "text": "his group, they apply this to all kinds of human patients. So,"
+    },
+    {
+      "start_seconds": 1677.68,
+      "end_seconds": 1681.36,
+      "speaker": null,
+      "text": "so coma you know, locked in a sleep, anesthetize the wake, right,"
+    },
+    {
+      "start_seconds": 1681.6,
+      "end_seconds": 1683.199,
+      "speaker": null,
+      "text": "are you dealing with a pile of neurons or is"
+    },
+    {
+      "start_seconds": 1683.2,
+      "end_seconds": 1683.92,
+      "speaker": null,
+      "text": "there a human."
+    },
+    {
+      "start_seconds": 1683.72,
+      "end_seconds": 1685.52,
+      "speaker": null,
+      "text": "Being in there, you know, some kind of collector?"
+    },
+    {
+      "start_seconds": 1685.6,
+      "end_seconds": 1685.8,
+      "speaker": null,
+      "text": "Right."
+    },
+    {
+      "start_seconds": 1685.92,
+      "end_seconds": 1688.52,
+      "speaker": null,
+      "text": "So, so now what you're making me think, is this whole,"
+    },
+    {
+      "start_seconds": 1688.72,
+      "end_seconds": 1692.159,
+      "speaker": null,
+      "text": "this whole process of Wikipedia, we could we could in"
+    },
+    {
+      "start_seconds": 1692.24,
+      "end_seconds": 1695.24,
+      "speaker": null,
+      "text": "theory apply those tools and and and really empirically asked"
+    },
+    {
+      "start_seconds": 1695.24,
+      "end_seconds": 1697.92,
+      "speaker": null,
+      "text": "the question is there a collective there that's bigger than"
+    },
+    {
+      "start_seconds": 1698.72,
+      "end_seconds": 1701.36,
+      "speaker": null,
+      "text": "just the individual processes? That go on when people get"
+    },
+    {
+      "start_seconds": 1701.4,
+      "end_seconds": 1704.32,
+      "speaker": null,
+      "text": "on and and edit those you know, at those those"
+    },
+    {
+      "start_seconds": 1704.32,
+      "end_seconds": 1705.16,
+      "speaker": null,
+      "text": "Wikipedia entries."
+    },
+    {
+      "start_seconds": 1705.24,
+      "end_seconds": 1706.84,
+      "speaker": null,
+      "text": "Let's do this experiment. I love it."
+    },
+    {
+      "start_seconds": 1706.92,
+      "end_seconds": 1708.44,
+      "speaker": null,
+      "text": "I want to make sure that we have enough time"
+    },
+    {
+      "start_seconds": 1708.44,
+      "end_seconds": 1714.28,
+      "speaker": null,
+      "text": "to talk about diverse intelligences. So one of your interests"
+    },
+    {
+      "start_seconds": 1714.4,
+      "end_seconds": 1718.32,
+      "speaker": null,
+      "text": "is in not just looking at human brains and thinking about, okay,"
+    },
+    {
+      "start_seconds": 1718.32,
+      "end_seconds": 1721.0,
+      "speaker": null,
+      "text": "how is this intelligence? So on, but saying, what are"
+    },
+    {
+      "start_seconds": 1721.08,
+      "end_seconds": 1724.16,
+      "speaker": null,
+      "text": "other systems that are intelligence? So let's let's dive into that."
+    },
+    {
+      "start_seconds": 1724.28,
+      "end_seconds": 1727.0,
+      "speaker": null,
+      "text": "Tell us about how you think about diverse cognition."
+    },
+    {
+      "start_seconds": 1727.44,
+      "end_seconds": 1730.52,
+      "speaker": null,
+      "text": "Yeah, so so because of some of the things that"
+    },
+    {
+      "start_seconds": 1730.52,
+      "end_seconds": 1733.52,
+      "speaker": null,
+      "text": "we've already discussed, meaning that problem solving is something that"
+    },
+    {
+      "start_seconds": 1733.56,
+      "end_seconds": 1735.88,
+      "speaker": null,
+      "text": "biology has to grapple with at the very beginning, you know,"
+    },
+    {
+      "start_seconds": 1735.92,
+      "end_seconds": 1738.2,
+      "speaker": null,
+      "text": "at the very origin of life, and in fact, probably"
+    },
+    {
+      "start_seconds": 1738.36,
+      "end_seconds": 1741.16,
+      "speaker": null,
+      "text": "long before that. You know, you can't afford to be"
+    },
+    {
+      "start_seconds": 1741.36,
+      "end_seconds": 1743.68,
+      "speaker": null,
+      "text": "like a Laplacian demon that's going to track micro states."
+    },
+    {
+      "start_seconds": 1743.72,
+      "end_seconds": 1745.84,
+      "speaker": null,
+      "text": "You have to coarse grain your environment. You have to"
+    },
+    {
+      "start_seconds": 1745.92,
+      "end_seconds": 1750.08,
+      "speaker": null,
+      "text": "start telling yourself kind of agential stories about what's going on."
+    },
+    {
+      "start_seconds": 1750.12,
+      "end_seconds": 1751.6,
+      "speaker": null,
+      "text": "In other words, you have to make models of the"
+    },
+    {
+      "start_seconds": 1751.68,
+      "end_seconds": 1754.36,
+      "speaker": null,
+      "text": "environment where you course grain a whole bunch of different"
+    },
+    {
+      "start_seconds": 1754.36,
+      "end_seconds": 1755.959,
+      "speaker": null,
+      "text": "things that are happening, and you say, okay, I'm going"
+    },
+    {
+      "start_seconds": 1756.0,
+      "end_seconds": 1758.2,
+      "speaker": null,
+      "text": "to treat all those as one thing, and this is"
+    },
+    {
+      "start_seconds": 1758.28,
+      "end_seconds": 1760.68,
+      "speaker": null,
+      "text": "danger or this is food, or this is a conspecific"
+    },
+    {
+      "start_seconds": 1760.76,
+      "end_seconds": 1762.52,
+      "speaker": null,
+      "text": "or this is you know, low pH you know for"
+    },
+    {
+      "start_seconds": 1762.56,
+      "end_seconds": 1765.52,
+      "speaker": null,
+      "text": "an ambarrow or whatever it is. So that kind of thing,"
+    },
+    {
+      "start_seconds": 1765.56,
+      "end_seconds": 1768.0,
+      "speaker": null,
+      "text": "having to having to tell these kind of agential stories"
+    },
+    {
+      "start_seconds": 1768.08,
+      "end_seconds": 1770.32,
+      "speaker": null,
+      "text": "that you can then eventually turn on yourself and say wait."
+    },
+    {
+      "start_seconds": 1770.4,
+      "end_seconds": 1772.56,
+      "speaker": null,
+      "text": "And I also am an agent that does things and"
+    },
+    {
+      "start_seconds": 1773.0,
+      "end_seconds": 1777.36,
+      "speaker": null,
+      "text": "the need to improvise, continuously improvise meaning for the information"
+    },
+    {
+      "start_seconds": 1777.44,
+      "end_seconds": 1779.24,
+      "speaker": null,
+      "text": "that you get, because you're not told nobody's going to"
+    },
+    {
+      "start_seconds": 1779.24,
+      "end_seconds": 1781.6,
+      "speaker": null,
+      "text": "interpret anything for you. You have to interpret your own genome,"
+    },
+    {
+      "start_seconds": 1781.72,
+      "end_seconds": 1784.4,
+      "speaker": null,
+      "text": "your own physiological states, your own memories. And so I'm"
+    },
+    {
+      "start_seconds": 1784.4,
+      "end_seconds": 1786.84,
+      "speaker": null,
+      "text": "really interested in the different ways that this gets amplified"
+    },
+    {
+      "start_seconds": 1786.84,
+      "end_seconds": 1789.479,
+      "speaker": null,
+      "text": "in evolution. And of course, you know brains, you know,"
+    },
+    {
+      "start_seconds": 1789.56,
+      "end_seconds": 1791.72,
+      "speaker": null,
+      "text": "the familiar brains are one way that that happens, but"
+    },
+    {
+      "start_seconds": 1791.72,
+      "end_seconds": 1793.52,
+      "speaker": null,
+      "text": "there are many other ways that that happens. And I"
+    },
+    {
+      "start_seconds": 1793.6,
+      "end_seconds": 1795.36,
+      "speaker": null,
+      "text": "want to want to just briefly give you two quick"
+    },
+    {
+      "start_seconds": 1795.4,
+      "end_seconds": 1798.6,
+      "speaker": null,
+      "text": "analogies that I think illustrate some of the aspects of"
+    },
+    {
+      "start_seconds": 1798.64,
+      "end_seconds": 1800.68,
+      "speaker": null,
+      "text": "what the field of diverse and tell legence is about,"
+    },
+    {
+      "start_seconds": 1800.72,
+      "end_seconds": 1802.72,
+      "speaker": null,
+      "text": "at least the way I see it. First of all,"
+    },
+    {
+      "start_seconds": 1803.04,
+      "end_seconds": 1805.36,
+      "speaker": null,
+      "text": "think about the electromagnetic spectrum. So back in the day"
+    },
+    {
+      "start_seconds": 1805.36,
+      "end_seconds": 1808.44,
+      "speaker": null,
+      "text": "when we didn't have a proper theory of electromagnetism, we"
+    },
+    {
+      "start_seconds": 1808.52,
+      "end_seconds": 1813.0,
+      "speaker": null,
+      "text": "had lightning and static electricity, and light and magnets and."
+    },
+    {
+      "start_seconds": 1813.24,
+      "end_seconds": 1815.12,
+      "speaker": null,
+      "text": "Various things like that, and we thought those were all"
+    },
+    {
+      "start_seconds": 1815.12,
+      "end_seconds": 1815.64,
+      "speaker": null,
+      "text": "different things."
+    },
+    {
+      "start_seconds": 1815.72,
+      "end_seconds": 1819.2,
+      "speaker": null,
+      "text": "We thought they were all categories, like sharp crisp categories."
+    },
+    {
+      "start_seconds": 1819.24,
+      "end_seconds": 1821.84,
+      "speaker": null,
+      "text": "Nobody thought that light and magnets were the same, and"
+    },
+    {
+      "start_seconds": 1821.92,
+      "end_seconds": 1824.8,
+      "speaker": null,
+      "text": "those are you know, we have categories for all those things."
+    },
+    {
+      "start_seconds": 1825.16,
+      "end_seconds": 1827.24,
+      "speaker": null,
+      "text": "And also, so that's the first thing. We thought these"
+    },
+    {
+      "start_seconds": 1827.24,
+      "end_seconds": 1829.84,
+      "speaker": null,
+      "text": "were all distinct and because of our own."
+    },
+    {
+      "start_seconds": 1829.68,
+      "end_seconds": 1832.72,
+      "speaker": null,
+      "text": "Evolutionary history, we were only sensitive to a tiny part"
+    },
+    {
+      "start_seconds": 1832.72,
+      "end_seconds": 1835.44,
+      "speaker": null,
+      "text": "of that spectrum. There were huge examples of this phenomena"
+    },
+    {
+      "start_seconds": 1835.48,
+      "end_seconds": 1838.96,
+      "speaker": null,
+      "text": "that we were completely blind to. And then we eventually"
+    },
+    {
+      "start_seconds": 1839.0,
+      "end_seconds": 1840.92,
+      "speaker": null,
+      "text": "we ended up with a good theory of electromagnetism."
+    },
+    {
+      "start_seconds": 1840.92,
+      "end_seconds": 1841.56,
+      "speaker": null,
+      "text": "We did two things."
+    },
+    {
+      "start_seconds": 1841.56,
+      "end_seconds": 1843.8,
+      "speaker": null,
+      "text": "First of all, unified it says, no, these are all"
+    },
+    {
+      "start_seconds": 1843.84,
+      "end_seconds": 1847.48,
+      "speaker": null,
+      "text": "actually in a very meaningful way. They are all examples"
+    },
+    {
+      "start_seconds": 1847.48,
+      "end_seconds": 1850.32,
+      "speaker": null,
+      "text": "of the same underlying phenomena. Okay, so a deep unification,"
+    },
+    {
+      "start_seconds": 1850.44,
+      "end_seconds": 1851.0,
+      "speaker": null,
+      "text": "so that's great."
+    },
+    {
+      "start_seconds": 1851.36,
+      "end_seconds": 1854.48,
+      "speaker": null,
+      "text": "And two, they allowed us to make technology useful, technology"
+    },
+    {
+      "start_seconds": 1854.56,
+      "end_seconds": 1855.24,
+      "speaker": null,
+      "text": "that allows."
+    },
+    {
+      "start_seconds": 1855.04,
+      "end_seconds": 1857.04,
+      "speaker": null,
+      "text": "Us to operate across the spectrum, to be able to"
+    },
+    {
+      "start_seconds": 1857.08,
+      "end_seconds": 1860.36,
+      "speaker": null,
+      "text": "detect and modulate things that before were completely in visible"
+    },
+    {
+      "start_seconds": 1860.36,
+      "end_seconds": 1862.12,
+      "speaker": null,
+      "text": "to us, and meaning we didn't think they existed, but"
+    },
+    {
+      "start_seconds": 1862.24,
+      "end_seconds": 1864.6,
+      "speaker": null,
+      "text": "now we know better. So something like this is what"
+    },
+    {
+      "start_seconds": 1864.64,
+      "end_seconds": 1867.28,
+      "speaker": null,
+      "text": "I think is going to happen for cognition. I think"
+    },
+    {
+      "start_seconds": 1867.32,
+      "end_seconds": 1870.52,
+      "speaker": null,
+      "text": "we are sensitive to an extremely narrow spectrum among the"
+    },
+    {
+      "start_seconds": 1870.6,
+      "end_seconds": 1874.52,
+      "speaker": null,
+      "text": "gigantic space of possible minds. I think they are all"
+    },
+    {
+      "start_seconds": 1874.52,
+      "end_seconds": 1877.68,
+      "speaker": null,
+      "text": "around us, but we are totally mind blind to most"
+    },
+    {
+      "start_seconds": 1877.68,
+      "end_seconds": 1879.76,
+      "speaker": null,
+      "text": "of them, you know. I think that's a good term"
+    },
+    {
+      "start_seconds": 1879.76,
+      "end_seconds": 1882.16,
+      "speaker": null,
+      "text": "mind blindness, is that we just don't recognize these things"
+    },
+    {
+      "start_seconds": 1882.28,
+      "end_seconds": 1885.16,
+      "speaker": null,
+      "text": "because we don't have a good theory that explains why"
+    },
+    {
+      "start_seconds": 1885.6,
+      "end_seconds": 1888.8,
+      "speaker": null,
+      "text": "the problem solving of an amoeba, of a thermostat, of"
+    },
+    {
+      "start_seconds": 1889.52,
+      "end_seconds": 1891.719,
+      "speaker": null,
+      "text": "you know, of an organ of a human, of a"
+    },
+    {
+      "start_seconds": 1891.8,
+      "end_seconds": 1894.56,
+      "speaker": null,
+      "text": "collection of humans doing Wikipedia whatever, why these are all"
+    },
+    {
+      "start_seconds": 1894.56,
+      "end_seconds": 1897.24,
+      "speaker": null,
+      "text": "actually on the same spectrum. We don't have a good"
+    },
+    {
+      "start_seconds": 1897.24,
+      "end_seconds": 1900.28,
+      "speaker": null,
+      "text": "theory yet. And and the second thing is we don't"
+    },
+    {
+      "start_seconds": 1900.28,
+      "end_seconds": 1902.48,
+      "speaker": null,
+      "text": "have the technology. And this is something else that I"
+    },
+    {
+      "start_seconds": 1902.48,
+      "end_seconds": 1904.0,
+      "speaker": null,
+      "text": "think we have a lot to talk about in terms"
+    },
+    {
+      "start_seconds": 1904.04,
+      "end_seconds": 1907.96,
+      "speaker": null,
+      "text": "of prosthetics, Okay, cognitive and physical, bodily prosthetics that would"
+    },
+    {
+      "start_seconds": 1907.96,
+      "end_seconds": 1909.8,
+      "speaker": null,
+      "text": "allow us to interact with these other beings that are"
+    },
+    {
+      "start_seconds": 1909.84,
+      "end_seconds": 1910.44,
+      "speaker": null,
+      "text": "all around us."
+    },
+    {
+      "start_seconds": 1912.16,
+      "end_seconds": 1915.36,
+      "speaker": null,
+      "text": "So let's dive into some examples of diverse intelligence. Sure,"
+    },
+    {
+      "start_seconds": 1915.4,
+      "end_seconds": 1917.2,
+      "speaker": null,
+      "text": "so let's just start from from the beginning and work"
+    },
+    {
+      "start_seconds": 1917.2,
+      "end_seconds": 1919.96,
+      "speaker": null,
+      "text": "our way up. So, so brains, okay, we all know brain."
+    },
+    {
+      "start_seconds": 1920.0,
+      "end_seconds": 1922.08,
+      "speaker": null,
+      "text": "Any kinds of animals exist."
+    },
+    {
+      "start_seconds": 1922.16,
+      "end_seconds": 1926.28,
+      "speaker": null,
+      "text": "Then, because of what we understand about navigating other biological spaces,"
+    },
+    {
+      "start_seconds": 1926.6,
+      "end_seconds": 1929.72,
+      "speaker": null,
+      "text": "we can think about plants, and we can think about cells,"
+    },
+    {
+      "start_seconds": 1929.88,
+      "end_seconds": 1933.0,
+      "speaker": null,
+      "text": "and we can think about tissues and organs, which also"
+    },
+    {
+      "start_seconds": 1933.48,
+      "end_seconds": 1934.28,
+      "speaker": null,
+      "text": "solve problems."
+    },
+    {
+      "start_seconds": 1934.32,
+      "end_seconds": 1937.28,
+      "speaker": null,
+      "text": "They store memories, they can learn, they can be communicated with."
+    },
+    {
+      "start_seconds": 1937.4,
+      "end_seconds": 1939.72,
+      "speaker": null,
+      "text": "This is what all of the biomedical efforts in my"
+    },
+    {
+      "start_seconds": 1939.8,
+      "end_seconds": 1943.56,
+      "speaker": null,
+      "text": "lab are pointed at, which is learning through in particular"
+    },
+    {
+      "start_seconds": 1943.64,
+      "end_seconds": 1948.08,
+      "speaker": null,
+      "text": "bioelectrical interface. They're all oriented towards communicating our goals to"
+    },
+    {
+      "start_seconds": 1948.12,
+      "end_seconds": 1951.4,
+      "speaker": null,
+      "text": "cells and tissues. So for full on regenerative medicine, it"
+    },
+    {
+      "start_seconds": 1951.48,
+      "end_seconds": 1953.68,
+      "speaker": null,
+      "text": "is not going to be sufficient to try to micromanage"
+    },
+    {
+      "start_seconds": 1953.92,
+      "end_seconds": 1956.96,
+      "speaker": null,
+      "text": "the receptors or genetic states. We are going to have"
+    },
+    {
+      "start_seconds": 1957.0,
+      "end_seconds": 1959.4,
+      "speaker": null,
+      "text": "to get the buy in of the cells, respecify their"
+    },
+    {
+      "start_seconds": 1959.4,
+      "end_seconds": 1961.68,
+      "speaker": null,
+      "text": "goals at a high level, and get them to do"
+    },
+    {
+      "start_seconds": 1961.72,
+      "end_seconds": 1964.2,
+      "speaker": null,
+      "text": "these complicated things that we can't possibly micromanage."
+    },
+    {
+      "start_seconds": 1964.28,
+      "end_seconds": 1966.16,
+      "speaker": null,
+      "text": "So give us some specific examples."
+    },
+    {
+      "start_seconds": 1966.32,
+      "end_seconds": 1969.36,
+      "speaker": null,
+      "text": "So one of the things that we have learned to"
+    },
+    {
+      "start_seconds": 1969.36,
+      "end_seconds": 1972.96,
+      "speaker": null,
+      "text": "do is much like neuroscientists read electrical patterns in the"
+    },
+    {
+      "start_seconds": 1972.96,
+      "end_seconds": 1974.36,
+      "speaker": null,
+      "text": "brain and they try to decode them."
+    },
+    {
+      "start_seconds": 1974.44,
+      "end_seconds": 1975.64,
+      "speaker": null,
+      "text": "So this is neural."
+    },
+    {
+      "start_seconds": 1975.36,
+      "end_seconds": 1979.16,
+      "speaker": null,
+      "text": "Decoding, where people want to read the electrophysiology of your"
+    },
+    {
+      "start_seconds": 1979.16,
+      "end_seconds": 1981.2,
+      "speaker": null,
+      "text": "brain and say here's your memories or goals or preferences"
+    },
+    {
+      "start_seconds": 1981.36,
+      "end_seconds": 1983.32,
+      "speaker": null,
+      "text": "and be able to read that out. We've learned to"
+    },
+    {
+      "start_seconds": 1983.32,
+      "end_seconds": 1985.4,
+      "speaker": null,
+      "text": "do that, and we developed the first tools to do"
+    },
+    {
+      "start_seconds": 1985.44,
+      "end_seconds": 1987.48,
+      "speaker": null,
+      "text": "it in the early two thousands for the rest of"
+    },
+    {
+      "start_seconds": 1987.48,
+      "end_seconds": 1990.16,
+      "speaker": null,
+      "text": "the body. So when I say that the early embryo"
+    },
+    {
+      "start_seconds": 1990.36,
+      "end_seconds": 1994.8,
+      "speaker": null,
+      "text": "navigates anatomical MorphOS space to the shape of whatever it's"
+    },
+    {
+      "start_seconds": 1994.84,
+      "end_seconds": 1996.96,
+      "speaker": null,
+      "text": "going to be, and that it is an active agent"
+    },
+    {
+      "start_seconds": 1997.0,
+      "end_seconds": 1998.76,
+      "speaker": null,
+      "text": "that has a memory of where it's going, it has"
+    },
+    {
+      "start_seconds": 1998.76,
+      "end_seconds": 2001.84,
+      "speaker": null,
+      "text": "a representation of where it's going, that's a very big claim."
+    },
+    {
+      "start_seconds": 2001.88,
+      "end_seconds": 2003.88,
+      "speaker": null,
+      "text": "You then have to say, well, what's the mechanism for"
+    },
+    {
+      "start_seconds": 2003.92,
+      "end_seconds": 2005.92,
+      "speaker": null,
+      "text": "storing the representation where is it?"
+    },
+    {
+      "start_seconds": 2005.96,
+      "end_seconds": 2008.08,
+      "speaker": null,
+      "text": "Can you decode it? And can you rewrite it? And"
+    },
+    {
+      "start_seconds": 2008.12,
+      "end_seconds": 2010.08,
+      "speaker": null,
+      "text": "so this is what we've done. We've developed tools to"
+    },
+    {
+      "start_seconds": 2010.48,
+      "end_seconds": 2013.8,
+      "speaker": null,
+      "text": "read the electrical memories of collections of cells. This goes"
+    },
+    {
+      "start_seconds": 2013.84,
+      "end_seconds": 2014.76,
+      "speaker": null,
+      "text": "right back to what you said."
+    },
+    {
+      "start_seconds": 2014.8,
+      "end_seconds": 2016.8,
+      "speaker": null,
+      "text": "No individual cell knows what a face is, or what"
+    },
+    {
+      "start_seconds": 2016.84,
+      "end_seconds": 2018.72,
+      "speaker": null,
+      "text": "an eye is, or how many fingers you're supposed to have,"
+    },
+    {
+      "start_seconds": 2018.84,
+      "end_seconds": 2021.28,
+      "speaker": null,
+      "text": "but the collective absolutely knows. And we can read this"
+    },
+    {
+      "start_seconds": 2021.32,
+      "end_seconds": 2024.36,
+      "speaker": null,
+      "text": "out now. In a few cases, we can literally see"
+    },
+    {
+      "start_seconds": 2024.16,
+      "end_seconds": 2028.28,
+      "speaker": null,
+      "text": "the in images and videos, the memory, the electrical pattern"
+    },
+    {
+      "start_seconds": 2028.32,
+      "end_seconds": 2030.56,
+      "speaker": null,
+      "text": "that is of the future shape that is guiding the"
+    },
+    {
+      "start_seconds": 2030.6,
+      "end_seconds": 2033.52,
+      "speaker": null,
+      "text": "sell activity. Moreover, it serves as a kind of cognitive"
+    },
+    {
+      "start_seconds": 2033.52,
+      "end_seconds": 2036.44,
+      "speaker": null,
+      "text": "glue that binds all the cells towards one story, one"
+    },
+    {
+      "start_seconds": 2036.52,
+      "end_seconds": 2039.04,
+      "speaker": null,
+      "text": "story of what a correct embryo is supposed to look like."
+    },
+    {
+      "start_seconds": 2039.16,
+      "end_seconds": 2040.88,
+      "speaker": null,
+      "text": "This is why you say it's an embryo and not"
+    },
+    {
+      "start_seconds": 2040.96,
+      "end_seconds": 2042.72,
+      "speaker": null,
+      "text": "a pile of cells because they've all committed to the"
+    },
+    {
+      "start_seconds": 2042.76,
+      "end_seconds": 2046.04,
+      "speaker": null,
+      "text": "same journey in that space. This actually, this idea is"
+    },
+    {
+      "start_seconds": 2046.16,
+      "end_seconds": 2048.8,
+      "speaker": null,
+      "text": "at least as old as Harold Burr in the thirties."
+    },
+    {
+      "start_seconds": 2048.84,
+      "end_seconds": 2051.48,
+      "speaker": null,
+      "text": "He without anything other than a good vaultmeter, he was"
+    },
+    {
+      "start_seconds": 2051.52,
+      "end_seconds": 2053.319,
+      "speaker": null,
+      "text": "able to kind of already figure this out."
+    },
+    {
+      "start_seconds": 2053.44,
+      "end_seconds": 2053.84,
+      "speaker": null,
+      "text": "Amazing."
+    },
+    {
+      "start_seconds": 2054.0,
+      "end_seconds": 2056.96,
+      "speaker": null,
+      "text": "And so now we can read those memories, we can"
+    },
+    {
+      "start_seconds": 2057.04,
+      "end_seconds": 2059.92,
+      "speaker": null,
+      "text": "decode those memories, and we can rewrite those memories."
+    },
+    {
+      "start_seconds": 2060.08,
+      "end_seconds": 2060.839,
+      "speaker": null,
+      "text": "Because if I take."
+    },
+    {
+      "start_seconds": 2060.76,
+      "end_seconds": 2063.08,
+      "speaker": null,
+      "text": "A plenarian flatworm and I say, oh, look, this is"
+    },
+    {
+      "start_seconds": 2063.08,
+      "end_seconds": 2065.239,
+      "speaker": null,
+      "text": "where it says that you should have two heads if"
+    },
+    {
+      "start_seconds": 2065.239,
+      "end_seconds": 2068.4,
+      "speaker": null,
+      "text": "you're injured, we can rewrite that. And this is Falon"
+    },
+    {
+      "start_seconds": 2068.44,
+      "end_seconds": 2070.56,
+      "speaker": null,
+      "text": "Durant's work when she was a PhD student in my group."
+    },
+    {
+      "start_seconds": 2070.8,
+      "end_seconds": 2076.2,
+      "speaker": null,
+      "text": "We can rewrite that electrical pattern, no genetic modification, just"
+    },
+    {
+      "start_seconds": 2076.719,
+      "end_seconds": 2079.36,
+      "speaker": null,
+      "text": "brief application only takes about three hours, a brief application"
+    },
+    {
+      "start_seconds": 2079.4,
+      "end_seconds": 2082.2,
+      "speaker": null,
+      "text": "of ion channel drugs that we've chosen specifically in tune"
+    },
+    {
+      "start_seconds": 2082.239,
+      "end_seconds": 2084.48,
+      "speaker": null,
+      "text": "with a computational model of how you would."
+    },
+    {
+      "start_seconds": 2084.239,
+      "end_seconds": 2086.64,
+      "speaker": null,
+      "text": "Do that, and we change that pattern. Instead of saying"
+    },
+    {
+      "start_seconds": 2086.64,
+      "end_seconds": 2087.799,
+      "speaker": null,
+      "text": "one head and now it says two."
+    },
+    {
+      "start_seconds": 2088.48,
+      "end_seconds": 2091.44,
+      "speaker": null,
+      "text": "Now that becomes a false memory because the worm currently"
+    },
+    {
+      "start_seconds": 2091.48,
+      "end_seconds": 2093.16,
+      "speaker": null,
+      "text": "doesn't have to It has one and it'll sit there"
+    },
+    {
+      "start_seconds": 2093.16,
+      "end_seconds": 2095.56,
+      "speaker": null,
+      "text": "perfectly happy. The anatomy does not match the memory. It's"
+    },
+    {
+      "start_seconds": 2095.56,
+      "end_seconds": 2098.319,
+      "speaker": null,
+      "text": "a latent memory until you injure the thing, and when"
+    },
+    {
+      "start_seconds": 2098.32,
+      "end_seconds": 2100.56,
+      "speaker": null,
+      "text": "you cut it, bang, that's when the cells consult the"
+    },
+    {
+      "start_seconds": 2100.56,
+      "end_seconds": 2102.719,
+      "speaker": null,
+      "text": "memory and memories says, build two heads. Well, that's their"
+    },
+    {
+      "start_seconds": 2102.719,
+      "end_seconds": 2104.759,
+      "speaker": null,
+      "text": "ground truth. I don't know any different, and so they"
+    },
+    {
+      "start_seconds": 2104.76,
+      "end_seconds": 2106.72,
+      "speaker": null,
+      "text": "will go ahead and they will build this new vision"
+    },
+    {
+      "start_seconds": 2106.76,
+      "end_seconds": 2107.52,
+      "speaker": null,
+      "text": "of what a worm is."
+    },
+    {
+      "start_seconds": 2107.8,
+      "end_seconds": 2109.88,
+      "speaker": null,
+      "text": "And it's a memory because it is permanent."
+    },
+    {
+      "start_seconds": 2109.92,
+      "end_seconds": 2111.88,
+      "speaker": null,
+      "text": "If you take two headed animals and keep cutting them,"
+    },
+    {
+      "start_seconds": 2111.92,
+      "end_seconds": 2115.68,
+      "speaker": null,
+      "text": "they will continue regenerating as two headed, even though their genome."
+    },
+    {
+      "start_seconds": 2115.6,
+      "end_seconds": 2116.88,
+      "speaker": null,
+      "text": "Is a perfectly standard genome."
+    },
+    {
+      "start_seconds": 2116.88,
+      "end_seconds": 2118.279,
+      "speaker": null,
+      "text": "If you were to sequence that, you would have been"
+    },
+    {
+      "start_seconds": 2118.28,
+      "end_seconds": 2120.399,
+      "speaker": null,
+      "text": "none the wiser that this thing has two heads. So"
+    },
+    {
+      "start_seconds": 2120.44,
+      "end_seconds": 2123.32,
+      "speaker": null,
+      "text": "this kind of thing, the ability to put new goals"
+    },
+    {
+      "start_seconds": 2123.36,
+      "end_seconds": 2126.319,
+      "speaker": null,
+      "text": "into the mind of the collective is the kind of"
+    },
+    {
+      "start_seconds": 2126.32,
+      "end_seconds": 2129.279,
+      "speaker": null,
+      "text": "an earliest example of communicating with it because we can,"
+    },
+    {
+      "start_seconds": 2129.6,
+      "end_seconds": 2131.88,
+      "speaker": null,
+      "text": "we can in some cases, we can train it. Another"
+    },
+    {
+      "start_seconds": 2131.88,
+      "end_seconds": 2134.48,
+      "speaker": null,
+      "text": "thing we're really working on is to actually ask it questions."
+    },
+    {
+      "start_seconds": 2134.56,
+      "end_seconds": 2136.439,
+      "speaker": null,
+      "text": "That would be really cool because sells have all kinds"
+    },
+    {
+      "start_seconds": 2136.48,
+      "end_seconds": 2137.68,
+      "speaker": null,
+      "text": "of problem solving capacities."
+    },
+    {
+      "start_seconds": 2137.68,
+      "end_seconds": 2139.12,
+      "speaker": null,
+      "text": "I would love to be able to actually ask them"
+    },
+    {
+      "start_seconds": 2139.16,
+      "end_seconds": 2141.08,
+      "speaker": null,
+      "text": "questions in a way. And AI is a."
+    },
+    {
+      "start_seconds": 2141.12,
+      "end_seconds": 2143.0,
+      "speaker": null,
+      "text": "Very powerful tool that we're now using to start to"
+    },
+    {
+      "start_seconds": 2143.0,
+      "end_seconds": 2146.52,
+      "speaker": null,
+      "text": "communicate with these things. So that's kind of the first"
+    },
+    {
+      "start_seconds": 2146.56,
+      "end_seconds": 2149.279,
+      "speaker": null,
+      "text": "weird kind of mind, meaning in our body we have"
+    },
+    {
+      "start_seconds": 2149.88,
+      "end_seconds": 2151.359,
+      "speaker": null,
+      "text": "I can't you know, I don't think you can count them."
+    },
+    {
+      "start_seconds": 2151.36,
+      "end_seconds": 2153.64,
+      "speaker": null,
+      "text": "I think that you know, it's not probably not really infinite,"
+    },
+    {
+      "start_seconds": 2153.68,
+      "end_seconds": 2157.52,
+      "speaker": null,
+      "text": "but but a very large number of different cognitive units"
+    },
+    {
+      "start_seconds": 2157.56,
+      "end_seconds": 2159.759,
+      "speaker": null,
+      "text": "inside your body, solving their own problems in their own"
+    },
+    {
+      "start_seconds": 2159.76,
+      "end_seconds": 2160.64,
+      "speaker": null,
+      "text": "time scales and so on."
+    },
+    {
+      "start_seconds": 2160.8,
+      "end_seconds": 2162.64,
+      "speaker": null,
+      "text": "But you can get weirder than that. Which is which"
+    },
+    {
+      "start_seconds": 2162.68,
+      "end_seconds": 2164.319,
+      "speaker": null,
+      "text": "is this? You know?"
+    },
+    {
+      "start_seconds": 2165.08,
+      "end_seconds": 2167.04,
+      "speaker": null,
+      "text": "I'll start with a very quick story, and this goes"
+    },
+    {
+      "start_seconds": 2167.08,
+      "end_seconds": 2169.319,
+      "speaker": null,
+      "text": "back to us, to US sci fi story from from"
+    },
+    {
+      "start_seconds": 2169.68,
+      "end_seconds": 2172.319,
+      "speaker": null,
+      "text": "that I read years ago. Imagine, these creatures come from"
+    },
+    {
+      "start_seconds": 2172.32,
+      "end_seconds": 2173.719,
+      "speaker": null,
+      "text": "the core of the earth. They live, they live in"
+    },
+    {
+      "start_seconds": 2173.719,
+      "end_seconds": 2175.719,
+      "speaker": null,
+      "text": "the center of the earth. They're super dense. They come"
+    },
+    {
+      "start_seconds": 2175.8,
+      "end_seconds": 2178.2,
+      "speaker": null,
+      "text": "up to the surface. What do they see, Well, they"
+    },
+    {
+      "start_seconds": 2178.2,
+      "end_seconds": 2180.52,
+      "speaker": null,
+      "text": "don't see physical objects as far as they're concerned."
+    },
+    {
+      "start_seconds": 2180.6,
+      "end_seconds": 2182.88,
+      "speaker": null,
+      "text": "Everything here is like a thin gas. It's like a plasma."
+    },
+    {
+      "start_seconds": 2182.88,
+      "end_seconds": 2183.52,
+      "speaker": null,
+      "text": "They are so dense."
+    },
+    {
+      "start_seconds": 2183.52,
+      "end_seconds": 2185.16,
+      "speaker": null,
+      "text": "They walk right through us the way that we walk"
+    },
+    {
+      "start_seconds": 2185.239,
+      "end_seconds": 2187.319,
+      "speaker": null,
+      "text": "through you know, patterns of pollen in the garden, and"
+    },
+    {
+      "start_seconds": 2187.36,
+      "end_seconds": 2189.04,
+      "speaker": null,
+      "text": "we don't even we don't even notice it. And so"
+    },
+    {
+      "start_seconds": 2189.12,
+      "end_seconds": 2190.719,
+      "speaker": null,
+      "text": "one of them is a scientist and he's looking and"
+    },
+    {
+      "start_seconds": 2190.719,
+      "end_seconds": 2192.96,
+      "speaker": null,
+      "text": "he says, you know, this gas that we're that we're"
+    },
+    {
+      "start_seconds": 2192.96,
+      "end_seconds": 2195.4,
+      "speaker": null,
+      "text": "walking through. I kind of if you actually look at"
+    },
+    {
+      "start_seconds": 2195.44,
+      "end_seconds": 2198.04,
+      "speaker": null,
+      "text": "patterns within the gas, it almost looks like they're doing something."
+    },
+    {
+      "start_seconds": 2198.08,
+      "end_seconds": 2200.64,
+      "speaker": null,
+      "text": "It almost looks like they're agential. They like these patterns,"
+    },
+    {
+      "start_seconds": 2200.68,
+      "end_seconds": 2202.8,
+      "speaker": null,
+      "text": "you know, they walk around, they have behaviors, they're doing stuff,"
+    },
+    {
+      "start_seconds": 2203.04,
+      "end_seconds": 2204.92,
+      "speaker": null,
+      "text": "and and the others say, well, that's crazy."
+    },
+    {
+      "start_seconds": 2204.92,
+      "end_seconds": 2207.32,
+      "speaker": null,
+      "text": "We're real physical beings. Patterns can't be agents."
+    },
+    {
+      "start_seconds": 2207.36,
+      "end_seconds": 2209.759,
+      "speaker": null,
+      "text": "Patterns, you know, patterns and an excitable medium can't have,"
+    },
+    {
+      "start_seconds": 2210.12,
+      "end_seconds": 2212.239,
+      "speaker": null,
+      "text": "you know, their own their own memories and their own goals."
+    },
+    {
+      "start_seconds": 2212.28,
+      "end_seconds": 2214.16,
+      "speaker": null,
+      "text": "And by the way, how long these patterns last? He says, well,"
+    },
+    {
+      "start_seconds": 2214.2,
+      "end_seconds": 2216.2,
+      "speaker": null,
+      "text": "they dissipate after about one hundred years. He's like, yeah, no,"
+    },
+    {
+      "start_seconds": 2216.2,
+      "end_seconds": 2218.92,
+      "speaker": null,
+      "text": "it's not anything, right, So okay, So so what that"
+    },
+    {
+      "start_seconds": 2218.96,
+      "end_seconds": 2222.0,
+      "speaker": null,
+      "text": "reminds us of is that the distinction between you know,"
+    },
+    {
+      "start_seconds": 2222.2,
+      "end_seconds": 2224.68,
+      "speaker": null,
+      "text": "we too our patterns, right, we're metabolic patterns that hold"
+    },
+    {
+      "start_seconds": 2224.68,
+      "end_seconds": 2226.96,
+      "speaker": null,
+      "text": "ourselves together for some amount of time and then we dissipate."
+    },
+    {
+      "start_seconds": 2227.4,
+      "end_seconds": 2231.08,
+      "speaker": null,
+      "text": "And this distinction between patterns and objects is in the"
+    },
+    {
+      "start_seconds": 2231.12,
+      "end_seconds": 2233.479,
+      "speaker": null,
+      "text": "eye of the beholder. And so that leads you to ask,"
+    },
+    {
+      "start_seconds": 2233.6,
+      "end_seconds": 2236.08,
+      "speaker": null,
+      "text": "what are the things that we think of as mere"
+    },
+    {
+      "start_seconds": 2236.2,
+      "end_seconds": 2239.12,
+      "speaker": null,
+      "text": "patterns and an excitable medium that might be agents themselves."
+    },
+    {
+      "start_seconds": 2239.32,
+      "end_seconds": 2241.239,
+      "speaker": null,
+      "text": "And so that's the second that's the next kind of"
+    },
+    {
+      "start_seconds": 2241.32,
+      "end_seconds": 2242.8,
+      "speaker": null,
+      "text": "level is can we communicate?"
+    },
+    {
+      "start_seconds": 2242.84,
+      "end_seconds": 2246.84,
+      "speaker": null,
+      "text": "Can we can we recognize and communicate with patterns, patterns"
+    },
+    {
+      "start_seconds": 2246.84,
+      "end_seconds": 2249.719,
+      "speaker": null,
+      "text": "of gene expression, patterns of bioelectric state. You know, this"
+    },
+    {
+      "start_seconds": 2250.0,
+      "end_seconds": 2252.56,
+      "speaker": null,
+      "text": "whole thoughts are thinker's idea from William James."
+    },
+    {
+      "start_seconds": 2270.12,
+      "end_seconds": 2272.839,
+      "speaker": null,
+      "text": "So you look around, you see these patterns everywhere, and"
+    },
+    {
+      "start_seconds": 2272.88,
+      "end_seconds": 2276.16,
+      "speaker": null,
+      "text": "you think, which of these are agential, which have what"
+    },
+    {
+      "start_seconds": 2276.2,
+      "end_seconds": 2280.64,
+      "speaker": null,
+      "text": "we might call intelligence unpack the thoughts or things idea"
+    },
+    {
+      "start_seconds": 2280.68,
+      "end_seconds": 2281.08,
+      "speaker": null,
+      "text": "for us?"
+    },
+    {
+      "start_seconds": 2281.4,
+      "end_seconds": 2283.92,
+      "speaker": null,
+      "text": "Yeah, yeah, so so this is uh and and I"
+    },
+    {
+      "start_seconds": 2283.96,
+      "end_seconds": 2286.96,
+      "speaker": null,
+      "text": "admit I haven't I haven't looked for the actual reference,"
+    },
+    {
+      "start_seconds": 2286.96,
+      "end_seconds": 2288.6,
+      "speaker": null,
+      "text": "but but I'm pretty sure I saw this in in"
+    },
+    {
+      "start_seconds": 2288.92,
+      "end_seconds": 2292.399,
+      "speaker": null,
+      "text": "James's book, where what he's pointing out is that, look,"
+    },
+    {
+      "start_seconds": 2292.44,
+      "end_seconds": 2295.0,
+      "speaker": null,
+      "text": "you have fleeting thoughts. They come and they go, right,"
+    },
+    {
+      "start_seconds": 2295.04,
+      "end_seconds": 2297.44,
+      "speaker": null,
+      "text": "they sort of run through your your your memory medium,"
+    },
+    {
+      "start_seconds": 2297.44,
+      "end_seconds": 2299.0,
+      "speaker": null,
+      "text": "and then they and then they go. Then you have"
+    },
+    {
+      "start_seconds": 2299.12,
+      "end_seconds": 2301.52,
+      "speaker": null,
+      "text": "persistent thoughts, and these are a little harder to get"
+    },
+    {
+      "start_seconds": 2301.56,
+      "end_seconds": 2303.44,
+      "speaker": null,
+      "text": "rid of. They do a little niche construction, as you know,"
+    },
+    {
+      "start_seconds": 2303.48,
+      "end_seconds": 2305.279,
+      "speaker": null,
+      "text": "they they kind of change some of your brain to"
+    },
+    {
+      "start_seconds": 2305.4,
+      "end_seconds": 2307.2,
+      "speaker": null,
+      "text": "enable it to be to make it easier for them"
+    },
+    {
+      "start_seconds": 2307.239,
+      "end_seconds": 2310.12,
+      "speaker": null,
+      "text": "to to persist. Right, these these intrusive, persistent, you know"
+    },
+    {
+      "start_seconds": 2310.239,
+      "end_seconds": 2312.959,
+      "speaker": null,
+      "text": "kinds of thoughts. And then you have you go further"
+    },
+    {
+      "start_seconds": 2313.0,
+      "end_seconds": 2315.68,
+      "speaker": null,
+      "text": "on the spectrum and you have personality fragments like from"
+    },
+    {
+      "start_seconds": 2315.719,
+      "end_seconds": 2318.8,
+      "speaker": null,
+      "text": "a you know, like from a dissociated identity kind of situation."
+    },
+    {
+      "start_seconds": 2319.2,
+      "end_seconds": 2320.759,
+      "speaker": null,
+      "text": "And then you keep going and then you have a"
+    },
+    {
+      "start_seconds": 2320.76,
+      "end_seconds": 2323.0,
+      "speaker": null,
+      "text": "full coherent human personality and you say Okay, well that's"
+    },
+    {
+      "start_seconds": 2323.04,
+      "end_seconds": 2325.56,
+      "speaker": null,
+      "text": "the thing we're we're kind of used to. But but"
+    },
+    {
+      "start_seconds": 2325.719,
+      "end_seconds": 2327.64,
+      "speaker": null,
+      "text": "it's on a spectrum. And then and then who knows, right,"
+    },
+    {
+      "start_seconds": 2327.68,
+      "end_seconds": 2330.04,
+      "speaker": null,
+      "text": "some people claim there's like a superhuman you know, sort"
+    },
+    {
+      "start_seconds": 2330.04,
+      "end_seconds": 2332.96,
+      "speaker": null,
+      "text": "of a larger, larger superman mind and so on."
+    },
+    {
+      "start_seconds": 2333.0,
+      "end_seconds": 2335.6,
+      "speaker": null,
+      "text": "I don't know. So that's the idea. And so there"
+    },
+    {
+      "start_seconds": 2335.64,
+      "end_seconds": 2337.76,
+      "speaker": null,
+      "text": "are two there are two ways to to think."
+    },
+    {
+      "start_seconds": 2337.64,
+      "end_seconds": 2339.839,
+      "speaker": null,
+      "text": "About any of these situations that were sort of given"
+    },
+    {
+      "start_seconds": 2339.84,
+      "end_seconds": 2342.36,
+      "speaker": null,
+      "text": "to us by by the by the touring paradigm. You"
+    },
+    {
+      "start_seconds": 2342.4,
+      "end_seconds": 2347.6,
+      "speaker": null,
+      "text": "can say that the cells those that's that's your touring machine."
+    },
+    {
+      "start_seconds": 2347.6,
+      "end_seconds": 2350.239,
+      "speaker": null,
+      "text": "That's your that's your machine. That's the real agent. And"
+    },
+    {
+      "start_seconds": 2350.36,
+      "end_seconds": 2353.36,
+      "speaker": null,
+      "text": "the patterns that move through it, the information, the energy"
+    },
+    {
+      "start_seconds": 2353.36,
+      "end_seconds": 2354.719,
+      "speaker": null,
+      "text": "slash information patterns that."
+    },
+    {
+      "start_seconds": 2354.64,
+      "end_seconds": 2356.56,
+      "speaker": null,
+      "text": "Move through it. They're they're just they're just patterns."
+    },
+    {
+      "start_seconds": 2356.6,
+      "end_seconds": 2358.879,
+      "speaker": null,
+      "text": "They're passive data and and and it's the agent that"
+    },
+    {
+      "start_seconds": 2359.08,
+      "end_seconds": 2361.8,
+      "speaker": null,
+      "text": "processes the data. Right we you know, our brain moves"
+    },
+    {
+      "start_seconds": 2361.8,
+      "end_seconds": 2364.8,
+      "speaker": null,
+      "text": "around the information that moves the energy, and our body"
+    },
+    {
+      "start_seconds": 2364.8,
+      "end_seconds": 2365.319,
+      "speaker": null,
+      "text": "does the same thing."
+    },
+    {
+      "start_seconds": 2365.36,
+      "end_seconds": 2365.64,
+      "speaker": null,
+      "text": "Okay."
+    },
+    {
+      "start_seconds": 2366.12,
+      "end_seconds": 2367.92,
+      "speaker": null,
+      "text": "Or you can flip the whole thing, which is what"
+    },
+    {
+      "start_seconds": 2367.96,
+      "end_seconds": 2370.04,
+      "speaker": null,
+      "text": "we're working on now, which is to say, what if"
+    },
+    {
+      "start_seconds": 2370.56,
+      "end_seconds": 2372.88,
+      "speaker": null,
+      "text": "it's the patterns that are the agents and everything that"
+    },
+    {
+      "start_seconds": 2372.92,
+      "end_seconds": 2376.08,
+      "speaker": null,
+      "text": "happens to the machine, meaning all the outcomes of gene expression,"
+    },
+    {
+      "start_seconds": 2376.08,
+      "end_seconds": 2379.16,
+      "speaker": null,
+      "text": "of protein movement, of cell behavior of morphogenesis. What if"
+    },
+    {
+      "start_seconds": 2379.16,
+      "end_seconds": 2381.759,
+      "speaker": null,
+      "text": "that's those things are just a scratch pad. It's the"
+    },
+    {
+      "start_seconds": 2381.88,
+      "end_seconds": 2383.52,
+      "speaker": null,
+      "text": "it's kind of a stigma gee the way that any"
+    },
+    {
+      "start_seconds": 2383.52,
+      "end_seconds": 2386.279,
+      "speaker": null,
+      "text": "ant colony will eventually you know, particles and pheromones and"
+    },
+    {
+      "start_seconds": 2386.32,
+      "end_seconds": 2388.56,
+      "speaker": null,
+      "text": "things will move around because the ant colony mind is"
+    },
+    {
+      "start_seconds": 2388.64,
+      "end_seconds": 2390.12,
+      "speaker": null,
+      "text": "kind of doing its thing as the ants, you know,"
+    },
+    {
+      "start_seconds": 2390.16,
+      "end_seconds": 2391.239,
+      "speaker": null,
+      "text": "send messages to each other."
+    },
+    {
+      "start_seconds": 2391.48,
+      "end_seconds": 2392.08,
+      "speaker": null,
+      "text": "What if the the."
+    },
+    {
+      "start_seconds": 2392.36,
+      "end_seconds": 2396.0,
+      "speaker": null,
+      "text": "The anatomy and physiology that we see and and and"
+    },
+    {
+      "start_seconds": 2396.08,
+      "end_seconds": 2397.88,
+      "speaker": null,
+      "text": "the and the body of the touring machine is the"
+    },
+    {
+      "start_seconds": 2397.88,
+      "end_seconds": 2401.08,
+      "speaker": null,
+      "text": "scratch pad of of the actual age, which are the patterns,"
+    },
+    {
+      "start_seconds": 2401.44,
+      "end_seconds": 2404.399,
+      "speaker": null,
+      "text": "you know, working out their dynamics in the physical world."
+    },
+    {
+      "start_seconds": 2405.0,
+      "end_seconds": 2409.36,
+      "speaker": null,
+      "text": "And it actually has some real implications just very quickly,"
+    },
+    {
+      "start_seconds": 2409.36,
+      "end_seconds": 2411.48,
+      "speaker": null,
+      "text": "for example, in our program on aging, right, so we're"
+    },
+    {
+      "start_seconds": 2411.48,
+      "end_seconds": 2415.28,
+      "speaker": null,
+      "text": "trying to understand an address agent. So imagine the classic"
+    },
+    {
+      "start_seconds": 2415.36,
+      "end_seconds": 2417.799,
+      "speaker": null,
+      "text": "way of thinking about aging from a bioelectric standpoint is"
+    },
+    {
+      "start_seconds": 2418.16,
+      "end_seconds": 2420.92,
+      "speaker": null,
+      "text": "we know that during embryogenesis there's a bielectric pattern that"
+    },
+    {
+      "start_seconds": 2420.92,
+      "end_seconds": 2425.279,
+      "speaker": null,
+      "text": "guides morphogenesis. And so probably what happens is that those"
+    },
+    {
+      "start_seconds": 2425.32,
+      "end_seconds": 2428.16,
+      "speaker": null,
+      "text": "memories become fuzzy in adulthood, and as the age, they"
+    },
+    {
+      "start_seconds": 2428.2,
+      "end_seconds": 2429.32,
+      "speaker": null,
+      "text": "just get fuzzy and fuzzier."
+    },
+    {
+      "start_seconds": 2429.32,
+      "end_seconds": 2430.719,
+      "speaker": null,
+      "text": "Their cells have no idea what to do."
+    },
+    {
+      "start_seconds": 2430.96,
+      "end_seconds": 2434.319,
+      "speaker": null,
+      "text": "The memory degrades, and the agent, the physical body doesn't"
+    },
+    {
+      "start_seconds": 2434.32,
+      "end_seconds": 2435.08,
+      "speaker": null,
+      "text": "know what to do anymore."
+    },
+    {
+      "start_seconds": 2435.12,
+      "end_seconds": 2437.12,
+      "speaker": null,
+      "text": "That's the standard approach, and that's what you know. That's"
+    },
+    {
+      "start_seconds": 2437.16,
+      "end_seconds": 2438.0,
+      "speaker": null,
+      "text": "one thing we're doing."
+    },
+    {
+      "start_seconds": 2438.239,
+      "end_seconds": 2440.0,
+      "speaker": null,
+      "text": "But you can flip it and you can say, what"
+    },
+    {
+      "start_seconds": 2440.04,
+      "end_seconds": 2442.68,
+      "speaker": null,
+      "text": "if the agent is actually the pattern that it's trying"
+    },
+    {
+      "start_seconds": 2442.719,
+      "end_seconds": 2445.839,
+      "speaker": null,
+      "text": "to the vocabulary kind of fails us year, but it's"
+    },
+    {
+      "start_seconds": 2445.84,
+      "end_seconds": 2449.24,
+      "speaker": null,
+      "text": "trying to ingress into the physical world through our medium."
+    },
+    {
+      "start_seconds": 2449.52,
+      "end_seconds": 2452.12,
+      "speaker": null,
+      "text": "And maybe what happens as we age is that the"
+    },
+    {
+      "start_seconds": 2452.16,
+      "end_seconds": 2454.68,
+      "speaker": null,
+      "text": "cells become less and less able to implement it, They"
+    },
+    {
+      "start_seconds": 2454.68,
+      "end_seconds": 2459.2,
+      "speaker": null,
+      "text": "become unresponsive, the machine slows down. Maybe the mind of"
+    },
+    {
+      "start_seconds": 2459.239,
+      "end_seconds": 2462.319,
+      "speaker": null,
+      "text": "the agent, of the morphogenetic intelligence is perfectly fine, but"
+    },
+    {
+      "start_seconds": 2462.4,
+      "end_seconds": 2466.0,
+      "speaker": null,
+      "text": "the machine doesn't respond. And so those are experimentally distinguishable,"
+    },
+    {
+      "start_seconds": 2466.04,
+      "end_seconds": 2468.16,
+      "speaker": null,
+      "text": "and we're doing those experiments. We actually have some data"
+    },
+    {
+      "start_seconds": 2468.16,
+      "end_seconds": 2469.92,
+      "speaker": null,
+      "text": "for this now and so those are those are just"
+    },
+    {
+      "start_seconds": 2470.04,
+      "end_seconds": 2472.6,
+      "speaker": null,
+      "text": "very different. And the way you then would address aging"
+    },
+    {
+      "start_seconds": 2472.64,
+      "end_seconds": 2475.92,
+      "speaker": null,
+      "text": "from two different from those two different viewpoints is quite different."
+    },
+    {
+      "start_seconds": 2476.04,
+      "end_seconds": 2477.4,
+      "speaker": null,
+      "text": "So that's what we would love to do, is to"
+    },
+    {
+      "start_seconds": 2477.64,
+      "end_seconds": 2481.92,
+      "speaker": null,
+      "text": "is to learn to recognize and communicate with other kinds"
+    },
+    {
+      "start_seconds": 2481.96,
+      "end_seconds": 2484.16,
+      "speaker": null,
+      "text": "of agents that are not even physical objects as such."
+    },
+    {
+      "start_seconds": 2484.16,
+      "end_seconds": 2485.0,
+      "speaker": null,
+      "text": "They are they are."
+    },
+    {
+      "start_seconds": 2485.08,
+      "end_seconds": 2489.4,
+      "speaker": null,
+      "text": "Persistent patterns that may have all kinds of energe, you know,"
+    },
+    {
+      "start_seconds": 2489.44,
+      "end_seconds": 2490.28,
+      "speaker": null,
+      "text": "their own agendas."
+    },
+    {
+      "start_seconds": 2491.92,
+      "end_seconds": 2494.48,
+      "speaker": null,
+      "text": "So let me ask you a couple of rapid fire questions."
+    },
+    {
+      "start_seconds": 2494.56,
+      "end_seconds": 2498.799,
+      "speaker": null,
+      "text": "If they're diverse intelligences everywhere. If we can start understanding"
+    },
+    {
+      "start_seconds": 2498.8,
+      "end_seconds": 2502.4,
+      "speaker": null,
+      "text": "these patterns around us as being cognitions of their own,"
+    },
+    {
+      "start_seconds": 2502.76,
+      "end_seconds": 2504.24,
+      "speaker": null,
+      "text": "what does this mean for ethics?"
+    },
+    {
+      "start_seconds": 2504.56,
+      "end_seconds": 2507.36,
+      "speaker": null,
+      "text": "Yeah, this is a huge problem. This is an absolutely"
+    },
+    {
+      "start_seconds": 2507.48,
+      "end_seconds": 2510.56,
+      "speaker": null,
+      "text": "huge problem. I think that it is foundational to the"
+    },
+    {
+      "start_seconds": 2510.6,
+      "end_seconds": 2514.48,
+      "speaker": null,
+      "text": "development of ethics as a mature species to learn to"
+    },
+    {
+      "start_seconds": 2514.6,
+      "end_seconds": 2518.44,
+      "speaker": null,
+      "text": "recognize and ethically relate to minds that are nothing like ours,"
+    },
+    {
+      "start_seconds": 2518.68,
+      "end_seconds": 2521.759,
+      "speaker": null,
+      "text": "that are basically not on the you know, at least"
+    },
+    {
+      "start_seconds": 2521.8,
+      "end_seconds": 2523.84,
+      "speaker": null,
+      "text": "in some cases, because you can actually believe or now"
+    },
+    {
+      "start_seconds": 2523.84,
+      "end_seconds": 2526.359,
+      "speaker": null,
+      "text": "you could get much even weirder than this pattern thing"
+    },
+    {
+      "start_seconds": 2526.4,
+      "end_seconds": 2529.4,
+      "speaker": null,
+      "text": "that I'm talking about, And so it's certainly above my"
+    },
+    {
+      "start_seconds": 2529.56,
+      "end_seconds": 2532.08,
+      "speaker": null,
+      "text": "remit to try and formulate the ethics. But what is"
+    },
+    {
+      "start_seconds": 2532.28,
+      "end_seconds": 2535.4,
+      "speaker": null,
+      "text": "very clear is that we need to learn to recognize them,"
+    },
+    {
+      "start_seconds": 2535.44,
+      "end_seconds": 2537.36,
+      "speaker": null,
+      "text": "we need to learn to communicate with them, and we"
+    },
+    {
+      "start_seconds": 2537.4,
+      "end_seconds": 2539.56,
+      "speaker": null,
+      "text": "need to start thinking about what do we owe other"
+    },
+    {
+      "start_seconds": 2539.64,
+      "end_seconds": 2542.48,
+      "speaker": null,
+      "text": "beings that live with us, that live in spaces and"
+    },
+    {
+      "start_seconds": 2542.52,
+      "end_seconds": 2544.96,
+      "speaker": null,
+      "text": "have goals that are really hard for us to visualize."
+    },
+    {
+      "start_seconds": 2545.2,
+      "end_seconds": 2545.68,
+      "speaker": null,
+      "text": "What are the."
+    },
+    {
+      "start_seconds": 2545.64,
+      "end_seconds": 2549.08,
+      "speaker": null,
+      "text": "Implications for AI at this moment that we're in."
+    },
+    {
+      "start_seconds": 2549.239,
+      "end_seconds": 2552.6,
+      "speaker": null,
+      "text": "People tend to have a very kind of a binary"
+    },
+    {
+      "start_seconds": 2552.76,
+      "end_seconds": 2555.44,
+      "speaker": null,
+      "text": "view on this. They will either say, oh, yeah, it"
+    },
+    {
+      "start_seconds": 2555.48,
+      "end_seconds": 2557.439,
+      "speaker": null,
+      "text": "talks like us and therefore it's like a human brain,"
+    },
+    {
+      "start_seconds": 2557.8,
+      "end_seconds": 2559.52,
+      "speaker": null,
+      "text": "or they'll say, oh no, this thing is a machine,"
+    },
+    {
+      "start_seconds": 2559.56,
+      "end_seconds": 2560.88,
+      "speaker": null,
+      "text": "and therefore it's nothing like us."
+    },
+    {
+      "start_seconds": 2560.96,
+      "end_seconds": 2563.2,
+      "speaker": null,
+      "text": "So I think both of those are terrible."
+    },
+    {
+      "start_seconds": 2563.56,
+      "end_seconds": 2566.239,
+      "speaker": null,
+      "text": "And first of all, because in order to be intelligent"
+    },
+    {
+      "start_seconds": 2566.48,
+      "end_seconds": 2569.879,
+      "speaker": null,
+      "text": "and have meaningful cognition and maybe moral worth, you don't"
+    },
+    {
+      "start_seconds": 2569.92,
+      "end_seconds": 2571.56,
+      "speaker": null,
+      "text": "need to be like a human mind."
+    },
+    {
+      "start_seconds": 2571.88,
+      "end_seconds": 2574.0,
+      "speaker": null,
+      "text": "There are many minds that are nothing like a human mind."
+    },
+    {
+      "start_seconds": 2574.0,
+      "end_seconds": 2575.12,
+      "speaker": null,
+      "text": "You don't have to be like humans."
+    },
+    {
+      "start_seconds": 2575.12,
+      "end_seconds": 2576.759,
+      "speaker": null,
+      "text": "And I don't believe at this point, as far as"
+    },
+    {
+      "start_seconds": 2576.84,
+      "end_seconds": 2578.44,
+      "speaker": null,
+      "text": "I know, we don't have any ais that are like"
+    },
+    {
+      "start_seconds": 2578.48,
+      "end_seconds": 2580.64,
+      "speaker": null,
+      "text": "a human mind, but that doesn't mean they're not minds."
+    },
+    {
+      "start_seconds": 2581.04,
+      "end_seconds": 2583.04,
+      "speaker": null,
+      "text": "And the other problem is that there is no such"
+    },
+    {
+      "start_seconds": 2583.12,
+      "end_seconds": 2586.68,
+      "speaker": null,
+      "text": "thing as a machie. And if you believe that algorithms"
+    },
+    {
+      "start_seconds": 2586.8,
+      "end_seconds": 2590.96,
+      "speaker": null,
+      "text": "and the facts of physics around the silicon and copper,"
+    },
+    {
+      "start_seconds": 2591.0,
+      "end_seconds": 2593.04,
+      "speaker": null,
+      "text": "and the kinds of things we make computers out of,"
+    },
+    {
+      "start_seconds": 2593.32,
+      "end_seconds": 2595.68,
+      "speaker": null,
+      "text": "if you think that those things tell the entire story"
+    },
+    {
+      "start_seconds": 2595.719,
+      "end_seconds": 2599.04,
+      "speaker": null,
+      "text": "of artificial intelligence, then you should think that the story"
+    },
+    {
+      "start_seconds": 2599.04,
+      "end_seconds": 2602.2,
+      "speaker": null,
+      "text": "of biochemistry is everything you need to know about the"
+    },
+    {
+      "start_seconds": 2602.239,
+      "end_seconds": 2604.52,
+      "speaker": null,
+      "text": "human mind. And that's you know, I think that's blatantly false."
+    },
+    {
+      "start_seconds": 2604.76,
+      "end_seconds": 2607.2,
+      "speaker": null,
+      "text": "And so for both in both cases, I think we"
+    },
+    {
+      "start_seconds": 2607.28,
+      "end_seconds": 2609.88,
+      "speaker": null,
+      "text": "have to be extremely open to the idea that we"
+    },
+    {
+      "start_seconds": 2609.96,
+      "end_seconds": 2613.48,
+      "speaker": null,
+      "text": "do not understand how different kinds of minds ingress into"
+    },
+    {
+      "start_seconds": 2613.52,
+      "end_seconds": 2616.279,
+      "speaker": null,
+      "text": "the world through different interfaces. And I realized this is"
+    },
+    {
+      "start_seconds": 2616.44,
+      "end_seconds": 2618.64,
+      "speaker": null,
+      "text": "a weird way of putting it. This is not the standard,"
+    },
+    {
+      "start_seconds": 2618.68,
+      "end_seconds": 2621.759,
+      "speaker": null,
+      "text": "the kind of neuroscience way where intelligence is created by"
+    },
+    {
+      "start_seconds": 2621.84,
+      "end_seconds": 2622.36,
+      "speaker": null,
+      "text": "the hardware."
+    },
+    {
+      "start_seconds": 2622.4,
+      "end_seconds": 2623.959,
+      "speaker": null,
+      "text": "I don't actually believe that's true."
+    },
+    {
+      "start_seconds": 2624.0,
+      "end_seconds": 2627.239,
+      "speaker": null,
+      "text": "I think I think consciousness is separate and what we"
+    },
+    {
+      "start_seconds": 2627.28,
+      "end_seconds": 2631.96,
+      "speaker": null,
+      "text": "see what we provide when we make you know, ais, robots, embryos,"
+    },
+    {
+      "start_seconds": 2632.239,
+      "end_seconds": 2634.8,
+      "speaker": null,
+      "text": "the biobots, all of this stuff. We make interfaces different"
+    },
+    {
+      "start_seconds": 2634.8,
+      "end_seconds": 2638.799,
+      "speaker": null,
+      "text": "interfaces for it, and we are currently very bad at"
+    },
+    {
+      "start_seconds": 2638.96,
+      "end_seconds": 2642.64,
+      "speaker": null,
+      "text": "guessing ahead of time what is going to appear when"
+    },
+    {
+      "start_seconds": 2642.68,
+      "end_seconds": 2645.48,
+      "speaker": null,
+      "text": "we make certain kinds of interfaces. And you know, I"
+    },
+    {
+      "start_seconds": 2645.6,
+      "end_seconds": 2649.04,
+      "speaker": null,
+      "text": "think I think one of the most relevant pieces of"
+    },
+    {
+      "start_seconds": 2649.08,
+      "end_seconds": 2652.2,
+      "speaker": null,
+      "text": "our work for this is the stuff that we detaining."
+    },
+    {
+      "start_seconds": 2652.28,
+      "end_seconds": 2654.88,
+      "speaker": null,
+      "text": "Zhang and Adam Goldstein and I wrote this paper on"
+    },
+    {
+      "start_seconds": 2655.52,
+      "end_seconds": 2660.04,
+      "speaker": null,
+      "text": "unexpected competencies in sorting algorithms like bubblesort. These are things"
+    },
+    {
+      "start_seconds": 2660.08,
+      "end_seconds": 2662.16,
+      "speaker": null,
+      "text": "that that computer science students have been studying, you know,"
+    },
+    {
+      "start_seconds": 2662.2,
+      "end_seconds": 2664.399,
+      "speaker": null,
+      "text": "in first year CS for I don't know, sixty years,"
+    },
+    {
+      "start_seconds": 2664.44,
+      "end_seconds": 2667.44,
+      "speaker": null,
+      "text": "I guess, and nobody had actually looked at it the"
+    },
+    {
+      "start_seconds": 2667.44,
+      "end_seconds": 2669.0,
+      "speaker": null,
+      "text": "way that we had looked at it, and we found"
+    },
+    {
+      "start_seconds": 2669.08,
+      "end_seconds": 2672.16,
+      "speaker": null,
+      "text": "this thing has delayed gratification and has these weird little"
+    },
+    {
+      "start_seconds": 2672.2,
+      "end_seconds": 2674.16,
+      "speaker": null,
+      "text": "side quests that it goes on that are not in"
+    },
+    {
+      "start_seconds": 2674.2,
+      "end_seconds": 2676.239,
+      "speaker": null,
+      "text": "the algorithm at all. In other words, if you just"
+    },
+    {
+      "start_seconds": 2676.28,
+      "end_seconds": 2678.12,
+      "speaker": null,
+      "text": "stare at the algorithm. You know, it's six lines of code."
+    },
+    {
+      "start_seconds": 2678.16,
+      "end_seconds": 2680.48,
+      "speaker": null,
+      "text": "It's a deterministic algorithm. There's no magic that, there's no"
+    },
+    {
+      "start_seconds": 2680.52,
+      "end_seconds": 2682.68,
+      "speaker": null,
+      "text": "new biology to be found. You know exactly what it's doing,"
+    },
+    {
+      "start_seconds": 2682.92,
+      "end_seconds": 2685.44,
+      "speaker": null,
+      "text": "and yet it does things that we do not expect"
+    },
+    {
+      "start_seconds": 2685.44,
+      "end_seconds": 2687.319,
+      "speaker": null,
+      "text": "it to do in the algorithm, not just randomness, not"
+    },
+    {
+      "start_seconds": 2687.36,
+      "end_seconds": 2690.68,
+      "speaker": null,
+      "text": "just complexity, not just unpredictability, but things you would recognize"
+    },
+    {
+      "start_seconds": 2690.68,
+      "end_seconds": 2692.12,
+      "speaker": null,
+      "text": "as cognitive competencies."
+    },
+    {
+      "start_seconds": 2692.56,
+      "end_seconds": 2695.08,
+      "speaker": null,
+      "text": "And that means that if we don't, if we can't,"
+    },
+    {
+      "start_seconds": 2695.12,
+      "end_seconds": 2695.399,
+      "speaker": null,
+      "text": "you know."
+    },
+    {
+      "start_seconds": 2695.4,
+      "end_seconds": 2699.04,
+      "speaker": null,
+      "text": "Sometimes people say me, well, I build I build language models."
+    },
+    {
+      "start_seconds": 2699.04,
+      "end_seconds": 2700.799,
+      "speaker": null,
+      "text": "It's just linear alogib I know what they're doing. There's"
+    },
+    {
+      "start_seconds": 2700.84,
+      "end_seconds": 2702.88,
+      "speaker": null,
+      "text": "nothing as if look, we don't even know what bubble"
+    },
+    {
+      "start_seconds": 2702.88,
+      "end_seconds": 2704.52,
+      "speaker": null,
+      "text": "story is doing. If you can't, if you don't know"
+    },
+    {
+      "start_seconds": 2704.52,
+      "end_seconds": 2706.16,
+      "speaker": null,
+      "text": "what bubble story is doing, you sure as hell don't"
+    },
+    {
+      "start_seconds": 2706.2,
+      "end_seconds": 2708.279,
+      "speaker": null,
+      "text": "know what these language models are doing. And so we"
+    },
+    {
+      "start_seconds": 2708.32,
+      "end_seconds": 2711.28,
+      "speaker": null,
+      "text": "need to treat all of these things as empirical questions,"
+    },
+    {
+      "start_seconds": 2711.32,
+      "end_seconds": 2714.319,
+      "speaker": null,
+      "text": "not philosophical decisions that we can make, and we have"
+    },
+    {
+      "start_seconds": 2714.4,
+      "end_seconds": 2717.52,
+      "speaker": null,
+      "text": "to get much better at understanding how new minds ingress"
+    },
+    {
+      "start_seconds": 2717.6,
+      "end_seconds": 2721.759,
+      "speaker": null,
+      "text": "even in tiny interfaces like low complexity, very simple kinds"
+    },
+    {
+      "start_seconds": 2721.8,
+      "end_seconds": 2722.48,
+      "speaker": null,
+      "text": "of interfaces."
+    },
+    {
+      "start_seconds": 2726.88,
+      "end_seconds": 2729.92,
+      "speaker": null,
+      "text": "That was my interview with Mike Levin, biologist at Tufts."
+    },
+    {
+      "start_seconds": 2730.16,
+      "end_seconds": 2732.879,
+      "speaker": null,
+      "text": "Every time I talk with Mike, it's hard to look"
+    },
+    {
+      "start_seconds": 2732.88,
+      "end_seconds": 2735.48,
+      "speaker": null,
+      "text": "at the world the same way. So we started by"
+    },
+    {
+      "start_seconds": 2735.52,
+      "end_seconds": 2740.32,
+      "speaker": null,
+      "text": "asking what is intelligence? But instead of finding a crisp,"
+    },
+    {
+      "start_seconds": 2740.68,
+      "end_seconds": 2744.68,
+      "speaker": null,
+      "text": "singular answer, we were handed something far more powerful, which"
+    },
+    {
+      "start_seconds": 2744.719,
+      "end_seconds": 2748.799,
+      "speaker": null,
+      "text": "is a new lens, a new way of thinking about intelligence,"
+    },
+    {
+      "start_seconds": 2748.88,
+      "end_seconds": 2752.88,
+      "speaker": null,
+      "text": "not as a static property that some lucky creatures have"
+    },
+    {
+      "start_seconds": 2752.96,
+      "end_seconds": 2756.799,
+      "speaker": null,
+      "text": "and others lack, but as a multi dimensional space of"
+    },
+    {
+      "start_seconds": 2757.08,
+      "end_seconds": 2762.44,
+      "speaker": null,
+      "text": "gold directed behavior, shaped by evolution and context and purpose."
+    },
+    {
+      "start_seconds": 2762.64,
+      "end_seconds": 2766.0,
+      "speaker": null,
+      "text": "And this is of course a reframing of life itself"
+    },
+    {
+      "start_seconds": 2766.08,
+      "end_seconds": 2771.719,
+      "speaker": null,
+      "text": "because through this lens, intelligence isn't only confined to a cranium."
+    },
+    {
+      "start_seconds": 2771.88,
+      "end_seconds": 2775.44,
+      "speaker": null,
+      "text": "It's not restricted just to animals with brains. Instead, it's"
+    },
+    {
+      "start_seconds": 2775.44,
+      "end_seconds": 2779.48,
+      "speaker": null,
+      "text": "something that shows up wherever you have systems that are"
+    },
+    {
+      "start_seconds": 2779.52,
+      "end_seconds": 2783.48,
+      "speaker": null,
+      "text": "solving problems and adapting to things they didn't expect and"
+    },
+    {
+      "start_seconds": 2783.96,
+      "end_seconds": 2788.0,
+      "speaker": null,
+      "text": "correcting errors. Wherever there are goals, there may be something"
+    },
+    {
+      "start_seconds": 2788.04,
+      "end_seconds": 2791.6,
+      "speaker": null,
+      "text": "in play that is like a mind. And when we"
+    },
+    {
+      "start_seconds": 2791.64,
+      "end_seconds": 2795.56,
+      "speaker": null,
+      "text": "look through this lens, the universe becomes alive in strange"
+    },
+    {
+      "start_seconds": 2795.56,
+      "end_seconds": 2800.48,
+      "speaker": null,
+      "text": "and beautiful ways. Cells are more than dumb building blocks."
+    },
+    {
+      "start_seconds": 2800.52,
+      "end_seconds": 2804.759,
+      "speaker": null,
+      "text": "We can see them as decision makers. Organs are more"
+    },
+    {
+      "start_seconds": 2804.8,
+      "end_seconds": 2807.6,
+      "speaker": null,
+      "text": "than machine units that are chugging along. We can see"
+    },
+    {
+      "start_seconds": 2807.64,
+      "end_seconds": 2812.239,
+      "speaker": null,
+      "text": "them as negotiating parties in their own societies. A regenerating"
+    },
+    {
+      "start_seconds": 2812.28,
+      "end_seconds": 2816.12,
+      "speaker": null,
+      "text": "flatworm is more than a textbook collection of cells. It's"
+    },
+    {
+      "start_seconds": 2816.16,
+      "end_seconds": 2819.88,
+      "speaker": null,
+      "text": "an entity that knows what it's missing and takes action"
+    },
+    {
+      "start_seconds": 2820.08,
+      "end_seconds": 2822.839,
+      "speaker": null,
+      "text": "to restore itself. In a sense, it remembers what it"
+    },
+    {
+      "start_seconds": 2823.0,
+      "end_seconds": 2825.96,
+      "speaker": null,
+      "text": "used to be, and it holds that shape in its"
+    },
+    {
+      "start_seconds": 2826.0,
+      "end_seconds": 2829.48,
+      "speaker": null,
+      "text": "future and moves towards it. So, Mike Levin's work suggests"
+    },
+    {
+      "start_seconds": 2829.52,
+      "end_seconds": 2834.24,
+      "speaker": null,
+      "text": "that the basic machinery of cognition, like memory and problem"
+    },
+    {
+      "start_seconds": 2834.36,
+      "end_seconds": 2839.08,
+      "speaker": null,
+      "text": "solving and preferences, this all might emerge way earlier in"
+    },
+    {
+      "start_seconds": 2839.12,
+      "end_seconds": 2844.12,
+      "speaker": null,
+      "text": "evolution then we've assumed. Because cognition might not require neurons,"
+    },
+    {
+      "start_seconds": 2844.16,
+      "end_seconds": 2847.72,
+      "speaker": null,
+      "text": "it might not even require consciousness in any familiar sense."
+    },
+    {
+      "start_seconds": 2847.76,
+      "end_seconds": 2851.64,
+      "speaker": null,
+      "text": "What it does require is something more basic that you"
+    },
+    {
+      "start_seconds": 2851.68,
+      "end_seconds": 2856.239,
+      "speaker": null,
+      "text": "can achieve with lots of architectures, a capacity to act"
+    },
+    {
+      "start_seconds": 2856.28,
+      "end_seconds": 2858.839,
+      "speaker": null,
+      "text": "in service of a goal. And this raises all kinds"
+    },
+    {
+      "start_seconds": 2858.88,
+      "end_seconds": 2862.92,
+      "speaker": null,
+      "text": "of great questions. If we accept that intelligence exists in"
+    },
+    {
+      "start_seconds": 2862.96,
+      "end_seconds": 2868.08,
+      "speaker": null,
+      "text": "a multi dimensional space, what else around us counts as intelligent?"
+    },
+    {
+      "start_seconds": 2868.64,
+      "end_seconds": 2872.32,
+      "speaker": null,
+      "text": "How about a tree sending resources through its root network."
+    },
+    {
+      "start_seconds": 2872.36,
+      "end_seconds": 2875.96,
+      "speaker": null,
+      "text": "How about a colony of ants adjusting its forging behavior."
+    },
+    {
+      "start_seconds": 2876.32,
+      "end_seconds": 2879.76,
+      "speaker": null,
+      "text": "How about your immune system adapting to a virus."
+    },
+    {
+      "start_seconds": 2880.2,
+      "end_seconds": 2881.399,
+      "speaker": null,
+      "text": "How about a cluster of."
+    },
+    {
+      "start_seconds": 2881.36,
+      "end_seconds": 2885.479,
+      "speaker": null,
+      "text": "Engineered cells navigating a maze. And one thing I think"
+    },
+    {
+      "start_seconds": 2885.56,
+      "end_seconds": 2887.84,
+      "speaker": null,
+      "text": "is really important here is thinking about what all this"
+    },
+    {
+      "start_seconds": 2888.04,
+      "end_seconds": 2891.64,
+      "speaker": null,
+      "text": "means for the future of AI. At the moment, we're"
+    },
+    {
+      "start_seconds": 2891.64,
+      "end_seconds": 2895.359,
+      "speaker": null,
+      "text": "only building machines inspired by brains. But I think when"
+    },
+    {
+      "start_seconds": 2895.4,
+      "end_seconds": 2898.56,
+      "speaker": null,
+      "text": "we look back in twenty years, that will seem quaint,"
+    },
+    {
+      "start_seconds": 2898.68,
+      "end_seconds": 2901.56,
+      "speaker": null,
+      "text": "and we will be seeing a lot more emulation of"
+    },
+    {
+      "start_seconds": 2901.6,
+      "end_seconds": 2907.4,
+      "speaker": null,
+      "text": "the distributed, adaptive self regulating qualities of other more spread"
+    },
+    {
+      "start_seconds": 2907.4,
+      "end_seconds": 2912.28,
+      "speaker": null,
+      "text": "out and sometimes more creative biological systems. Could we design"
+    },
+    {
+      "start_seconds": 2912.44,
+      "end_seconds": 2916.68,
+      "speaker": null,
+      "text": "machines that do physical things, not just like minds, but"
+    },
+    {
+      "start_seconds": 2916.88,
+      "end_seconds": 2920.6,
+      "speaker": null,
+      "text": "like cell assemblies and bodies. And finally, with everything that"
+    },
+    {
+      "start_seconds": 2920.64,
+      "end_seconds": 2923.759,
+      "speaker": null,
+      "text": "we talked about today, what does this all say about."
+    },
+    {
+      "start_seconds": 2923.68,
+      "end_seconds": 2925.16,
+      "speaker": null,
+      "text": "Who you really are?"
+    },
+    {
+      "start_seconds": 2925.4,
+      "end_seconds": 2929.319,
+      "speaker": null,
+      "text": "Because when we're being honest, we are not individuals in"
+    },
+    {
+      "start_seconds": 2929.36,
+      "end_seconds": 2930.48,
+      "speaker": null,
+      "text": "the traditional sense."
+    },
+    {
+      "start_seconds": 2930.56,
+      "end_seconds": 2932.2,
+      "speaker": null,
+      "text": "We are collectives."
+    },
+    {
+      "start_seconds": 2932.28,
+      "end_seconds": 2937.36,
+      "speaker": null,
+      "text": "We are billions of cells and trillions of microbes, all"
+    },
+    {
+      "start_seconds": 2937.4,
+      "end_seconds": 2944.04,
+      "speaker": null,
+      "text": "operating with partial autonomy some goals, and this vast ballgame,"
+    },
+    {
+      "start_seconds": 2944.08,
+      "end_seconds": 2947.52,
+      "speaker": null,
+      "text": "which is much larger than we can conceive, is somehow"
+    },
+    {
+      "start_seconds": 2947.92,
+      "end_seconds": 2953.96,
+      "speaker": null,
+      "text": "coordinated into the illusion of a unified self. The story"
+    },
+    {
+      "start_seconds": 2954.0,
+      "end_seconds": 2958.52,
+      "speaker": null,
+      "text": "of you is a kind of consensus reality emerging from"
+    },
+    {
+      "start_seconds": 2959.04,
+      "end_seconds": 2964.0,
+      "speaker": null,
+      "text": "many smaller parts, most of which have no idea you exist."
+    },
+    {
+      "start_seconds": 2964.239,
+      "end_seconds": 2967.12,
+      "speaker": null,
+      "text": "To my mind, this is a call for awe."
+    },
+    {
+      "start_seconds": 2967.32,
+      "end_seconds": 2969.32,
+      "speaker": null,
+      "text": "I don't know why we'd only talk about this stuff"
+    },
+    {
+      "start_seconds": 2969.36,
+      "end_seconds": 2972.96,
+      "speaker": null,
+      "text": "occasionally on a podcast. Why aren't airplanes flying around with"
+    },
+    {
+      "start_seconds": 2973.04,
+      "end_seconds": 2976.319,
+      "speaker": null,
+      "text": "banners celebrating this kind of stuff? Why aren't we talking"
+    },
+    {
+      "start_seconds": 2976.4,
+      "end_seconds": 2980.36,
+      "speaker": null,
+      "text": "about this on CNN instead of local political cycles, because"
+    },
+    {
+      "start_seconds": 2980.4,
+      "end_seconds": 2983.68,
+      "speaker": null,
+      "text": "the lesson from today's episode is that intelligence is probably"
+    },
+    {
+      "start_seconds": 2983.719,
+      "end_seconds": 2987.2,
+      "speaker": null,
+      "text": "not rare but common. We always look at it as"
+    },
+    {
+      "start_seconds": 2987.239,
+      "end_seconds": 2989.8,
+      "speaker": null,
+      "text": "a strange exception to the rules of nature, but maybe"
+    },
+    {
+      "start_seconds": 2989.8,
+      "end_seconds": 2992.759,
+      "speaker": null,
+      "text": "it is the rule. And if this is the right"
+    },
+    {
+      "start_seconds": 2992.88,
+      "end_seconds": 2995.08,
+      "speaker": null,
+      "text": "lens to look through, what it means for us is"
+    },
+    {
+      "start_seconds": 2995.08,
+      "end_seconds": 2999.96,
+      "speaker": null,
+      "text": "that the world is full of minds, strange and ancient,"
+    },
+    {
+      "start_seconds": 3000.239,
+      "end_seconds": 3004.52,
+      "speaker": null,
+      "text": "and in many ways alien minds, some fast, some slow,"
+    },
+    {
+      "start_seconds": 3004.88,
+      "end_seconds": 3009.04,
+      "speaker": null,
+      "text": "some huge, some microscopic, some we've built ourselves, and most"
+    },
+    {
+      "start_seconds": 3009.28,
+      "end_seconds": 3009.64,
+      "speaker": null,
+      "text": "that have."
+    },
+    {
+      "start_seconds": 3009.64,
+      "end_seconds": 3012.72,
+      "speaker": null,
+      "text": "Been here all along waiting."
+    },
+    {
+      "start_seconds": 3012.4,
+      "end_seconds": 3015.64,
+      "speaker": null,
+      "text": "For us to notice. We're just starting to map this territory."
+    },
+    {
+      "start_seconds": 3015.64,
+      "end_seconds": 3018.28,
+      "speaker": null,
+      "text": "And I think one of the lessons from Levin's lab"
+    },
+    {
+      "start_seconds": 3018.48,
+      "end_seconds": 3021.52,
+      "speaker": null,
+      "text": "is that the boundary between mind and matter is more"
+    },
+    {
+      "start_seconds": 3021.6,
+      "end_seconds": 3023.16,
+      "speaker": null,
+      "text": "porous than we generally assume."
+    },
+    {
+      "start_seconds": 3023.52,
+      "end_seconds": 3025.08,
+      "speaker": null,
+      "text": "And the more we study this, the."
+    },
+    {
+      "start_seconds": 3024.96,
+      "end_seconds": 3028.4,
+      "speaker": null,
+      "text": "More we're going to need to update our science textbooks."
+    },
+    {
+      "start_seconds": 3028.44,
+      "end_seconds": 3030.879,
+      "speaker": null,
+      "text": "But more importantly, we're going to need to update our."
+    },
+    {
+      "start_seconds": 3030.8,
+      "end_seconds": 3034.48,
+      "speaker": null,
+      "text": "Intuitions about what it means to be alive and to"
+    },
+    {
+      "start_seconds": 3034.52,
+      "end_seconds": 3035.759,
+      "speaker": null,
+      "text": "be intelligent."
+    },
+    {
+      "start_seconds": 3036.0,
+      "end_seconds": 3037.52,
+      "speaker": null,
+      "text": "We'll need to tune into the."
+    },
+    {
+      "start_seconds": 3037.48,
+      "end_seconds": 3040.4,
+      "speaker": null,
+      "text": "Fact that the whole world around us might be more alive,"
+    },
+    {
+      "start_seconds": 3040.6,
+      "end_seconds": 3044.879,
+      "speaker": null,
+      "text": "more curious, more goal seeking than we thought to imagine."
+    },
+    {
+      "start_seconds": 3045.28,
+      "end_seconds": 3048.72,
+      "speaker": null,
+      "text": "In that light, the story of intelligence isn't a peak"
+    },
+    {
+      "start_seconds": 3048.8,
+      "end_seconds": 3052.719,
+      "speaker": null,
+      "text": "that we have reached, but a vast landscape where agency"
+    },
+    {
+      "start_seconds": 3052.8,
+      "end_seconds": 3056.84,
+      "speaker": null,
+      "text": "is common, and every living system, no matter how small"
+    },
+    {
+      "start_seconds": 3056.96,
+      "end_seconds": 3061.84,
+      "speaker": null,
+      "text": "or strange, might be solving problems that we have yet"
+    },
+    {
+      "start_seconds": 3061.92,
+      "end_seconds": 3069.88,
+      "speaker": null,
+      "text": "to understand. Go to eagleman dot com slash podcast for"
+    },
+    {
+      "start_seconds": 3069.92,
+      "end_seconds": 3073.36,
+      "speaker": null,
+      "text": "more information and to find further reading. Join the weekly"
+    },
+    {
+      "start_seconds": 3073.4,
+      "end_seconds": 3076.719,
+      "speaker": null,
+      "text": "discussions on my substack, and check out and subscribe to"
+    },
+    {
+      "start_seconds": 3076.84,
+      "end_seconds": 3080.56,
+      "speaker": null,
+      "text": "Inner Cosmos on YouTube for videos of each episode and"
+    },
+    {
+      "start_seconds": 3080.6,
+      "end_seconds": 3084.719,
+      "speaker": null,
+      "text": "to leave comments until next time. I'm David Eagleman, and"
+    },
+    {
+      "start_seconds": 3084.76,
+      "end_seconds": 3088.2,
+      "speaker": null,
+      "text": "this is Inner Cosmos"
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-6d2b6022b8e6cd71.txt",
+  "text_sha256": "2a8c7e5864cd1eb1243478f0f07744294f2490e995a4f62224372cc4c75220a7",
+  "word_count": 10127,
+  "segment_count": 1081
+}

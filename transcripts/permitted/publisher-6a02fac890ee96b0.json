@@ -1,0 +1,321 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/economics-deep-learning-and-basal-cognition/",
+  "title": "Economics, deep learning, and basal cognition",
+  "publication_date": "2024-06-25",
+  "video_ids": [
+    "7hvfYKF55TU"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-6a02fac890ee96b0",
+  "retrieved_at": "2026-10-29T09:16:09.178532+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[00:00] Michael Levin: I appreciate that. I'm really looking forward to this. I think you both had some great ideas recently. Can we start? Ben can go first, and then David, say a couple words about who you are and what your interests are."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[00:14] Benjamin Lyons: I'm a former stockbroker with a background in economics, and I'm currently studying the economics of collective intelligence, looking to put together an understanding of how people get along and accomplish things that no individual can."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[00:26] David Bloomin: Cool. I am by training a software engineer, but I've been into AI ever since high school reading \"The Age of Intelligent Machines.\" And then just kept dipping in and out of the AI field. It's not ready. After college, I co-founded one of the first AGI startups with Shane Legg, one of my co-founders, was our first employee. So back in the 2000s. And then went to work at Google and Facebook, and then Asana, mostly either working on ML, but most of my time has been building large-scale distributed systems. So really coming at this more from an engineering background, but about three years ago, I left my job and dove back into AI. And came across Karl Friston's work. And I think that's when it all clicked for me. And I was like, wow, we have GPUs now. We have a theory of intelligence that I feel basically covers it. I don't think there's any more secret sauce. The formulas from active inference look a lot like formulas from traditional reinforcement learning. We have the hardware now. So I just got really excited about it and have been working on it. So that's my software and engineering side. I also co-founded Plurality Institute with Glenn Weil, who's an economist. And that's more on the human collective intelligence side. Essentially, we're trying to create a new academic field called plurality studies that focuses on scaling human cooperation and collaboration, essentially collective intelligence as an academic field. And we've been bringing together researchers from political science, computer science, economics, peace building. It's such an interdisciplinary field of how do we help humans cooperate using technology and now especially AI to bridge people. So that's my other project. But my main research focus is, and I can share a little bit of the research that I'm working on. And I would love help and collaboration and would love to hear how you guys are thinking about this and if I can help because I think this is the most exciting thing that's happening in the world right now."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[02:48] Michael Levin: Cool, yeah, please go for it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[02:51] Benjamin Lyons: Glenn Weil is an interesting name because I think he's got a very important idea, which is that we should be using markets to solve more problems, because there's basically a perspective in economics that says, anytime you've got a problem, there's a market that can solve that problem. People just haven't been creative enough historically about what kind of markets you can use. We're just very used to trading standard property rights and things. And there's a lot of other ways you could conceive of doing things. I like the fact that Glenn Weil is pushing that. I'd be interested in it. I don't actually know what he's doing. I'm curious about that. I don't actually know what he does with AI. Can you tell me a little bit about what he does with the Plurality Institute?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[03:35] David Bloomin: The Plurality Institute is more of the academic collective and human collective intelligence of which AI is a tool. For example, markets are one collective intelligence system. But there are other ones; even comment sections on forums are a collective intelligence mechanism where humans come together to synchronize on epistemology, on things that they know and believe. Being able to use LLMs to automatically de-escalate flame wars in comment sections and drive people to consensus is an example. In terms of more economic things, using quadratic funding for public goods is something he has been writing about. Creating trust networks to create social identity so that you can use that as infrastructure for all these other market mechanisms is another one. There's someone that's working on vector prices. Rather than a single price signal, there's a whole basket collection of currencies that you hold. People can specify their own values for different currencies. The way the trading works is when you're trading with people aligned with you on values, you automatically get discounts because they value your currencies more than they value others. There are a whole bunch of them. He just has a book out. Open source is another—how large open source projects are incentivized and how collaborations occur without a corporate structure. He has a book out now called \"Plurality\" with Audrey Tong. I would check that out. It is going to cover a lot of different aspects of plurality and collective intelligence."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[05:33] Benjamin Lyons: Is a lot of that just on the plurality website?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[05:36] David Bloomin: The plurality.institute website: we post events and talks and have the link to the plurality book, but the plurality book is much more detailed."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[05:44] Benjamin Lyons: Cool. I will check that out. So maybe what I can do then is give a broad overview of what I think the basics of economics of collective intelligence are, and we can see how that relates to our work. The way I see it is that collective intelligence is all about getting people to communicate in honest and relevant ways, such that everybody forms a shared model. And because everyone's behaving with that same shared model, everyone ends up behaving as if they're all following the same commands, if you will, of a dictator or a virtual governor, and everyone ends up nicely coordinated. To achieve that kind of signaling system, you need something that's analogous to a price system. What that allows you to do is its principles are very similar to what Mike has talked about in some of his work where you get a way of getting an entity to see questions about other people as questions about itself. Information gets transmitted in such a way where when someone else is in trouble, you perceive that as stress to yourself. When something benefits someone else, you perceive that as benefit to yourself, which we see very easily in the price system. If someone needs more food, they'll have a demand for food that will raise the price of food. That stress gets transmitted to everyone else who chooses to buy less food. Similarly, if you help someone get food by supplying some food that they like, their benefit becomes your benefit via the revenue you make. That very simple system ends up outlining the basic functionality of a collective intelligence. I think that any collective intelligence probably follows basic price-like principles where you need some system where people are incentivized to communicate honestly with each other and such that everyone's signals get condensed into your own personal situation. So just by optimizing for yourself, you end up inadvertently taking care of everyone else. So are things like that when you're looking at AI and technology? I don't know what goes on inside a computer; it's all magic to me. Is that what's going on with the transistors? Do they all have their own individual model and they end up communicating to form a shared model?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[07:58] David Bloomin: At some level everything is doing all of this. Everything is mutually reducing free energy and you can see every part of the subsystem as an agent. At some level, yes. I think what you probably mean is more directly in a computational way. Typically what we do now is we train neural networks, which are a big pile of math, but essentially it's a thing that learns function approximations, and the way it learns function approximations internally, and we're still studying what actually happens internally. Probably yes, things get partitioned into sub-processes, sub-functions with sparser communication between them. What you're describing: if you think in your model, an individual is this very interconnected system, and then it has these sparse connections to other deeply interconnected systems. A cell is doing a lot of compute inside, but then it's got just a few membrane exchanges with the outside or corporation. There's a lot of stuff going on inside, but it communicates with the rest of the economy via buying and selling products. In some sense, anything that you partition into subsystems is essentially doing this. It is using some form of sparse information propagation between units. In terms of honesty, that's a lot trickier because the communication doesn't need to be honest. It needs to be valuable. There is a theorem that for communication to exist, it has to benefit both parties. So there has to be some value to it, and you can maybe say that that value is the truthiness. So you could maybe decouple it into signal and noise. So there's some truth value and then maybe there's a bunch of noise value. If it's all noise, that communication channel is just not going to persist. In terms of when you say there should be honest pricing mechanisms, I would instead say there should be ways for two agents, or a network of agents, to communicate usefully with each other, which maybe is the same thing, but they co-discover what that is. That doesn't necessarily need to be imposed by a mechanism. If a market mechanism or some communication framework allows honest communication channels, then you're making it much easier for them to discover how to use it. I don't know if any of that resonated."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[10:46] Benjamin Lyons: It does, and there's something interesting to work out here. Economics has been talking about the importance of getting people to communicate honestly and achieve coordination for a long time. The basic picture of that, which is very, very silly and false in some ways, but also important for intuition, is: if you're trying to centrally plan an economy, one conceivable way you do that is you have an allocation problem, who should get what goods. You could just send everyone a giant questionnaire and say, do you need a new pair of shoes, et cetera. The problem with that is that people could lie and they could say, \"I totally need a new pair of shoes.\" There's a lot about that picture that's very unrealistic, but figuring out ways to get people to—\"honesty\" is a word that has some bad connotations because we interpret it in terms of deliberate intention and moral character. It's really more just about truthfully conveying your intentions. This is a way of thinking about it. You can think of economics as a very complicated version of traffic. You're just trying to get cars to not crash into each other. That means that each car needs to predict where each other car is going. That means each car needs to be sending very clear signals. \"I'm definitely going here and I'm not going to turn suddenly.\" You're trying to get people to convey what their plans are so that everyone knows what everyone else is planning. Then they can pick a plan that's consistent with all those other plans. This is valuable. It's much more of an information theory kind of take."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[12:20] David Bloomin: I think there's another thing that is missing from that model, which is that if you have a really narrow freeway, then some cars are going to get through and some cars are going to have to wait. There's not an easy way to resolve which ones. Back to the plurality way that I've been thinking about it, these are all forms of alignment. I break alignment down into aligning on action, which is what economics in some sense lets you do: we all have common beliefs. Given our beliefs, what should we do and how can we coordinate our action? How can we all send our routes so that we don't collide? That's aligning on action. There's aligning on epistemologies — how do we all come to believe the same world models? And then there's aligning on value: I want one thing, you want a different thing. Maybe we want opposite things. How do we align on that? All three systems are interdependent because if you want different things, you're not going to necessarily even align on epistemology, because the things you know are the only things that you care about enough to know. If you care about different things, you're not necessarily going to ask the same questions of the universe to get back the same knowledge. And if you have different beliefs, you're not going to align on action. They all have to be iterated. If you can agree on the same epistemology, then maybe you can both shift your values, because what you value depends on what you know. In some sense, you have to pull all of these three systems in. That's another thing about economics: it also helps value alignment and knowledge alignment because prices are knowledge signals. They tell you when goods are easier to get. They're also value-alignment mechanisms because they allow you to trade something that you value more for something that you value less. There are these pieces, but they all have to play together."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[14:33] Benjamin Lyons: I want to go in a couple of different directions with that. The first thing I'll mention is pulling away from economics a bit and talk about some neuroscience. On a different comment I left on Mike's blog post, I talk about the work of Lisa Feldman Barrett, who's done super important stuff. It's her work that prepared me to understand what Mike's talking about because I don't know anything about biology. The active inference predictive coding view of things that she's advancing as a way of understanding what the brain does—we often naturally draw these divides between knowledge, acting, and valuing. The active inference way of viewing things very much pushes all of that together. It's more like action that drives perception, and your goals are at the base of all of that. Your goals are determined by, I think of goals as beliefs or measurements that you have. Your goals are your epistemology because your goals are your measurements about the world and your prior expectations. It's a weird sounding view and we can talk about that, but that's how I think about that. It's very useful sometimes to separate these things out because there are practical reasons to do so. That can be useful, but I want a fully unified perspective where we're just treating all of that as the same thing on some level. In economics, at the end of the day, when you're trading something, you can disagree very strongly; the trade ends up compressing all of that. If I'm buying shoes, the reasons I'm buying that would make no sense to the shoe seller. As long as I like the price, everything else is fine. I'm not quite sure what the balance is there. Sometimes it feels like you do need to address things like that. Sometimes it feels like it just takes care of itself when the system is set up right."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[16:41] David Bloomin: If you guys are upright, I made a couple of slides and videos I'd love to share. I don't know if that would be fun. Is that okay?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:52] Michael Levin: Yeah, go for it. Let's see it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[16:54] David Bloomin: Cool. Okay, can you see my slideshow here?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[17:12] Michael Levin: Yeah, we can. Yeah, any chance for full screen?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[17:16] David Bloomin: Yeah. Is that better?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[17:20] Michael Levin: Much better. Go for it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[17:22] David Bloomin: This is two different ideas that work together that I want to share and get you guys' feedback on. I'll go really fast and then we can drill into something. Essentially, the thing I'm really interested in is how do we make an AI agent? To define an agent, it's basically something that takes a sequence of past observations and then produces the next action. Mike, you think agency has goals, but those are externally observable knowledge about an agent. I think that's interesting to figure out. So for this thing, I think of an agent as just some function."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[18:23] Benjamin Lyons: I think you're breaking up for me."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[18:25] Michael Levin: Yeah, me too, me too."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[18:40] Benjamin Lyons: Sorry, David, I don't know if you can hear me, but I'm not getting any of this."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[18:53] Michael Levin: Me too. I can't hear what you're saying."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:04] Benjamin Lyons: Technology's not a friend today."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:05] Michael Levin: I guess it'll try again. I've noticed that usually happens when something really interesting is about to come out."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:11] Benjamin Lyons: It's because it knows what we're doing and it doesn't want us to make progress on these questions."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:15] Michael Levin: Yeah, there's a little bit of that. Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:20] Benjamin Lyons: Is that background somewhere you've been?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:23] Michael Levin: Yeah, this is years ago. This is Alaska."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:26] Benjamin Lyons: I've been to Alaska, but many years ago, I don't remember much about it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:30] Michael Levin: Yeah. it was pretty, it was pretty incredible."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:36] Benjamin Lyons: This is my blank beige wall because I have that kind of apartment."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[19:43] Michael Levin: Cool. Hopefully he'll come back. If not, we'll just chat."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[19:51] Benjamin Lyons: I do have something I should address with you. Regarding the paper we've discussed, I want to mention I don't know a lot about collaborating on papers. If there's something that you might expect a collaborator to be doing right now while you're working on other things that might not be obvious to me. Is there anything specific that I should be doing right now?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:09] Michael Levin: Remind me where it stands. Have you sent me a draft?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[20:13] Benjamin Lyons: I sent you an outline of."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:16] Michael Levin: It's stuck in my court. I've just been insane. I will get back to you within the next couple of days with it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[20:22] Benjamin Lyons: And no rush. I just wasn't sure if there was something."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:25] Michael Levin: It's not you, it's me. I've got a stack of drafts on my list for various things. I will get to it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[20:39] David Bloomin: Can you hear me?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[20:54] Benjamin Lyons: Hi, David."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[20:56] Michael Levin: Hey."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[20:58] David Bloomin: Sorry, my computer decided not to run Zoom anymore, so I'm on my phone. Okay, let me try to do this without the slides. The idea is that an agent is some function that maps past observations to the next action. General intelligence is a set of behaviors. I think in your paper, Mike, you had this: how do we navigate a space? How do we adaptively and intelligently learn to navigate arbitrary spaces? I think of that as a collection of algorithms that let you balance exploration and exploitation. Active inference requires perfect Bayesian inference, and everything implements an approximation. The question is how do you learn or build an approximation of active inference in various spaces? Neural networks are function approximators you can train given the right input-output pairs. The idea is to train a neural network that's a function approximator of intelligent space navigation. Agents are duals of their environment. If you want to train an agent to do something, you need to give it an environment where achieving fitness in that environment gives you the behaviors that you want. If you want an agent that's able to generalize learning, you need an environment where there's always something new to learn. The behavior space needs to be dense enough that the agent can always discover some new thing that it can learn that gives it adaptive fitness to the environment. As it is learning how to adapt to that particular environment, it is also generalizing learning. It is meta-learning. If you can give an agent always some new environment where there's something new to learn, it will learn that. In the process of doing that, it will learn how to learn. It will learn how to balance exploration and exploitation and what sampling algorithms can be applied to this new space. How do I leave myself n-grams? How do I store memory? How do I structure memory? How do I interpret memory in these various ways? What you want is an environment that gets harder or different as the agent gets smarter. I think the way evolution did this is make the environment highly multi-agent so that there is complexity. The physics of the environment, sure, but most of the complexity is in the minds of the other learners. This goes back to economics and capitalism, where markets are anti-legible."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[24:49] David Bloomin: As soon as you find out some trick that gives you an advantage in the market, that advantage goes away because it gets arbitraged away by everyone else that learns it. I think you had this with multi-agent setups, you can get into this infinite game where as the minds of agents get more complex, you have to get more complex to be fit in that environment. This creates this intelligence treadmill. I think this has been done in AI, so this is how we get Go players or chess players. They do self-play against themselves, and as they get better, the game gets harder. But typically this is done in purely adversarial settings, and with a fully adversarial setting, you cannot explore a lot of the behavior space because as soon as you deviate from some dominant strategy, you get exploited by all the other players. It's very easy to get stuck at local maxima because there are not a lot of ways to deviate. You have to discover something new quickly, or you just get out-competed by people doing the same old thing. I think the fix to that is blending this line of what an agent is in this collective intelligence sense. I think one strong technique for that is kinship. If you're in a world where many agents around you are your brothers or your clones or your cousins—this whole spectrum of kinship—then another way to think about agency is: if you have two agents that share the same goal, you can think of them as one agent with a really bad cognitive architecture where it has to learn how to pass messages to itself. One way to define agency is via goals. Kinship is a way of aligning agents on goals. If you have an agent that 100% shares the goal with another agent, it's one agent. If it's 70% sharing goals with that agent, then it's this blended super agent. The idea is if you have an environment where all these agents are aligned with each other via various kinship relationships, you can create a high-dimensional behavior space where you're not always competing. There are a million different ways to cooperate, form coalitions, break coalitions, establish trust. Can we create a relatively simple, fast-to-simulate in silico virtual world full of other agents? The agents are aligned with each other in various kinship scenarios. Then we scale up neural networks, training larger and larger networks to drive those agents and get to LLM-size billion-parameter models that, instead of predicting the next token, predict the next action an agent should take given all the experience it's seen. The idea would be that if you give an environment like that, you're providing a gradient towards increased intelligence and then using standard machine learning techniques to train a function approximator to follow that gradient. That's the idea behind the overall environment. I wanted to incorporate this collective intelligence approach. I wish I could present my slides. I don't know what happened with my computer. Maybe I'll pause for a second, let other people speak. If anyone has feedback, thoughts, or criticisms, let me know. I'll try to get this other slide to work meanwhile."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[28:42] Benjamin Lyons: Thank you for that. I have certainly heard a somewhat similar sounding theory that evolution evolved or intelligence evolved as some sort of social competition, that primates competing with primates and birds competing with birds is where it comes from rather than trying to build tools and so on. The idea about needing some form of protection, some ability to innovate. There's a lot of aspects of economics where there's this challenging tension between wanting to optimize and wanting to create room for innovations. Perfect competition is a classic example. You learn very early on, perfect competition, you're going to maximize price, maximize output. Your price is going to be as low as it should be. But it's very hard to innovate in perfect competition because the way the model works is whatever new technology you introduce, everyone copies that instantly, you make no profit, but you're the one who made the investment, so that just sucks. A little bit of monopoly can actually be helpful because that way you're making money. And then there are artificial things like patents that give people monopolies to incentivize them to make those investments and innovate. That is a very important aspect of intention of any sort of collective intelligence system: trying to encourage parts of your system to improve and do better and trying to protect them from parts of the system that might say, \"we're going to copy that, we're going to take that, we're going to steal that.\" There's a part of this that I saw in your talk on YouTube; you talk a little bit about love at the end of that. That's something that I want to bring up because I am working on a couple of papers about moral psychology and neuroscience, including a paper on morality as a form of cognitive glue, which it isn't really, but it's a sort of an interesting counterexample in some ways. Let me ask you this. Suppose that you took all the families and you rearranged them—people didn't know that they were in the wrong families—but you had families where no one's actually related to each other genetically, would the system still work?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[31:11] David Bloomin: I think of this as essentially reward sharing. On a genetic level, the genetic optimization process gives rise to organisms that care about their kin. Because a gene is present in the kin, it's going to make the organisms that come from it want to help other organisms that have that gene. From the gene's perspective, it doesn't matter whether you reproduce or your brother reproduces twice. The behavior that an organism exhibits that we call love is what it looks like when the underlying optimization process shares rewards or goals between organisms. But then the organism itself, one of the things that it evolves or learns is some way to recognize who it should care about. We have all of these heuristics for knowing who our kin are. Once those things are in place, it's the heuristics that matter, not the underlying gene. I think if you train agents that see other agents and you give them a reliable signal that helping this agent is actually the same as helping you, every time something good happens to this agent, you get part of that reward. Here is a marker that tells you who is kin and who is not. The agent is going to learn behaviors that are conditioned on that marker. Then once you stop training and you let these agents go around behaving, you can change that marker arbitrarily. Rewards are no longer even there. Genetic evolution has stopped. Now you're no longer learning a new policy. Now the learning is happening inside the mind of the organism, not inside the genes. Conditioned behavior on kinship markers. Does that make sense?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[33:33] Benjamin Lyons: It does. And there's a very important paper that anyone interested in this should read. It's called \"The Sense of Should, A Biologically Based Framework for Modeling Social Pressure.\" And in some ways the difference is subtle, but I think there's a way of looking at these sorts of morally motivated cooperative behaviors that does not depend on any kind of evolved pressure to care for or intend to cooperate, but instead it's something your brain constructs as a living organism in its environment because it's trying to make its social environment predictable. There is an emerging perspective. My papers are drawing on this research that says, let's not think about evolution. Let's not think about long-term cooperation. Let's think about trying to make the social environment predictable. That's how we can get these cooperative and moral behaviors. That might be something to look at, because that's another paper released as a co-author, and I bring up Lisa's stuff as much as possible."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:48] Michael Levin: I mean, this is also."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[34:50] David Bloomin: I mean, I. Go ahead, Michael."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[34:55] Michael Levin: I was going to say that also sounds like the imperial model of multicellularity that Chris Fields and I published a bunch of years ago, which is that if cells are trying to predict an uncertain environment, the least surprising thing around is a copy of yourself. And so this can be a driver for making cells stick around after you've divided to form a highly predictive surrounding for yourself so that you live in this niche and then the frontline infantry out there facing the uncertainties of the outside world, but you can predict them because they're you, and so it's a lot easier that way. You can think about it that way as well."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[35:38] David Bloomin: Have I talked to you about comparative advantage?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[35:42] Benjamin Lyons: Yeah."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[35:45] Michael Levin: No, I don't think we've talked."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[35:50] David Bloomin: Go ahead, David. I had a question about that, Michael. If you have a cell and the cell, given situation A, does random stuff, then being surrounded by copies of those cells is not actually going to help you predict the environment. I think there's something more to that. It's not that being surrounded by copies of yourself gives you the ability to predict your environment. I think it's being surrounded by copies of cells that want to help make the environment more predictable that actually matters. Unless you think that a cell, by being able to introspect itself, can predict the behavior of other copies of itself."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[36:55] Michael Levin: I don't think they're likely to be doing random stuff. There are probably situations in which the response is random, but I don't think that's the vast majority of what cells do. I do think that it's easier to anticipate cycles and responses. Again, I think you're right. If it's random, it's not going to work, but I don't think that cells are random in that way. But let's let David do his thing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[37:28] David Bloomin: This is actually mostly inspired by your work, Michael, and economics. I'd love to get thoughts on this. This is the standard reinforcement learning formulation. You have an environment, you have an agent, the agent takes an action in the environment, it gets back some observation and a reward, and then it learns to act in a way that maximizes reward. You can have a dual formulation being inference where the agent is trying to predict observations. This is the normal loop. Typically, we can break this down into an agent: there's a bunch of observation states from the environment that go into the mind. The mind is going to generate a bunch of actions over actuators. There's some memory that the mind has that it's reading and writing from, and it's getting a reward signal. This is how we train agents in reinforcement learning, or this could be evolved. It doesn't really matter. The way we do this now in RL is you have this giant neural net inside the mind, and there's model-free and model-based RL. Skipping over some detail, but essentially you're training this big BLOB of math that you're jiggling using gradient descent to optimize your long-term expected reward. It is learning how to compress the observations into latent states, maybe store parts of those latent states in its memory that it can then reinterpret and eventually generate actions. These networks can be giant. In language models there are 100 billion parameters. In reinforcement learning they're much smaller because we just haven't figured out how to do it yet. This is kind of the standard setup. What I am proposing is a different architecture: instead of there being one mind, there are many individual agents. Each agent is mapped onto some subset of the observation space, some subset of the memory space, and some subset of the action space. They could be mapped to any or all of them. Rather than training one brain, I want to train a neuron that, in a collection, when you put it together in a graph of other neurons, knows how to co-organize collectively to solve the overall problem that the brain has. So rather than training a 100-billion-parameter network, I want to train a 1,000,000-parameter network that, when you copy and paste it and throw it into this soup of other neurons, will self-organize into solving the problem. The idea is, rather than having to learn adaptive algorithms, you can imagine that there is an algorithm that you apply to many different parts of the sub-problem."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "David Bloomin",
+      "text": "[41:35] David Bloomin: But this network has to learn that algorithm in a bunch of different places, because every sub-function call might have the same kind of, this is just a regression problem. But you have to learn how to solve regression in a bunch of different places. Whereas here, this thing can just learn, okay, here is how I divide my problem into sub-problems and send those messages out. Or here is how I pay attention to a pattern happening at this time scale, and that's my job. The idea is to break down this one big BLOB of compute into something that can be done on this graph instead. This is why I wanted to talk to you, Ben, because I started out thinking, well, this is an economy: the observations and memory were commodities and these things were buying and selling those commodities. So the inside of a neural cell is a neural network that we train. But then the question is, what is the cognitive glue between all of these neural cells? Essentially, what is the protocol that they use such that when we train the neural cell on the overall objective, they'll learn something useful. The thing I came up with, influenced by active inference and collective intelligence, is that inside a single neural cell there is an agent that sees some set of inputs. It has its own memory. It's going to get some reward signal from the cognitive glue, and it's going to produce some outputs. The way to do that is it should be predicting its inputs, active inference, essentially learning a world model of its little world inside the brain, and then voting on the outputs; in this case, outputs can be inputs to another neural cell or just outputs to an actuator that moves the organism around. I'm proposing an agent that receives a set of inputs. This is some subset and it has some memory. It will predict the output at the next time step along with some bet. It has finite energy; it's going to bet on what the values of the inputs are going to be at the next time step. It's going to vote on what it wants to set the outputs to, also using this energy. At the next time step, it will see what the actual inputs were and which bets it won, and then it gets energy back as a reward. The idea here is that these agents are incentivized to only predict the inputs that they have a comparative advantage on over other agents. The same input and output is mapped to multiple cells. As an agent, you should learn to monitor your environment, form models about it, and then bet on the things where you have a comparative advantage over other cells. As you gain greater capability to model your environment, you get more energy that you can use to vote on steering around that environment. This is hand-wavy and where I need help from economics: I started with pricing, then an auction or a prediction market, and then simplified to straight betting markets. The idea is, can we come up with a simple cognitive glue for a pool of these agents and then train those agents? I'll stop now."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[45:43] Benjamin Lyons: That's very interesting. It's definitely an economy and you should talk to economists. I'm not sure economists have actually done a lot to explore this space, even in theory. For the most part, they've been content to take the economy as it is and try to explain that. There's been a lack of creativity there in terms of envisioning other economic spaces and trying to think about building alternative economic systems like this one. I don't have a lot of practical things to say right now other than affirmation that you're right that this is economics and that talking to economists is a good idea. The mechanism design people are the place to start. That's where Glenn Weil comes from. I don't know if Eric Maskin is reachable at all, but he won a Nobel Prize for that. I had a two-minute conversation with him many years ago that was very influential. You might want to send him an e-mail and see what he says. This is cool. I don't think I can help you today with it, but we should stay in touch. I'll let you know if anything comes along, because this is very interesting and very important."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-6a02fac890ee96b0.txt",
+  "text_sha256": "b5dc5b1e0ea8433b1a7e1e972d8759041d64e42f0ef200c4d825ba75b83d8a58",
+  "word_count": 6392,
+  "segment_count": 59
+}

@@ -1,0 +1,12 @@
+{
+  "valid": true,
+  "catalog_jsonl_files_checked": 18,
+  "unique_video_ids": 388,
+  "stored_transcript_source_records_checked": 245,
+  "text_files_checked": 245,
+  "cuda_transcripts_checked": 30,
+  "overlapping_asr_segment_boundaries": 4,
+  "max_asr_segment_overlap_seconds": 0.23,
+  "timing_note": "Source ASR boundary overlaps are retained; start order and duration bounds are validated without claiming diarization or human accuracy.",
+  "errors": []
+}

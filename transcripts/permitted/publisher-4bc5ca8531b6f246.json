@@ -1,0 +1,631 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/inspiration-across-substrates-free-lunches-diverse-intelligence-and-surprise-by-michael-levin/",
+  "title": "\"Inspiration Across Substrates: free lunches, diverse intelligence and surprise\"",
+  "publication_date": "2026-08-21",
+  "video_ids": [
+    "k9lGNyPHurQ"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Michael Levin's talks",
+  "tags": [
+    "Michael Levin's talks"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-4bc5ca8531b6f246",
+  "retrieved_at": "2026-10-29T09:16:33.974251+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] So what I thought I would talk about today is this notion of inspiration. And I'm gonna define and then bring in a couple of other ideas, including this idea of free lunches, grounded in the whole area of diverse intelligence, which is what we work on, and the notion of what it is to be surprised by things that we see in the natural world."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Part of this is grounded in some things I've said in this preprint. It soon will be published, and lots of other stuff that you might have caught either on our website or on my blog."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] I would like to do three things today. First of all, just give a very brief definition and motivation of what it is that I think we're doing here and what we're gonna talk about. Then I'm gonna show you a bunch of examples, mostly from biology, a few from computer science, and then speculate wildly on what I think this all means in the future."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] The first thing to talk about is this notion of inspiration. In particular, I'd like to focus us on the degree of effort that it takes to reach certain outcomes or ideas in the space of ideas. Let's consider three different scenarios."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] First, you have somebody who laboriously, step by step, gets to the answer to a problem or a proof or something else. Little surprise there, because what you're seeing is that person work very diligently, exerting effort step by step. That is a kind of navigation of that space that seems conventional. You pay honestly for what you've got."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Then you have somebody like Von Neumann, for example, who looks at a problem and says, \"Oh, yeah. So, therefore, this. Okay. I see it. It's this.\" And there, something slightly different has happened because they didn't do all the steps, or at least you can't see that they did those steps, and they sort of jump across that landscape in bigger leaps, so to speak."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Then you have someone like Ramanujan who will tell you, \"I woke up this morning, and this Hindu goddess whispered some theorems in my ear, and there it is.\" What we have are different ways of navigating the landscape that apparently have different degrees of effort associated with them."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] And if you wanna dive in, Robert and I here try to quantify some of that stuff. What does it really mean to traverse a problem space? One idea is this: How much work did you have to put in for a specific result? That's a foundational concept for us today."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] And the other idea, which I'll come back to at the end, is this: Maybe the contents of that space aren't just passive features that sit around and sort of wait to be found by an active agent."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Two fun examples. One is by the poet Ruth Stone, who described that she would be out in the field, and she would hear a poem approaching like a train that shook the earth under her feet. To capture it, she would have to run back to the house to get a piece of paper before the poem went past her. She said that if she was too slow, the poem would actually go right past her and continue across the landscape looking for another poet. But if she got it, she would catch it by the tail and pull it backwards, writing it down from back to front."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] So, kind of an amazing description of this process where the things you're looking for in that landscape are not passive data that sit there waiting to be found, but actually have some degree of activity of their own."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Another one I came across was that apparently Michael Jackson thought if he didn't write things down, then those ideas would go to Prince. So lots of examples like this out there of creatives who say, \"Look, the symphony or the brilliant piece of whatever kind of found me,\" and so on. I think that's interesting. Let's dig into that."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] I'm gonna define the concept of free lunch. It's a degree of free lunch, meaning it's continuous. It's not a yes-or-no kind of thing. The degree of free lunch is the delta between what you got and the effort that you put in."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] Specifically, in the kind of standard modern paradigm, we're used to putting effort in three ways. Design, meaning that somebody engineered it directly; somebody knew how to write the algorithm or build it or whatever. Evolution, meaning nobody knew how to build it, but we generated trillions of variants and threw away everything that didn't work, and now we have it. Or training, meaning that the system had access to the problem, took its lumps, learned from the experience, and eventually got good at it."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] So the degree of free lunch is the effort that you put in via these three conventional causes subtracted from what actually came out. And to the extent that this is not zero, meaning that there's something additional that we don't exactly see how it got into the system we're looking into, that's the degree to which we get surprised, and that's the degree of free lunch I would like to quantify."
+    },
+    {
+      "start_seconds": 0,
+      "speaker": null,
+      "text": "[00:00] William Paley and Darwin agreed on one thing. They disagreed on many things, but the one thing that they absolutely agreed on is that order is exceedingly rare."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] It requires extraordinary effort. You basically have to solve this needle-in-a-haystack problem to find anything interesting or competent. They talked about what it is to find a watch outside or what it is to find a living organism. Of course, he thought that rational engineering was the way they got there. He thought it was evolution. But either way, there had to be some kind of very effort-intensive process. Things don't just show up. Order is rare."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] Now, we already know from work as far back as 1914, then more in the forties with Grey Walter, then this amazing book by Braitenberg in the eighties, and then Stu Kauffman in the nineties talking about order for free and interesting kinds of properties that appear that are already surprising."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] Braitenberg showed that these little, very minimal vehicles had really interesting behaviors. The contents were extremely sparse. And yet, it's very charming to read about what the behaviors are from simple motors and light sensors and so on. He said, “We will be tempted to use psychological language in describing their behavior.” The reason you're tempted is not just because you're anthropomorphic. You're tempted because it actually works. In other words, behavior science offers all kinds of tools that are actually useful for certain kinds of systems."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": "Here's where I think he made a capital error",
+      "text": "[05:04] Here's where I think he made a capital error: “And yet we know very well there is nothing in these vehicles that we have not put in ourselves.” Physically, that's true. There are no physical components that you put in yourself. There is no software. And yet there is something in there, I think, that we did not put in ourselves, and I think that's the most interesting part."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] If we get anything for free in these cases, what do we get for free? There's a whole spectrum between order—the kinds of stuff that Stuart Kauffman was studying—and actual behavioral competencies, a.k.a. kinds of minds. One reason that it's important is because this is the future we're talking about."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] It's not language models versus humans. It's your neighbor who has had some percentage of her brain replaced by various technologies. You don't want to be in a position of trying to figure out whether it's more or less than 50% to see if they're just a machine and you don't have to be nice to them anymore, or whether there is a human. Clearly, this is a spectrum. The variety is going to be incredible."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] I gave a talk recently to some psychoanalysts and psychologists who are trying to point out that their clientele is going to get really weird very soon. There are going to be all sorts of novel beings who are not on the same evolutionary path as us. Whatever their competencies, whatever their disorders of cognition, whatever their collective unconscious, the symbology of their dreams—whatever these things are—they don't come from the same place ours come from, at least if you think ours comes from evolution. They weren't necessarily designed; components might have been, but overall, they weren't. And so we have to try to understand: How do we relate to these beings? How are we going to help each other and so on?"
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] Again, let's look at the biology examples. There are three ways that we put in effort. We think that the effort we put in is to match what we are hoping to get out. I'm just going to run you through some examples of scenarios where I think this breaks down."
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] The first thing I'll point out is this. We don't question this because everyone says, “What else could it have been?” But really, if you're a space alien running an investment firm and I come to you with a project and I say, “There's this planet Earth on the African savanna. What I'm going to do is just select for survival. It's all I'm going to do. I'm not going to select for any weird stuff. Just survival of the fittest. That's it. The reason I want the money is that if I just select for survival of the fittest, eventually they'll develop quantum chemistry, and they'll walk on the moon and do all these kinds of things.”"
+    },
+    {
+      "start_seconds": 304,
+      "speaker": null,
+      "text": "[05:04] We're kind of used to this because apparently that's more or less what happened. But if somebody had said this to me, I would have been extremely skeptical. They would not get any money from me as a potential investor if they weren't going to tell me how they're going to actually select for the things that we want. If we want quantum chemistry, it doesn't seem sufficient that we're just going to select for survival. But let's say we assume, as everybody does, that being good for survival somehow shaped a brain that's good for other seemingly very different tasks."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] You have to take into account all kinds of factors that limit it, such as head size because of birth canal risk and so on. Given all of that, what performance would you actually expect if you took a normal human brain and drastically reduced the amount of tissue that it had, for example, to one-third of that of a chimpanzee? You would, I think, rationally predict—everything we know from neuroscience tells you—that the performance would be drastically reduced. Often it is, but not always."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] There are these interesting clinical cases. Karina Kaufman and I reviewed them in this paper, where you have humans with extremely reduced brain volume and normal or above-normal intelligence. That's weird. We can wave our hands around about redundancy and things like that, but there's actually nothing in neuroscience that predicts that this is the sort of thing that you're going to see."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] Here's another neuroscience thing. Suppose I wanted a tadpole to form an eye on its tail. I don't want it connecting to the brain, but I want it to be able to see. And when the tail is killed off and disappears when the thing turns into a frog, I want that eye to know that it's different and sort of ignore all the cell death signals and just grow and be healthy. What would you need to do for that?"
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] Knowing what we know about tadpoles, about the sensorimotor architecture that they have, the long history of evolution that's shaped their nervous system, and the kinds of functionality it has, if I asked you to do this, you would say, “I'm going to need a lot of time. I'm either going to need geological timescales to evolve this thing, or I'm going to do some neuroengineering that nobody knows how to do.”"
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] It turns out you don't need to do any of that. It works out of the box. You take a normal tadpole—no genetic modifications at all—prevent the primary eyes from forming, and put an eye on its tail. There are a variety of ways. The eye makes an optic nerve. That optic nerve does not go to the brain. Sometimes it goes to the gut, sometimes to the spinal cord, sometimes nowhere at all, and they can see. How do we know they can see? Because we built a device that trains them on visual cues. The whole thing is automated, and we can see that they can do visual behavior."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] When the tail degenerates, the eye ignores all those cell death signals completely, keeps growing, and ends up on the frog's butt. If nothing else, now you've seen a frog with an eye on its butt. That is nothing we would predict—that no rounds of mutation, selection, and adaptation would be needed to radically change the sensorimotor architecture of this animal. It just works out of the box. Zero-shot."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] Suppose I wanted to take a shy, slow reptile like a turtle, and I wanted it to work like a cat. I wanted it to move at the speed of a cat. I wanted it to do cat-like things. What would I need to do? Again, if I said this is what we wanted, you would say, “That's either a lot of evolution or a lot of neuroengineering that no one knows how to do.”"
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] Here's somebody who put their turtle on a little skateboard, and that's it. You unlock this amazing, novel set of behaviors. The turtle now wants to play with the cat. He's chasing him around. The cat seems a little freaked out, but that seems apropos. And the turtle is now moving at that speed. No problem. It's mind-boggling."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": "You ask yourself",
+      "text": "[10:08] You ask yourself: Have turtles for millions of years been ready for this? How do you unlock this amazing thing? You didn't really have to do anything. Just realize that all of this happened from just putting in a passive skateboard. Imagine all the things we're building now with these smart prosthetics. What could they unlock?"
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] The latent space of possibilities is incredibly wide and also incredibly weird. In all of these examples, the amount of effort that we had to put in for these neural changes has been shockingly low. It's really strange that it works out of the box like this."
+    },
+    {
+      "start_seconds": 608,
+      "speaker": null,
+      "text": "[10:08] Now let's go beyond the nervous system, because maybe this is just some kind of neural-specific thing. We've been studying memory and learning and all sorts of weird systems, for example in molecular pathways—not even cells, but molecular pathways. It turns out that molecular pathways can learn. They have four or five or six different kinds of learning that they can do, including Pavlovian conditioning, but there's something else. In some of these, when you train them, their causal emergence goes up—the kind of thing that people measure, phi D and things like that. Here's what I want."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] I want networks where higher causal emergence makes for better learning, but learning should actually raise the causal emergence. So I want a positive feedback loop. And I want this crazy feature: if I force the thing to forget what it's learned, I want it not to lose the gains that it's made in causal emergence."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] Now, how would I find such a network? These features together make an amazing asymmetric ratchet that points upwards in learning and agency. If we had chemical pathways like this, you could immediately see that they would eventually ratchet themselves up to who knows what level of intelligence and agency. But how would we find such a thing? Surely, if anything, this is a needle in a haystack."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": "Turns out, no",
+      "text": "[15:10] Turns out, no: random—not designed, not selected, and not pretrained—networks are incredibly close to optimal for this kind of ratchet. The fact that random networks are already doing this—they are optimized for intelligence and for agency, locked in an asymmetric spiral—is a free gift from mathematics. It doesn't come from physics. There's no law of physics that has anything to do with this. It doesn't come from selection or biology. There's no history of selection here. It is a free gift from the mathematics of how networks work and how the math of causal emergence works. Remarkable—it is already there at the molecular network level long before you have cells or replicators or anything like that. Random networks already do this."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] So that was going from the neural level down to the molecular level. Let's go sort of mid-level. Suppose I told you that I wanted an autonomous organism. I want it to be motile. I want it to move around. It's not gonna have any neurons, but I want it to make copies of itself from cells in the environment, kind of like von Neumann's dream of a machine that makes copies of itself from stuff it finds in the world. I want it to have hearing. I want it to respond to sound, and I'm only gonna use wild-type frog cells. How much bioengineering and synthetic biology do you think you would need to do for something like that?"
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] Turns out, pretty much none. All I have to do is take some epithelial cells away from the rest of the cells in the early frog embryo. What they do is they self-assemble into this amazing little critter called the xenobot. They run around. If you sprinkle material like loose epithelial cells in the environment, it will collect them and polish them into these little balls, and then the little balls become the next generation of xenobots. And guess what they do? They continue it on and on and on."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] These guys do respond to sound. Unlike frog embryos, xenobots can respond to sound. We know because we put speakers underneath, and they express hundreds of genes differently than embryos, and some of those genes were hearing genes. So that's what told us to check if they respond to sound, and they sure do. We didn't really have to do anything. We didn't have to engineer them in any way. They're totally wild-type cells in an environment that is basically saltwater."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] Now suppose I wanted to have information architecture resembling human brains. It's only made of epithelial cells. It doesn't have any neurons, but I wanted to have information architecture that you get from fMRI data. No problem. They already do that. They don't need neurons for this. This is calcium signaling. If you analyze the calcium signaling and compare it to null models the way people do with fMRI data, it's about the same, if not bigger, level of difference, for example, for Phi-R. And then there are many other features."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] If they have this kind of architecture, then they might as well be able to learn from experience. What would I need to add to a bunch of skin cells so that they would actually form memories of their experience? You guessed it: nothing. They already do that. Xenobots, as we recently showed, can react to at least two distinct kinds of stimuli and form memories that we can then read out at least 24 hours later. So they already learned from the experience. We didn't do a thing. We didn't add any of this."
+    },
+    {
+      "start_seconds": 910,
+      "speaker": null,
+      "text": "[15:10] If I wanted it to swim in more complex patterns—let's say I want something different than standard xenobots—we can make neurobots. How do you make neurobots? You take a xenobot and shove a bunch of neurons in there. You don't lay them out. You don't structure the incipient nervous system. You just ball a bunch of neural precursors into a little ball, stick them inside the xenobot, and let the whole thing develop. The neurons will grow out. They will form a pattern of some sort, and then you get these very cute little guys. We call them neurobots. They're basically xenobots, but they have a nervous system, and they swim in different ways."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] And we're still characterizing what it is that they can do."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] Now suppose you look at all that and say, “But they're embryonic cells. They're very plastic, and amphibians are kind of plastic. I want the same thing, but I want it to be made of adult human cells, not embryonics. You can't use embryonic plasticity. Can't use amphibian cells. I want it to be adult human cells, and I also want it to be able to heal neural wounds in the microenvironment. What would you need to do?” That sounds like an extremely difficult synthetic biology project."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] Turns out, don't need to do anything. This is an anthrobot. What we do is take adult human tracheal epithelial cells. People go in for a biopsy. They sell the remaining cells to a company. We buy them. We put them in a Petri dish. They self-assemble into this little creature that runs around. It has cilia. Just like the xenobots, it can swim around. You would have no idea that this came from human cells. If I asked you to guess the genome, you'd probably guess some kind of primitive organism that lives at the bottom of a pond somewhere. If you looked at the human genome, you would have absolutely no idea that that exact same hardware can make something like this when all we did was take it out of the body."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] We didn't change the genome. We didn't put in any synthetic biology circuits. There are no weird drugs or nanomaterials or scaffolds. Nothing. This is what these cells do when they can't make a human. They make this."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] And if I take a plate of human neurons, grow them on a dish, take a scalpel, put a big scratch through it like that, sprinkle some anthrobots, they can assemble into what we call a superbot cluster. There are probably—I don't know—10, maybe, of them here. Over the next four or five days, they start knitting the neurons across the gap. This is where we lifted them off of the thing. This is what they were doing underneath. They start to heal the neural wounds."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] Now you've seen the stuff with xenobots and anthrobots, and it raises a particularly interesting question. We know when we paid the computational cost for making frogs and humans: in the eons that these genomes were bashing against the environment, or at least that's the conventional story. That's how we pay that cost to design good tadpoles and so on. When did we pay the computational cost of having xenobots and anthrobots and all the things they do? When was that done?"
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] There haven't been any xenobots or anthrobots. We don't know of any historical ancestor that does kinematic self-replication, which is what I showed you the xenobots do. No stage of early human development looks like an anthrobot. The xenobots do have some sort of developmental stages. Around 80, they start to look like this. I have no idea what the heck they're turning into, but they're turning into something. They have different behaviors. Where do their competencies come from specifically?"
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] Because the standard story that we tell about these kinds of creatures is that it's selection. Of course, everything else died out if they were selected to do this specific thing. And you need some specificity. The whole point of evolutionary theory is to have some specificity between the properties of a creature and the history of environments that it faced, the selection pressures. Obviously, not everything is directly selected for. Nevertheless, if you don't have any specificity between what happened in the past and what you see now, that kind of blows up the whole way we explain all of these things."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] Both for xenobots and anthrobots, we have differential gene expression analysis, so we know what all the new genes are that they're turning on that are different from their tissues. And we can do this interesting thing that we can call reverse ecology. We take the transcriptomes. We take the genes that they express. We subtract them from what frogs and human trachea normally express. These are now the new DEGs, the differentially expressed genes. And we ask the following question: If these things were selected for, what would that world be like? What would the homeworld of the xenobots or the anthrobots be?"
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] It's a sort of semiscience, semi-art thing. Could we imagine the homeworld of these creatures where they would specifically be selected for? And you can. We have a pipeline that will actually tell you about this homeworld, and it has certain features. But what is the ontological status of this world? It isn't our world. It didn't exist here. But also, it's not the same as just making up any old fantasy thing because the properties of this world actually would explain the things that we're seeing with xenobots and, in a different case, anthrobots."
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] I think that's kind of weird, and it's sort of interesting what the status of this is. We can sort of infer it, but it isn't this world. Where did they get their properties?"
+    },
+    {
+      "start_seconds": 1219,
+      "speaker": null,
+      "text": "[20:19] What I've been showing you are unexpected properties and competencies of living beings that don't seem to be captured."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] The amount of effort it takes to produce them doesn't seem to be captured by either any kind of a process, a selection process, or some kind of a learning process. So people often say, “There's something special about biology.” Maybe there's something special about evolution that eventually produces things that are incredibly plastic like this. Maybe there's something about the great complexity of life. Maybe there's some kind of quantum thing. There's always some kind of quantum biology thing underneath that we don't know."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] So the way people normally think about bio-inspired technology is like this: biology has some kind of magic, and then we need to figure out what that is and sort of copy it into our technology. So for robotics, for AI, and so on, we're gonna try to copy biology, whether that's neuromorphic computing or whatever. I'm gonna argue against this, and I'm just gonna go over a couple of very brief examples. There's a ton more coming later this year, but I'll show you what we've published so far."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] When you look on the computer science side, it's really the same thing. If you want a good controller—be that a robot, an algorithm, something that's competent—you really have only three options. Somebody could write an algorithm. We could use evolutionary computation, or we can do some kind of training: have a large dataset and train the thing."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] Then I'll talk a lot about this business of moving the goalpost. The reason that I give this talk by asking you first what you would expect and then showing you the thing is that what I learned is that if I just show the phenomenon and then say, “Look, isn't this amazing?” having seen the phenomenon, people immediately adjust their expectations. They go, “Oh, I guess that's what that does then. Fair enough.” And that's it."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] I think it's really important to start with the idea of what you would expect and then see what actually happens, and the delta between what you expect and what happens is telling us that our formalisms are insufficient. We're missing something important."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] Let's agree that some degree of mismatch between the effort and the result would be shocking. For example, if I wrote a little algorithm for balancing graphs or something, and then we found out that, “Oh, by the way, this also works like Microsoft PowerPoint.” Imagine that. You would be shocked. This is not how we code. You expect there's a certain degree of effort that is required for specific computational competencies."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] Now, in the meantime, over the decades, we've gotten used to a lot of stuff. First of all, we've gotten used to the fact that you can randomly mutate code in genetic programming. Apparently, that works. So that was kind of amazing. Now I think nobody's too amazed about it. The kind of random networks that have the kind of order that Stu Kauffman found. Gene regulatory networks and pathways can do learning. They can do probabilistic inference."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] As it turns out, there's morphological computation in simple materials. This is like the Pfeifer and Bongard robotic stuff where you don't have a controller at all. You let the material do walking and things like that. And we've seen deterministic cellular automata that apparently create chaotic dynamics and moving solitons and all of this kind of stuff. And, of course, now we know that next-word prediction and linear algebra can give us language models and AIs that you can talk to and things like that."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] So we can get used to a lot, but the fundamental question is: what do you expect, and what do you get?"
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] Here's an example. Suppose I tell you that I want a short deterministic algorithm. I want it to be designed for the assumption of reliable hardware, meaning it's not going to have any checks to see if any of the things it's trying to do actually work out. So it's just gonna blindly assume that everything works. But even though I'm not gonna include any of that, I still want it to work in unreliable hardware. I still want it to work when things fail."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] I also wanted to do something else that's interesting besides the thing that the algorithm asks it to do—as a side effect. I wanted to implement homophily, which is this biological thing where systems like to be next to other systems that are just like them. I also wanted to do delayed gratification. This is the kind of thing that you see some human children fail: the marshmallow test. So it's the idea that whatever I'm doing, I'm going to my goal, but I can temporarily get further from my goal in order to recoup more gains later."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] So I wanted to do something interesting. I wanted to do delayed gratification. I wanted to work in unreliable hardware. Not gonna put any code for any of that stuff. I want all of it for free. And again, that seems wild. We don't normally code this way. But no problem. Even bubble sort does this."
+    },
+    {
+      "start_seconds": 1525,
+      "speaker": null,
+      "text": "[25:25] Just a few lines of code, and you can check it out here. First of all, it does delayed gratification, meaning that if you actually give it an unreliable medium—a string of numbers where some of the numbers are glued down—when the algorithm says, “Hey, swap the five and the seven,”"
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] One of them just doesn't swap. Without adding any extra code, it actually is able to desort the strings, getting further from the sortedness it's trying to achieve in order to recoup the gains later on and move everything around the bad cell. It also does this homophily thing, which I don't have time to explain here. It's not anywhere in the algorithm. No extra code had to be added for this kind of thing."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] Suppose I want learning capacity in whatever process I have, something right out of the behaviorist's handbook, like Pavlovian conditioning. But I'm not gonna have any memory. That is, I'm not going to have anything in my system that is a specific physical thing where I'm going to store the information needed for learning. Could we do that?"
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] It turns out that, for free, without adding anything resembling a memory register or anything like that, we found learning in gene regulatory networks, in predator-prey equations—so basically ecological-sized learning on the level of ecosystems—and, believe it or not, in models of sentences of logic, so mutually referential logic. This one isn't yet, and neither is this: random electric circuits. So, electric circuits made from analog components randomly. All of these things, to various degrees, offer learning for free."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] More recent work from Emily Ertle in my group is looking at other ways to provide robotic embodiments for static mathematical patterns, and they actually do interesting things like play Ms. Pac-Man and so on."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] Here's where I'm going with all of this. I think this delta between what you would expect to happen and what actually happens is not a property of biology. It's not some special magical thing that biology does. I think it's a universal feature of the fact that we have not captured all of the sources of order when we say design, evolution, or learning. There is something else missing. And that something else is not just for humans."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] A lot of people—you'll hear people say, \"Well, this is just a machine. It follows an algorithm. It doesn't have creative inspiration like I do. I'm a real human. I have creative inspiration. I really understand the things. This thing is just following an algorithm. It's a statistical parrot or whatever.\""
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] I think, when you start to dig into it, that's a very difficult statement to support because we too are, in some sense, biochemical machines. So if you think we have this kind of special feature, you have to be able to say what that is. I think most people agree that the laws of biochemistry don't tell the full story of the human mind, but I don't think our formal models of computation, things like algorithms, Turing computing, and so on, tell a story of even, quote unquote, machines either."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] And then we have to remember that our formal models—and all their limitations—are just that. They're models, and I don't think they well capture what's actually going on here."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] In the last few minutes, I wanna talk about what I think is going on. First of all, what is the free lunch? What's the extra oomph? Here's what I think is happening here. I think, first of all, we have to generalize a notion that we can just call patterns: patterns of paths through various problem spaces."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] Patterns through anatomical space result in shapes, so physical anatomical shapes. Patterns through behavioral space end up as behavioral propensities, competencies of solving problems in traditional behavior space. As we study, there are lots of patterns that navigate physiological state spaces, gene expression state spaces, metabolic spaces, all of these things."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] So metabolism, physiology, anatomy, 3D behavior, linguistic space—all of these things, I think, are fundamentally the same thing. They are a set of patterns, a set of competencies that evolution pivoted through these different kinds of spaces. We've done lots of work specifically on showing how the various tricks that the brain does and the electrical circuitry in the brain come directly from navigating anatomical space as an embryo. Evolution basically co-opted all that stuff in making brains."
+    },
+    {
+      "start_seconds": 1832,
+      "speaker": null,
+      "text": "[30:32] I think the first thing we need is to say there are patterns, and these patterns are ways to navigate very different spaces. I'm trying to unify fields that we think are different. So behavior and neuroscience versus developmental biology and anatomy versus physiology—I think they're all the same thing. In all of these things, we're studying patterns by which these spaces can be navigated. And I think those patterns span a spectrum all the way from..."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] Here's Wiener and Rosenblueth's spectrum in the forties. I have a different one that I put out in this paper, basically leading from just passive, static patterns that don't do anything and just sit there, all the way through various kinds of low-level protocognitive activity and up through very sophisticated navigational patterns that we see as human metacognition and so on. I think that what we're getting for free is, in various systems, somewhere along this spectrum. These things are projected into different spaces depending on what kind of system we've made."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": "Second question",
+      "text": "[35:40] Second question: these are patterns of navigation of diverse types of intelligence. Where does it come from? When I ask most people in my field, \"Where did these competencies come from? If they didn't come from the three things we discussed, where do they come from?\" people say, \"Emergence.\" I say, \"What does that mean?\" They say, \"Just the facts that happen to hold in our one universe. We have one realm.\""
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] Monism is really attractive to people, in particular physicalist monism: the physical universe. We just have to write these down; we get surprised occasionally, and that's it. I think this is a very defeatist and nonscientific attitude. I don't think we can just accept the grab bag of weird facts that happen to hold in our realm. I think we need to do what the mathematicians do."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] Not all, but the majority of mathematicians think that what they are doing is investigating a structured, tractable space of patterns that can be rationally investigated. It is not a random bag of mystery surprises. They're building things like the map of mathematics, where you try to map out what's there. That directly gives us a really wonderful, I think, example of patterns that are not grounded in physics or biology."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] There are tons of truths of number theory and weird facts about formulas that work for every number except for 37, for whatever reason, and so on. But the one thing about those kinds of facts is that they don't depend on any specific feature of the physical world. They cannot be changed by tweaking the constants at the beginning of the Big Bang. There's nothing you can do in physics to either explain or change the fact that quaternions don't act the way that octonions act when you do multiplication and things like that."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] This image is a particular pattern that you get when you visualize the Halley map of this very simple function. That's it. This whole thing comes from this tiny little thing. Where does this specific pattern come from? It could have been anything. It isn't physics. It isn't selection. Nobody selected it. Nobody trained it. Nobody engineered it. It comes from wherever it is that the truths of mathematics come from, and there are tons of these things. It has great specificity, and you cannot simply fire all the mathematicians and hope that the physicists will tell you why these things work that way."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] Here's my proposal. I think that the Platonic space that mathematicians study is much wider than is commonly assumed. I think it has a layer to it that includes the kinds of things we study in mathematics. I think math is the behavioral science of one specific layer of that space: generally low-agency kinds of things, maybe static things like the digits of e that either don't change or, if they do, change on incredibly lengthy timescales. But mostly, they're like rocks. They just sit there, and they give the background to the thing."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] But I don't see any reason why that has to be the end. I think, for example, we already know that small collections of four or five differential equations can define patterns that do Pavlovian conditioning. That means that at least some mathematical objects are already edging into the category that we would call behavioral science, and I think other components of this Platonic space contain other patterns that may play out in behavior space or transcriptional space or anatomical space. But they have functional properties that would be instantly recognizable to any behavioral scientist. We've studied many of these, and I'm sure we've only begun to scratch the surface."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": null,
+      "text": "[35:40] What I think this Platonic space is full of is not just the static facts of mathematics, but other kinds of patterns of diverse levels of agency that are recognizable as kinds of minds."
+    },
+    {
+      "start_seconds": 2140,
+      "speaker": "Final question",
+      "text": "[35:40] Final question: how would you study something like this? In our group, we have a research program that, first of all, tries to formalize and quantify that degree of delta between the effort you put in and what you got out. You've made something, but you get something more than the effort you put in. What is that? What did you get extra in all sorts of interfaces? We make biological interfaces. We make minimal engineered interfaces. We make hybrids and cyborgs and all kinds of things like that."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] And what we're doing by making these new interfaces is we're providing a conduit into this latent space of patterns and seeing what comes out. We provide a new interface that maybe has never existed before, and we see what you get. And this is just the very first part of a probably infinite effort to understand what that space actually consists of. And how do you optimize for what you're gonna get out of that space?"
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] So here's one example. This is a thing we call Mom Bot, and this is a robot that has AI. This is a joint project with Josh Bongard's lab and the Levin lab. What this thing does is it has an AI that makes hypotheses. It can do electrical, optical, vibration, temperature, chemical. What stimulus would you have to apply to cells to make a biobot that has a desired shape and function?"
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] To my knowledge, this is the first piece of embodied AI robotics that is able to work in synthetic morphology—not chemistry or synthetic biology, but actually synthetic morphology. This thing is in our lab making different kinds of Xenobots."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] But there's something interesting here. I said it's embodied. It doesn't move through the physical world, and so you might say it's not embodied. It's like a language model that sits in the server on the floor somewhere. It doesn't have a body. Even though it doesn't move through three-dimensional space, what it does do is explore the space of form and function—anatomical morphospace—using the living tissue as the interface."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] I'm sure there are more, but here are three perspectives on this thing. First of all, you could say that this is a tool. The Mom Bot and its AI are a tool to communicate between the needs of the engineer and the collective intelligence of the cells. It is a translator interface. So that's kind of a more passive view on things."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] You could also say that no, actually, it's the agent, and what it's doing is using the frog cell tissue to explore the space of form and function. It is actually an embodied AI that's able to move around and make decisions in anatomical space."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] Or, actually, you could say the whole Mom Bot is a prosthetic for the intelligence of the Xenobots. Kind of like that skateboard for the turtle, Mom Bot allows frog cells to do things they would never otherwise have been able to do."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] So here's what I think bio-inspired really means. I think that both biology and the technology that we make are inspired by something that isn't captured in either one of these fields. What I think is happening is that there is a latent space of patterns. I think these patterns come through the interfaces that we build. I've used the term ingression for it. It's Whitehead's term, and he used it kind of differently, but I think it's pretty good for this. I think what we're seeing is ingression of these kinds of patterns."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] And so now we can come back and talk about inspiration. I think we have to start thinking about patterns of form, behavior, physiology, and computation as an invariant. I think this is a common thing across different disciplines. And I think that we have a structured space from which currently unexpected competencies—I'm not saying they're gonna be forever mysterious; I'm just saying they're not captured by today's paradigms, which is what we're trying to remedy; we get a lot of surprises, but the goal is to minimize that—are drawn into specific physical interfaces."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] I think whenever we make anything—embryos, cells, biobots, AIs, whatever, simple machines—what you've actually made is an interface into this Platonic space. You've made a thin client, basically, that can host a whole range of patterns. So our human body hosts an incredible number of these patterns on a cellular level that are projecting into physiological spaces and transcriptional spaces, not to mention the big ones that are running our language centers and so on."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] So I think all of these physical embodiments are a kind of thin client. They're an interface hosting these patterns that come at very diverse levels of agency and intelligence, like an ecosystem. All of these things are sort of hacking each other and cooperating and competing with each other and so on."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": "I think the research program is this",
+      "text": "[40:48] I think the research program is this: We have to map the space. We have to learn to optimize or suppress these ingressions. This is not about finding bugs. This is about finding unexpected competencies that are not reflected in the architecture or the algorithm or anything else that you think you did. So I don't think we make intelligence. I think we facilitate its ingression to different degrees."
+    },
+    {
+      "start_seconds": 2448,
+      "speaker": null,
+      "text": "[40:48] I was told that in this audience there are some artists and so on. So I think this is actually really important."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] I think a big brake on this kind of progress in this field is a limitation of wonder. I've been talking about this stuff now for about a year, and I noticed what happens. People, especially computer scientists, are really good at adjusting priors. When you show them something really weird, they instantly are able to say, “Oh, well, I guess that's what it does then.” And that's the new floor, and that's no longer amazing."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] It's like what happens in randomized trials for drugs. They always have a placebo control. So you get stuff like, “The placebo improved twenty percent of the patients. The drug improved forty percent of the patients.” So you subtract those two and say, “Good. Our drug is twenty percent effective.” But once you do that, you've completely lost track of the fact that—wait a minute—the placebo did well in twenty percent of the patients? That's amazing. Why did that work?"
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] So I think readjusting our expectation all the time, moving the goalpost like that, and just saying, “Well, I guess that's what things do,” really prevents discovery in this space. I think it's very important to keep track of what we expected to happen and in what way the formalisms that drive our expectations are limited."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] I think what's happening here is that inspiration is a good way to conceptualize that whole continuum. Habituation doesn't sound like much of an inspiration. But if you're a four-element chemical network, that is a very significant inspiration to get. So these inspirations are across all the scales, from incredibly minimal deterministic things up through human geniuses and so on."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] We certainly, I think, are the beneficiaries of these, but I wouldn't feel too special because “machines” get them too. I think inspiration goes all the way down."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": "One final crazy idea",
+      "text": "[45:55] One final crazy idea: I don't think we are primarily physical beings that are sometimes affected by patterns. You might think that we're physical beings. The laws of physics and cybernetics and so on determine how we work. And then every once in a while, we host a pattern that changes things up. I don't think that's what's going on here."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] There's this paper on thoughts and thinkers with Chris Fields and then this thing in IAI that I put out on patterns. I think, actually, we are patterns. And we project into the physical world through our bodies. Because thoughts are thinkers, meaning there's a symmetry, there is no sharp distinction between active agent and passive data. Thoughts have other thoughts. All of this basically has a two-part dynamic, which includes physical interfaces but also this incredible space of beings, including ones as large as ourselves and possibly much, much larger."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] So what I think might be happening—we don't have real data on this yet, but this is one of the things we're looking for—is this notion that when we get these inspirations, it's not that we're searching a passive space for answers that may come out cheaper than the effort we put in. Some of that cost might be actually paid for by the patterns themselves who are reaching out to the problem-seeking agent. In other words, there could be a symmetry here where the answer to some problem is trying to get found as much as you are trying to find it."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] And so now we're all the way back to the beginning of the experience that human geniuses often verbalize, which is that they didn't do all the work and that, in some cases, it's the symphony or the novel or the poem or whatever it is that found them. So I think that kind of symmetry should be looked for."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] We have a symposium on this. There are so many great talks here. Most of the folks here don't necessarily buy into all this stuff that I just told you, but they have other ideas about all of this, which are very interesting. You should check it out."
+    },
+    {
+      "start_seconds": 2755,
+      "speaker": null,
+      "text": "[45:55] We know that pretty much any combination of evolved material, engineered material, and software is some kind of viable agent: cyborgs and hybrids and every kind of thing. The natural world that Darwin called “endless forms most beautiful” is like a tiny dot in this enormous option space. This is the future in which we're going to be living in the next few decades. It's not going to take very long. And all of these new things—we have no idea what they're going to pull from the space of possible competencies."
+    },
+    {
+      "start_seconds": 3051,
+      "speaker": null,
+      "text": "[50:51] We try to work out how we're going to live with each other when everybody has different implants and different sensors and effectors, and how we're going to have a positive ethical symbiosis with other beings who are not on the same tree of life as us at all. Where do their cognitive properties come from? Where do their goals come from? Where do their dreams and their preferences come from?"
+    },
+    {
+      "start_seconds": 3051,
+      "speaker": null,
+      "text": "[50:51] Understanding that, I think, has massive implications beyond engineering, beyond AI, beyond understanding evolution. It has implications for ethics and for us as a mature species going forward to really understand what it is that we are. I don't think we're physical beings that are well described by the formalisms that we've developed to date."
+    },
+    {
+      "start_seconds": 3051,
+      "speaker": null,
+      "text": "[50:51] I'll thank the people who did some of the work that I showed you today and lots of amazing collaborators. There are some disclosures here I have to do. Here are some companies that have licensed some of the stuff that comes out of our lab."
+    },
+    {
+      "start_seconds": 3051,
+      "speaker": null,
+      "text": "[50:51] Thank you for listening."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-4bc5ca8531b6f246.txt",
+  "text_sha256": "ee1db4c4c6b78784f6e0ea1d0bc13e1af2d74a18cc0bf5945f29ae82dd584aad",
+  "word_count": 8595,
+  "segment_count": 121
+}

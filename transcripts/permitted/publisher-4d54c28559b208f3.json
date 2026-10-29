@@ -1,0 +1,181 @@
+{
+  "source_url": "https://thoughtforms-life.aipodcast.ing/conversation-with-benjamin-lyons-mark-blumberg-and-karen-adolph-1-motor-development-and-cognition/",
+  "title": "Conversation with Benjamin Lyons, Mark Blumberg, and Karen Adolph 1: motor development and cognition",
+  "publication_date": "2025-06-03",
+  "video_ids": [
+    "91KLqjw2W38"
+  ],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official podcast category: Conversations and working meetings",
+  "tags": [
+    "Conversations and working meetings"
+  ],
+  "transcript_quality": "This transcript is automatically generated; we strive for accuracy, but errors in wording or speaker identification may occur. Please verify key details when needed.",
+  "host": "Thoughtforms Life Podcast",
+  "language": "en",
+  "transcript_id": "publisher-4d54c28559b208f3",
+  "retrieved_at": "2026-10-29T09:14:45.747443+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[00:00] Benjamin Lyons: While we're here, a while ago I noticed a bunch of similarities between the writing of Esther Thelen, who studied development in infants, and the kind of work Mike was doing studying development and morphogenesis. Esther Thelen was associated with dynamic systems theory; Mike was associated with collective intelligence theory. Five things that really stand out to me are the idea of development without instructions. There's nothing in the genes or brain telling the system what to do. The system figures it out anyway. That's able to happen because parts and collections of parts seek attractor states or goal states. This seeking is able to achieve coordination rather than conflict because there are linkages between the parts and between the collections that turn individual parts into functional units. In collective intelligence theory, these linkages are called cognitive glue. What you see as a result of this is that development is consistently able to achieve normal outcomes despite obstacles and perturbations. One side effect of this is that systems will exhibit these interesting hidden skills, as Thelen and Ulrich called them, or hidden competencies, as Mike and co. have called them. Dynamic systems theory was all about studying how human infants get behavioral and cognitive competencies. Whereas collective intelligence theory has been very much about morphogenesis: how does a single cell turn into a multicellular organism? Even though it's very different on the surface, it ends up at the same place when you go through it. That suggests that there's a deeper theory of development we need to explore and discover. I reached out to Karen because I saw on Wikipedia that Karen had studied under Esther Thelen, and then Karen reached out to Mark to help address some neuroscience questions I was asking. What I was hoping we could accomplish today is, first, just explore similarities and differences and how you all understand development. What I'm hoping is that we can pretty easily import and export ideas between each other. That'll probably be what we spend most of the time on. I'm also interested in motor behavior as an example of collective intelligence with something like tension sharing as the cognitive glue. We'll be able to explain those terms. And then finally, how do we combine ideas and do experiments? I don't work in academia, so I don't know how easy it is to import and export ideas and techniques. But I think ideally we'd find a lot of similarities and figure out how to do that. Mike sent me the other day something he did with Peter Smiley about resource allocation, how that affects morphogenesis. Can we do the same thing in motor behavior? That's the kind of thing I'm interested in. At that, I'd like first Karen to introduce herself and outline how Karen understands development. Then we can have Mark do that and then Mike do his bit. And then we'll see where we are from there. I'll stop sharing and turn it over to you, Karen."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[02:44] Karen Adolph: Michael, I was also a student of Eleanor Gibson. I'm very much just a systems person. I have not found dynamic systems to be especially helpful, although I borrow freely the dribs and drabs that do work. I would call myself an ecological systems or a developmental systems person. I am a professor and teach at New York University. My primary affiliation is in psychology, and I have appointments in neuroscience, applied psychology, and in the medical school in child and adolescent psychiatry. I have collaborators across the university. My research is about behavioral development, literally from eyes to toes: how babies learn to get their eyes on the right thing at the right time, to control manual interactions with objects or with their own body, to control social interactions with others. I'm best known for my work on posture and locomotion, the living expert on infant crawling and walking. I also spend at least half my time running the Databrary project, which is a web-based library for the open sharing of research video. I build tools for human video annotation, computer vision, machine learning, and policy frameworks for controlling access to enable open sharing of video, which to my mind captures the richness and complexity of behavior and the important but usually subtle details of the surrounding context. I use video to increase transparency and reproducibility. People share their raw research videos, but also use them for teaching and for how-to: I want to do a study putting motion-tracking markers on children's arms, or EEG caps on children's heads, or convince someone to go in a magnet, or do a parent-report questionnaire — How do you do it? What does it look like? Or how come we're all using the same parent-report questionnaire, but you're doing it differently than me? So that's what I do."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[06:13] Michael Levin: That's great."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[06:14] Karen Adolph: And my view of development: none of us know how development works. So I have this general approach. I knew Eleanor Gibson and Esther Thelen both really well. Esther thought there could be one answer and dynamical systems could be it. As soon as I tried to apply it to my own work, and even for the work Esther was doing when I was in her lab, it doesn't work very well. It's not predictive; you have to really selectively choose the things that work best with that approach. So that's why I'm not a complete devotee. Is that the word?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[07:17] Benjamin Lyons: Thank you. Mark, why don't you go ahead and we'll have Mike and then we'll carry on from there."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Mark Blumberg",
+      "text": "[07:24] Mark Blumberg: My name is Mark Blumberg. I'm a professor at the University of Iowa and chair of the Department of Psychological and Brain Sciences. I'm a behavioral neuroscientist, and I take a developmental perspective on behavioral neuroscience. I was at Indiana University; Karen and I actually overlapped way back then. I was influenced by Esther Thelen, and I came out of a physics and philosophy background. I was aware of the importance of dynamical systems for physics, and I started applying it to the work I was doing back then. But I, like Karen, came to the realization that it was very limited for generalizing beyond certain types of behavior. It was a very restricted approach. Through graduate school and postdoc years and beyond, I much prefer a developmental-systems approach, broadly stated. Developmental systems is just a broader view. Michael, I was watching one of your podcasts and reading one of your papers recently, and I think your view of bioelectric signals as epigenetic — as part of the epigenetic process — is a much better fit for developmental systems than for dynamical systems. Developmental systems negates the primacy of genes as controlling and dictating developmental processes. It takes a very evolutionary approach and species-typical differences very seriously, but from a developmental perspective it's interested in the process of development and not just instantiation in genes. I think it fits very nicely with many of the things you've been promoting. My own work: I've written about these things. I have been very interested in different morphogenetic processes and different morphologies. I wrote a book about intra- and inter-species varieties of biological forms, where they come from, instinct theory, and related topics. I study the development of brain and behavior and the role that sleep plays in spontaneous activity, creating opportunities for learning about your body and learning how to move a body in space. There's a lot of overlap between what you're interested in and what Karen and I do. I'm happy to be here and participating in this conversation."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[10:15] Benjamin Lyons: Thank you very much. Mike, why don't you go ahead and summarize yourself and then we'll see what interesting things we can discuss from there?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[10:21] Michael Levin: Sure. Thanks, Ben, for pulling us together. I'm really happy to talk to all three of you about this stuff. My background is fundamentally computer science, and I'm interested in intelligence, both natural and artificial, and ways that minds become embodied in the physical world. We study all sorts of weird things, some of which are living, some of which are not, some of which are combinations of living and non-living systems. One of the major model systems that we use to understand the scale-up of intelligence is cellular collectives. During embryonic development we study development, regeneration, cancer suppression— all of these aspects of the same thing, which is the ability of groups of cells to navigate the space of possible anatomy. There's this anatomical amorphous space; they navigate the space. Typically under normal circumstances, they start from a known starting position, that would be the egg, and then they reach a known species-specific target morphology, and that's the journey they normally take. What's interesting about that process is that if you try to put them in novel circumstances—I'm talking about massive deviations of both the starting state and things that happen along the way—we find that the navigation of that space is clever. They improvise novel solutions to problems that they've never seen before. They do things that you would expect to see on an IQ test. If you prevent them from reaching their standard goal, they will improvise new goals to reach. They can make, with exactly the same genomics, Xenobots and anthrobots, all kinds of weird things without touching the DNA whatsoever. We make tadpoles with eyes on their butts that work but don't connect to the brain. What I was interested in is trying to understand how we can recast this not as a progressive emergent phenomenon from the working out of biochemical rules, but what it really looks like, which is a decision-making, problem-solving navigational process. The model system that we have for this is to think about where brains got their tricks of navigation and counterfactuals. It turns out that the mechanisms that brains use—ion channels, neurotransmitters, and electrical synapses or gap junctions—are extremely ancient. This idea of using electricity as a kind of cognitive glue to bind active individual cells into a system that has a much larger goal state—individual cells having tiny goals around metabolics and physiology—produces, for example, a salamander limb. There are many examples where you can deviate it from where it wants to be. It will work hard to get back there, perhaps through novel paths, and then it stops when it's done. This is shape homeostasis. Basically, what we've done is take the hypothesis that what evolution did in creating nervous systems was to take a system that was already navigating a different space."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[13:11] Michael Levin: Instead of moving the body through three-dimensional space, what it was doing before was moving the configuration of your body through anatomical space. In producing neural-driven behavior, two major things happen. It pivoted spaces. Once muscles came on the scene, it went from telling cells how to move your configuration. That happens, but the additional thing is that it can now apply those things to navigate the three-dimensional world. There was a massive speed up. The developmental stuff is much slower. But otherwise, as we've seen, we can take almost any paper in behavioral neuroscience. We even made a tool to do this automatically. If you replace the word neuron with cell, replace millisecond with minutes, and make a couple of other tweaks around the actual space, you get yourself a developmental biology paper that makes perfect sense. This is what we've been studying: the symmetry between these two fields. What it's allowed us to do is to develop techniques where we communicate with and target the memories of the cellular collective. So if you want to understand why a regenerating flatworm normally has one head, we can now image it. We've developed tools to image it the way that people image brains when they try to do neural decoding. We can see the bioelectrical pattern that encodes that you should have one head. Then we can rewrite it and incept a false memory into the tissue saying, no, you should have two heads. Those cells not only make two heads, but it's permanent. We don't change the DNA, but in the future, no matter how many times you cut that worm, it always keeps the change. We have computational models of how at least some of these memories work and how to rewrite them. That becomes therapeutics for birth defects. We've shown that we can override even pretty nasty genetic defects like Notch mutations that normally completely wreck the brain and the central nervous system. You can overwrite that by writing in better memories of what the three parts of the brain are supposed to look like, and many other applications in limb regeneration, birth defects, cancer suppression. That's the idea. We try to gain control over the behavior of that system in morphospace by learning to understand and rewrite the memories that it typically has. We have some work on changing its boundary of the world and that leads to cancer. That's my shtick."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[16:04] Benjamin Lyons: Cool. I do want y'all to discuss as much as possible. So if there's anything Karen or Mark wants to latch onto or discuss how that relates to their own work, they can ask some questions. Otherwise, I can throw some prompts out there and we can carry on that way."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Mark Blumberg",
+      "text": "[16:18] Mark Blumberg: I'd like to get your thoughts, Mike, about how your ideas about collective intelligence relate to older ideas about emergence. This sounds like a form of emergence. I'd like to know how you think what you're saying is different from emergence theory and things of that nature that have been around for a while."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[16:40] Michael Levin: Emergence, the philosophy of emergence is a whole other thing. I don't love the word emergence; that's a separate issue. The difference with previous theories is that this is much more specific. This allows us to make rational changes of growth and form. We now know enough by porting things from neuroscience and we steal everything. We've used perceptual control techniques, active inference, perceptual bistability, all of these things. We can make worms that exhibit the Necker cube phenomenon, where competing patterns occur. We can make worms where all the pieces can't decide if it should be one head or two and they flip back and forth, because they have a pattern that can't decide which is the correct pattern. All of this is the idea of emergence: if you just have a lot of cells and they follow a small number of local rules, eventually something complex will emerge. It's like cellular automata; that's true enough, and that does happen. The problem with feed-forward emergence is that it doesn't tell you how to make changes, because if you want something completely different — let's say you want a tadpole that's left-right inverted, all the organs on the wrong side — what do you change in the DNA? These things going backwards: the problem with emergence is that it only works in one direction. We don't know how to invert it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Mark Blumberg",
+      "text": "[18:15] Mark Blumberg: That's why you bring in feedback and the concept that you're invoking homeostasis as part of your process. But I also get a strong sense of a goal-directedness to your thinking. When you have a situation like this with a planarian, where do you think the goal is being instantiated in the system?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[18:36] Michael Levin: With any kind of homeostatic process this has to have a set point stored because you're trying to reduce delta to that set point. We can now literally see it. I have videos I can show you; we can image this now. The goal is actually stored in the electrical network. In other words, there is a voltage pattern across the cells that is telling you what the correct state is going to be. If you deviate the body from that correct state, the cells will work really hard to get to the electrical pattern. For example, in the early formation of the face, long before any of the genes come on to pattern the face, where you have just a plain neuroanterior neurectodrome, there already is a bioelectrical pattern that tells you here's where the eyes are going to go, here are the placodes, here's the mouth. It tells you where all the organs are going to go. That is the set point towards which the cells are trying to minimize error. If you change that pattern, they will build something else. They will happily build something completely different if you change that pattern. There are issues of scaling. The other thing that electrical networks allow you to do is scale your goals. If you're a single cell, you have little tiny goals. If you become an electrical network through these gap junctions, we now have computational models that show how the actual goal state that you can pursue becomes much bigger. You can now pursue massive goals. No individual cell knows what a finger is or how many fingers you're supposed to have, but the collective absolutely does. That arises through the computations done by this electrical network that literally stores a visible, rewritable prospective memory of what it is trying to build, which is changeable. By changing the electrical properties of that network, you can also control things like cells that electrically detach from that network becoming cancerous. They basically are just amoebas; the rest of the body's external environment as far as they're concerned. You can actually shift that. We've done this as a therapeutic to forcibly reconnect cells, where they then again have this mind meld with the rest of the cells. They're working on building nice skin, nice muscle, instead of going off and being a metastasis. The goal states, at least in the cases we've worked up — about half a dozen — we can see and we can rewrite. You can actually watch it develop from one cell, or at least in the frog embryo you can see how this electrical pattern evolves and controls downstream events."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[21:12] Benjamin Lyons: Something I want to bring up: the motor behavior and morphogenesis connection is super interesting. Mike talked about the importance of how these systems find novel solutions to novel problems. Karen's work on infant crawling and walking is super fascinating and everyone interested in development should check it out. One example I want to ask her about in this context is the phenomenon of diaper walking. Infants can walk in diapers and we all take that for granted, but obviously they didn't evolve to do that. There must be some problem solving going on in the system to produce that kind of successful motor behavior despite that novel constraint. How does the system produce an intelligent response to that constraint that evolution could not have prepared them for? I think you're muted."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[22:13] Karen Adolph: Mark and I were talking about that. We were talking about what, why do lay people and some people who maybe should know better think that so much could be built in through some evolutionary process rather than has to happen in real time over individual ontogeny? Let me see if I can find something to show you guys. That's a better example than diaper walking, as you put it."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[23:16] Benjamin Lyons: I'll mention while this is coming up."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[23:18] Karen Adolph: This is okay. Yeah, like this. This can work."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[23:30] Benjamin Lyons: I'll mention briefly that I totally agree about the limitations of dynamic systems theory. I'm glad we're all past it, because then I can say that one way of thinking about collective intelligence theory is that it can be thought of as a generalization of dynamic systems theory, solving some of the problems that the paradigm ran into by more fully embracing autonomous subsystems and focusing more on those linkages as cognitive glue. I agree totally about those flaws, and I think we're going to be able to move past them with some of these new ideas."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[24:01] Karen Adolph: I'll just share my screen. This is infant walking. It is in a diaper and it is enclosed. Actually a diaper is a very small perturbation, so it doesn't really matter. But this is a larger perturbation. This is something that a baby has to figure out. This is an even larger perturbation. You could say that there's problem solving happening as the baby is modifying its gait before approaching the slope. But this really looks like problem solving. The baby's generating information and figuring out a new solution. We can tell you that that's a new solution because no baby has walked over narrow bridges ever in their life. They can figure that out too. So already you can see the baby is changing the way that he walks, the patterning, doing lead-alternating stepping. And then finding other ways to do it when that way is impossible. And that's something that actually has been really hard for embodied AI to solve, at least to my understanding and the roboticist collaborators that I've worked with. So when you were talking, I was like, yeah, that sounds like a baby, which they do all the time. That example I just showed you is locomotion, but it could be anything. It's moving, behaving with any part of the body in any context. And it is not innate in a creature like a human baby that takes weeks and weeks, something like 20-some weeks for a baby to actually become accurate. And for animals that can walk at birth, so-called precocial locomotion, they walk right over the edge of a meter-high drop-off, an impossibly risky surface. So this kind of ability to learn to learn, figuring it out in the moment, and what did you say, Michael? If you can't meet your goal, then come up with another goal so you have something to do. That's what infants—well, I mean, I know human infants, but other animals do it. All the animals do it. Bugs do it. And that's the really cool thing: being able to figure out a solution on the fly, on the spot to something new. It's not just RL. It's not just stimulus generalization. And at least for humans, and for maybe goats, they'll come up with something else. Is that a new problem and a new solution?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:07] Michael Levin: That's very cool. We see a lot of that stuff happening in Morpha space where they will improvise."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[28:16] Karen Adolph: One thing that I was showing you, let me see if I have an outline I can show you."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[28:29] Benjamin Lyons: Mike, I do want to respect. So are we at the limits of your time?"
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[28:33] Michael Levin: Hold on. Let me see. I have about five minutes. I can be late to the next thing."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[28:44] Karen Adolph: I'll try to take one of them. This slide is just showing what different things you have to be able to do for functional walking, say. Moving the legs is not that smart because every animal does it prenatally. They can move their legs. Supporting body weight is morphology or physiology. The precocial animals can do that shortly after birth and the altricial animals take a long time. All the rest of this involves something psychological; it involves combining perception and action. Now you need a pretty decent brain, but maybe not, a bug could do it. Everything up through the yellow you could do in an open field. Modifying gait, perceiving affordances, requires adaptation to a continually changing environment, which is what I guess all the cells, all the bodies, all the animals are dealing with. So you have to be able to do that. Anyway, that was my one minute. Maybe what you're showing, Michael, is that the bottom stuff is working the same way as the top stuff. I was going to give it away for free and then screw you on the yellow and the orange, the orange and the red. I'm not giving that up, but it sounds like you're not giving any of it up, which is fun."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[30:35] Michael Levin: Some of these things go all the way — we found in gene regulatory networks six different kinds of learning, including Pavlovian conditioning. It comes out of the math of how genes turn each other on and off. It hasn't evolved; real biological networks do it a lot better, but even random networks do it a little bit. You can see the process of evolutionary optimization, but it starts really early. You don't need a brain; you don't even need a cell. The process of networks of pathways or gene regulatory networks already has certain capacities. People have shown probabilistic inference. Walter Fontana and Yarden Kath showed probabilistic inference in the chemical circuits. Some of this stuff is right at the beginning — you're getting some of these things."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[31:29] Benjamin Lyons: That's awesome."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Karen Adolph",
+      "text": "[31:31] Karen Adolph: I don't know. I know you have to leave and I'm struck. One thought is Mark's marrying me, so he's stuck with me, but Michael, you're not. I think you might be just too smart and learned for the likes of me. All the places where your work goes, that's very, very far outside of my expertise. So I'm not sure if I have anything to offer you. You likely have tons to offer me, but it might be beyond my powers."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[32:09] Michael Levin: There is a massive need in regenerative medicine in general to come up with better ways to communicate with, motivate, and behavior-shape the outcomes that we get. We're really bad at this right now. That's largely because most of biomedicine is focused on the hardware. Everybody's interested in genetics, everybody's interested in protein rewiring, CRISPR, these kinds of things. They're the hardware. Beyond that, all of that stuff and the genetic information, everything else is basically interpreted by the cellular networks as a kind of prompt. It isn't a direct instruction of any kind. They're prompts for improvisation. From the kind of thing that we can get from your work are better ways to modulate and change what the system is doing. By understanding what I think of are literally psychological or psychobiological principles of how things make decisions and why they take certain paths at certain times and why they fight. We see this all the time. We try to do things. Sometimes the cells resist. Sometimes they don't, depending on what you're doing. Sometimes they find the things that — we literally have examples where there will be a battle of competing models. One of the things we've done is induce ectopic eyes in other places of an embryo. If you impose a particular bioelectrical pattern, that's basically the \"make the eye\" pattern, then you stand a pretty good chance of getting an eye on the gut or in the tail or wherever. Before that happens, there will be a competition between that pattern and the pre-existing pattern, which says, no, you're supposed to be skinned. Depending on whether the pattern put in is sufficiently convincing to the cell, sometimes it takes over and you get an eye. Sometimes it gets wiped away and you just didn't have the impact you were hoping to have. Anything that we can learn from the kinds of work that you do about how networks like this pay attention to the world, how they choose what the valence of their different stimuli are going to be, how they make decisions, and just in general the creative problem-solving aspect is incredible because we see them doing it and we understand how they pursue memories that they either have or that you've given them. Sometimes that improvisation part is still very much unclear. We can see what happens, but how did they know to do this as opposed to a million other things they could have done, which would not have worked? That is completely open. We have a lot to learn from the science of behavior and the studies of intelligence and problem solving."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Benjamin Lyons",
+      "text": "[35:07] Benjamin Lyons: Fantastic. That is awesome. The limit of everyone's time. I want to thank everyone for being here. I will follow up with each of you because I want this to go places and there's a lot to do. I will be in touch and thank you all so much."
+    },
+    {
+      "start_seconds": null,
+      "speaker": "Michael Levin",
+      "text": "[35:19] Michael Levin: Thank you so much. It's great. I'm very happy to learn about your work. It's awesome. Ben, as you make these connections between us, please keep us surprised and let's do it. Anything that you guys can dream up as a behavioral experiment, I can pivot into morphospace and we can try it in the lab. We can try to make these things work. So let's think of some cool experiments and maybe we can try them. In fact, there are multiple scales. We can do it in anatomical space, in transcriptional space, in physiological space at different scales of organization. I think that would be a lot of fun."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-4d54c28559b208f3.txt",
+  "text_sha256": "b114b0f5fa776704fe6a0f5027c4d4e5cc50e3ac101d2677fd789c4161a7c571",
+  "word_count": 4892,
+  "segment_count": 31
+}

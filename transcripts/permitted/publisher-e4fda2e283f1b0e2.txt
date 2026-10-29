@@ -1,0 +1,3483 @@
+Recording. So Welcome to
+
+the Robert PTEN distinguished lecture series.
+
+My name is Karen and I am
+
+the Director of the Cognitive Science Laboratory
+
+and it's my pleasure to welcome you to
+
+this prestigious lecture series.
+
+Sum. Before we introduce our distinguished speaker,
+
+I would like to give you overview
+
+of this particular event to live with the history of
+
+the event and why
+
+this event became such a memorable event.
+
+Robert Chen distinguished lecture has been
+
+bringing eminent researchers from all
+
+over the world to speak at
+
+the Coordinated Science Laboratory 1907, 1979.
+
+It is just one of the lasting legacies of the format.
+
+Currently do science lab directors,
+
+RPGN, who started the lecture serious.
+
+Professor Robert Chen was CSL director from 1973 to 1983,
+
+a time when the laboratory emerged as
+
+the leader in semiconductor materials and devices.
+
+During this period, CSL became one of
+
+the first universities and
+
+laboratories to begin the research in molecular beam,
+
+epitaxy cell and metallic
+
+organic chemical vapor deposition.
+
+Valuable new purchases for
+
+growing semiconductor crystals.
+
+So this is truly our tremendous legacy
+
+of the Cognitive Science Lab.
+
+Professor Chen also showed
+
+long-range vision in history search with professor Fang,
+
+cup, prepper attack and Garnaut meet, met.
+
+So he published their seminal paper
+
+on system level diagnosis.
+
+The rules are one machine can diagnose another one.
+
+There model, known now as the PMC model,
+
+had a major influence on
+
+the development of fault tolerant computing.
+
+Ask the Professor chance that in 1983,
+
+the Coordinated Time distinguished
+
+lecture series was renamed
+
+to robot PTEN Distinguished Lecture Series in his honor.
+
+Now, it is my great pleasure to
+
+introduce Professor Max back in ski,
+
+who will be introducing our distinguished speaker.
+
+Max floor is yours.
+
+Thank you very much, Clara.
+
+Hello everyone. So we are very pleased to welcome
+
+Professor Michael 11 as a rubber teach and lecture.
+
+Michael has received his PhD in 2000 from Harvard.
+
+He was working on molecular genetics,
+
+but he also has background in computer science.
+
+Here. Tufts University's 2009,
+
+where he is now Distinguished Professor and a
+
+Vannevar Bush Chair and 2016,
+
+directing the Allen Center for discovery at Tufts.
+
+Michael's research is the intersection of
+
+systems biology or intelligence,
+
+biophysics and computation.
+
+In particular, he and his group
+
+have been investigating ways of
+
+understanding communication and decision-making and
+
+cognition between cells in not only neuronal assemblies,
+
+but also in other tissues.
+
+So generation. And the bus,
+
+the ability of transcending
+
+classic notions of machines or computers in order
+
+to understand better the role of structure and function,
+
+growth and form in in living organisms.
+
+Reason. Michael has been featured in
+
+a fascinating article in The New Yorker about,
+
+about his research and his formative experiences.
+
+So I recommend finding and reading it.
+
+So without further ado,
+
+I give the floor to Michael
+
+and we're going to have a Q
+
+and a after the talk as he has requested. Thank you.
+
+Thank you very much.
+
+Thank you for the kind invitation and
+
+the opportunity to share some thoughts with you.
+
+Hopefully. Everyone can see the slide.
+
+So yeah, so if
+
+anybody wants to get in touch with me afterwards,
+
+you can reach me here or find any of the primary papers,
+
+but which I'll be talking and I have
+
+to do two disclosures upfront.
+
+These are two to spin off
+
+companies with which were associated.
+
+So the main points
+
+that I'd like to transmit today are these.
+
+First that fundamental advances and new biomedicine
+
+will require understanding the collective intelligence
+
+of cells and tissues.
+
+Problem-solving agents operating in various spaces.
+
+And that a key medium for
+
+the computations that are required
+
+for this is non-neural bioelectricity.
+
+This is a kind of physiological software layer
+
+that sits between the genome and the functional anatomy.
+
+And that cracking this bioelectric code
+
+will enable a whole range of
+
+approaches we call electric cuticles
+
+for novel applications in things like birth defects,
+
+regenerative medicine, cancer, and so on.
+
+But also really important is beyond biomedicine.
+
+The fact that the plasticity of
+
+this biological software enables an enormous class
+
+of synthetic organisms which shed light
+
+on very deep concepts such as the nature of cognition,
+
+the evolutionary origins of form and behavior,
+
+and even provide a roadmap for
+
+an alternative approach
+
+to general artificial intelligence.
+
+Most of the talk and can be boiled
+
+down to about two sentences
+
+that I'm going to unpack here,
+
+which is that like the brain,
+
+all of the body tissues form
+
+electrical networks that make decisions.
+
+These are decisions about dynamic anatomy.
+
+And understanding this kind of
+
+non-neural collective intelligence is going to
+
+impact the many areas including biomedicine,
+
+robotics, AI, and even ethics.
+
+And I want to, I'm showing you
+
+this five legged frog up front because I want
+
+to point out that you're going to see
+
+some very unusual creatures shortly.
+
+And none of this is Photoshop.
+
+These are all real life animals that
+
+are exist in our lab as attempts for us to,
+
+to prove, proven, and
+
+refine the kinds of hypotheses that we work with.
+
+So let's take a look at
+
+first some fundamental knowledge gaps in the field.
+
+And these revolve around
+
+this issue of anatomical homeostasis,
+
+which is really the, the barrier to some,
+
+some very transformative
+
+advances in regenerative medicine.
+
+If we ask what is the endgame
+
+of the field of regenerative medicine?
+
+You know, what, what, what are,
+
+what are we looking for after which
+
+we can consider ourselves to be done?
+
+One could say that
+
+what we're looking for is an anatomical compiler.
+
+The idea is that in the future
+
+you should be able to sit down in front of
+
+a computer and design
+
+the kind of animal or plant that you want.
+
+You should be able to design it at the level of anatomy,
+
+not at the level of pathways,
+
+but you should literally be able to draw
+
+the kind of anatomical structure that you want.
+
+Here I've drawn the three-headed flatworm
+
+that has this nervous system structure here.
+
+And the way that we do now with
+
+computer aided design for
+
+auto parts and things like this.
+
+And if we really knew what we were doing,
+
+the system would compile this anatomical description into
+
+the set of stimuli that would have to be given to
+
+cells to induce them to build particular thing.
+
+Okay, So we're talking about complete control
+
+of growth and form top-down.
+
+And the reason this is an important,
+
+would be an important achievement is that basically,
+
+if you think about it, almost
+
+all of the problems of medicine,
+
+so everything other than
+
+infectious disease boils down to the control of shape.
+
+So if we knew how to tell cells what to build,
+
+we would immediately be able to solve birth defects,
+
+traumatic injury, cancer, aging,
+
+all of these things would be solved
+
+if we had the ability to tell
+
+cells what it is that they should be
+
+cooperating towards building, okay?
+
+Now there are some fundamental knowledge gaps
+
+that prevent this because we are of course,
+
+nowhere near this kind of general capability right now.
+
+One of the interesting things is
+
+that despite all the progress in,
+
+in genomics and molecular biology,
+
+we still are pretty far from being able to
+
+predict the outcome of biological morphogenesis.
+
+So just to give you a simple example,
+
+this is the larva of an ax,
+
+a little salamander, and the larvae have legs.
+
+This is a larva of a frog, tadpole.
+
+Tadpoles do not have legs.
+
+And what we can do, and in fact,
+
+we have done in our lab is make a frog a little.
+
+So you can make a frog a model by simply
+
+merging at early stages,
+
+some embryonic cell,
+
+some embryonic frog cells, they're interoperable.
+
+They make a chimeric embryo and ask a simple question,
+
+will frog models have legs?
+
+Okay?
+
+And we have the genome sequenced.
+
+We have the genome for the frog also sequenced.
+
+We have no idea how to predict
+
+ahead of time whether this kind
+
+of k-mer construct is going to have legs or not. Okay?
+
+So this is now clearly
+
+seen in the context of this camera.
+
+But actually what it's highlighting is
+
+the fact that even with a standard animal,
+
+let's say this acts level,
+
+we don't know how to derive
+
+the anatomy from a genomic sequence,
+
+okay, that's, that's not a capability that exists.
+
+And in fact, it's so, so let's think about
+
+where this information comes from.
+
+So this here is a cross-section through a human torso.
+
+So you see this in variant complexity.
+
+All of the organs
+
+and structures that are in the right place,
+
+the right size, the right shape,
+
+and next to them, the right neighbors.
+
+All of this is in the correct position and orientation.
+
+We all start life here though as a,
+
+as a ball of embryonic cells
+
+descended from a fertilized egg.
+
+Where does this incredibly
+
+complex invariant structure come from?
+
+Where does this order come from?
+
+Now?
+
+Many people are tempted to say the genome, the DNA,
+
+but we can read genomes now when we
+
+know that in the DNA There's actually
+
+nothing directly about any of this at the DNA specifies
+
+the micro level hardware that
+
+every cell has to have the proteins.
+
+But there's, but there's something
+
+directly in there about this order. And so.
+
+We really need to understand
+
+how do the cell groups know what to make,
+
+how do they know when to stop?
+
+As workers in regenerative medicine,
+
+we would like to know, well,
+
+if a piece is missing,
+
+how would you tell these cells to
+
+rebuild this particular structure?
+
+And as, as bioengineers,
+
+we would like to ask what's
+
+actually possible to get the cells to build,
+
+right with a default genome,
+
+the same exact cells.
+
+What else can they be asked to build if we
+
+knew how to communicate and that level of control.
+
+So let's think about what that would entail.
+
+This is an individual cell.
+
+This is a creature known as a lack RAM area.
+
+And it's one cell.
+
+There's no brain, there's
+
+no nervous system, are no stem cells.
+
+There's no cell to cell communication, just one cell.
+
+And this cell is handling all of its local needs.
+
+So it's anatomical,
+
+that's physiological, behavioral, metabolic.
+
+All of these needs at the level
+
+of a single cell are all handled.
+
+This, uh, this, this creatures very competent.
+
+And what's, what's amazing is that when these cells
+
+got together to form multicellular organisms,
+
+they didn't lose this IQ,
+
+this ability to take,
+
+to get there, get their needs met.
+
+They actually scale that up to
+
+pursue goals on a much larger scale.
+
+And so what you see is that
+
+cells descended from a fertilized egg can
+
+work together ticket to build
+
+these incredibly complex morphologies, okay, reliably so.
+
+And so in developmental biology,
+
+we're often given this picture as a way to,
+
+as a framework to think about how this works.
+
+So there are some,
+
+some number of genes forming
+
+a gene regulatory network where
+
+these genes turn each other on and off.
+
+Some of these genes make effector proteins.
+
+They might be sticky or they exert
+
+force of a diffuser, whatever.
+
+This highly parallel physics.
+
+And then there's this process of emergence by which,
+
+by carrying out lots of
+
+local simple rules out
+
+comes something very complex like this nice axonal body.
+
+Now this is all true. All of these things do occur.
+
+But there's a fundamental difficulty
+
+with this kind of open loop process,
+
+this sort of feed-forward way of looking at things,
+
+which is that It's an,
+
+it's an incredibly difficult inverse problem.
+
+If you wanted to make changes here at the system level,
+
+you want it to change the anatomy in some way.
+
+How would you, which genes would you change and how this,
+
+this process is extremely non-linear, extremely complex.
+
+And trying to work it backwards is in general insolvable.
+
+And so that sets an important ceiling.
+
+Four approaches like genomic editing
+
+and in general and for molecular medicine,
+
+because it's entirely unclear what to change
+
+down here to get specific changes up here.
+
+Now, what's, what's remarkable is that
+
+biology itself handles this problem very well.
+
+Which is that it's able to implement changes on the fly.
+
+So this is the process of regeneration.
+
+So this organism here,
+
+this is an axonal to Mexican salamander.
+
+These animals regenerate their limbs, their eyes,
+
+their jaws, portions of the brain,
+
+the spinal cord, overuse and so on.
+
+And so you can see this example here.
+
+If a, if a limb is amputated on this,
+
+on this creature, this cells will immediately begin to,
+
+begin to build and they undergo morphogenesis,
+
+and they build a perfectly normal
+
+indistinguishable from the original salamander arm.
+
+And then they stop.
+
+And the most amazing part of this process,
+
+even though everyone works on
+
+trying to kick-start regeneration,
+
+the most incredible part of this is
+
+that they know how to stop. When do they stop?
+
+They stop when
+
+a correct salamander arm has been produced.
+
+So how did they know what a correct salamander armies
+
+and the champion of that kind of process is this.
+
+This is a planaria and a flatworm.
+
+And these animals have a true brain.
+
+They have lots of internal organs.
+
+They are similar to our direct ancestor.
+
+And they have the amazing power of
+
+regeneration so that you can cut them into pieces.
+
+The record is something like 275 pieces.
+
+And every single piece will grow exactly what's missing.
+
+No more, no less that new tissue grows at the wound site.
+
+The remaining tissue actually shrinks so that
+
+the new tiny little worm is
+
+perfectly proportioned and every,
+
+every animal will end up being a perfect little worm.
+
+In fact, this process is so
+
+efficient that these worms are basically immortal.
+
+There's no such thing as an old
+
+planaria and they regenerate
+
+any senescent cells and they basically go on forever.
+
+And you can see that this is actually a very,
+
+very tricky process because if you
+
+make a single amputation, for example,
+
+here, the cells here at
+
+the back of the wound need to make a head.
+
+The sales here at the front need to make a tail.
+
+So completely different anatomical fates.
+
+And yet these cells were near neighbors.
+
+They were sitting right next to each other
+
+until you separate them with a scalpel.
+
+So you can see that it's not a local decision, right?
+
+To cells at each, at each wound have know something about
+
+the rest of the body to
+
+know if they're supposed to be making a heterotroph.
+
+Okay?
+
+So it gets even more interesting than that,
+
+which is something that we
+
+discovered a couple of years ago, which is that.
+
+Take a look at this example.
+
+This is, this is a tuple.
+
+So here are the eyes, here's the brain, here's the gut.
+
+So tuples in order to become frogs,
+
+they have to rearrange
+
+their face so the eyes have to move forward,
+
+the jaws have to come out them everything moves.
+
+And it was thought that
+
+somehow what the genome encoded was
+
+a system by which every part of
+
+the face moves the right amount in the right direction.
+
+And then you go from a standard
+
+chapel to a standard font.
+
+So.
+
+We did was we basically scrambled
+
+the scrambled face and we
+
+made that we call Picasso tadpoles.
+
+Everything's in the wrong place. The eyes
+
+on the side of the head, the jaws are off.
+
+To the other side of the mouth is on top.
+
+Everything is in the wrong,
+
+as is in the wrong position.
+
+And remarkably, those animals
+
+make perfectly normal frogs.
+
+Because what happens is every part of the face moves in,
+
+in novel unnatural paths.
+
+And in fact, sometimes it goes too
+
+far and has a double-back,
+
+but everything keeps moving around until
+
+they make a correct frog face and then they stop.
+
+And so what, what the genetics actually gives us
+
+is a machine that executes this,
+
+this error minimization scheme.
+
+Able to, able to reach the right region of
+
+anatomical amorphous space corresponding to o to
+
+a proper frog from different starting positions.
+
+Okay, So it's able to navigate
+
+this kind of, this kind of space.
+
+And so what we,
+
+what we have here is in the field is
+
+the following situation where we're very good at getting
+
+this kind of data in terms of what genes
+
+and proteins interact with
+
+which other genes and proteins.
+
+All we'd really like to understand is
+
+this kind of incredible ability for biology to,
+
+to, to edit and,
+
+and repair and, and,
+
+and create complex anatomical shape, right?
+
+For those of you who are biologists,
+
+think about this is a,
+
+this is an example called trophic memory and deer.
+
+So this is a set of deer antlers.
+
+In one, at one year,
+
+you make a little wound up here and it makes a
+
+callous and it heals this whole thing.
+
+The whole antler rack will be cast.
+
+It falls off.
+
+Next year when the deer grow a new set of antlers,
+
+there will be an extra ectopic time
+
+at the location where the damage was last year.
+
+So think about what kind of, you know,
+
+this kind of three-dimensional pattern memory
+
+and the changing
+
+all the cell division planes in
+
+the bone and everything to make new,
+
+a new time at this location.
+
+How would we even begin to make
+
+a model of this at this level,
+
+right, it, using, using these kind of permanence.
+
+So what we would like to do is to move
+
+beyond trying to understand and operate at,
+
+at the hardware level.
+
+And really try to reverse engineer
+
+the algorithms of anatomical control.
+
+You know, what, what, what modules
+
+is the system capable of?
+
+What DO cellular collectives measure?
+
+How do they remember the global patterning states?
+
+How do they detect errors?
+
+And in particular, how re programmable
+
+is this, is this kind of hardware.
+
+And the reason that's interesting is because I think
+
+that computer science had a really,
+
+really important journey that
+
+has a lot to teach us and biology.
+
+This, this here is what
+
+programming looked like in the forties and fifties.
+
+So in those days with
+
+this machine to get it to do something different,
+
+you would physically have to rewire it.
+
+He would literally have to pull wires.
+
+And it changed the hardware
+
+of the machine to get it to do something different.
+
+But what computer scientists were able to figure out and
+
+implement is this idea
+
+that if your hardware is good enough,
+
+and I'm going to argue that the biological
+
+hardware is definitely good enough.
+
+What you can do is you can interact with
+
+the system via inputs or stimuli.
+
+You don't have to rewire it to
+
+get it to run a different algorithm.
+
+There's, there, there are multiple different modes
+
+that can be run on the exact same hardware.
+
+If you understand the,
+
+the, the kinds of computations
+
+that the system is capable of.
+
+And the more you understand,
+
+the more you can use high level primitives that
+
+allow you to in very human understandable,
+
+in the human understandable way,
+
+get the system to do things you're interested.
+
+Which is, which would be very difficult to,
+
+to micro-manage from the bottom up using,
+
+using hardware or even assembly language.
+
+So to this basic feedforward scheme,
+
+we add, we add feedback loops.
+
+And these exist both at
+
+the level of physics and at the level of genetics.
+
+And what they're responsible for
+
+is a kind of homeostasis,
+
+or again, an error reduction error
+
+minimization scheme where if the,
+
+if the anatomy is
+
+disrupted and this could be by large-scale injury,
+
+by aging, by teratogens,
+
+by mutations, parasites, whatever it is.
+
+If the, if the structure is damaged,
+
+then what the system will do is undergo certain kinds
+
+of signaling activity to try and get
+
+back to where it needs to be.
+
+Okay.
+
+So that's the, that's the basic definition of
+
+anatomical or pattern homeostasis.
+
+It's this kind of closed loop system.
+
+Now, what's, what's not novel about this is that basic,
+
+basic homeostasis in biology is very common.
+
+We all understand about homeostatic loops.
+
+But what's, what's rather unusual
+
+about this is two things.
+
+First of all, unlike
+
+homeostasis for pH or
+
+hunger level or something like that.
+
+The set point here, right?
+
+And it's a core part of
+
+any homeostatic process asked to record
+
+a set point estaba of state towards which it works.
+
+The set point here is not
+
+a single number, it's not a scalar.
+
+It's, it's a kind of
+
+coarse-grained description of what the anatomy should be.
+
+And then the other,
+
+the other interesting implication of this,
+
+if this is true, if this kind of model is applicable,
+
+and this is, by the way, this is
+
+a very controversial way to look at this.
+
+Okay?
+
+This is not a standard developmental biology approach.
+
+So if, if this is,
+
+if this type of model is correct,
+
+then here's something that should be possible.
+
+You should be able to identify
+
+the medium in which the set point is recorded.
+
+You should be able to decode it so that you know
+
+what it's actually what at what it's actually saying.
+
+And then you should be able to rewrite it.
+
+You should be able to race specify the set point of
+
+this process without having to alter the machine,
+
+okay, the same way that you can
+
+change the temperature range
+
+on your thermostat without rewiring your thermostat,
+
+or critically without even
+
+knowing how the thermostat works,
+
+all you actually have to know is that it
+
+will in fact keep,
+
+keeps the temperature to
+
+the specific set point if you know how to rewrite it.
+
+So for some years now this is
+
+what we've been working on to try to
+
+identify and try to test the strong predictions of this,
+
+of this kind of model to try to identify
+
+where that set point might
+
+be written and how could we learn to,
+
+to, to, to read it and to modify it.
+
+Okay, So this brings us to the second part of the talk,
+
+which is that long story short,
+
+the set points are written in
+
+same basic kind of method as,
+
+as what the brain uses to store the kinds of
+
+memories that are used as goals,
+
+as goals and goal seeking behavior.
+
+It stores them in electrical networks.
+
+And so there is in fact a whole neuroscience that can be
+
+applied to the rest of
+
+the body that are, that are not neurons.
+
+And I'm going to show you how, how we've been doing this.
+
+The first thing I want to point out is
+
+that every cell in the body is
+
+impinged upon by a complex morphogenetic fields
+
+of information that tells it what it should be doing.
+
+This, these are chemical signals,
+
+matrix pressures,
+
+tensions, oxygen gradients, all kinds of things.
+
+But there's a, there's a layer
+
+here which is called Bioelectricity,
+
+which I think is, is unique and,
+
+and one of the reasons that it's kind of special is
+
+that it's not just another piece
+
+of physics that you need to keep track of.
+
+If you want to understand embryogenesis.
+
+It actually gives a privileged access to the
+
+top-down information that is being used to,
+
+to tie individual cells
+
+together towards very large-scale goals.
+
+So not like that, lack RAM area that
+
+was handling very local goals,
+
+but actually large-scale goals like make
+
+a correct frog face or keep
+
+remodelling until you've built a proper arm.
+
+Or keep, keep, keep,
+
+keep, dividing and undergoing
+
+morphogenesis until the correct structure is formed.
+
+Those goals have to be
+
+all the individual cell activities have
+
+to be orchestrated towards those goals.
+
+And very much like in the brain,
+
+which is basically a collection of
+
+electrically, electrically coupled cells.
+
+There has to be a way to coordinate
+
+all of their activities towards an emergent,
+
+higher-level goal that individual cells can't access.
+
+And so the way this happens in the brain,
+
+and it's pretty clear, the hardware looks like this.
+
+There are individual cells that
+
+have these ion channels in their cell surface.
+
+They pass charges in and out,
+
+acquiring a voltage gradient.
+
+And that voltage gradient can be propagated to
+
+neighbors through these little electrical synapses, okay?
+
+And here what you're seeing here is
+
+the electrical activity. This isn't our data.
+
+This is a beautiful paper that
+
+showed the electrical activity
+
+in the brain of a living zebrafish.
+
+And the commitment of
+
+neuroscience is that if we understood this code,
+
+if we understood how the electrical activity was
+
+storing cognitive type of information,
+
+we ought to be able to read it out.
+
+So in other words, this is, this
+
+is called neural decoding.
+
+And it's the idea that if we could,
+
+if we could record this electrical activity
+
+while this fishes,
+
+thinking about whatever fish think about,
+
+you would be able to, you,
+
+what you should be able to, to, to,
+
+to decode an extract from this.
+
+The memories, the goals, the preferences,
+
+the behavioral kinds of
+
+modules that it's capable of, and so on.
+
+Okay, that's, that's what, that's
+
+the commitment of neuroscience.
+
+It turns out that all cells do this.
+
+This is not just for neurons.
+
+So every cell in the body has ion channels.
+
+All, most of them have
+
+gap junctions are these
+
+electrical synapses towards their neighbors.
+
+All tissues make electrical networks.
+
+Now, if that's surprising,
+
+we can just simply think about
+
+where did neurons come from, right?
+
+Neurons didn't appear out of nowhere.
+
+And they basically just speed optimized dynamics that,
+
+that cells have been doing long before neurons appeared.
+
+In fact, since about the time of bacterial biofilms.
+
+And what we've been doing is trying to apply this,
+
+this neuroscience approach and say,
+
+could we similarly read out
+
+this electrical activity and learn to interpret it,
+
+right as, as, as baring
+
+information about what the anatomy is
+
+going to be and then to learn to rewrite.
+
+So we developed some tools to do this.
+
+The first are basically characterization tool.
+
+So here, what you're seeing here is
+
+an early frog embryo in time-lapse.
+
+And this is, this is a voltage-sensitive fluorescent dye.
+
+This is not a computer model,
+
+it's a real, real data.
+
+This is a voltage-sensitive fluorescent dye that in
+
+realtime will give you all of the electrical states,
+
+all of the conversations that
+
+the cells are having with each other,
+
+okay, and how that plays out in the voltage maps.
+
+So you can think about this as exactly
+
+as looking at the electrical activity in a,
+
+in a, in a running break.
+
+And then we do a lot of computational modelling.
+
+So knowing which channels
+
+and pumps are expressed in specific cells,
+
+can we figure out what the bioelectric pattern should be?
+
+Okay, can we predict and understand
+
+why this pattern not some other pattern?
+
+I want to show you some examples of this pattern.
+
+This, and this here is again a time-lapse of
+
+a voltage reporter showing you
+
+what it looks like when the frog embryo
+
+is putting its face together.
+
+So this is, this is a few hours time-lapse,
+
+and this is one frame.
+
+Out of that movie,
+
+what you can see here is that even before
+
+all the genes that turn on to regionalize the face,
+
+the bioelectric pre pattern is
+
+already telling you where everything is going to be.
+
+The cells no, over here that we need an eye over here,
+
+this is the animals right eye.
+
+The left eye comes in shortly
+
+thereafter. You can see that here.
+
+It's got a mouth, it's got the placards,
+
+everything is already here.
+
+And if you were to change the electrical pattern,
+
+okay, so, so for example,
+
+I made using techniques
+
+I'm going to show you momentarily,
+
+take this, take this spot of depolarization,
+
+wipe it out and to introduce it somewhere else.
+
+Guess where the eye is going to form.
+
+This pattern is instructive for the gene expression.
+
+Bmps results all the,
+
+all the genes that you need to pattern a face.
+
+This, this, this, this,
+
+this pattern is instructive for that,
+
+for normal gene expression in normal anatomy.
+
+Okay, So that's a, that's a, a,
+
+an endogenous mechanism by
+
+which this animal undergoes complex morphogenesis.
+
+Now here's a pathological, a bioelectrical signature.
+
+This tadpole has been injected with a human oncogene,
+
+which induces a tumor and then eventually metastasis.
+
+But even before this becomes apparent,
+
+you can already see by
+
+their aberrant bioelectrical signature that these are
+
+the cells here that are going to
+
+electrically disconnect from the rest of the network.
+
+At that point they just become amoebas, okay,
+
+they, they treat the rest of
+
+the animal as external environment.
+
+The cancer is no more selfish than,
+
+than, than any organism.
+
+It's simply that the self is smaller.
+
+So what happened is that by
+
+disconnecting electrically from that large network,
+
+the computation little boundary
+
+of this agent has shrunk from,
+
+from a whole sheet of cells doing something
+
+useful to a single cell
+
+that is now going to do whatever it is,
+
+whatever it takes for that cell,
+
+for that cell to be happy, which is
+
+basically migration and proliferation.
+
+So that's metastasis.
+
+So you can see that these electrical connections
+
+in this network are what scales the,
+
+the goal-directed activity
+
+of these cells from either from
+
+large morphogenesis or single cell behavior.
+
+And so to start to study this,
+
+we developed some functional tools basically mimicking
+
+what's available in neuroscience weekend.
+
+So here's an arbitrary network of cells.
+
+What we can do is basically one of two things.
+
+We can go in and change the electrical topology of
+
+the network so we can open and close these gap junctions,
+
+right, to pursue control which cells
+
+get to talk to which other cells electrically.
+
+So this corresponds to laying down circuit.
+
+Circuit paths are snipping, are snipping connections.
+
+Or we can go in and
+
+we can actually control the voltage of
+
+individual cells by regulating
+
+the ion channels that give rise to that voltage.
+
+So this, this, this is equivalent to synaptic plasticity.
+
+This would be intrinsic plasticity.
+
+When all of the phenotypes I'm about to show you,
+
+there are no electrodes,
+
+there's no applied electric fields,
+
+there are no waves,
+
+no radiation know electromagnetics.
+
+There's just no magnetic component at all.
+
+This is all Molecular Physiology, meaning optogenetics.
+
+We can introduce new channels.
+
+We can use drugs to open and closed specific channels.
+
+We can use light.
+
+These are basically all the tools.
+
+We borrow all the tools of
+
+state-of-the-art neuroscience to control
+
+the mechanisms that these cells
+
+normally use to form electrical networks.
+
+Okay.
+
+Now what can you do? What can you do with this?
+
+Well, here's some, here's some examples.
+
+One thing you can do is you can
+
+introduce an ion channel into
+
+an early frog embryo into
+
+a region that is going to become gut.
+
+So here's the gut,
+
+here the endodermal cells that are going to be GOT.
+
+And if we establish a voltage map in these,
+
+in these cells by injecting
+
+a particular ion channel RNA
+
+that will drive the right voltage states.
+
+What the cells will do is of course they will make
+
+an I because that is the trigger of the,
+
+of the make an eye subroutine.
+
+So in that case these ice can have
+
+all the right layers that and I should have lens,
+
+retina, optic nerve, all of that.
+
+Notice, notice two interesting things.
+
+Aside from the fact that it's clear
+
+now that these bioelectrical patterns are quite
+
+instructive because you can use them to
+
+recreate complex organs elsewhere.
+
+First of all, the effect is very modular.
+
+We introduced very little information.
+
+We have no idea how to micromanage
+
+the formation of an eye, okay, It's very complex.
+
+What we do know is how to trigger that subroutine call.
+
+We know how to interact with this with
+
+the system at a, at a,
+
+at an intermediate level where
+
+we can trigger one of its own subroutines.
+
+That might be a black box to us.
+
+We don't know how the ice forming,
+
+but we found the trigger.
+
+And the trigger is it is
+
+a specific bioelectrical state achieved by the cells.
+
+Okay? So that's pretty
+
+good for, for regenerative medicine.
+
+That means you can induce the anatomical outcomes
+
+that are too complicated for us to micromanage directly.
+
+Okay? The other interesting thing is that this is a,
+
+this here is a close-up of
+
+a lens sitting out in the tail of a,
+
+of a tackle somewhere.
+
+And these blue cells here are the ones that we
+
+electrically modulated by injecting this ion channel.
+
+But what they've done is they've
+
+recruited a bunch of their neighbors here,
+
+which themselves were not manipulated in any way to
+
+help them participate in making this nice round lens.
+
+So these cells already
+
+know how to recruit their neighbors.
+
+They know what size the lens should be.
+
+They know that not enough of them have been,
+
+have been motivated to
+
+make a lens so they recruit their neighbors.
+
+And so you can see here that dielectrics
+
+controls are not single cell phenomenon.
+
+They are, they are cell group phenomenon. Okay?
+
+Now you can make all sorts of other things.
+
+You can make fins on the back of tadpoles.
+
+Tadpoles aren't supposed to have fins.
+
+We'll get to that momentarily.
+
+You can, you can make a topic inner ears.
+
+You can make Harvard's extra hearts,
+
+you can make extra brain.
+
+So here's a tadpole, this massive,
+
+massive forebrain, and you can make extra limbs.
+
+Okay.
+
+Here's our six legged, six legged frog.
+
+So what we're seeing here,
+
+and then there's lots of other organs
+
+that we don't know how to make it.
+
+So, so what we see here is that there's,
+
+there's one level of interaction with this,
+
+with this bioelectrical system where we can hijack that
+
+the electrical states that it normally uses to layout
+
+the body plan and basically make
+
+modifications and the cells will simply go along.
+
+In fact, you can do this
+
+on the whole and the whole body scale.
+
+So here's a planaria and we
+
+amputate the head, we amputate the tail.
+
+And we notice that this middle fragment
+
+has this very nice voltage gradient.
+
+K1 end is depolarized,
+
+one end is hyperpolarized.
+
+And it turns out that that's actually what
+
+tells it where to put the heads and the tails.
+
+So what we can do is we can take
+
+this posterior and we say, Okay,
+
+how about if we depolarize
+
+by targeting somebody ion pumps,
+
+we depolarize this region.
+
+What we're saying to this region is
+
+actually know a planaria supposed to have two heads.
+
+And when you do this sure enough,
+
+you can make a two-headed worm or
+
+you can go the opposite direction
+
+and make a no headed worm.
+
+Now, one can ask a simple question once you've had this,
+
+once you've made this two headed worm,
+
+what happens if you re cut it again?
+
+Well, the standard paradigm would say that, okay,
+
+if you put it in plain water,
+
+no more manipulation of any kind.
+
+We're going to cut off this primary head.
+
+We're going to cut off this ectopic secondary head
+
+so that the secondary,
+
+Let's say epigenetically
+
+reprogramming tissue, whatever it's gone.
+
+All you have is a nice normal trunk fragment.
+
+We've done no genomic editing.
+
+I don't know, no mutations, no CRISPR.
+
+So, so the genome, This sequence is wild-type.
+
+So then the prediction as well,
+
+of course it should make a normal planaria and right,
+
+it should go back to make, to
+
+make a one had one tail because the,
+
+the genetics are wild-type and
+
+everything is gone, the drug is gone.
+
+The, the ectopic tissue is damaged.
+
+And the thing is that what we notice by looking at
+
+the circuit is that it actually has two stable points.
+
+It has a stable point at the,
+
+corresponding to the single, the single head state.
+
+It has another attractor
+
+corresponding to the double-headed state.
+
+And it turns out that when you,
+
+when you cut these things, in fact,
+
+they do they do in fact,
+
+retain their two-headed nature.
+
+So in perpetuity forever as far as we can tell,
+
+two-headed animals cut this way,
+
+continue to generate two headed animals.
+
+Now think about what this means.
+
+This animal has not been genetically altered in any way.
+
+The information of
+
+how many heads you're supposed to have.
+
+That set point of
+
+anatomical homeostasis That's just
+
+keep building until you have the right pattern.
+
+What is the right pattern?
+
+The right pattern is encoded in this electrical circuit.
+
+And we can, we can modify it.
+
+And when you modify the cells,
+
+don't know any different.
+
+They use that as the reference and they will
+
+continue to build okay,
+
+until we go and we can change it back.
+
+So you can, you can, you know,
+
+sort of a flip-flop where you can,
+
+you can change the circuit back.
+
+And so this is to my knowledge, the first,
+
+the first tractable example of, of, of,
+
+of rewriting these specific set point of the,
+
+of the target morphology of that homeostatic process.
+
+We don't micromanage the machinery.
+
+We don't rewire it. No new genes,
+
+no, no, no trans genes.
+
+We leave the machine exactly as it is,
+
+but we change the set point towards
+
+which it works and it will happily do this.
+
+And this has all the properties of memory.
+
+It's long-term, stable, it's re writable.
+
+It has conditional recall and so on.
+
+And just to show you what
+
+that conditional recall looks like, it looks like this.
+
+So here is a single-headed animal
+
+and it's got anterior gene expression
+
+and the head not in the tail, so that's fine.
+
+What the voltage gradient looks like.
+
+And of course, when you cut this,
+
+it makes a one headed animal.
+
+What we can do here, again,
+
+one headed anatomy, normal gene expression.
+
+We can change the bioelectrical gradient.
+
+You can see it's kinda messy,
+
+but the technology is still being worked out.
+
+We can change this gradient.
+
+And when you cut this animal,
+
+it makes a two-headed form.
+
+And so the most important thing here is that
+
+this bioelectrical map is not a map of this animal.
+
+This is a map of this one headed
+
+animal that tells you several things.
+
+It tells you that the bioelectric is not simply
+
+a readout of Vienna anatomical structure,
+
+but we already knew that from,
+
+from the functional data that I showed you where you
+
+can the bioelectric drives the actual anatomy.
+
+But what it shows you is that a
+
+single, a single-headed normal,
+
+a normal body can store
+
+at least two different memories
+
+of what a planaria and it's supposed to look like.
+
+All right, it could be this or it could be that.
+
+And those memory stay latent until the animal is injured.
+
+When it is injured, then the cells
+
+consult the map and they will build whatever them access.
+
+So this could in fact be
+
+the evolutionary precursor to counterfactual thoughts,
+
+to be able to hold memories that are
+
+not simply a readout of what's happening right now.
+
+Okay.
+
+And, and, and this is this is,
+
+this is a real example of.
+
+Being able to, being able to dissociate the, the,
+
+the hardware of the machine from
+
+the stored information that,
+
+that this thing is going to,
+
+that this is going to carry out if,
+
+if certain circumstances arise.
+
+Now, what we're doing
+
+is trying to merge this kind of thing,
+
+a dynamical systems description
+
+of the actual bioelectric circuit,
+
+where we can quantitatively identify
+
+attractors that correspond to
+
+two heads, one heads, and so on.
+
+With work that's going on in,
+
+in connectionist machine learning,
+
+where people are developing
+
+some very nice rigorous formalisms
+
+for understanding how networks,
+
+how electrical networks, or in fact any network,
+
+store information in a way
+
+that allows it to recover from damage, right?
+
+So, so to, um, to correct errors and to settle
+
+down to an energetically favorable state
+
+once it's been disturbed and so on.
+
+Now, what I've just shown you is a,
+
+is a planaria that can make
+
+extra heads of its own species.
+
+You can go further than this and we can actually do this.
+
+We can take this species that has a nice triangular head.
+
+We amputate the head,
+
+and then we keep the cells
+
+from establishing electrical connections
+
+for about 48 hours.
+
+And then we let them let them re-establish.
+
+When the circuit settles.
+
+Sometimes it settles back to
+
+its correct state and
+
+drives the formation of a triangular head.
+
+But other times it falls into
+
+a different attractor that makes
+
+round heads like an S Mediterranean
+
+or flat heads like a PIF Alina.
+
+The genetic distance between
+
+these species is about a 150 million years.
+
+So think about what this means. This means the NBA.
+
+Oh, and by the way, and they don't
+
+just make the head shapes of these other species.
+
+They make the brain shapes and
+
+the stem cell distributions
+
+exactly like these other species.
+
+So you can take the,
+
+the genetically provided hardware that by default for
+
+likes to occupy a particular attractor
+
+with its electrical circuit
+
+and make these triangular heads.
+
+But you can actually push it into
+
+a different regime where it's where it will
+
+build heads appropriate to
+
+other species that are currently existing. Okay.
+
+You can go you can go further than
+
+this and you can actually knock it into
+
+a tractors that are not in current use by evolution,
+
+probably because they're not ecologically competitive.
+
+You can take a perfectly genetically normal planaria
+
+and it can,
+
+it can make these spiky forms.
+
+It can be, have
+
+a completely different symmetry type and BS,
+
+cylindrical sort of ski cap kind of architecture.
+
+Or you can make a combination thing that's
+
+a flat planaria and with
+
+these tubes coming out in the three-dimensions.
+
+So you can reach novel regions of this morphous space,
+
+the space of all possible anatomical configurations
+
+that are not the default sort of area where the,
+
+where the tissues are normally hang out.
+
+But you can push them by manipulating
+
+the decision-making machinery that
+
+they use to navigate that space,
+
+which is the bioelectric circuits.
+
+Now we're using this, of course,
+
+for regenerative medicine application.
+
+So, so here's a frog.
+
+Unlike salamanders, frogs normally
+
+do not regenerate their legs.
+
+So if it loses a leg 45 days later,
+
+there's nothing you can.
+
+We designed a cocktail that we soak
+
+the animal in that triggers a build a leg here state.
+
+So you can see it turns on the gene and
+
+the gene expression of regenerative genes.
+
+And then it starts to make a leg.
+
+So here some toast, Here's a toenail,
+
+eventually a pretty, pretty respectable leg,
+
+and this is, this is early, it continues to grow.
+
+And then here you can see that
+
+the legacy touch sensitive and motile.
+
+So it's a, it's a perfectly functional like.
+
+And some of the,
+
+some of the more recent work has shown us that.
+
+In fact it's an amazing,
+
+it's an amazing sort of modular process
+
+whereby the treatment is 24 hours.
+
+Okay, That's all we just treat the animal for 24 hours.
+
+Once that circuit has been pushed into
+
+the Make a leg as opposed to make a scar pathway,
+
+you get more than a year of growth.
+
+Okay.
+
+In fact, about, about 13 to
+
+14 months of leg growth where we don't touch it at all.
+
+So the name of the game is not micromanagement.
+
+We're not going to sort of babysit
+
+the gene expression or the cell types or any of that.
+
+We are going to find these triggers that are basically
+
+the subroutine calls of the system that
+
+represent goal states that
+
+the system knows how to achieve.
+
+Now, one interesting thing which is going to come back to
+
+us in a few minutes is that actually it,
+
+it's rather, it's rather smart because it can,
+
+as you saw in the frog face example,
+
+it can reach the same goals through very different paths.
+
+So here's the intermediate regenerating leg.
+
+It actually doesn't look anything like the way
+
+that frog legs develop in the first place,
+
+this kind of paddle, that's not how it grows.
+
+In fact, it grows a lot more like a plant,
+
+like a meristem for plant growth,
+
+but it ends up in exactly the same place.
+
+So we can take a completely different
+
+trajectory through morphous space,
+
+but it's heading towards the same set of states.
+
+Now, having talked a lot about worms and frogs,
+
+I should point out that this system, this,
+
+this electrical control system, is incredibly ancient.
+
+Bacterial biofilms already use it.
+
+And human patients present with channel off with
+
+these mutations and ion channels
+
+that exhibit craniofacial brain,
+
+gut, heart, limb defects exactly like the model systems.
+
+This is completely conserved and
+
+we've done some work on this in human cells,
+
+in culture, and so on.
+
+But the fact that it's conserved means that we can now,
+
+we can now move forward in
+
+this kind of regenerative medicine approach.
+
+And again, I have to do a disclosure here.
+
+David Kaplan and I are
+
+co-founders of this company more for pseudocode,
+
+which is trying to take what we've learned about
+
+solving frog leg regeneration and move it into mammals.
+
+Okay, so with David's group makes these bioreactors,
+
+we figure out the payload that goes in them to,
+
+to, to, to trigger,
+
+trigger growth and morphogenesis and
+
+suppress the scarring path and end.
+
+So stay tuned for that.
+
+The idea is that this is ultimately going to,
+
+hopefully this is ultimately going to human medicine.
+
+And so it's important to point out
+
+that if you drill down to
+
+the molecular pathways on the single cell level,
+
+we already know how the voltage is talk to the genome.
+
+So we know the transduction machinery is
+
+about half a dozen ways in which
+
+voltage controls which genes turn on and off.
+
+In fact, we know the genes as well.
+
+There's a wide variety of all the,
+
+all your favourite Sonic Hedgehog pathway,
+
+BMP went results, all these things.
+
+Fgfs, they can all be downstream of voltage changes.
+
+But it's actually understanding this at
+
+a single cell level is extremely unsatisfying.
+
+And the reason is that we are trying
+
+to understand large-scale decisions,
+
+not how individual stem cells become cell types,
+
+but how large-scale organs, tissues, and in fact,
+
+whole body axes figure out where they should,
+
+what they should be doing, what shape
+
+and when to stop growing.
+
+So it's really important to make these.
+
+And what we're trying to do is to make
+
+these full stack models where you start from,
+
+from the genetics of which G,
+
+which channels and other factors are expressed.
+
+But then you build up the tissue level
+
+bioelectrical dynamics and eventually to
+
+symbolic representations and
+
+eventually algorithmic ones where you can actually
+
+see what the decisions are that are
+
+being made by this tissue
+
+about the various things that are going to happen.
+
+So at the, at the lower end it looks like this.
+
+You know, you have a model of,
+
+of, of, of physiology.
+
+You load that model into every cell of
+
+a multi-cellular virtual worm, for example.
+
+And then you can answer questions like this.
+
+Like how is it that this gradient?
+
+But if I cut it into pieces,
+
+every piece re-establishes the gradient
+
+and knows where the head and the tail is.
+
+So this is, this is how
+
+you get insight into that is by building,
+
+by building these physiological models and
+
+eventually, eventually algorithmic representations.
+
+And once you, once you can do this,
+
+then you can deploy all of
+
+the power of machine learning to first of all,
+
+discover better models and
+
+second to discover interventions.
+
+So we've now down this, done this in the context of
+
+understanding planaria and
+
+regeneration and also melanoma.
+
+To be able to infer these kind of
+
+models using machine learning
+
+and to identify these rare needle
+
+in a haystack, signals are triggers.
+
+I push the large-scale dynamic of
+
+the circuit towards an outcome that we want.
+
+And there's some software that,
+
+that anybody can, can download and play with.
+
+And so a simple example of that is here.
+
+This is the kind of biomedical application.
+
+So, so here's a tadpole, normal tadpole brain.
+
+Here's the forebrain, midbrain, and hindbrain.
+
+You can, you can mutate,
+
+introduce a dominant mutant of a gene called notch,
+
+which is a very important neurogenesis gene,
+
+or alcohol exposure like fetal alcohol syndrome,
+
+nicotine, lots of
+
+different teratogens have the same outcome.
+
+Forebrain is basically gone,
+
+the midbrain and hindbrain or a bubble.
+
+This animal has no behavior, no learning ability.
+
+And what we found is that you can,
+
+you can make a model.
+
+And this was a model
+
+constructed by r close collaborator Lexus Pi attack
+
+where she was able to make a model of
+
+the electrical pattern that tells
+
+the brain how big and what shape it should be.
+
+And you can model here
+
+the disruptions of what these kind
+
+of teratogens or mutations.
+
+And then you can interrogate
+
+the model and ask a simple question.
+
+If we want to get back to
+
+the normal bioelectrical pattern,
+
+what channels would we have to open and close?
+
+Okay, So it's kind of kind of inverse problem.
+
+And so, and so we were able to do that and
+
+actually identify a couple of
+
+drugs that open HCI and two channels.
+
+And amazingly, when you do this,
+
+you get back to a normal brain.
+
+It has normal anatomy,
+
+normal gene expression, and these animals have IQs,
+
+learning rates that are indistinguishable
+
+from an unmanipulated controls.
+
+Even though they are still expressing this,
+
+this, this really, really tough,
+
+a dominant Notch mutation.
+
+So this shows you you can, you can actually override
+
+all kinds of genomic defaults.
+
+And we've done this in cancer as well,
+
+that I won't have time to talk about
+
+an override the function of
+
+teratogens of onco genes at the physiological level.
+
+Race specifying the electrical patterns
+
+that are telling the cells what to do,
+
+okay, and all the molecular consequences that follow.
+
+And so in the future, what I think we're looking
+
+at for regenerative medicine is this kind of
+
+approach whereby we have a simulator that can
+
+take the existing data on which tissues expressing what,
+
+and the data on what bioelectrical patterns you want.
+
+And it can actually help you
+
+design cocktails of what we call elect or pseudo-colored.
+
+Because there's a massive number,
+
+something like 20 percent of
+
+all drugs or ion channel drugs.
+
+And so this is a huge toolkit
+
+of mostly human approved drugs
+
+that people already take for,
+
+for, for migraines and an epilepsy and so
+
+on and so on that can be
+
+used in regenerative medicine contexts.
+
+And so you can see here this application we
+
+call a tool for electrical design environment.
+
+You can go and play with it.
+
+And it will actually help you try
+
+to try to pick electric suitable drugs.
+
+And so in the last part,
+
+what I wanna do is talk a little bit about the future and
+
+to move from the goal of repairing existing forms.
+
+So repairing existing anatomies
+
+that we already know that evolved.
+
+But through at the evolutionary history and
+
+medical reasons why you want hearts and livers and so on.
+
+And I want to sort of
+
+pull out again and think about the large,
+
+the larger question of all possible morphologies.
+
+And I want to start by showing you a new model organism.
+
+So here it is.
+
+You can see it's swimming along for, for scale.
+
+This thing is about, oh,
+
+probably about 200 to 300 microns in length.
+
+So here it is swimming along.
+
+Here's two of them.
+
+This one is going in a circle.
+
+This one kind of patrols back and forth,
+
+either in a short,
+
+kind of a short path or a longer path.
+
+And then over here this is,
+
+this is tracking data on a group of them.
+
+And you can see this one is going
+
+on kind of a long journey.
+
+There's others that are, that
+
+are standing still, there's others.
+
+These two are going to sort of
+
+interact with each other for a while.
+
+These are going to sit here doing nothing.
+
+So it has a variety of movement types.
+
+What you can see here is that we've put it in a,
+
+in a maze. It's filled with water.
+
+The water is still, it's not flowing anywhere.
+
+And what you can see, as you can see this,
+
+you can see this animal traverse the maze.
+
+And I'm just going to play it for you again.
+
+So it gets going.
+
+It doesn't bump into the wall.
+
+It takes the corner here without
+
+having to hit the opposite wall, right?
+
+So it just sort of, it
+
+doesn't keep going in straight lines,
+
+but it can tell there's
+
+a corner there, so it's sort of goes in.
+
+And then at this point, it
+
+decides that it wants to turn around and go backward.
+
+Came from. Okay.
+
+There's nothing there. There's no barrier,
+
+there's no there's no waterflow.
+
+It just had explores as much as it
+
+wants and then it decides it's going
+
+backward came from, okay.
+
+They also have a kind of amazing regenerative capacity.
+
+So I'll just show you here if we,
+
+if we cut it, basically snippet in half,
+
+the whole thing is a kind of a sphere.
+
+We snippet in half.
+
+What you can see here, right here
+
+through this hinge it has this,
+
+it generates this amazing force here to fold itself
+
+backup and try to get back to it's it's correct.
+
+It's correct shape.
+
+And if you glue two of them
+
+down and use a calcium reporter,
+
+with a fluorescent calcium reporter.
+
+You can see the signaling, this is very brain like.
+
+This is exactly what, what brains
+
+would look like if you did,
+
+if you did calcium imaging.
+
+And so here's, here's two of
+
+them sort of sitting next to each other.
+
+And you can do all kinds of mutual information analysis
+
+to see which whether they're communicating or not.
+
+Now, I haven't told you what this is yet.
+
+So so so here's where I'm going
+
+to tell you that there are no neurons here.
+
+So despite the fact that it,
+
+that it moves, it has behavior.
+
+It has calcium signaling.
+
+This is skin. This is, this is just skin.
+
+And the no neurons,
+
+no brain tissue where it comes from
+
+is the early frog embryo.
+
+These are called xenobiotic for
+
+Xenopus labors, that's the name of a frog.
+
+These are, these are bio bots,
+
+a class of bio bots.
+
+And the way they're made is we basically take a bunch
+
+of skin cells off of a frog embryo.
+
+We liberate them from the rest of
+
+the embryonic cells that normally tell them what to do.
+
+What do they tell them to do is to,
+
+is to sit still on the outside of
+
+the embryo and serve as a protective barrier.
+
+So we liberate the cells,
+
+we put them in a little depression,
+
+we leave them overnight and we give them a chance
+
+to re-envision their multicellularity.
+
+And when they do this, they coalesce.
+
+They come together and they make this,
+
+make this thing that,
+
+that is not only has this kind of signaling,
+
+but it has regenerative capacity
+
+towards its new shaped, by the way,
+
+not towards his old shade, towards
+
+its new shape it has it has all kinds of behaviors.
+
+And if you were to sequence them,
+
+if you didn't know what this was,
+
+and I brought in this new,
+
+new organism and you'd say, Well,
+
+let's find out what this thing as
+
+you would sequence the genome.
+
+And what you would see, you would see
+
+is 100% normal Xenopus lavas genome.
+
+Those cells have not been manipulated in anyway,
+
+other than to free them from the,
+
+from the, from the influence of
+
+the other cells that they network with normally.
+
+And so the interesting thing about these antibodies,
+
+well, one interesting thing is.
+
+They are perhaps the only creature on the planet
+
+right now that has
+
+no straightforward evolutionary backstory.
+
+Every other animal, if you ask,
+
+why is it a certain color, why does it jump?
+
+Why does it have various capacities?
+
+The answer is always the same because
+
+for millions of years
+
+its ancestors were selected to be good at this or that,
+
+that, that specific properties.
+
+Now xenobiotic have had
+
+no selection to be good zettabytes.
+
+The said the cells of course evolved in the,
+
+in the phylogenetic lineage on Earth.
+
+But they were evolved to sit
+
+quietly on the outside of the,
+
+of the tadpole and keep out the pathogens.
+
+They were not selected
+
+for the ability to run around on their
+
+own and and do
+
+the things that we've seen them seen them do.
+
+And I could show you lots,
+
+lots more if I had more time.
+
+They have this amazing emergent behavior, anatomy.
+
+We don't know yet.
+
+Their cognitive capacities were
+
+exploring their ability to
+
+learn to have preferences and so
+
+on and stay tuned for all that.
+
+But the, there, It's
+
+remarkable that you take these cells and
+
+in 48 hours they,
+
+with no help from us,
+
+they pulled together an entirely new way
+
+to be a functional creature
+
+where otherwise they would have just been
+
+skin sitting on, sitting on the saddle.
+
+And so one way to think
+
+about this is that evolution isn't
+
+finding specific hard-wired solutions
+
+to a specific fitness function.
+
+Actually finds is hardware
+
+that can exploit various laws of physics and
+
+computation to solve a wide range
+
+of diverse problems in very different environments.
+
+And so I think it's
+
+important to think about this that we're used
+
+to intelligence as being
+
+problem-solving in a three-dimensional environment,
+
+right?
+
+So, so here's this, here,
+
+these crows that can operate locks
+
+and gather cigarette butts to get rewards and so on.
+
+So this is all typical in behave
+
+intelligent behavior in three-dimensional space.
+
+But where did that come from?
+
+Long before animals had muscles and we're
+
+able to move around
+
+rapidly through three-dimensional space.
+
+They exhibited problem-solving behavior in other spaces.
+
+First, Metabolic space, and then physiological space,
+
+and amorphous space, and then transcriptional space.
+
+So it only then,
+
+only then did, did this kind of motel behavior evolve.
+
+So the idea is that there are
+
+numerous virtual spaces like
+
+the space of possible of physiological states,
+
+the space of possible anatomical configurations
+
+of different gene expressions.
+
+Somebody has a very high dimensional spaces,
+
+20000 genes for example.
+
+And so certain genomes. So the idea is that cells and
+
+cellular collectives have been solving problems in
+
+these spaces long before
+
+brains and muscles shut up, okay?
+
+And that we have to be able to look at intelligence
+
+as competency and navigating
+
+these other space they should wait to it.
+
+And it's a more general definition of intelligence that,
+
+that, that allows us to understand
+
+the kind of navigation of these other spaces.
+
+So here's a, here's a couple of simple examples.
+
+We know that you can amputate
+
+the limb from anywhere, right?
+
+And it will grow exactly what's needed.
+
+No more, no less. So there's
+
+that flexibility of different starting positions.
+
+This is an amazing thing.
+
+Back in the, back in the forties and fifties
+
+it was discovered that, and this is,
+
+this is a cross-section through a tube,
+
+a kidney lumen in a, in a salamander.
+
+And it was discovered that if
+
+you increase the amount of genetic material in the cells,
+
+the cells get bigger and bigger,
+
+but the animal stays the same.
+
+And the, for example, the size of
+
+the kidney tubule lumen stays exactly the same.
+
+And so fewer and fewer cells are
+
+used to make the lumen until the cells gets so
+
+gigantic that one cell
+
+wraps around itself to make the same structure.
+
+So think about what that means in this case,
+
+it has to deploy cell to
+
+cell communication to give rise to this thing.
+
+But in this case, the same anatomical need.
+
+The, the, the goal of making
+
+the tubule of a particular size drives
+
+a completely different low-level molecular biology
+
+of bending the cytoskeleton so that it,
+
+so that the cell can bend around
+
+itself and gives you that lumen.
+
+So the ability. So think about how
+
+far away are we from robotics that can self-assemble,
+
+even though you gave a different
+
+sized parts that were completely,
+
+completely different and it
+
+still knows what to do, right?
+
+We don't have anything that works that way.
+
+And so all of these examples,
+
+I want to be clear that one way to think about this is
+
+that this definition by
+
+William James of intelligence, intelligence.
+
+And this is just one definition obviously,
+
+but, but I think it's a deep,
+
+profound when intelligence is the ability to get to
+
+the same goal by different means from
+
+different starting positions despite perturbations,
+
+despite your environment being different,
+
+your parts being different.
+
+All of these things, these systems have been exhibiting
+
+that kind of intelligence
+
+in different spaces for really long time.
+
+Here's an example that we discovered of intelligence
+
+in fizzy lived problem-solving and physiological space.
+
+So here's a planaria and we
+
+soak the planaria and in Barium.
+
+Now barium blocks all potassium
+
+channels that causes their heads to explode.
+
+They're physically there has just blow up.
+
+Within a couple of weeks,
+
+they grow new heads that are completely barium adapted.
+
+Nope, no problem. So you'd leave them in the barium.
+
+These heads don't care at all.
+
+And so we analyzed the genes,
+
+What's different transcriptionally between
+
+the barium adapted heads and the normal heads.
+
+Heads don't explode.
+
+And we discovered that out of there massive genome,
+
+these animals have altered
+
+the expression of actually a very small number of genes.
+
+To allow them to do their business
+
+despite the presence of barium.
+
+Now, what's cool is that barium is
+
+not something planaria ever encounter in the wild.
+
+So this was not a specifically selected
+
+for kind of defense mechanism.
+
+They somehow solve this problem
+
+and you think about, I, whoops,
+
+I always think about it as a kind
+
+of nuclear reactor control room, right?
+
+You're sitting there, you got a million buttons,
+
+the things melting down.
+
+What are you going to do, right?
+
+And what you don't have time to do is to start to
+
+gradient descent and randomly
+
+start flipping buttons to see what happens.
+
+Because much like with genes,
+
+lots of changes you might make will
+
+kill you before they do anything good for you.
+
+So out of that 2030,
+
+however many thousand dimensional space,
+
+the system can actually hone in on
+
+exactly a very small number of genes that
+
+will solve the physiological problem that is having,
+
+not being able to pass potassium and solve that
+
+at the level of transcription and
+
+amazing example of problem-solving.
+
+And in fact, it's
+
+not only cells and tissues that do this.
+
+Even molecular networks could potentially do that.
+
+So, so we, we analyzed
+
+models of real biological gene regulatory networks.
+
+And we found that we basically asked if we could treat
+
+them the way as if they were
+
+neural networks and look for evidence of learning.
+
+Okay?
+
+And we found that
+
+unlike random networks which serve this controls,
+
+real biological networks can show six types of learning,
+
+including associative learning, habituation,
+
+sensitization and so on.
+
+And so one of the kind
+
+of conclusions that I'm coming to is that
+
+basically we really need to keep in mind
+
+the fact that
+
+all intelligence is collective intelligence.
+
+It's not just anthills that
+
+do intelligent things as a group,
+
+we are all bags of cells were
+
+collections of neurons. We're all made of parts.
+
+And at every level this is a kind of multiscale,
+
+multiscale competency architecture where
+
+at every level of biology from the,
+
+from the molecular networks all the way up
+
+to tissues and organs and then collectives, groups.
+
+There's problem-solving and intelligence
+
+going on and it scales up in a,
+
+in a really, really interesting way.
+
+And you know, if you, if you,
+
+if you are wondering what it's like, you know,
+
+what is the, what is the, the,
+
+the internal, a first-person
+
+perspective of what it's like to
+
+be a collection of subunit solving problems,
+
+having memories and navigating problem space as well.
+
+You know what it's like because that's what we are.
+
+Okay. That, that, that is exactly what we are.
+
+And that same kind of thing
+
+goes all the way down to the bottom.
+
+And so, because biology is so interoperable,
+
+because it has the ability to, to,
+
+to integrate competent lower-level subunits
+
+into larger scale holes.
+
+We can, we can now manipulate every part of this.
+
+And so this is just the last couple
+
+of slides I'm coming to the end here,
+
+which is to say that we can now replace
+
+every part of an organism with other things.
+
+So at every level you can introduce organic,
+
+you can introduce materials,
+
+you can introduce some nanomaterials and so on.
+
+Anywhere, at every level you can
+
+choose anywhere on this plane of things that
+
+were evolved or designed that executes
+
+some sort of high level computational functions
+
+or just very,
+
+you know, it's kinda simpler machines.
+
+And so there's this,
+
+what we are going to be seeing
+
+I think in our, in our lifetime,
+
+is the fact that Darwin,
+
+Darwin called an endless forms
+
+most beautiful when he looked
+
+out at the biology and he saw
+
+all these varieties of plants and animals.
+
+All of that is a tiny corner
+
+of the space of possible living things.
+
+And what we have now and what's, what's, what's coming.
+
+I think pretty inevitably is
+
+a future where we are going to be surrounded
+
+by organisms that are
+
+novel combinations of living cells
+
+from different species designed machine components.
+
+So there's all kinds of
+
+inorganic components and of course artificial.
+
+So the software level components.
+
+And so already, you know,
+
+people are, people are making hybrids,
+
+which are living brains driving robotic bodies,
+
+and cyborgs to humans that can operate
+
+wheelchairs and novel sensory
+
+machinery with their brains and so on.
+
+That's just the beginning.
+
+The space of possible agents with novel bodies,
+
+novel minds is enormous
+
+and we're going to see all of that because
+
+biology is incredibly good
+
+at scaling up from competent subunits to
+
+functional large-scale holes that
+
+have novel behaviors, novel cognitive capacities.
+
+And there are implications here.
+
+Not only for before biomedicine
+
+and robotics, but actually for ethics.
+
+Because the days in
+
+which you could look at a system and have
+
+some understanding of how you're going to relate to it
+
+by asking what is it
+
+made of and how did it get here, right?
+
+We used to be able to come up and
+
+sort of knock on something.
+
+And if you've heard of metallic sound,
+
+you would say write this came off a factory.
+
+It's a machine.
+
+It's going to have fairly boring behavior and
+
+I'm okay to take it apart and do whatever I want with it.
+
+And if it's sort of soft and squishy, then no,
+
+it was an evolved product
+
+of evolution and I better be nice to it.
+
+The days of being able to tell that by
+
+the origin story and what is it made
+
+of are rapidly coming to an end.
+
+We're going to be surrounded by very,
+
+very novel combinations of, of,
+
+of these three sort of streams of,
+
+of, of computational capacity.
+
+And we're going to have to
+
+figure out how we relate to creatures that
+
+don't look like any part of
+
+the phylogenetic tree that were used to.
+
+Okay, so I'll just close with, with, with this.
+
+To summarize that biology
+
+exhibits problem-solving and multiple spaces.
+
+Intelligence is much, much older than, than brains.
+
+And there's a really interesting
+
+physiological software layer that sits between
+
+the genotype and the anatomy that's
+
+responsible for all that plasticity
+
+and problem-solving that I showed you.
+
+It's a computational medium of a collective intelligence.
+
+This is how cell networks may group decisions for,
+
+for example, anatomical homeostasis.
+
+And we're now getting better at reading and writing
+
+the pattern memories that
+
+this collective intelligence is using to make decisions.
+
+And this allows us to reprogram anatomy.
+
+New, new AI tools are coming online
+
+for design of strategies for regenerative medicine,
+
+where we're going to be able to repair
+
+birth defects, normalized tumors,
+
+regenerate organs, and make
+
+synthetic living machines without
+
+micromanaging them from the bottom up.
+
+But actually by taking advantage
+
+of this protocol ignition.
+
+And they're nested multiscale competency architecture,
+
+where we're basically incentivizing the system
+
+at a higher level to reach new goal states,
+
+not micro managing the hardware.
+
+So that's it.
+
+I will thank the postdocs in
+
+them and students who did all the work.
+
+I will thank our funders who
+
+supported all the work. The illustrations.
+
+You saw that the ad, the model
+
+systems that we use to do this kind of work.
+
+Again, the disclosure.
+
+And if anybody's interested in sort
+
+of the more philosophical aspects of this,
+
+here are some, here,
+
+some papers that I'm happy to,
+
+happy to send people if they're interested to follow up.
+
+And at the end, I just want to show you this video.
+
+If you're wondering what two-headed planaria
+
+do in their spare time.
+
+And there you go.
+
+Thank you so much. I'll take questions.

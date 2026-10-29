@@ -1,0 +1,2774 @@
+{
+  "source_url": "https://omny.fm/shows/inner-cosmos-with-david-eagleman/ep82-why-do-your-30-trillion-cells-feel-like-a-sel",
+  "transcript_track_url": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/53ed3470-f571-490c-bced-b232016d81e8/transcript?format=WebVTT&t=1732486456",
+  "raw_transcript_path": "transcripts/permitted/rss-e8b00faa1455da36.srt",
+  "source_kind": "platform_caption",
+  "title": "Ep82 \"Why Do Your 30 Trillion Cells Feel Like a Self?\" Part 1",
+  "publication_date": null,
+  "video_ids": [],
+  "relevance_confirmed": true,
+  "relevance_evidence": "publisher RSS identifies Michael Levin; configured episode title verified against the official appearance index",
+  "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred",
+  "host": "Inner Cosmos with David Eagleman",
+  "language": "en-us",
+  "episode_guid": "53ed3470-f571-490c-bced-b232016d81e8",
+  "publisher_feed_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/534dc725-2971-42a1-b1bf-afaa0107416e/bee00526-7528-4581-b6b6-afaa01083a3d/podcast.rss",
+  "transcript_id": "publisher-9ced33b05a5764cf",
+  "retrieved_at": "2026-10-29T11:28:54.048167+00:00",
+  "status": "stored",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "start_seconds": 5.4,
+      "end_seconds": 9.44,
+      "speaker": null,
+      "text": "Although every cell in your body changes such that you"
+    },
+    {
+      "start_seconds": 9.52,
+      "end_seconds": 14.44,
+      "speaker": null,
+      "text": "are never again the same person physically, and your neural"
+    },
+    {
+      "start_seconds": 14.48,
+      "end_seconds": 17.68,
+      "speaker": null,
+      "text": "networks change every hour of your life as you absorb"
+    },
+    {
+      "start_seconds": 17.76,
+      "end_seconds": 23.24,
+      "speaker": null,
+      "text": "new experiences. Why do you have an illusion of consistency,"
+    },
+    {
+      "start_seconds": 23.36,
+      "end_seconds": 26.88,
+      "speaker": null,
+      "text": "as though you're the same person you were a week"
+    },
+    {
+      "start_seconds": 26.88,
+      "end_seconds": 29.8,
+      "speaker": null,
+      "text": "ago or a year ago. What does this have to"
+    },
+    {
+      "start_seconds": 29.84,
+      "end_seconds": 34.64,
+      "speaker": null,
+      "text": "do with the mythical watercraft of the Greek demigod Theseus?"
+    },
+    {
+      "start_seconds": 35.36,
+      "end_seconds": 39.36,
+      "speaker": null,
+      "text": "What is the end of history illusion? And why do"
+    },
+    {
+      "start_seconds": 39.44,
+      "end_seconds": 43.0,
+      "speaker": null,
+      "text": "you go through so much trouble to make things comfortable"
+    },
+    {
+      "start_seconds": 43.159,
+      "end_seconds": 46.879,
+      "speaker": null,
+      "text": "for your future self even though you don't know that"
+    },
+    {
+      "start_seconds": 47.0,
+      "end_seconds": 50.159,
+      "speaker": null,
+      "text": "person and you can be guaranteed that that person is"
+    },
+    {
+      "start_seconds": 50.2,
+      "end_seconds": 52.64,
+      "speaker": null,
+      "text": "not going to feel the same way you do now."
+    },
+    {
+      "start_seconds": 53.44,
+      "end_seconds": 57.4,
+      "speaker": null,
+      "text": "And if there were an afterlife, what age would your"
+    },
+    {
+      "start_seconds": 57.48,
+      "end_seconds": 64.92,
+      "speaker": null,
+      "text": "deity dial you to for living out eternity? Welcome to"
+    },
+    {
+      "start_seconds": 64.959,
+      "end_seconds": 68.36,
+      "speaker": null,
+      "text": "Inner Cosmos with me David Eagleman. I'm a neuroscientist and"
+    },
+    {
+      "start_seconds": 68.4,
+      "end_seconds": 72.16,
+      "speaker": null,
+      "text": "an author at Stanford and in these episodes we dive"
+    },
+    {
+      "start_seconds": 72.24,
+      "end_seconds": 75.6,
+      "speaker": null,
+      "text": "deeply into our three pound universe to uncover some of"
+    },
+    {
+      "start_seconds": 75.64,
+      "end_seconds": 90.08,
+      "speaker": null,
+      "text": "the most surprising aspects of our lives. Today, we're going"
+    },
+    {
+      "start_seconds": 90.12,
+      "end_seconds": 93.44,
+      "speaker": null,
+      "text": "to talk about the notion of having a self and"
+    },
+    {
+      "start_seconds": 93.6,
+      "end_seconds": 96.52000000000001,
+      "speaker": null,
+      "text": "what that has to do with our memory. And this"
+    },
+    {
+      "start_seconds": 96.6,
+      "end_seconds": 98.28,
+      "speaker": null,
+      "text": "is a big topic, so we're going to do this"
+    },
+    {
+      "start_seconds": 98.4,
+      "end_seconds": 101.92,
+      "speaker": null,
+      "text": "in two parts. Today, we're going to talk about how"
+    },
+    {
+      "start_seconds": 102.0,
+      "end_seconds": 105.68,
+      "speaker": null,
+      "text": "and why we think of ourselves as lasting through time"
+    },
+    {
+      "start_seconds": 106.12,
+      "end_seconds": 108.56,
+      "speaker": null,
+      "text": "and what that has to do with our memories. And"
+    },
+    {
+      "start_seconds": 108.8,
+      "end_seconds": 111.56,
+      "speaker": null,
+      "text": "in next week's episode, part two, I'm going to talk"
+    },
+    {
+      "start_seconds": 111.6,
+      "end_seconds": 115.32,
+      "speaker": null,
+      "text": "with my colleague, neuroscientist Michael Levin, one of the most"
+    },
+    {
+      "start_seconds": 115.52000000000001,
+      "end_seconds": 118.6,
+      "speaker": null,
+      "text": "energized and original thinkers in the field, and I'm going"
+    },
+    {
+      "start_seconds": 118.64,
+      "end_seconds": 121.04,
+      "speaker": null,
+      "text": "to talk with him about the way which memories can"
+    },
+    {
+      "start_seconds": 121.12,
+      "end_seconds": 124.44,
+      "speaker": null,
+      "text": "be thought of like little creatures of their own that"
+    },
+    {
+      "start_seconds": 124.64,
+      "end_seconds": 128.44,
+      "speaker": null,
+      "text": "carry messages in a bottle from one version of you"
+    },
+    {
+      "start_seconds": 128.72,
+      "end_seconds": 133.28,
+      "speaker": null,
+      "text": "to the next. So for today, let's start in ancient Greece,"
+    },
+    {
+      "start_seconds": 133.44,
+      "end_seconds": 137.48,
+      "speaker": null,
+      "text": "where the historian Bluetarch wrote about a tough puzzle that"
+    },
+    {
+      "start_seconds": 137.52,
+      "end_seconds": 140.96,
+      "speaker": null,
+      "text": "had been floating around in the Greek philosopher circles, and"
+    },
+    {
+      "start_seconds": 141.0,
+      "end_seconds": 144.639,
+      "speaker": null,
+      "text": "they were all arguing about it. The puzzle was this,"
+    },
+    {
+      "start_seconds": 145.32,
+      "end_seconds": 150.24,
+      "speaker": null,
+      "text": "imagine the ship of Theseus. Theseus was the hero in"
+    },
+    {
+      "start_seconds": 150.28,
+      "end_seconds": 153.16,
+      "speaker": null,
+      "text": "Greek mythology who slayed the minotaur. The idea is that"
+    },
+    {
+      "start_seconds": 153.36,
+      "end_seconds": 157.52,
+      "speaker": null,
+      "text": "Theseus and his crew of Athenians sail back from Crete"
+    },
+    {
+      "start_seconds": 157.56,
+      "end_seconds": 161.76,
+      "speaker": null,
+      "text": "and dock his wonderful ship. But then the ship sits"
+    },
+    {
+      "start_seconds": 161.8,
+      "end_seconds": 164.76,
+      "speaker": null,
+      "text": "in harbor for a long time and one of the"
+    },
+    {
+      "start_seconds": 164.8,
+      "end_seconds": 168.91899999999998,
+      "speaker": null,
+      "text": "planks starts to rot, so it gets replaced with new"
+    },
+    {
+      "start_seconds": 169.0,
+      "end_seconds": 172.359,
+      "speaker": null,
+      "text": "and stronger timber, and then that happens with another plank"
+    },
+    {
+      "start_seconds": 172.44,
+      "end_seconds": 176.24,
+      "speaker": null,
+      "text": "on the ship, and another, and eventually, with enough time,"
+    },
+    {
+      "start_seconds": 176.72,
+      "end_seconds": 181.28,
+      "speaker": null,
+      "text": "the entire ship gets replaced, meaning that a single plank"
+    },
+    {
+      "start_seconds": 181.68,
+      "end_seconds": 184.079,
+      "speaker": null,
+      "text": "is the same as what it was when the ship"
+    },
+    {
+      "start_seconds": 184.4,
+      "end_seconds": 188.0,
+      "speaker": null,
+      "text": "first docked. And the question is is it the same"
+    },
+    {
+      "start_seconds": 188.4,
+      "end_seconds": 191.8,
+      "speaker": null,
+      "text": "ship of Theseus or is it not his ship anymore?"
+    },
+    {
+      "start_seconds": 191.84,
+      "end_seconds": 196.56,
+      "speaker": null,
+      "text": "Because every single part has been replaced. Plutarch suggested that"
+    },
+    {
+      "start_seconds": 196.8,
+      "end_seconds": 199.72,
+      "speaker": null,
+      "text": "half the philosophers in Greece argue the ship is still"
+    },
+    {
+      "start_seconds": 199.76,
+      "end_seconds": 203.88,
+      "speaker": null,
+      "text": "the same ship because it retains its identity despite the"
+    },
+    {
+      "start_seconds": 203.96,
+      "end_seconds": 207.16,
+      "speaker": null,
+      "text": "changes to its parts, and the other half of philosophers,"
+    },
+    {
+      "start_seconds": 207.2,
+      "end_seconds": 210.32,
+      "speaker": null,
+      "text": "he suggested, argued that the ship is not the same"
+    },
+    {
+      "start_seconds": 210.36,
+      "end_seconds": 213.36,
+      "speaker": null,
+      "text": "ship because no part of it is the same. So"
+    },
+    {
+      "start_seconds": 213.96,
+      "end_seconds": 217.68,
+      "speaker": null,
+      "text": "for thousands of years, the Ship of Theseus has been"
+    },
+    {
+      "start_seconds": 217.72,
+      "end_seconds": 222.64,
+      "speaker": null,
+      "text": "a thought experiment that surfaces these tough questions about identity"
+    },
+    {
+      "start_seconds": 222.76,
+      "end_seconds": 226.16,
+      "speaker": null,
+      "text": "and change. By the way, there are lots of variants"
+    },
+    {
+      "start_seconds": 226.2,
+      "end_seconds": 229.2,
+      "speaker": null,
+      "text": "on this. My father had an axe in the garage,"
+    },
+    {
+      "start_seconds": 229.44,
+      "end_seconds": 231.16,
+      "speaker": null,
+      "text": "and he would always hold it up and tell me"
+    },
+    {
+      "start_seconds": 231.76,
+      "end_seconds": 236.04,
+      "speaker": null,
+      "text": "this was actually George Washington's axe. Oh, but the handle"
+    },
+    {
+      "start_seconds": 236.07999999999998,
+      "end_seconds": 238.92000000000002,
+      "speaker": null,
+      "text": "has been replaced twelve times and the axe head has"
+    },
+    {
+      "start_seconds": 238.96,
+      "end_seconds": 242.6,
+      "speaker": null,
+      "text": "been replaced for times. It was obviously a joke, but"
+    },
+    {
+      "start_seconds": 242.64,
+      "end_seconds": 245.44,
+      "speaker": null,
+      "text": "it got me thinking from a young age about the"
+    },
+    {
+      "start_seconds": 245.52,
+      "end_seconds": 249.76,
+      "speaker": null,
+      "text": "nature of identity in the face of change. Does something"
+    },
+    {
+      "start_seconds": 249.84,
+      "end_seconds": 254.4,
+      "speaker": null,
+      "text": "retain its identity if all departs change? Now, why would"
+    },
+    {
+      "start_seconds": 254.44,
+      "end_seconds": 258.279,
+      "speaker": null,
+      "text": "a neuroscience podcast care about the Ship of Theseus or"
+    },
+    {
+      "start_seconds": 258.48,
+      "end_seconds": 263.599,
+      "speaker": null,
+      "text": "George Washington's acts. It's because that kind of wholesale replacement"
+    },
+    {
+      "start_seconds": 263.76,
+      "end_seconds": 268.279,
+      "speaker": null,
+      "text": "is precisely what's happening to your brain and your entire body."
+    },
+    {
+      "start_seconds": 268.96,
+      "end_seconds": 272.039,
+      "speaker": null,
+      "text": "A big part of the mystery of selfhood has to"
+    },
+    {
+      "start_seconds": 272.08,
+      "end_seconds": 274.6,
+      "speaker": null,
+      "text": "do with the fact that all the pieces and parts"
+    },
+    {
+      "start_seconds": 274.64,
+      "end_seconds": 280.36,
+      "speaker": null,
+      "text": "that make up you are constantly turning over. Your body"
+    },
+    {
+      "start_seconds": 280.4,
+      "end_seconds": 283.88,
+      "speaker": null,
+      "text": "is built out of thirty trillion cells, and this is"
+    },
+    {
+      "start_seconds": 283.96,
+      "end_seconds": 289.08,
+      "speaker": null,
+      "text": "just cellular stuff. Every bit of the cells has a lifetime."
+    },
+    {
+      "start_seconds": 289.56,
+      "end_seconds": 292.599,
+      "speaker": null,
+      "text": "Most of the cells die or subdivide at some point."
+    },
+    {
+      "start_seconds": 292.68,
+      "end_seconds": 295.44,
+      "speaker": null,
+      "text": "But even those cells that stick around your whole life"
+    },
+    {
+      "start_seconds": 295.48,
+      "end_seconds": 299.28,
+      "speaker": null,
+      "text": "and don't divide, like your neurons, they're totally different every"
+    },
+    {
+      "start_seconds": 299.32,
+      "end_seconds": 303.12,
+      "speaker": null,
+      "text": "few years. Why because brain cells aren't made out of"
+    },
+    {
+      "start_seconds": 303.12,
+      "end_seconds": 306.96,
+      "speaker": null,
+      "text": "something stable like metal or cement. Instead, they're made out"
+    },
+    {
+      "start_seconds": 307.0,
+      "end_seconds": 310.96,
+      "speaker": null,
+      "text": "of the basic proteins and lipids and other molecules that"
+    },
+    {
+      "start_seconds": 311.08,
+      "end_seconds": 313.599,
+      "speaker": null,
+      "text": "make up any cell in the body, and those things"
+    },
+    {
+      "start_seconds": 313.68,
+      "end_seconds": 318.36,
+      "speaker": null,
+      "text": "aren't particularly stable. So every single neuron and every cell"
+    },
+    {
+      "start_seconds": 318.36,
+      "end_seconds": 322.32,
+      "speaker": null,
+      "text": "in your body is like the Ship of Theseus. Every"
+    },
+    {
+      "start_seconds": 322.36,
+      "end_seconds": 325.6,
+      "speaker": null,
+      "text": "part of it is getting rebuilt all the time, one"
+    },
+    {
+      "start_seconds": 325.72,
+      "end_seconds": 328.64,
+      "speaker": null,
+      "text": "planket a time, or in this case one molecule at"
+    },
+    {
+      "start_seconds": 328.68,
+      "end_seconds": 332.359,
+      "speaker": null,
+      "text": "a time. The pieces and parts of the cell have"
+    },
+    {
+      "start_seconds": 332.52,
+      "end_seconds": 336.2,
+      "speaker": null,
+      "text": "no meaningful stability, and so a big part of all"
+    },
+    {
+      "start_seconds": 336.279,
+      "end_seconds": 341.2,
+      "speaker": null,
+      "text": "that cellular machinery is simply building and rebuilding and rebuilding,"
+    },
+    {
+      "start_seconds": 341.76,
+      "end_seconds": 345.68,
+      "speaker": null,
+      "text": "and in this way everything gets replaced. So who you"
+    },
+    {
+      "start_seconds": 345.839,
+      "end_seconds": 349.8,
+      "speaker": null,
+      "text": "are physically changes all the time, and the question is"
+    },
+    {
+      "start_seconds": 350.24,
+      "end_seconds": 355.52,
+      "speaker": null,
+      "text": "how does your self stay intact over this changing substrate."
+    },
+    {
+      "start_seconds": 356.279,
+      "end_seconds": 360.72,
+      "speaker": null,
+      "text": "The answer is it's not clear that it does. But"
+    },
+    {
+      "start_seconds": 360.88,
+      "end_seconds": 367.52,
+      "speaker": null,
+      "text": "cognitively you have this illusion of stability. You are one being."
+    },
+    {
+      "start_seconds": 367.68,
+      "end_seconds": 370.56,
+      "speaker": null,
+      "text": "You've spent your whole life with a fixed history, as in,"
+    },
+    {
+      "start_seconds": 371.0,
+      "end_seconds": 374.68,
+      "speaker": null,
+      "text": "I grew up here, here's my name, this was my hometown,"
+    },
+    {
+      "start_seconds": 374.839,
+      "end_seconds": 378.0,
+      "speaker": null,
+      "text": "these are my parents. This is how my trajectory in"
+    },
+    {
+      "start_seconds": 378.04,
+      "end_seconds": 380.76,
+      "speaker": null,
+      "text": "life has unfolded, leading me from here to there to there."
+    },
+    {
+      "start_seconds": 380.8,
+      "end_seconds": 383.039,
+      "speaker": null,
+      "text": "And so we tend to hold the impression that our"
+    },
+    {
+      "start_seconds": 383.44,
+      "end_seconds": 387.8,
+      "speaker": null,
+      "text": "identities are something very stable, but in fact who you"
+    },
+    {
+      "start_seconds": 388.12,
+      "end_seconds": 391.68,
+      "speaker": null,
+      "text": "are drifts in this light. It's always struck me as"
+    },
+    {
+      "start_seconds": 391.72,
+      "end_seconds": 394.52,
+      "speaker": null,
+      "text": "funny to think about the notion of an afterlife, because"
+    },
+    {
+      "start_seconds": 394.88,
+      "end_seconds": 398.44,
+      "speaker": null,
+      "text": "what age would you be Depending on when you get there,"
+    },
+    {
+      "start_seconds": 398.48,
+      "end_seconds": 401.24,
+      "speaker": null,
+      "text": "you might be a very different person than you were"
+    },
+    {
+      "start_seconds": 401.36,
+      "end_seconds": 404.32,
+      "speaker": null,
+      "text": "even five years before that. And so all this inspired"
+    },
+    {
+      "start_seconds": 404.36,
+      "end_seconds": 407.2,
+      "speaker": null,
+      "text": "me to write a short story that's published in my"
+    },
+    {
+      "start_seconds": 407.24,
+      "end_seconds": 410.56,
+      "speaker": null,
+      "text": "book Some sum and I'm going to read that story"
+    },
+    {
+      "start_seconds": 410.839,
+      "end_seconds": 414.64,
+      "speaker": null,
+      "text": "to illustrate the questions of this episode. The story is"
+    },
+    {
+      "start_seconds": 414.68,
+      "end_seconds": 418.68,
+      "speaker": null,
+      "text": "called Prism. God resolved at the outset that he wanted"
+    },
+    {
+      "start_seconds": 418.8,
+      "end_seconds": 422.68,
+      "speaker": null,
+      "text": "every human to partippaid in the afterlife, but the plans"
+    },
+    {
+      "start_seconds": 423.04,
+      "end_seconds": 426.919,
+      "speaker": null,
+      "text": "weren't thought out to completion, and immediately he began to"
+    },
+    {
+      "start_seconds": 427.0,
+      "end_seconds": 431.72,
+      "speaker": null,
+      "text": "run up against some confusion about age. How old should"
+    },
+    {
+      "start_seconds": 431.76,
+      "end_seconds": 435.76,
+      "speaker": null,
+      "text": "each person be in the afterlife. Should this grandmother exist"
+    },
+    {
+      "start_seconds": 435.8,
+      "end_seconds": 439.04,
+      "speaker": null,
+      "text": "here at her age of death, or should she be"
+    },
+    {
+      "start_seconds": 439.08,
+      "end_seconds": 442.8,
+      "speaker": null,
+      "text": "allowed to live as a young woman, recognizable to her"
+    },
+    {
+      "start_seconds": 442.84,
+      "end_seconds": 446.6,
+      "speaker": null,
+      "text": "first lover but not to her granddaughter. He decided it"
+    },
+    {
+      "start_seconds": 446.68,
+      "end_seconds": 449.92,
+      "speaker": null,
+      "text": "was unfair to keep people the age they were at"
+    },
+    {
+      "start_seconds": 449.92,
+      "end_seconds": 452.92,
+      "speaker": null,
+      "text": "the end of their lives, when much of their beauty"
+    },
+    {
+      "start_seconds": 453.0,
+      "end_seconds": 456.84000000000003,
+      "speaker": null,
+      "text": "and alacrity had been worn down. Allowing everyone to live"
+    },
+    {
+      "start_seconds": 456.88,
+      "end_seconds": 461.32,
+      "speaker": null,
+      "text": "as a young adult proved an unviable solution, because the"
+    },
+    {
+      "start_seconds": 461.36,
+      "end_seconds": 466.56,
+      "speaker": null,
+      "text": "afterlife quickly degenerated into unbounded sexual pursuits, and at middle"
+    },
+    {
+      "start_seconds": 466.56,
+      "end_seconds": 470.119,
+      "speaker": null,
+      "text": "ages they talked only about their children and mortgages, making"
+    },
+    {
+      "start_seconds": 470.15999999999997,
+      "end_seconds": 475.08,
+      "speaker": null,
+      "text": "conversations in the afterlife. Tedious God finally landed on an"
+    },
+    {
+      "start_seconds": 475.28,
+      "end_seconds": 480.2,
+      "speaker": null,
+      "text": "ingenious solution while watching light diffract through a prism. So"
+    },
+    {
+      "start_seconds": 480.24,
+      "end_seconds": 483.6,
+      "speaker": null,
+      "text": "when you arrive here, you are split into your multiple"
+    },
+    {
+      "start_seconds": 483.68,
+      "end_seconds": 488.44,
+      "speaker": null,
+      "text": "selves at all possible ages. The you that existed as"
+    },
+    {
+      "start_seconds": 488.48,
+      "end_seconds": 493.52,
+      "speaker": null,
+      "text": "a single identity is now all ages at once. These"
+    },
+    {
+      "start_seconds": 493.68,
+      "end_seconds": 497.52,
+      "speaker": null,
+      "text": "pieces of you no longer get old, but remain ageless"
+    },
+    {
+      "start_seconds": 497.6,
+      "end_seconds": 503.0,
+      "speaker": null,
+      "text": "into perpetuity. The ewes have transcended time. This takes them"
+    },
+    {
+      "start_seconds": 503.0,
+      "end_seconds": 506.4,
+      "speaker": null,
+      "text": "getting used to The different beams of you might run"
+    },
+    {
+      "start_seconds": 506.4,
+      "end_seconds": 509.24,
+      "speaker": null,
+      "text": "into each other at the grocery store, like separate people"
+    },
+    {
+      "start_seconds": 509.28,
+      "end_seconds": 512.48,
+      "speaker": null,
+      "text": "do in earth life. Your seventy six year old self"
+    },
+    {
+      "start_seconds": 512.84,
+      "end_seconds": 516.56,
+      "speaker": null,
+      "text": "may revisit his favorite creek and run into your eleven"
+    },
+    {
+      "start_seconds": 516.64,
+      "end_seconds": 519.559,
+      "speaker": null,
+      "text": "year old self. Your twenty eight year old self may"
+    },
+    {
+      "start_seconds": 519.559,
+      "end_seconds": 522.12,
+      "speaker": null,
+      "text": "break up with a lover and a diner and notice"
+    },
+    {
+      "start_seconds": 522.16,
+      "end_seconds": 526.16,
+      "speaker": null,
+      "text": "your thirty five year old self visiting that spot, lingering"
+    },
+    {
+      "start_seconds": 526.32,
+      "end_seconds": 530.72,
+      "speaker": null,
+      "text": "on the air of regret hanging over the empty seat. Typically,"
+    },
+    {
+      "start_seconds": 531.12,
+      "end_seconds": 533.9590000000001,
+      "speaker": null,
+      "text": "the different youws are happy to see each other because"
+    },
+    {
+      "start_seconds": 534.2,
+      "end_seconds": 537.32,
+      "speaker": null,
+      "text": "they possess the same name in a shared history. But"
+    },
+    {
+      "start_seconds": 537.6,
+      "end_seconds": 540.48,
+      "speaker": null,
+      "text": "the ewes are more critical of yourselves than they are"
+    },
+    {
+      "start_seconds": 540.48,
+      "end_seconds": 545.16,
+      "speaker": null,
+      "text": "of others, and so each you quickly identifies habits that"
+    },
+    {
+      "start_seconds": 545.24,
+      "end_seconds": 548.559,
+      "speaker": null,
+      "text": "get under your skin. It's a fact of the afterlife."
+    },
+    {
+      "start_seconds": 549.04,
+      "end_seconds": 553.319,
+      "speaker": null,
+      "text": "Don't be surprised to discover that after decomposition into your"
+    },
+    {
+      "start_seconds": 553.44,
+      "end_seconds": 558.96,
+      "speaker": null,
+      "text": "different ages, the different us tend to drift apart. You"
+    },
+    {
+      "start_seconds": 559.08,
+      "end_seconds": 562.6,
+      "speaker": null,
+      "text": "discover that the you of eight years old has less"
+    },
+    {
+      "start_seconds": 562.64,
+      "end_seconds": 565.32,
+      "speaker": null,
+      "text": "than common than expected with the U of thirty two"
+    },
+    {
+      "start_seconds": 565.76,
+      "end_seconds": 568.84,
+      "speaker": null,
+      "text": "and the U of sixty four. The eighteen year old"
+    },
+    {
+      "start_seconds": 568.88,
+      "end_seconds": 572.2,
+      "speaker": null,
+      "text": "you finds more in common with other eighteen year olds"
+    },
+    {
+      "start_seconds": 572.48,
+      "end_seconds": 575.76,
+      "speaker": null,
+      "text": "than with your seventy three year old you. The seventy"
+    },
+    {
+      "start_seconds": 575.8,
+      "end_seconds": 578.48,
+      "speaker": null,
+      "text": "three year old you doesn't mind a bit seeking out"
+    },
+    {
+      "start_seconds": 578.52,
+      "end_seconds": 584.079,
+      "speaker": null,
+      "text": "meaningful conversations with others of the same generation. Beyond the name,"
+    },
+    {
+      "start_seconds": 584.72,
+      "end_seconds": 588.92,
+      "speaker": null,
+      "text": "the us have little else in common, but don't lose hope."
+    },
+    {
+      "start_seconds": 589.32,
+      "end_seconds": 594.4,
+      "speaker": null,
+      "text": "The shared resume of life, parents, birthplace, hometown, school, years,"
+    },
+    {
+      "start_seconds": 594.48,
+      "end_seconds": 598.8389999999999,
+      "speaker": null,
+      "text": "first kiss has a magnetic nostalgic pull. So once in"
+    },
+    {
+      "start_seconds": 598.92,
+      "end_seconds": 602.8,
+      "speaker": null,
+      "text": "a while, the different yous organize a gathering like a"
+    },
+    {
+      "start_seconds": 602.84,
+      "end_seconds": 607.8,
+      "speaker": null,
+      "text": "family reunion, bringing together all your ages into a single room."
+    },
+    {
+      "start_seconds": 608.12,
+      "end_seconds": 611.52,
+      "speaker": null,
+      "text": "At these reunions, the middle aged will delightedly pinch the"
+    },
+    {
+      "start_seconds": 611.64,
+      "end_seconds": 615.16,
+      "speaker": null,
+      "text": "cheeks of the young, and the teenagers will politely listen"
+    },
+    {
+      "start_seconds": 615.24,
+      "end_seconds": 618.96,
+      "speaker": null,
+      "text": "to the stories and advice of the elderly. These reunions"
+    },
+    {
+      "start_seconds": 619.32,
+      "end_seconds": 623.96,
+      "speaker": null,
+      "text": "reveal a group of individuals touchingly searching for a common theme."
+    },
+    {
+      "start_seconds": 624.6,
+      "end_seconds": 627.96,
+      "speaker": null,
+      "text": "They appeal to your name as a unifying structure, but"
+    },
+    {
+      "start_seconds": 628.04,
+      "end_seconds": 631.48,
+      "speaker": null,
+      "text": "they come to realize that the name that existed on earth,"
+    },
+    {
+      "start_seconds": 631.96,
+      "end_seconds": 636.4,
+      "speaker": null,
+      "text": "the you that moved serially through these different identities, was"
+    },
+    {
+      "start_seconds": 636.48,
+      "end_seconds": 640.4,
+      "speaker": null,
+      "text": "like a bundle of sticks from different trees. They come"
+    },
+    {
+      "start_seconds": 640.44,
+      "end_seconds": 645.84,
+      "speaker": null,
+      "text": "to understand with awe the complexity of the compound identity"
+    },
+    {
+      "start_seconds": 645.92,
+      "end_seconds": 649.36,
+      "speaker": null,
+      "text": "that existed on the earth. They conclude with a shudder,"
+    },
+    {
+      "start_seconds": 649.84,
+      "end_seconds": 655.559,
+      "speaker": null,
+      "text": "that the earthly you is utterly lost, unpreserved in the afterlife."
+    },
+    {
+      "start_seconds": 655.6,
+      "end_seconds": 660.6,
+      "speaker": null,
+      "text": "You were all these ages, they concede, and you were none."
+    },
+    {
+      "start_seconds": 675.28,
+      "end_seconds": 678.04,
+      "speaker": null,
+      "text": "So we're changing all the time. But why is it"
+    },
+    {
+      "start_seconds": 678.44,
+      "end_seconds": 681.96,
+      "speaker": null,
+      "text": "hard to keep track of these changes. Obviously it's because"
+    },
+    {
+      "start_seconds": 682.28,
+      "end_seconds": 686.479,
+      "speaker": null,
+      "text": "everything in our lives and our biology changes so slowly."
+    },
+    {
+      "start_seconds": 687.0,
+      "end_seconds": 690.16,
+      "speaker": null,
+      "text": "It's like the hour hand of a clock. You can"
+    },
+    {
+      "start_seconds": 690.16,
+      "end_seconds": 692.72,
+      "speaker": null,
+      "text": "see that it's moved, but you can't see it move."
+    },
+    {
+      "start_seconds": 693.44,
+      "end_seconds": 696.44,
+      "speaker": null,
+      "text": "In general, we can see change most readily in the"
+    },
+    {
+      "start_seconds": 696.48,
+      "end_seconds": 699.8389999999999,
+      "speaker": null,
+      "text": "growth of our children. You look back at photographs from"
+    },
+    {
+      "start_seconds": 699.88,
+      "end_seconds": 702.24,
+      "speaker": null,
+      "text": "a year ago on your phone and you can't believe"
+    },
+    {
+      "start_seconds": 702.28,
+      "end_seconds": 704.8,
+      "speaker": null,
+      "text": "how much things have changed. But it's hard to keep"
+    },
+    {
+      "start_seconds": 704.88,
+      "end_seconds": 708.8,
+      "speaker": null,
+      "text": "track of the changes in yourself. A friend of my"
+    },
+    {
+      "start_seconds": 708.92,
+      "end_seconds": 712.08,
+      "speaker": null,
+      "text": "parents went to his high school reunion, which was taking"
+    },
+    {
+      "start_seconds": 712.12,
+      "end_seconds": 714.4,
+      "speaker": null,
+      "text": "place at a hotel, and he went around looking at"
+    },
+    {
+      "start_seconds": 714.44,
+      "end_seconds": 717.44,
+      "speaker": null,
+      "text": "the different conference rooms to figure out which one was"
+    },
+    {
+      "start_seconds": 717.48,
+      "end_seconds": 720.16,
+      "speaker": null,
+      "text": "the correct class, because they were divided up by decades,"
+    },
+    {
+      "start_seconds": 720.559,
+      "end_seconds": 722.28,
+      "speaker": null,
+      "text": "And he thought he found the right room, but he"
+    },
+    {
+      "start_seconds": 722.32,
+      "end_seconds": 725.64,
+      "speaker": null,
+      "text": "popped his head in and he realized that's completely not"
+    },
+    {
+      "start_seconds": 725.72,
+      "end_seconds": 727.88,
+      "speaker": null,
+      "text": "the right room. All of those are very old people."
+    },
+    {
+      "start_seconds": 728.2,
+      "end_seconds": 730.36,
+      "speaker": null,
+      "text": "And then he stepped back and looked at the sign"
+    },
+    {
+      "start_seconds": 730.76,
+      "end_seconds": 733.88,
+      "speaker": null,
+      "text": "and realized that indeed this was the correct room, and"
+    },
+    {
+      "start_seconds": 734.0,
+      "end_seconds": 737.8,
+      "speaker": null,
+      "text": "he too must presumably look that old to others, even"
+    },
+    {
+      "start_seconds": 737.88,
+      "end_seconds": 741.119,
+      "speaker": null,
+      "text": "if he still thought of himself as young on the inside."
+    },
+    {
+      "start_seconds": 741.84,
+      "end_seconds": 744.12,
+      "speaker": null,
+      "text": "So it's hard to keep track of our own changes"
+    },
+    {
+      "start_seconds": 744.12,
+      "end_seconds": 749.64,
+      "speaker": null,
+      "text": "because they happen slowly. But maybe the thing that binds"
+    },
+    {
+      "start_seconds": 749.679,
+      "end_seconds": 754.76,
+      "speaker": null,
+      "text": "your self together across the ever changing physical substrate is"
+    },
+    {
+      "start_seconds": 754.8,
+      "end_seconds": 758.56,
+      "speaker": null,
+      "text": "the one thing you have that remains constant, your memory."
+    },
+    {
+      "start_seconds": 759.24,
+      "end_seconds": 763.04,
+      "speaker": null,
+      "text": "Memory ties all these versions of you together. Memory serves"
+    },
+    {
+      "start_seconds": 763.08,
+      "end_seconds": 767.56,
+      "speaker": null,
+      "text": "as the thread that weaves through all these transformations, anchoring"
+    },
+    {
+      "start_seconds": 768.12,
+      "end_seconds": 770.599,
+      "speaker": null,
+      "text": "a sense of self. So that sounds very nice, but"
+    },
+    {
+      "start_seconds": 770.64,
+      "end_seconds": 773.88,
+      "speaker": null,
+      "text": "there's a fundamental problem with this, which is that memory"
+    },
+    {
+      "start_seconds": 773.96,
+      "end_seconds": 778.44,
+      "speaker": null,
+      "text": "itself is not stable. It drifts, and I've talked about"
+    },
+    {
+      "start_seconds": 778.44,
+      "end_seconds": 783.76,
+      "speaker": null,
+      "text": "this in several episodes. Memory is not a faithful, unchanging"
+    },
+    {
+      "start_seconds": 783.84,
+      "end_seconds": 787.92,
+      "speaker": null,
+      "text": "record of the past. It's instead a fragile brain state,"
+    },
+    {
+      "start_seconds": 788.0,
+      "end_seconds": 791.76,
+      "speaker": null,
+      "text": "and it needs to be reactivated and reconstructed each time"
+    },
+    {
+      "start_seconds": 791.88,
+      "end_seconds": 797.12,
+      "speaker": null,
+      "text": "you recall it. And in this process, memories morph, So"
+    },
+    {
+      "start_seconds": 797.12,
+      "end_seconds": 799.6,
+      "speaker": null,
+      "text": "we can't really think of them as an archive. They're"
+    },
+    {
+      "start_seconds": 799.6,
+      "end_seconds": 804.56,
+      "speaker": null,
+      "text": "more of a story which we continually rewrite. And that"
+    },
+    {
+      "start_seconds": 804.6,
+      "end_seconds": 807.32,
+      "speaker": null,
+      "text": "would be fine to keep rewriting a story, except that"
+    },
+    {
+      "start_seconds": 807.32,
+      "end_seconds": 810.44,
+      "speaker": null,
+      "text": "we assume at all times that our memories form the"
+    },
+    {
+      "start_seconds": 810.6,
+      "end_seconds": 814.12,
+      "speaker": null,
+      "text": "core of a stable identity. So let me give an"
+    },
+    {
+      "start_seconds": 814.16,
+      "end_seconds": 817.72,
+      "speaker": null,
+      "text": "example of how memories change Imagine that you and two"
+    },
+    {
+      "start_seconds": 817.8,
+      "end_seconds": 821.04,
+      "speaker": null,
+      "text": "friends were at some rooftop party and you were best"
+    },
+    {
+      "start_seconds": 821.04,
+      "end_seconds": 823.76,
+      "speaker": null,
+      "text": "friends since college, and the night was full of jokes"
+    },
+    {
+      "start_seconds": 823.76,
+      "end_seconds": 827.32,
+      "speaker": null,
+      "text": "and old stories, and you remember feeling grateful for this"
+    },
+    {
+      "start_seconds": 827.44,
+      "end_seconds": 829.9590000000001,
+      "speaker": null,
+      "text": "bond that you shared, and you can still picture the"
+    },
+    {
+      "start_seconds": 830.0,
+      "end_seconds": 833.36,
+      "speaker": null,
+      "text": "three of you by the fireplace, vowing to never let"
+    },
+    {
+      "start_seconds": 833.4,
+      "end_seconds": 837.439,
+      "speaker": null,
+      "text": "life pull you apart. But now, a year later, everything"
+    },
+    {
+      "start_seconds": 837.44,
+      "end_seconds": 840.72,
+      "speaker": null,
+      "text": "has changed. Those two guys are now enemies. It all"
+    },
+    {
+      "start_seconds": 840.8,
+      "end_seconds": 842.92,
+      "speaker": null,
+      "text": "fell apart because one of them had an affair with"
+    },
+    {
+      "start_seconds": 842.96,
+      "end_seconds": 845.92,
+      "speaker": null,
+      "text": "the other's girlfriend. So now when you think back on"
+    },
+    {
+      "start_seconds": 845.96,
+      "end_seconds": 849.36,
+      "speaker": null,
+      "text": "that rooftop party, you wonder was there something in the"
+    },
+    {
+      "start_seconds": 849.4,
+      "end_seconds": 853.88,
+      "speaker": null,
+      "text": "way he and the other guy's girlfriend exchanged glances across"
+    },
+    {
+      "start_seconds": 853.92,
+      "end_seconds": 857.24,
+      "speaker": null,
+      "text": "the room? You now think you sort of remember there"
+    },
+    {
+      "start_seconds": 857.28,
+      "end_seconds": 860.96,
+      "speaker": null,
+      "text": "were little stolen looks, there was some subtle tension in"
+    },
+    {
+      "start_seconds": 861.0,
+      "end_seconds": 864.2,
+      "speaker": null,
+      "text": "the air. Did your other friends sense that something was funny?"
+    },
+    {
+      "start_seconds": 864.4,
+      "end_seconds": 868.0,
+      "speaker": null,
+      "text": "Even then, the memory that once felt warm and comforting"
+    },
+    {
+      "start_seconds": 868.04,
+      "end_seconds": 871.08,
+      "speaker": null,
+      "text": "now feels different, like a scene in a movie that"
+    },
+    {
+      "start_seconds": 871.12,
+      "end_seconds": 874.52,
+      "speaker": null,
+      "text": "you're watching for the second time but noticing new things now."
+    },
+    {
+      "start_seconds": 874.64,
+      "end_seconds": 878.04,
+      "speaker": null,
+      "text": "The past hasn't changed, but your present knowledge of what"
+    },
+    {
+      "start_seconds": 878.2,
+      "end_seconds": 882.64,
+      "speaker": null,
+      "text": "came after that party colors the memory and reshapes it,"
+    },
+    {
+      "start_seconds": 882.68,
+      "end_seconds": 884.6,
+      "speaker": null,
+      "text": "and it makes you question what was really there and"
+    },
+    {
+      "start_seconds": 884.64,
+      "end_seconds": 889.76,
+      "speaker": null,
+      "text": "what you've unconsciously added. Memory is slippery, like that, the"
+    },
+    {
+      "start_seconds": 889.76,
+      "end_seconds": 893.44,
+      "speaker": null,
+      "text": "more you revisit it, the more it shifts and blurs,"
+    },
+    {
+      "start_seconds": 893.96,
+      "end_seconds": 896.96,
+      "speaker": null,
+      "text": "which reminds me of a great quotation from Sigmund Freud"
+    },
+    {
+      "start_seconds": 897.04,
+      "end_seconds": 899.6,
+      "speaker": null,
+      "text": "on this topic. In eighteen ninety six, he wrote a"
+    },
+    {
+      "start_seconds": 899.64,
+      "end_seconds": 903.32,
+      "speaker": null,
+      "text": "letter to to a colleague about quote, the material present"
+    },
+    {
+      "start_seconds": 903.48,
+      "end_seconds": 908.16,
+      "speaker": null,
+      "text": "in the form of memory traces being subjected from time"
+    },
+    {
+      "start_seconds": 908.2,
+      "end_seconds": 913.12,
+      "speaker": null,
+      "text": "to time to a rearrangement in accordance with fresh circumstances,"
+    },
+    {
+      "start_seconds": 913.16,
+      "end_seconds": 917.6,
+      "speaker": null,
+      "text": "to a retranscription. And there's another quotation that I cite"
+    },
+    {
+      "start_seconds": 917.72,
+      "end_seconds": 921.08,
+      "speaker": null,
+      "text": "often from a writer named John Dufresny, who once wrote"
+    },
+    {
+      "start_seconds": 921.12,
+      "end_seconds": 925.2,
+      "speaker": null,
+      "text": "that quote, Memory is a myth making machine. What we"
+    },
+    {
+      "start_seconds": 925.28,
+      "end_seconds": 929.44,
+      "speaker": null,
+      "text": "do is keep revising our past to keep it consistent"
+    },
+    {
+      "start_seconds": 929.88,
+      "end_seconds": 933.12,
+      "speaker": null,
+      "text": "with who we think we are. So here's where we"
+    },
+    {
+      "start_seconds": 933.2,
+      "end_seconds": 936.32,
+      "speaker": null,
+      "text": "are so far. Our biology is always changing, and so"
+    },
+    {
+      "start_seconds": 936.44,
+      "end_seconds": 939.6,
+      "speaker": null,
+      "text": "the thing that crosses time is our memory. But even"
+    },
+    {
+      "start_seconds": 939.64,
+      "end_seconds": 943.6,
+      "speaker": null,
+      "text": "that changes all the time, drifting or warping or disintegrating altogether."
+    },
+    {
+      "start_seconds": 944.04,
+      "end_seconds": 947.56,
+      "speaker": null,
+      "text": "And as a result, who you are is always on"
+    },
+    {
+      "start_seconds": 947.64,
+      "end_seconds": 950.8,
+      "speaker": null,
+      "text": "the move. Now, I've been speaking as though we're not"
+    },
+    {
+      "start_seconds": 951.08,
+      "end_seconds": 954.32,
+      "speaker": null,
+      "text": "always aware of so much change happening over time, But"
+    },
+    {
+      "start_seconds": 954.36,
+      "end_seconds": 956.08,
+      "speaker": null,
+      "text": "of course we can come to be aware of this"
+    },
+    {
+      "start_seconds": 956.16,
+      "end_seconds": 959.28,
+      "speaker": null,
+      "text": "in some circumstances. For example, when you look back at"
+    },
+    {
+      "start_seconds": 959.32,
+      "end_seconds": 962.32,
+      "speaker": null,
+      "text": "a diary entry that you wrote some years ago, it's"
+    },
+    {
+      "start_seconds": 962.36,
+      "end_seconds": 966.24,
+      "speaker": null,
+      "text": "often surprising how much you've changed, how much the person"
+    },
+    {
+      "start_seconds": 966.28,
+      "end_seconds": 969.64,
+      "speaker": null,
+      "text": "who held that pen is a bit different than who"
+    },
+    {
+      "start_seconds": 969.72,
+      "end_seconds": 973.52,
+      "speaker": null,
+      "text": "you are now. So we do confront this sometimes. But"
+    },
+    {
+      "start_seconds": 973.64,
+      "end_seconds": 977.28,
+      "speaker": null,
+      "text": "what's weird is despite the massive changes that happen in"
+    },
+    {
+      "start_seconds": 977.32,
+      "end_seconds": 980.88,
+      "speaker": null,
+      "text": "our past, we always think that there will be little"
+    },
+    {
+      "start_seconds": 981.0,
+      "end_seconds": 984.76,
+      "speaker": null,
+      "text": "change in the future. We've changed a lot up until now,"
+    },
+    {
+      "start_seconds": 984.8,
+      "end_seconds": 987.72,
+      "speaker": null,
+      "text": "but now we've settled into place and there won't be"
+    },
+    {
+      "start_seconds": 987.84,
+      "end_seconds": 991.56,
+      "speaker": null,
+      "text": "much change from here. And this is a cognitive illusion"
+    },
+    {
+      "start_seconds": 991.72,
+      "end_seconds": 995.64,
+      "speaker": null,
+      "text": "known as the end of history illusion. In other words,"
+    },
+    {
+      "start_seconds": 995.84,
+      "end_seconds": 999.16,
+      "speaker": null,
+      "text": "we can recognize significant changes in ourselves when we think"
+    },
+    {
+      "start_seconds": 999.2,
+      "end_seconds": 1002.44,
+      "speaker": null,
+      "text": "about our past, but we underestimate how much we're going"
+    },
+    {
+      "start_seconds": 1002.48,
+      "end_seconds": 1006.12,
+      "speaker": null,
+      "text": "to change in the future. We acknowledge that we've grown"
+    },
+    {
+      "start_seconds": 1006.2,
+      "end_seconds": 1010.04,
+      "speaker": null,
+      "text": "or evolved, but we incorrectly assume that who we are"
+    },
+    {
+      "start_seconds": 1010.16,
+      "end_seconds": 1014.2,
+      "speaker": null,
+      "text": "right now is pretty close to our final or mature"
+    },
+    {
+      "start_seconds": 1014.4,
+      "end_seconds": 1018.96,
+      "speaker": null,
+      "text": "version of ourselves. This end of history illusion was first"
+    },
+    {
+      "start_seconds": 1018.96,
+      "end_seconds": 1022.16,
+      "speaker": null,
+      "text": "studied by psychology just like Daniel Gilbert and his colleagues,"
+    },
+    {
+      "start_seconds": 1022.4,
+      "end_seconds": 1025.8,
+      "speaker": null,
+      "text": "and they surveyed people on their values and their preferences,"
+    },
+    {
+      "start_seconds": 1025.84,
+      "end_seconds": 1029.159,
+      "speaker": null,
+      "text": "their personality traits, their life goals, and across the board."
+    },
+    {
+      "start_seconds": 1029.2,
+      "end_seconds": 1033.84,
+      "speaker": null,
+      "text": "They found that people consistently believe that they've undergone more"
+    },
+    {
+      "start_seconds": 1033.96,
+      "end_seconds": 1035.919,
+      "speaker": null,
+      "text": "change in the past than they will in the future."
+    },
+    {
+      "start_seconds": 1036.24,
+      "end_seconds": 1040.359,
+      "speaker": null,
+      "text": "But of course it's an illusion because change is a"
+    },
+    {
+      "start_seconds": 1040.44,
+      "end_seconds": 1044.28,
+      "speaker": null,
+      "text": "continuous process. In other words, if I ask you now"
+    },
+    {
+      "start_seconds": 1044.6,
+      "end_seconds": 1048.0,
+      "speaker": null,
+      "text": "if you've essentially finished changing in life, if you're likes"
+    },
+    {
+      "start_seconds": 1048.0,
+      "end_seconds": 1050.52,
+      "speaker": null,
+      "text": "and personality have settled, you'll say yeah. But if I"
+    },
+    {
+      "start_seconds": 1050.64,
+      "end_seconds": 1053.719,
+      "speaker": null,
+      "text": "track you down and ask you again in five years,"
+    },
+    {
+      "start_seconds": 1053.8,
+      "end_seconds": 1057.6,
+      "speaker": null,
+      "text": "you'll say, actually, the past five years did hold a"
+    },
+    {
+      "start_seconds": 1057.64,
+      "end_seconds": 1061.08,
+      "speaker": null,
+      "text": "lot of change for me, but now I've finally arrived"
+    },
+    {
+      "start_seconds": 1061.08,
+      "end_seconds": 1063.56,
+      "speaker": null,
+      "text": "at my stable self. And it's the same story if"
+    },
+    {
+      "start_seconds": 1063.56,
+      "end_seconds": 1066.119,
+      "speaker": null,
+      "text": "I survey you five years after that. And this is"
+    },
+    {
+      "start_seconds": 1066.2,
+      "end_seconds": 1070.44,
+      "speaker": null,
+      "text": "problematic because, for example, we're always trying to predict our"
+    },
+    {
+      "start_seconds": 1070.48,
+      "end_seconds": 1074.36,
+      "speaker": null,
+      "text": "future emotions. You think, oh, if I get that job promotion,"
+    },
+    {
+      "start_seconds": 1074.68,
+      "end_seconds": 1077.8,
+      "speaker": null,
+      "text": "or if I'm in this relationship, or if I have kids,"
+    },
+    {
+      "start_seconds": 1077.84,
+      "end_seconds": 1080.52,
+      "speaker": null,
+      "text": "or if I don't have kids, this will make me happy."
+    },
+    {
+      "start_seconds": 1080.6,
+      "end_seconds": 1082.52,
+      "speaker": null,
+      "text": "Or if I lose this job and I have to"
+    },
+    {
+      "start_seconds": 1082.56,
+      "end_seconds": 1084.44,
+      "speaker": null,
+      "text": "find a new one, that's going to make me miserable."
+    },
+    {
+      "start_seconds": 1084.56,
+      "end_seconds": 1089.32,
+      "speaker": null,
+      "text": "This is what psychologists call affective forecasting, where we project"
+    },
+    {
+      "start_seconds": 1089.4,
+      "end_seconds": 1091.96,
+      "speaker": null,
+      "text": "how we think we're going to feel, but it's based"
+    },
+    {
+      "start_seconds": 1091.96,
+      "end_seconds": 1095.28,
+      "speaker": null,
+      "text": "on your current limited knowledge about the world, and that"
+    },
+    {
+      "start_seconds": 1095.359,
+      "end_seconds": 1098.119,
+      "speaker": null,
+      "text": "might change. So why do we have an end of"
+    },
+    {
+      "start_seconds": 1098.2,
+      "end_seconds": 1101.679,
+      "speaker": null,
+      "text": "history illusion. Well, presumably it's because it's easier for us"
+    },
+    {
+      "start_seconds": 1101.72,
+      "end_seconds": 1105.04,
+      "speaker": null,
+      "text": "to see the past changes because we have memories and"
+    },
+    {
+      "start_seconds": 1105.08,
+      "end_seconds": 1110.28,
+      "speaker": null,
+      "text": "experiences to draw from, but future changes are hidden in"
+    },
+    {
+      "start_seconds": 1110.32,
+      "end_seconds": 1112.8,
+      "speaker": null,
+      "text": "the mists of the future. We don't know what they are,"
+    },
+    {
+      "start_seconds": 1113.28,
+      "end_seconds": 1116.08,
+      "speaker": null,
+      "text": "so let me give you some concrete examples of this."
+    },
+    {
+      "start_seconds": 1116.48,
+      "end_seconds": 1120.16,
+      "speaker": null,
+      "text": "Think about the way we have our career goals. As"
+    },
+    {
+      "start_seconds": 1120.2,
+      "end_seconds": 1122.399,
+      "speaker": null,
+      "text": "a thirty year old, you might look back and realize"
+    },
+    {
+      "start_seconds": 1122.44,
+      "end_seconds": 1126.76,
+      "speaker": null,
+      "text": "your career aspirations have changed, maybe significantly, from the time"
+    },
+    {
+      "start_seconds": 1126.8,
+      "end_seconds": 1129.48,
+      "speaker": null,
+      "text": "you were twenty, but you might assume that your current"
+    },
+    {
+      "start_seconds": 1129.56,
+      "end_seconds": 1132.72,
+      "speaker": null,
+      "text": "career goals are unlikely to change much in the next"
+    },
+    {
+      "start_seconds": 1132.72,
+      "end_seconds": 1135.44,
+      "speaker": null,
+      "text": "ten years, even though lots of people shift career paths"
+    },
+    {
+      "start_seconds": 1135.52,
+      "end_seconds": 1138.8,
+      "speaker": null,
+      "text": "or professional interests throughout life. Or think about your music"
+    },
+    {
+      "start_seconds": 1138.96,
+      "end_seconds": 1142.6,
+      "speaker": null,
+      "text": "preferences you are older. You may recognize that your taste"
+    },
+    {
+      "start_seconds": 1142.6,
+      "end_seconds": 1146.08,
+      "speaker": null,
+      "text": "in music has evolved since your teenage years. Maybe you"
+    },
+    {
+      "start_seconds": 1146.119,
+      "end_seconds": 1150.48,
+      "speaker": null,
+      "text": "went from popper rock to maybe jazz or classical. But"
+    },
+    {
+      "start_seconds": 1150.72,
+      "end_seconds": 1153.48,
+      "speaker": null,
+      "text": "despite that, you're likely to believe that your current musical"
+    },
+    {
+      "start_seconds": 1153.52,
+      "end_seconds": 1156.359,
+      "speaker": null,
+      "text": "preferences are going to remain stable for the rest of"
+    },
+    {
+      "start_seconds": 1156.4,
+      "end_seconds": 1158.679,
+      "speaker": null,
+      "text": "your life, even though your musical tastes are going to"
+    },
+    {
+      "start_seconds": 1158.8,
+      "end_seconds": 1163.28,
+      "speaker": null,
+      "text": "keep evolving with exposure to new genres and bands and"
+    },
+    {
+      "start_seconds": 1163.4,
+      "end_seconds": 1167.0,
+      "speaker": null,
+      "text": "instruments that don't even exist yet. We're thinking about friendships."
+    },
+    {
+      "start_seconds": 1167.52,
+      "end_seconds": 1170.56,
+      "speaker": null,
+      "text": "In your early twenties, you might reflect on how your"
+    },
+    {
+      "start_seconds": 1170.6,
+      "end_seconds": 1174.16,
+      "speaker": null,
+      "text": "circle of friends has changed from high school to college."
+    },
+    {
+      "start_seconds": 1174.28,
+      "end_seconds": 1176.88,
+      "speaker": null,
+      "text": "There's a big shift in relationships there, but you might"
+    },
+    {
+      "start_seconds": 1176.92,
+      "end_seconds": 1180.28,
+      "speaker": null,
+      "text": "simultaneously feel certain that the college friends you have now"
+    },
+    {
+      "start_seconds": 1180.8,
+      "end_seconds": 1183.8,
+      "speaker": null,
+      "text": "are going to be your closest companions for life. That's"
+    },
+    {
+      "start_seconds": 1183.84,
+      "end_seconds": 1189.52,
+      "speaker": null,
+      "text": "a totally understandable position, but it underestimates how friendships shift"
+    },
+    {
+      "start_seconds": 1189.64,
+      "end_seconds": 1192.6,
+      "speaker": null,
+      "text": "as you enter different life stages, like when you start"
+    },
+    {
+      "start_seconds": 1192.64,
+      "end_seconds": 1194.919,
+      "speaker": null,
+      "text": "a family or you move to a new city. The"
+    },
+    {
+      "start_seconds": 1195.0,
+      "end_seconds": 1198.6,
+      "speaker": null,
+      "text": "same reasoning applies to everything, So take hobbies and interest"
+    },
+    {
+      "start_seconds": 1198.68,
+      "end_seconds": 1201.8,
+      "speaker": null,
+      "text": "When you're in your fish, you notice that you've taken"
+    },
+    {
+      "start_seconds": 1201.92,
+      "end_seconds": 1204.72,
+      "speaker": null,
+      "text": "up new hobbies and given up old ones over the years,"
+    },
+    {
+      "start_seconds": 1204.72,
+      "end_seconds": 1208.04,
+      "speaker": null,
+      "text": "but you'll generally believe that your current interests will remain"
+    },
+    {
+      "start_seconds": 1208.16,
+      "end_seconds": 1211.8,
+      "speaker": null,
+      "text": "consistent for the coming decades, when in fact, new hobbies"
+    },
+    {
+      "start_seconds": 1211.8,
+      "end_seconds": 1214.76,
+      "speaker": null,
+      "text": "and interests will still emerge. You just can't see that"
+    },
+    {
+      "start_seconds": 1214.88,
+      "end_seconds": 1218.88,
+      "speaker": null,
+      "text": "because they're ensconced in the dark forest of the future."
+    },
+    {
+      "start_seconds": 1219.44,
+      "end_seconds": 1222.68,
+      "speaker": null,
+      "text": "Possibly there's some new technology that you're going to be"
+    },
+    {
+      "start_seconds": 1222.72,
+      "end_seconds": 1226.6,
+      "speaker": null,
+      "text": "obsessed with that hasn't even been invented or named yet. Okay,"
+    },
+    {
+      "start_seconds": 1226.64,
+      "end_seconds": 1229.28,
+      "speaker": null,
+      "text": "And the one that's really hard for us to admit"
+    },
+    {
+      "start_seconds": 1229.359,
+      "end_seconds": 1235.12,
+      "speaker": null,
+      "text": "to is future changes in our political values and social beliefs,"
+    },
+    {
+      "start_seconds": 1235.16,
+      "end_seconds": 1238.84,
+      "speaker": null,
+      "text": "and possibly religious beliefs. When you look back on any"
+    },
+    {
+      "start_seconds": 1238.88,
+      "end_seconds": 1241.84,
+      "speaker": null,
+      "text": "of your beliefs from a decade ago, you can sometimes"
+    },
+    {
+      "start_seconds": 1241.88,
+      "end_seconds": 1244.52,
+      "speaker": null,
+      "text": "see there have been some changes. But again, we tend"
+    },
+    {
+      "start_seconds": 1244.56,
+      "end_seconds": 1246.96,
+      "speaker": null,
+      "text": "to assume that our current values are now locked into"
+    },
+    {
+      "start_seconds": 1246.96,
+      "end_seconds": 1250.2,
+      "speaker": null,
+      "text": "place for the rest of our lives. We all fail"
+    },
+    {
+      "start_seconds": 1250.32,
+      "end_seconds": 1254.119,
+      "speaker": null,
+      "text": "to anticipate that our worldview is going to continue to"
+    },
+    {
+      "start_seconds": 1254.16,
+      "end_seconds": 1259.6,
+      "speaker": null,
+      "text": "get reshaped by life experiences, by new information, by changing"
+    },
+    {
+      "start_seconds": 1259.64,
+      "end_seconds": 1264.52,
+      "speaker": null,
+      "text": "social contexts. In a decade, we might not be precisely"
+    },
+    {
+      "start_seconds": 1264.6,
+      "end_seconds": 1283.52,
+      "speaker": null,
+      "text": "who we are right now. Now, this whole end of"
+    },
+    {
+      "start_seconds": 1283.6,
+      "end_seconds": 1287.32,
+      "speaker": null,
+      "text": "history illusion wouldn't really matter for our lives, except that"
+    },
+    {
+      "start_seconds": 1287.359,
+      "end_seconds": 1290.76,
+      "speaker": null,
+      "text": "it affects how we make decisions. Because so much of"
+    },
+    {
+      "start_seconds": 1290.76,
+      "end_seconds": 1296.12,
+      "speaker": null,
+      "text": "what you do is in service to the assumed future you."
+    },
+    {
+      "start_seconds": 1296.119,
+      "end_seconds": 1300.28,
+      "speaker": null,
+      "text": "You suffer through courses and trainings now to make things"
+    },
+    {
+      "start_seconds": 1300.359,
+      "end_seconds": 1304.44,
+      "speaker": null,
+      "text": "better for your future you. You sweat through a workout"
+    },
+    {
+      "start_seconds": 1304.52,
+      "end_seconds": 1307.679,
+      "speaker": null,
+      "text": "so your future you will have a better body. You"
+    },
+    {
+      "start_seconds": 1307.72,
+      "end_seconds": 1310.639,
+      "speaker": null,
+      "text": "put your money into retirement plans to make sure that"
+    },
+    {
+      "start_seconds": 1310.68,
+      "end_seconds": 1314.919,
+      "speaker": null,
+      "text": "the future you has the resources that you predict that"
+    },
+    {
+      "start_seconds": 1314.96,
+      "end_seconds": 1318.84,
+      "speaker": null,
+      "text": "stranger will need. The difficulty simply is that we're not"
+    },
+    {
+      "start_seconds": 1319.0,
+      "end_seconds": 1322.04,
+      "speaker": null,
+      "text": "good predictors. You don't really know who that person is."
+    },
+    {
+      "start_seconds": 1322.88,
+      "end_seconds": 1326.32,
+      "speaker": null,
+      "text": "That person shares your name and your history, but the"
+    },
+    {
+      "start_seconds": 1326.4,
+      "end_seconds": 1329.919,
+      "speaker": null,
+      "text": "fact is that person might be very different than the"
+    },
+    {
+      "start_seconds": 1330.04,
+      "end_seconds": 1334.28,
+      "speaker": null,
+      "text": "current you. So you're donating your retirement money for this"
+    },
+    {
+      "start_seconds": 1334.44,
+      "end_seconds": 1338.919,
+      "speaker": null,
+      "text": "future person that you can essentially guarantee will be not"
+    },
+    {
+      "start_seconds": 1339.2,
+      "end_seconds": 1342.96,
+      "speaker": null,
+      "text": "who you currently believe. That person might vote for the"
+    },
+    {
+      "start_seconds": 1343.16,
+      "end_seconds": 1345.88,
+      "speaker": null,
+      "text": "other political party, the what you would never vote for"
+    },
+    {
+      "start_seconds": 1346.119,
+      "end_seconds": 1349.32,
+      "speaker": null,
+      "text": "and yet you're slaving away and handing over all your"
+    },
+    {
+      "start_seconds": 1349.48,
+      "end_seconds": 1353.08,
+      "speaker": null,
+      "text": "money to that maniac. And you also do stuff assuming"
+    },
+    {
+      "start_seconds": 1353.6,
+      "end_seconds": 1356.679,
+      "speaker": null,
+      "text": "the best about your future self, but sometimes that's not"
+    },
+    {
+      "start_seconds": 1356.88,
+      "end_seconds": 1359.68,
+      "speaker": null,
+      "text": "useful either. We tend to assume that our future self"
+    },
+    {
+      "start_seconds": 1359.72,
+      "end_seconds": 1363.88,
+      "speaker": null,
+      "text": "will be more motivated or disciplined than we are today."
+    },
+    {
+      "start_seconds": 1364.359,
+      "end_seconds": 1367.0,
+      "speaker": null,
+      "text": "So because of that, you might sign up for an"
+    },
+    {
+      "start_seconds": 1367.04,
+      "end_seconds": 1371.32,
+      "speaker": null,
+      "text": "expensive gym membership believing that you'll be more committed in"
+    },
+    {
+      "start_seconds": 1371.32,
+      "end_seconds": 1374.32,
+      "speaker": null,
+      "text": "the future, but then you don't really follow through. Your"
+    },
+    {
+      "start_seconds": 1374.359,
+      "end_seconds": 1378.04,
+      "speaker": null,
+      "text": "future self isn't as on board with the plan as"
+    },
+    {
+      "start_seconds": 1378.08,
+      "end_seconds": 1382.2,
+      "speaker": null,
+      "text": "your past self believed it would be. As a related example,"
+    },
+    {
+      "start_seconds": 1382.44,
+      "end_seconds": 1386.2,
+      "speaker": null,
+      "text": "I'm chronically over committed because at every moment I assume"
+    },
+    {
+      "start_seconds": 1386.6,
+      "end_seconds": 1389.439,
+      "speaker": null,
+      "text": "that my future self is going to be less busy"
+    },
+    {
+      "start_seconds": 1389.52,
+      "end_seconds": 1391.879,
+      "speaker": null,
+      "text": "than I am now, and so I say yes to"
+    },
+    {
+      "start_seconds": 1391.96,
+      "end_seconds": 1396.72,
+      "speaker": null,
+      "text": "future invitations or obligations like taking on big new projects"
+    },
+    {
+      "start_seconds": 1396.8,
+      "end_seconds": 1400.6,
+      "speaker": null,
+      "text": "or attending multiple social events, And when the time arrives,"
+    },
+    {
+      "start_seconds": 1401.08,
+      "end_seconds": 1405.12,
+      "speaker": null,
+      "text": "my future me wishes that my past me hadn't over committed."
+    },
+    {
+      "start_seconds": 1406.0,
+      "end_seconds": 1410.76,
+      "speaker": null,
+      "text": "And more generally, we fall victim to lots of planning fallacies."
+    },
+    {
+      "start_seconds": 1410.8,
+      "end_seconds": 1413.8,
+      "speaker": null,
+      "text": "We underestimate how long it's going to take to complete"
+    },
+    {
+      "start_seconds": 1414.04,
+      "end_seconds": 1417.159,
+      "speaker": null,
+      "text": "some task. You might think cool, I can knock that"
+    },
+    {
+      "start_seconds": 1417.2,
+      "end_seconds": 1418.96,
+      "speaker": null,
+      "text": "thing out in a week, and then you find that"
+    },
+    {
+      "start_seconds": 1419.0,
+      "end_seconds": 1422.2,
+      "speaker": null,
+      "text": "it takes twice as long now. That happens because we"
+    },
+    {
+      "start_seconds": 1422.56,
+      "end_seconds": 1427.04,
+      "speaker": null,
+      "text": "typically fail to correctly predict all the possible setbacks and"
+    },
+    {
+      "start_seconds": 1427.119,
+      "end_seconds": 1430.84,
+      "speaker": null,
+      "text": "complexities that will run into in the future. My favorite"
+    },
+    {
+      "start_seconds": 1430.88,
+      "end_seconds": 1434.92,
+      "speaker": null,
+      "text": "example of a planning fallacy is with a gentleman named"
+    },
+    {
+      "start_seconds": 1435.0,
+      "end_seconds": 1438.76,
+      "speaker": null,
+      "text": "James Murray who in eighteen seventy eight set out to"
+    },
+    {
+      "start_seconds": 1438.88,
+      "end_seconds": 1442.679,
+      "speaker": null,
+      "text": "write the for the English Dictionary, and the idea was"
+    },
+    {
+      "start_seconds": 1442.72,
+      "end_seconds": 1445.72,
+      "speaker": null,
+      "text": "to capture all the words in the English speaking world"
+    },
+    {
+      "start_seconds": 1446.04,
+      "end_seconds": 1450.159,
+      "speaker": null,
+      "text": "and give definitions for all of their various shades of meaning."
+    },
+    {
+      "start_seconds": 1450.76,
+      "end_seconds": 1453.16,
+      "speaker": null,
+      "text": "And this seemed like a big undertaking, but not big"
+    },
+    {
+      "start_seconds": 1453.28,
+      "end_seconds": 1455.479,
+      "speaker": null,
+      "text": "enough that he couldn't complete it in a few years."
+    },
+    {
+      "start_seconds": 1456.2,
+      "end_seconds": 1460.52,
+      "speaker": null,
+      "text": "So he worked on this for thirty six years until"
+    },
+    {
+      "start_seconds": 1460.56,
+      "end_seconds": 1463.919,
+      "speaker": null,
+      "text": "he died, and then several editors took up the mantle"
+    },
+    {
+      "start_seconds": 1464.04,
+      "end_seconds": 1467.56,
+      "speaker": null,
+      "text": "after him, and the first edition of the Oxford English"
+    },
+    {
+      "start_seconds": 1467.64,
+      "end_seconds": 1473.72,
+      "speaker": null,
+      "text": "Dictionary was finally completed seventy years after he began. He"
+    },
+    {
+      "start_seconds": 1473.92,
+      "end_seconds": 1478.439,
+      "speaker": null,
+      "text": "totally misapprehended the size of the project, and if I"
+    },
+    {
+      "start_seconds": 1478.52,
+      "end_seconds": 1481.84,
+      "speaker": null,
+      "text": "were here, I presumably would have done the same. So"
+    },
+    {
+      "start_seconds": 1481.96,
+      "end_seconds": 1485.56,
+      "speaker": null,
+      "text": "as a result of this sort of planning fallacy, we're"
+    },
+    {
+      "start_seconds": 1485.6,
+      "end_seconds": 1490.399,
+      "speaker": null,
+      "text": "constantly making decisions that our future selves are going to"
+    },
+    {
+      "start_seconds": 1490.44,
+      "end_seconds": 1494.44,
+      "speaker": null,
+      "text": "regret or disagree with. Why. It's not because we're idiots now,"
+    },
+    {
+      "start_seconds": 1494.84,
+      "end_seconds": 1498.719,
+      "speaker": null,
+      "text": "but instead because our circumstances and our preferences and our"
+    },
+    {
+      "start_seconds": 1498.72,
+      "end_seconds": 1502.879,
+      "speaker": null,
+      "text": "priorities are to change over time. Okay, so let me"
+    },
+    {
+      "start_seconds": 1503.0,
+      "end_seconds": 1505.84,
+      "speaker": null,
+      "text": "zoom back out to the big picture. We are creatures"
+    },
+    {
+      "start_seconds": 1505.92,
+      "end_seconds": 1509.6,
+      "speaker": null,
+      "text": "who live and change through time, but we're yoked with"
+    },
+    {
+      "start_seconds": 1509.68,
+      "end_seconds": 1513.64,
+      "speaker": null,
+      "text": "this illusion that we are unchanging, and so we misremember"
+    },
+    {
+      "start_seconds": 1513.72,
+      "end_seconds": 1517.2,
+      "speaker": null,
+      "text": "our past and we work hard for future versions of"
+    },
+    {
+      "start_seconds": 1517.24,
+      "end_seconds": 1520.48,
+      "speaker": null,
+      "text": "ourselves who we assume will be like us, but they"
+    },
+    {
+      "start_seconds": 1520.52,
+      "end_seconds": 1523.2,
+      "speaker": null,
+      "text": "may not be. And by the way, there are all"
+    },
+    {
+      "start_seconds": 1523.32,
+      "end_seconds": 1526.56,
+      "speaker": null,
+      "text": "kinds of complex relationships between your future self and your"
+    },
+    {
+      "start_seconds": 1526.6,
+      "end_seconds": 1529.68,
+      "speaker": null,
+      "text": "past self through time, so it gets pretty crowded. Your"
+    },
+    {
+      "start_seconds": 1529.72,
+      "end_seconds": 1532.359,
+      "speaker": null,
+      "text": "past self says, oh, I'm not gonna worry about my"
+    },
+    {
+      "start_seconds": 1532.44,
+      "end_seconds": 1535.159,
+      "speaker": null,
+      "text": "future self, and your future self looks back and says,"
+    },
+    {
+      "start_seconds": 1535.4,
+      "end_seconds": 1538.239,
+      "speaker": null,
+      "text": "what a jerk like. When people make the decision in"
+    },
+    {
+      "start_seconds": 1538.32,
+      "end_seconds": 1542.639,
+      "speaker": null,
+      "text": "the short term to postpone their education or splurge on"
+    },
+    {
+      "start_seconds": 1542.68,
+      "end_seconds": 1546.359,
+      "speaker": null,
+      "text": "some overpriced thing, and then your future self thinks, dang,"
+    },
+    {
+      "start_seconds": 1546.4,
+      "end_seconds": 1549.24,
+      "speaker": null,
+      "text": "I wish I'd gone to that class or spent my"
+    },
+    {
+      "start_seconds": 1549.4,
+      "end_seconds": 1553.8,
+      "speaker": null,
+      "text": "money on something more meaningful or necessary. This comes up"
+    },
+    {
+      "start_seconds": 1553.84,
+      "end_seconds": 1556.76,
+      "speaker": null,
+      "text": "for many people. In terms of retirement savings. People will"
+    },
+    {
+      "start_seconds": 1556.84,
+      "end_seconds": 1559.359,
+      "speaker": null,
+      "text": "make the decision to spend now rather than save for"
+    },
+    {
+      "start_seconds": 1559.4,
+      "end_seconds": 1563.28,
+      "speaker": null,
+      "text": "their future self. They keep thinking, oh, I'll start saving later,"
+    },
+    {
+      "start_seconds": 1563.72,
+      "end_seconds": 1567.52,
+      "speaker": null,
+      "text": "But then as retirement approaches, your future self feels mad"
+    },
+    {
+      "start_seconds": 1567.56,
+      "end_seconds": 1569.479,
+      "speaker": null,
+      "text": "at your past self and wished as you had started"
+    },
+    {
+      "start_seconds": 1569.48,
+      "end_seconds": 1572.84,
+      "speaker": null,
+      "text": "saving earlier, and I suspect this is true. Anytime we"
+    },
+    {
+      "start_seconds": 1572.96,
+      "end_seconds": 1576.96,
+      "speaker": null,
+      "text": "choose instant gratification over long term goals, our future selves"
+    },
+    {
+      "start_seconds": 1577.0,
+      "end_seconds": 1579.119,
+      "speaker": null,
+      "text": "look back and they're mad about it. And all this"
+    },
+    {
+      "start_seconds": 1579.28,
+      "end_seconds": 1584.44,
+      "speaker": null,
+      "text": "highlights the challenge of balancing short term desires with long"
+    },
+    {
+      "start_seconds": 1584.56,
+      "end_seconds": 1587.6,
+      "speaker": null,
+      "text": "term outcomes. In other words, your self in the moment"
+    },
+    {
+      "start_seconds": 1587.72,
+      "end_seconds": 1591.84,
+      "speaker": null,
+      "text": "now versus yourself in the future. So let's wrap up."
+    },
+    {
+      "start_seconds": 1592.359,
+      "end_seconds": 1594.68,
+      "speaker": null,
+      "text": "In the next episode, Part two, we're going to dive"
+    },
+    {
+      "start_seconds": 1594.8,
+      "end_seconds": 1598.2,
+      "speaker": null,
+      "text": "deeper into all these paradoxes of the self by talking"
+    },
+    {
+      "start_seconds": 1598.2,
+      "end_seconds": 1602.119,
+      "speaker": null,
+      "text": "with my colleague neuroscientist Mike Levin, who wrote a recent"
+    },
+    {
+      "start_seconds": 1602.16,
+      "end_seconds": 1605.199,
+      "speaker": null,
+      "text": "paper in which he pointed out that quote if we"
+    },
+    {
+      "start_seconds": 1605.44,
+      "end_seconds": 1609.879,
+      "speaker": null,
+      "text": "do not change, learning and growth is impossible. If we"
+    },
+    {
+      "start_seconds": 1610.28,
+      "end_seconds": 1614.359,
+      "speaker": null,
+      "text": "do change, does not the current self cease to exist"
+    },
+    {
+      "start_seconds": 1614.92,
+      "end_seconds": 1618.92,
+      "speaker": null,
+      "text": "in an important sense end quote. So let's summarize where"
+    },
+    {
+      "start_seconds": 1618.92,
+      "end_seconds": 1621.52,
+      "speaker": null,
+      "text": "we got in this episode. We began by looking at"
+    },
+    {
+      "start_seconds": 1621.56,
+      "end_seconds": 1625.359,
+      "speaker": null,
+      "text": "the illusion of continuity, and we use the ancient thought"
+    },
+    {
+      "start_seconds": 1625.4,
+      "end_seconds": 1628.56,
+      "speaker": null,
+      "text": "experiment of the ship of Theseus, where one plank of"
+    },
+    {
+      "start_seconds": 1628.6,
+      "end_seconds": 1630.52,
+      "speaker": null,
+      "text": "the ship gets replaced at a time, and we can"
+    },
+    {
+      "start_seconds": 1630.56,
+      "end_seconds": 1634.32,
+      "speaker": null,
+      "text": "ask is it still the ship of theseus after every"
+    },
+    {
+      "start_seconds": 1634.359,
+      "end_seconds": 1637.88,
+      "speaker": null,
+      "text": "plank has been replaced. We looked at this question because"
+    },
+    {
+      "start_seconds": 1638.119,
+      "end_seconds": 1642.0,
+      "speaker": null,
+      "text": "we are always surfing on top of constant physical changes,"
+    },
+    {
+      "start_seconds": 1642.4,
+      "end_seconds": 1647.24,
+      "speaker": null,
+      "text": "and yet we perceive ourselves as consistent over time. The"
+    },
+    {
+      "start_seconds": 1647.28,
+      "end_seconds": 1650.76,
+      "speaker": null,
+      "text": "planks and theseus's ship are the cells and molecules in"
+    },
+    {
+      "start_seconds": 1650.8,
+      "end_seconds": 1654.6,
+      "speaker": null,
+      "text": "your body, and this foregrounds the question about what makes"
+    },
+    {
+      "start_seconds": 1654.68,
+      "end_seconds": 1658.96,
+      "speaker": null,
+      "text": "you the same person over time. We asked the question"
+    },
+    {
+      "start_seconds": 1659.04,
+      "end_seconds": 1661.52,
+      "speaker": null,
+      "text": "of whether we can really say that memory is the"
+    },
+    {
+      "start_seconds": 1661.68,
+      "end_seconds": 1665.64,
+      "speaker": null,
+      "text": "thread holding identity together, because the truth is that memory"
+    },
+    {
+      "start_seconds": 1665.76,
+      "end_seconds": 1671.719,
+      "speaker": null,
+      "text": "is far from reliable. It's constantly being rewritten. And finally,"
+    },
+    {
+      "start_seconds": 1671.76,
+      "end_seconds": 1674.48,
+      "speaker": null,
+      "text": "we touched on a cognitive bias known as the end"
+    },
+    {
+      "start_seconds": 1674.48,
+      "end_seconds": 1678.359,
+      "speaker": null,
+      "text": "of history illusion, which is where we massively underestimate how"
+    },
+    {
+      "start_seconds": 1678.44,
+      "end_seconds": 1680.399,
+      "speaker": null,
+      "text": "much we're going to change in the future, even though"
+    },
+    {
+      "start_seconds": 1680.4,
+      "end_seconds": 1683.4,
+      "speaker": null,
+      "text": "we're aware that we've changed in the past. We tend"
+    },
+    {
+      "start_seconds": 1683.44,
+      "end_seconds": 1687.72,
+      "speaker": null,
+      "text": "to believe that our current tastes and values and personalities"
+    },
+    {
+      "start_seconds": 1687.72,
+      "end_seconds": 1691.08,
+      "speaker": null,
+      "text": "are going to remain consistent from here on out, even"
+    },
+    {
+      "start_seconds": 1691.2,
+      "end_seconds": 1696.199,
+      "speaker": null,
+      "text": "though we keep on changing throughout our lives. So you"
+    },
+    {
+      "start_seconds": 1696.24,
+      "end_seconds": 1699.48,
+      "speaker": null,
+      "text": "can't actually be your past self. But as we'll see"
+    },
+    {
+      "start_seconds": 1699.68,
+      "end_seconds": 1703.639,
+      "speaker": null,
+      "text": "in part two next week, we constantly try to reconstruct"
+    },
+    {
+      "start_seconds": 1703.64,
+      "end_seconds": 1708.8,
+      "speaker": null,
+      "text": "that person. We constantly try to revivify that past self"
+    },
+    {
+      "start_seconds": 1708.88,
+      "end_seconds": 1713.399,
+      "speaker": null,
+      "text": "based on the evidence provided by reinterpreting the clues that"
+    },
+    {
+      "start_seconds": 1713.44,
+      "end_seconds": 1716.439,
+      "speaker": null,
+      "text": "are left by them. In other words, the memories that"
+    },
+    {
+      "start_seconds": 1716.48,
+      "end_seconds": 1720.72,
+      "speaker": null,
+      "text": "are buried in the neural network. In this view, memories"
+    },
+    {
+      "start_seconds": 1720.8,
+      "end_seconds": 1723.96,
+      "speaker": null,
+      "text": "are like a message in a bottle thrown from your"
+    },
+    {
+      "start_seconds": 1724.2,
+      "end_seconds": 1728.479,
+      "speaker": null,
+      "text": "present self into the ocean for someone to find, and"
+    },
+    {
+      "start_seconds": 1728.52,
+      "end_seconds": 1733.44,
+      "speaker": null,
+      "text": "that someone is a future you who you don't necessarily know."
+    },
+    {
+      "start_seconds": 1737.48,
+      "end_seconds": 1740.56,
+      "speaker": null,
+      "text": "Go to Eagleman dot com slash podcast for more information"
+    },
+    {
+      "start_seconds": 1740.8,
+      "end_seconds": 1743.8,
+      "speaker": null,
+      "text": "and to find further reading. Send me an email at"
+    },
+    {
+      "start_seconds": 1743.84,
+      "end_seconds": 1747.2,
+      "speaker": null,
+      "text": "podcasts at eagleman dot com with questions or discussion and"
+    },
+    {
+      "start_seconds": 1747.32,
+      "end_seconds": 1750.52,
+      "speaker": null,
+      "text": "check out Subscribe to Inner Cosmos on YouTube for videos"
+    },
+    {
+      "start_seconds": 1750.52,
+      "end_seconds": 1753.76,
+      "speaker": null,
+      "text": "of each episode and to leave comments until next time."
+    },
+    {
+      "start_seconds": 1753.92,
+      "end_seconds": 1758.8,
+      "speaker": null,
+      "text": "I'm David Eagleman and this is Inner at Cosmos."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-9ced33b05a5764cf.txt",
+  "text_sha256": "a586dd39007dfdfee1e3760b88e97203c7adde49050bdc3fb0fbd08334bf387b",
+  "word_count": 4615,
+  "segment_count": 458
+}

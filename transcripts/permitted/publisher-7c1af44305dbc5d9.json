@@ -1,0 +1,672 @@
+{
+  "source_url": "https://www.preposterousuniverse.com/podcast/2021/02/01/132-michael-levin-on-growth-form-information-and-the-self/",
+  "title": "Michael Levin on Growth, Form, Information, and the Self",
+  "publication_date": null,
+  "video_ids": [],
+  "relevance_confirmed": true,
+  "relevance_evidence": "official Michael Levin interview/presentation index links this publisher page",
+  "transcript_quality": "publisher transcript extracted from explicit transcript region or speaker-labelled dialogue; verify against source audio",
+  "host": "www.preposterousuniverse.com",
+  "language": "en",
+  "transcript_id": "publisher-7c1af44305dbc5d9",
+  "retrieved_at": "2026-10-29T10:06:01.799757+00:00",
+  "status": "stored",
+  "source_kind": "publisher_hosted",
+  "authorization_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "segments": [
+    {
+      "speaker": "Sean Carroll",
+      "start_seconds": 0,
+      "text": "Hello, everyone, welcome to the Mindscape Podcast. I'm your host, Sean Carroll. I bet that most of us out here have had the experience of trying to put together a bookshelf or something like that from IKEA or from wherever, some somewhat complicated piece of furniture or something to have around the house for which you get blueprints, instructions, as well as pieces, the raw materials, right, and so we have a certain paradigm in mind about how something complicated like a bookshelf comes to be, there's a blueprint, a set of instructions, there's stuff that we're going to put together, and there's some agent, us, that does that work."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 37,
+      "text": "It's very natural, then, because we're familiar with that kind of process, to think that something like that also happens when you put together a living organism, right, when you put together a person or a whale or a tree, there is some blueprint, set of instructions, which presumably is in the DNA, in the genome of the organism, and then there is some agents putting them together, presumably the the proteins that get their information from the DNA via the RNA, and they go off and they build things and voila, you get an organism."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 68,
+      "text": "So it turns out it's almost not at all like that, pretty much, okay. There's some truth to the idea that there are instructions or information contained in our DNA that will go into constructing an organism such as a person, but the actual process by which it happens is much more nuanced, much richer, not quite that simple paradigm we have in mind of an instruction kit and agent and some raw materials. And partly that's because we are not intelligently designed, this whole system that we have in us of DNA, genome, RNA, proteins, the organs that we have, the cells in our body, this all evolved in a complicated process and whatever kinds of dynamics and process was important and useful as far as evolution is concerned, is what we ended up using. It's not supposed to be code in a computer where it's carefully commented or anything like that, it's just what was thrown together and what eventually got used."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 126,
+      "text": "And as a result of that, biologists keep finding ways in which the morphology, the shape, and the way things are put together in organisms comes to be in fun and different ways that you might expect from the simple IKEA paradigm. So our guest today, Michael Levin, is a biologist at Tufts University, and it's actually a little bit difficult to describe what he specializes in, because it's kind of many different projects that are all fascinating to me, but in the overall space of talking about how information and physical dynamics come together to make organisms and all their different functions and things like that, not only does it help us understand the particular features of organisms that we know and love, but to someone like me who cares about emergence and different levels of description of reality, it's fascinating because we can start asking questions like, at what point is a decision being made by an organism or by the processes that are going into making that organism? Is it anything like a computer, is there a separation between hardware and software, what is the role of memory, what is the role of dynamical processes? All these fun questions."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 198,
+      "text": "So we're going to be talking about how cells, how information and how organisms all fit together. I'm not sure that I am capable or qualified to draw a single unified theme from it, but I think you'll find that it's a fascinating conversation that touches on many kinds of things we've been talking about on Mindscape for quite a while now. So let's go."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "[music]"
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 235,
+      "text": "Michael Levin, welcome to the Mindscape Podcast."
+    },
+    {
+      "speaker": "Michael Levin",
+      "start_seconds": 237,
+      "text": "Well, thank you so much, pleased to be here."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 240,
+      "text": "This is an interesting podcast for me to think about organizing and talking about, because you do so many different kinds of things, and I finally hit on a starting point of asking you about one of the experiments you describe in your papers with the xenopus tadpole, I think that's how you pronounce it, the xenopus. You basically, if I understand correctly, you and your lab or your collaborators rearranged the face of a little baby frog tadpole, and it somehow nevertheless grew correctly into the right shape. Is that roughly speaking correct?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 271,
+      "text": "Yes, that's correct. And I do think it's a pretty important experiment and it's one that we can definitely form this conversation around, because it illustrates something very important. So it used to be thought, because all tadpoles look the same and all frogs look the same, that basically what the genome could do is somehow encode a hardwired set of movements that would transform a standard tadpole into a standard frog. So the idea would be that the nostrils, the eyes, the jaws, all these things have to rearrange themselves to become a frog."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 304,
+      "text": "And so what we did was start out by making something we called Picasso tadpoles, where everything is in the wrong place, so the the jaws might be off to one side, the eyes might be on the top of the head, everything's sort of sort of mixed up, and we can talk about how we make those, and then the remarkable thing is that they largely become normal frogs, so all of these little pieces that make up the head and the face will move in novel, unnatural configurations until they land in the correct positions to make a frog face. And so what this is telling us is that the genetics in fact gives us a system that's very good at reducing error, that what it does is continuously work to sort of reduce the difference, the delta between the configuration you have now and the configuration that it in some way remembers is a correct frog face, and then things stop moving and stop proliferating when that error is sufficiently small."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 358,
+      "text": "Yeah, which is a remarkable way of thinking about it, because it's probably not what most people have in mind... Well, I say most people, I mean me, not being a biologist myself, I think that we think of what's packed into our genome as roughly the equivalent of the instructions you get from IKEA or something like that, right? Here are some building blocks, here are the steps you have to take in order, and at the end, hopefully you get the finished product, but so you're saying it's not like that?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 384,
+      "text": "No, it's absolutely not like that. And on the one hand, we kind of already know it's not like that, because if you actually... And look, the view that you've described is definitely kind of the mainstream perception that everybody has, and I've given talks to nine-year-olds in middle school and so on, and when I ask them what determines what comes out of an egg, it could be a bird, a dinosaur, a snake, what determines the shape of what comes out of an egg, everybody says the genome. And in a certain sense that's true, but if you actually look at... Now that we can read genomes, if you actually look at what's in the genome, you're not going to find anything in there about the size, the shape, the type of symmetry of the organism that's going to come out."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 422,
+      "text": "And what's important to realize is that we currently do not have the ability to look at a genome and guess anything about what the shape of the organism is going to be. Now, you can cheat and compare it to the genome of another organism that you do know what it looks like, but this idea that you can read the genome and sort of understand what the anatomy is going to be is not the case, and that is because the genome does have a recipe, but it's not a recipe for shape, it's a recipe for proteins. So what the genome does is prescribe what protein hardware, every cell in your body gets to have. So these are the smallest sorts of building blocks from which cells build various structures, and so it's sort of like you're not getting the design of the IKEA shelf, you're getting a description of the metal that goes into the screws and the wood or whatever it is that goes into the other part, it's a description of a very low level aspect of the system you're actually interested in."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 482,
+      "text": "Yeah, and it's... When you say we can't look at the genome and see what the shape is going to be, is that our fault? Is it implicit in there, but there's just a lot of steps, or is it really that even in principle, you couldn't look at the genome and figure out what the animal was going to be?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 498,
+      "text": "Well, that's a great question. So let's think about what we mean by in principle, right. So if you were to à la Laplace kind of simulate all of the micro interactions, then certainly you could. If you take into account the environment, even things like, let's say turtles, which use external temperature to determine the sex of the offspring, you could figure out what was going to happen. So in a certain molecular sense, if you were to simply absolutely model the lowest level of physics, yes, it's in there, but we would like to do something better than that. We would like to understand the encoding, and from that perspective, it's not our fault in the sense that that's not what's encoded there. So what's encoded is not the actual anatomical features, what's encoded are the proteins, and a little bit about the order in which some of those proteins will appear as a function of time."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 553,
+      "text": "So from that perspective, even though developmental biologists are doing a very nice job of trying to understand how all of these organs come to be, it really is... We really need to understand a lot more, and you can sort of... An example you might think about is the kind of bell curve that you get from dropping marbles into a Galton board, where does the shape of that bell curve come from? So in a certain sense, at a micro level, you could probably calculate it out and predict it, maybe, if the errors were small enough, but in a larger sense, that shape is not encoded anywhere in the material of the marbles or the definition of the board or anything like that, it's because what that device is doing is harnessing particular laws of physics and what embryos do and all living structures do, is they harness the laws of physics and the laws of computation, so this is very important, and so what you get in the genome is the description of a very important and very interesting machine, which is able to generate and process information, exploiting various laws of physics and computation to make certain outcomes."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 622,
+      "text": "And what's super cool about it is that these outcomes are reliable most of the time, so most acorns give you oak trees and most fish eggs give you a fish. But actually, it's way better than that, because it is not only robust to all kinds of perturbations, but it's actually reprogrammable, which I think is one of the most exciting aspects of it."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 644,
+      "text": "I guess it's very hard for us to escape the metaphors that we use to think about these things, like as if there were blueprints or an instruction manual in the DNA, but the reality is more... I guess, like you're saying, the DNA makes RNA, the RNA makes proteins, and the DNA is chosen not because someone wanted to design something, but just because making these proteins in this right environment gets us the morphology, the shape that has been selected for by natural selection."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 676,
+      "text": "Yeah, this is correct. So natural selection, of course, shapes the proteins that cells will use. I think a really good analogy, and we can come back to sort of the status of metaphors in this field, because I think the... It's not quite what a lot of people think it is, but one, I think, useful metaphor for this is the distinction between software and hardware. So if you can imagine that if you had a bunch of electric parts, you could connect them together, and if they were the right kind of parts, one of the things you would get would be an electric circuit that might do something, and one of the things that it might do if your parts included transistors is that it might carry out logic functions. And so it might be able to carry out certain operations that would be logic that from which you could build up all kinds of complex computations."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 728,
+      "text": "And so now you could ask where the laws of computation live. That's an interesting question. Certainly, certainly the operations of AND gates and OR gates and things like this were not in the electric parts that you've got a specification to, but what evolution did was shape the parts, and it shapes the parts in a way that when those parts interact together, they make a circuit, and the part that we study in my lab is largely the electrical aspect of it, which is why I keep coming back to these kind of electronics analogies. The amazing thing about these circuits is that they take advantage of really interesting laws of physics having to do with electricity and how that propagates and the laws of computation, which allows cells and tissues to make decisions and to have memory and things like that, and that's where evolution really, really shines is to exploit these laws of physics."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 781,
+      "text": "Right. But I guess what I'm trying to understand better is this idea that there's no top-down directing of what's going on in the individual cells. The cells that make up my liver and my brain have the same DNA in them, and they're just doing their production of proteins and it sort of all fits together at the end of the day, and it's not that anyone wrote software to do that, it's just that the DNA that makes that happen is the one that gets passed on."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 813,
+      "text": "Well, I'll say two things about that. Certainly, no one wrote the software in the sense of some sort of designer, so that's for sure. But I will say that this issue of top-down control is tricky, and what I'm about to say is probably not the mainstream sort of story of developmental biology that you'll get from a textbook, but this is how I see it. If you look at it, it's a multi-scale problem, so if you look at it from the scale of individual cells or molecules, then that's basically correct. They are simply following local rules about what they're going to do. But I think the evidence is pretty good now that there is a larger level of organization that you can look at, and this larger level of organizations at the tissue and organ level is performing some interesting computations that deforms the possible action space for the sub-units."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 871,
+      "text": "So what that means is that it basically alters the space of what's possible for the cells and the molecular networks to do so that by simply following very mechanical rules, sort of minimization of free energy and things like this, they end up doing things that are in line with a global body plan. So you can look at things that tissues and organ level structures are doing that are very large scale computations and decision-making about things like, hey, is our face patterned correctly? Do we have the right number of fingers, are the limbs long enough? And the outcome of those computations are instructions to individual cells to either proliferate or turn on certain genes or turn off certain genes. And at that point, the cells are just doing what the chemistry sort of suggests in the sense that there isn't any magic there, but if you look at the level above, what's happening is that all of those low-level reactions are being harnessed towards a higher level goal that none of the individual cells are capable of perceiving."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 938,
+      "text": "So at the single cell level, there's no such thing as an arm or an eye or anything like that. No single cell can perceive that. But the group agent, and so I think fundamentally, this is a problem of swarm intelligence and group cognition, the group agent has very sort of rough memories of what the correct pattern should be, and it has the ability to make decisions about whether or not the current state is close enough to the target state and if not, adjust behaviors. So I think from that perspective, there is a bit of top-down control, and we can talk about some of our worm experiments that tend to show this, that is not in the sense of a some sort of rational designer that writes software, but in the cybernetic sense, where there are systems that reduce error from a stored set point, and so as long as they can remember what that set point is, they can then have this kind of homeostatic cycle that harnesses the parts of the machine towards the goal, which is, again, not something magical, but is a representative target state towards which the whole system tries to get to."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1006,
+      "text": "So is there a sense, then, in which the frog genome literally has the shape that it wants, that has encoded in it the shape that it wants its body and his face to have, and then the large scale, whatever shape it currently has, reacts back against that genome to sort of say, well, what do we do next to move us closer to that goal? Is that the right way of thinking about it?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1033,
+      "text": "That's close. That's close. I would say what the genome encodes is a bunch of parts that when implemented in parallel, it makes a piece of hardware that has a very reliable default behavior. That default behavior is a set of biochemical, biomechanical and bioelectrical circuits that if nothing weird happens to them by their normal behavior in their normal environment, they will generate a set of patterns that give rise to a standard frog. And so the real outcome, if you ask the question of where does a frog face come from, it's a sort of interplay of the constraints imposed by the genetics which specifies the machine and the laws of physics and computation which exist around it."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1078,
+      "text": "Now, there's an additional factor, as it turns out, that this machine has some really interesting properties, it isn't... Evolution apparently doesn't just favor machines that only have one outcome, but they favor, at least in many cases, it favors machines with a particular capability, which is as a separation of hardware from software. What I mean is it's able to represent different possible set points and what the cells know how to do really well is to build towards the set point. If the set point changes, you don't have to re-wire the cells, that's a really interesting... That reprogrammabability is a really powerful aspect of all this."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1119,
+      "text": "I guess this is what I'm learning, not just from this conversation, but from other podcast interviews I did with Karl Friston, for example, with his free energy principle that... I'll make a grandiose claim and then you can fact check me here. In many ways, the way that biological organisms work, either in sort of day-to-day dynamics or evolution or development of the organism, is not this sort of Laplacian idea that you give me exactly the state right now and I will tell you what direction to move in, it's this almost teleological way of thinking about things. Just had David Haig on the podcast, and he wants to let us talk in teleological terms, it's like... Rather than saying, if this then that, if this is where we are now, here's where we should go, it's like, well, here is where we want to get to, figure out a way to get there."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1172,
+      "text": "Yes, I think that's absolutely correct. I think biology been trapped in this teleophobia, which is doing us a great disservice. I think it's completely not only fine, but absolutely necessary to talk about those kinds of things. And I think that's exactly what biological systems do, and we can talk about how I think this aspect of goal-directedness, this multi-scale goal directedness is crucial for evolution. I think it's what makes evolution work, it's what makes for much greater evolveability, and the thing, I think, I'm a big fan of Friston's work, we've used it in our own research, I think it's absolutely correct in that not only do living things have to predict their environment, but they actually have to predict themselves."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1223,
+      "text": "So living things are a patchwork at different scales of systems that cooperate and compete with each other, and part of all of that is being able to guess what's going to happen next and having a preference about what you'd like to have happen next, and everything is working towards minimizing that delta from what it expects and what's actually going to happen, and this is critical for evolveability. And I think those kinds of... What's important about that teleology isn't simply that we allow it or disallow it, but I think we need to move it from a philosophical problem, which a lot of people have sort of argued in a vacuum about whether it is or is not okay to talk this way, or whether all models in biology should be framed in terms of biochemistry and molecules and not goals and things like this. I think it's an empirical... It's a very practical problem."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1274,
+      "text": "The question, it's a little like Dan Dennett's intentional stance, where it's very simple, you just say, what level of intentionality do I ascribe to my system that best gets me to new prediction and control. So sometimes you'll err on the side of too much, attributing too much agency, and it's sort of wasted and you can do better with a simpler model, and sometimes you're applying simple laws to systems that internally have a very rich proto-cognitive structure that you'd be much better off taking advantage of. And so I've argued that for regenerative medicine and just in our lab and others, it's driven a ton of work to novel experiments that otherwise would not have been done, to actually ask, what does the system know? What does it expect? What are the preferences, what goals is it trying to achieve, and this is on all scales of organization."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1329,
+      "text": "I mean, you and I are probably familiar with the distinction between in physics, Newtonian mechanics versus the principle of least action. I notice that the principle of least action is actually quoted on your web page. And it's interesting, because it's two different ways of conceptualizing exactly the same problem and getting exactly the same answer, but from very different languages. So maybe for the people out there who don't hang out on the wrong street corners and hear about the principle of least action, why don't you tell us how physicists think about that, 'cause it's clearly related to what you're saying about biology."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1362,
+      "text": "Well, I'm probably going to make a massive fool of myself here because I'm not a physicist. You, I'm sure, are much better placed to give a proper definition of it. But what I understand is that there are lots of physical systems, and probably all of them, where one of the things you can do, so let's say, trying to understand how light is going to propagate through a bunch of lenses, stack one after the other, things like that, you could go after the micro-details and try to use Maxwell's equations and things like this to really model every piece of it, and eventually you'll crank through and you'll get the answer."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1399,
+      "text": "Well, apparently, it turns out that you could get the exact same answer with a lot less effort if you simply make an assumption that what the light wants to do is to minimize the effort, so to speak, or the action that it will take to get there. That's a rough... That's how I understand these things. And I think that's an incredibly powerful concept, because asking about how much effort does it take to compute something, I think is really important, because when people, especially in the biosciences where things impact medicine a lot, and people say, well, everything should be done at the lowest possible level, and you say, well, you don't really mean the lowest... You don't want to talk about quantum foam, what you really want to talk about is biochemistry. That's often when people say to me, oh, you've got to reduce... And I say, no, you don't really mean that. What you mean is you've picked the level and that level is by our chemistry."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1451,
+      "text": "And my point is you can't... And this is that, people like Dennis Noble have been saying this much better than I, that you can't simply pick a level because you like it, you have to pick the best level, and how do you know what the best level is? And the best level is how much effort do I need to put in to control the outcome. In the case of regenerate medicine, that outcome might be, we're going to replace a complex finger or a hand that's way too complicated for anybody to build by hand from stem cells or anything like that. So the question is going to be, to what extent is your system persuadable? There's this, I visualize this axis, right. On the one hand, you have things like cuckoo clocks, which are not persuadable, you are... If you want to make a change in the way that system works, you have to rewire, you have to physically change the hardware, there's no getting around it."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1501,
+      "text": "And then you have systems way sort of on the right side of that spectrum, which might be humans or they might be other kinds of advanced cognitive systems where trying to intervene in their activity on the molecular scale is, may be possible, but realistically, the sun's going to burn down before you figure out how to tweak all those cells in a person's brain to get this or that to happen. So there, you're probably better off with stimuli, with experiences, with inputs that take advantage of the cognitive structure of the system to convince them or motivate them or train them to do various things. And then in between are all kinds of agents, many of which we know, so animals and simple AIs and basic life forms and cells, and then all kinds of agents that don't exist yet."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1548,
+      "text": "I think one of the fun things to talk about is the space of possible agents, which I think is going to be actually enormous in our lifetime, and somewhere on that scale is the correct way to interact with everything you come into contact with, and you really have to ask what are... Are there goals that your system is trying to achieve, and are you better off rewriting those goals or motivating the system than micromanaging it. And I think it seems like physics is telling you at the lowest level that this kind of stuff is already baked in."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1582,
+      "text": "Yeah, I can't help but talk about the physics and least action just a little bit more because it's really fascinating to me. I mean, like we said, there is this way... I even did a video on this in my summer quarantine project, a video series called The Biggest Ideas in the Universe, about how you can either be Newtonian and say, well, I know where I am now, and all the laws of physics tell me is what to do next, or you can be, I don't know, Lagrangeian, or whatever it's called. You can say, well, of all the histories I could have in the future, I will take the one that minimizes the certain function, the action. And that latter one just seems a little magical."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1622,
+      "text": "You're saying like, well, how did it know? But you showed that in fact secretly they're mathematically exactly the same, it's just a matter of convenience. But the convenience is extreme, when you become a modern particle physicist, you're constantly writing down this action, this thing that is the thing you minimize globally rather than locally, and it's just a much more convenient way of talking about it. So I guess the question that is obvious to me now is, is there a reason why it... Does it have something to do with the fact that biological organisms are these multi-level systems where there's collective action from all of our tiny little cells coming together, is that... Does that help explain why it is convenient to talk in these more global terms rather than just locally following the action of every little atom or molecule or cell?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1673,
+      "text": "Yeah, I think... Well, I think there are two aspects to this. The sort of more metaphysical aspect is, and which I am not sure how much value this is, but I'll just say it because it's something I've been thinking about, is that if you ask yourself... Let's say people who are into panpsychism or this idea that some sort of intentionality is everywhere fundamentally, one of the problems that people often have with this is that they scale down the physical system, they say, okay, now let's consider a rock or something like that, and then they fail to scale down the intentionality, they say, well, it's ridiculous to say that a rock has hopes and dreams, and well, of course it is."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1714,
+      "text": "So what you need to do is you need to proportionately scale down the cognition, so if you ask yourself what would intentionality or freedom in the sense of indeterminacy look like in the simplest possible case, I think what you get is exactly what particle physics is telling us. So if you ask what would freedom look like at the most minimal kind of instantiation, I think you would predict something that looks like quantum indeterminacy, and if you ask what would goal directedness look like the simplest possible layer of reality, I think you would get exactly what these action principles look like."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1751,
+      "text": "So from that perspective, I think it's a scale. And the way I think it scales is this. When we look at living things now, all we're seeing are, it's a selection effect, all we're seeing are things that survived the gauntlet of competition and selection, so we don't have any objects, in that we don't see any living forms that are not good at pursuing goals, those things disappeared very early on. Now, maybe we'll be able to create some life that doesn't do that as people work on the synthetic origins of life and synthetic life and so on, but any sophisticated life that makes it past the first few steps of competition is going to be great at pursuing goals in the very simple sense of homeostasis."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1802,
+      "text": "So one of the things that we're working on now is to try to understand the scaling of goals from tiny homeostatic goals, like either chemical reactions to try to keep certain entropic principles in particular ranges, or single cells like bacteria that try to keep metabolic states in particular ranges, how do you scale goals from these very modest types of goals to something that's much larger, like the goal of having a properly shaped hand or face with particular... And then how do you pivot the whole thing from early organisms that, and in fact, still current organisms that execute goals in morphospace, meaning the space of possible anatomical configurations, and you sort of pivot, you run the same algorithms, but now your space is three-dimensional space, outdoors, so now you can run around and have behavior and have goals that are, hey, I'm going to run this maze because I remember the structure of the maze and at the end, there's some cheese and along the way, I'm going to do this and that."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1861,
+      "text": "So this idea, life has to start out with homeostatic loops. I don't think there's any way around it. And those loops scale into progressively more impressive goals that one way to organize all this is to ask yourself what are the spatio-temporal boundaries of the goals that any given system could potentially have, so it's sort of like think of a light cone, so to speak, that says okay, here in space and time, here is the boundary of things I can possibly have goals about, so if you're a goldfish or a tick, those both in space and time, it's rather modest, you can only conceive of things that are right in front of you and not too far in the past, and you maybe have a little bit of anticipatory ability, but by the time you get to great apes or humans, you could have goals that are massive in scale, just huge both both in terms of time, in terms of memory and anticipation that you could be working towards things that are going to happen long after you die and things like that."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1926,
+      "text": "So that's one way to organize all this is by this by the scale of the goals that these systems are capable of maintaining."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 1937,
+      "text": "I've thought myself a lot about levels of description in reality. I mean, my book, The Big Picture, just talked about levels a lot, and I'll be honest, I've always been very resistant to the idea of causation acting between levels, downward or upward. It seems to me, and I think this is just my fundamental physics training kicking in, that levels should be autonomous from each other, and you can derive one from another maybe, but they act differently. But maybe I should just start thinking differently when it comes to biology or human scale things. Certainly the words you're using seem to indicate to me that you find it useful to act, to speak as if what's happening on one level, like organism-wide or network-wide or whatever, is important to take consideration of even when we're talking about what's happening on lower levels."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 1991,
+      "text": "Yes, I think that's true. And I think that actually, you may have seen this, but there's some very interesting work on this coming out of Giulio Tononi's lab in [0:33:20.3] ____ about quantifying some of these things, so there's now math that will help you understand for a given system what is the causally most potent level at which to manipulate it. And it's not practical to compute some of those things for a lot of real systems that we care about, but certainly there are techniques that we use all the time in the lab to ask what is the most appropriate level at which to try to manipulate the system. And inevitably it bleeds down into the lower levels in the following sense."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2040,
+      "text": "So in planaria, let's say, so we have these flatworms and they have one head and one tail and chop them into pieces, and each piece knows where the head and the tail are supposed to go and it reliably regenerates whatever is missing. So what we've been able to show is that this is partly the result of a circuit, which is partly electrical, which stores the pattern of what a correct planarium is supposed to look like. And we can now see this pattern, we can rewrite it, we can alter it so that so that now the pattern memory has two heads instead of one, and then that's exactly what cells build, build two-headed flatworms."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2077,
+      "text": "So I'm sorry, I don't want to go over this too quickly, because I know you do this all the time, but this is just amazing to the rest of us, you can chop off the tail and head of this little worm and train it to grow back two heads or two tails instead of one head and one tail."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2094,
+      "text": "That's correct. Yeah, it's an amazing thing. So they're... Planaria, basically, I think every important question of life is found somewhere in planarium biology, I think you could say. They're an amazing creature. First of all, they're flatworms, not round worms, so they are bilaterians, meaning they are similar to our ancestors, they have a true brain, most of the same neuro transmitters that you and I have, they're smart, they can learn. But they have this incredible property you can chop them into pieces, the record I think is something like 275, and every piece will regenerate exactly what's missing, no more, no less, and make a perfect tiny little worm."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2132,
+      "text": "Now, they are so regenerative that they're immortal, they don't age, there's no such thing as an old planarian, which means, first of all, that the worms that we have in our lab are in a direct physical continuity with worms that were here half a billion years ago, and that's mine-boggling to think about, and also it's telling us that in fact, it is possible to be a complex organism with a good brain and so on and never die. So these ideas of thermodynamic limits on aging and so what I don't think are correct."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2162,
+      "text": "But anyway, so that's what the animal does normally. Now, of course, lots of interesting work has been done on how this works, they have a bunch of stem cells that... Lots of work has been done on the molecular and genetic networks that specify different cell types out of these stem cells, but what's really important to understand is the stem cells produce the building blocks, all the different things that you need to make a planarian, but you still have to decide how to arrange all this stuff, and all of it can be arranged in many different configurations. And one of the... Now, people learned long ago to manipulate the lower levels of the system, meaning to get in there and take some of the genes that are required for making heads and tails regulate their expression and get one-headed or two-headed worms."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2209,
+      "text": "We found something that I think it takes us to the next level, which is two things. First of all, that you can actually... That there is a real-time bioelectrical circuit that stores an active pattern, which you can see using special dyes that reveal electrical states in microscopy, you can actually see this anatomical pattern towards which the thing is going to build. And so that's the first thing. The second thing is that you can, by turning on and off these ion channels, which of these little little protein batteries that exist in cell membranes, by turning these things on and off, you can manipulate that circuit and get pieces to build, let's say, a two-headed or a no-headed animal."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2251,
+      "text": "And one of the most amazing things about it is that if you then, if you have a two-headed animal and you re-cut that animal in plain water, so no more manipulation, no more doing anything to the ion channels, you will once again get a two-headed worm. Now, this is worth pausing here because what has not been done in this case is to manipulate the genome. The genome has a wild type sequence, you've not altered the genetics at all. This is a great example and maybe the best example of the separation of data from a machine in this case, because the cells are standard planarian cells, there's nothing wrong with them that you would identify on genomic sequencing, and they are happy to build whatever it is that is specified in this large-scale pattern memory that is kept by the tissue electric circuit. And if the electric circuits has two heads, that is in fact what they will build."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 2303,
+      "text": "And so this goes on in perpetuity; as far as we can tell, you can keep doing this. We now know how to set it back from two-headed to one-headed, again there's a change in the electrical state that you can make. And so this goes back to your question about downward causation, because what you can say is, well, it makes a second head, what happened to the molecular pathway? So well, of course, the molecular pathways that are required to build a head are all activated on the posterior side of the animal, so you still need all... It's not like the bioelectricity acts by itself. You still need all the building blocks, the hardware still has to make all the cells that create the brain tissue and eyes and all of that."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2343,
+      "text": "But the decision, the early on decision of what this tissue level agent is going to build, is made at this higher level, which then inevitably filters down to the lower level. So you can track that lower level, you can look at the gene expression, you will see nothing but chemistry, there's no magic, you will see every gene being triggered by some other gene or something like that, but if you ask the practical question of what is the best way to make a two-headed worm, you've got a couple of options. You can try to manipulate these lower level activities, and it's quite hard, or you can go up to the master regulator level and you can just interact, and this happens roughly between three and six hours after cutting, all the transcriptional changes happen in the next 24 hours."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2392,
+      "text": "The first thing after amputation, and that circuit acts between three and six hours, and it triggers both scaling, so that the heads are correctly scaled with respect to the rest of the worm, and the identity of the tissue, so head versus tail, all of that stuff is downstream. So I do think from that perspective, I do think there's a kind of downward causation regardless of some of the philosophical aspects, in the sense that you simply ask what's the best control knob, and in some cases, it will not be bioelectricity, and in many cases, we've seen that that's exactly where the decisions are made. And I think that's not surprising, looking at the way the brain works. Brains are basically an elaboration of the system that evolution found probably around the time of bacterial biofilms, actually."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 2440,
+      "text": "Oh, you'll have to say more about that. In what sense... How are you relating bacterial biofilms to brains?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2448,
+      "text": "Sure. So actually, there's a lot of work on... Some of the early work on ion channels actually was done in bacteria, it was known from decades ago that bacteria can be electrically active, and there was some recently, some really nice work from UCLA where there's a set of papers by Arthur Prindle and colleagues who have shown that bacterial biofilms drive a lot of very brain-like electrical dynamics. So individual bacteria coordinate with each other, and what you get are waves, potassium waves, that in many ways are similar to what happens in brains. And basically bacterial films, they're kind of proto-body, they're individual organisms learning to live with each other in a way to make a larger agent that can do things that individual agents can't."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 2502,
+      "text": "Good. That is actually very helpful, and I'm sure that's worth the whole podcast by itself, but I do want to get back to the planarian there, because I am not personally an expert on the planarian reproductive strategy. So I don't even know, do they lay eggs or give birth, but how exactly is the information about one-headed versus two-headed planarian set down, traveling down to future generations, like where in the organism is it?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2530,
+      "text": "Yeah, yeah, so this is a great question. A couple of things. Let's start back with the question of how they normally reproduce, which already tells us that there's a lot we don't know. So planaria, at least the species that we work with, they are capable of laying eggs and producing sperm and sexual reproduction, but mostly what they do is fission, so when they feel happy or in fact, when they're stressed, either one leads to the same outcome, oddly enough..."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 2560,
+      "text": "They are model organisms for human beings too, yeah."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2564,
+      "text": "Right, yeah, lots... People use them actually for, to study addiction, drug addiction, and they get addicted to all the same stuff that we do and so on. So when they want to fission, the back end grabs on to the dish, the front end keeps going and they tear themselves in the middle and then they regenerate, now you've got two worms. So that's their normal reproductive cycle. Now, already before we even get to the two-headed stuff, there's something really interesting here, which is that you and I, and most animals, when we reproduce, our children do not inherit the mutations that happen to us during our lifetimes, so if you get a change of DNA in your arm, you kids don't get that. So that's really important."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2604,
+      "text": "But the thing with planaria, because each piece rebuilds a new body out of the cells that were in that piece, this means that unlike the rest of us, they practice somatic inheritance, they do inherit every mutation that doesn't kill the neoblast, the stem cell that got it. And those things proliferate. So for, let's say, 400 million years, they've been accumulating mutations, and you can see this, and their genomes are an incredible mess, we don't even have a proper genomic assembly for the kinds of worms that we work with. They are mixaploid, meaning every cell might have a different number of chromosomes, so you don't even really know what you're sequencing when you sequence these things. The genome was an incredible mess."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2644,
+      "text": "And yet, the regeneration, the anatomy, is rock solid, 100% of the time, you cut that thing into pieces, you get normal worms. So this is already telling us that there's some very interesting room between the genetics and the anatomy that we don't understand, because the genetics can be very messy and the anatomy is rock solid. So now let's get to your next question, which is the two heads. So if you have a two-headed worm, they can reproduce by fissioning. When that happens, generally speaking, one of the pieces will end up two-headed and one of the pieces will end up one-headed. So you can imagine a scenario where we take some two-headed worms and we throw them in the Charles River here in Boston, and sort of at some point, some scientists in the future come along and they scoop up some samples, and they find some one-headed forms and some two-headed forms and they say, oh, cool, a speciation event, let's sequence the genomes and see where that happened."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2701,
+      "text": "And they're not going to find anything, and the reason is precisely your question, where does the information live? So we have found... So far, we have found two places where that information lives. In this strict two-headed... There's actually another part of this that I haven't mentioned yet, which is called cryptic worms, which I'll talk about in a minute, in the two-headed worms one of the things that happens is the molecular structure of the cytoskeleton, the thing that allows cells, especially neurons, but all kinds of cells, to know a direction from basal to apical and so on, this cytoskeleton is actually carrying a lot of the information."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2745,
+      "text": "And it goes back to a really interesting experiment, which is classical epigenetics. So right now, if you say epigenetics, people normally think about chromatin modifications, all the things that can happen to the genome to mark it for future generations. There's an older example, which is that if you take a single cell organism like a paramecium, have these little hairs that point a particular way and they swim, they wave their little cilia and they swim. So what somebody did was they took a glass needle, this is an amazing experiment because these things are tiny, they took a glass needle and they cut a little square in the surface of the part of the animal, I don't actually think it was a paramecium, but it was a related thing, and they rotated it 180 degrees and they put it back. This is doing this to a single cell, mind you, it..."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 2792,
+      "text": "Yeah, that is pretty impressive."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2794,
+      "text": "Under the microscope, okay, and so what they found is that these things then give rise to a line of animals that all have a little square looking the wrong way. And this was incredible. This was the first real example of epigenetics, because of course, they had a wild type genome, and in fact, there's a beautiful line in one of the papers that says these things are always on the verge of starvation because they're trying to use the little cilia to waft food into their mouths, and there's a little square that's, of course, kicking the food out the wrong way, so they never quite get... And he says they're always on the verge of starvation and their normal genome is powerless to help them. And this is a very powerful point because, yes, the genome has done everything correctly. All the proteins have been made, they have all of the proteins that it takes to make a normal structure, but the reason these guys aren't normal is because the information is being templated off of the mother cell, so when the mother cell makes a daughter cell, it templates that abnormal structure of the cytoskeleton, almost like a crystal templating, it templates it and creates an offspring with the same structure."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2861,
+      "text": "So there's something like that in planaria where actually that subcellular polarity is being scaled up from individual cells to the whole organism. And then of course, there's the one that I think is also extremely interesting, which is the bioelectric circuit. So one of the things that we can see is that the way that the ion channels in planaria have been shaped by evolution is that they make a circuit that has memory. Now, engineers, of course, are pretty familiar with this, it's a really convenient way to make memory circuits, as long as you keep powering them, you can have flip-flops and things like this where you make a transient electrical change and the circuit keeps that change until you come back and reset it, so it's sort of like volatile RAM, so to speak."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2908,
+      "text": "So this electrical circuit, there's another type of worm that we can make, which is really interesting, we call them cryptic worms, and the thing with cryptic worms is that they, every time you cut them, they toss a coin and they make a more or less random... Although it's a weighted, it's a biased coin, but it's more or less a random decision as to whether they're going to make one heads or not, and if they don't, what the result is, again, a cryptic worm, and if they do, you get a two-headed worm that is forever a two-headed worm. These cryptic worms, as far as we can tell, all the molecular aspects are normal, but what's abnormal is the bioelectric pattern that is stored by their real-time electric circuit."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2948,
+      "text": "And it is this pattern that makes them be... It makes them have this destabilized anatomy where they're not quite sure if they should be one-headed or two-headed, and you can manipulate that electrical pattern and convert them back into one-headed worms or into two-headed worms or whatever. One of the interesting, there's a paper from our lab that's about to come out in a few weeks, that looks at this as a bi-stable perception problem in the nervous system. So you know, when you look at these things that are like the rabbit-duck illusion or the Necker cube or these kinds of things, so there's this ability of nervous systems to exist in almost a superposition of states where you're... And this is very much top-down control, right, because it's driven... In both cases, the photons, the pattern of photons hitting your retina is exactly the same."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 2994,
+      "text": "The reason that you keep flipping from one to the other is because you have expectations in the Fristonian sense, you think it's got to be a cube and if it's, oh, it's got to be facing in or out, so that kind of top-down control in the nervous system is very similar to what happens in these electrical circuits in non-neural cells, where there can be this bi-stability, where there's kind of two ways to interpret this electrical information, and that's what the cells do. So I think... And all of that is not to say that we've plumbed the depths of this, there's absolutely more open questions than there are answers, so there may be other pieces to this puzzle, but I feel very strongly that the question of where is this information is in part... It's kept as electrical memory in the electrical circuit, and partially it's in the sub-cellular architecture of the cells that are copying previous architectures when they form."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3049,
+      "text": "And you might also be interested in the shifting of worm heads to other species, because you can do that too. It's not... Making multiple heads of the same species is one thing, but you can actually, again, by interfering in the normal electrical circuit, you can get these cells to build heads that belong to other species of planaria 150 million years distant with no genetic change at all."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 3079,
+      "text": "And to go back, to put this in the context of the tadpoles, whose faces we rearranged and they figured out how to get them back, the idea there is a goal in mind as to what the ultimate face you want is, combining that with what we've just been talking about with the paramecia and the planaria, that means that wherever this goal is, that's not all by itself encoded in the genome either, right, it's encoded a little bit more globally."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3105,
+      "text": "Exactly, exactly. Yeah, it is absolutely not directly in the genome. I think, again, the way to think about this is our concept of software running on electrical devices, I think is actually really good to give us an intuitive understanding of this. I think what the genome does is encode a system that when you turn on the juice, it encodes a set of electrical... And of course, there's also biomechanics and biochemical signals that are important, but when you turn on the juice, it reliably executes a pattern of activity, there's symmetry breaking, there's amplification, there's robustness, meeting if you have some extra potassium in the pond that you're growing and it's not going to destabilize the whole thing, there are all these important properties that allow you to spontaneously form a pattern of activity in this electric circuit."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3152,
+      "text": "It's like you got a bag of parts that were specified for you, you connect them all together, you turn on the juice and it does something and the parts were fine-tuned over eons to make sure that what it does by default is reliable and adaptive and useful. But then you find an amazing thing, which is that there's actually... That the thing's actually reprogrammable, that while it does have a default mode of behavior that it will execute every single time, there is in fact a set of stimuli or experiences that you can give it without going in and having to rewire it that will push it into a different mode. In particular, what it will do is what you can do is you can rewrite the part of that electric circuit that serves as your homeostatic set point."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3201,
+      "text": "It's like if you had a thermostat there has to be some physical structure that encodes the range that this thing is trying to maintain and you can just go change that and you don't need to rebuild your thermostat, you can change the set point. So it looks like in many cases, living things have a set point. Now, this is much more complex than, let's say, pH or [0:53:44.5] ____, sort of metabolic level, these are anatomical set points that are a rough, not to the cell scale, obviously, but but a rough description of what the thing should look like, and these set points are in many ways, we call them target morphologies, it's the pattern to which the cells are trying to build, and it's the pattern that once they achieve it, then they stop."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3246,
+      "text": "These things are rewritable and once you rewrite them, the cells will build something different. And what we don't know, of course, is the limitations, we don't know if cells are a universal constructor in the sense that can you make absolutely anything or are there constraints. People talk about developmental constraints, I'm not 100% sure what that really is, or if there are any constraints, in the sense that if we knew... I think we just don't know the code enough. If we understood how to reprogram correctly these target patterns, I think we would be looking at something like an anatomical compiler. This is like our vision, when I talk about what's the end game for our group, when can you give up and go home 'cause everybody's done, I think what we're looking at is something like an anatomical compiler that you sit down, much like computer-aided drawing, you basically just draw a picture of, a schematic of the animal or plant that you want, and if we knew what we were doing, the system would decompose that into a set of stimuli that you would give cells to get them to build that particular thing."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3310,
+      "text": "Not because you're going to micromanage, you're not going to 3D print individual stem cell derivatives, but you're going to rewrite the goal state that the cells are at accessing, the cell collective, I should be more precise. The cell collective is accessing to know what to build and when to stop."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 3327,
+      "text": "The idea that there's all these different levels that are interacting with each other is a very powerful one, and not just because there are levels with different sort of levels of coarse graining, if you want, but that there are right levels in some sense. This is what you sort of got to earlier, there are ways of describing these complex systems that just give you an enormously more powerful handle on what they're going to do. And one of the issues that you've talked about, it's even come up a little bit in what we've already said about the planaria and the biofilms with the bacteria, which is, at what point do a bunch of either cells or molecules or whatever constitute an organism, right? At what point are they a self that you can pinpoint, like that's a level of analysis, I can talk about the morphology and the hopes and dreams of that little bugger right there."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3376,
+      "text": "Yeah, yeah, yeah, I think that's a great question. And there's two aspects to this, I think, that we, at least that we have focused on. One of the aspects is how selves come into being, and this is the scale-up of... And I think this is both philosophically and empirically, this is one of the most fascinating problems in science, is the fact that, look, all cognitive agents are made of parts. There's no such thing as a sort of monadic, kind of diamond-like cognitive thing. That's not divisible. We are a bag of cells between our ears, and when people say, oh, what are you talking about? This collection of cells has memory and goals. You say, well, you have memory and goals, right? And they say, yes, I certainly do. And I say, well, very good, because you're a collection of cells."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3425,
+      "text": "And so if the question isn't whether cells can have goals and hopes and dreams, that question has been settled, at least if for no-one else but for yourself, this is other minds' problem maybe, but at least for yourself, you know that's the case. And so now the only remaining question is the scaling, how do you scale up from a collection of competent agents to some sort of unified single agent that has a coherent integrated self that is larger than the others? So I actually have a model of this, of how this works, although much work remains to be done, but I have a beginning model of this that has to do with these really important elements called gap junctions, so these are things that... These are proto-synapses, this is what synapses were before they became modern synapses."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3476,
+      "text": "They're basically... Think about... There are little proteins that hang out in the cell surface that can dock with each other, and you can think about two submarine hatches under water sort of docking and opening up a path that you can go from cell to cell. So the interesting thing about that is that... And these are critical for multicellularity, they are an important part of electric circuits because they are themselves voltage-gated, so not only does electrical potential propagate through these open gap junctions, but it actually controls whether they're open or closed. So that means that this is a voltage gated current conductance, which, aka a transistor, and we know that once you have a transistor, you can make almost anything, you can make logic gates and so on, it gives them memory, historicity and so on."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3521,
+      "text": "So what's really neat about these things, if you imagine two individual cells coming together and forming this kind of gap junction, unlike every other kind of cell signaling, so cells produce all kinds of molecules and they're in there, they secrete all kinds of molecules. And if you are a cell in the environment, you can receive those molecules and then you know perfectly well that they're not yours, you know perfectly that they originate from the outside, you can choose to interpret them or you can think that they are false, somebody's taking advantage of you or cooperating or competing or whatever. But something very different happens when you connect with these electrical synapses. When you connect with these gap junctions, both cells get access to each other's internal milieu, this means that things that happen to one of the cells very rapidly propagate to the other cell and all the metadata as far as what the originator of that information is, is stripped."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3577,
+      "text": "So if something happens to cell A and there's a calcium flux, and that calcium flux propagates to cell B, it doesn't... All cell B sees is this flux, it doesn't know whether what triggered it happened to it or to its partner. This has a couple of really critical implications. The first is that it makes lying or cheating almost impossible, because anything you do, right, anything you do to your neighbor is immediately going to come back to you. So if you try to poison your neighbor in some sort of competition, you're going to get it too. And what it also means is that it becomes really difficult to maintain ownership of individual thoughts. So if what you have are a bunch of information molecules that were a track record of things that happened to you, and we don't have to think about complex thinking here, we can just say there are events that happen the trigger molecular reactions, and these molecular reactions are a record that you use to adjust future behaviors, all cells do this."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3634,
+      "text": "So now you're sharing those molecules and you can no longer tell which are true memories that you accumulated and which are false memories that are incepted into your cognitive structure by the fact that they floated in from your neighbor. So now this erases... It's like an amazing form of telepathy, so to speak, because it merges the minds of these two cells into a group agent where they literally cannot tell what belongs to what, and in that case, that is the origin of of this, I would claim, that is the origin of a simple compound self, it's because you are erasing... It's kind of cool, I think... And again, this is far outside my field, but I think there's a lot of important quantum computation work as far as erasures, right, the fact that erasing information is critical."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3678,
+      "text": "I think this is an example of that, erasing this metadata that, hey, here's a memory that belongs to this unit over here, all of that is gone, and that helps create a kind of larger mind, so to speak. And then of course, of course, you know, this is a proto-cognitive sort of thing, which you can imagine this scaling larger and larger to allow this agent now to have bigger horizons of those goals that I mentioned, so that you can now contemplate much bigger things in both space, and you have the computational machinery to remember further back in time and to anticipate further into the future. Now, this kind of thing has a cool implication, which is that you would think that, okay, if this is the origin of the self, then you have two questions."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3726,
+      "text": "Number one is, can it break down and how would it break down? And what you can imagine is imagine that you're a part of this, this [1:02:15.0] ____, you're connected to a bunch of neighbors, you're this multicellular kind of creature, and for whatever reason, your gap junctions get closed, you can no longer hear the electrical signals from your neighbors, you are now sort of isolated from all this. You no longer get the information input, you no longer get the consequences of things you do directly fed back to you. You could imagine that you would then, in a game theory sense, instead of previously, where you're sort of forced to cooperate... And by the way, this is very interesting, this is where we're doing now simulations of prisoner's dilemma, where the agents, instead of just cooperating and defecting, they actually have a new ability, they can merge. And once you merge, what you see is that is... To my knowledge, it's the first time that the number of agents in a prisoner's dilemma is not constant, usually you sort of define the agents, and then you see what emerges and there's cooperation or whatever."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3788,
+      "text": "But what happens is, if you don't fix the number to be a constant and you let agents merge, you find out that cooperation doesn't just emerge, it's inevitable, because you can't cheat against yourself, because yourself is now bigger. So what happens when this breaks down, you can sort of imagine the consequences, and this is precisely what happens in cancer. So in cancer, they've known since the late '70s that one of the first steps of carcinogenic transformation is a closure of the gap junctions, and then it wasn't quite clear why. And I think this is exactly what happens. When you as a cell, which your identity was smeared out all over this tissue, you were part of this larger group cognition, as soon as you are now back... Your computational boundary, that surface from which you were getting signals has now shrunk back down to the level of a single cell, you basically revert to your unicellular ancient past."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3843,
+      "text": "You, and this has been borne out by transcriptomics, studies by Paul Davey's group and others, where you now basically treat the rest of the body as just environment. You do what single cells always do, they go where life is good, they migrate, they proliferate as much as they can, and this is metastasis. And so one way to think about this as cancer is a breakdown of multicellularity, and in fact, can be caused, it doesn't have to have a genetic component, it can be caused by a purely physiological cause. We've shown that we can make metastatic melanoma in perfectly normal tadpoles by preventing electrical communication briefly, and these cells, this is what happens. The self literally shrinks."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3886,
+      "text": "So going back to your question of, how you get the, when can you talk about selves, I think it has to do with the boundaries of these goals. So that as soon as this cell no longer has a goal of building a proper liver or a kidney or whatever it was doing, all of its goals have now shrunk down to things that a single cell can understand, which is very simple, I'm going to go down, I'm going to follow some gradients to where food is more plentiful and I'm going to make as many copies of myself as I possibly can, and this is how selves shrink. And of course, the implications of that are that you ought to be able to reverse it, which suggests that cancer doesn't just have to be treated by trying to chase down all these [1:05:28.1] ____ broken cells and killing them with some sort of toxin, you might be able to convince them to rejoin the collective."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 3933,
+      "text": "And we've done this in the frog model, we've shown that you can use either optogenetics or drugs or ion channel misexpression to take the cells that are expressing really nasty human oncogenes, like Krs and things like that, and basically just normalize them and force them artificially to connect back into this group, group agent and normalize, and go back to normal morphogenesis."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 3960,
+      "text": "You must know you're exactly describing the Borg collective from Star Trek, right, I mean, in Star Trek, all these individuals... It's treated as bad, that all these individuals melt into a single collective, but when it's ourselves melting their individuality to make us, we think it's good."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 3979,
+      "text": "Yeah, yeah, you're absolutely right. And I'm not big on collectivist kind of things in general. I think they key is, but I think this is telling us something important, I think what it's telling us is that we need to come up with optimal strategies, and these are the sorts of things... I do a lot of work, for example, with Josh Bongard at the University of Vermont, he's a roboticist, computer scientist. We want to work on identifying optimal policies that try to get the best of both worlds, because you see, when you do combine into this collective, there are some good things about it, which are that you achieve higher computational capacity, cooperation goes through the roof, all of that. But of course, the downside is that this collective agent, the goals of the collective agent might have absolutely nothing to do with the goals of the individual, and so when you lose some skin, you don't worry about it and so on, and so this is a real problem."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4031,
+      "text": "And so what we need to do is to figure out, now evolution has optimized this in particular ways, that's not to say that that's necessarily what we want, we need to come up with optimal ways to enhance the benefits of this kind of cooperativity, but still retain the multi-scale nature of it. The key is, you don't want to lose the agency of the pieces, you want to retain it while reaping the benefits of some of the larger scale features. And it's hard to say at this point how well that's going to work, but I think that's a really important thing to work on in the future."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 4067,
+      "text": "Does this whole philosophy help us, either philosophically or practically, when it comes to our ambitions to go in there and change organisms, not just solve, cure diseases, but to make new organisms to do synthetic biology to create new things from scratch and vice versa, does it help us in what we would think of usually as robotics or technology, can we learn lessons from the biological side of things?"
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4095,
+      "text": "Yeah, I think absolutely. And there's two ways to... There's sort of a short-term view and a longer-term view of this. The short-term view is that, absolutely, so we work very closely with roboticists to take deep concepts in both directions. So on the one hand, take the things that we've learned from the robustness and intelligence... I mean, the intelligent problem-solving of these living forms is incredibly high, and even organisms without brains, this whole focus on kind of like neuromorphic architectures for AI, I think is really a very limiting way to look at it. And so we try very hard to export some of these concepts into machine learning, into robotics, and so on, multi-scale robotics... I gave a talk called why robots don't get cancer. And this is, this is exactly the problem, is we make devices where the pieces don't have sub-goals, and that's the good news is, yes, no, you're not going to have a robots where part of it decides to defect and do something different, but on the other hand, the robots aren't very good, they're not very flexible."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4158,
+      "text": "So part of this we're trying to export, and then going in the other direction and take interesting concepts from computer science, from cognitive science, into biology to help us understand how this works. I fundamentally think that computer science and biology are not really different fields, I think we are all studying computation just in different media, and I do think there's a lot of opportunity for back and forth. But now, the other thing that you mentioned is really important, which is the creation of novel systems. We are doing some work on synthetic living machines and creating new life forms by basically taking perfectly normal cells and giving them additional freedom and then some stimulation to become other types of organisms."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4208,
+      "text": "We, I think in our lifetime, I think, we are going to be surrounded by... Darwin had this phrase, endless forms most beautiful. I think the reality is going to be a variety of living agents that he couldn't have even conceived of, in the sense that the space, and this is something I'm working on now, is to map out at least the axes of this option space of all possible agents, because what the bioengineering is enabling us to do is to create hybrid... To create hybrid agents that are in part biological, in part electronic, the parts are designed, parts are evolved. The parts that are evolved might have been biologically evolved or they might have been evolved in a virtual environment using genetic algorithms on a computer, all of these combinations, and this... We're going to see everything from household appliances that are run in part by machine learning and part by living brains that are sort of being controllers for various things that we would like to optimize, to humans and animals that have various implants that may allow them to control other devices and communicate with each other."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4286,
+      "text": "The space of possible agents and possible bodies is enormous. I think that the plasticity of cells and the ability... Like we put eyes on the tails of tadpoles and those animals can see perfectly well. The plasticity with which cells can organize into a functional form, even though it's completely different from their genomic default, is massive. And there's a few things important about that. One of the things that's important about that is that... And Josh Bongard and I are currently writing a paper on this, it blows up a lot of the vocabulary that we normally use. People argue about whether... There's a lot of papers arguing that living things are not machines, well, they're certainly not 18th century machines, right, that's for sure. But if you look at what machines are now, all of the kinds of things that people say, well, machines are predictable and they're made by a human, none of those things are true of machines anymore."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4347,
+      "text": "And things like, what is a robot? What does it mean to be evolved, what does it mean to be designed? If you dig into this question of what are we actually doing when we design something and how is that different from testing variants over a long time, a time span, all of these words like robot, program, machine, all of these things I think are operating on categories that are no longer good categories. They served as well in the past when our engineering was primitive and we couldn't fill in the middle of these continua between all of these kinds of things, but now we can. And so all of these terms have to... All of these terms have to be redefined to really pick out what's essential about these terms, to really, I think, sort of carve our nature up better than they used to."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4402,
+      "text": "And that will have massive implications not only for, let's say, regenerative biology and biomedicine and robotics and things like this, but there are ethics issues here too. We have to think very hard about what we owe to different kinds of agents with different kinds of cognitive capacities. And I've been in a lot of debates with people talking about brain organoids and human brain organoids and what human brains are and so on. Because these things are now continua, we could now make a system that's 80% human brain cells, 20% drosophila cells and 10% electronics with machine learning. Is that a human? Is it not? Like if your neighbor got a brain implant that allowed him to mentally run a vacuum cleaner, no big deal. We have people with assistive devices now and wheelchairs and things, right, no problem."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4458,
+      "text": "And if your other neighbor had a vacuum cleaner that had some human brain cells that were sort of a controller and then able to get around, also no big deal, still pretty much a vacuum cleaner. So in those cases, you have a 90-10 split and the 10-90 split, and that's easy. But what about the 50-50 split? Then what? And so we really have to... I think this idea where we clearly know what a machine is, we clearly know what real preferences are, as opposed to just sort of as if algorithm following by robots, none of these distinctions are as robust as a lot of people think they are, and the implications for ethics are at least as large as they are for biomedicine and robotics."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 4502,
+      "text": "No, I completely agree, and I think that... For example, people have cared a lot about the possibility of uploading our brains onto computers, whereas I suspect that, just like you say, blending the boundary between humans and computers is going to be a much nearer term thing that we're going to have to worry about in this domain. But the stuff you just said brings up about 12 podcasts-worth of topics to discuss, so we're running out of time here. Let me just pick one that I really want to get to before we go, which is, you mentioned that the idea that robots don't get cancer, and that's very interesting to me because the thing when I have artificial intelligence discussions, the things that I always want to bring up is that robots don't get bored. There's no sort of motivation or irritability or desire to come back to some homeostasis built in automatically, you can try to build it in, but it's not automatic in an artificial system."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 4557,
+      "text": "And what you've said has given me the initial idea or the additional idea that maybe the point is not just that robots don't get bored, but that robots are not... Or the way that we currently make robots, they're not made of pieces that get bored, right. This is the extra little insight that real biological organisms are made of these collections and the collections should be thought of in quasi teleological ways as well."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4584,
+      "text": "Absolutely, absolutely. And there's this notion of infotaxis where everything from molecular networks up are in a constant search for information to update their ways of representing themselves in the world in a kind of Fristonian sense. Yeah, I think there is a really interesting question about motivations and the fact that with any living system, we can tell very quickly how to motivate it, we know what it cares about, we know what it likes, what it dislikes, because we can train it with positive and negative reinforcement. Maybe these things will be a little harder in the exobiological arena, where we could run across new life forms, but I bet even there in short order, you can figure out what you could use to train this thing with what it's going to enjoy and what's going to be a punishment."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4633,
+      "text": "There have been study, there have been papers dealing with this issue of motivation and artificial agents. You know, you can have an algorithm that causes this thing to do A or B, but does it really care? Does AlphaGo really care that it wins, right, or not? So the problem with this question of does it really care, like a lot of problems, you start to see the limitations of our categories when you think about the chimeric case. So I can take cells out of a brain, an animal brain or a human brain, and we can connect them in culture to some sort of device that has machine learning or whatever, and now if those cells had some sort of magic intrinsic caring that enable human brains to care about things, does that now carry over to the machine, because this new compound organism has some of that."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4685,
+      "text": "And what is it about... Can you take out the human pleasure center and culture it alone in a dish and is it just activated all day long, and have you got a little chunk of happiness there in a dish, these kinds of things are really important. These chimeric constructions are really important to push us to develop better concepts, because we don't know really what it means to have intrinsic preferences or how they might carry over to hybrid devices. All of that needs a lot of overhaul."
+    },
+    {
+      "speaker": "SC",
+      "start_seconds": 4720,
+      "text": "Well, I'm looking forward to our brave new cyborg future that you've outlined for us here. Certainly, things are changing really, really rapidly, and we're not able to really predict where it's going to go, even though apparently that's what we're supposed to be doing, having a goal and trying to get there. So, Mike Levin, thanks so much for being on the Mindscape Podcast."
+    },
+    {
+      "speaker": "ML",
+      "start_seconds": 4735,
+      "text": "Thank you very much. Yeah, it's been a lot of fun."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "[music][/accordion-item][/accordion]"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Bacterial Biofilms = Bonnie “BadAss” Bassler for Mindscape guest 🗣🗣🗣do da, do da🤠"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Dear Sean although i’I have no scientific background whatsoever , I really listen to your podcast with a lot of curiosity and interest, and  capture much of the informations rather intuitively.  Some of the stuff admittedly is above my paygrade, but  I like to take away what I can get. For some reason, this podcast caught a lot of my attention and I couldn’t help thinking about a couple of things it stirred up in my mind: Levin’s theory and findings are impressive, but I wonder why there is no mention of Rupert Sheldrake, whose theory of morphogenesis and the overstatement of the role of genetics in information transfer and form goes basically in the same direction, albeit with a few different hypothesis. Also, it’s very interesting that it basicaly confirms Zach Bush’s research on the isolation of cells from the larger communication network is paramount in cancer development and chaotic behaviour of the cell. ( there’s some very interesting podcast opf Bush about that subject in relation to the microbiome and cellular communication). Having said that, I am somewhat shocked concerning the carelessness with wich Levin portraied a future where we randomly literally create monsters and chimera based on the ability to alter lifeform at will, basically just because we can? ( unless I failed to capture some sort of irony). That doesn^t look like a bright future to me, to be honest, and I don’t like to think about the suffering of beings created with eyes on their tail… or worse. Thanks for an otherwise great podcast, best regards!"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Pingback: Sean Carroll's Mindscape Podcast: Michael Levin on Growth, Form, Information, and the Self | 3 Quarks Daily"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Another analogy that come to mind comes from software engineering: imperative vs declarative programming ( https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-paradigm-in-programmin )"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "DNA is processed to generate proteins following a precise, procedural recipe stating what to do. On the other hand, the higher-level composition of those proteins into actual tissues, organs, and living organisms is more a declaration of desired outcomes, encoded in less understood systems such as electromagnetic currents."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Fantastic podcast, very thoght-provoking!"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Dear Claude Pauly, I your comment you write that you “wonder why there is no mention of Rupert Sheldrake” because he has a theory that reminds you of the work of Michael Levin discussed in the podcast. I seriously doubt that Sean Carroll has read Sheldrake, and he is probably unfamiliar with that theory. I don’t have any special insight into Carroll’s thinking, or know him beyond having read some of his popular science books and blog posts, but he has written several blog posts stating that he strongly dislikes pseudoscience. In fact, he wrote that he quit hosting his show on Bloggingheads.tv because the site too frequently interviewed pseudoscientists whose ideas were not supported by any respectable, peer-reviewed scientific work, and he did not want to be associated with a platform that interviewed pseudoscientists and appeared to take their work seriously because he did not want to be involved in lending credibility to their beliefs. Now that Carroll has his own podcast, I very much doubt that he would use it promote the ideas of Rupert Sheldrake, a fringe figure who works far outside the standards of science."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "In this episode, Michael Levin talks about universal constructor and an anatomical compiler …. and you refer to universal constructors in the Avi Loeb episode as well. This recalls Frank J. Tipler’s “Physics of Immortality,” (1994) which was the first place I encountered this mode of thought in regards to the extension/expansion of humanity."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Who needs netflix when the best entertainment is nature? Another fantastic episode, thanks!"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Is a Sean Carol / Caliban the Cat “chimera” in the offing?  I am not sure which is more frightening: a cat with a knowledge of physics, or a physicist with the instincts of a cat. The former would be bad news for mice, surely; but the latter might be bad news for the entire cosmos. Please poll your subscribers before proceeding with this experiment."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "I notice that behind Caliban in the book case is a copy of Herb Gintis book “Game Theory Evolving”.  I’ve read a couple of his books and they’re quite fascinating although it takes some grasp of mathematics.  I think he’d be a great interview (but hurry; he’s almost as old as I am)."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "In 1953, Crick and Watson announced that they had discovered the structure of DNA as a double helix that splits like a zipper and makes reproduction possible.  In 1971, a poplar magazine published an in depth article about the process by which biological proteins are fabricated using a DNA code to assemble all of the proteins needed for a functioning organism.  As a participant in a graduate seminar that was discussing this finding, we were all in awe of this great step forward in understanding the “how” of life.  One of the questions asked was what regulates when enough protein has been made for a given structure’s boundaries.  The consensus boiled down to some some kind of biochemical feedback that shut down the process.  Now, fifty years later it is gratifying to hear how much progress has been made in gaining understanding about the processes underlying  the chain of events that must occur in the emergence of new lives."
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Of all the fascinating podcasts I’ve heard from you, this goes down as one of the most amazing ever!  I’m going to have to listen again because there was so much information, but I’ve been onto Michael Levin’s website and I think I’m going to be busy for a long while. I was very much hoping he’d written a book – I hope he will do so soon. The potential for progress when we start viewing biology from this point of view must be enormous. What I found particularly amazing was that Nature seems to have thought about the transistor way ahead of us!! Thank you for grabbing onto the really fascinating points that Michael Levin was sometimes rushing through – you managed to pre-empt my questions several times.   More like this, please!!!"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Best episode yet!"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Yep, best yet. I need to listen again too. Interesting comments above about Sheldrake. These ideas frankly sound game changing to me. It sounds like these ideas directly support a kind of panpsychism. Or am I reading too much into it?"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "HELP – looking for citation In the podcast Michael Levin talks about a unicellular organism that researchers modfied so that the cilia were rotated on thus pushing food away from its mouth. He says that in one of the papers on this the authors write something like “these animals are always on the verge on starvation and there genome is unable to help them”. I would very much like to find this paper. Can anyone help?"
+    },
+    {
+      "speaker": null,
+      "start_seconds": null,
+      "text": "Comments are closed."
+    }
+  ],
+  "text_path": "transcripts/permitted/publisher-7c1af44305dbc5d9.txt",
+  "text_sha256": "d0655d8855860fcffc3a9cb4749867dcb69fd6d6224fbbeb008357b8b5fa9978",
+  "word_count": 15231,
+  "segment_count": 130
+}

@@ -1,0 +1,2401 @@
+{
+  "http://cdnapi.kaltura.com/api_v3/service/caption_captionasset/action/serve/captionAssetId/1_9g73rylr": {
+    "bytes": 127622,
+    "checked_at": "2026-10-29T11:44:08.194448+00:00",
+    "sha256": "a9d0aada743973bf8b9e6fbfd6a5e1ef0e94641df5be52d2a9125b8fc74c980b",
+    "status": "fetched"
+  },
+  "http://vimeo.com/65772782": {
+    "bytes": 11361,
+    "checked_at": "2026-10-29T10:06:52.427118+00:00",
+    "sha256": "9c32e7f102dfc24dbf0237d33074ab599a77ecda222b519de58893ef5afb2b42",
+    "status": "fetched"
+  },
+  "http://www.peoplebehindthescience.com/dr-michael-levin": {
+    "bytes": 63410,
+    "checked_at": "2026-10-29T10:06:45.496217+00:00",
+    "sha256": "aabf4634d28aa9427cc5c535a8297c3079a5abdf3966a6743db6635f6adcb13c",
+    "status": "fetched"
+  },
+  "http://www.scienceforthepublic.org/medical-research/harnessing-the-bioelectric-potential-of-cells-for-regeneration": {
+    "bytes": 43040,
+    "checked_at": "2026-10-29T10:07:02.720954+00:00",
+    "sha256": "96f8735600d341237259e590af09e41a68a3535cb2d38da7180f3b17d126c52f",
+    "status": "fetched"
+  },
+  "https://anchor.fm/bigbiology/episodes/Ep-39-Bioelectric-Computation-ecaabm": {
+    "bytes": 712577,
+    "checked_at": "2026-10-29T10:06:10.035681+00:00",
+    "sha256": "72031ecadfbae6cf6c61d287d38442c2d90721b84c04846e557059981bacfb6e",
+    "status": "fetched"
+  },
+  "https://anchor.fm/bigbiology/episodes/Mouse-on-a-hill-The-structure-and-function-of-agency-Ep-65-e123kvm": {
+    "bytes": 715107,
+    "checked_at": "2026-10-29T10:06:31.004736+00:00",
+    "sha256": "f6f711dc98235b07874cab6c088de78cfb83c8be6fe3dcf70e3e4918a0e20afa",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/100db9614/podcast/rss": {
+    "bytes": 309287,
+    "checked_at": "2026-10-29T11:29:12.475738+00:00",
+    "sha256": "8614943056597c37d7ad462d520f386f33ab8670429f74e4f316bbfa8e80bb6e",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/114dd2538/podcast/rss": {
+    "bytes": 1886651,
+    "checked_at": "2026-10-29T11:25:20.826519+00:00",
+    "sha256": "8ab8e9af81813081611e4033d863b1ac3c2a195f7cb9e8b7c6b5710f4cd97dad",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/1e4a0eac/podcast/rss": {
+    "bytes": 2133496,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.868013+00:00",
+    "sha256": "147421fc47bdf0b321f14f7e2875bbee7c7619488673120a8047920fc7f6ddba",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/2be66934/podcast/rss": {
+    "bytes": 3311875,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:58.301136+00:00",
+    "sha256": "f4ab1d088d054e9f8d086d52d4f66fda582fb426089eb4c006b239b391d51619",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/3fdede44/podcast/rss": {
+    "bytes": 2810729,
+    "checked_at": "2026-10-29T11:24:45.160373+00:00",
+    "sha256": "01c95f477642ba15e74f6e1284e0f19f2e4cf15739de484c8b0ca9a2bea5db71",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/460631dc/podcast/rss": {
+    "bytes": 2550,
+    "checked_at": "2026-10-29T11:29:06.803432+00:00",
+    "sha256": "7456b95cf362b36b68bc62e0abc1501a55fca9424e38a2a4d875d57cc53f3c0d",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/56c24e48/podcast/rss": {
+    "bytes": 504540,
+    "checked_at": "2026-10-29T11:24:46.430979+00:00",
+    "sha256": "143e4e0a7713746b28d48e2fcb7fec57b9f35746192ebc69290f6b3658826043",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/588e224c/podcast/rss": {
+    "bytes": 223334,
+    "checked_at": "2026-10-29T11:29:07.931109+00:00",
+    "sha256": "bce7114df170da09dc85464d91ebc90c907433c84d16e043b3962c801c9fffad",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/62cbf1e4/podcast/rss": {
+    "bytes": 421385,
+    "checked_at": "2026-10-29T11:25:00.784730+00:00",
+    "sha256": "103613304a6664e58f896501ce7c4dac7a9b2dd8ff1929f0c4ba11f9ad24ab55",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/7330de0/podcast/rss": {
+    "bytes": 3457076,
+    "checked_at": "2026-10-29T11:25:06.581790+00:00",
+    "sha256": "1c65304012e90523a26b0006386f2d7dac2b429c99905adbf4d925e276010fa6",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/a8f55520/podcast/rss": {
+    "bytes": 1509731,
+    "checked_at": "2026-10-29T11:24:59.571539+00:00",
+    "sha256": "16d900f8bf0a191d53371109a3078e64e1d0810967c41da19e65e5a8a8478163",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/b23246e8/podcast/rss": {
+    "bytes": 501563,
+    "checked_at": "2026-10-29T11:25:09.107881+00:00",
+    "sha256": "9b8cc70169d157fa8b92467f88141b89a37114ec372aadb9ef2e8189bb3f067a",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/da913edc/podcast/rss": {
+    "bytes": 102555,
+    "checked_at": "2026-10-29T11:25:07.819100+00:00",
+    "sha256": "e3d0c5fabf51b28f0582f22d5bd4b7fbc3932592b27dc5b67818a78baef9cc90",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/dd88f274/podcast/rss": {
+    "bytes": 331535,
+    "checked_at": "2026-10-29T11:29:09.259538+00:00",
+    "sha256": "7c95d90193151cbc61b470c59266760a47a97d2187d0d84a704445681ec87cf4",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/e658c898/podcast/rss": {
+    "bytes": 965059,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.969451+00:00",
+    "sha256": "0ac3520ee43db24f727f7fd136ffb037fcbfd0e1d9ec365b3e058c4b2fcab28b",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/ed9117c8/podcast/rss": {
+    "bytes": 890168,
+    "checked_at": "2026-10-29T11:29:11.164800+00:00",
+    "sha256": "e6e5fd798afcdd622187904d6607877303c3d3292d6704bbaed5ebd9161f64b0",
+    "status": "fetched"
+  },
+  "https://anchor.fm/s/f592b1d4/podcast/rss": {
+    "bytes": 1283419,
+    "checked_at": "2026-10-29T11:24:49.192925+00:00",
+    "sha256": "e46b7b856a09d76e4a712b9cd12487e75e317b676a3a19e9c2b738d197ff65a2",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2f881efb-1e86-4169-aba9-b3b9003bf1a4/transcript?format=WebVTT&t=1766203696": {
+    "bytes": 44890,
+    "checked_at": "2026-10-29T11:28:53.073504+00:00",
+    "sha256": "5fcc1c2f98a356f4da4264daf356534db8bfb054948277172f2606d314b0b9f2",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/53ed3470-f571-490c-bced-b232016d81e8/transcript?format=WebVTT&t=1732486456": {
+    "bytes": 46254,
+    "checked_at": "2026-10-29T11:28:54.031934+00:00",
+    "sha256": "3242d198ccbfe166a545600b7d7092046fffd32c7594aecfef437c4bcf89a4dc",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b5fc8283-cd51-4ebf-9a31-b23900847bc3/transcript?format=WebVTT&t=1733040507": {
+    "bytes": 114584,
+    "checked_at": "2026-10-29T11:24:56.563137+00:00",
+    "sha256": "41ffcdb1d929b1697c4cc7cbe1a5a155e31ad7237073ef816312365e6fa67066",
+    "status": "fetched"
+  },
+  "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d7b6bac4-68f5-4c82-86c3-b313005d97bb/transcript?format=WebVTT&t=1751905793": {
+    "bytes": 101668,
+    "checked_at": "2026-10-29T11:24:55.541423+00:00",
+    "sha256": "2819b1715fc4efb83dbe5ee8f3938253485b0f9f747bfbdd935616d277af3273",
+    "status": "fetched"
+  },
+  "https://api.substack.com/feed/podcast/7273078.rss": {
+    "bytes": 108234,
+    "checked_at": "2026-10-29T11:25:22.892238+00:00",
+    "sha256": "8c6d58be9ddd105909567c3aaed7fb35770eb81f8ee25c0955da6edb50fdb099",
+    "status": "fetched"
+  },
+  "https://api.substack.com/feed/podcast/847348.rss": {
+    "bytes": 129674,
+    "checked_at": "2026-10-29T11:35:15.932362+00:00",
+    "sha256": "ffcdcf9ca8705bbd82fa32d0efea6c405a88371b8374a20f4b483631af8b8ac0",
+    "status": "fetched"
+  },
+  "https://changingacademiclife.captivate.fm/episode/mike-levin-cal145-s8-e10": {
+    "bytes": 46979,
+    "checked_at": "2026-10-29T10:05:20.618686+00:00",
+    "sha256": "232eced53e5b92d5985c53f685ea3aa421aff3427ea28eb6593276b236cf600c",
+    "status": "fetched"
+  },
+  "https://computingup.com/michael-levin-tames-life-66th-conversation": {
+    "bytes": 41414,
+    "checked_at": "2026-10-29T11:41:26.593813+00:00",
+    "sha256": "a8b021df97993ab957eebf7e8ae30e1e4a3e2e6051b5b5c41748ea6288277ec1",
+    "status": "fetched"
+  },
+  "https://creators.spotify.com/pod/show/anirban-mukhopadhyay7/episodes/Michael-Levin-Collective-and-Diverse-Intelligence-e2qhe0h": {
+    "bytes": 453752,
+    "checked_at": "2026-10-29T10:06:36.351913+00:00",
+    "sha256": "c449a33b36246858f345ed5a848ccaba940228f9766a2d451527fb7edfc96f60",
+    "status": "fetched"
+  },
+  "https://drive.google.com/uc?export=download&id=1oEBX71_PlVn72rWzUIO88pV_7D1515Tl": {
+    "bytes": 954460,
+    "checked_at": "2026-10-29T10:17:34.476020+00:00",
+    "sha256": "78b174579335f9d669eb917eba24b1f8e7d365c9c45477354bc4608553159ae2",
+    "status": "fetched"
+  },
+  "https://externalmedicinepodcast.com/michael-levin/": {
+    "bytes": 79625,
+    "checked_at": "2026-10-29T10:07:07.617956+00:00",
+    "sha256": "001a1bc09c1eb4b834462570e7c55bac8c3d914fee7f215215e0add6179a23f2",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/escapedsapiens/feed.xml": {
+    "bytes": 614208,
+    "checked_at": "2026-10-29T11:24:47.572976+00:00",
+    "sha256": "ab559b40dfb97c863d3eed99f0fefaacca6a5c864053e77eede1f3227cf3f485",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/musingmind/feed.xml": {
+    "bytes": 121399,
+    "checked_at": "2026-10-29T11:29:02.300676+00:00",
+    "sha256": "7c165d2a0cbbb64968be52aee131d71748de59a9ab839503d0430598b5892365",
+    "status": "fetched"
+  },
+  "https://feed.podbean.com/therationalview/feed.xml": {
+    "bytes": 1133341,
+    "checked_at": "2026-10-29T11:28:59.013249+00:00",
+    "sha256": "b0c53ef1958aa73f771537ccf7845893e68683f797e800511025424c51230ec0",
+    "status": "fetched"
+  },
+  "https://feeds.acast.com/public/shows/5b4590cd802e4c0919bef6da": {
+    "bytes": 396976,
+    "checked_at": "2026-10-29T11:25:19.476997+00:00",
+    "sha256": "daeb3cc43bf54a39c1796840d43b8ca206b1423e147482597105072270234f16",
+    "status": "fetched"
+  },
+  "https://feeds.captivate.fm/changingacademiclife/": {
+    "bytes": 2070908,
+    "checked_at": "2026-10-29T11:35:19.112862+00:00",
+    "sha256": "c8b56ce0c760e092a7060ee3a8be7d6c3cb3792364c0d6991d2e65fbc14f6a31",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/PHTE5224366695": {
+    "bytes": 2203023,
+    "checked_at": "2026-10-29T11:24:39.602636+00:00",
+    "sha256": "3f42545121ddb28099698897b05db34d606b53042445fd6dcdbed869c14cee4f",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/RINTP3108857801": {
+    "bytes": 4485078,
+    "checked_at": "2026-10-29T11:24:58.337947+00:00",
+    "sha256": "14ec8688a18f9b4e9b61fe7ec5275e7dbb97b6880676ecde0d921af507d4de17",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/TOE4643226064": {
+    "bytes": 3808534,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:57.637031+00:00",
+    "sha256": "e851f9f81031e96a0f286a308183623612bf33f7eecb599ad7b0d312d601188a",
+    "status": "fetched"
+  },
+  "https://feeds.megaphone.fm/intotheimpossible": {
+    "bytes": 6378125,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:54:58.186491+00:00",
+    "sha256": "e81a7fdcffb717ce87ed04670a4d726224f9e56ba02c2567eeeead4e9739580c",
+    "status": "fetched"
+  },
+  "https://feeds.soundcloud.com/users/soundcloud:users:672859199/sounds.rss": {
+    "bytes": 602022,
+    "checked_at": "2026-10-29T11:29:04.922693+00:00",
+    "sha256": "edb1eea25a5683c6d418e8b53d6a5ecf32782886882e3d256a63c53ecf53a143",
+    "status": "fetched"
+  },
+  "https://feeds.transistor.fm/632nm": {
+    "bytes": 580246,
+    "checked_at": "2026-10-29T11:34:47.776101+00:00",
+    "sha256": "fa0519de2b7a66d1f038599759dd08a7e300c501f3ee599ff52678edb61fc09a",
+    "status": "fetched"
+  },
+  "https://feeds.transistor.fm/thoughtforms-life": {
+    "bytes": 1042186,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:38:29.153402+00:00",
+    "sha256": "d5596e1fe7513bba020a30d5c44e39336d94003bf95ba378d439794a0a35be80",
+    "status": "fetched"
+  },
+  "https://go.ted.com/michaellevin": {
+    "bytes": 221112,
+    "checked_at": "2026-10-29T10:06:48.742016+00:00",
+    "sha256": "8fafe83c73ecaf4b9daad256aacd225bc47536b4927aea4d5671cf97a43e6f95",
+    "status": "fetched"
+  },
+  "https://hstalks.com/t/1946/endogenous-bioelectrical-signals-in-development-re/?biosci": {
+    "bytes": 124222,
+    "checked_at": "2026-10-29T10:05:54.505801+00:00",
+    "sha256": "fb6d26cc99c13fe8bbd99692904984e861a256adcf0fc127944a0b766fd5e0f5",
+    "status": "fetched"
+  },
+  "https://hstalks.com/t/1947/left-right-asymmetry-in-embryonic-development-how-/?biosci": {
+    "bytes": 121224,
+    "checked_at": "2026-10-29T10:06:33.841604+00:00",
+    "sha256": "147ec7ef29ef993a7fbda133e4a07e7adbec206dc03b5c3fd2c3737acac1b52e",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Adventures+in+Awareness&entity=podcast&limit=3": {
+    "bytes": 1672,
+    "checked_at": "2026-10-29T11:22:55.145515+00:00",
+    "sha256": "e20d66c0db720b9c2210ed6d7e9acf9b44b3435f4b941aa66088e3d3963205e6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Artificiality+Dave+Helen+Edwards&entity=podcast&limit=3": {
+    "bytes": 1765,
+    "checked_at": "2026-10-29T11:27:40.300529+00:00",
+    "sha256": "cf79b66e6243fd8400c3f957fbb139462794e38cbd49e955fdd1f95b12505186",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Bold+Conjectures+Paras+Chopra&entity=podcast&limit=3": {
+    "bytes": 3223,
+    "checked_at": "2026-10-29T11:27:33.441983+00:00",
+    "sha256": "890dd0777284c28e9d6022a26309f48a8c1a4ce716afdc946db7ff35019b4d01",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Brain+We+Are&entity=podcast&limit=3": {
+    "bytes": 4746,
+    "checked_at": "2026-10-29T11:22:46.190325+00:00",
+    "sha256": "a679d4eefd0de65841437b7f41b5cac86f9508195bee4916e4083cac8a7a4ac3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Cognitive+Revolution+Nathan+Labenz&entity=podcast&limit=3": {
+    "bytes": 1720,
+    "checked_at": "2026-10-29T11:22:43.125491+00:00",
+    "sha256": "02e750e5db9de8de4ccdcf68cc920475cb0e8552b936076478faea4398e84629",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Escaped+Sapiens&entity=podcast&limit=3": {
+    "bytes": 1683,
+    "checked_at": "2026-10-29T11:22:39.400943+00:00",
+    "sha256": "c545d43fc8f2344ec96bf106babd39c90cbceaae78548601233f91ef0a766ec1",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Evolution+2.0+Perry+Marshall&entity=podcast&limit=3": {
+    "bytes": 1653,
+    "checked_at": "2026-10-29T11:22:50.128172+00:00",
+    "sha256": "bd6f6fe1076619d904396a8d85005f78c9cd978ab746cfdd6d55ddb93e398c17",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=External+Medicine+Michael+Levin&entity=podcast&limit=3": {
+    "bytes": 4833,
+    "checked_at": "2026-10-29T11:27:27.553341+00:00",
+    "sha256": "72ed7d75ec491e713e04f4a05e692c0bb59d921e59865499e71af1977a415bf0",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=First+Principles+First&entity=podcast&limit=3": {
+    "bytes": 4897,
+    "checked_at": "2026-10-29T11:27:32.462325+00:00",
+    "sha256": "4d09456bfb2fddf184166573e9ff4b292981068362977b75f01bfe66645eb93b",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=For+the+Sake+of+Argument+Podcast&entity=podcast&limit=3": {
+    "bytes": 5067,
+    "checked_at": "2026-10-29T11:27:35.421564+00:00",
+    "sha256": "a17547fd627457c2a228ecab5479c54cb230ebeb91d2219108a45287c7e9c817",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Future+of+Being+Human+Andrew+Maynard&entity=podcast&limit=3": {
+    "bytes": 4907,
+    "checked_at": "2026-10-29T11:22:51.076548+00:00",
+    "sha256": "cf662fc54bd48fa1dbacd6ffafbf1c095e33a16e66371fb78e8c6c2ce48ae158",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Giant%E2%80%99s+Shoulder&entity=podcast&limit=3": {
+    "bytes": 4823,
+    "checked_at": "2026-10-29T11:22:40.364694+00:00",
+    "sha256": "6d28183b1e466ed43d7360e2183a0902c7f091027562e335a044d64e421a79e4",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=In+Vivo+Podcast+Medical&entity=podcast&limit=3": {
+    "bytes": 4608,
+    "checked_at": "2026-10-29T11:27:38.346154+00:00",
+    "sha256": "6aa8897ce59cb0096bb76b6b98d3c4a7af9d41b53919dd62b7643348d1695995",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Inner+Cosmos+David+Eagleman&entity=podcast&limit=3": {
+    "bytes": 1856,
+    "checked_at": "2026-10-29T11:22:42.177743+00:00",
+    "sha256": "575d599f707503634613eb6d36ce4d1ebf4d73843dc818c5f73f8f4c09a3c4fb",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Live+Longer+World&entity=podcast&limit=3": {
+    "bytes": 3130,
+    "checked_at": "2026-10-29T11:22:45.171215+00:00",
+    "sha256": "7445c121bcf7abfdd23282c3dc56cbc300be7b33c94a6bf712742c38b6aee602",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Living+Mirrors+James+Cooke&entity=podcast&limit=3": {
+    "bytes": 1799,
+    "checked_at": "2026-10-29T11:22:36.645831+00:00",
+    "sha256": "f4d2e02c8c6a7f54387b23feff54f40dd28bab51a2d41b6ad0d889886d7ccf72",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mayim+Bialik+Breakdown&entity=podcast&limit=3": {
+    "bytes": 1700,
+    "checked_at": "2026-10-29T11:22:48.069100+00:00",
+    "sha256": "0a82c364117bfea8b2e1124da571b4d46b794f7c21d7ccaddc2d6fa8f23f66b3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Meaning+Code+Karen+Wong&entity=podcast&limit=3": {
+    "bytes": 1637,
+    "checked_at": "2026-10-29T11:22:49.100584+00:00",
+    "sha256": "382f06639ad4b52932b7591edb7ef6e2830670d01b0804e6638ec054777076d7",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 295185,
+    "checked_at": "2026-10-29T11:30:27.327930+00:00",
+    "sha256": "36eba254a649aa6425b14c6acf9cd0f703348c93cf1251682b4dde943808e737",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mike+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 338565,
+    "checked_at": "2026-10-29T11:30:29.616115+00:00",
+    "sha256": "b8ac5582bcb440abfaae54ee32cfbe13c7fc986ba4fec420876ca7449957b803",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mind+Matter+Nick+Jikomes&entity=podcast&limit=3": {
+    "bytes": 1588,
+    "checked_at": "2026-10-29T11:22:41.291537+00:00",
+    "sha256": "57ba2e887731ca5aead59446c2337bd8a789e65aebebfd6c91c1dafc6d516d9b",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Musing+Mind+Oshan+Jarow&entity=podcast&limit=3": {
+    "bytes": 1669,
+    "checked_at": "2026-10-29T11:27:30.399451+00:00",
+    "sha256": "7835f45e6b9b868808d6853d2039e0b8437e52c50f754a8d8cb45ef271ed1e79",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Mystics+and+Muons&entity=podcast&limit=3": {
+    "bytes": 1597,
+    "checked_at": "2026-10-29T11:27:36.386081+00:00",
+    "sha256": "4cfcca0c0e682dcc44f33fbc4ae661ba42fa4a00ea873d3bf8ae7f0e3a6aebb6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Nature+and+Nurture+Adam+Omary&entity=podcast&limit=3": {
+    "bytes": 1649,
+    "checked_at": "2026-10-29T11:22:38.410193+00:00",
+    "sha256": "fb376bdd99b0b43ed99933336a8eb91d82f960af5fcf57514799f0e0ddb16ace",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Reason+with+Science&entity=podcast&limit=3": {
+    "bytes": 4862,
+    "checked_at": "2026-10-29T11:22:47.157009+00:00",
+    "sha256": "1b58cf7ce38bc4ba47737722f42fc2d967a613e0615e0359250de2b47b5e6f9d",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Robinson+Erhardt+Podcast&entity=podcast&limit=3": {
+    "bytes": 1634,
+    "checked_at": "2026-10-29T11:22:44.131587+00:00",
+    "sha256": "e5c1d842aa33950e57e44b83ee2991a722d7562ab6645c8aa0cfb62753acb121",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Science+Rehashed&entity=podcast&limit=3": {
+    "bytes": 4759,
+    "checked_at": "2026-10-29T11:27:29.502580+00:00",
+    "sha256": "c467f8cfb01ee6ce7ca6fba895e20ebcac608890add2010054830bf8bb3e1ccb",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Sentientism+Jamie+Woodhouse&entity=podcast&limit=3": {
+    "bytes": 1587,
+    "checked_at": "2026-10-29T11:22:37.525897+00:00",
+    "sha256": "af821ac229887b08c102c7cad6547357f288774a30aa995917b83bfc48e0234d",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Soft+Robotics+Podcast&entity=podcast&limit=3": {
+    "bytes": 5187,
+    "checked_at": "2026-10-29T11:27:31.485850+00:00",
+    "sha256": "a459cd2bd8cafda38c831ed9cd4b9e9e26b2aa718212c4915a7cc6b6b7b9a5f8",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Orthogonal+Bet+Lux+Capital&entity=podcast&limit=3": {
+    "bytes": 1590,
+    "checked_at": "2026-10-29T11:27:41.208049+00:00",
+    "sha256": "988147476d50cd745a2a300fed91b55fcaf054c756de863728b107f8f5e4ca14",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Rational+View+Al+Scott&entity=podcast&limit=3": {
+    "bytes": 1804,
+    "checked_at": "2026-10-29T11:27:28.432130+00:00",
+    "sha256": "d9008a5a4b3cc7e40597696c18e0d857a47320e77f5993dd0af045b1acb9f9a3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Symbolic+World+Jonathan+Pageau&entity=podcast&limit=3": {
+    "bytes": 1603,
+    "checked_at": "2026-10-29T11:22:52.009304+00:00",
+    "sha256": "2ecc0a70b3b149d1d71ab376ec73d4eed8c4c4f0c3a9b00c484ab2e6d40b0a29",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=The+Truth+Carlos+Farias&entity=podcast&limit=3": {
+    "bytes": 5218,
+    "checked_at": "2026-10-29T11:27:37.301027+00:00",
+    "sha256": "550265b5401d57bd9901663c0393ceb0835e7927fdc8cfc63588d64b72c641d6",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Third+Eye+Drops+Michael+Phillip&entity=podcast&limit=3": {
+    "bytes": 1663,
+    "checked_at": "2026-10-29T11:22:35.736629+00:00",
+    "sha256": "70996c7faeb4a0bc315e543a739b4c4b9a69457cf78da077fe5aeeb1764b4aba",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=This+Mind+of+Ours&entity=podcast&limit=3": {
+    "bytes": 42,
+    "checked_at": "2026-10-29T11:27:39.284885+00:00",
+    "sha256": "7f5ce663b726607eae2fde2a6dc438052ac0d1681e636de7cc3377c0bb77e047",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Variable+Minds+Andrea+Morris&entity=podcast&limit=3": {
+    "bytes": 4788,
+    "checked_at": "2026-10-29T11:27:34.382792+00:00",
+    "sha256": "57aec04e6dd9cbf01615f1b09b9d1bccb6e5cb40f3f595475a07f87068b7784c",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Worthy+Successor+Trajectory&entity=podcast&limit=3": {
+    "bytes": 4807,
+    "checked_at": "2026-10-29T11:22:52.970016+00:00",
+    "sha256": "b3d9db31d335638ba1bf2e36c6db340fb2c26fbdd30195fe64c1c267e41d8383",
+    "status": "fetched"
+  },
+  "https://lexfridman.com/feed/podcast/": {
+    "bytes": 2091849,
+    "checked_at": "2026-10-29T11:35:05.558528+00:00",
+    "sha256": "5aac4b1901d5551636af3e4149cc7c00260a57389c8ac45c0513b8f511fe8d06",
+    "status": "fetched"
+  },
+  "https://lexfridman.com/michael-levin-2-transcript/": {
+    "bytes": 413463,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:40.922124+00:00",
+    "sha256": "20941455e13c1d4ff12c64af24955f332673953bf0f3561056c3c0908fb855a3",
+    "status": "fetched"
+  },
+  "https://manyminds.libsyn.com/mind-everywhere": {
+    "bytes": 59211,
+    "checked_at": "2026-10-29T10:05:34.250706+00:00",
+    "sha256": "f3b1f29c8d28183b3c3b065d6a8d23a7a9dae827f5981acd1962c4c1df0b0d6b",
+    "status": "fetched"
+  },
+  "https://media.rss.com/themeaningcode/feed.xml": {
+    "bytes": 408859,
+    "checked_at": "2026-10-29T11:25:17.301935+00:00",
+    "sha256": "5d4f777f6e061b991bd2161994c8c8d9b384b2d92a740546696ccf31ca1b953b",
+    "status": "fetched"
+  },
+  "https://mediaspace.illinois.edu/media/t/1_nyse6h3z": {
+    "bytes": 230132,
+    "checked_at": "2026-10-29T11:41:24.763707+00:00",
+    "sha256": "6944533ad995b55feea9837d4f69adc37510893eab5eee6e0081c3ffd1189183",
+    "status": "fetched"
+  },
+  "https://open.spotify.com/episode/2yxUKGXFvf3lKwm71j60bY": {
+    "checked_at": "2026-10-29T10:05:16.071989+00:00",
+    "http_status": 403,
+    "reason": "HTTP Error 403: Forbidden",
+    "retry_after": "2026-10-30T10:05:16.071989+00:00",
+    "status": "failed"
+  },
+  "https://oshercenter.org/2020/02/11/video-endogenous-bioelectric-networks-regenerative-medicine": {
+    "bytes": 98460,
+    "checked_at": "2026-10-29T10:06:15.915366+00:00",
+    "sha256": "14ad7c39821c8e2bbda8e38cf7dd6e137c604920c0d82f39a4a8e03b90b28dd7",
+    "status": "fetched"
+  },
+  "https://pod.link/1615629580/episode/556816026672feac379efcacd3dfa252": {
+    "checked_at": "2026-10-29T10:06:40.108913+00:00",
+    "http_status": 429,
+    "reason": "HTTP Error 429: Too Many Requests",
+    "retry_after": "2026-10-30T10:06:40.108913+00:00",
+    "status": "failed"
+  },
+  "https://podcasts.apple.com/us/podcast/a-new-class-of-robots/id1516667844?i=1000552676744": {
+    "bytes": 140080,
+    "checked_at": "2026-10-29T10:05:23.358667+00:00",
+    "sha256": "de4b0748f1effd57327aa80ec4ce16e5287833cbfae72c0fc34ce76b1740b94e",
+    "status": "fetched"
+  },
+  "https://podscripts.co/podcasts/lex-fridman-podcast/325-michael-levin-biology-life-aliens-evolution-embryogenesis-xenobots": {
+    "bytes": 1088800,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T10:33:53.709077+00:00",
+    "sha256": "94a00ab7fcc0625b4298724309f17406a8f67b81833703f7a5738790d230bc7c",
+    "status": "fetched"
+  },
+  "https://radioideaxme.com/2020/07/22/bio-electricity-for-regeneration-and-cancer-control": {
+    "bytes": 195571,
+    "checked_at": "2026-10-29T10:07:09.798568+00:00",
+    "sha256": "00b1b2b365694183b95252f7c3d518256aa3088cd36aa5e06b1f68b6ec7b2226",
+    "status": "fetched"
+  },
+  "https://rss.art19.com/the-psychology-podcast": {
+    "bytes": 3073678,
+    "checked_at": "2026-10-29T11:35:14.761435+00:00",
+    "sha256": "42144549c3e190351595d5b246b9883ac3691962b79d6fd2cf1ae9caaf29b9e0",
+    "status": "fetched"
+  },
+  "https://rss.art19.com/tim-ferriss-show": {
+    "bytes": 30595203,
+    "checked_at": "2026-10-29T11:35:02.057338+00:00",
+    "sha256": "f4c3baf5386c0c9ba4482b21793f327f1a7013934ba487cbb35c3c2c06d7a6f4",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/1535644.rss": {
+    "bytes": 1998173,
+    "checked_at": "2026-10-29T11:24:52.338811+00:00",
+    "sha256": "d1c71c53ee921ec8f4539cbc7ea81c9feb69cb2d32d0cbce1c47ae6574db562c",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/1695103.rss": {
+    "bytes": 292155,
+    "checked_at": "2026-10-29T11:28:55.953074+00:00",
+    "sha256": "d31539f1eefca0f6a97b80957957d2919b6fcc554b3c41fbef5c15f268f1eb1e",
+    "status": "fetched"
+  },
+  "https://rss.buzzsprout.com/2308422.rss": {
+    "bytes": 479916,
+    "checked_at": "2026-10-29T11:25:21.629435+00:00",
+    "sha256": "564d2f6123529ad4dda51f7a2101ccdcbb184095f2680257ff32405d718d9d28",
+    "status": "fetched"
+  },
+  "https://rss.libsyn.com/shows/276104/destinations/2112968.xml": {
+    "bytes": 432870,
+    "checked_at": "2026-10-29T11:24:42.258770+00:00",
+    "sha256": "cfd2d5638cc296da8e1cc38f379d08151662f1c725623b0f43bc9252e1cc572e",
+    "status": "fetched"
+  },
+  "https://rss.libsyn.com/shows/604590/destinations/5264190.xml": {
+    "bytes": 2627792,
+    "checked_at": "2026-10-29T11:35:10.537622+00:00",
+    "sha256": "5bb9f47c58aa935aace87c43e284b353d4398e8b5d763767778011b0939769b9",
+    "status": "fetched"
+  },
+  "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/": {
+    "bytes": 4929994,
+    "checked_at": "2026-10-29T11:25:15.037215+00:00",
+    "sha256": "00378b6e185c694d3ab1d1b59cd966eac737a38ba55b01ac5ca0a7149caf01eb",
+    "status": "fetched"
+  },
+  "https://sciencerehashed.podbean.com/e/xenobots-ai-enabled-first-living-robots": {
+    "bytes": 39519,
+    "checked_at": "2026-10-29T10:06:03.646326+00:00",
+    "sha256": "e7cb1c77c352b678da1feaec484975afe0cfc252601ca056f87fa0bd4680399c",
+    "status": "fetched"
+  },
+  "https://scinotsci.com/episode/73/": {
+    "bytes": 59528,
+    "checked_at": "2026-10-29T10:06:53.744936+00:00",
+    "sha256": "a51f8ac013050b7db0f6401dea402867cfb4f3763d93e6aa7556607905793308",
+    "status": "fetched"
+  },
+  "https://share.transistor.fm/e/ff77e8a9/?color=444444&background=ffffff": {
+    "checked_at": "2026-10-29T09:38:31.064174+00:00",
+    "http_status": 404,
+    "reason": "HTTP Error 404: Not Found",
+    "retry_after": "2026-10-29T10:38:31.064174+00:00",
+    "status": "failed"
+  },
+  "https://shows.acast.com/evolution2-0/episodes/picasso-tadpoles-michael-levin-on-the-dark-matter-of-biology": {
+    "bytes": 82540,
+    "checked_at": "2026-10-29T10:06:12.092689+00:00",
+    "sha256": "c1d9729c8a37a908abc0e442bc8239b8a63bb5dc7a30ccb7f5457b67d98a1ce1",
+    "status": "fetched"
+  },
+  "https://sites.libsyn.com/460281/michael-levin-regenerative-medicine": {
+    "checked_at": "2026-10-29T10:06:39.391277+00:00",
+    "http_status": 404,
+    "reason": "HTTP Error 404: Not Found",
+    "retry_after": "2026-10-29T11:06:39.391277+00:00",
+    "status": "failed"
+  },
+  "https://soundcloud.com/ieeeras-softrobotics/josh-bongard-michael-levin-self-replicating-living-robots": {
+    "bytes": 85517,
+    "checked_at": "2026-10-29T10:06:57.802422+00:00",
+    "sha256": "2527afca7280630edd9b58da6276730608defd5e9e7ee6a996550def8f8abc3f",
+    "status": "fetched"
+  },
+  "https://soundcloud.com/ieeeras-softrobotics/soft-robotics-with-michael-levin-xenobot": {
+    "bytes": 86520,
+    "checked_at": "2026-10-29T10:05:50.287597+00:00",
+    "sha256": "ecd0e65ce80010d943d5b139ba781d4a3b31e9069920fe5e7915be69ee84b9af",
+    "status": "fetched"
+  },
+  "https://storiesofimpact.libsyn.com/diverse-intelligences-surprises-with-dr-franc-de-waal-dr-michael-levin": {
+    "bytes": 45146,
+    "checked_at": "2026-10-29T10:05:18.218298+00:00",
+    "sha256": "9bfc2a1a53e05851e82ce4f9969a507772758f78b85a87a06dbaacac3b735350",
+    "status": "fetched"
+  },
+  "https://t.co/9i8bxm8HmY": {
+    "bytes": 1747892,
+    "checked_at": "2026-10-29T10:07:16.659560+00:00",
+    "sha256": "bf5f0519e348e19e5f35b70a5c3977dbac3495a7d00e1792155f5cd7371a4894",
+    "status": "fetched"
+  },
+  "https://thegradientpub.substack.com/p/5bea1f81-422a-41ff-97f4-acf1c620ebe0#details": {
+    "bytes": 239394,
+    "checked_at": "2026-10-29T10:07:03.898165+00:00",
+    "sha256": "dcd49d3f8ba16eb427507251be91d55f80263e935497e589b5316b5ee78a5f0a",
+    "status": "fetched"
+  },
+  "https://therationalview.podbean.com/e/dr-michael-levin-on-cellular-cooperation-and-cognition/": {
+    "bytes": 45716,
+    "checked_at": "2026-10-29T10:06:42.097825+00:00",
+    "sha256": "e700e17db7347698fb05b649033afd8c7201f575aceac4f39d7e03b02ffc3875",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/1-hour-tame-talk/": {
+    "bytes": 89932,
+    "checked_at": "2026-10-29T09:11:25.317221+00:00",
+    "sha256": "b541118aa267ce8a259ee4bc20468d5cb72b351951254de47af7c9769367e060",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-1-hour-lecture-on-bioelectricity-for-a-department-of-parasitology-immunology-by-michael-levin/": {
+    "bytes": 83638,
+    "checked_at": "2026-10-29T09:11:26.707032+00:00",
+    "sha256": "4db89bcb07ab90e8464b6bf7c831bbb88a5db583f404f01b3f7b8b1dd0ff33d4",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-bioelectric-interface-to-the-collective-intelligence-of-agential-materials-for-bioengineering-new/": {
+    "bytes": 18242,
+    "checked_at": "2026-10-29T09:11:28.062285+00:00",
+    "sha256": "fe1825caeb3984a69bf6a720d6a454bddde5fec77ab5b417db4106658fb4b0cd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-bioelectric-interface-to-the-collective-intelligence-of-agential-materials-for-bioengineering/": {
+    "bytes": 80514,
+    "checked_at": "2026-10-29T09:12:30.688223+00:00",
+    "sha256": "867a6a731f58b98799b4b0fe6665d84ac94c71189d72303fc44847c123d10c9c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-conversation-with-alison-hanson-on-cognitive-science-and-her-trajectory-in-neurobiology/": {
+    "bytes": 66965,
+    "checked_at": "2026-10-29T09:12:32.123865+00:00",
+    "sha256": "6d96f538252aaa0e2ea5746fa1248d8487724ecad09f69409e1642f1784a6432",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-conversation-with-andrey-vyshedskiy-about-the-evolution-of-language-and-brain-development/": {
+    "bytes": 62968,
+    "checked_at": "2026-10-29T09:12:33.415767+00:00",
+    "sha256": "6ac3beb78073a64a365a364bb42be3bb7f4bf6bedf8aaf8f94cdf64f68665f6b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-conversation-with-mark-solms-on-life-and-mind/": {
+    "bytes": 110831,
+    "checked_at": "2026-10-29T09:12:34.807444+00:00",
+    "sha256": "1ae96420a86e7ecd8df4cedf3694ff0ad7ead7ae67a90d86b590de3b21b9ac49",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-discussion-between-john-vervaeke-gregg-henriques-justin-mcsweeny-and-mike-levin/": {
+    "bytes": 87565,
+    "checked_at": "2026-10-29T09:12:36.049441+00:00",
+    "sha256": "c0379c1b77d853b8ae6b797764e3afbf13189d8826e006fd14e2d980afb64a6a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/a-multiscale-logic-of-collective-intelligence-by-donald-hoffman-and-chetan-prakash/": {
+    "bytes": 97227,
+    "checked_at": "2026-10-29T09:12:37.356797+00:00",
+    "sha256": "873bf609dfa5d70774b95f10259887a1b835021e1f5557606872218c72f40f97",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-and-i-interview-robert-gatenby/": {
+    "bytes": 59704,
+    "checked_at": "2026-10-29T09:12:38.600169+00:00",
+    "sha256": "7a9aaba4c75aa4b03482a8e8e0506ae8df9ba814e9f2f2e6763cbb769cc31e0b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-and-i-interview-pamela-lyon/": {
+    "bytes": 72392,
+    "checked_at": "2026-10-29T09:12:39.732515+00:00",
+    "sha256": "131c681558c7b25c4a1ca218e668c4e92303ef046167b2b1b57647637735a480",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-i-interview-denis-noble/": {
+    "bytes": 65866,
+    "checked_at": "2026-10-29T09:12:41.017205+00:00",
+    "sha256": "bce166faeb9c41f1c58561daad9586cfee0cccabed8bed68bac6b1655d27b156",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-i-interview-ken-robinson-a-great-figure-in-developmental-bioelectricity/": {
+    "bytes": 53968,
+    "checked_at": "2026-10-29T09:12:42.357002+00:00",
+    "sha256": "f9acc050331f1faefcf4f1ac3bdc4176cdb5ca0ed020eb49b54a98d4d0157ce1",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-i-interview-min-zhao-a-leader-in-the-role-of-bioelectricity-in-wound-healing/": {
+    "bytes": 51632,
+    "checked_at": "2026-10-29T09:12:43.586791+00:00",
+    "sha256": "eb30ef7de0f819fc10f51c34a14be387a7cdf17571a94ec79824258c5ba9f6c5",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-i-interview-mustafa-djamgoz-foundational-contributor-to-cancer-bioelectricity/": {
+    "bytes": 58077,
+    "checked_at": "2026-10-29T09:12:44.841577+00:00",
+    "sha256": "dbbc9af118d7e0953591d8faac4840eae00cd58ae0118be336720ce6a8619203",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aastha-jain-simes-i-interview-richard-nuccitelli-a-great-figure-in-developmental-bioelectricity/": {
+    "bytes": 67914,
+    "checked_at": "2026-10-29T09:12:46.191666+00:00",
+    "sha256": "610dc6f98621cf473e2850b420905d2e9c1916153ba75b3c056e57ffd2b88bb5",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-by-michael-levin/": {
+    "bytes": 83075,
+    "checked_at": "2026-10-29T09:12:47.650170+00:00",
+    "sha256": "5c5e4742509d736c88df83c7b2ec711183555f27b98fc8ffa68881de459f4233",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-and-communicating-with-agential-materials-and-beyond-michael-levin/": {
+    "bytes": 18267,
+    "checked_at": "2026-10-29T09:12:48.998196+00:00",
+    "sha256": "919e23acb47bfbd69ca3c6a4ec886b092e14e889ca63bae5901af780005f0dc5",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-and-communicating-with-agential-materials-by-michael-levin/": {
+    "bytes": 95873,
+    "checked_at": "2026-10-29T09:12:50.356338+00:00",
+    "sha256": "4c11e6a3e1e6adf90b59c59ca463a320621da476ba32052fa8b86ced62944f73",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-and-communicating-with-diverse-intelligences-by-michael-levin/": {
+    "bytes": 58322,
+    "checked_at": "2026-10-29T09:12:51.758411+00:00",
+    "sha256": "3742a19d40b93dd119ac1da41c2b1a5907ce78801bab824ff6e0e92cf19fac2e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-and-communicating-with-diverse-intelligences/": {
+    "bytes": 55776,
+    "checked_at": "2026-10-29T09:12:53.067107+00:00",
+    "sha256": "2e59a6589025629d960143c644ffb507e9852be26e9077fdede81b20c7a04cbb",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-and-communicating-with-unconventional-beings-by-michael-levin/": {
+    "bytes": 74751,
+    "checked_at": "2026-10-29T09:12:54.532614+00:00",
+    "sha256": "cf76f40a9e62e7d80c30f3943d472d5b58a81b2889baecb4536fcc70c9ba119d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness-recognizing-communicating-w-agential-materials-beyond-michael-levin/": {
+    "bytes": 92791,
+    "checked_at": "2026-10-29T09:12:55.917207+00:00",
+    "sha256": "e6f3e4c0b0a58fe12f02c00ab12733ebd2d9e27b26e4d9b7f2b30b1232c13f13",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/against-mind-blindness/": {
+    "bytes": 17631,
+    "checked_at": "2026-10-29T09:12:57.231301+00:00",
+    "sha256": "06c909cd4e0c4cd5c4730d8d3d6f8ae500e8e0209cc7e95be857e645eef6acaf",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/aging-goal-directedness-and-bioelectricity-by-michael-levin/": {
+    "bytes": 43816,
+    "checked_at": "2026-10-29T09:12:58.489815+00:00",
+    "sha256": "08a84c1f05f62bcd77a14c0c22e52491bbc7a2846962f06daf7692f2b254d24c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/an-active-inference-model-of-collective-intelligence-by-r-kaufman-p-gupta-and-j-taylor/": {
+    "bytes": 41361,
+    "checked_at": "2026-10-29T09:12:59.804286+00:00",
+    "sha256": "d6ae4412a42eeca501754100afae9ca952666e2a29790c27372e8b558bb75a2e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/associative-memory-in-hopfield-networks-designed-to-solve-propositional-satisfiability-problems/": {
+    "bytes": 59839,
+    "checked_at": "2026-10-29T09:13:01.217236+00:00",
+    "sha256": "f1f0923aa94e90f0ade69c29b42ce33eb307d1b0dc9ad16a689ffaa057c3f4cf",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/at-the-intersection-of-ai-developmental-biology-intelligence-beyond-the-brain-by-michael-levin/": {
+    "bytes": 84265,
+    "checked_at": "2026-10-29T09:13:02.560091+00:00",
+    "sha256": "1debd63583c2c4467ed6ca74139b7e3994fdfc1595bd061aa9a07bb5becfe1f2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/at-the-intersection-of-ai-developmental-biology-intelligence-beyond-the-brain/": {
+    "bytes": 16285,
+    "checked_at": "2026-10-29T09:13:03.912684+00:00",
+    "sha256": "a04b4f8d15786ad01512b09a621e51ad262dd39d0346e025ec685bd16cb1865b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bernardo-kastrup-richard-watson-and-mike-levin-conversation-1/": {
+    "bytes": 80112,
+    "checked_at": "2026-10-29T09:13:05.287078+00:00",
+    "sha256": "2d5b38380ee597e24e0641f84a69ebe72d5ae49a5187d28e0edc2addec3c2f0b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bernardo-kastrup-richard-watson-and-mike-levin-conversation/": {
+    "bytes": 17337,
+    "checked_at": "2026-10-29T09:13:06.322119+00:00",
+    "sha256": "fc35df238dbd6c840aa085fff8213c0486d5857020a2bd2d6d21353847a7a3d9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/beyond-complexity-emergence-taming-multiscale-competency-in-agential-materials-by-michael-levin/": {
+    "bytes": 76912,
+    "checked_at": "2026-10-29T09:13:07.698721+00:00",
+    "sha256": "f87366a0e0c44682ad2a4a130310d4ff57f776f0e133e3dcdb75ba0fa99fe8e2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/beyond-complexity-emergence-taming-multiscale-competency-in-agential-materials/": {
+    "bytes": 18002,
+    "checked_at": "2026-10-29T09:13:09.091205+00:00",
+    "sha256": "9d8297c5f78c433cb4a7ea716707054fc9ee050326479eb863b286ee15310e5a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/beyond-the-brain-multiscale-diverse-intelligence-as-biological-inspiration-for-ai/": {
+    "bytes": 83034,
+    "checked_at": "2026-10-29T09:13:10.325318+00:00",
+    "sha256": "49b6134911ed6621b3e556d5ceb803030d1790fb73832c615731711873c9fa29",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bio-inspired-technology-science-biology-platonicspace/": {
+    "bytes": 21077,
+    "checked_at": "2026-10-29T09:13:11.608389+00:00",
+    "sha256": "99d043e0060b2366bd821564a3e17f2b894d0f5ea000acc9981886a58b5161d1",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectric-networks-an-interface-to-engineering-with-the-agential-material-of-life/": {
+    "bytes": 87790,
+    "checked_at": "2026-10-29T09:13:12.932483+00:00",
+    "sha256": "391f6f2fed60474683f6f7d5d67cadcdb4c517259284512a9600b94667350026",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectric-networks-as-the-interface-to-somatic-intelligence-for-regenerative-medicine/": {
+    "bytes": 74711,
+    "checked_at": "2026-10-29T09:13:14.264080+00:00",
+    "sha256": "44b29f160be00414bba43940246a532a26f48a1735ee77a4fe21b5a571f182a7",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectric-networks-as-the-interface-to-somatic-intelligence-toward-a-new-regenerative-medicine/": {
+    "bytes": 75212,
+    "checked_at": "2026-10-29T09:13:15.570090+00:00",
+    "sha256": "a644f9a62c9fda66d068200ce6adcc6cd7b5319614701b9b28bf9df2f9fb4f4e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectric-networks-underlie-the-collective-intelligence-of-morphogenesis/": {
+    "bytes": 72450,
+    "checked_at": "2026-10-29T09:13:16.961470+00:00",
+    "sha256": "4b52c5aee7c25a350474dbaa4b5905747c8fb206ae8758fe66687ef88dafe886",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectric-networks-underlie-the-intelligence-of-the-body/": {
+    "bytes": 82590,
+    "checked_at": "2026-10-29T09:13:18.317585+00:00",
+    "sha256": "e4be34a7c18e19641eda837cd1b92a358e1a1412ee0c2da49c9b39524517d38b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectrical-signals-reveal-induce-and-normalize-cancer/": {
+    "bytes": 73224,
+    "checked_at": "2026-10-29T09:13:19.575031+00:00",
+    "sha256": "30c22f6316a21ac63d6d83b5abc3b554fb82b274b1a9e34807faa739418547cd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectricity-a-bridge-between-physics-and-cognition-by-way-of-biology-by-michael-levin/": {
+    "bytes": 44009,
+    "checked_at": "2026-10-29T09:13:20.967460+00:00",
+    "sha256": "79160f4d3ee0559a49e4cfde8871327b918c3ae144dc6c7cec45a59cb2b8824f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectricity-a-bridge-between-physics-and-cognition-by-way-of-biology/": {
+    "bytes": 16867,
+    "checked_at": "2026-10-29T09:13:22.359121+00:00",
+    "sha256": "8885f5ae17b8a9766d481230a0c0fab096b93d3c82c2dde6fee9d3998cb56cc2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectricity-as-cognitive-glue-from-diverse-intelligence-to-regenerative-medicine-1-hour-talk/": {
+    "bytes": 104568,
+    "checked_at": "2026-10-29T09:13:23.629426+00:00",
+    "sha256": "c7219465661558bf0f0bf838f9598edadefc587bcde8fb102b9de2b5c6fe590d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectricity-as-the-software-of-life-from-cognitive-glue-to-regenerative-medicine/": {
+    "bytes": 82321,
+    "checked_at": "2026-10-29T09:13:25.045184+00:00",
+    "sha256": "9c4edac7f350d1e1077639f060131c75f6099d72a37398c861bea3c9ebb538a8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/bioelectricity-biobots-and-the-future-of-biology/": {
+    "bytes": 52996,
+    "checked_at": "2026-10-29T09:13:26.159503+00:00",
+    "sha256": "1208cb7b3c1c4bfc5087998d5ccedcb43134527931e42a4e84d15617b4d7ddf6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/biological-and-technological-information-processing-by-michael-levin/": {
+    "bytes": 58327,
+    "checked_at": "2026-10-29T09:13:27.471265+00:00",
+    "sha256": "8350bd0e8cd221a06c8637eb9618c7728fb664a11a69faa44e189bf3483efd47",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/biological-and-technological-information-processing-commonalities-differences-and-implications/": {
+    "bytes": 85147,
+    "checked_at": "2026-10-29T09:13:28.834184+00:00",
+    "sha256": "5d1473685b5e718a5b51efa1eb000a25a3fe010a2931dea0586d9fedcf68e74e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/biological-and-technological-information-processing/": {
+    "bytes": 17487,
+    "checked_at": "2026-10-29T09:13:30.184575+00:00",
+    "sha256": "38e451e988cec852b3877bbe48d53f027c524c2106e3f3cbaab84bc6aecc0536",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/biology-ai-and-diverse-intelligence-by-michael-levin/": {
+    "bytes": 81720,
+    "checked_at": "2026-10-29T09:13:31.537126+00:00",
+    "sha256": "90b5e3734371cffc087063ebc9f2a4853578cd14276668509e3809e065ddf5ac",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/biorobotics-engineering-with-agential-materials/": {
+    "bytes": 81206,
+    "checked_at": "2026-10-29T09:13:32.927761+00:00",
+    "sha256": "0c466991e4173574529c1879e10ba38d904153b5e729c966eecccf400c65f75a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/cancer-mitochondria-and-metabolism-a-discussion-with-thomas-seyfried-and-his-group/": {
+    "bytes": 86088,
+    "checked_at": "2026-10-29T09:13:34.137636+00:00",
+    "sha256": "d6ada8ab3b0fcacc63f2109b555948db4047901f284952aa433a4e60493edc49",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/cancer-talk-by-michael-levin-2021/": {
+    "bytes": 66693,
+    "checked_at": "2026-10-29T09:13:35.486563+00:00",
+    "sha256": "ef6bffb54d4a2ef2a3eb36f6da826ed7eda3fa8781168b8e087e7fb5d953334b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/cellular-automata-and-models-of-health-and-disease/": {
+    "bytes": 44773,
+    "checked_at": "2026-10-29T09:13:36.897793+00:00",
+    "sha256": "b4ee3b65fbaa840c62320c2986b4b02857f8bfd27d6c851b6d5ab7d4cb2b4221",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/chat-with-carlos-e-perez-about-the-tame-framework-intelligence-and-agency/": {
+    "bytes": 51476,
+    "checked_at": "2026-10-29T09:13:38.243856+00:00",
+    "sha256": "ae305413673c2e43d0aee537ef1402226cd498981af275a662dd2ba933e534aa",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/chemical-ai-an-unconventional-strategy-for-mimicking-biological-intelligence-pier-luigi-gentili/": {
+    "bytes": 63338,
+    "checked_at": "2026-10-29T09:13:39.654600+00:00",
+    "sha256": "2726b1340ca3f68c511bb0394f7a1bc7675d3007159321e26ac1a6fdbb2e5a32",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/chemical-ai-an-unconventional-strategy-for-mimicking-biological-intelligence/": {
+    "bytes": 17427,
+    "checked_at": "2026-10-29T09:13:40.975780+00:00",
+    "sha256": "d79a05a0d6a2641dd238346c59a578e28e5ce71456d3d6b40362c38fa0462620",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/collective-intelligence-of-the-body-the-multiscale-architecture-of-selves-by-michael-levin/": {
+    "bytes": 78333,
+    "checked_at": "2026-10-29T09:13:42.208452+00:00",
+    "sha256": "349cf41d399ca1b3d5d15eab58ab4190317eed361f38c930765954b5cb096a79",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/collective-intelligence-of-the-body-the-multiscale-architecture-of-selves/": {
+    "bytes": 18258,
+    "checked_at": "2026-10-29T09:13:43.468435+00:00",
+    "sha256": "d80400c4604c0655a9cc210013c91f09d3b06c804efb8d8efd91b14ace23b568",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/computationalism-and-consciousness-with-nic-rouleau-jaan-aru-and-borjan-milinkovic/": {
+    "bytes": 83649,
+    "checked_at": "2026-10-29T09:13:44.824896+00:00",
+    "sha256": "c3268fbbd85c6a8ca1cc9a2bf1c860176071661fc04e96a77887de8ae01fc01b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-between-chris-fields-richard-watson-and-mike-levin/": {
+    "bytes": 62350,
+    "checked_at": "2026-10-29T09:13:46.149270+00:00",
+    "sha256": "e43ffeb310aed04a98081bcb5df05e8e3bc6a9b4a82bb204578fe13460bcc083",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-between-gunnar-babcock-daniel-mcshea-mark-solms-and-michael-levin/": {
+    "bytes": 68139,
+    "checked_at": "2026-10-29T09:13:47.532905+00:00",
+    "sha256": "8e6055c91af609abdd329160a65b366451ae158540f275deaa3510553587ab46",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-between-richard-watson-mark-solms-and-michael-levin/": {
+    "bytes": 57897,
+    "checked_at": "2026-10-29T09:13:48.842051+00:00",
+    "sha256": "ca3de2c67442abe49048a0426d572b66f7577c8c54cfb9368320569f1654e7ad",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-w-lisa-barrett-ben-lyons-eli-sennesh-jordan-theriault-brown-and-karen-quigley/": {
+    "bytes": 65118,
+    "checked_at": "2026-10-29T09:13:50.218030+00:00",
+    "sha256": "4173aa0df4297189a69ccb7da77ba13c6eff7356cd0a9db11e755a96aedc394e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-alex-schmidt-and-alexey-tolchinsky/": {
+    "checked_at": "2026-10-29T09:13:51.107976+00:00",
+    "http_status": null,
+    "reason": "<urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1010)>",
+    "retry_after": "2026-10-29T10:13:51.107976+00:00",
+    "status": "failed"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-alexey-tolchinsky-anthony-weiss-and-chris-fields/": {
+    "bytes": 76755,
+    "checked_at": "2026-10-29T09:14:07.483348+00:00",
+    "sha256": "6ce6da7f1ce931eb5b449d686b93c01072310a4c881647a60a833f90386951a9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diana-moga-alexey-tolchinsky-and-chris-fields/": {
+    "bytes": 62576,
+    "checked_at": "2026-10-29T09:14:08.765632+00:00",
+    "sha256": "58db83d2d50a551469d8ab8e99405d1fc4f30915bf6bd14286edee70f5791e04",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-diego-bohorquez-and-mijail-d-serruya-how-information-moves-levels-in-bodies/": {
+    "bytes": 72857,
+    "checked_at": "2026-10-29T09:14:10.161456+00:00",
+    "sha256": "829852cdaae1298f08c5ee44e4cb8baf99b5d44ebe880eaf8a28ba1e0ae30195",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-mijail-serruya-alessandro-napoli-and-wesley-clawson/": {
+    "bytes": 70710,
+    "checked_at": "2026-10-29T09:14:11.526576+00:00",
+    "sha256": "04d3458a0631aaf534a63dd4008b45f0b877d6d0fc9fc8b2191c3c5cd8d72f5b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-nora-belrose-ai-sentience-and-platonic-space/": {
+    "bytes": 65749,
+    "checked_at": "2026-10-29T09:14:12.845182+00:00",
+    "sha256": "0c623e60e059632afe2ea4fcdbf8ce1cbeda5ea73f78dd942f01df7172dee647",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with-steven-strogatz/": {
+    "bytes": 83629,
+    "checked_at": "2026-10-29T09:14:14.321586+00:00",
+    "sha256": "55cf7a3e5f022e3fbe2c4269bf5b0d97893c5b4ddffbf54c6a40060cc9254ef6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-1-with/": {
+    "bytes": 79490,
+    "checked_at": "2026-10-29T09:14:15.716668+00:00",
+    "sha256": "c29a85372b081ed295852833d1d6e1bc14918a5311813b2cc167d06ba82aa727",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-2-between-chris-fields-richard-watson-and-mike-levin/": {
+    "bytes": 63106,
+    "checked_at": "2026-10-29T09:14:17.024818+00:00",
+    "sha256": "099dd945e43217ea92731395313a6f5ab0728b1937c099665c0801942c10f29f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-2-between-gunnar-babcock-daniel-mcshea-mark-solms-and-michael-levin/": {
+    "bytes": 67699,
+    "checked_at": "2026-10-29T09:14:18.340449+00:00",
+    "sha256": "17696084865a62218ed6aec65cb67214ea06e7470201971b75bf795f2c2f84d3",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-2-with-lisa-barrett-ben-lyons-and-karen-quigley/": {
+    "bytes": 59255,
+    "checked_at": "2026-10-29T09:14:19.726398+00:00",
+    "sha256": "0f918d9df4459710646da7699c4c687e623c380db9d8c9930749cf7f3bed5b20",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-aaron-sloman-anthony-leggett-chris-fields-and-michael-levin/": {
+    "bytes": 57332,
+    "checked_at": "2026-10-29T09:14:21.024251+00:00",
+    "sha256": "a7758c62bd7a19f5fe9df0e79514c4f0bc014556b78b0b9b408c6a15a33e8232",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-adam-omary-roy-baumeister-and-michael-levin/": {
+    "bytes": 70413,
+    "checked_at": "2026-10-29T09:14:22.345304+00:00",
+    "sha256": "6241491c9397189455f04da70db4aec43c372e0007a9802879b6644fb2a35bf2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-donald-hoffman-and-richard-watson-1/": {
+    "bytes": 82387,
+    "checked_at": "2026-10-29T09:14:23.778236+00:00",
+    "sha256": "2d9c1243d4b133602fc1cf995330c412ec56c01acbf0b6b4082b0dfc3ccf686e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-donald-hoffman-and-richard-watson-2/": {
+    "bytes": 62786,
+    "checked_at": "2026-10-29T09:14:25.107038+00:00",
+    "sha256": "ad60fcf4d7e4736b2077bf4270f1146f0a611ae1d0ca2151177e16c2a3806759",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-donald-hoffman-and-richard-watson/": {
+    "bytes": 16586,
+    "checked_at": "2026-10-29T09:14:26.385053+00:00",
+    "sha256": "8569863398edb81efb1707aa58fca5e5987810380b49ebc5be641d65aabe8b2b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-douglas-brash-chris-fields-and-michael-levin-2/": {
+    "bytes": 56707,
+    "checked_at": "2026-10-29T09:14:27.675572+00:00",
+    "sha256": "4d245aecd3aeef78857f32098823324658ca8948c4731dbfba95ddd2820686f3",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-douglas-brash-chris-fields-and-michael-levin/": {
+    "bytes": 73066,
+    "checked_at": "2026-10-29T09:14:28.873268+00:00",
+    "sha256": "fb57f219a8ecc0ab14701fa1b08b56ee901ef0c48250c7a0590ee47ff7828ab7",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-gunnar-babcock-daniel-mcshea-mark-solms-and-michael-levin/": {
+    "bytes": 18030,
+    "checked_at": "2026-10-29T09:14:30.161344+00:00",
+    "sha256": "a19ade886fb8abd79910831ea275711f5a3fdedbad3cb131fefff12703408d8c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-joscha-bach-chris-fields-and-michael-levin/": {
+    "bytes": 65425,
+    "checked_at": "2026-10-29T09:14:31.345804+00:00",
+    "sha256": "3069bdbe369b3e6522559343ac81906d6a9a2303412c2fe6b2e4444baa791b37",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-josh-bongard-atoosa-parsa-richard-watson-and-i/": {
+    "bytes": 61362,
+    "checked_at": "2026-10-29T09:14:32.354162+00:00",
+    "sha256": "a7cfe5c88cd6c0994b33ff79ac4a466cd110d21a904c7e1573d60c08f288dab8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-josh-bongard-tom-froese-and-i-on-irruption-theory-polycomputing-and-minds/": {
+    "bytes": 71127,
+    "checked_at": "2026-10-29T09:14:33.648428+00:00",
+    "sha256": "7fcf5b4e4de9760155e844265d297c82291237634845978490d869bccfd51627",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-mark-solms-chris-fields-and-mike-levin-2/": {
+    "bytes": 56415,
+    "checked_at": "2026-10-29T09:14:34.967739+00:00",
+    "sha256": "ef5eba37189f48702dc8871ab8cbf583c371aadb9cef7465c1652b647fc0ddb0",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-mark-solms-chris-fields-and-mike-levin-3/": {
+    "bytes": 54663,
+    "checked_at": "2026-10-29T09:14:36.526329+00:00",
+    "sha256": "2786e8e0afbc99c707c4781e99b77221c2b2e5f55dabe2d4e0ed1dc3118515ec",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-mark-solms-chris-fields-and-mike-levin/": {
+    "bytes": 17170,
+    "checked_at": "2026-10-29T09:14:37.642626+00:00",
+    "sha256": "47f191d766b3ea5d1d6b6372c68caacb0753eb60bf3a968ad0bf41cd80ec2198",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-richard-watson-iain-mcgilchrist-and-michael-levin-2/": {
+    "bytes": 63136,
+    "checked_at": "2026-10-29T09:14:38.916979+00:00",
+    "sha256": "9113347e7248d6c1e5640342b025c36899b7c0309e856a27d4606581419edc6d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-between-richard-watson-iain-mcgilchrist-and-michael-levin/": {
+    "bytes": 65345,
+    "checked_at": "2026-10-29T09:14:40.305578+00:00",
+    "sha256": "d92f07796336f57b0e3985b9c7b75bc79c0a6375d542675415eef6806f23c283",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-of-michael-levin-with-iain-mcgilchrist-2/": {
+    "bytes": 74049,
+    "checked_at": "2026-10-29T09:14:41.614880+00:00",
+    "sha256": "b5467d41c60634df92b398c3ff06be925af36e3fc9ae2d1b588b001e8cae09dc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-of-michael-levin-with-iain-mcgilchrist/": {
+    "bytes": 64393,
+    "checked_at": "2026-10-29T09:14:42.975537+00:00",
+    "sha256": "d34fe306ca7d62f19fcf438951dcc44e7eca976d1f7963ec628293896e0a87a8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-benjamin-lyons-eli-sennesh-and-jordan-theriault/": {
+    "bytes": 65589,
+    "checked_at": "2026-10-29T09:14:44.454734+00:00",
+    "sha256": "ca0e6f3f9d615b71bc0a1089ce3295997df67c9cdf4271e21e20bbca3c1dfe24",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-benjamin-lyons-mark-blumberg-and-karen-adolph-1-motor-development-and-cognition/": {
+    "bytes": 48275,
+    "checked_at": "2026-10-29T09:14:45.709471+00:00",
+    "sha256": "33dbcc396f86f0166012ff2e84a09480cc8635c406eda5f006510575b02a1593",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-buck-trible-on-his-work-on-static-allometry-of-ant-castes-and-emergent-cognition/": {
+    "bytes": 65101,
+    "checked_at": "2026-10-29T09:14:46.802676+00:00",
+    "sha256": "7584299a42dbb5a7a4cd8885de6c7e92f5088ac55d610a1dc0fd250cb2c0d3c6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-chris-fields-and-richard-watson-2/": {
+    "bytes": 67766,
+    "checked_at": "2026-10-29T09:14:48.150402+00:00",
+    "sha256": "42f93edf7e8fcb889038a277618aecedb1c6177d56600c5fbddf294e8d1ad916",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-chris-fields-and-richard-watson/": {
+    "bytes": 17902,
+    "checked_at": "2026-10-29T09:14:49.442002+00:00",
+    "sha256": "a8e62be9d20df3537b5841f3b11a0949f09e5f857317c7e8760b8951d2846ea6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-darren-iammarino-1/": {
+    "bytes": 62473,
+    "checked_at": "2026-10-29T09:14:50.722447+00:00",
+    "sha256": "2a1112f5edd4041ccdab9a6eb41a6b6171d3dbb6c1eabd4816fcae06c989f66f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-david-resnik-1/": {
+    "bytes": 59229,
+    "checked_at": "2026-10-29T09:14:51.993173+00:00",
+    "sha256": "7822117ed95b64c97faab62fa51d6f6d278dac86f3c17066861847af7ebb7a2c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-frank-putnam-and-alexey-tolchinsky-1/": {
+    "bytes": 62231,
+    "checked_at": "2026-10-29T09:14:53.215739+00:00",
+    "sha256": "01f0148f1363942eb156ceac997c925f7b714cb2b404a09a6bf7b5ee19a4a587",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-frank-putnam-and-alexey-tolchinsky/": {
+    "bytes": 17749,
+    "checked_at": "2026-10-29T09:14:54.352538+00:00",
+    "sha256": "89fcd5c5c212a6c957d6385ba008781fd35a2633fbbaf035c3e5a59434fc3a97",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-lauren-ross-1/": {
+    "bytes": 62397,
+    "checked_at": "2026-10-29T09:14:55.741859+00:00",
+    "sha256": "cfd38da46250f86a293da8b6b6a4d06e0d98345c26db57c2d1f11bbf8ad3adb1",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-mark-solms-and-chris-fields-4/": {
+    "bytes": 55539,
+    "checked_at": "2026-10-29T09:14:57.159654+00:00",
+    "sha256": "96f8075647859a20d7ec616ca572f047c0589a482d72e6cd69461e57bfbe8f8b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-mark-solms-and-chris-fields/": {
+    "bytes": 16992,
+    "checked_at": "2026-10-29T09:14:58.460544+00:00",
+    "sha256": "01453a30450af96de753b8c6c69489975caaccafb60f8c842bf481cd1a9489d6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-nic-rouleau-part-1-some-thoughts-on-the-mind-as-material/": {
+    "bytes": 74766,
+    "checked_at": "2026-10-29T09:14:59.690936+00:00",
+    "sha256": "28d72b77631e0691711b2cee73941874332823223c308448166af1e692419eb8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-nic-rouleau-part-2-neuroscience-memory-transfer-aging-of-cognition-and-more/": {
+    "bytes": 70166,
+    "checked_at": "2026-10-29T09:15:00.963852+00:00",
+    "sha256": "a058c2c3523baab3e473da0e433df52da1bd5e1fe7e84d062074525d8153462a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-richard-watson-and-leo-caves-1/": {
+    "bytes": 75564,
+    "checked_at": "2026-10-29T09:15:02.404066+00:00",
+    "sha256": "fc11fc6d7be9e72a9dee9e8e62671b89631fb4e601a78ee0c4e32a4acdf3d952",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-richard-watson-and-leo-caves/": {
+    "bytes": 17535,
+    "checked_at": "2026-10-29T09:15:03.802245+00:00",
+    "sha256": "132ad9765dc93bf853eec2a892ac07bd5614bc6cea267ea86daea54a1382c026",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-richard-watson-mark-solms-and-michael-levin-2/": {
+    "bytes": 59496,
+    "checked_at": "2026-10-29T09:15:05.115304+00:00",
+    "sha256": "7447824441c11a5a0b2d86be736b37afa3d5530614dd4ca32e9aaca79be6f8df",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/conversation-with-richard-watson-mark-solms-and-michael-levin/": {
+    "bytes": 17798,
+    "checked_at": "2026-10-29T09:15:06.437971+00:00",
+    "sha256": "97e51607ec0bcca52119d1a35efd5b5a7e420ded96e8cb8f27734fb55a8b16b6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/culture-as-an-additional-scale-of-biological-organisation-with-ivan-kroupin-and-tian-chen-zeng/": {
+    "bytes": 66957,
+    "checked_at": "2026-10-29T09:15:07.594978+00:00",
+    "sha256": "871f4a0f9f66304352cfb4449393ad4a0239f1915638ef4d251bdf59e0b9f71a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/developmental-bioelectricity-as-a-precursor-to-neurobiology/": {
+    "bytes": 70123,
+    "checked_at": "2026-10-29T09:15:09.093099+00:00",
+    "sha256": "22acd7d687355cd335f1e3c7f887b71a6139e388e6cc5bd7f301eae51dd0af33",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-1-at-the-platonic-space-symposium/": {
+    "bytes": 84462,
+    "checked_at": "2026-10-29T09:15:10.452821+00:00",
+    "sha256": "e400f6ad091ae294cff1309ce550b939975785dd5db608a47c22f2dd4f5d3d44",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-1-with-amahury-jafet-lopez-diaz-carlos-gershenson-garcia-and-richard-watson/": {
+    "bytes": 79427,
+    "checked_at": "2026-10-29T09:15:11.955145+00:00",
+    "sha256": "68d8c9aee771286cdb139a7a9bf3c4ecd6a77a36835605a1c90ea7dcfe853d67",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-1-with-chris-fields-mark-solms-karl-friston-and-thomas-pollak-introspection-more/": {
+    "bytes": 68499,
+    "checked_at": "2026-10-29T09:15:13.302486+00:00",
+    "sha256": "c769fcf4a6026f1d4699bdb87c13c97858a019c183136fb22b01d08bc1e35deb",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-1-with-elan-barenholtz/": {
+    "bytes": 63083,
+    "checked_at": "2026-10-29T09:15:14.691410+00:00",
+    "sha256": "22dd0189524320fe6d38f7cc47a13e82e5d9731d05ed31180caba26682648b02",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-1-with-katrina-schleisman-and-david-burke/": {
+    "bytes": 67198,
+    "checked_at": "2026-10-29T09:15:15.965428+00:00",
+    "sha256": "4a5fea1d3666dc8d2fe1bf83cf70853776e00db391ec2a98877cc25e06f118c6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-between-adam-safron-max-shen-and-michael-levin/": {
+    "bytes": 63920,
+    "checked_at": "2026-10-29T09:15:17.273822+00:00",
+    "sha256": "e0a55658dd3a8f55820a09ad72b40de674b5483fcc7a4a1a449aafba1675daf4",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-between-elliot-murphy-and-michael-levin-1/": {
+    "bytes": 66854,
+    "checked_at": "2026-10-29T09:15:18.611138+00:00",
+    "sha256": "1ecadc9c7a7a5deead41cef136a7f36ce805816db318b3b6dda03a5e03f8a77c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-chris-fields-mark-solms-michael-levin/": {
+    "bytes": 55944,
+    "checked_at": "2026-10-29T09:15:19.952187+00:00",
+    "sha256": "46e947d667f61a264e845a40a878a943f2bc793d8cbfb2a16f26a8d1f569d9ce",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-lisa-maroski-michael-levin-richard-watson/": {
+    "bytes": 60707,
+    "checked_at": "2026-10-29T09:15:21.289830+00:00",
+    "sha256": "5f30b3192365caa864477ec393730665eb15763e63940bc9dc9ded1a4fc4038b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-on-mortal-computations-with-alexander-ororbia-karl-friston-and-chris-fields/": {
+    "bytes": 63704,
+    "checked_at": "2026-10-29T09:15:22.571471+00:00",
+    "sha256": "570512a6c7061a05c2f77b5425cc0ca8e761c90f7757df0d70952674773ba8a4",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-richard-watson-alexey-tolchinsky-mark-solms-michael-levin-and-karl-friston/": {
+    "bytes": 68571,
+    "checked_at": "2026-10-29T09:15:23.964292+00:00",
+    "sha256": "089c77f7c657c3b95de817b932b3bb7ff4faa63f13db0de62dc8a580460a9866",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-w-kevin-mitchell-nick-cheney-ben-hartl-on-evolution-development-generative-models/": {
+    "bytes": 67996,
+    "checked_at": "2026-10-29T09:15:25.373755+00:00",
+    "sha256": "996be4cc5b95a95e40dc4aaf296c4defabc9bc9657a5d97c7817a65cbb94e9ba",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-alexey-tolchinsky-and-patricia-silveira-1/": {
+    "bytes": 55651,
+    "checked_at": "2026-10-29T09:15:26.694429+00:00",
+    "sha256": "e9a81d2e3e78ac27d944e5f8bc8d8b85df486166e77bd5f0f50d2adb81c9909e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-alexey-tolchinsky-and-thomas-pollak-1/": {
+    "bytes": 66292,
+    "checked_at": "2026-10-29T09:15:28.001289+00:00",
+    "sha256": "c69ad6e7067730526bee83d9369b1a232ecc00ca11c6f7c4d619a1589aec47db",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-alexey-tolchinsky-and-thomas-pollak-2/": {
+    "bytes": 61170,
+    "checked_at": "2026-10-29T09:15:29.005702+00:00",
+    "sha256": "5e0f2530224825a53a7179153def86f51141b43c229dc2eec4ed76ea68b15496",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-alexey-tolchinsky-and-thomas-pollak/": {
+    "bytes": 17901,
+    "checked_at": "2026-10-29T09:15:30.071801+00:00",
+    "sha256": "a6c5975a1cd4252e2b87829e6fcb42ab17ca9b6ce070f8e56b4074aae81b45cc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-chris-fields-and-julian-gough-1/": {
+    "bytes": 72990,
+    "checked_at": "2026-10-29T09:15:31.314324+00:00",
+    "sha256": "00d7f39ed094d8dfaa78baeaa571ec39ede155ff04a20d05c8ad8b4995337ad2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-daniel-mcshea-and-gunnar-babcock-1/": {
+    "bytes": 64906,
+    "checked_at": "2026-10-29T09:15:32.651007+00:00",
+    "sha256": "5e9a386fe2ffa60214fe6ab8ebc37e857d7273dd33f1f33364e3b9c2b12ed5a2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-daniel-mcshea-and-gunnar-babcock-2/": {
+    "bytes": 65095,
+    "checked_at": "2026-10-29T09:15:33.964744+00:00",
+    "sha256": "3cc4b325563e1c08fb666e30e4701184629e860bbb3de48eebd5b69b94307ef2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-daniel-mcshea-and-gunnar-babcock/": {
+    "bytes": 17036,
+    "checked_at": "2026-10-29T09:15:35.236298+00:00",
+    "sha256": "ce47a8c5d7e1a68aca37d7fd1bd000d08540ad8583e1ada1fececef604c1d8f7",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-david-spivak-1/": {
+    "bytes": 69109,
+    "checked_at": "2026-10-29T09:15:36.470091+00:00",
+    "sha256": "a09a00cbe72320a65476e6d53fccdebb0003c5bf94ff67c03a47ce0865090670",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-david-spivak/": {
+    "bytes": 17497,
+    "checked_at": "2026-10-29T09:15:37.801801+00:00",
+    "sha256": "d1899882e099f2e2f51c078e3b1843568a8ebff884b3e18628200beaf8572577",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-jordi-vallverdu-1/": {
+    "bytes": 52626,
+    "checked_at": "2026-10-29T09:15:38.863340+00:00",
+    "sha256": "6503539f9fa4a3e479c7e667f56e67f4491184a568c79505065cb415b53d06b8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-kevin-mitchell-nick-cheney-and-ben-hartl-on-evolution-development-generative-models/": {
+    "bytes": 18484,
+    "checked_at": "2026-10-29T09:15:40.106042+00:00",
+    "sha256": "47415828d8b855fd223f9474105a46fce54f21a2110c802eb15386e126b13876",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-marsha-hewitt-platonic-space-and-related-ideas/": {
+    "bytes": 71290,
+    "checked_at": "2026-10-29T09:15:42.031440+00:00",
+    "sha256": "b0e0d5ad9a4406113ef12ae6ea801b82b61a6776d8254e468b1d267a1f1f718f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-martin-hanczyc-minimal-models-of-cognition-and-active-matter-research/": {
+    "bytes": 60461,
+    "checked_at": "2026-10-29T09:15:43.368447+00:00",
+    "sha256": "315ba714e2e159b5e7600824a9ce03f8cb1e13364acef55c204f6e126457a625",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-mayli-mertens-on-molecular-placebos-and-bioelectricity/": {
+    "bytes": 42176,
+    "checked_at": "2026-10-29T09:15:44.927245+00:00",
+    "sha256": "1d6efce64c8a73e294c4e68001b17d3e1a05b150b5335e23f5d01e6610c1e0a9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-michael-johnson-1/": {
+    "bytes": 50604,
+    "checked_at": "2026-10-29T09:15:46.323429+00:00",
+    "sha256": "359e7d966cf7168643abe130910c52db10b164cba73db4504cc8469e62794281",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-michael-johnson-2/": {
+    "bytes": 54504,
+    "checked_at": "2026-10-29T09:15:47.742119+00:00",
+    "sha256": "0742a4b60bcf6f9c104a60130467fec5e29b3b7d756a12299cc362197837daed",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-michael-johnson/": {
+    "bytes": 17331,
+    "checked_at": "2026-10-29T09:15:49.279685+00:00",
+    "sha256": "d2db4c929c6d5522bdc36ebfdd6df9f3d8a6cffffd0d7f112a9a114e77ca4c24",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-michael-pollan-of-new-ideas-on-memories-and-selves/": {
+    "bytes": 88185,
+    "checked_at": "2026-10-29T09:15:50.551707+00:00",
+    "sha256": "79d136e48b520097b2d797af5bfed7465783175e8fc83f564e9413d99975e955",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-murray-shanahan-2/": {
+    "bytes": 39713,
+    "checked_at": "2026-10-29T09:15:51.801781+00:00",
+    "sha256": "6356813fbad6a57e9a1b036eb84732f7d970eae29ba02a3fb3830bc26e085531",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-murray-shanahan/": {
+    "bytes": 16708,
+    "checked_at": "2026-10-29T09:15:53.352786+00:00",
+    "sha256": "d110f4b730dac4c11281e5e42e342d084ad04dcb2267bf8ccd9a6a889e08c046",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-ricard-sole/": {
+    "bytes": 54453,
+    "checked_at": "2026-10-29T09:15:54.798342+00:00",
+    "sha256": "915965af5c8e62f79275141ec98b7034b5fabf379d48fca1992f52e5f278639a",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-richard-watson-and-josh-bongard-2/": {
+    "bytes": 67933,
+    "checked_at": "2026-10-29T09:15:56.059364+00:00",
+    "sha256": "85e05ea45b39dc26b32022fac21c0f722fea724f0b903f61fbf49e0a5f3d4046",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-richard-watson-and-josh-bongard/": {
+    "bytes": 17161,
+    "checked_at": "2026-10-29T09:15:57.356575+00:00",
+    "sha256": "b2d149121ba5d054fb2a902a5505c1b09c2a5e9729104d6599d7838aa5d07d24",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-robert-prentner-and-timothy-jackson-1/": {
+    "bytes": 73200,
+    "checked_at": "2026-10-29T09:15:58.556283+00:00",
+    "sha256": "8327bc25cd54e93293fe8efe1732d98b2c494eac2c3b4617bec5822b58325b89",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-robert-prentner-and-timothy-jackson/": {
+    "bytes": 18026,
+    "checked_at": "2026-10-29T09:15:59.827738+00:00",
+    "sha256": "399ead2c6068c5205be132ebb528e9481600b21199b898fd0f817ca300cbeadb",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-stuart-kauffman-and-katherine-peil-kauffman-2/": {
+    "bytes": 62565,
+    "checked_at": "2026-10-29T09:16:01.112165+00:00",
+    "sha256": "86b3334348a312b2266694ff70a2dc5a86cdad9f5b6cc36586c6d5c24a64a69d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-stuart-kauffman-and-katherine-peil-kauffman/": {
+    "bytes": 68296,
+    "checked_at": "2026-10-29T09:16:02.492062+00:00",
+    "sha256": "f3b579babf9bbf695b4f9fd6315f4c439f5f50ea9df16920d17651ee72742478",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/discussion-with-tim-jackson-karl-friston-and-chris-fields/": {
+    "bytes": 59385,
+    "checked_at": "2026-10-29T09:16:03.756805+00:00",
+    "sha256": "bce4ef6ae2de05ac845a6006b5631757fc002a082046b3687e1c58b80b1a92eb",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/diverse-intelligence-a-talk-by-michael-levin/": {
+    "bytes": 99501,
+    "checked_at": "2026-10-29T09:16:05.097545+00:00",
+    "sha256": "661ad0be7fcac0b762f017e42430afa6bad3034288472a8ee0df9424bf7fc28d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/diverse-intelligence-new-frontier-for-origins-possibilities-and-diseases-of-minds-by-m-levin/": {
+    "bytes": 80556,
+    "checked_at": "2026-10-29T09:16:06.383105+00:00",
+    "sha256": "7998d6d672b303087ca3da45543728864a941e6ad3e3ac67dbcb004e71f8a58c",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/diverse-intelligence/": {
+    "bytes": 16413,
+    "checked_at": "2026-10-29T09:16:07.704954+00:00",
+    "sha256": "13974446478bcea74e3c8dc857d88e47769c6128f14c1d7cc5e1a3f6d0e17407",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/economics-deep-learning-and-basal-cognition/": {
+    "bytes": 56303,
+    "checked_at": "2026-10-29T09:16:09.135558+00:00",
+    "sha256": "4fb9f7d99d83c15a48f8adc244ea2ce9c319fade6a020c6a3cb2bfe17d3cbee6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/embodied-minds-discovering-diverse-intelligence-through-the-lens-of-biomedicine/": {
+    "bytes": 71312,
+    "checked_at": "2026-10-29T09:16:10.464199+00:00",
+    "sha256": "a2b84e86e2926b80082dfdded27545188921d7ae23d1e90e5fb624298d5fddbc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/endogenous-bioelectrical-networks-an-interface-to-somatic-intelligence-by-michael-levin/": {
+    "bytes": 75071,
+    "checked_at": "2026-10-29T09:16:11.981524+00:00",
+    "sha256": "cb04122a2dc452bb1864e510c036c6e63637afa195055775723cd1a655a734ba",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/endogenous-bioelectrical-networks-an-interface-to-somatic-intelligence/": {
+    "bytes": 18032,
+    "checked_at": "2026-10-29T09:16:13.437256+00:00",
+    "sha256": "c22fc696d8f4c3db0777260cae7cc3798fa99b3c83d79b3992dca224625379e9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/energy-constraints-and-tradeoffs-by-martin-picard/": {
+    "bytes": 74370,
+    "checked_at": "2026-10-29T09:16:14.592620+00:00",
+    "sha256": "c4d7b47bab742a1afb895a1ecc3714a694c40aba258320e3819b970452350536",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/engineering-agential-materials-by-michael-levin/": {
+    "bytes": 45600,
+    "checked_at": "2026-10-29T09:16:15.888951+00:00",
+    "sha256": "914485331613899402dffbc4fae0bd3e69fcebf8e0b2866053a76ad9fa5fbc4d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/engineering-agential-materials/": {
+    "bytes": 16906,
+    "checked_at": "2026-10-29T09:16:17.280861+00:00",
+    "sha256": "2cca6fa8ad75a1e409d1c68d73f12e6d67f8333af3c7c05fd5d599079c26d762",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/engineering-with-agential-materials-from-evolution-to-biological-robotics-via-bioelectricity/": {
+    "bytes": 82954,
+    "checked_at": "2026-10-29T09:16:18.705906+00:00",
+    "sha256": "8a197a7a06c328e6b0da7da94cf296645579e9ab4c017342d081b50fd268348e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/entropic-motivation-and-the-roots-of-agency-by-alex-kiefer/": {
+    "bytes": 69838,
+    "checked_at": "2026-10-29T09:16:20.109536+00:00",
+    "sha256": "c7cfeb99a2813633e34f3d193f4a09c1a32270f6bb701aed28373061ac4a2242",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/ethics-and-the-new-biology-by-michael-levin/": {
+    "bytes": 53632,
+    "checked_at": "2026-10-29T09:16:21.452788+00:00",
+    "sha256": "fe195edea7a33a0ae638cef5dbc9696b5094621c64f22f1de722b6290c96aaa5",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/ethics-and-the-new-biology/": {
+    "bytes": 50860,
+    "checked_at": "2026-10-29T09:16:22.828037+00:00",
+    "sha256": "db1ad1d67d953a213a078478fd49d2c61560e256ae895833d0c366ac592af46d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/evolution-and-intelligence-inversion-and-a-positive-feedback-spiral-by-michael-levin/": {
+    "bytes": 70429,
+    "checked_at": "2026-10-29T09:16:24.317544+00:00",
+    "sha256": "e32d75b703a9bff132ab4f999a739d5b4921eed90ff1d02b55f24192e10e8207",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/free-lunches-model-systems-for-studying-the-agential-gifts-from-the-platonic-space-by-michael-levin/": {
+    "bytes": 75036,
+    "checked_at": "2026-10-29T09:16:25.779231+00:00",
+    "sha256": "dfe8cb2f3afc51a8afb7c26b7ce27e26e9e38b4950724aae1accb114bcef5ade",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/how-does-it-know-bioelectricity-as-memory-medium-cognitive-glue-path-to-regenerative-medicine/": {
+    "bytes": 83945,
+    "checked_at": "2026-10-29T09:16:27.261047+00:00",
+    "sha256": "6c2c484c29db23c9b1f863cc4fc2c4fd9aed403bde53ff8b083dcdf4bfbf64ce",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/iain-mcgilchrist-richard-watson-and-mike-levin-3/": {
+    "bytes": 66539,
+    "checked_at": "2026-10-29T09:16:28.641797+00:00",
+    "sha256": "1afc4782e569f36bebb9d1b912ffb12bfffc3d454fa85a4fc58ff5827822732f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/iain-mcgilchrist-richard-watson-and-mike-levin/": {
+    "bytes": 17905,
+    "checked_at": "2026-10-29T09:16:29.937577+00:00",
+    "sha256": "3f81f4b72073c9f763b0bc45e62f11a8e2de0253e390ecd15fcee6db86b6c8c0",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/iain-mcgilchrist-richard-watson-and-mile-levin-4/": {
+    "bytes": 66077,
+    "checked_at": "2026-10-29T09:16:31.313794+00:00",
+    "sha256": "473ab48a06f225394ec72a93d677450af39793d05c0892a5ff4f6a3a14dccae1",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/iain-mcgilchrist-richard-watson-and-mile-levin/": {
+    "bytes": 17222,
+    "checked_at": "2026-10-29T09:16:32.622818+00:00",
+    "sha256": "4c898eeb0f95febf6e26de86c775375a3db617e04092522d9caf75d386bd5151",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/inspiration-across-substrates-free-lunches-diverse-intelligence-and-surprise-by-michael-levin/": {
+    "bytes": 83181,
+    "checked_at": "2026-10-29T09:16:33.946386+00:00",
+    "sha256": "271d00e5aa747070e89fae0d1a70a3c95290da98e9b309273abd9fab259709c6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/interview-with-azra-raza-on-a-new-theory-and-practice-of-cancer/": {
+    "bytes": 64094,
+    "checked_at": "2026-10-29T09:16:35.440331+00:00",
+    "sha256": "ec6df6bbeac8261ee593fb9406ca2870902dcc7d2efd7488ea202b6eb460df44",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/intrinsic-motivation-in-evolved-engineered-and-hybrid-systems-by-michael-levin/": {
+    "bytes": 82225,
+    "checked_at": "2026-10-29T09:16:36.835517+00:00",
+    "sha256": "d821f9e5f9d24a87d0e41df65247d5d38042e2d927e174a7f2d488f22c817318",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/intrinsic-motivation-in-evolved-engineered-and-hybrid-systems/": {
+    "bytes": 16791,
+    "checked_at": "2026-10-29T09:16:37.877979+00:00",
+    "sha256": "1e1e564a02526e75ed31747db5ed1cc817fa9bc24d9a11dafa960618d3969cf3",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/karl-friston-adam-goldstein-and-michael-levin-discuss-active-inference-and-algorithms/": {
+    "bytes": 57003,
+    "checked_at": "2026-10-29T09:16:38.999247+00:00",
+    "sha256": "d8740108de7b135f0edcd6b8eac05629dcb6edd7e4faab61aa99f3516b0b5645",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/life-machines-and-a-foundation-for-synthbiosis-by-michael-levin/": {
+    "bytes": 45181,
+    "checked_at": "2026-10-29T09:16:40.072529+00:00",
+    "sha256": "463c28291177316e15d4a9807b18d4a5787a55b79c15d4eacfe3db6e33f3d627",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/life-mind-and-computing-a-diverse-intelligence-perspective-by-michael-levin/": {
+    "bytes": 54199,
+    "checked_at": "2026-10-29T09:16:41.478848+00:00",
+    "sha256": "70aeb012ac67074f0604dd1854ad25db815ae64ebe6a35aef7907a26b85d175b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/life-mind-and-computing-a-diverse-intelligence-perspective/": {
+    "bytes": 52102,
+    "checked_at": "2026-10-29T09:16:42.723974+00:00",
+    "sha256": "ac318c117a5eff63f8383386ffc1cecdec9b80ac9531d9c8f39e43a037f3550d",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/mapping-diverse-intelligence-spaces-by-janet-wiles-discussion/": {
+    "bytes": 69910,
+    "checked_at": "2026-10-29T09:16:43.864656+00:00",
+    "sha256": "4e45dcccb19c1f0e3461755c871e4bec06fa4a3d0f9752820e52d9846596d9d5",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/mark-solms-and-michael-levin-discuss-explicit-and-implicit-behavioral-drives/": {
+    "bytes": 56866,
+    "checked_at": "2026-10-29T09:16:45.227021+00:00",
+    "sha256": "a7cabf8e4f9630414aa09e74633edbdb56f672ada6f599900a8aa48f6f21c78e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/michael-levin-talk-on-bioelectricity-at-stanford-chemical-engineering-colloquium/": {
+    "bytes": 79556,
+    "checked_at": "2026-10-29T09:16:46.395946+00:00",
+    "sha256": "e7b8e0cb18b4d5f12d9a4b4c4969612cab02b768743bc713dd8a12c8c04394bb",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/mind-body-interface-an-experimental-and-clinical-perspective-by-michael-levin-and-karina-kofman/": {
+    "bytes": 17907,
+    "checked_at": "2026-10-29T09:16:47.569871+00:00",
+    "sha256": "5bd8bda48fef4d79fd07bd41014e1ada4766a5e03ec76809f3850cc77342d344",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/my-talk-on-consciousness-at-the-science-of-consciousness-2023/": {
+    "bytes": 56435,
+    "checked_at": "2026-10-29T09:16:48.808050+00:00",
+    "sha256": "a689a535ee12e1da784b8a015e1621f2643be9a41058bd6f52f587b640aa9576",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-bioelectricity-underlies-the-collective-intelligence-of-cellular-swarms/": {
+    "bytes": 86915,
+    "checked_at": "2026-10-29T09:16:50.197098+00:00",
+    "sha256": "2da23ee72bed291671dd892bc66b856e438b4131667cb686dee182e8189db1bd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-communicating-with-unconventional-minds-by-michael-levin/": {
+    "bytes": 86285,
+    "checked_at": "2026-10-29T09:16:51.553396+00:00",
+    "sha256": "8c8c731801f8a63f7a3924764cd1ac69738594ea552bca8463cd74b66eb81225",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/neuroscience-beyond-neurons-how-somatic-bioelectricity-implements-an-unconventional-intelligence/": {
+    "bytes": 89850,
+    "checked_at": "2026-10-29T09:16:52.883850+00:00",
+    "sha256": "7efb4b1dfb93efe1265f57dd06f72adaab0056a74a458a2e3a109c3d05e239db",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/new-bodies-unconventional-minds-a-continuum-of-cognition-consciousness-by-michael-levin/": {
+    "bytes": 62766,
+    "checked_at": "2026-10-29T09:16:53.886385+00:00",
+    "sha256": "a97062f2c137c878df949648cadf904baf7125d886b281bb53989533b9b95016",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/nothing-in-biology-makes-sense-without-teleology-by-michael-levin/": {
+    "bytes": 97889,
+    "checked_at": "2026-10-29T09:16:55.226195+00:00",
+    "sha256": "c3a774e95cb8408e681d0a8eaa9f3e8da0bbf8a95a79a1aa352cf90323f94b56",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/nothing-in-biology-makes-sense-without-teleology/": {
+    "bytes": 17908,
+    "checked_at": "2026-10-29T09:16:56.615158+00:00",
+    "sha256": "ec6749ae451ff48a330df006d9aa3d390aefcc7244f3032d65e6fad4ce2f79af",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/novel-bodies-unconventional-minds-diverse-intelligence-and-the-study-of-consciousness/": {
+    "bytes": 100884,
+    "checked_at": "2026-10-29T09:16:57.975638+00:00",
+    "sha256": "b7ab21c3bb79a5e79397d4381b0f564a4a1d9c971f2a0eaa5f9380f0b48f5226",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/on-biological-and-artificial-consciousness-by-borjan-milinkovic-and-jaan-aru/": {
+    "bytes": 53885,
+    "checked_at": "2026-10-29T09:16:59.250057+00:00",
+    "sha256": "f1b2a0e3f65f59f1c60bd2531f54b59bc7f89da16e21d4e349c740f10ff5ebac",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/patterns-of-form-and-behavior-beyond-emergence-by-michael-levin/": {
+    "bytes": 90198,
+    "checked_at": "2026-10-29T09:17:00.614280+00:00",
+    "sha256": "eb417f253c48d4dc4a115624257d31744810cf8588083dbd8ce6241cb0369c5b",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/platonic-space-brief-argument-and-research-agenda-by-michael-levin/": {
+    "bytes": 33226,
+    "checked_at": "2026-10-29T09:17:01.961620+00:00",
+    "sha256": "4912ba70bb62c4761788ff72b526ebfa326b9c2f31c485c74ef85b7cb1c360f6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/platonic-space-discussion-2/": {
+    "bytes": 118732,
+    "checked_at": "2026-10-29T09:17:03.256454+00:00",
+    "sha256": "14337b3988d7c22096dd9b5fece6c0e01b61930dd672184a7a01733f979534e9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/platonic-space-discussion-3/": {
+    "bytes": 98281,
+    "checked_at": "2026-10-29T09:17:04.591957+00:00",
+    "sha256": "5bfae6744256b4728712189494b0d85ea7bb0bdb069aa5b40373654b5208fe21",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/platonic-space-discussion-4/": {
+    "bytes": 144319,
+    "checked_at": "2026-10-29T09:17:05.716191+00:00",
+    "sha256": "1c7c668bbca3eed85512796889b232f42de9c5a53b5c3d7d321575c501ae27dc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/platonic-space-discussion-5/": {
+    "bytes": 137857,
+    "checked_at": "2026-10-29T09:17:07.032303+00:00",
+    "sha256": "5cc47cbb95eaf9fa17741891353331c3eae12342a3da0d8d767105d7d2ff8625",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/prices-as-cognitive-glue-by-benjamin-lyons/": {
+    "bytes": 71201,
+    "checked_at": "2026-10-29T09:17:08.469940+00:00",
+    "sha256": "cdf87f5eeea3a097f6a87fa9bd47f27ed2ff95addd1f0b1409ac3475deb32148",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/scaling-intelligence-in-biology-artificial-life-and-beyond-by-michael-levin/": {
+    "bytes": 45039,
+    "checked_at": "2026-10-29T09:17:09.768101+00:00",
+    "sha256": "552ca5f4afb7866df5b574d93ebd365fbe8cf8a8ebd2a951ba92cc8e27b91f71",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/scaling-intelligence-in-biology-artificial-life-and-beyond/": {
+    "bytes": 43288,
+    "checked_at": "2026-10-29T09:17:11.007639+00:00",
+    "sha256": "8b1807d543a81209ee47679a66577a7d128867a64cb0e3c37512a6c5bb5521ba",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/self-constructing-bodies-collective-minds-the-intersection-of-cs-cognitive-bio-and-philosophy/": {
+    "bytes": 95744,
+    "checked_at": "2026-10-29T09:17:12.388943+00:00",
+    "sha256": "dcc1ed5cdebdc4d21b48284072e26accf8906bef6ef33d2f5f2f55480bb96e23",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/sitemap-0.xml": {
+    "bytes": 31130,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:40.913904+00:00",
+    "sha256": "09979e6a0eb8ba307b7d2ee6cff4181fbb997db72f83c57e50799e4725d750ec",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/sitemap-index.xml": {
+    "bytes": 202,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:40.888822+00:00",
+    "sha256": "dc275ed0b6f117da93abcec20d376eb4ae46e591b9bc4f1dfe908f551bdcceba",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/talk-for-robosoft-2023/": {
+    "bytes": 65273,
+    "checked_at": "2026-10-29T09:17:13.809215+00:00",
+    "sha256": "3de79a18475e74c89e1eb3c290afc10ebb199b6aa1cb7ccba79f0a3879e770a0",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/tame-video-my-recording-trimmed/": {
+    "bytes": 86484,
+    "checked_at": "2026-10-29T09:17:15.167815+00:00",
+    "sha256": "02f3966cb4b19c9adf26a4795653eb43a3037a4cb6749a220945264366f451a2",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-bioelectric-basis-of-morphogenetic-intelligence-a-roadmap-for-cancer-medicine-by-michael-levin/": {
+    "bytes": 63739,
+    "checked_at": "2026-10-29T09:17:16.612122+00:00",
+    "sha256": "cd1bf7d43d0919b30f769dfe23a01c0f38431310ae8934665e1f0c6934b7449e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-bioelectric-basis-of-morphogenetic-intelligence-a-roadmap-for-cancer-medicine/": {
+    "bytes": 61280,
+    "checked_at": "2026-10-29T09:17:17.700722+00:00",
+    "sha256": "529232fd78468faf4cfdd89ed59f4b0079b51682360bfcbc89de764c2b4281c6",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-bioelectric-interface-to-the-collective-intelligence-of-morphogenesis-by-michael-levin/": {
+    "bytes": 81797,
+    "checked_at": "2026-10-29T09:17:19.061745+00:00",
+    "sha256": "cae9e048930b334181fcf307e52c91325dae73547d84ce2cc912b29d8d363506",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-bioelectric-interface-to-the-intelligence-of-the-body-the-future-of-biomedicine/": {
+    "bytes": 64037,
+    "checked_at": "2026-10-29T09:17:20.442580+00:00",
+    "sha256": "e3c6e1974690227ac4ffc8b15ba2aa033cf404f0a52e823ea680a058c7d05954",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-biology-of-apparent-selves-by-michael-levin/": {
+    "bytes": 74829,
+    "checked_at": "2026-10-29T09:17:21.822087+00:00",
+    "sha256": "3c025b64f71df93de07447a6bbd089d210fbd5f9d8b33a9516646f3586f27403",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-collective-intelligence-of-morphogenesis-a-model-system-for-basal-cognition-by-michael-levin/": {
+    "bytes": 83091,
+    "checked_at": "2026-10-29T09:17:23.337075+00:00",
+    "sha256": "bee44da1e0415218af1b3a1f916f7fa7c1649ca55dd87ddba941bdf04ca7ac68",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-collective-intelligence-of-morphogenesis-a-model-system-for-basal-cognition/": {
+    "bytes": 76736,
+    "checked_at": "2026-10-29T09:17:24.398454+00:00",
+    "sha256": "b9fa5dd53cf2581135fcc83e9412449034be745d2134181ea6a006af97906007",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-embodied-mind-of-a-new-robot-scientist-by-michael-levin/": {
+    "bytes": 80518,
+    "checked_at": "2026-10-29T09:17:25.770327+00:00",
+    "sha256": "da093ba0e58ea239f7dc8657d0e2ad9c93cbaa6c627a88fbd254d46df672ca2e",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-mind-of-the-body-a-window-into-embodiment-and-our-future/": {
+    "bytes": 45426,
+    "checked_at": "2026-10-29T09:17:27.091665+00:00",
+    "sha256": "c8ad37c54d1801856f26a316c5a3cbf641d601e2723b26f8416327787e5b682f",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/the-unreasonable-effectiveness-of-the-behavioral-sciences-in-developmental-biology-and-biomedicine/": {
+    "bytes": 71650,
+    "checked_at": "2026-10-29T09:17:28.463980+00:00",
+    "sha256": "1fe8ce791a0d5e83f758ffae9ffb2c5ec651f682d4455050c93d4ffe9cb46630",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/thoughts-as-thinkers-the-biology-computer-science-of-inspiration-by-michael-levin/": {
+    "bytes": 58918,
+    "checked_at": "2026-10-29T09:17:29.802612+00:00",
+    "sha256": "2b6527bea03bc191923fe353708a036573f7ea7b50d95cf67b083f83ff6187cc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/timothy-jackson-and-mike-levin-meeting-1/": {
+    "bytes": 58747,
+    "checked_at": "2026-10-29T09:17:31.195231+00:00",
+    "sha256": "f08d461dcd2a0d11ed4fa53b4bab1b9df2870ac3b69e2d66fa207c02d72c8729",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/timothy-jackson-and-mike-levin-meeting/": {
+    "bytes": 17327,
+    "checked_at": "2026-10-29T09:17:32.488328+00:00",
+    "sha256": "692b7f562b9845e2bb91c68ace6765bc2a71c806dd500e4c1c9017074a502198",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/tom-froese-and-michael-levin-discuss-tom-s-irruption-theory/": {
+    "bytes": 62120,
+    "checked_at": "2026-10-29T09:17:33.790284+00:00",
+    "sha256": "052ff13beab681932797d02c91d16b6ef2619a2988ce4583cf636c4ce20e2dbc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/unconventional-biology-minimal-models-of-intelligence-and-bio-inspired-computing/": {
+    "bytes": 95576,
+    "checked_at": "2026-10-29T09:17:35.139542+00:00",
+    "sha256": "d9d84bb00fc462cdc610ae725fa21c0aa71b91228ba21b653606edcb09cbb9fd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/unconventional-cognition-through-the-lens-of-cellular-collective-intelligence-in-morphogenesis/": {
+    "bytes": 93879,
+    "checked_at": "2026-10-29T09:17:36.792382+00:00",
+    "sha256": "4ecc70da5e91a24a0af2145bc48bac45ca4706473cb5bce044f86e934e7b7610",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/unconventional-embodiments-model-systems-strategies-addressing-mind-blindness-by-michael-levin/": {
+    "bytes": 69714,
+    "checked_at": "2026-10-29T09:17:38.254415+00:00",
+    "sha256": "5dab8cb8dc7874fb056fa4ccedae85c8e5aca18e6cbb76c8a6d1199a6d600163",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/unconventional-embodiments-of-consciousness-a-diverse-intelligence-research-program-michael-levin/": {
+    "bytes": 70495,
+    "checked_at": "2026-10-29T09:17:39.674477+00:00",
+    "sha256": "8b5603702373dadb4b9d8ead155750889b0319a79bf0b338fc04c128bf83e1e9",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/unconventional-selves-a-diverse-intelligence-perspective-on-consciousness-by-michael-levin/": {
+    "bytes": 93715,
+    "checked_at": "2026-10-29T09:17:41.034395+00:00",
+    "sha256": "db69812045792fb95be4d78cae6489b42f100e76c362417defdff4057105fcc8",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/uncovering-electrodynamic-design-principles-of-living-cells-by-jack-tuszynski/": {
+    "bytes": 55132,
+    "checked_at": "2026-10-29T09:17:42.405024+00:00",
+    "sha256": "76bc8bb9443e77afb837732c257f9eed602e88f00d919555366d71892bf62293",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/uncovering-electrodynamic-design-principles-of-living-cells/": {
+    "bytes": 17204,
+    "checked_at": "2026-10-29T09:17:44.338994+00:00",
+    "sha256": "cc806937fdb92ecc17cdce298c53d951f2533ac93ae013ab4dfb526def3697cd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/understanding-the-collective-intelligence-of-cells/": {
+    "bytes": 94815,
+    "checked_at": "2026-10-29T09:17:45.739104+00:00",
+    "sha256": "7ec8556bcb0557273ce039cf0c16165c7a097cdf9c41b61d2d2b8de0ad4177ed",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/what-are-we-concepts-for-biology-and-ai-science-biology-diverseintelligence/": {
+    "bytes": 20167,
+    "checked_at": "2026-10-29T09:17:46.874780+00:00",
+    "sha256": "4dedf6d3733d22939365950b23b0eb32a61a176dca105b5bf5722ea58efe26fd",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/what-can-worms-and-frogs-teach-us-about-collective-intelligence/": {
+    "bytes": 71987,
+    "checked_at": "2026-10-29T09:17:48.332589+00:00",
+    "sha256": "7ac3793eb27388baebf92edce235ab9d0a35bb9e1eec594adf829b0690678397",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/what-the-physiological-software-of-life-means-for-patient-specific-interventions-by-michael-levin/": {
+    "bytes": 24142,
+    "checked_at": "2026-10-29T09:17:49.589463+00:00",
+    "sha256": "824035c12db8dfd3d5638851400f15064c21514345e4e0e1c49d04f2d190d9bc",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/where-minds-come-from-the-scaling-of-collective-intelligence-and-what-it-means-for-ai-and-you/": {
+    "bytes": 77958,
+    "checked_at": "2026-10-29T09:17:51.032819+00:00",
+    "sha256": "36effb70e04f04a5f54e7a11df411c8926676115b81fb282502c504214dcbff7",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/why-bioelectricity-in-morphogenesis-matters-an-introduction-in-3-slides-by-michael-levin/": {
+    "bytes": 29016,
+    "checked_at": "2026-10-29T09:17:52.482685+00:00",
+    "sha256": "a443fc3c0234096c9b5bf47913aefa78afd2c5a5e828b952dddbb7f6dff400b1",
+    "status": "fetched"
+  },
+  "https://thoughtforms-life.aipodcast.ing/working-meeting-1-with-mike-gazzaniga-and-richard-watson/": {
+    "bytes": 69926,
+    "checked_at": "2026-10-29T09:17:53.635896+00:00",
+    "sha256": "0401409412011e10a286bf8f92601a54f24129a546ef8ec1c902e52f5bf1abfd",
+    "status": "fetched"
+  },
+  "https://thoughtforms.life/wp-json/wp/v2/posts?per_page=100&page=1": {
+    "bytes": 6219043,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:33:19.177832+00:00",
+    "sha256": "966c288b65f4f497f3c1d806e0d966244fa62ba7d1b21d185fb6fd305920028c",
+    "status": "fetched"
+  },
+  "https://thoughtforms.life/wp-json/wp/v2/posts?per_page=100&page=2": {
+    "bytes": 2537849,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:33:19.253744+00:00",
+    "sha256": "dbcfc62ed4585d72467635f460fefef2deabe21e657f76468a7038175f94f47b",
+    "status": "fetched"
+  },
+  "https://tim.blog/2026/01/21/dr-michael-levin-transcript/": {
+    "bytes": 494251,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:41.216261+00:00",
+    "sha256": "61b3851f9bd18b84e105034e87ef85dc8004dac921b2464a622acdf30a175c8e",
+    "status": "fetched"
+  },
+  "https://tim.blog/2026/01/21/dr-michael-levin/": {
+    "bytes": 403518,
+    "checked_at": "2026-10-29T10:05:27.656753+00:00",
+    "sha256": "c8d36aaf757906aef19fbdf0f378c763911c330d78b96a93e1670ecd69b4f1fc",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/5YYGtgnhx3PnwhLzQvoqiO/transcript.srt": {
+    "bytes": 141998,
+    "checked_at": "2026-10-29T10:56:50.677780+00:00",
+    "sha256": "764d26e9aa937fcc3ffdecc77e495bb628e1e830b85fe0a03d8c0438e486aad9",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/5vpbfIPIQeDKuWH6Haa5Hy/transcript.srt": {
+    "bytes": 150473,
+    "checked_at": "2026-10-29T10:56:52.089445+00:00",
+    "sha256": "3278f2599c24fe19c3d5f92307223f7467e7c4a9cccc41d7806564a5981a9e0d",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2RqJrIbTKuC6qspmawAFdm/7M0PX7lzUKaBBcEPHt6FtC/transcript.srt": {
+    "bytes": 197897,
+    "checked_at": "2026-10-29T10:56:54.041937+00:00",
+    "sha256": "da164a7190cd65255101cd52ce0edf5253990bf7fea987732966a1950127e940",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2Zc65BZb02msGuF9ujBThC/1fYrXtfv384lUyRweQ9KKn/transcript.srt": {
+    "bytes": 108284,
+    "checked_at": "2026-10-29T11:25:04.603086+00:00",
+    "sha256": "b364efe23946fd1329e93edda32b8405ed21df09cd5ccd34d855ffa2642d524f",
+    "status": "fetched"
+  },
+  "https://transcript-files.spotifycdn.com/2Zc65BZb02msGuF9ujBThC/2wWFwzrKpMgo0rb9pTSqgx/transcript.srt": {
+    "bytes": 84997,
+    "checked_at": "2026-10-29T11:25:02.526072+00:00",
+    "sha256": "bc789a8aa86a6e3c996245f3dbd155fb0ce5b81b2d948b1af27da8df39911a82",
+    "status": "fetched"
+  },
+  "https://troscriptions.com/blogs/podcast/michael-levin": {
+    "bytes": 240063,
+    "checked_at": "2026-10-29T10:05:26.149026+00:00",
+    "sha256": "c0ff86b3f547f537d5a3a0eb0ed6760c869709d5ba6ebd71287a6369cda2f135",
+    "status": "fetched"
+  },
+  "https://tufts.app.box.com/file/947336962408": {
+    "bytes": 20364,
+    "checked_at": "2026-10-29T10:05:22.263043+00:00",
+    "sha256": "6f9f2683db1fd1dee5ada902cede58a95b7775841b0d2b81b588747a6d5ab541",
+    "status": "fetched"
+  },
+  "https://tufts.app.box.com/file/973586796795": {
+    "bytes": 20364,
+    "checked_at": "2026-10-29T10:05:49.134480+00:00",
+    "sha256": "1df94db7bc16da987f761c60a5869fd4503e7ae79e97573faf7f14ace728393b",
+    "status": "fetched"
+  },
+  "https://tufts.app.box.com/s/5ljhropip0zszo85oeg0yv043tlm92ch/file/947337725730": {
+    "bytes": 36014,
+    "checked_at": "2026-10-29T10:06:19.665532+00:00",
+    "sha256": "4f48852e7ea824d95b331bcec78e135d09532b42dc21b39e4ac63c44f29165e2",
+    "status": "fetched"
+  },
+  "https://tufts.box.com/s/ngctuaoe75p37a0zmdigowf0aawh4hd2": {
+    "bytes": 38789,
+    "checked_at": "2026-10-29T10:06:51.186743+00:00",
+    "sha256": "f93b7b6af4b524d31f4121dfd00d49e220fb51ccf7ce21e1ae1b7eb5f85242b1",
+    "status": "fetched"
+  },
+  "https://twimlai.com/twiml-talk-282-inspiring-new-machine-learning-platforms-with-bioelectric-computation-with-michael-levin/": {
+    "bytes": 185246,
+    "checked_at": "2026-10-29T10:05:37.381639+00:00",
+    "sha256": "abdbff50889147c0b140b806c369d366eec766c0883676a8c37a4b9e7608abe5",
+    "status": "fetched"
+  },
+  "https://video.manchester.ac.uk/faculties/edfa2331ca0cd9a14d717cb1d233466f/3f491910-7591-435c-9e12-1239a3c8da06": {
+    "bytes": 67259,
+    "checked_at": "2026-10-29T10:06:06.389839+00:00",
+    "sha256": "b6fdf53f7f44637825eabd6082a2ca477d2e6d36feff7b1287069da9b4ed0fda",
+    "status": "fetched"
+  },
+  "https://vimeo.com/1068199476": {
+    "bytes": 14765,
+    "checked_at": "2026-10-29T10:06:17.985874+00:00",
+    "sha256": "8439b71e91c0003b1bc25469a383a515637cc4e7bf4c7f0d4759b88f5bb67021",
+    "status": "fetched"
+  },
+  "https://vimeo.com/174740103": {
+    "bytes": 11315,
+    "checked_at": "2026-10-29T10:06:23.396099+00:00",
+    "sha256": "b79de2f0dbc4aef45b0e3dd6828bb9e397bf27975adb43c5db5030e9b43ff5b1",
+    "status": "fetched"
+  },
+  "https://vimeo.com/211300015": {
+    "bytes": 16396,
+    "checked_at": "2026-10-29T10:05:52.127007+00:00",
+    "sha256": "0c19fba4a2f424f4ac816833305d199b89eec1676ef08d818c3500915d29eab2",
+    "status": "fetched"
+  },
+  "https://vimeo.com/643024913": {
+    "bytes": 12103,
+    "checked_at": "2026-10-29T10:05:45.339427+00:00",
+    "sha256": "a721155339580ae1cb93e98fb6cccfcb438eb04c0fed7f8ceb50723aa0453299",
+    "status": "fetched"
+  },
+  "https://vimeo.com/884883039/e620a6dfcb?share=copy": {
+    "bytes": 8230,
+    "checked_at": "2026-10-29T10:05:56.371184+00:00",
+    "sha256": "634ab60f275b9412de2cb2af9e293ee16523eae075cee4249c020a79b0f27f54",
+    "status": "fetched"
+  },
+  "https://vimeo.com/showcase/9576632/video/716791006": {
+    "bytes": 118858,
+    "checked_at": "2026-10-29T10:07:05.529361+00:00",
+    "sha256": "98bfceff86ab81aa349ef05d26b2732866fbc24d2c70bf3431c518093c479b89",
+    "status": "fetched"
+  },
+  "https://www.bbc.co.uk/programmes/w3ct5rhh": {
+    "bytes": 154577,
+    "checked_at": "2026-10-29T10:06:37.740114+00:00",
+    "sha256": "aa80f48a8ae65582cdd8a6b63c3792011f996a8652ab0d68cb0a11c63b37c523",
+    "status": "fetched"
+  },
+  "https://www.cbc.ca/radio/quirks/quirks-and-quarks-june-1-2024-1.7220810": {
+    "bytes": 184373,
+    "checked_at": "2026-10-29T10:05:57.660761+00:00",
+    "sha256": "92cbee68c5e9480c106541ed7da7b26e12a87e21a0ca81257cbe6ad31a27dd21",
+    "status": "fetched"
+  },
+  "https://www.doorknobcomments.com/episodes/michael-levin": {
+    "bytes": 493648,
+    "checked_at": "2026-10-29T10:07:14.695620+00:00",
+    "sha256": "8c46200b392a7594344e55196dbf9447e13cc140ee5e6c49de9736f98011bc1e",
+    "status": "fetched"
+  },
+  "https://www.drmichaellevin.org/presentations/": {
+    "bytes": 41932,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:34.127461+00:00",
+    "sha256": "b4ac8d68021c13ea975a9f5418be5816d4bed150746717ed9136510d1c008288",
+    "status": "fetched"
+  },
+  "https://www.drmichaellevin.org/presentations/audiovideo.html": {
+    "bytes": 53874,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:28.153014+00:00",
+    "sha256": "b1a36d4c46da9f6362b0d0a98efce52b9baef52d2d9ccbbe70b6f023e88f8693",
+    "status": "fetched"
+  },
+  "https://www.drmichaellevin.org/resources/guests.html": {
+    "bytes": 19722,
+    "cache_hit": true,
+    "checked_at": "2026-10-29T09:47:40.032789+00:00",
+    "sha256": "3ef76f8db9121ce6a18fb9c616adedbb112a354cc2bc928b40ef5f65862d01f2",
+    "status": "fetched"
+  },
+  "https://www.findinggeniuspodcast.com/podcasts/the-software-of-cell-signaling-michael-levin-researches-how-cells-build-anatomies/": {
+    "bytes": 202639,
+    "checked_at": "2026-10-29T10:06:59.992184+00:00",
+    "sha256": "ec5fd56d00f7e9739712cfc6fec0ed034f669b80052404f7e56e743f379f61b4",
+    "status": "fetched"
+  },
+  "https://www.goethe.de/ins/gb/en/kul/zut/syn/nhs.html": {
+    "checked_at": "2026-10-29T10:05:46.076783+00:00",
+    "http_status": 403,
+    "reason": "HTTP Error 403: Forbidden",
+    "retry_after": "2026-10-30T10:05:46.076783+00:00",
+    "status": "failed"
+  },
+  "https://www.ici-berlin.org/events/scales-of-life/": {
+    "bytes": 109858,
+    "checked_at": "2026-10-29T10:05:32.141089+00:00",
+    "sha256": "c2239abf70dc374a82ca16b125d56185c0c8a579ee8fb45ab2f3bee7253af322",
+    "status": "fetched"
+  },
+  "https://www.iheart.com/podcast/1248-new-england-weekend-51705906/episode/could-anthrobots-be-the-future-of-135915881/": {
+    "bytes": 270846,
+    "checked_at": "2026-10-29T10:06:22.080098+00:00",
+    "sha256": "fbd28b5f095397e2ea91cda94e3dd47126e13552433067ea4e5062507d0cd601",
+    "status": "fetched"
+  },
+  "https://www.iheart.com/podcast/263-move-the-human-stor-29945214/episode/bio-electricity-for-regeneration-and-cancer-control-68799946": {
+    "bytes": 298817,
+    "checked_at": "2026-10-29T10:05:40.464624+00:00",
+    "sha256": "15d0552a6d17e31e9acb8fb8ef5e12d04ff5b4b9a6e15ac6c60b72378c7aff94",
+    "status": "fetched"
+  },
+  "https://www.mendelspod.com/p/14th-season-opener-michael-levin": {
+    "bytes": 290664,
+    "checked_at": "2026-10-29T10:05:29.557063+00:00",
+    "sha256": "bc82d8c08ab51f8864215247e20b6187dc2982ce10edcabd6a338389be4834b7",
+    "status": "fetched"
+  },
+  "https://www.mixcloud.com/shimalsky/the-saints-knew-it-all-along-conversation-with-michael-levin-gsm-ep-13/": {
+    "checked_at": "2026-10-29T10:06:24.759878+00:00",
+    "http_status": 404,
+    "reason": "HTTP Error 404: Not Found",
+    "retry_after": "2026-10-29T11:06:24.759878+00:00",
+    "status": "failed"
+  },
+  "https://www.musingmind.org/podcasts/collective-intelligence-cells-economies-cosmos-michael-levin": {
+    "bytes": 33161,
+    "checked_at": "2026-10-29T10:06:56.400019+00:00",
+    "sha256": "e6a2c7bf8da052f4e71e85b0ffc54b7764ba18886b64ca1ec52eed8edcd658be",
+    "status": "fetched"
+  },
+  "https://www.newswise.com/articles/live-event-scientists-create-tiny-biological-robot-healers-assembled-from-human-cells": {
+    "bytes": 146840,
+    "checked_at": "2026-10-29T10:05:24.871354+00:00",
+    "sha256": "a56ff63f296123b7b71f263ca35afd3d51a9a4efb4299fe2c5b32e9c5c9b8498",
+    "status": "fetched"
+  },
+  "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/534dc725-2971-42a1-b1bf-afaa0107416e/bee00526-7528-4581-b6b6-afaa01083a3d/podcast.rss": {
+    "bytes": 691959,
+    "checked_at": "2026-10-29T11:24:54.566050+00:00",
+    "sha256": "faded7d0b86b9e96a335782404e1e2e854454ee2934c9a984bfe711d9e071d3b",
+    "status": "fetched"
+  },
+  "https://www.preposterousuniverse.com/podcast/2021/02/01/132-michael-levin-on-growth-form-information-and-the-self/": {
+    "bytes": 343836,
+    "checked_at": "2026-10-29T10:06:01.724017+00:00",
+    "sha256": "e63e4cf750eadb4d199758ec5fd7df57843914575f367ee25112ad4ef8a19829",
+    "status": "fetched"
+  },
+  "https://www.spreaker.com/user/17124368/ep6-punching-cards": {
+    "bytes": 362269,
+    "checked_at": "2026-10-29T10:06:27.891677+00:00",
+    "sha256": "07fa1cfc6bb5db640ab89cb309c3e492f3622c2ac3a5794f5694ed4b2115de34",
+    "status": "fetched"
+  },
+  "https://www.vancecrowe.com/interviews-blogs/michael-levin-where-does-cognition-come-from": {
+    "bytes": 76331,
+    "checked_at": "2026-10-29T10:07:12.706588+00:00",
+    "sha256": "38a3bc625264570711d61636571ef0dcb52b38582e11100c6afab3ba070a3598",
+    "status": "fetched"
+  },
+  "https://www.vancecrowe.com/interviews-blogs/regenerating-limbs-and-electroceuticals-michael-levin": {
+    "bytes": 76331,
+    "checked_at": "2026-10-29T10:05:43.391015+00:00",
+    "sha256": "38a3bc625264570711d61636571ef0dcb52b38582e11100c6afab3ba070a3598",
+    "status": "fetched"
+  }
+}

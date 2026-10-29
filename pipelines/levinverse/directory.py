@@ -1,0 +1,82 @@
+"""Discover podcast episode metadata from the public Apple directory search index."""
+from __future__ import annotations
+
+import argparse
+import json
+import re
+from pathlib import Path
+from urllib.parse import urlencode
+
+from .expand import safe_url
+from .feeds import publisher_title_match
+from .harvest import Fetcher, timestamp
+from .store import read_jsonl, upsert
+
+
+def classify(item: dict, configured_ids: set[int], known: dict) -> tuple[str, str]:
+    title = item.get("trackName", "")
+    description = item.get("description", "")
+    if re.search(r"\b(congressman|congresswoman|congressional|representative)\b|\bRep\.?\s+(?:Mike|Michael) Levin\b", title, re.I):
+        return "unrelated_name", "Episode identifies a political officeholder"
+    if not re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I):
+        return "reference_review_required", "Name not explicit in episode title; search mentions alone do not establish participation"
+    if re.search(r"\b(Tufts|drmichaellevin|bioelectric\w*|xenobot\w*|anthrobot\w*|morphogen\w*)\b", title + " " + description[:700], re.I):
+        return "subject_confirmed", "Episode names Michael Levin and identifies his institution or distinctive research"
+    if item.get("collectionId") in configured_ids:
+        return "subject_confirmed", "Episode names Michael Levin in a verified publisher feed"
+    if publisher_title_match(title, item.get("collectionName", ""), known):
+        return "subject_confirmed", "Episode title and publisher match the official appearance catalog"
+    return "subject_identity_review_required", "Matching name without sufficient biologist identity evidence"
+
+
+def discover(root: Path, client: Fetcher, terms: list[str] | None = None, add_feeds: bool = False) -> dict:
+    config_path = root / "config/podcast-feeds.json"
+    config = json.loads(config_path.read_text(encoding="utf-8"))
+    ids = {f["directory_collection_id"] for f in config["feeds"] if f.get("directory_collection_id")}
+    feed_urls = {f["url"] for f in config["feeds"]}
+    # Its complete publisher sitemap has a separate participation-aware harvester.
+    handled = {"https://feeds.transistor.fm/thoughtforms-life"}
+    known = {v["video_id"]: v for v in read_jsonl(root / "catalog/videos.jsonl")}
+    result = {"search_results": 0, "subject_confirmed": 0, "feeds_added": 0, "errors": 0}
+    for term in terms or ["Michael Levin", "Mike Levin"]:
+        url = "https://itunes.apple.com/search?" + urlencode({"term": term, "entity": "podcastEpisode", "limit": 200})
+        try:
+            items = json.loads(client.get(url)).get("results", [])
+        except Exception as exc:
+            upsert(root / "catalog/discovery-runs.jsonl", [{"source_url": url, "status": "failed", "reason": str(exc), "retrieved_at": timestamp()}], "source_url")
+            result["errors"] += 1
+            continue
+        for item in items:
+            if not item.get("trackId"):
+                continue
+            status, basis = classify(item, ids, known)
+            record = {"directory_episode_id": item["trackId"], "episode_guid": item.get("episodeGuid"), "title": item.get("trackName"), "show": item.get("collectionName"), "directory_collection_id": item.get("collectionId"), "source_url": safe_url(item.get("trackViewUrl") or url), "feed_url": safe_url(item.get("feedUrl", "")), "publication_date": item.get("releaseDate"), "duration_seconds": item.get("trackTimeMillis", 0) / 1000 or None, "status": status, "identity_basis": basis, "discovery_source": url, "retrieved_at": timestamp()}
+            audio = item.get("episodeUrl", "")
+            if audio and safe_url(audio) == audio:
+                record["public_audio_url"] = audio
+            upsert(root / "catalog/podcast-directory.jsonl", [record], "directory_episode_id")
+            result["search_results"] += 1
+            result["subject_confirmed"] += status == "subject_confirmed"
+            feed = record["feed_url"]
+            if add_feeds and status == "subject_confirmed" and feed.startswith("https://") and feed not in feed_urls | handled:
+                config["feeds"].append({"show": record["show"], "url": feed, "directory_collection_id": item.get("collectionId"), "directory_episode_evidence": record["source_url"], "verification_basis": basis, "verified_at": timestamp()})
+                feed_urls.add(feed)
+                result["feeds_added"] += 1
+        upsert(root / "catalog/discovery-runs.jsonl", [{"source_url": url, "source_type": "public_podcast_directory_search", "status": "retrieved", "items_scanned": len(items), "result_limit": 200, "exhaustive": False, "retrieved_at": timestamp()}], "source_url")
+    if add_feeds:
+        config_path.write_text(json.dumps(config, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    return result
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--root", type=Path, default=Path.cwd())
+    parser.add_argument("--term", action="append")
+    parser.add_argument("--add-confirmed-feeds", action="store_true")
+    args = parser.parse_args()
+    root = args.root.resolve()
+    print(json.dumps(discover(root, Fetcher(root), args.term, args.add_confirmed_feeds)), flush=True)
+
+
+if __name__ == "__main__":
+    main()

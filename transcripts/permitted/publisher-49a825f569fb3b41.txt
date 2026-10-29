@@ -1,0 +1,221 @@
+[00:00] Michael Levin: Have you guys met each other before?
+
+[00:06] Richard Watson: No, we have not.
+
+[00:07] Chris Fields: You gave a talk once to Mike's group. That's the only contact we've had.
+
+[00:14] Michael Levin: Fantastic. Maybe take a couple of minutes and introduce yourselves to each other. It's great.
+
+[00:20] Chris Fields: But we will see each other at UCLA at that meeting.
+
+[00:24] Richard Watson: You're going to be there in person.
+
+[00:28] Chris Fields: Right.
+
+[00:29] Richard Watson: Excellent. I started writing some notes about what do I want to talk to Chris Fields about. It went on for a few pages and I thought, okay, let's write the top level vision. It was still a page and a half. I'd like to develop a theory that links together cognition, evolution, adaptation, development, and computation. In particular, I would like to do it in a way that explains agential behavior and how mechanistic processes at a given level of organization can be more or less autonomous at that scale, but how that interacts with the scales above and below. I've been quite excited recently about how that links with resonance as a form of error correction and as a mechanism that links together all of those things that I'm interested in. Its connection to error correcting codes is one of the topics that I think would be a good place to start. That was the eight pages I tried to summarize.
+
+[02:26] Chris Fields: We should make t-shirts for everyone who's interested in that set of topics. Not sure what we should call the group.
+
+[02:47] Michael Levin: Chris, say a little bit about your interests and what you've been working on.
+
+[02:56] Chris Fields: We've been interested in this intersection area between physics and cognitive science and biology, and in how to develop theoretical frameworks that are based very firmly in physics and that connect in a very natural way to computer science and that provide a nice formulation of what's going on in biology. But complementary to that, we're interested in how to import biological and cognitive thinking into physics in a kind of whole scale way. So one way to put all that is to see physics as fundamentally a theory of communication between agents who have some computational structure and who have to exist within an environment that exerts selective pressures of one kind or other. The environment in this case is an agent also that has its own agenda. The Free Energy Principle provides a nice way of formulating all of this, especially when it's translated into more quantum information language, which makes a lot of its structure clearer than it is in the classical language. Other aspects that physics helps to clarify are what context dependence is and how one goes about identifying and describing the contexts of actions, whether the system of interest can identify those contexts or not. Typically, the system of interest can't. So one has all of these interesting kinds of context effects that are commonplace in biology and psychology.
+
+[05:48] Richard Watson: But that's so figure and ground aspects of physics.
+
+[05:52] Chris Fields: The physics language provides a nice way to talk about it formally.
+
+[06:06] Richard Watson: Mike, do you want to stir it?
+
+[06:08] Michael Levin: Lots of things I think would need to be discussed. One is this whole notion of the environment being an agent itself. I think it's critical for all this because in all of these biology models, we assume that the agency of the environment is 0 and that there might be some parasites and there might be some competitors, but the actual environment is mechanical; it just is what it is. I'd love to have us unpack that some more. The whole error correction thing, I think, is critical because all that I see in biology is constant error. The one thing that Chris and I have been developing lately is perspectives on all this that we talk about, but really centralizing the role of the observer. Anything Chris says on that topic, with the reference frames and the observers, I think would be super important to hear again for me.
+
+[07:19] Richard Watson: We've spoken before, Mike, how that might intersect with how I've been thinking about orbits representing functions. So the dimensionality: the orbit tells you how many times the space is folded and the depth of the function class, and the chord that you cut across that orbit defines a function in that function space. But instead of a simple cut, you could intersect that orbit with another orbit that was itself complex. What does one oscillator see of another oscillator? When you do it that way, it's much more interesting because in order for one orbit to sample another orbit, it necessarily needs to be at a similar frequency, and that makes it vulnerable to being modified itself, so you can't just be an observer that doesn't influence the system; you're necessarily coupled with it.
+
+[08:37] Michael Levin: Which to me immediately links to the notion of cognition and first-person perspective, consciousness. The interesting thing is that unlike typical experiments that we may do, where you can do them in third person and you're not really changed much by them—you may learn something as a result—but typically it's you prepare some system and you stand there and watch it. I think any kind of experiments or any kind of science with respect to consciousness, you are the participant; you have to participate. Otherwise, what you're learning about is physiology and behavior. If you're going to learn about consciousness, you're going to be involved in finding out what it's like. That gets back to this thing that you just said, Richard, that for those kinds of experiments you are fundamentally participating, altered by it, part of it. If you're going to find out about the really core cognitive aspects of things.
+
+[09:48] Richard Watson: It's like saying you can't be an observer of consciousness. You can only just do consciousness. And so the best that you can get to being an observer is almost looking in a mirror, but it's interacting with another consciousness that's like you — how much of it can you see, and how much does it affect you? You can't interact with it without being vulnerable to being changed by it.
+
+[10:26] Michael Levin: If you think about what a successful theory of consciousness outputs, it's not going to be behavioral data. It needs to be what? What is it? What format does it give you as an answer to our questions? And I think it's got to be protocols for putting you into that same state so that you can really find out what it's like. CS Lewis said, "Don't tell me what it's like to be scared. Tell me something scary and then I'll know." These things, like anything else, are third-person descriptions. It's not consciousness. It's physiology, it's behavior, it's whatever. But what is that — poetry, art, some kind of stimulus that puts you into that same state? Now we know what it's like.
+
+[11:24] Richard Watson: Does that mean that a theory of Consciousness is indistinguishable from an experience in the conscious state, that it's like LSD is a theory of consciousness?
+
+[11:40] Michael Levin: That's interesting. A good theory of consciousness would be, I produce some kind of crazy high brain with three brain hemispheres and some wheels and whatever. I say, with your theory of consciousness, tell me what it's like to be this agent. The answer is you need this much LSD and you need this experience and we need to get it. And then you have some prayer. I don't know that you could ever actually get it.
+
+[12:12] Richard Watson: And I could tell you that recipe, but that wouldn't. You're saying that isn't the theory of consciousness. There is a recipe for consciousness, not a theory of consciousness. You have to do it before you read; the ingredients have to be put into action before it's a theory.
+
+[12:39] Chris Fields: I think it's interesting that if you look at what actually passes for theories of consciousness in the literature, they're not about what it's like at all. They're about describing an entity; my theory will tell you what this entity can be conscious of without saying a thing about what its consciousness of that is like. Beyond vague generalities, like "its consciousness of this feels stressful." What does that mean? It means whatever it means to you. You just project that onto the other system. So we talk about E. coli being stressed by heat or lack of food. We say stress feels like this to me. So maybe it feels something like that to E. coli.
+
+[13:37] Richard Watson: I wonder if that's an entry point where we could talk about the relationship between the stress and harmonics in vibrating systems and its relationship to error-correcting codes and see if that resonates with you, Chris. I've been thinking about the two-way relationship between oscillations and shape and form. The shape and form of a tuning fork, a particular macroscale geometry, determines the note that it rings at. But in the other direction a particular oscillation can create a shape and form that will hold that oscillation. In that direction, I've been playing with Faraday waves and Faraday worms of oil on liquids floating on oil, and when you vibrate the liquid at a particular frequency the droplets elongate and take a particular shape that is an integer number of wavelengths. There's a two-way relationship between what frequency this shape vibrates at and what shape this vibration makes. I noticed that the discontinuities or the quantization of the shape and form are important. It wouldn't be interesting if you just turn up the frequency and the worm gets longer. What's interesting is that when you turn up the frequency the worm's length increases in quanta, in integer multiples of the wavelength. The connection to error-correcting codes I'm thinking about as follows: there are certain modes which fit in a particular geometry, and the frequencies in between don't fit; they're not allowed. Crudely, an error-correcting code is a large combinatorial space of possible messages with large gaps between them, so when a message gets a little distorted and falls into a gap, you can see that it doesn't belong. In oscillating systems, waves, and resonance, the quantized modes or harmonics that fit in a string, for example, provide a combinatorial space of possibilities, while the frequencies in between don't fit. As you turn up the energy on a vibrating substrate, it flips discretely from one mode to another, from one harmonic to another. That feels like the right territory for getting pseudo-discrete combinatorial spaces of possibilities from continuous substrates.
+
+[17:41] Chris Fields: From a quantum information point of view, there are no continuous substrates. It's all discrete in the end. What your vibrating systems are doing is coarse graining at particular frequencies. They're making macroscopic discrete states, which is fine. In the end, the question is always, is the frequency within some very small error bar of this interesting frequency or this preferred frequency or not? If it is, you have a one, and if it's not, you have a zero. You've created this discrete space. An error-correcting code just needs a discrete space and redundancy.
+
+[18:52] Richard Watson: Yeah.
+
+[18:53] Chris Fields: So space or time, either one, provides redundancy. So if you have a discrete space in either space or time, you can construct an error correcting code.
+
+[19:13] Richard Watson: So the cool thing about the oscillations, vibrations, and harmonics is how you can pack one octave inside another. It's not just that you have an effectively discrete space of possibilities at one level of organization; at the octave above, there are two wavelengths that fit inside that, and at the octave above that there are four. Those are discrete too, and they have their own error correction going on, which is semi-independent of the octaves above and below but not independent because you also get subharmonic phase locking between the levels. So that feels like the right kind of machinery for having multi-scale autonomy where there's a dynamical process going on at a particular level of organization that is semi-independent of the levels above or below. But you don't want it to be completely independent of the levels above or below because that doesn't explain what we want to explain in the biology. We want to explain how this process at this level interacts with that process at that level.
+
+[20:39] Chris Fields: Right.
+
+[20:41] Richard Watson: Yeah.
+
+[20:45] Chris Fields: But in a sense, in a physical system that's a single physical system, you can't have independence between scales. You're going to have this coupling for free.
+
+[21:02] Richard Watson: The coupling is for free, but what's unusual is the slight independence. So the coupling, if I have two oscillators of a given frequency and they phase lock with each other, then that's a phenomenon; it's like a causal process that operates at that scale of organization. But I can also get a phase locking between an oscillator and another oscillator at twice the frequency. As one of those objects doesn't really know whether the other object is twice the frequency or half the frequency or the same frequency. So there's a sort of crosstalk between levels. Ordinarily, the temptation is to say the levels above are determined by the levels below. So there isn't any autonomy going on at the high levels at all. And we don't need to talk about crosstalk between levels because there aren't really any levels. But when you have a resonance happening at a particular scale, that's a dynamical causal process at that scale, which is semi-independent of the scale below. Do you not think?
+
+[22:50] Chris Fields: I think it depends on what you mean by semi-independent. One can think of this in terms of building detectors. If you have a base frequency, it's a kilohertz or something, then one can think about building a detector, an antenna, at some lower frequency. That process may be completely independent of whatever's going on at a kilohertz. But you will either do it in a way that you can capture a resonance or you don't. If you do, then good for you. You've designed something that is a resonant detector even for this higher-frequency signal. And that produces for you, with your detector, something that looks like a low-frequency signal. But you could have designed the detector a little bit differently and got no resonance at all, and you wouldn't see a signal at your lower frequency. So in that sense, there's complete independence. So what you see is not independent of what's going on at the lower level, but what you end up designing and building is independent of what's going on at the lower level.
+
+[24:43] Richard Watson: Suppose I was working in a low frequency space and I had one low frequency oscillator synchronizing with another low frequency oscillator and everything appears to be low frequency and quite sensible. But then I noticed that at particular low frequencies, something weird happens because I'm starting to detect something from the higher frequency that it's resonating with. So I had a causal process at this low frequency area, but at particular low frequency areas, there is an interaction with the high frequency thing.
+
+[25:24] Chris Fields: Yeah.
+
+[25:25] Richard Watson: And when that happens, assuming that the high frequency thing isn't just a transmitter, but that it's a physical process that's reversible, I'm also influencing the high frequency thing. It will synchronize with me and I synchronize with it. The resonance is mutual, not one way.
+
+[25:44] Chris Fields: Given that there's a little bit of slack in the high frequency process. If you're driving the low frequency process, you're going to be feeding energy into the high frequency process. So in a sense, the question about independence is, are there drivers at every scale? Which is one of the things that Mike talks about in terms of processes going on at different scales that inject energy or information into a system at some particular scale.
+
+[26:37] Richard Watson: You could have a high frequency oscillation that drives a low frequency one, and then the low frequency one could drive some other low frequency one, and then the second low frequency one could drive the high frequency one or another high frequency one. You can have interactions at both scales. And you can't really tell who's the driver or whether the drive was introduced at that scale or came from the level below, can you?
+
+[27:08] Chris Fields: If you're only making measurements at one scale.
+
+[27:23] Richard Watson: When you're releasing energy at that scale in order to drive something at that scale, the process that was releasing energy was getting it from the scales below anyway.
+
+[27:33] Chris Fields: From somewhere, certainly.
+
+[27:34] Richard Watson: Even if you were just burning something, it was coming from there.
+
+[27:44] Chris Fields: That's an important point in that we often tend to think about the power supply as a completely external part of the picture. But the power has to come from someplace, and it comes from the environment, which is the same place that the information that's being processed comes from.
+
+[28:08] Richard Watson: Yeah.
+
+Chris Fields: You can ask, how are those two coupled within the environment in hidden degrees of freedom that you can't see?
+
+[28:17] Richard Watson: You start off learning about sources and earths, sources and sinks. And then later on you learn about back EMF and you think, ****, how did that happen? I was supposed to think about that as it wasn't part of the system, it was just a source. And now suddenly there is a way in which it becomes part of the system and it starts interacting backwards. So the sources and sinks are the ways, they are the resonances which are losing or gaining energy from other scales of organization.
+
+[28:58] Chris Fields: Or they're just a way of cheating. They're just a heuristic for not talking about the things you can't see.
+
+[29:08] Richard Watson: Which are exactly the things that we want to talk about.
+
+[29:18] Michael Levin: Could we talk for a minute about making observations and hopefully interventions at multiple scales or at larger scales? Because one of the things that happens, the kind of error correction that we think about all the time is, let's say you're a salamander, you've lost your arm or some part of it, and then the cells have to do the hard work of doing some stuff, but also the collective has to. But the thing they're correcting doesn't exist at the cellular level. So they're going to have to correct the fact that there's half the number of fingers than there needs to be, but there's no notion of finger at the level of the single cell. So those stresses at the higher level have to be propagated down and make the lower levels dance to some extent. But then when we take measurements and we make interventions, what happens is people will look at it and say, but you didn't actually intervene at this higher level because I see what you did. You put in some ion channels or you touched a chemical. You can always zoom into that lower level. So one of the things we've been grappling with is how to define when you've actually taken a measurement at a higher level or when you've done an intervention at a higher level. Because for measurements, you can talk about the integrated information. That's at least got going. But what does it mean to make an intervention at a higher level when you're talking to the collective? You're communicating with behavior shaping the collective and whatnot. How do we formalize that so that it's clear that, yes, I know I used a piece of DNA to do it, but I wasn't really manipulating the lower level. It was just the conduit. I was talking to the tissue-level agent.
+
+[31:32] Richard Watson: I imagine the subharmonic phase locking, if that's the right way to think about it. If I had a process that would have had four peaks in that interval and another process that has two peaks, then there are two ways of locking onto that for the higher-level process. They're equally good, equally compatible, equally stress-free in their relationship to the lower level, to the higher-frequency oscillation. And if I can push that higher-frequency oscillation from locking like this to locking like that, that push is completely invisible to the lower level; it's perfectly happy with those two possibilities. But if this whole thing is really one system with two waves carried in the same substrate, then you say I pushed it at this level, and somebody else says you pushed it at that level because it's the same system that you're pushing. But you have to make a case. You'd have to make a case that I'm not pushing a thing, I'm pushing a frequency. And that pushing it at this frequency is relevant is the same as saying I'm doing something causal at this scale, not at that, not at some other scale.
+
+[33:11] Chris Fields: This comes down to the answer that you gave in lab meeting yesterday, Mike, which is it depends on what the theory is that tells you what the intervention should be. And if the theory that tells you to intervene with this probe is a macro scale theory, then in a sense, you're intervening at the macro scale because that's the informational context.
+
+[33:53] Michael Levin: Yeah.
+
+[33:55] Richard Watson: But the reductionists don't believe in macro-scale theories.
+
+[34:05] Chris Fields: You can be that way, but try it with the computer scientist.
+
+[34:16] Michael Levin: that's what I was arguing yesterday in lab meeting that Chris is referring to, that after some interesting system has been prepared, you can then be a reductionist and say I know what's going to happen next. You don't need any of these higher levels. But I think in addition to prediction, and I don't know how to formalize it yet, we need another notion of pre-invention that measures something else. It measures how likely you were to come up with this in the first place, given the level at which you operate. So it's the sort of thing that in the cellular automaton Game of Life. Once somebody prepares something, you don't need to believe in gliders. You can just microscopically track the states and you can predict it all the way out. But if you don't believe in gliders, you're never going to make the Turing machine out of gliders. You're not going to be able to do that if you don't believe in those levels. The same thing happens. Sometimes I'll give a talk and people say, that's really interesting data, but why do you keep talking about all this philosophical stuff? Don't do that. Just do the experiments. The answer is we wouldn't have done this experiment without that way of thinking about it. It's not, after the fact, after I show you the two-headed worms repeating, then anybody can say, of course it's chemistry underneath and it's genetics. I can track it down. Yes, you can, after the fact.
+
+[35:45] Richard Watson: To which they'll say, "I don't care what's going on inside your head. I don't care what your theory-generating process was. That's not part of the system I'm studying. I'm only interested in the worms and their molecules. And how you came up with that theory is not part of the system I'm interested in, and how you came up with it doesn't affect what the system is that I'm looking at from their point of view."
+
+[36:08] Chris Fields: So tell me again what a worm is? You're talking about the difference between trigonometry and arithmetic, right? It's very convenient to have this thing we call sine, but we don't need it. All we actually need is addition and multiplication. So do projective geometry with just addition and multiplication.
+
+[36:41] Richard Watson: I'll continue to be the reductionist advocate for a bit. I'm not sure I really believe in worms. There's only biomolecules and there's only genes and they're just vehicles. The only agent here, if there's any kind of agent, is a gene. And that's not really an agent either. It's just a molecule. And all of your worries about whether that's one individual or two individuals or one worm or two worms or that's just the downstream consequences of the real causal process happening at the level.
+
+[37:20] Michael Levin: But is it not the case that we have competing lenses on things, and one has to choose one, or not forever, but for some particular stretch. How do we choose between them? The reductionist lays out their lens, I lay out my lens, and then we must choose. How do we choose? This is very foundational. Within one frame it's easy to make fun of the other and say, "you're talking about things that don't exist." But the decision between them has to be made above that. We need some sort of criteria.
+
+[38:04] Richard Watson: I think you have to read Ian's book first to recognize that the logic of the left brain locks out the possible existence of any other kind of way of thinking. But the reasoning of the right brain doesn't. The right brain can see the whole and it can see the parts. And the left brain just says, **** *** I can only see the parts. There isn't anything else except my own logic. How do you know I refer to my own logic? And it's caught in this loop that it can't get out of.
+
+[38:43] Chris Fields: Who is Ian in this case?
+
+[38:47] Richard Watson: Ian.
+
+[38:49] Michael Levin: McGilchrist.
+
+[38:50] Richard Watson: McGilchrist.
+
+[38:54] Michael Levin: We had a couple of meetings recently where he's written some really interesting stuff. I try to boil it down to pull it out of philosophy where people have been debating this. We need some way of deciding between these frames at any given moment. There are different ways of looking at things. One way is the degree of facilitation of future progress. I don't know what else you would choose. Efficiency is one, but it's not the only thing. But does it help you?
+
+[39:37] Chris Fields: Computational complexity is a measure that can be substituted for efficiency. Do it all in string theory. But it's much easier to make coffee at a macro scale. The reason is, you aren't trying to do some exponential computation.
+
+[40:07] Richard Watson: So what about the...
+
+[40:08] Chris Fields: Not just aesthetics.
+
+[40:12] Richard Watson: What about the multiple realizability of the lower levels? Suppose I claim to have a process operating between units at a particular scale operated on at a particular frequency. For this particular instantiation of that process, they were built on top of some other particular units at the scale below. But if the causal process had some independence from the things below and you wanted to prove that it did, you could say I can do the same thing in a system that is either locked differently so that, when it's over here, I do the same thing and I get the same result. When it's over here, I do the same thing and I get the same result. But the genes that changed when I did it here are those genes and the genes that changed when I did it there are those genes. They can't be the cause because they were different in those two cases. The difference maker has to be what was happening at the higher level of organization, not what was at the lower level of organization. Then there's the possibility that that's not just a different phase lock, but that it's an entirely different kind of system. That I've replaced my gene signaling pathway with a morphogen pathway that went outside the cell or did something else or was electrical. It doesn't matter so long as it provided the appropriate oscillation for the other thing to live on. You can't say that it was the lower level thing that did it.
+
+[42:10] Chris Fields: This is a good reason to try to teach all biology students the theory of virtual machines. That's the best example we've got. Transporting Zoom between my Linux machine and Mike's Microsoft machine and whatever you're running.
+
+[42:45] Richard Watson: A really, really badly limping along Windows machine. Yeah.
+
+[42:48] Chris Fields: The fact that works is undeniable evidence for the utility of high-level descriptions.
+
+[43:04] Richard Watson: Is it undeniable?
+
+[43:06] Chris Fields: Without that, you couldn't do it just from an engineering point of view.
+
+[43:10] Richard Watson: Is it undeniable evidence for the existence of a higher level causal process rather than a higher level description?
+
+[43:24] Chris Fields: The program is just a description of what a piece of hardware is doing. So not in any fundamental sense, but in a pragmatic sense, yes. I write programs in a programming language, not with wires and a soldering iron. I could never construct Zoom anyway, and no one else could either. That's that.
+
+[43:54] Richard Watson: Yeah.
+
+[43:55] Michael Levin: Could you play chess against a proper reductionist? What would their next move be? They don't believe in pieces, they don't believe in boards, they don't believe in the relationship between the pieces. There are microstates, the Library of Babel; they all look the same to them in a certain sense. How would you make the next move if you didn't believe in this thing?
+
+[44:32] Richard Watson: They would say all of my microstates create this process that plays chess against all of your microstates, but they don't believe in themselves as an agent that took a decision about what move to do.
+
+[44:48] Chris Fields: This suggests an old adage: one wins arguments only with technologies.
+
+[45:00] Richard Watson: I might change tack to talk about the kind of computation we can do with physical systems and oscillations. The talk you saw, Chris, would have been about the mechanism I call "natural induction."
+
+[45:35] Chris Fields: Yes, I think that was correct.
+
+[45:37] Richard Watson: So you have a dynamical system described by a network of viscoelastic connections. Its natural behavior is to find local minima in its energy function. But as it spends time at each of those configurations, the viscoelastic connections give way slightly, which makes the attractor of that particular configuration a bit larger. You perturb the state and it goes to another attractor and the relaxation of the connections makes that one a bit larger so that it forms a memory of its own past behavior. As that memory is in the connections and not in the states, it's a memory which can generalize. It's not just making it more likely to go to configurations that it's been to before, but also to other configurations, including novel ones that have the same associative relationships between the state components. That process of back and forth between physical optimization — local energy minimization — and physical learning of changes to the internal structure of the system, coupled with one another, produces an optimization process: the change in the state modifies the energy function, and the change in the energy function modifies the state trajectories, and it causes the state trajectories to find exceptionally low energy configurations, even in the original constraints, even in the original springs. I understand that to be a mechanism of adaptation. There's a whole other story about that; it isn't natural selection. That's a different story. I notice a couple of things. One is that the way in which the springs push the masses and the way in which the masses deform the springs needs to be reversible. If this dynamical system was like a regular neural network, which fires if the weighted sum of inputs is over a threshold, then that's not reversible. I can't put a current back down the axon and get it to change the weights. The backprop does that, but I can't literally push on it. It's a one-way system. The natural induction process is nice because it's a purely physical system. It doesn't need to be designed or selected for the purpose of doing adaptation. But it only works in physical systems that have that reversibility. The other thing that I notice about it is that there's a shift between the configuration space in which the states move and the configuration space in which the weights move: one is the correlations of the other. The state space is the straightforward state configuration space, but the changes in the weights change the correlations of the other one. If it's worth doing at all, it's worth doing recursively; then the next level would be the higher-order correlations between those correlations controlled with another kind of spring that connects two springs together. If that was all reversible, then you ought to be able to get it to do a deep learning process instead of just an associative learning process. That all feels to me like the implicate order of bone. Should I get your reflection on that first before I add more layers of thought onto it?
+
+[50:04] Chris Fields: I think what Bohm was trying to talk about is entanglement and the difference between quantum and classical information.
+
+[50:17] Richard Watson: Yeah.
+
+[50:18] Chris Fields: What you're talking about here is what you could think of as the first two terms in a series expansion, where if you take the whole expansion, you have entanglement.
+
+[50:36] Richard Watson: That sounds like that is resonating with you a little bit.
+
+[50:47] Chris Fields: There's a nice long-ago paper by Frank Tipler. He's kind of an odd character. But what he shows is that if you take standard Laplacian classical mechanics and you remove all the singularities that exist in classical mechanics because everything is a hard boundary. You have collisions that are instantaneous and singularities in the momentum. If you remove all those singularities by smoothing them out, then you get Bohmian quantum mechanics. The reason is that smoothing out the singularities is the same thing as connecting everything to everything else.
+
+[51:56] Richard Watson: Yeah. That makes total sense to me, actually.
+
+[52:01] Chris Fields: And I thought that was a really nice demonstration. It's a paper in PNAS from 2014. I could dig it up and send it to you if you're interested.
+
+[52:14] Richard Watson: I'll ping you if I can't find it.
+
+[52:16] Chris Fields: The other part of the paper is a vigorous defensive Laplacian, which turns out to be the same as Bayesian theory of probability.
+
+[52:28] Richard Watson: So I've been thinking about it this way. In a deep neural network with a feedforward architecture, you are getting one layer to provide inputs that control the next layer. Each layer is multiple inputs feeding in; it's losing information, it's coarse-graining stuff as you go up. If it does it in an all-or-nothing, plus-one, minus-one, discrete way, then it's not reversible. If the output wasn't what you wanted, you can't push back on it to know how to change the weights or who was responsible for the error. The reason we use a sigmoidal function is so that you can differentiate it, get rid of those singularities you were just mentioning, and, given the error, push back on the weights, do the credit assignment of who is responsible for this error, and change the weights to give you a slightly better answer. That reversibility is necessary for you to do learning. Learning is: I had an error in the coarse-grained, low-dimensional space that I didn't like. I want to know how I can reverse engineer all of the changes I need to make to the internal organization of my machine to change that error. If everything is reversible, then you can just push on it, and it gives you the changes that you want. It just bends to give you the changes that you want. But if everything is reversible, you can't do the nonlinearly separable deep functions that you want to compute. The purpose of having a deep network with non-linearities in it is so that you can fold the feature space again and again so that you can have complex decision boundaries in the space. Although each layer is a little reversible because you didn't use a step function but a sigmoid, it nonetheless becomes increasingly difficult to reverse that function as it becomes more folded; it becomes so massively underdetermined that you have to push it by infinitesimal amounts. If you want to change a fold you've made that's quite deep, that's hard to do. So in deep learning, the way that manifests is after I've trained the network on a particular function, I'm basically ****** if I wanted to do something else. I can't change the deep structure in that network without undoing all of the higher-level folds that I made so that I can see that deep structure, push it to do something else, and then put all those folds back again. I can't change the deep correlations, the really low-frequency stuff, without undoing all of the high-frequency stuff that I put on top. My hypothesis is that if we did a neural network built out of oscillators with periodic activation functions instead of sigmoids, and did the computation in phase space instead of amplitude space, then it could do all of the same kinds of computation. But the question is: why would you want to do that? If it's equivalent, why bother doing the conversion? The reason is you could change the deep correlations in the network without undoing the high-frequency correlations, because you could just hum to it at the low frequency and that would turn the base of the orbit in low-frequency space without having to undo. You could drill through the higher-frequency folds and leave them untouched to communicate directly with the low-dimensional folds.
+
+[56:48] Chris Fields: You would have to know what frequency your error is occurring at. Then you would have to know how to correct for the side effects of changing the low-frequency slightly in terms of the resonance or off-resonance behavior of all of the higher-frequency components.
+
+[57:24] Richard Watson: Yes.
+
+Chris Fields: I'm not sure you get away with leaving all the higher-frequency components fixed, even in this Fourier representation.
+
+[57:34] Richard Watson: My feeling is that the high frequency ones are just as happy, locked in a different phase as they were in the original phase.
+
+[57:45] Chris Fields: Might change the semantics though.
+
+[57:50] Richard Watson: Up might be down, but they would be a reflection that still had the same internal relationships. It's a left hand instead of a right hand, but it's still a hand. How would you know which frequency the error was at? You don't, because the way in which you're interacting with the network when it's a low-frequency thing that needs changing is that it was a causal process happening at the low frequency. So the causal process can happen when one organism interacts with another; the kinds of interactions that they have could be a really low-frequency thing or a really high-frequency thing. They could be having a conversation or they could be physically bumping into each other in the street. The response that you get is a change in the internal organization of the system either way. One could be changing something deep, changing the ideas inside your head without breaking your skull. The other one breaks your skull without changing the ideas inside your head. So those causal processes can happen between an organism and its environment or another agent if the environment is communicating with it, enacting causal processes at that scale.
+
+[59:29] Michael Levin: Some living things facilitate that by providing an interface, which is learning, rewards and punishments and perception, for letting others modify them in a particular way without having to get in there and literally change their neuronal contents. Somebody gave a talk on how to give a talk. The first thing he said was, "Effective communication is a violent act." Because fundamentally, your goal, if you're good at it, is to reach in there and make sure the people that leave the audience are not the same as the way they came in. They have to facilitate that by having that interface and being that kind of thing.
+
+[1:00:24] Richard Watson: I repeated that to Eva, and she said, "Why does it have to be violent?"
+
+[1:00:28] Michael Levin: Wasn't my fault, I didn't give up with this one. Maybe violence is not the best word, but there's an element of this in there because by coming to a lecture, you are taking a risk. You don't know what you're going to leave there with. You might hear something. You can't unhear things. You might hear or you might see a piece of art or read something. I've certainly had that experience, wow, I wish I hadn't read that. But it's too late. Once you've seen it, you can't unsee things.
+
+[1:01:01] Richard Watson: I think that's right. Any communicative act is exerting forces on you which transform you.
+
+[1:01:12] Michael Levin: Yeah.
+
+[1:01:13] Richard Watson: I've often said one frequency or another.
+
+[1:01:18] Chris Fields: Park therapy and drug therapy are not all that different.
+
+[1:01:22] Michael Levin: Yeah.
+
+[1:01:23] Chris Fields: We both do basically the same thing.
+
+[1:01:26] Michael Levin: Chris, I don't know if you were at that lab meeting we had, but Fabrizio Benedetti, who gave that talk on the placebo effects, had a slide that said, "Drugs and words have the same mechanism of action." He gave an hour-long lecture, and it was absolutely amazing.
+
+[1:01:48] Chris Fields: I didn't see that. That's very cool.
+
+[1:01:51] Michael Levin: It was fantastic. He didn't want us to record it, so I don't have a recording of it, but it was really good.
