@@ -1,0 +1,27 @@
+name: Levinverse eval fixtures
+on:
+  pull_request:
+    paths:
+      - "evals/**"
+      - ".github/workflows/levinverse-evals.yml"
+  push:
+    branches:
+      - research/hpl-2026-text-audited-eval
+    paths:
+      - "evals/**"
+      - ".github/workflows/levinverse-evals.yml"
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate source-grounded evaluation fixtures
+        run: python evals/validate.py
+      - name: Run offline tests
+        run: python -m unittest discover -s evals/tests -v

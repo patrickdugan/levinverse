@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "dataset": "HPL26 public protocol holdout",
+  "generated_date": "2026-10-29",
+  "source": {
+    "id": "hpl-2026-10-28-levin",
+    "title": "Where Does Genius Come From? | Michael Levin",
+    "show": "Human Potential Lab",
+    "host": "Scott Barry Kaufman",
+    "guest": "Michael Levin",
+    "published_date": "2026-10-28",
+    "approximate_duration_seconds": 3736,
+    "landing_pages": [
+      "https://podcasts.apple.com/us/podcast/human-potential-lab/id942777522",
+      "https://castbox.fm/channel/The-Psychology-Podcast-id1639",
+      "https://www.thefabulous.co/pod/psychology-podcast/michael-levin-on-bioelectricity-and-genius/"
+    ],
+    "video_url": null,
+    "video_id": null,
+    "provenance": {
+      "kind": "user_supplied_timestamped_text",
+      "original_filename": "Pasted text(20261029-084925).txt",
+      "sha256": "874bac7357da3941a80c3bfb91c5fe4a4148b0012f4a851caae7f99e8ae36caf",
+      "timebase": "approximate subtitle positions",
+      "speaker_diarization": "not_performed",
+      "media_playback_verification": "pending"
+    },
+    "publication": {
+      "full_transcript_in_repo": false,
+      "rights_to_republish_full_text": "not_established",
+      "published_artifacts": "new paraphrases, short correction tokens and evaluation questions"
+    },
+    "split": "public_protocol_holdout",
+    "training_exclusion": true,
+    "caveat": "Public gold questions may contaminate future training; retain an undisclosed final test set."
+  },
+  "record_counts": {
+    "claims": 28,
+    "transcript_correction_candidates": 16,
+    "questions": 16
+  }
+}
