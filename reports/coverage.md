@@ -1,17 +1,17 @@
 # Corpus coverage report
 
-Generated: 2026-10-29T16:09:07.678346+00:00
+Generated: 2026-10-29T17:05:22.055778+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
 ## Coverage
 
 - Cataloged video uploads: **388**
-- Provisional appearance records (not deduplicated): **459**
+- Provisional appearance records (not deduplicated): **461**
 - Unique appearance count: **not verified**
 - Duplicate video-ID rows merged: **0**
 - Confirmed cross-upload duplicates: **0 (identity review pending)**
-- Transcript text files stored in this repository: **299**
+- Transcript text files stored in this repository: **301**
 - External transcript links identified: **218**
 - Caption availability confirmed missing: **0**
 - Caption availability not checked: **387**
@@ -33,8 +33,8 @@ Generated: 2026-10-29T16:09:07.678346+00:00
 - unavailable: 29
 - unknown: 139
 
-- Distinct transcript texts: **299**
-- Words in stored text files: **3,124,304**
+- Distinct transcript texts: **301**
+- Words in stored text files: **3,152,369**
 - Publisher transcript source records stored: **203**
 - Video IDs with stored text: **218**
 - Video IDs still awaiting text: **170**

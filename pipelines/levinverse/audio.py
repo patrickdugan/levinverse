@@ -6,6 +6,8 @@ import hashlib
 import json
 import re
 import os
+import socket
+import urllib.error
 import urllib.request
 from contextlib import contextmanager
 from datetime import datetime, timedelta, timezone
@@ -132,6 +134,7 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
     if permissions.get("audio_processing_authorized") is not True or not authorization_basis(root):
         raise PermissionError("Audio processing and transcript storage must both be authorized")
     result = {"attempted": 0, "transcribed": 0, "reused": 0, "failed": 0}
+    consecutive_dns_failures = 0
     worker_path = root / "reports/audio-worker.json"
     worker_path.parent.mkdir(parents=True, exist_ok=True)
     def checkpoint_worker(status="running", job_id=None):
@@ -179,12 +182,18 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             else:
                 upsert(root / "catalog/appearances.jsonl", [{"appearance_id": job["job_id"], "video_ids": [], "title": job["title"], "source_url": job["source_url"], "transcript_status": "local_whisper_stored", "transcript_path": job["transcript_path"], "appearance_type": "publisher_audio"}], "appearance_id")
             result["reused" if duplicate else "transcribed"] += 1
+            consecutive_dns_failures = 0
         except Exception as exc:
             job.update(status="failed", reason=str(exc), retry_after=(datetime.now(timezone.utc) + timedelta(hours=1)).isoformat())
             result["failed"] += 1
+            cause = exc.reason if isinstance(exc, urllib.error.URLError) else exc
+            consecutive_dns_failures = consecutive_dns_failures + 1 if isinstance(cause, socket.gaierror) else 0
             print(json.dumps({"job_id": job["job_id"], "status": "failed", "reason": str(exc)}, ensure_ascii=True), flush=True)
         upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
         checkpoint_worker(job_id=job["job_id"])
+        if consecutive_dns_failures >= 2:
+            result["stopped_reason"] = "Two consecutive DNS resolution failures; remaining jobs deferred"
+            break
     checkpoint_worker(status="completed")
     return result
 

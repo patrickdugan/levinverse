@@ -1,7 +1,9 @@
 import hashlib
 import json
+import socket
 import tempfile
 import unittest
+from urllib.error import URLError
 from pathlib import Path
 from unittest.mock import patch
 
@@ -10,6 +12,19 @@ from levinverse.store import read_jsonl, upsert
 
 
 class AudioTests(unittest.TestCase):
+    def test_repeated_dns_failures_leave_remaining_jobs_pending(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"audio_processing_authorized": True, "transcript_storage_authorized": True, "authorization_basis": "Fixture permission"}))
+            jobs = [{"job_id": str(i), "media_id": str(i), "status": "pending", "audio_url": f"https://example.org/{i}.mp3"} for i in range(3)]
+            upsert(root / "catalog/audio-queue.jsonl", jobs, "job_id")
+            with patch("levinverse.audio.download", side_effect=URLError(socket.gaierror(11001, "fixture DNS failure"))):
+                result = run(root, limit=3)
+            self.assertEqual(2, result["failed"])
+            self.assertIn("DNS resolution", result["stopped_reason"])
+            self.assertEqual(["failed", "failed", "pending"], [j["status"] for j in read_jsonl(root / "catalog/audio-queue.jsonl")])
+
     def test_one_audio_worker_per_corpus_and_lock_releases(self):
         with tempfile.TemporaryDirectory(dir="tests") as folder:
             root = Path(folder)
