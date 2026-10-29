@@ -1,7 +1,7 @@
 {
   "caption_availability_confirmed_missing": 0,
-  "caption_availability_not_checked": 34,
-  "caption_checks_blocked_by_missing_tools": 1,
+  "caption_availability_not_checked": 1,
+  "caption_checks_blocked_by_missing_tools": 0,
   "caption_retrieval_failures": 0,
   "caption_storage_skipped_pending_rights_review": 0,
   "cataloged_video_uploads": 35,
@@ -9,13 +9,28 @@
   "duplicate_identity_review_complete": false,
   "duplicate_video_id_rows_merged": 0,
   "external_transcript_links": 2,
-  "generated_at": "2026-10-29T06:52:10.996600+00:00",
+  "generated_at": "2026-10-29T08:52:47.913694+00:00",
   "metadata_checks_blocked_by_missing_tools": 0,
   "metadata_enrichment_failures": 0,
   "persistent_worker_running": false,
   "provisional_appearance_records": 36,
-  "scope": "bounded seed catalog; not an exhaustive crawl",
+  "scope": "35 unique cataloged video uploads; one-time headless UI panel check; not exhaustive",
   "source_index_fetch_failures": 1,
-  "transcripts_stored_locally": 0,
-  "unique_appearance_count": null
+  "transcripts_stored_by_source_type": {
+    "publisher_hosted": 1,
+    "video_transcript_panel": 0
+  },
+  "transcripts_stored_locally": 1,
+  "unique_appearance_count": null,
+  "video_transcript_checks_completed": 34,
+  "video_transcript_checks_deferred": 1,
+  "video_transcript_checks_failed": 0,
+  "video_transcript_panels_saved": 0,
+  "video_transcript_panels_unavailable": 34,
+  "video_transcript_status_counts": {
+    "deferred": 1,
+    "failed": 0,
+    "saved": 0,
+    "unavailable": 34
+  }
 }

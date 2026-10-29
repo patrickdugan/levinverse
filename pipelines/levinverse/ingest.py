@@ -2,12 +2,26 @@ from __future__ import annotations
 
 import shutil
 import subprocess
+import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
 from .store import read_jsonl, upsert
+
+
+def _yt_dlp_command() -> list[str] | None:
+    executable = shutil.which("yt-dlp")
+    if executable:
+        return [executable]
+    try:
+        from importlib.util import find_spec
+        if find_spec("yt_dlp") is not None:
+            return [sys.executable, "-m", "yt_dlp"]
+    except (ImportError, ValueError):
+        pass
+    return None
 
 
 def ingest(root: Path, captions: bool = False, limit: int | None = None, delay: float = 3.0, store_captions: bool = False) -> dict[str, int]:
@@ -36,7 +50,8 @@ def ingest(root: Path, captions: bool = False, limit: int | None = None, delay: 
             events.append({"event_id": f"rights-skip:{vid}", "event": "caption_storage_skipped", "video_id": vid, "status": "rights_review_required", "timestamp": timestamp, "reason": video["ingest"]["reason"]})
             result["rights_skipped"] += 1
             continue
-        if not shutil.which("yt-dlp"):
+        yt_dlp = _yt_dlp_command()
+        if not yt_dlp:
             timestamp = datetime.now(timezone.utc).isoformat()
             video["ingest"] = {"status": "blocked", "error": "yt-dlp is not installed", "checked_at": timestamp, "retry_after": None}
             events.append({"event_id": f"ingest:{vid}:{timestamp}", "event": "caption_attempt", "video_id": vid, "status": "blocked", "timestamp": timestamp})
@@ -49,7 +64,7 @@ def ingest(root: Path, captions: bool = False, limit: int | None = None, delay: 
             result["skipped"] += 1
             continue
         root.joinpath("transcripts/permitted").mkdir(parents=True, exist_ok=True)
-        command = ["yt-dlp", "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en,en.*", "--sub-format", "vtt", "-o", str(output_dir / "%(id)s.%(language)s.%(ext)s"), video["canonical_url"]]
+        command = [*yt_dlp, "--skip-download", "--write-subs", "--write-auto-subs", "--sub-langs", "en,en.*", "--sub-format", "vtt", "-o", str(output_dir / "%(id)s.%(language)s.%(ext)s"), video["canonical_url"]]
         completed = subprocess.run(command, capture_output=True, text=True, check=False)
         timestamp = datetime.now(timezone.utc).isoformat()
         captions_found = list(output_dir.glob(f"{vid}.en*.vtt"))

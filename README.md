@@ -22,7 +22,7 @@ python -m levinverse discover --metadata
 python -m levinverse ingest --captions --store-captions
 ```
 
-Caption files are local-only under `transcripts/permitted/` (gitignored). `--store-captions` only proceeds for entries whose `caption_storage_authorized` field is explicitly true; the default catalog does not mark any source authorized. The pipeline records caption languages, unavailable status, rights skips, failures, retry times, and source links. It never downloads full audiovisual media. Respect source terms, rate limits, copyright, and privacy.
+Caption files are written under `transcripts/permitted/` and committed only when the source record is marked `caption_storage_authorized: true`. The pipeline records caption languages, unavailable status, rights skips, failures, retry times, and source links. It never downloads full audiovisual media. Respect source terms, rate limits, copyright, and privacy. Private/local transcripts should not be included unless redistribution is authorized.
 
 For permitted local recordings, create a JSON permission record containing `permission_confirmed: true`, a `permission_basis`, and a `source_url`; put media under `media/permitted/`. Then install `python -m pip install -e ".[whisper]"` and run:
 

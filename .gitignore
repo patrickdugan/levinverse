@@ -1,8 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
-transcripts/permitted/*
-!transcripts/permitted/.gitkeep
 media/permitted/*
 !media/permitted/.gitkeep
 catalog/source_state.json
