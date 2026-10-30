@@ -1,19 +1,19 @@
 # Corpus coverage report
 
-Generated: 2026-10-30T03:21:16.654638+00:00
+Generated: 2026-10-30T03:28:19.370521+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
 ## Coverage
 
 - Cataloged video uploads: **389**
-- Provisional appearance records (not deduplicated): **510**
+- Provisional appearance records (not deduplicated): **515**
 - Unique appearance count: **not verified**
 - Duplicate video-ID rows merged: **0**
 - Confirmed cross-upload duplicates: **0 (identity review pending)**
-- In-scope transcript text files: **344**
+- In-scope transcript text files: **350**
 - Retained text files requiring participation review: **3**
-- External transcript links identified: **228**
+- External transcript links identified: **229**
 - Caption availability confirmed missing: **0**
 - Caption availability not checked: **388**
 - Caption retrieval failures: **2**
@@ -27,18 +27,18 @@ Generated: 2026-10-30T03:21:16.654638+00:00
 
 - captions_stored_locally: 2
 - deferred: 1
-- local_whisper_stored: 31
+- local_whisper_stored: 32
 - publisher_transcript_stored: 194
 - retrieval_failed: 1
 - third_party_transcript_stored: 1
 - unavailable: 27
-- unknown: 132
+- unknown: 131
 
-- Distinct transcript texts: **344**
-- Words in stored text files: **3,675,739**
+- Distinct transcript texts: **350**
+- Words in stored text files: **3,702,782**
 - Publisher transcript source records stored: **203**
-- Video IDs with stored text: **228**
-- Video IDs still awaiting text: **161**
+- Video IDs with stored text: **229**
+- Video IDs still awaiting text: **160**
 - Publisher entries requiring participation review: **14**
 - Publisher episode pages without transcript text: **25**
 

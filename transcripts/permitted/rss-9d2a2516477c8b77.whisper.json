@@ -1,0 +1,3563 @@
+{
+  "media": "media/permitted/rss-9d2a2516477c8b77.mp3",
+  "source_url": "https://soundcloud.com/ieeeras-softrobotics/clip-josh-bongard-michael-levin-self-replicating-living-robots",
+  "permission_basis": "User confirmed that all Michael Levin public-appearance transcripts are authorized for repository storage and redistribution on 2026-10-29.",
+  "media_sha256": "b110de904a5d2d50348ac5e355c933eb9e5ff8a69bec7d6e9f381eee35e954e2",
+  "audio_url": "https://pdcn.co/e/http://feeds.soundcloud.com/stream/1229328484-ieeeras-softrobotics-clip-josh-bongard-michael-levin-self-replicating-living-robots.mp3",
+  "model": "turbo",
+  "device": "cuda",
+  "compute_type": "float16",
+  "batch_size": 8,
+  "runtime_versions": {
+    "faster_whisper": "1.2.1",
+    "ctranslate2": "4.8.4",
+    "av": "18.1.0"
+  },
+  "language": "en",
+  "duration_seconds": 262.848,
+  "created_at": "2026-10-30T03:26:42.639029+00:00",
+  "speaker_diarization": "not_performed",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 24.32,
+      "text": "So one of the surprising things, one of the many surprising things for me as a roboticist about the Xenobots project, and in this case, is where is the tape and where is the machine? So is the machine the Xenobot? Is the machine the swarm of Xenobots? Is the machine the cell? Where's the tape? Is the tape the genetic instructions inside each cell that makes up a Xenobot?",
+      "speaker": null,
+      "words": [
+        {
+          "start": 0.3,
+          "end": 0.78,
+          "text": " So"
+        },
+        {
+          "start": 0.78,
+          "end": 1.12,
+          "text": " one"
+        },
+        {
+          "start": 1.12,
+          "end": 1.22,
+          "text": " of"
+        },
+        {
+          "start": 1.22,
+          "end": 1.38,
+          "text": " the"
+        },
+        {
+          "start": 1.38,
+          "end": 1.86,
+          "text": " surprising"
+        },
+        {
+          "start": 1.86,
+          "end": 2.22,
+          "text": " things,"
+        },
+        {
+          "start": 2.38,
+          "end": 2.44,
+          "text": " one"
+        },
+        {
+          "start": 2.44,
+          "end": 2.52,
+          "text": " of"
+        },
+        {
+          "start": 2.52,
+          "end": 2.6,
+          "text": " the"
+        },
+        {
+          "start": 2.6,
+          "end": 2.76,
+          "text": " many"
+        },
+        {
+          "start": 2.76,
+          "end": 3.18,
+          "text": " surprising"
+        },
+        {
+          "start": 3.18,
+          "end": 3.5,
+          "text": " things"
+        },
+        {
+          "start": 3.5,
+          "end": 3.8,
+          "text": " for"
+        },
+        {
+          "start": 3.8,
+          "end": 4.0,
+          "text": " me"
+        },
+        {
+          "start": 4.0,
+          "end": 4.18,
+          "text": " as"
+        },
+        {
+          "start": 4.18,
+          "end": 4.26,
+          "text": " a"
+        },
+        {
+          "start": 4.26,
+          "end": 5.1,
+          "text": " roboticist"
+        },
+        {
+          "start": 5.1,
+          "end": 5.62,
+          "text": " about"
+        },
+        {
+          "start": 5.62,
+          "end": 5.86,
+          "text": " the"
+        },
+        {
+          "start": 5.86,
+          "end": 6.32,
+          "text": " Xenobots"
+        },
+        {
+          "start": 6.32,
+          "end": 6.8,
+          "text": " project,"
+        },
+        {
+          "start": 6.8,
+          "end": 7.36,
+          "text": " and"
+        },
+        {
+          "start": 7.36,
+          "end": 7.6,
+          "text": " in"
+        },
+        {
+          "start": 7.6,
+          "end": 7.82,
+          "text": " this"
+        },
+        {
+          "start": 7.82,
+          "end": 8.12,
+          "text": " case,"
+        },
+        {
+          "start": 8.34,
+          "end": 8.54,
+          "text": " is"
+        },
+        {
+          "start": 8.54,
+          "end": 9.12,
+          "text": " where"
+        },
+        {
+          "start": 9.12,
+          "end": 9.32,
+          "text": " is"
+        },
+        {
+          "start": 9.32,
+          "end": 9.48,
+          "text": " the"
+        },
+        {
+          "start": 9.48,
+          "end": 9.86,
+          "text": " tape"
+        },
+        {
+          "start": 9.86,
+          "end": 10.36,
+          "text": " and"
+        },
+        {
+          "start": 10.36,
+          "end": 10.66,
+          "text": " where"
+        },
+        {
+          "start": 10.66,
+          "end": 10.86,
+          "text": " is"
+        },
+        {
+          "start": 10.86,
+          "end": 11.0,
+          "text": " the"
+        },
+        {
+          "start": 11.0,
+          "end": 11.42,
+          "text": " machine?"
+        },
+        {
+          "start": 11.8,
+          "end": 12.28,
+          "text": " So"
+        },
+        {
+          "start": 12.28,
+          "end": 12.52,
+          "text": " is"
+        },
+        {
+          "start": 12.52,
+          "end": 12.66,
+          "text": " the"
+        },
+        {
+          "start": 12.66,
+          "end": 13.12,
+          "text": " machine"
+        },
+        {
+          "start": 13.12,
+          "end": 13.38,
+          "text": " the"
+        },
+        {
+          "start": 13.38,
+          "end": 14.02,
+          "text": " Xenobot?"
+        },
+        {
+          "start": 14.08,
+          "end": 14.42,
+          "text": " Is"
+        },
+        {
+          "start": 14.42,
+          "end": 14.56,
+          "text": " the"
+        },
+        {
+          "start": 14.56,
+          "end": 14.96,
+          "text": " machine"
+        },
+        {
+          "start": 14.96,
+          "end": 15.18,
+          "text": " the"
+        },
+        {
+          "start": 15.18,
+          "end": 15.52,
+          "text": " swarm"
+        },
+        {
+          "start": 15.52,
+          "end": 15.66,
+          "text": " of"
+        },
+        {
+          "start": 15.66,
+          "end": 16.3,
+          "text": " Xenobots?"
+        },
+        {
+          "start": 16.38,
+          "end": 16.52,
+          "text": " Is"
+        },
+        {
+          "start": 16.52,
+          "end": 16.66,
+          "text": " the"
+        },
+        {
+          "start": 16.66,
+          "end": 17.06,
+          "text": " machine"
+        },
+        {
+          "start": 17.06,
+          "end": 17.3,
+          "text": " the"
+        },
+        {
+          "start": 17.3,
+          "end": 17.72,
+          "text": " cell?"
+        },
+        {
+          "start": 18.88,
+          "end": 19.36,
+          "text": " Where's"
+        },
+        {
+          "start": 19.36,
+          "end": 19.5,
+          "text": " the"
+        },
+        {
+          "start": 19.5,
+          "end": 19.82,
+          "text": " tape?"
+        },
+        {
+          "start": 19.98,
+          "end": 20.08,
+          "text": " Is"
+        },
+        {
+          "start": 20.08,
+          "end": 20.22,
+          "text": " the"
+        },
+        {
+          "start": 20.22,
+          "end": 20.46,
+          "text": " tape"
+        },
+        {
+          "start": 20.46,
+          "end": 20.64,
+          "text": " the"
+        },
+        {
+          "start": 20.64,
+          "end": 20.94,
+          "text": " genetic"
+        },
+        {
+          "start": 20.94,
+          "end": 21.6,
+          "text": " instructions"
+        },
+        {
+          "start": 21.6,
+          "end": 22.26,
+          "text": " inside"
+        },
+        {
+          "start": 22.26,
+          "end": 22.7,
+          "text": " each"
+        },
+        {
+          "start": 22.7,
+          "end": 22.96,
+          "text": " cell"
+        },
+        {
+          "start": 22.96,
+          "end": 23.14,
+          "text": " that"
+        },
+        {
+          "start": 23.14,
+          "end": 23.38,
+          "text": " makes"
+        },
+        {
+          "start": 23.38,
+          "end": 23.58,
+          "text": " up"
+        },
+        {
+          "start": 23.58,
+          "end": 23.72,
+          "text": " a"
+        },
+        {
+          "start": 23.72,
+          "end": 24.32,
+          "text": " Xenobot?"
+        }
+      ]
+    },
+    {
+      "start": 24.63,
+      "end": 54.25,
+      "text": "You could probably argue for and against that. To me, at least, it's not clear that there is a clear distinction between tape and machine in the current self-replicating xenobots. So we're already in the land of non-intuitiveness. It's not really clear how things operate in this design space, which is why it makes sense to bring in an AI to try and design simulated xenobots that self-replicate in a simulated Petri dish.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 24.63,
+          "end": 24.91,
+          "text": " You"
+        },
+        {
+          "start": 24.91,
+          "end": 25.07,
+          "text": " could"
+        },
+        {
+          "start": 25.07,
+          "end": 25.47,
+          "text": " probably"
+        },
+        {
+          "start": 25.47,
+          "end": 25.91,
+          "text": " argue"
+        },
+        {
+          "start": 25.91,
+          "end": 26.29,
+          "text": " for"
+        },
+        {
+          "start": 26.29,
+          "end": 26.51,
+          "text": " and"
+        },
+        {
+          "start": 26.51,
+          "end": 26.87,
+          "text": " against"
+        },
+        {
+          "start": 26.87,
+          "end": 27.19,
+          "text": " that."
+        },
+        {
+          "start": 27.49,
+          "end": 27.61,
+          "text": " To"
+        },
+        {
+          "start": 27.61,
+          "end": 27.85,
+          "text": " me,"
+        },
+        {
+          "start": 27.89,
+          "end": 28.03,
+          "text": " at"
+        },
+        {
+          "start": 28.03,
+          "end": 28.23,
+          "text": " least,"
+        },
+        {
+          "start": 28.33,
+          "end": 28.51,
+          "text": " it's"
+        },
+        {
+          "start": 28.51,
+          "end": 28.71,
+          "text": " not"
+        },
+        {
+          "start": 28.71,
+          "end": 29.07,
+          "text": " clear"
+        },
+        {
+          "start": 29.07,
+          "end": 29.29,
+          "text": " that"
+        },
+        {
+          "start": 29.29,
+          "end": 29.45,
+          "text": " there"
+        },
+        {
+          "start": 29.45,
+          "end": 29.81,
+          "text": " is"
+        },
+        {
+          "start": 29.81,
+          "end": 30.03,
+          "text": " a"
+        },
+        {
+          "start": 30.03,
+          "end": 30.29,
+          "text": " clear"
+        },
+        {
+          "start": 30.29,
+          "end": 30.87,
+          "text": " distinction"
+        },
+        {
+          "start": 30.87,
+          "end": 31.59,
+          "text": " between"
+        },
+        {
+          "start": 31.59,
+          "end": 32.07,
+          "text": " tape"
+        },
+        {
+          "start": 32.07,
+          "end": 32.61,
+          "text": " and"
+        },
+        {
+          "start": 32.61,
+          "end": 33.03,
+          "text": " machine"
+        },
+        {
+          "start": 33.03,
+          "end": 33.99,
+          "text": " in"
+        },
+        {
+          "start": 33.99,
+          "end": 34.37,
+          "text": " the"
+        },
+        {
+          "start": 34.37,
+          "end": 34.75,
+          "text": " current"
+        },
+        {
+          "start": 34.75,
+          "end": 35.17,
+          "text": " self"
+        },
+        {
+          "start": 35.17,
+          "end": 35.75,
+          "text": "-replicating"
+        },
+        {
+          "start": 35.75,
+          "end": 36.41,
+          "text": " xenobots."
+        },
+        {
+          "start": 36.55,
+          "end": 37.03,
+          "text": " So"
+        },
+        {
+          "start": 37.03,
+          "end": 37.47,
+          "text": " we're"
+        },
+        {
+          "start": 37.47,
+          "end": 37.97,
+          "text": " already"
+        },
+        {
+          "start": 37.97,
+          "end": 38.31,
+          "text": " in"
+        },
+        {
+          "start": 38.31,
+          "end": 38.45,
+          "text": " the"
+        },
+        {
+          "start": 38.45,
+          "end": 38.81,
+          "text": " land"
+        },
+        {
+          "start": 38.81,
+          "end": 39.05,
+          "text": " of"
+        },
+        {
+          "start": 39.05,
+          "end": 39.33,
+          "text": " non"
+        },
+        {
+          "start": 39.33,
+          "end": 39.97,
+          "text": "-intuitiveness."
+        },
+        {
+          "start": 39.97,
+          "end": 40.35,
+          "text": " It's"
+        },
+        {
+          "start": 40.35,
+          "end": 40.49,
+          "text": " not"
+        },
+        {
+          "start": 40.49,
+          "end": 40.75,
+          "text": " really"
+        },
+        {
+          "start": 40.75,
+          "end": 41.11,
+          "text": " clear"
+        },
+        {
+          "start": 41.11,
+          "end": 41.43,
+          "text": " how"
+        },
+        {
+          "start": 41.43,
+          "end": 41.79,
+          "text": " things"
+        },
+        {
+          "start": 41.79,
+          "end": 42.33,
+          "text": " operate"
+        },
+        {
+          "start": 42.33,
+          "end": 42.63,
+          "text": " in"
+        },
+        {
+          "start": 42.63,
+          "end": 42.81,
+          "text": " this"
+        },
+        {
+          "start": 42.81,
+          "end": 43.19,
+          "text": " design"
+        },
+        {
+          "start": 43.19,
+          "end": 43.65,
+          "text": " space,"
+        },
+        {
+          "start": 43.65,
+          "end": 44.77,
+          "text": " which"
+        },
+        {
+          "start": 45.09,
+          "end": 45.27,
+          "text": " is"
+        },
+        {
+          "start": 45.27,
+          "end": 45.63,
+          "text": " why"
+        },
+        {
+          "start": 45.63,
+          "end": 45.93,
+          "text": " it"
+        },
+        {
+          "start": 45.93,
+          "end": 46.19,
+          "text": " makes"
+        },
+        {
+          "start": 46.19,
+          "end": 46.43,
+          "text": " sense"
+        },
+        {
+          "start": 46.43,
+          "end": 46.63,
+          "text": " to"
+        },
+        {
+          "start": 46.63,
+          "end": 46.91,
+          "text": " bring"
+        },
+        {
+          "start": 46.91,
+          "end": 47.11,
+          "text": " in"
+        },
+        {
+          "start": 47.11,
+          "end": 47.27,
+          "text": " an"
+        },
+        {
+          "start": 47.27,
+          "end": 47.59,
+          "text": " AI"
+        },
+        {
+          "start": 47.59,
+          "end": 48.07,
+          "text": " to"
+        },
+        {
+          "start": 48.07,
+          "end": 48.31,
+          "text": " try"
+        },
+        {
+          "start": 48.31,
+          "end": 48.55,
+          "text": " and"
+        },
+        {
+          "start": 48.55,
+          "end": 49.13,
+          "text": " design"
+        },
+        {
+          "start": 49.13,
+          "end": 50.43,
+          "text": " simulated"
+        },
+        {
+          "start": 50.43,
+          "end": 51.21,
+          "text": " xenobots"
+        },
+        {
+          "start": 51.21,
+          "end": 51.53,
+          "text": " that"
+        },
+        {
+          "start": 51.53,
+          "end": 52.15,
+          "text": " self"
+        },
+        {
+          "start": 52.15,
+          "end": 52.81,
+          "text": "-replicate"
+        },
+        {
+          "start": 52.81,
+          "end": 53.05,
+          "text": " in"
+        },
+        {
+          "start": 53.05,
+          "end": 53.17,
+          "text": " a"
+        },
+        {
+          "start": 53.17,
+          "end": 53.59,
+          "text": " simulated"
+        },
+        {
+          "start": 53.59,
+          "end": 53.95,
+          "text": " Petri"
+        },
+        {
+          "start": 53.95,
+          "end": 54.25,
+          "text": " dish."
+        }
+      ]
+    },
+    {
+      "start": 54.6,
+      "end": 80.69,
+      "text": "and then see whether we can take those simulated self-replicators and realize them in reality. I just wanted to continue on with this interesting topic. You know, if you look at self slash environment, it seems increasingly that it's fractal, right? There is an interesting feedback loop between self and environment all the way down. And the more I learn about Xenobots with, you know, working with Mike and his staff,",
+      "speaker": null,
+      "words": [
+        {
+          "start": 54.6,
+          "end": 54.9,
+          "text": " and"
+        },
+        {
+          "start": 54.9,
+          "end": 55.06,
+          "text": " then"
+        },
+        {
+          "start": 55.06,
+          "end": 55.36,
+          "text": " see"
+        },
+        {
+          "start": 55.36,
+          "end": 55.64,
+          "text": " whether"
+        },
+        {
+          "start": 55.64,
+          "end": 55.8,
+          "text": " we"
+        },
+        {
+          "start": 55.8,
+          "end": 55.94,
+          "text": " can"
+        },
+        {
+          "start": 55.94,
+          "end": 56.14,
+          "text": " take"
+        },
+        {
+          "start": 56.14,
+          "end": 56.38,
+          "text": " those"
+        },
+        {
+          "start": 56.38,
+          "end": 57.0,
+          "text": " simulated"
+        },
+        {
+          "start": 57.0,
+          "end": 57.36,
+          "text": " self"
+        },
+        {
+          "start": 57.36,
+          "end": 58.08,
+          "text": "-replicators"
+        },
+        {
+          "start": 58.08,
+          "end": 58.62,
+          "text": " and"
+        },
+        {
+          "start": 58.62,
+          "end": 59.02,
+          "text": " realize"
+        },
+        {
+          "start": 59.02,
+          "end": 59.32,
+          "text": " them"
+        },
+        {
+          "start": 59.32,
+          "end": 59.62,
+          "text": " in"
+        },
+        {
+          "start": 59.62,
+          "end": 60.1,
+          "text": " reality."
+        },
+        {
+          "start": 60.83,
+          "end": 61.39,
+          "text": " I"
+        },
+        {
+          "start": 61.39,
+          "end": 61.57,
+          "text": " just"
+        },
+        {
+          "start": 61.57,
+          "end": 61.81,
+          "text": " wanted"
+        },
+        {
+          "start": 61.81,
+          "end": 61.99,
+          "text": " to"
+        },
+        {
+          "start": 61.99,
+          "end": 62.59,
+          "text": " continue"
+        },
+        {
+          "start": 62.59,
+          "end": 62.93,
+          "text": " on"
+        },
+        {
+          "start": 62.93,
+          "end": 63.07,
+          "text": " with"
+        },
+        {
+          "start": 63.07,
+          "end": 63.35,
+          "text": " this"
+        },
+        {
+          "start": 63.35,
+          "end": 63.97,
+          "text": " interesting"
+        },
+        {
+          "start": 63.97,
+          "end": 64.55,
+          "text": " topic."
+        },
+        {
+          "start": 64.83,
+          "end": 65.13,
+          "text": " You"
+        },
+        {
+          "start": 65.13,
+          "end": 65.19,
+          "text": " know,"
+        },
+        {
+          "start": 65.25,
+          "end": 65.29,
+          "text": " if"
+        },
+        {
+          "start": 65.29,
+          "end": 65.37,
+          "text": " you"
+        },
+        {
+          "start": 65.37,
+          "end": 65.55,
+          "text": " look"
+        },
+        {
+          "start": 65.55,
+          "end": 65.69,
+          "text": " at"
+        },
+        {
+          "start": 65.69,
+          "end": 66.17,
+          "text": " self"
+        },
+        {
+          "start": 66.17,
+          "end": 66.61,
+          "text": " slash"
+        },
+        {
+          "start": 66.61,
+          "end": 67.29,
+          "text": " environment,"
+        },
+        {
+          "start": 67.63,
+          "end": 67.85,
+          "text": " it"
+        },
+        {
+          "start": 67.85,
+          "end": 68.67,
+          "text": " seems"
+        },
+        {
+          "start": 68.67,
+          "end": 69.21,
+          "text": " increasingly"
+        },
+        {
+          "start": 69.21,
+          "end": 69.47,
+          "text": " that"
+        },
+        {
+          "start": 69.47,
+          "end": 69.65,
+          "text": " it's"
+        },
+        {
+          "start": 69.65,
+          "end": 70.19,
+          "text": " fractal,"
+        },
+        {
+          "start": 70.33,
+          "end": 70.55,
+          "text": " right?"
+        },
+        {
+          "start": 70.65,
+          "end": 70.79,
+          "text": " There"
+        },
+        {
+          "start": 70.79,
+          "end": 70.95,
+          "text": " is"
+        },
+        {
+          "start": 70.95,
+          "end": 71.07,
+          "text": " an"
+        },
+        {
+          "start": 71.07,
+          "end": 71.63,
+          "text": " interesting"
+        },
+        {
+          "start": 71.63,
+          "end": 72.17,
+          "text": " feedback"
+        },
+        {
+          "start": 72.17,
+          "end": 72.55,
+          "text": " loop"
+        },
+        {
+          "start": 72.55,
+          "end": 72.87,
+          "text": " between"
+        },
+        {
+          "start": 72.87,
+          "end": 73.31,
+          "text": " self"
+        },
+        {
+          "start": 73.31,
+          "end": 73.47,
+          "text": " and"
+        },
+        {
+          "start": 73.47,
+          "end": 73.97,
+          "text": " environment"
+        },
+        {
+          "start": 73.97,
+          "end": 74.33,
+          "text": " all"
+        },
+        {
+          "start": 74.33,
+          "end": 74.55,
+          "text": " the"
+        },
+        {
+          "start": 74.55,
+          "end": 74.69,
+          "text": " way"
+        },
+        {
+          "start": 74.69,
+          "end": 75.05,
+          "text": " down."
+        },
+        {
+          "start": 75.25,
+          "end": 75.81,
+          "text": " And"
+        },
+        {
+          "start": 75.81,
+          "end": 76.15,
+          "text": " the"
+        },
+        {
+          "start": 76.15,
+          "end": 76.45,
+          "text": " more"
+        },
+        {
+          "start": 76.45,
+          "end": 76.83,
+          "text": " I"
+        },
+        {
+          "start": 76.83,
+          "end": 77.05,
+          "text": " learn"
+        },
+        {
+          "start": 77.05,
+          "end": 77.29,
+          "text": " about"
+        },
+        {
+          "start": 77.29,
+          "end": 77.87,
+          "text": " Xenobots"
+        },
+        {
+          "start": 77.87,
+          "end": 78.09,
+          "text": " with,"
+        },
+        {
+          "start": 78.23,
+          "end": 78.35,
+          "text": " you"
+        },
+        {
+          "start": 78.35,
+          "end": 78.45,
+          "text": " know,"
+        },
+        {
+          "start": 78.55,
+          "end": 78.83,
+          "text": " working"
+        },
+        {
+          "start": 78.83,
+          "end": 79.03,
+          "text": " with"
+        },
+        {
+          "start": 79.03,
+          "end": 79.27,
+          "text": " Mike"
+        },
+        {
+          "start": 79.27,
+          "end": 79.47,
+          "text": " and"
+        },
+        {
+          "start": 79.47,
+          "end": 80.27,
+          "text": " his"
+        },
+        {
+          "start": 80.27,
+          "end": 80.69,
+          "text": " staff,"
+        }
+      ]
+    },
+    {
+      "start": 81.42,
+      "end": 99.94,
+      "text": "the more I realized that, you know, we have really understudied fractalness in robotics. If you go to Google Scholar and type in fractal robots, next to nothing comes up. But it seems, you know, there's so much going on in living systems, as Mike mentioned, at all scales. A lot of those things are self-similar.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 81.42,
+          "end": 81.72,
+          "text": " the"
+        },
+        {
+          "start": 81.72,
+          "end": 81.94,
+          "text": " more"
+        },
+        {
+          "start": 81.94,
+          "end": 82.08,
+          "text": " I"
+        },
+        {
+          "start": 82.08,
+          "end": 82.48,
+          "text": " realized"
+        },
+        {
+          "start": 82.48,
+          "end": 82.74,
+          "text": " that,"
+        },
+        {
+          "start": 82.78,
+          "end": 82.86,
+          "text": " you"
+        },
+        {
+          "start": 82.86,
+          "end": 82.96,
+          "text": " know,"
+        },
+        {
+          "start": 83.18,
+          "end": 83.4,
+          "text": " we"
+        },
+        {
+          "start": 83.4,
+          "end": 83.78,
+          "text": " have"
+        },
+        {
+          "start": 83.78,
+          "end": 84.06,
+          "text": " really"
+        },
+        {
+          "start": 84.06,
+          "end": 85.02,
+          "text": " understudied"
+        },
+        {
+          "start": 85.02,
+          "end": 85.76,
+          "text": " fractalness"
+        },
+        {
+          "start": 85.76,
+          "end": 86.02,
+          "text": " in"
+        },
+        {
+          "start": 86.02,
+          "end": 86.44,
+          "text": " robotics."
+        },
+        {
+          "start": 86.44,
+          "end": 86.88,
+          "text": " If"
+        },
+        {
+          "start": 86.88,
+          "end": 86.96,
+          "text": " you"
+        },
+        {
+          "start": 86.96,
+          "end": 87.1,
+          "text": " go"
+        },
+        {
+          "start": 87.1,
+          "end": 87.2,
+          "text": " to"
+        },
+        {
+          "start": 87.2,
+          "end": 87.46,
+          "text": " Google"
+        },
+        {
+          "start": 87.46,
+          "end": 87.9,
+          "text": " Scholar"
+        },
+        {
+          "start": 87.9,
+          "end": 88.08,
+          "text": " and"
+        },
+        {
+          "start": 88.08,
+          "end": 88.32,
+          "text": " type"
+        },
+        {
+          "start": 88.32,
+          "end": 88.5,
+          "text": " in"
+        },
+        {
+          "start": 88.5,
+          "end": 88.96,
+          "text": " fractal"
+        },
+        {
+          "start": 88.96,
+          "end": 89.5,
+          "text": " robots,"
+        },
+        {
+          "start": 89.76,
+          "end": 89.94,
+          "text": " next"
+        },
+        {
+          "start": 89.94,
+          "end": 90.12,
+          "text": " to"
+        },
+        {
+          "start": 90.12,
+          "end": 90.52,
+          "text": " nothing"
+        },
+        {
+          "start": 90.52,
+          "end": 91.16,
+          "text": " comes"
+        },
+        {
+          "start": 91.16,
+          "end": 91.48,
+          "text": " up."
+        },
+        {
+          "start": 91.76,
+          "end": 92.22,
+          "text": " But"
+        },
+        {
+          "start": 92.22,
+          "end": 92.46,
+          "text": " it"
+        },
+        {
+          "start": 92.46,
+          "end": 92.84,
+          "text": " seems,"
+        },
+        {
+          "start": 92.98,
+          "end": 93.04,
+          "text": " you"
+        },
+        {
+          "start": 93.04,
+          "end": 93.1,
+          "text": " know,"
+        },
+        {
+          "start": 93.18,
+          "end": 93.4,
+          "text": " there's"
+        },
+        {
+          "start": 93.4,
+          "end": 93.56,
+          "text": " so"
+        },
+        {
+          "start": 93.56,
+          "end": 93.76,
+          "text": " much"
+        },
+        {
+          "start": 93.76,
+          "end": 93.98,
+          "text": " going"
+        },
+        {
+          "start": 93.98,
+          "end": 94.16,
+          "text": " on"
+        },
+        {
+          "start": 94.16,
+          "end": 94.28,
+          "text": " in"
+        },
+        {
+          "start": 94.28,
+          "end": 94.46,
+          "text": " living"
+        },
+        {
+          "start": 94.46,
+          "end": 94.96,
+          "text": " systems,"
+        },
+        {
+          "start": 95.14,
+          "end": 95.22,
+          "text": " as"
+        },
+        {
+          "start": 95.22,
+          "end": 95.4,
+          "text": " Mike"
+        },
+        {
+          "start": 95.4,
+          "end": 95.78,
+          "text": " mentioned,"
+        },
+        {
+          "start": 95.9,
+          "end": 96.04,
+          "text": " at"
+        },
+        {
+          "start": 96.04,
+          "end": 96.32,
+          "text": " all"
+        },
+        {
+          "start": 96.32,
+          "end": 96.82,
+          "text": " scales."
+        },
+        {
+          "start": 97.74,
+          "end": 98.2,
+          "text": " A"
+        },
+        {
+          "start": 98.2,
+          "end": 98.32,
+          "text": " lot"
+        },
+        {
+          "start": 98.32,
+          "end": 98.44,
+          "text": " of"
+        },
+        {
+          "start": 98.44,
+          "end": 98.68,
+          "text": " those"
+        },
+        {
+          "start": 98.68,
+          "end": 98.96,
+          "text": " things"
+        },
+        {
+          "start": 98.96,
+          "end": 99.2,
+          "text": " are"
+        },
+        {
+          "start": 99.2,
+          "end": 99.46,
+          "text": " self"
+        },
+        {
+          "start": 99.46,
+          "end": 99.94,
+          "text": "-similar."
+        }
+      ]
+    },
+    {
+      "start": 101.06,
+      "end": 127.72,
+      "text": "dissimilar, there are variations on themes as you scale up and scale down, and none of that has really been touched in robotics. We have modular robotics for a long time, a lot of interesting things going on in modular robotics. Some modular robotic systems are hierarchical, but I would argue there are little to none that are fractal. I think this is, again, another open frontier in robotics and in biobotics.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 101.06,
+          "end": 101.64,
+          "text": " dissimilar,"
+        },
+        {
+          "start": 101.8,
+          "end": 101.86,
+          "text": " there"
+        },
+        {
+          "start": 101.86,
+          "end": 102.08,
+          "text": " are"
+        },
+        {
+          "start": 102.08,
+          "end": 102.64,
+          "text": " variations"
+        },
+        {
+          "start": 102.64,
+          "end": 103.08,
+          "text": " on"
+        },
+        {
+          "start": 103.08,
+          "end": 103.6,
+          "text": " themes"
+        },
+        {
+          "start": 103.6,
+          "end": 103.98,
+          "text": " as"
+        },
+        {
+          "start": 103.98,
+          "end": 104.1,
+          "text": " you"
+        },
+        {
+          "start": 104.1,
+          "end": 104.42,
+          "text": " scale"
+        },
+        {
+          "start": 104.42,
+          "end": 104.72,
+          "text": " up"
+        },
+        {
+          "start": 104.72,
+          "end": 104.86,
+          "text": " and"
+        },
+        {
+          "start": 104.86,
+          "end": 105.16,
+          "text": " scale"
+        },
+        {
+          "start": 105.16,
+          "end": 105.56,
+          "text": " down,"
+        },
+        {
+          "start": 105.82,
+          "end": 106.14,
+          "text": " and"
+        },
+        {
+          "start": 106.14,
+          "end": 106.42,
+          "text": " none"
+        },
+        {
+          "start": 106.42,
+          "end": 106.6,
+          "text": " of"
+        },
+        {
+          "start": 106.6,
+          "end": 106.82,
+          "text": " that"
+        },
+        {
+          "start": 106.82,
+          "end": 107.02,
+          "text": " has"
+        },
+        {
+          "start": 107.02,
+          "end": 107.28,
+          "text": " really"
+        },
+        {
+          "start": 107.28,
+          "end": 107.46,
+          "text": " been"
+        },
+        {
+          "start": 107.46,
+          "end": 107.8,
+          "text": " touched"
+        },
+        {
+          "start": 107.8,
+          "end": 108.1,
+          "text": " in"
+        },
+        {
+          "start": 108.1,
+          "end": 108.52,
+          "text": " robotics."
+        },
+        {
+          "start": 108.92,
+          "end": 109.44,
+          "text": " We"
+        },
+        {
+          "start": 109.44,
+          "end": 109.6,
+          "text": " have"
+        },
+        {
+          "start": 109.6,
+          "end": 110.12,
+          "text": " modular"
+        },
+        {
+          "start": 110.12,
+          "end": 110.66,
+          "text": " robotics"
+        },
+        {
+          "start": 110.66,
+          "end": 111.06,
+          "text": " for"
+        },
+        {
+          "start": 111.06,
+          "end": 111.18,
+          "text": " a"
+        },
+        {
+          "start": 111.18,
+          "end": 111.34,
+          "text": " long"
+        },
+        {
+          "start": 111.34,
+          "end": 111.68,
+          "text": " time,"
+        },
+        {
+          "start": 111.82,
+          "end": 111.86,
+          "text": " a"
+        },
+        {
+          "start": 111.86,
+          "end": 111.94,
+          "text": " lot"
+        },
+        {
+          "start": 111.94,
+          "end": 112.04,
+          "text": " of"
+        },
+        {
+          "start": 112.04,
+          "end": 112.54,
+          "text": " interesting"
+        },
+        {
+          "start": 112.54,
+          "end": 112.98,
+          "text": " things"
+        },
+        {
+          "start": 112.98,
+          "end": 113.2,
+          "text": " going"
+        },
+        {
+          "start": 113.2,
+          "end": 113.38,
+          "text": " on"
+        },
+        {
+          "start": 113.38,
+          "end": 113.52,
+          "text": " in"
+        },
+        {
+          "start": 113.52,
+          "end": 113.88,
+          "text": " modular"
+        },
+        {
+          "start": 113.88,
+          "end": 114.42,
+          "text": " robotics."
+        },
+        {
+          "start": 114.68,
+          "end": 115.16,
+          "text": " Some"
+        },
+        {
+          "start": 115.16,
+          "end": 115.62,
+          "text": " modular"
+        },
+        {
+          "start": 115.62,
+          "end": 116.04,
+          "text": " robotic"
+        },
+        {
+          "start": 116.04,
+          "end": 116.54,
+          "text": " systems"
+        },
+        {
+          "start": 116.54,
+          "end": 116.84,
+          "text": " are"
+        },
+        {
+          "start": 116.84,
+          "end": 117.7,
+          "text": " hierarchical,"
+        },
+        {
+          "start": 118.0,
+          "end": 118.94,
+          "text": " but"
+        },
+        {
+          "start": 118.94,
+          "end": 119.22,
+          "text": " I"
+        },
+        {
+          "start": 119.22,
+          "end": 119.38,
+          "text": " would"
+        },
+        {
+          "start": 119.38,
+          "end": 119.66,
+          "text": " argue"
+        },
+        {
+          "start": 119.66,
+          "end": 119.88,
+          "text": " there"
+        },
+        {
+          "start": 119.88,
+          "end": 120.06,
+          "text": " are"
+        },
+        {
+          "start": 120.06,
+          "end": 120.3,
+          "text": " little"
+        },
+        {
+          "start": 120.3,
+          "end": 120.56,
+          "text": " to"
+        },
+        {
+          "start": 120.56,
+          "end": 120.92,
+          "text": " none"
+        },
+        {
+          "start": 120.92,
+          "end": 121.32,
+          "text": " that"
+        },
+        {
+          "start": 121.32,
+          "end": 121.6,
+          "text": " are"
+        },
+        {
+          "start": 121.6,
+          "end": 122.26,
+          "text": " fractal."
+        },
+        {
+          "start": 122.36,
+          "end": 122.5,
+          "text": " I"
+        },
+        {
+          "start": 122.5,
+          "end": 122.66,
+          "text": " think"
+        },
+        {
+          "start": 122.66,
+          "end": 122.86,
+          "text": " this"
+        },
+        {
+          "start": 122.86,
+          "end": 123.02,
+          "text": " is,"
+        },
+        {
+          "start": 123.06,
+          "end": 123.24,
+          "text": " again,"
+        },
+        {
+          "start": 123.38,
+          "end": 123.64,
+          "text": " another"
+        },
+        {
+          "start": 123.64,
+          "end": 124.08,
+          "text": " open"
+        },
+        {
+          "start": 124.08,
+          "end": 124.68,
+          "text": " frontier"
+        },
+        {
+          "start": 124.68,
+          "end": 125.6,
+          "text": " in"
+        },
+        {
+          "start": 125.6,
+          "end": 126.08,
+          "text": " robotics"
+        },
+        {
+          "start": 126.08,
+          "end": 126.52,
+          "text": " and"
+        },
+        {
+          "start": 126.52,
+          "end": 126.86,
+          "text": " in"
+        },
+        {
+          "start": 126.86,
+          "end": 127.72,
+          "text": " biobotics."
+        }
+      ]
+    },
+    {
+      "start": 128.08,
+      "end": 155.1,
+      "text": "I think there's a deep relationship, and my conjecture is that one of the things evolution does is to pivot the same tricks across different spaces. So whereas modern advanced animals are able to use their nervous systems to solve problems in three-dimensional space and to navigate, those kinds of strategies and those competencies come from much earlier...",
+      "speaker": null,
+      "words": [
+        {
+          "start": 128.08,
+          "end": 128.26,
+          "text": " I"
+        },
+        {
+          "start": 128.26,
+          "end": 128.34,
+          "text": " think"
+        },
+        {
+          "start": 128.34,
+          "end": 128.56,
+          "text": " there's"
+        },
+        {
+          "start": 128.56,
+          "end": 128.64,
+          "text": " a"
+        },
+        {
+          "start": 128.64,
+          "end": 128.84,
+          "text": " deep"
+        },
+        {
+          "start": 128.84,
+          "end": 129.34,
+          "text": " relationship,"
+        },
+        {
+          "start": 129.36,
+          "end": 129.92,
+          "text": " and"
+        },
+        {
+          "start": 129.92,
+          "end": 130.52,
+          "text": " my"
+        },
+        {
+          "start": 130.52,
+          "end": 131.26,
+          "text": " conjecture"
+        },
+        {
+          "start": 131.26,
+          "end": 131.68,
+          "text": " is"
+        },
+        {
+          "start": 131.68,
+          "end": 132.08,
+          "text": " that"
+        },
+        {
+          "start": 132.08,
+          "end": 133.32,
+          "text": " one"
+        },
+        {
+          "start": 133.32,
+          "end": 134.7,
+          "text": " of"
+        },
+        {
+          "start": 134.7,
+          "end": 134.8,
+          "text": " the"
+        },
+        {
+          "start": 134.8,
+          "end": 134.98,
+          "text": " things"
+        },
+        {
+          "start": 134.98,
+          "end": 135.32,
+          "text": " evolution"
+        },
+        {
+          "start": 135.32,
+          "end": 135.68,
+          "text": " does"
+        },
+        {
+          "start": 135.68,
+          "end": 136.06,
+          "text": " is"
+        },
+        {
+          "start": 136.06,
+          "end": 136.4,
+          "text": " to"
+        },
+        {
+          "start": 136.4,
+          "end": 137.18,
+          "text": " pivot"
+        },
+        {
+          "start": 137.18,
+          "end": 137.4,
+          "text": " the"
+        },
+        {
+          "start": 137.4,
+          "end": 137.74,
+          "text": " same"
+        },
+        {
+          "start": 137.74,
+          "end": 138.18,
+          "text": " tricks"
+        },
+        {
+          "start": 138.18,
+          "end": 138.6,
+          "text": " across"
+        },
+        {
+          "start": 138.6,
+          "end": 138.98,
+          "text": " different"
+        },
+        {
+          "start": 138.98,
+          "end": 139.56,
+          "text": " spaces."
+        },
+        {
+          "start": 139.82,
+          "end": 140.26,
+          "text": " So"
+        },
+        {
+          "start": 140.26,
+          "end": 140.94,
+          "text": " whereas"
+        },
+        {
+          "start": 140.94,
+          "end": 141.8,
+          "text": " modern"
+        },
+        {
+          "start": 141.8,
+          "end": 142.54,
+          "text": " advanced"
+        },
+        {
+          "start": 142.54,
+          "end": 143.1,
+          "text": " animals"
+        },
+        {
+          "start": 143.1,
+          "end": 144.08,
+          "text": " are"
+        },
+        {
+          "start": 144.08,
+          "end": 144.4,
+          "text": " able"
+        },
+        {
+          "start": 144.4,
+          "end": 144.68,
+          "text": " to"
+        },
+        {
+          "start": 144.68,
+          "end": 145.7,
+          "text": " use"
+        },
+        {
+          "start": 145.7,
+          "end": 145.86,
+          "text": " their"
+        },
+        {
+          "start": 145.86,
+          "end": 146.16,
+          "text": " nervous"
+        },
+        {
+          "start": 146.16,
+          "end": 146.54,
+          "text": " systems"
+        },
+        {
+          "start": 146.54,
+          "end": 146.8,
+          "text": " to"
+        },
+        {
+          "start": 146.8,
+          "end": 147.14,
+          "text": " solve"
+        },
+        {
+          "start": 147.14,
+          "end": 147.54,
+          "text": " problems"
+        },
+        {
+          "start": 147.54,
+          "end": 147.7,
+          "text": " in"
+        },
+        {
+          "start": 147.7,
+          "end": 147.88,
+          "text": " three"
+        },
+        {
+          "start": 147.88,
+          "end": 148.24,
+          "text": "-dimensional"
+        },
+        {
+          "start": 148.24,
+          "end": 148.64,
+          "text": " space"
+        },
+        {
+          "start": 148.64,
+          "end": 148.82,
+          "text": " and"
+        },
+        {
+          "start": 148.82,
+          "end": 148.9,
+          "text": " to"
+        },
+        {
+          "start": 148.9,
+          "end": 149.26,
+          "text": " navigate,"
+        },
+        {
+          "start": 149.52,
+          "end": 150.2,
+          "text": " those"
+        },
+        {
+          "start": 150.2,
+          "end": 151.14,
+          "text": " kinds"
+        },
+        {
+          "start": 151.14,
+          "end": 151.56,
+          "text": " of"
+        },
+        {
+          "start": 151.56,
+          "end": 152.3,
+          "text": " strategies"
+        },
+        {
+          "start": 152.3,
+          "end": 152.6,
+          "text": " and"
+        },
+        {
+          "start": 152.6,
+          "end": 152.78,
+          "text": " those"
+        },
+        {
+          "start": 152.78,
+          "end": 153.42,
+          "text": " competencies"
+        },
+        {
+          "start": 153.42,
+          "end": 153.98,
+          "text": " come"
+        },
+        {
+          "start": 153.98,
+          "end": 154.26,
+          "text": " from"
+        },
+        {
+          "start": 154.26,
+          "end": 154.64,
+          "text": " much"
+        },
+        {
+          "start": 154.64,
+          "end": 155.1,
+          "text": " earlier..."
+        }
+      ]
+    },
+    {
+      "start": 155.53,
+      "end": 183.31,
+      "text": "kinds of creatures that were using the same strategies to navigate other spaces, for example, Morpha space, the space of possible anatomical layouts. And this is one reason we study bioelectricity, because long before brains and neurons showed up, cells were forming, non-neural cells were forming electrical networks that could store memories, that could take measurements, that could do simple computations to manage the shape of the organism. And before that, we had individual cells.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 155.53,
+          "end": 156.13,
+          "text": " kinds"
+        },
+        {
+          "start": 156.13,
+          "end": 156.39,
+          "text": " of"
+        },
+        {
+          "start": 156.39,
+          "end": 157.11,
+          "text": " creatures"
+        },
+        {
+          "start": 157.11,
+          "end": 157.41,
+          "text": " that"
+        },
+        {
+          "start": 157.41,
+          "end": 157.55,
+          "text": " were"
+        },
+        {
+          "start": 157.55,
+          "end": 157.83,
+          "text": " using"
+        },
+        {
+          "start": 157.83,
+          "end": 158.01,
+          "text": " the"
+        },
+        {
+          "start": 158.01,
+          "end": 158.31,
+          "text": " same"
+        },
+        {
+          "start": 158.31,
+          "end": 159.15,
+          "text": " strategies"
+        },
+        {
+          "start": 159.15,
+          "end": 159.41,
+          "text": " to"
+        },
+        {
+          "start": 159.41,
+          "end": 159.77,
+          "text": " navigate"
+        },
+        {
+          "start": 159.77,
+          "end": 160.05,
+          "text": " other"
+        },
+        {
+          "start": 160.05,
+          "end": 160.45,
+          "text": " spaces,"
+        },
+        {
+          "start": 160.57,
+          "end": 160.67,
+          "text": " for"
+        },
+        {
+          "start": 160.67,
+          "end": 160.91,
+          "text": " example,"
+        },
+        {
+          "start": 161.09,
+          "end": 161.29,
+          "text": " Morpha"
+        },
+        {
+          "start": 161.29,
+          "end": 161.59,
+          "text": " space,"
+        },
+        {
+          "start": 161.71,
+          "end": 161.77,
+          "text": " the"
+        },
+        {
+          "start": 161.77,
+          "end": 162.65,
+          "text": " space"
+        },
+        {
+          "start": 162.65,
+          "end": 162.83,
+          "text": " of"
+        },
+        {
+          "start": 162.83,
+          "end": 163.21,
+          "text": " possible"
+        },
+        {
+          "start": 163.21,
+          "end": 163.87,
+          "text": " anatomical"
+        },
+        {
+          "start": 163.87,
+          "end": 164.21,
+          "text": " layouts."
+        },
+        {
+          "start": 164.37,
+          "end": 164.67,
+          "text": " And"
+        },
+        {
+          "start": 164.67,
+          "end": 164.79,
+          "text": " this"
+        },
+        {
+          "start": 164.79,
+          "end": 164.91,
+          "text": " is"
+        },
+        {
+          "start": 164.91,
+          "end": 165.05,
+          "text": " one"
+        },
+        {
+          "start": 165.05,
+          "end": 165.29,
+          "text": " reason"
+        },
+        {
+          "start": 165.29,
+          "end": 165.49,
+          "text": " we"
+        },
+        {
+          "start": 165.49,
+          "end": 165.81,
+          "text": " study"
+        },
+        {
+          "start": 165.81,
+          "end": 166.55,
+          "text": " bioelectricity,"
+        },
+        {
+          "start": 166.63,
+          "end": 166.97,
+          "text": " because"
+        },
+        {
+          "start": 166.97,
+          "end": 167.83,
+          "text": " long"
+        },
+        {
+          "start": 167.83,
+          "end": 168.21,
+          "text": " before"
+        },
+        {
+          "start": 168.21,
+          "end": 168.71,
+          "text": " brains"
+        },
+        {
+          "start": 168.71,
+          "end": 168.91,
+          "text": " and"
+        },
+        {
+          "start": 168.91,
+          "end": 169.25,
+          "text": " neurons"
+        },
+        {
+          "start": 169.25,
+          "end": 169.55,
+          "text": " showed"
+        },
+        {
+          "start": 169.55,
+          "end": 169.81,
+          "text": " up,"
+        },
+        {
+          "start": 170.39,
+          "end": 170.43,
+          "text": " cells"
+        },
+        {
+          "start": 170.43,
+          "end": 170.65,
+          "text": " were"
+        },
+        {
+          "start": 170.65,
+          "end": 171.39,
+          "text": " forming,"
+        },
+        {
+          "start": 171.49,
+          "end": 171.61,
+          "text": " non"
+        },
+        {
+          "start": 171.61,
+          "end": 171.87,
+          "text": "-neural"
+        },
+        {
+          "start": 171.87,
+          "end": 172.15,
+          "text": " cells"
+        },
+        {
+          "start": 172.15,
+          "end": 172.33,
+          "text": " were"
+        },
+        {
+          "start": 172.33,
+          "end": 172.71,
+          "text": " forming"
+        },
+        {
+          "start": 172.71,
+          "end": 173.11,
+          "text": " electrical"
+        },
+        {
+          "start": 173.11,
+          "end": 173.59,
+          "text": " networks"
+        },
+        {
+          "start": 173.59,
+          "end": 174.07,
+          "text": " that"
+        },
+        {
+          "start": 174.07,
+          "end": 174.25,
+          "text": " could"
+        },
+        {
+          "start": 174.25,
+          "end": 174.53,
+          "text": " store"
+        },
+        {
+          "start": 174.53,
+          "end": 174.89,
+          "text": " memories,"
+        },
+        {
+          "start": 174.95,
+          "end": 175.07,
+          "text": " that"
+        },
+        {
+          "start": 175.07,
+          "end": 175.19,
+          "text": " could"
+        },
+        {
+          "start": 175.19,
+          "end": 175.39,
+          "text": " take"
+        },
+        {
+          "start": 175.39,
+          "end": 175.79,
+          "text": " measurements,"
+        },
+        {
+          "start": 175.97,
+          "end": 176.03,
+          "text": " that"
+        },
+        {
+          "start": 176.03,
+          "end": 176.17,
+          "text": " could"
+        },
+        {
+          "start": 176.17,
+          "end": 176.31,
+          "text": " do"
+        },
+        {
+          "start": 176.31,
+          "end": 176.65,
+          "text": " simple"
+        },
+        {
+          "start": 176.65,
+          "end": 177.39,
+          "text": " computations"
+        },
+        {
+          "start": 177.39,
+          "end": 177.99,
+          "text": " to"
+        },
+        {
+          "start": 177.99,
+          "end": 178.61,
+          "text": " manage"
+        },
+        {
+          "start": 178.61,
+          "end": 178.91,
+          "text": " the"
+        },
+        {
+          "start": 178.91,
+          "end": 179.19,
+          "text": " shape"
+        },
+        {
+          "start": 179.19,
+          "end": 179.69,
+          "text": " of"
+        },
+        {
+          "start": 179.69,
+          "end": 180.11,
+          "text": " the"
+        },
+        {
+          "start": 180.11,
+          "end": 180.51,
+          "text": " organism."
+        },
+        {
+          "start": 180.73,
+          "end": 181.07,
+          "text": " And"
+        },
+        {
+          "start": 181.07,
+          "end": 181.33,
+          "text": " before"
+        },
+        {
+          "start": 181.33,
+          "end": 181.67,
+          "text": " that,"
+        },
+        {
+          "start": 181.69,
+          "end": 182.03,
+          "text": " we"
+        },
+        {
+          "start": 182.03,
+          "end": 182.33,
+          "text": " had"
+        },
+        {
+          "start": 182.33,
+          "end": 182.77,
+          "text": " individual"
+        },
+        {
+          "start": 182.77,
+          "end": 183.31,
+          "text": " cells."
+        }
+      ]
+    },
+    {
+      "start": 183.57,
+      "end": 213.21,
+      "text": "that were using some very similar processes. It's actually amazing how, you know, we were just talking about, Josh was mentioning this fractal nature. It's a little known fact that some of the complex rules by which large things like limbs, like salamander limbs, for example, regenerate, there's this interesting clock face model rule, this positional information kind of system. Those same systems seem to work very similarly in single cells.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 183.57,
+          "end": 183.89,
+          "text": " that"
+        },
+        {
+          "start": 183.89,
+          "end": 184.25,
+          "text": " were"
+        },
+        {
+          "start": 184.25,
+          "end": 185.13,
+          "text": " using"
+        },
+        {
+          "start": 185.13,
+          "end": 185.39,
+          "text": " some"
+        },
+        {
+          "start": 185.39,
+          "end": 185.69,
+          "text": " very"
+        },
+        {
+          "start": 185.69,
+          "end": 186.05,
+          "text": " similar"
+        },
+        {
+          "start": 186.05,
+          "end": 186.57,
+          "text": " processes."
+        },
+        {
+          "start": 186.57,
+          "end": 186.89,
+          "text": " It's"
+        },
+        {
+          "start": 186.89,
+          "end": 187.09,
+          "text": " actually"
+        },
+        {
+          "start": 187.09,
+          "end": 187.57,
+          "text": " amazing"
+        },
+        {
+          "start": 187.57,
+          "end": 187.81,
+          "text": " how,"
+        },
+        {
+          "start": 187.91,
+          "end": 187.95,
+          "text": " you"
+        },
+        {
+          "start": 187.95,
+          "end": 187.99,
+          "text": " know,"
+        },
+        {
+          "start": 188.07,
+          "end": 188.09,
+          "text": " we"
+        },
+        {
+          "start": 188.09,
+          "end": 188.19,
+          "text": " were"
+        },
+        {
+          "start": 188.19,
+          "end": 188.35,
+          "text": " just"
+        },
+        {
+          "start": 188.35,
+          "end": 188.61,
+          "text": " talking"
+        },
+        {
+          "start": 188.61,
+          "end": 188.87,
+          "text": " about,"
+        },
+        {
+          "start": 189.73,
+          "end": 190.17,
+          "text": " Josh"
+        },
+        {
+          "start": 190.17,
+          "end": 190.37,
+          "text": " was"
+        },
+        {
+          "start": 190.37,
+          "end": 190.63,
+          "text": " mentioning"
+        },
+        {
+          "start": 190.63,
+          "end": 190.99,
+          "text": " this"
+        },
+        {
+          "start": 190.99,
+          "end": 191.65,
+          "text": " fractal"
+        },
+        {
+          "start": 191.65,
+          "end": 191.93,
+          "text": " nature."
+        },
+        {
+          "start": 192.97,
+          "end": 193.53,
+          "text": " It's"
+        },
+        {
+          "start": 193.53,
+          "end": 193.61,
+          "text": " a"
+        },
+        {
+          "start": 193.61,
+          "end": 193.77,
+          "text": " little"
+        },
+        {
+          "start": 193.77,
+          "end": 193.95,
+          "text": " known"
+        },
+        {
+          "start": 193.95,
+          "end": 194.31,
+          "text": " fact"
+        },
+        {
+          "start": 194.31,
+          "end": 194.55,
+          "text": " that"
+        },
+        {
+          "start": 194.55,
+          "end": 195.57,
+          "text": " some"
+        },
+        {
+          "start": 195.57,
+          "end": 195.65,
+          "text": " of"
+        },
+        {
+          "start": 195.65,
+          "end": 195.75,
+          "text": " the"
+        },
+        {
+          "start": 195.75,
+          "end": 196.21,
+          "text": " complex"
+        },
+        {
+          "start": 196.21,
+          "end": 196.93,
+          "text": " rules"
+        },
+        {
+          "start": 196.93,
+          "end": 197.25,
+          "text": " by"
+        },
+        {
+          "start": 197.25,
+          "end": 197.59,
+          "text": " which"
+        },
+        {
+          "start": 197.59,
+          "end": 198.27,
+          "text": " large"
+        },
+        {
+          "start": 198.27,
+          "end": 198.59,
+          "text": " things"
+        },
+        {
+          "start": 198.59,
+          "end": 198.85,
+          "text": " like"
+        },
+        {
+          "start": 198.85,
+          "end": 199.19,
+          "text": " limbs,"
+        },
+        {
+          "start": 199.39,
+          "end": 199.51,
+          "text": " like"
+        },
+        {
+          "start": 199.51,
+          "end": 200.19,
+          "text": " salamander"
+        },
+        {
+          "start": 200.19,
+          "end": 200.45,
+          "text": " limbs,"
+        },
+        {
+          "start": 200.53,
+          "end": 200.61,
+          "text": " for"
+        },
+        {
+          "start": 200.61,
+          "end": 200.85,
+          "text": " example,"
+        },
+        {
+          "start": 201.05,
+          "end": 201.51,
+          "text": " regenerate,"
+        },
+        {
+          "start": 201.73,
+          "end": 201.97,
+          "text": " there's"
+        },
+        {
+          "start": 201.97,
+          "end": 202.09,
+          "text": " this"
+        },
+        {
+          "start": 202.09,
+          "end": 202.49,
+          "text": " interesting"
+        },
+        {
+          "start": 202.49,
+          "end": 202.79,
+          "text": " clock"
+        },
+        {
+          "start": 202.79,
+          "end": 203.11,
+          "text": " face"
+        },
+        {
+          "start": 203.11,
+          "end": 203.49,
+          "text": " model"
+        },
+        {
+          "start": 203.49,
+          "end": 203.77,
+          "text": " rule,"
+        },
+        {
+          "start": 203.93,
+          "end": 203.99,
+          "text": " this"
+        },
+        {
+          "start": 203.99,
+          "end": 204.73,
+          "text": " positional"
+        },
+        {
+          "start": 204.73,
+          "end": 208.05,
+          "text": " information"
+        },
+        {
+          "start": 208.05,
+          "end": 208.43,
+          "text": " kind"
+        },
+        {
+          "start": 208.43,
+          "end": 208.59,
+          "text": " of"
+        },
+        {
+          "start": 208.59,
+          "end": 208.97,
+          "text": " system."
+        },
+        {
+          "start": 209.29,
+          "end": 209.73,
+          "text": " Those"
+        },
+        {
+          "start": 209.73,
+          "end": 209.99,
+          "text": " same"
+        },
+        {
+          "start": 209.99,
+          "end": 210.49,
+          "text": " systems"
+        },
+        {
+          "start": 210.49,
+          "end": 211.27,
+          "text": " seem"
+        },
+        {
+          "start": 211.27,
+          "end": 211.45,
+          "text": " to"
+        },
+        {
+          "start": 211.45,
+          "end": 211.63,
+          "text": " work"
+        },
+        {
+          "start": 211.63,
+          "end": 211.85,
+          "text": " very"
+        },
+        {
+          "start": 211.85,
+          "end": 212.27,
+          "text": " similarly"
+        },
+        {
+          "start": 212.27,
+          "end": 212.55,
+          "text": " in"
+        },
+        {
+          "start": 212.55,
+          "end": 212.87,
+          "text": " single"
+        },
+        {
+          "start": 212.87,
+          "end": 213.21,
+          "text": " cells."
+        }
+      ]
+    },
+    {
+      "start": 213.47,
+      "end": 239.95,
+      "text": "in regeneration of single cells. So some single cells are highly patterned. So things like stentor or paramecium, you know, they're not just shapeless amoebas. They have very intricate patterns and they're able to regenerate those patterns. And the errors they make in doing that look very much like the kind of errors that are made by very large systems. And so I really do think that biology exploits, and there are many other examples, I think biology really exploits this kind of fractal thing.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 213.47,
+          "end": 213.69,
+          "text": " in"
+        },
+        {
+          "start": 213.69,
+          "end": 214.07,
+          "text": " regeneration"
+        },
+        {
+          "start": 214.07,
+          "end": 214.41,
+          "text": " of"
+        },
+        {
+          "start": 214.41,
+          "end": 214.65,
+          "text": " single"
+        },
+        {
+          "start": 214.65,
+          "end": 214.95,
+          "text": " cells."
+        },
+        {
+          "start": 215.11,
+          "end": 215.49,
+          "text": " So"
+        },
+        {
+          "start": 215.49,
+          "end": 215.77,
+          "text": " some"
+        },
+        {
+          "start": 215.77,
+          "end": 216.39,
+          "text": " single"
+        },
+        {
+          "start": 216.39,
+          "end": 216.83,
+          "text": " cells"
+        },
+        {
+          "start": 216.83,
+          "end": 217.05,
+          "text": " are"
+        },
+        {
+          "start": 217.05,
+          "end": 217.41,
+          "text": " highly"
+        },
+        {
+          "start": 217.41,
+          "end": 217.97,
+          "text": " patterned."
+        },
+        {
+          "start": 218.11,
+          "end": 218.11,
+          "text": " So"
+        },
+        {
+          "start": 218.11,
+          "end": 218.39,
+          "text": " things"
+        },
+        {
+          "start": 218.39,
+          "end": 218.61,
+          "text": " like"
+        },
+        {
+          "start": 218.61,
+          "end": 219.21,
+          "text": " stentor"
+        },
+        {
+          "start": 219.21,
+          "end": 219.43,
+          "text": " or"
+        },
+        {
+          "start": 219.43,
+          "end": 220.03,
+          "text": " paramecium,"
+        },
+        {
+          "start": 220.25,
+          "end": 220.49,
+          "text": " you"
+        },
+        {
+          "start": 220.49,
+          "end": 220.57,
+          "text": " know,"
+        },
+        {
+          "start": 220.65,
+          "end": 220.97,
+          "text": " they're"
+        },
+        {
+          "start": 220.97,
+          "end": 221.07,
+          "text": " not"
+        },
+        {
+          "start": 221.07,
+          "end": 221.33,
+          "text": " just"
+        },
+        {
+          "start": 221.33,
+          "end": 221.85,
+          "text": " shapeless"
+        },
+        {
+          "start": 221.85,
+          "end": 222.21,
+          "text": " amoebas."
+        },
+        {
+          "start": 222.33,
+          "end": 222.33,
+          "text": " They"
+        },
+        {
+          "start": 222.33,
+          "end": 222.45,
+          "text": " have"
+        },
+        {
+          "start": 222.45,
+          "end": 222.79,
+          "text": " very"
+        },
+        {
+          "start": 222.79,
+          "end": 223.15,
+          "text": " intricate"
+        },
+        {
+          "start": 223.15,
+          "end": 223.57,
+          "text": " patterns"
+        },
+        {
+          "start": 223.57,
+          "end": 223.97,
+          "text": " and"
+        },
+        {
+          "start": 223.97,
+          "end": 224.11,
+          "text": " they're"
+        },
+        {
+          "start": 224.11,
+          "end": 224.25,
+          "text": " able"
+        },
+        {
+          "start": 224.25,
+          "end": 224.39,
+          "text": " to"
+        },
+        {
+          "start": 224.39,
+          "end": 224.91,
+          "text": " regenerate"
+        },
+        {
+          "start": 224.91,
+          "end": 225.09,
+          "text": " those"
+        },
+        {
+          "start": 225.09,
+          "end": 225.41,
+          "text": " patterns."
+        },
+        {
+          "start": 225.43,
+          "end": 225.61,
+          "text": " And"
+        },
+        {
+          "start": 225.61,
+          "end": 225.71,
+          "text": " the"
+        },
+        {
+          "start": 225.71,
+          "end": 226.07,
+          "text": " errors"
+        },
+        {
+          "start": 226.07,
+          "end": 226.27,
+          "text": " they"
+        },
+        {
+          "start": 226.27,
+          "end": 226.55,
+          "text": " make"
+        },
+        {
+          "start": 226.55,
+          "end": 226.79,
+          "text": " in"
+        },
+        {
+          "start": 226.79,
+          "end": 226.99,
+          "text": " doing"
+        },
+        {
+          "start": 226.99,
+          "end": 227.25,
+          "text": " that"
+        },
+        {
+          "start": 227.25,
+          "end": 227.75,
+          "text": " look"
+        },
+        {
+          "start": 227.75,
+          "end": 228.09,
+          "text": " very"
+        },
+        {
+          "start": 228.09,
+          "end": 228.31,
+          "text": " much"
+        },
+        {
+          "start": 228.31,
+          "end": 228.55,
+          "text": " like"
+        },
+        {
+          "start": 228.55,
+          "end": 228.69,
+          "text": " the"
+        },
+        {
+          "start": 228.69,
+          "end": 228.89,
+          "text": " kind"
+        },
+        {
+          "start": 228.89,
+          "end": 229.05,
+          "text": " of"
+        },
+        {
+          "start": 229.05,
+          "end": 229.35,
+          "text": " errors"
+        },
+        {
+          "start": 229.35,
+          "end": 229.53,
+          "text": " that"
+        },
+        {
+          "start": 229.53,
+          "end": 229.59,
+          "text": " are"
+        },
+        {
+          "start": 229.59,
+          "end": 229.75,
+          "text": " made"
+        },
+        {
+          "start": 229.75,
+          "end": 229.87,
+          "text": " by"
+        },
+        {
+          "start": 229.87,
+          "end": 230.07,
+          "text": " very"
+        },
+        {
+          "start": 230.07,
+          "end": 230.43,
+          "text": " large"
+        },
+        {
+          "start": 230.43,
+          "end": 230.91,
+          "text": " systems."
+        },
+        {
+          "start": 231.17,
+          "end": 231.63,
+          "text": " And"
+        },
+        {
+          "start": 231.63,
+          "end": 231.89,
+          "text": " so"
+        },
+        {
+          "start": 231.89,
+          "end": 232.59,
+          "text": " I"
+        },
+        {
+          "start": 232.59,
+          "end": 233.09,
+          "text": " really"
+        },
+        {
+          "start": 233.09,
+          "end": 233.29,
+          "text": " do"
+        },
+        {
+          "start": 233.29,
+          "end": 233.51,
+          "text": " think"
+        },
+        {
+          "start": 233.51,
+          "end": 233.65,
+          "text": " that"
+        },
+        {
+          "start": 233.65,
+          "end": 234.17,
+          "text": " biology"
+        },
+        {
+          "start": 234.17,
+          "end": 235.25,
+          "text": " exploits,"
+        },
+        {
+          "start": 235.31,
+          "end": 235.37,
+          "text": " and"
+        },
+        {
+          "start": 235.37,
+          "end": 235.57,
+          "text": " there"
+        },
+        {
+          "start": 235.57,
+          "end": 235.67,
+          "text": " are"
+        },
+        {
+          "start": 235.67,
+          "end": 235.79,
+          "text": " many"
+        },
+        {
+          "start": 235.79,
+          "end": 235.97,
+          "text": " other"
+        },
+        {
+          "start": 235.97,
+          "end": 236.33,
+          "text": " examples,"
+        },
+        {
+          "start": 236.65,
+          "end": 236.85,
+          "text": " I"
+        },
+        {
+          "start": 236.85,
+          "end": 236.97,
+          "text": " think"
+        },
+        {
+          "start": 236.97,
+          "end": 237.51,
+          "text": " biology"
+        },
+        {
+          "start": 237.51,
+          "end": 238.05,
+          "text": " really"
+        },
+        {
+          "start": 238.05,
+          "end": 238.61,
+          "text": " exploits"
+        },
+        {
+          "start": 238.61,
+          "end": 238.79,
+          "text": " this"
+        },
+        {
+          "start": 238.79,
+          "end": 238.97,
+          "text": " kind"
+        },
+        {
+          "start": 238.97,
+          "end": 239.15,
+          "text": " of"
+        },
+        {
+          "start": 239.15,
+          "end": 239.75,
+          "text": " fractal"
+        },
+        {
+          "start": 239.75,
+          "end": 239.95,
+          "text": " thing."
+        }
+      ]
+    },
+    {
+      "start": 240.38,
+      "end": 261.84,
+      "text": "and reusing the same physical principles again and again. And most probably all the processing power that had gone into letting cells have really intricate, proper shapes later on got co-opted into letting them navigate three-dimensional space and make shapes out of actions. And to me, those are probably very closely related.",
+      "speaker": null,
+      "words": [
+        {
+          "start": 240.38,
+          "end": 240.86,
+          "text": " and"
+        },
+        {
+          "start": 240.86,
+          "end": 241.38,
+          "text": " reusing"
+        },
+        {
+          "start": 241.38,
+          "end": 241.58,
+          "text": " the"
+        },
+        {
+          "start": 241.58,
+          "end": 241.84,
+          "text": " same"
+        },
+        {
+          "start": 241.84,
+          "end": 242.2,
+          "text": " physical"
+        },
+        {
+          "start": 242.2,
+          "end": 242.66,
+          "text": " principles"
+        },
+        {
+          "start": 242.66,
+          "end": 242.94,
+          "text": " again"
+        },
+        {
+          "start": 242.94,
+          "end": 243.1,
+          "text": " and"
+        },
+        {
+          "start": 243.1,
+          "end": 243.38,
+          "text": " again."
+        },
+        {
+          "start": 244.04,
+          "end": 244.22,
+          "text": " And"
+        },
+        {
+          "start": 244.22,
+          "end": 244.92,
+          "text": " most"
+        },
+        {
+          "start": 244.92,
+          "end": 245.44,
+          "text": " probably"
+        },
+        {
+          "start": 245.44,
+          "end": 246.04,
+          "text": " all"
+        },
+        {
+          "start": 246.04,
+          "end": 246.16,
+          "text": " the"
+        },
+        {
+          "start": 246.16,
+          "end": 246.62,
+          "text": " processing"
+        },
+        {
+          "start": 246.62,
+          "end": 246.96,
+          "text": " power"
+        },
+        {
+          "start": 246.96,
+          "end": 247.14,
+          "text": " that"
+        },
+        {
+          "start": 247.14,
+          "end": 247.26,
+          "text": " had"
+        },
+        {
+          "start": 247.26,
+          "end": 247.46,
+          "text": " gone"
+        },
+        {
+          "start": 247.46,
+          "end": 247.74,
+          "text": " into"
+        },
+        {
+          "start": 247.74,
+          "end": 248.02,
+          "text": " letting"
+        },
+        {
+          "start": 248.02,
+          "end": 248.58,
+          "text": " cells"
+        },
+        {
+          "start": 248.58,
+          "end": 248.92,
+          "text": " have"
+        },
+        {
+          "start": 248.92,
+          "end": 249.52,
+          "text": " really"
+        },
+        {
+          "start": 249.52,
+          "end": 249.96,
+          "text": " intricate,"
+        },
+        {
+          "start": 250.16,
+          "end": 250.34,
+          "text": " proper"
+        },
+        {
+          "start": 250.34,
+          "end": 250.86,
+          "text": " shapes"
+        },
+        {
+          "start": 250.86,
+          "end": 251.56,
+          "text": " later"
+        },
+        {
+          "start": 251.56,
+          "end": 251.92,
+          "text": " on"
+        },
+        {
+          "start": 251.92,
+          "end": 252.18,
+          "text": " got"
+        },
+        {
+          "start": 252.18,
+          "end": 252.44,
+          "text": " co"
+        },
+        {
+          "start": 252.44,
+          "end": 252.82,
+          "text": "-opted"
+        },
+        {
+          "start": 252.82,
+          "end": 253.14,
+          "text": " into"
+        },
+        {
+          "start": 253.14,
+          "end": 254.26,
+          "text": " letting"
+        },
+        {
+          "start": 254.26,
+          "end": 254.52,
+          "text": " them"
+        },
+        {
+          "start": 254.52,
+          "end": 255.1,
+          "text": " navigate"
+        },
+        {
+          "start": 255.1,
+          "end": 255.36,
+          "text": " three"
+        },
+        {
+          "start": 255.36,
+          "end": 255.7,
+          "text": "-dimensional"
+        },
+        {
+          "start": 255.7,
+          "end": 256.16,
+          "text": " space"
+        },
+        {
+          "start": 256.16,
+          "end": 256.36,
+          "text": " and"
+        },
+        {
+          "start": 256.36,
+          "end": 256.56,
+          "text": " make"
+        },
+        {
+          "start": 256.56,
+          "end": 257.38,
+          "text": " shapes"
+        },
+        {
+          "start": 257.38,
+          "end": 257.6,
+          "text": " out"
+        },
+        {
+          "start": 257.6,
+          "end": 257.7,
+          "text": " of"
+        },
+        {
+          "start": 257.7,
+          "end": 258.14,
+          "text": " actions."
+        },
+        {
+          "start": 258.42,
+          "end": 258.84,
+          "text": " And"
+        },
+        {
+          "start": 258.84,
+          "end": 259.24,
+          "text": " to"
+        },
+        {
+          "start": 259.24,
+          "end": 260.0,
+          "text": " me,"
+        },
+        {
+          "start": 260.12,
+          "end": 260.18,
+          "text": " those"
+        },
+        {
+          "start": 260.18,
+          "end": 260.34,
+          "text": " are"
+        },
+        {
+          "start": 260.34,
+          "end": 260.82,
+          "text": " probably"
+        },
+        {
+          "start": 260.82,
+          "end": 261.08,
+          "text": " very"
+        },
+        {
+          "start": 261.08,
+          "end": 261.48,
+          "text": " closely"
+        },
+        {
+          "start": 261.48,
+          "end": 261.84,
+          "text": " related."
+        }
+      ]
+    }
+  ],
+  "text": "So one of the surprising things, one of the many surprising things for me as a roboticist about the Xenobots project, and in this case, is where is the tape and where is the machine? So is the machine the Xenobot? Is the machine the swarm of Xenobots? Is the machine the cell? Where's the tape? Is the tape the genetic instructions inside each cell that makes up a Xenobot?\nYou could probably argue for and against that. To me, at least, it's not clear that there is a clear distinction between tape and machine in the current self-replicating xenobots. So we're already in the land of non-intuitiveness. It's not really clear how things operate in this design space, which is why it makes sense to bring in an AI to try and design simulated xenobots that self-replicate in a simulated Petri dish.\nand then see whether we can take those simulated self-replicators and realize them in reality. I just wanted to continue on with this interesting topic. You know, if you look at self slash environment, it seems increasingly that it's fractal, right? There is an interesting feedback loop between self and environment all the way down. And the more I learn about Xenobots with, you know, working with Mike and his staff,\nthe more I realized that, you know, we have really understudied fractalness in robotics. If you go to Google Scholar and type in fractal robots, next to nothing comes up. But it seems, you know, there's so much going on in living systems, as Mike mentioned, at all scales. A lot of those things are self-similar.\ndissimilar, there are variations on themes as you scale up and scale down, and none of that has really been touched in robotics. We have modular robotics for a long time, a lot of interesting things going on in modular robotics. Some modular robotic systems are hierarchical, but I would argue there are little to none that are fractal. I think this is, again, another open frontier in robotics and in biobotics.\nI think there's a deep relationship, and my conjecture is that one of the things evolution does is to pivot the same tricks across different spaces. So whereas modern advanced animals are able to use their nervous systems to solve problems in three-dimensional space and to navigate, those kinds of strategies and those competencies come from much earlier...\nkinds of creatures that were using the same strategies to navigate other spaces, for example, Morpha space, the space of possible anatomical layouts. And this is one reason we study bioelectricity, because long before brains and neurons showed up, cells were forming, non-neural cells were forming electrical networks that could store memories, that could take measurements, that could do simple computations to manage the shape of the organism. And before that, we had individual cells.\nthat were using some very similar processes. It's actually amazing how, you know, we were just talking about, Josh was mentioning this fractal nature. It's a little known fact that some of the complex rules by which large things like limbs, like salamander limbs, for example, regenerate, there's this interesting clock face model rule, this positional information kind of system. Those same systems seem to work very similarly in single cells.\nin regeneration of single cells. So some single cells are highly patterned. So things like stentor or paramecium, you know, they're not just shapeless amoebas. They have very intricate patterns and they're able to regenerate those patterns. And the errors they make in doing that look very much like the kind of errors that are made by very large systems. And so I really do think that biology exploits, and there are many other examples, I think biology really exploits this kind of fractal thing.\nand reusing the same physical principles again and again. And most probably all the processing power that had gone into letting cells have really intricate, proper shapes later on got co-opted into letting them navigate three-dimensional space and make shapes out of actions. And to me, those are probably very closely related."
+}
