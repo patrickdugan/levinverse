@@ -12,6 +12,14 @@ from levinverse.store import read_jsonl, upsert
 
 
 class AudioTests(unittest.TestCase):
+    def test_review_only_audio_is_not_transcribed_again(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"audio_processing_authorized": True, "transcript_storage_authorized": True, "authorization_basis": "Fixture permission"}))
+            upsert(root / "catalog/audio-queue.jsonl", [{"job_id": "review", "status": "participation_review_required"}], "job_id")
+            with patch("levinverse.audio.download", side_effect=AssertionError("Review item must not be retried")):
+                self.assertEqual(0, run(root)["attempted"])
     def test_repeated_dns_failures_leave_remaining_jobs_pending(self):
         with tempfile.TemporaryDirectory(dir="tests") as folder:
             root = Path(folder)

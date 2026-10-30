@@ -1,6 +1,6 @@
 # Corpus coverage report
 
-Generated: 2026-10-30T01:19:24.681605+00:00
+Generated: 2026-10-30T02:27:02.871167+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
@@ -11,7 +11,8 @@ Generated: 2026-10-30T01:19:24.681605+00:00
 - Unique appearance count: **not verified**
 - Duplicate video-ID rows merged: **0**
 - Confirmed cross-upload duplicates: **0 (identity review pending)**
-- Transcript text files stored in this repository: **347**
+- In-scope transcript text files: **344**
+- Retained text files requiring participation review: **3**
 - External transcript links identified: **228**
 - Caption availability confirmed missing: **0**
 - Caption availability not checked: **387**
@@ -33,12 +34,12 @@ Generated: 2026-10-30T01:19:24.681605+00:00
 - unavailable: 27
 - unknown: 131
 
-- Distinct transcript texts: **347**
-- Words in stored text files: **3,687,386**
+- Distinct transcript texts: **344**
+- Words in stored text files: **3,675,739**
 - Publisher transcript source records stored: **203**
 - Video IDs with stored text: **228**
 - Video IDs still awaiting text: **160**
-- Publisher entries requiring participation review: **11**
+- Publisher entries requiring participation review: **14**
 - Publisher episode pages without transcript text: **25**
 
 Missing transcript controls are access outcomes, not proof that captions do not exist. Collector version 1 checked before description expansion; its negative outcomes require retry. Speaker labels are retained only when present in the source. Publisher dates are distinct from video upload dates.

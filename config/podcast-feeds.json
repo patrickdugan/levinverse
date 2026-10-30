@@ -544,7 +544,24 @@
       "directory_collection_id": 1771517982,
       "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/michael-levin-part-2/id1771517982?i=1000723556836&uo=4",
       "verification_basis": "Episode names Michael Levin and identifies his institution or distinctive research",
-      "verified_at": "2026-10-29T16:04:08.739328+00:00"
+      "verified_at": "2026-10-29T16:04:08.739328+00:00",
+      "participation_review_episode_guids": {
+        "c317a1b8-6923-46fa-bfc5-2ada3a392168": {
+          "reason": "ASR opening describes Levin's research in the third person; his participation is not established.",
+          "source_url": "https://podcasters.spotify.com/pod/show/andrewflynn204/episodes/Michael-Levin-3-e34qtf4",
+          "text_path": "transcripts/permitted/rss-7318fdb7ec218aa1.whisper.txt"
+        },
+        "168ca516-52d7-458f-a911-c26f34ea472c": {
+          "reason": "ASR opening describes a Chemical AI presentation; Levin's participation is not established.",
+          "source_url": "https://podcasters.spotify.com/pod/show/andrewflynn204/episodes/Michael-Levin-6-e34qttq",
+          "text_path": "transcripts/permitted/rss-864ba0fbb106abb7.whisper.txt"
+        },
+        "e8bc7b0b-35de-498d-82b8-49e38d7b59a7": {
+          "reason": "ASR opening describes Levin's work in the third person; his participation is not established.",
+          "source_url": "https://podcasters.spotify.com/pod/show/andrewflynn204/episodes/Michael-Levin-part-2-e37at2p",
+          "text_path": "transcripts/permitted/rss-c46f69c290c31dad.whisper.txt"
+        }
+      }
     },
     {
       "show": "Templeton Ideas Podcast",

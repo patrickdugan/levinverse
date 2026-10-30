@@ -141,7 +141,7 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
         worker_path.write_text(json.dumps({"pid": os.getpid(), "status": status, "heartbeat_at": timestamp(), "current_job": job_id, "counts": result}, indent=2) + "\n", encoding="utf-8")
     checkpoint_worker()
     for job in read_jsonl(root / "catalog/audio-queue.jsonl"):
-        if job.get("status") in {"transcribed", "covered_by_stored_transcript", "duplicate_reused"} or result["attempted"] >= limit:
+        if job.get("status") in {"transcribed", "covered_by_stored_transcript", "duplicate_reused", "participation_review_required"} or result["attempted"] >= limit:
             continue
         retry = job.get("retry_after")
         if retry and datetime.fromisoformat(retry) > datetime.now(timezone.utc):

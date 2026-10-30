@@ -142,6 +142,14 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
         items = document.findall("./channel/item")
         for item in items:
             title = item.findtext("title") or ""
+            review = feed.get("participation_review_episode_guids", {}).get(item.findtext("guid") or "")
+            if review:
+                guid = item.findtext("guid")
+                ident = "rss-" + hashlib.sha256((feed["url"] + guid).encode()).hexdigest()[:16]
+                previous = next((r for r in read_jsonl(root / "catalog/rss-episodes.jsonl") if r.get("episode_id") == ident), {})
+                event = {**previous, "episode_id": ident, "episode_guid": guid, "title": title, "show": feed["show"], "feed_url": feed["url"], "source_url": episode_source(feed["url"], guid, item.findtext("link")), "status": "participation_review_required", "reason": review["reason"], "retrieved_at": timestamp()}
+                upsert(root / "catalog/rss-episodes.jsonl", [event], "episode_id")
+                continue
             if commentary_title(title):
                 guid = item.findtext("guid") or item.findtext("link") or title
                 ident = "rss-" + hashlib.sha256((feed["url"] + guid).encode()).hexdigest()[:16]

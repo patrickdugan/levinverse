@@ -56,6 +56,7 @@ class SourceTests(unittest.TestCase):
         self.assertEqual("reference_review_required", classify({"trackName": "Another guest", "description": "Michael Levin at Tufts"}, set(), {})[0])
         self.assertEqual("subject_identity_review_required", classify({"trackName": "Michael Levin interview"}, set(), {})[0])
         self.assertEqual("subject_confirmed", classify({"trackName": "Michael Levin interview", "description": "Professor of biology at Tufts"}, set(), {})[0])
+        self.assertEqual("participation_review_required", classify({"trackName": "Michael Levin interview", "description": "Professor of biology at Tufts", "feedUrl": "https://example.org/feed", "episodeGuid": "review"}, set(), {}, {("https://example.org/feed", "review")})[0])
 
     def test_srt_preserves_times_and_does_not_guess_speakers(self):
         segments = parse_srt(b"1\n00:00:01,500 --> 00:00:02,750\nA &amp; B.\n\n")
@@ -153,6 +154,21 @@ class SourceTests(unittest.TestCase):
             class Client:
                 def get(self, url):
                     return b'<rss><channel><item><title>Reaction to Michael Levin and bioelectricity</title><guid>commentary-1</guid><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
+            collect(root, Client())
+            self.assertEqual([], read_jsonl(root / "catalog/audio-queue.jsonl"))
+            self.assertEqual("participation_review_required", read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["status"])
+
+    def test_reviewed_commentary_episode_is_not_queued_again(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
+            feed = "https://example.org/rss"
+            episode = {"show": "Example", "url": feed, "participation_review_episode_guids": {"episode-1": {"reason": "Speaker participation unverified"}}}
+            (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [episode]}))
+            class Client:
+                def get(self, url):
+                    return b'<rss><channel><item><title>Michael Levin on bioelectricity</title><guid>episode-1</guid><description>Tufts biology</description><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
             collect(root, Client())
             self.assertEqual([], read_jsonl(root / "catalog/audio-queue.jsonl"))
             self.assertEqual("participation_review_required", read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["status"])

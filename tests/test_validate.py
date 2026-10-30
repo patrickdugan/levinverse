@@ -6,6 +6,7 @@ from pathlib import Path
 
 from levinverse.store import upsert
 from levinverse.validate import validate
+from levinverse.report import generate_report
 
 
 class ValidationTests(unittest.TestCase):
@@ -40,6 +41,24 @@ class ValidationTests(unittest.TestCase):
             path.write_text("Unregistered text")
             path.with_suffix(".json").write_text("{}")
             self.assertFalse(validate(root)["valid"])
+
+    def test_retained_review_text_is_validated_but_excluded_from_coverage(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            self.fixture(root, [{"start": 0, "end": 1}])
+            path = root / "transcripts/permitted/commentary.txt"
+            text = "A discussion requiring participation review.\n"
+            path.write_text(text, encoding="utf-8")
+            path.with_suffix(".json").write_text("{}")
+            upsert(root / "catalog/transcripts.jsonl", [{"transcript_id": "review", "status": "participation_review_required", "text_path": path.relative_to(root).as_posix(), "text_sha256": hashlib.sha256(text.encode()).hexdigest(), "source_url": "https://example.org/review", "authorization_basis": "Fixture permission"}], "transcript_id")
+            result = validate(root)
+            generate_report(root)
+            coverage = json.loads((root / "reports/coverage.json").read_text(encoding="utf-8"))
+            self.assertTrue(result["valid"])
+            self.assertEqual(1, result["review_transcript_source_records_checked"])
+            self.assertEqual(2, coverage["transcript_text_files_retained_total"])
+            self.assertEqual(1, coverage["transcript_text_files_requiring_participation_review"])
+            self.assertEqual(1, coverage["transcripts_stored_locally"])
 
 
 if __name__ == "__main__":

@@ -13,9 +13,11 @@ from .harvest import Fetcher, timestamp
 from .store import read_jsonl, upsert
 
 
-def classify(item: dict, configured_ids: set[int], known: dict) -> tuple[str, str]:
+def classify(item: dict, configured_ids: set[int], known: dict, review_episodes: set[tuple[str, str]] | None = None) -> tuple[str, str]:
     title = item.get("trackName", "")
     description = item.get("description", "")
+    if (item.get("feedUrl"), item.get("episodeGuid")) in (review_episodes or set()):
+        return "participation_review_required", "Recording has been retained for participation review based on its transcript opening"
     if re.search(r"\b(congressman|congresswoman|congressional|representative)\b|\bRep\.?\s+(?:Mike|Michael) Levin\b", title, re.I):
         return "unrelated_name", "Episode identifies a political officeholder"
     if not re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I):
@@ -35,6 +37,7 @@ def discover(root: Path, client: Fetcher, terms: list[str] | None = None, add_fe
     config_path = root / "config/podcast-feeds.json"
     config = json.loads(config_path.read_text(encoding="utf-8"))
     ids = {f["directory_collection_id"] for f in config["feeds"] if f.get("directory_collection_id")}
+    review_episodes = {(f["url"], guid) for f in config["feeds"] for guid in f.get("participation_review_episode_guids", {})}
     feed_urls = {f["url"] for f in config["feeds"]}
     # Its complete publisher sitemap has a separate participation-aware harvester.
     handled = {"https://feeds.transistor.fm/thoughtforms-life"}
@@ -51,7 +54,7 @@ def discover(root: Path, client: Fetcher, terms: list[str] | None = None, add_fe
         for item in items:
             if not item.get("trackId"):
                 continue
-            status, basis = classify(item, ids, known)
+            status, basis = classify(item, ids, known, review_episodes)
             record = {"directory_episode_id": item["trackId"], "episode_guid": item.get("episodeGuid"), "title": item.get("trackName"), "show": item.get("collectionName"), "directory_collection_id": item.get("collectionId"), "source_url": safe_url(item.get("trackViewUrl") or url), "feed_url": safe_url(item.get("feedUrl", "")), "publication_date": item.get("releaseDate"), "duration_seconds": item.get("trackTimeMillis", 0) / 1000 or None, "status": status, "identity_basis": basis, "discovery_source": url, "retrieved_at": timestamp()}
             audio = item.get("episodeUrl", "")
             if audio and safe_url(audio) == audio:

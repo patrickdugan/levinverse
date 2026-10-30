@@ -42,7 +42,10 @@ def generate_report(root: Path) -> str:
     appearances = read_jsonl(root / "catalog/appearances.jsonl")
     provenance = read_jsonl(root / "catalog/provenance.jsonl")
     registry = read_jsonl(root / "catalog/transcripts.jsonl")
-    text_files = list((root / "transcripts/permitted").glob("*.txt"))
+    all_text_files = list((root / "transcripts/permitted").glob("*.txt"))
+    review_paths = {r.get("text_path") for r in registry if r.get("status") == "participation_review_required" and r.get("text_path")}
+    review_text_files = [p for p in all_text_files if p.relative_to(root).as_posix() in review_paths]
+    text_files = [p for p in all_text_files if p.relative_to(root).as_posix() not in review_paths]
     texts = [p.read_text(encoding="utf-8") for p in text_files]
     hashes = {hashlib.sha256(" ".join(t.split()).encode()).hexdigest() for t in texts}
     stored_registry = [r for r in registry if r.get("status") == "stored" and (root / r.get("text_path", "MISSING")).is_file()]
@@ -92,6 +95,8 @@ def generate_report(root: Path) -> str:
         "cross_upload_duplicate_recordings_confirmed": 0,
         "duplicate_identity_review_complete": False,
         "transcripts_stored_locally": len(text_files),
+        "transcript_text_files_retained_total": len(all_text_files),
+        "transcript_text_files_requiring_participation_review": len(review_text_files),
         "unique_transcript_texts": len(hashes),
         "stored_transcript_words": sum(len(t.split()) for t in texts),
         "word_count_definition": "Whitespace-delimited tokens in stored TXT, including source speaker labels and timestamps",
@@ -149,7 +154,7 @@ def generate_report(root: Path) -> str:
     lines = [
         "# Corpus coverage report", "", f"Generated: {datetime.now(timezone.utc).isoformat()}", "",
         "> This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.", "",
-        "## Coverage", "", f"- Cataloged video uploads: **{len(videos)}**", f"- Provisional appearance records (not deduplicated): **{len(appearances)}**", "- Unique appearance count: **not verified**", "- Duplicate video-ID rows merged: **0**", "- Confirmed cross-upload duplicates: **0 (identity review pending)**", f"- Transcript text files stored in this repository: **{coverage['transcripts_stored_locally']}**", f"- External transcript links identified: **{coverage['external_transcript_links']}**", f"- Caption availability confirmed missing: **{coverage['caption_availability_confirmed_missing']}**", f"- Caption availability not checked: **{coverage['caption_availability_not_checked']}**", f"- Caption retrieval failures: **{failures}**", f"- Metadata enrichment failures: **{metadata_failures}**", f"- Metadata checks blocked by missing local tooling: **{metadata_blocked}**", f"- Source index fetch failures: **{source_failures}**", f"- Caption checks blocked by missing local tooling: **{blocked}**", f"- Caption stores skipped pending rights review: **{rights_skipped}**", "",
+        "## Coverage", "", f"- Cataloged video uploads: **{len(videos)}**", f"- Provisional appearance records (not deduplicated): **{len(appearances)}**", "- Unique appearance count: **not verified**", "- Duplicate video-ID rows merged: **0**", "- Confirmed cross-upload duplicates: **0 (identity review pending)**", f"- In-scope transcript text files: **{coverage['transcripts_stored_locally']}**", f"- Retained text files requiring participation review: **{coverage['transcript_text_files_requiring_participation_review']}**", f"- External transcript links identified: **{coverage['external_transcript_links']}**", f"- Caption availability confirmed missing: **{coverage['caption_availability_confirmed_missing']}**", f"- Caption availability not checked: **{coverage['caption_availability_not_checked']}**", f"- Caption retrieval failures: **{failures}**", f"- Metadata enrichment failures: **{metadata_failures}**", f"- Metadata checks blocked by missing local tooling: **{metadata_blocked}**", f"- Source index fetch failures: **{source_failures}**", f"- Caption checks blocked by missing local tooling: **{blocked}**", f"- Caption stores skipped pending rights review: **{rights_skipped}**", "",
         "### Transcript status", "",
     ]
     lines.extend(f"- {key}: {value}" for key, value in sorted(status.items()))

@@ -16,6 +16,8 @@ The harvest enumerates the complete official interview, presentation and convers
 
 The publisher transcript registry is `catalog/transcripts.jsonl`. Plain text and structured segment JSON are committed under `transcripts/permitted/`. Exact text duplicates share a path. The source, date, authorization basis, quality notes, original timestamp granularity and explicit speaker labels are retained. Unknown speaker labels remain unknown.
 
+Retained recordings whose Levin participation is unverified remain in the repository with status `participation_review_required`; their text is validated but excluded from in-scope coverage. Reviewed episode IDs are protected against automatic requeueing in `config/podcast-feeds.json`. A machine-transcript opening can trigger review, but does not establish who speaks in the rest of the recording.
+
 ## Official YouTube channel
 
 Enumerate metadata without downloading media:

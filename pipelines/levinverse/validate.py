@@ -25,11 +25,15 @@ def validate(root: Path) -> dict:
         if not re.fullmatch(r"[A-Za-z0-9_-]{11}", ident) or parse_qs(parsed.query).get("v", [None])[0] != ident:
             errors.append("Invalid canonical YouTube identity: " + ident)
     stored = 0
+    review_stored = 0
     registered_paths = set()
     for record in read_jsonl(root / "catalog/transcripts.jsonl"):
-        if record.get("status") != "stored":
+        if record.get("status") == "stored":
+            stored += 1
+        elif record.get("status") == "participation_review_required" and record.get("text_path"):
+            review_stored += 1
+        else:
             continue
-        stored += 1
         path = (root / record.get("text_path", "MISSING")).resolve()
         if not path.is_relative_to((root / "transcripts/permitted").resolve()) or not path.is_file():
             errors.append("Missing or out-of-root transcript: " + record["transcript_id"])
@@ -71,7 +75,7 @@ def validate(root: Path) -> dict:
         text = path.read_text(encoding="utf-8")
         if re.search(r"[?&](?:X-Amz-Security-Token|X-Amz-Signature|access_token)=", text, re.I):
             errors.append("Ephemeral token URL in public metadata: " + path.name)
-    result = {"valid": not errors, "catalog_jsonl_files_checked": len(files), "unique_video_ids": len({v["video_id"] for v in videos}), "stored_transcript_source_records_checked": stored, "text_files_checked": len(texts), "cuda_transcripts_checked": asr, "overlapping_asr_segment_boundaries": overlaps, "max_asr_segment_overlap_seconds": round(maximum_overlap, 3), "timing_note": "Source ASR boundary overlaps are retained; start order and duration bounds are validated without claiming diarization or human accuracy.", "errors": errors}
+    result = {"valid": not errors, "catalog_jsonl_files_checked": len(files), "unique_video_ids": len({v["video_id"] for v in videos}), "stored_transcript_source_records_checked": stored, "review_transcript_source_records_checked": review_stored, "text_files_checked": len(texts), "cuda_transcripts_checked": asr, "overlapping_asr_segment_boundaries": overlaps, "max_asr_segment_overlap_seconds": round(maximum_overlap, 3), "timing_note": "Source ASR boundary overlaps are retained; start order and duration bounds are validated without claiming diarization or human accuracy.", "errors": errors}
     (root / "reports").mkdir(parents=True, exist_ok=True)
     (root / "reports/validation.json").write_text(json.dumps(result, indent=2) + "\n", encoding="utf-8")
     return result
