@@ -344,6 +344,12 @@
     "sha256": "daeb3cc43bf54a39c1796840d43b8ca206b1423e147482597105072270234f16",
     "status": "fetched"
   },
+  "https://feeds.acast.com/public/shows/64b67f06cabfcd001157fca8": {
+    "bytes": 193612,
+    "checked_at": "2026-10-30T00:19:49.490973+00:00",
+    "sha256": "d7a40cb498fd6639a0bb88c35eb3a21cf93de6d920ac20212d3307e5ee117498",
+    "status": "fetched"
+  },
   "https://feeds.acast.com/public/shows/6527e4f1d40c9700125f42de": {
     "bytes": 1818984,
     "checked_at": "2026-10-29T16:07:11.755392+00:00",
@@ -405,6 +411,18 @@
     "cache_hit": true,
     "checked_at": "2026-10-29T10:54:58.186491+00:00",
     "sha256": "e81a7fdcffb717ce87ed04670a4d726224f9e56ba02c2567eeeead4e9739580c",
+    "status": "fetched"
+  },
+  "https://feeds.redcircle.com/9e2dd972-bdba-472c-ad3b-4b083e1a41a3": {
+    "bytes": 56455,
+    "checked_at": "2026-10-30T00:19:44.162311+00:00",
+    "sha256": "a64486248f734f00d25ae827d43efb76f4d96cab0c73334b2ba34e722eb1359f",
+    "status": "fetched"
+  },
+  "https://feeds.simplecast.com/EWgdAOib": {
+    "bytes": 2421083,
+    "checked_at": "2026-10-30T00:19:47.271946+00:00",
+    "sha256": "86f7863308360430ec05c19b2ef2f0d1cc1497aef3f1ad25207e920e15cc71fa",
     "status": "fetched"
   },
   "https://feeds.simplecast.com/ROc3dwtu": {
@@ -594,6 +612,18 @@
     "sha256": "fba516f3eb4674920415b7aebf37839fd9101b0eff5fd2b0aa410080edd0c0e1",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+cell+intelligence&entity=podcastEpisode&limit=200": {
+    "bytes": 241454,
+    "checked_at": "2026-10-30T00:15:27.234792+00:00",
+    "sha256": "324c1acb1421dc4c0803482b4b59a93f992388825ad350d56cca94ce7d3ea29f",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+cognition&entity=podcastEpisode&limit=200": {
+    "bytes": 365461,
+    "checked_at": "2026-10-30T00:15:20.300395+00:00",
+    "sha256": "0797d2fe75cc81582d65e17536c3a237ab2df23ebaef57ef0766910d3e7b647e",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+cognitive+biology&entity=podcastEpisode&limit=200": {
     "bytes": 340270,
     "checked_at": "2026-10-29T16:04:10.693324+00:00",
@@ -630,10 +660,22 @@
     "sha256": "dfb14069d56b16e4bed7ae5c0b5af473a969795f289816be2f221d6c505b9b61",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+podcast&entity=podcastEpisode&limit=200": {
+    "bytes": 298384,
+    "checked_at": "2026-10-30T00:15:07.823302+00:00",
+    "sha256": "59f0554a49276dbd954bfccdf5c723335f3ab310ab35910173e9ba3b3f01e9df",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+regeneration&entity=podcastEpisode&limit=200": {
     "bytes": 292109,
     "checked_at": "2026-10-29T16:04:07.169440+00:00",
     "sha256": "3174b2ccf8f7f04dc815ba5559ab80b25323f40bc2b23faa2df2d672f3844336",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+selfhood&entity=podcastEpisode&limit=200": {
+    "bytes": 299654,
+    "checked_at": "2026-10-30T00:15:14.265408+00:00",
+    "sha256": "f8c688c4e5a30ff2317ae1aca740985a0c621e136c750f210f766765df71f481",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Mike+Levin&entity=podcastEpisode&limit=200": {

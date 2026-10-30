@@ -6,7 +6,7 @@ from importlib.util import find_spec
 from pathlib import Path
 from unittest.mock import patch
 
-from levinverse.feeds import collect, episode_duration, episode_source, match_video, parse_srt, publisher_title_match, stored_episode
+from levinverse.feeds import collect, episode_duration, episode_source, match_video, parse_srt, primary_video_from_description, publisher_title_match, stored_episode
 from levinverse.fallbacks import parse_podscripts
 from levinverse.podcast_audio import resolve
 from levinverse.directory import classify
@@ -76,6 +76,12 @@ class SourceTests(unittest.TestCase):
         known = {"primary": {"title": "Michael Levin Karl Friston Chris Fields on The Meta Hard Problem"}, "related": {"title": "Michael Levin on Morphogenetics and Xenobots"}}
         self.assertEqual("primary", match_video("Michael Levin, Karl Friston, Chris Fields: The Meta-Hard Problem", ["primary", "related"], known))
         self.assertIsNone(match_video("Michael Levin: A different conversation", ["primary", "related"], known))
+        self.assertIsNone(match_video("Michael Levin: A different conversation", ["primary"], known))
+
+    def test_description_only_links_explicit_primary_video(self):
+        self.assertEqual("abcdefghijk", primary_video_from_description("Full episode. YouTube Link: https://youtu.be/abcdefghijk"))
+        self.assertIsNone(primary_video_from_description("Watch Part 1 here: https://youtu.be/abcdefghijk"))
+        self.assertIsNone(primary_video_from_description("Related episode on YouTube: https://youtu.be/abcdefghijk"))
 
     def test_publisher_title_matching_requires_title_and_publisher_evidence(self):
         known = {"match": {"title": "Mark Solms and Michael Levin discuss Consciousness, Cognition and Opponent Processing", "host": "Podcast: The Meaning Code"}}
@@ -150,6 +156,21 @@ class SourceTests(unittest.TestCase):
             collect(root, Client())
             self.assertEqual([], read_jsonl(root / "catalog/audio-queue.jsonl"))
             self.assertEqual("participation_review_required", read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["status"])
+
+    def test_related_video_reference_does_not_attach_the_wrong_transcript(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
+            feed = "https://example.org/rss"
+            (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [{"show": "Example", "url": feed}]}))
+            upsert(root / "catalog/videos.jsonl", [{"video_id": "abcdefghijk", "canonical_url": "https://www.youtube.com/watch?v=abcdefghijk", "title": "The earlier conversation"}], "video_id")
+            class Client:
+                def get(self, url):
+                    return b'<rss><channel><item><title>Michael Levin and Anna discuss consciousness</title><guid>new-episode</guid><description>Tufts biologist Michael Levin joins Anna. Watch Part 1 here: https://youtu.be/abcdefghijk</description><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
+            collect(root, Client())
+            self.assertIsNone(read_jsonl(root / "catalog/audio-queue.jsonl")[0]["video_id"])
+            self.assertEqual(["abcdefghijk"], read_jsonl(root / "catalog/rss-episodes.jsonl")[0]["referenced_video_ids"])
 
     def test_reviewed_episode_guid_allows_guest_not_named_in_title(self):
         with tempfile.TemporaryDirectory(dir="tests") as folder:

@@ -13,7 +13,7 @@ from xml.etree import ElementTree as ET
 
 from .discover import VIDEO_RE, youtube_id
 from .expand import safe_url
-from .harvest import Fetcher, authorization_basis, merge_video, save_transcript, timestamp
+from .harvest import Fetcher, authorization_basis, merge_video, save_transcript, soup, timestamp
 from .store import read_jsonl, upsert
 
 
@@ -21,7 +21,7 @@ def commentary_title(title: str) -> bool:
     return bool(re.search(r"\b(?:reaction|reacting|review|analysis|summary|critique)\b.{0,80}\b(?:Michael|Mike) Levin\b|\b(?:Michael|Mike) Levin['’]s\b", title, re.I))
 
 
-def match_video(title: str, references: list[str], known: dict, allow_single_reference: bool = True) -> str | None:
+def match_video(title: str, references: list[str], known: dict, allow_single_reference: bool = False) -> str | None:
     stop = {"michael", "mike", "levin", "the", "of", "and", "with", "on", "a", "is", "what", "how", "why", "podcast", "dr", "prof"}
     words = lambda text: set(re.findall(r"[a-z0-9]+", text.lower())) - stop
     target = words(title)
@@ -34,6 +34,20 @@ def match_video(title: str, references: list[str], known: dict, allow_single_ref
         if common >= 3 and common / max(1, len(target | other)) >= 0.45:
             matches.append(ident)
     return matches[0] if len(matches) == 1 else references[0] if allow_single_reference and len(references) == 1 and references[0] in known else None
+
+
+def primary_video_from_description(description: str) -> str | None:
+    text = soup(description.encode("utf-8")).get_text(" ", strip=True)
+    ids = []
+    for match in re.finditer(r"\b(?:youtube\s+link|youtube)\s*:\s*(https?://[^\s<>]+)", text, re.I):
+        preceding = text[max(0, match.start() - 100):match.start()]
+        if re.search(r"\b(?:previous|related|past|more|part\s*\d+)\b[^.;]{0,80}$", preceding, re.I):
+            continue
+        ident = youtube_id(match.group(1).rstrip(".,;"))
+        if ident:
+            ids.append(ident)
+    ids = list(dict.fromkeys(ids))
+    return ids[0] if len(ids) == 1 else None
 
 
 def publisher_title_match(title: str, show: str, known: dict) -> str | None:
@@ -151,8 +165,11 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
             source = episode_source(feed["url"], guid, item.findtext("link"))
             description = (item.findtext("description") or "") + " " + next((n.text or "" for n in item if n.tag.endswith("encoded")), "")
             refs = list(dict.fromkeys(VIDEO_RE.findall(description)))
-            # Multiple links often include related talks; do not assign their transcripts to every ID.
+            # Description links can refer to previous or related talks, even when only one appears.
             video_id = match_video(title, refs, known)
+            primary_description_video = primary_video_from_description(description)
+            if primary_description_video in known:
+                video_id = primary_description_video
             if not refs:
                 video_id = publisher_title_match(title, feed["show"], known)
             publication = item.findtext("pubDate")
@@ -167,7 +184,7 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 event["status"] = "subject_identity_review_required"
                 upsert(root / "catalog/rss-episodes.jsonl", [event], "episode_id")
                 continue
-            direct_video = youtube_id(item.findtext("link") or "")
+            direct_video = youtube_id(item.findtext("link") or "") or primary_description_video
             if direct_video:
                 video_id = direct_video
                 event["confirmed_video_id"] = video_id
