@@ -154,7 +154,7 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             media = download(job, root)
             job.update(status="transcribing", media_sha256=hashlib.sha256(media.read_bytes()).hexdigest())
             upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
-            permission = {"permission_confirmed": True, "permission_basis": authorization_basis(root), "source_url": job["source_url"], "audio_url": job["audio_url"], "media_sha256": job["media_sha256"]}
+            permission = {"permission_confirmed": True, "permission_basis": authorization_basis(root), "source_url": job["source_url"], "audio_url": job["audio_url"], "media_sha256": job["media_sha256"], "recording_role": job.get("recording_role", "unknown"), "full_episode_access": job.get("full_episode_access"), "partial_video_id": job.get("partial_video_id")}
             record_path = root / "transcripts/metadata" / ((job.get("media_id") or job["job_id"]) + "-permission.json")
             record_path.parent.mkdir(parents=True, exist_ok=True)
             record_path.write_text(json.dumps(permission, indent=2) + "\n", encoding="utf-8")
@@ -176,6 +176,8 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             registry["recording_role"] = job.get("recording_role", "unknown")
             registry["partial_video_id"] = job.get("partial_video_id")
             registry["full_episode_access"] = job.get("full_episode_access")
+            if job.get("recording_role") == "public_preview":
+                registry["transcript_quality"] += "; public preview only; publisher reports the full episode requires a subscription"
             if duplicate:
                 registry["duplicate_of"] = "whisper-" + duplicate["job_id"]
                 job["duplicate_of"] = duplicate["job_id"]
@@ -183,7 +185,7 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             if job.get("video_id"):
                 merge_video(root, {"video_id": job["video_id"], "transcript_status": "local_whisper_stored", "transcript_path": job["transcript_path"], "transcript_url": job["source_url"], "audio_duration_seconds": payload["duration_seconds"], "discovery_sources": [job["source_url"]]}, True)
             else:
-                upsert(root / "catalog/appearances.jsonl", [{"appearance_id": job["job_id"], "video_ids": [], "title": job["title"], "source_url": job["source_url"], "transcript_status": "local_whisper_stored", "transcript_path": job["transcript_path"], "appearance_type": "publisher_audio"}], "appearance_id")
+                upsert(root / "catalog/appearances.jsonl", [{"appearance_id": job["job_id"], "video_ids": [], "title": job["title"], "source_url": job["source_url"], "transcript_status": "local_whisper_stored", "transcript_path": job["transcript_path"], "appearance_type": "publisher_audio", "recording_role": job.get("recording_role", "unknown"), "full_episode_access": job.get("full_episode_access")}], "appearance_id")
             result["reused" if duplicate else "transcribed"] += 1
             consecutive_dns_failures = 0
         except Exception as exc:
