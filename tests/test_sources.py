@@ -9,7 +9,7 @@ from unittest.mock import patch
 from levinverse.feeds import collect, episode_duration, episode_source, match_video, parse_srt, primary_video_from_description, publisher_title_match, stored_episode
 from levinverse.fallbacks import parse_podscripts
 from levinverse.podcast_audio import resolve
-from levinverse.directory import classify
+from levinverse.directory import classify, mentions_levin
 from levinverse.harvest import render_transcript, save_transcript
 from levinverse.platforms import collect as collect_platforms
 from levinverse.reconcile import reconcile, title_contains_video_title
@@ -58,6 +58,12 @@ class SourceTests(unittest.TestCase):
         self.assertEqual("subject_confirmed", classify({"trackName": "Michael Levin interview", "description": "Professor of biology at Tufts"}, set(), {})[0])
         self.assertEqual("participation_review_required", classify({"trackName": "Michael Levin interview", "description": "Professor of biology at Tufts", "feedUrl": "https://example.org/feed", "episodeGuid": "review"}, set(), {}, {("https://example.org/feed", "review")})[0])
 
+    def test_directory_keeps_named_mentions_and_manually_confirmed_nameless_episodes(self):
+        self.assertTrue(mentions_levin({"trackName": "An episode", "description": "Michael Levin joins the discussion."}))
+        self.assertFalse(mentions_levin({"trackName": "Bernardo Kastrup on philosophy", "description": "An unrelated conversation."}))
+        item = {"trackName": "Bioelectric Computation", "feedUrl": "https://example.org/feed", "episodeGuid": "confirmed"}
+        self.assertEqual("subject_confirmed", classify(item, set(), {}, confirmed_episodes={("https://example.org/feed", "confirmed"): {"basis": "Publisher identifies the guest"}})[0])
+
     def test_srt_preserves_times_and_does_not_guess_speakers(self):
         segments = parse_srt(b"1\n00:00:01,500 --> 00:00:02,750\nA &amp; B.\n\n")
         self.assertEqual({"start_seconds": 1.5, "end_seconds": 2.75, "text": "A & B.", "speaker": None}, segments[0])
@@ -84,6 +90,7 @@ class SourceTests(unittest.TestCase):
         self.assertEqual("abcdefghijk", primary_video_from_description("video format: https://youtu.be/abcdefghijk"))
         self.assertIsNone(primary_video_from_description("Watch Part 1 here: https://youtu.be/abcdefghijk"))
         self.assertIsNone(primary_video_from_description("Related episode on YouTube: https://youtu.be/abcdefghijk"))
+        self.assertIsNone(primary_video_from_description("Resources. YouTube Link: https://www.youtube.com/watch?v=abcdefghijk&t=9315s"))
 
     def test_publisher_title_matching_requires_title_and_publisher_evidence(self):
         known = {"match": {"title": "Mark Solms and Michael Levin discuss Consciousness, Cognition and Opponent Processing", "host": "Podcast: The Meaning Code"}}
@@ -226,13 +233,18 @@ class SourceTests(unittest.TestCase):
             (root / "config").mkdir()
             (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
             feed = "https://example.org/rss"
-            item = {"show": "Example", "url": feed, "reviewed_episode_guids": {"episode-1": {"basis": "Publisher description names Levin as guest", "source_url": "https://example.org/episode"}}}
+            item = {"show": "Example", "url": feed, "reviewed_episode_guids": {"episode-1": {"basis": "Publisher description names Levin as guest", "source_url": "https://example.org/episode", "recording_role": "compilation", "subject_time_ranges": [{"start_seconds": 178, "end_seconds": 531, "basis": "publisher chapters"}]}}}
             (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [item]}))
             class Client:
                 def get(self, url):
-                    return b'<rss><channel><item><title>Cells and systems</title><guid>episode-1</guid><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
+                    return b'<rss><channel><item><title>Cells and systems</title><guid>episode-1</guid><description>YouTube Link: https://www.youtube.com/watch?v=abcdefghijk&amp;t=9315s</description><enclosure url="https://example.org/audio.mp3"/></item></channel></rss>'
             self.assertEqual(1, collect(root, Client())["audio_queued"])
-            self.assertEqual("Publisher description names Levin as guest", read_jsonl(root / "catalog/audio-queue.jsonl")[0]["relevance_evidence"])
+            job = read_jsonl(root / "catalog/audio-queue.jsonl")[0]
+            self.assertEqual("Publisher description names Levin as guest", job["relevance_evidence"])
+            self.assertEqual("compilation", job["recording_role"])
+            self.assertEqual(178, job["subject_time_ranges"][0]["start_seconds"])
+            self.assertIsNone(job["video_id"])
+            self.assertEqual([], read_jsonl(root / "catalog/videos.jsonl"))
 
     def test_fallback_uses_published_group_clock_not_guessed_element_ids(self):
         groups = ''.join(f'<div class="single-sentence"><span class="pod_timestamp_indicator">Starting point is 00:00:{i:02d}</span><span class="transcript-text" id="sentenceid_{i + 1}">Fixture text.</span></div>' for i in range(20))

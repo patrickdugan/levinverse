@@ -13,11 +13,18 @@ from .harvest import Fetcher, timestamp
 from .store import read_jsonl, upsert
 
 
-def classify(item: dict, configured_ids: set[int], known: dict, review_episodes: set[tuple[str, str]] | None = None) -> tuple[str, str]:
-    title = item.get("trackName", "")
-    description = item.get("description", "")
+def mentions_levin(item: dict) -> bool:
+    return bool(re.search(r"\b(?:Michael|Mike) Levin\b", (item.get("trackName") or "") + " " + (item.get("description") or ""), re.I))
+
+
+def classify(item: dict, configured_ids: set[int], known: dict, review_episodes: set[tuple[str, str]] | None = None, confirmed_episodes: dict[tuple[str, str], dict] | None = None) -> tuple[str, str]:
+    title = item.get("trackName") or ""
+    description = item.get("description") or ""
     if (item.get("feedUrl"), item.get("episodeGuid")) in (review_episodes or set()):
         return "participation_review_required", "Recording has been retained for participation review based on its transcript opening"
+    reviewed = (confirmed_episodes or {}).get((item.get("feedUrl"), item.get("episodeGuid")))
+    if reviewed:
+        return "subject_confirmed", reviewed["basis"]
     if re.search(r"\b(congressman|congresswoman|congressional|representative)\b|\bRep\.?\s+(?:Mike|Michael) Levin\b", title, re.I):
         return "unrelated_name", "Episode identifies a political officeholder"
     if not re.search(r"\b(?:Michael|Mike) Levin\b", title, re.I):
@@ -38,11 +45,14 @@ def discover(root: Path, client: Fetcher, terms: list[str] | None = None, add_fe
     config = json.loads(config_path.read_text(encoding="utf-8"))
     ids = {f["directory_collection_id"] for f in config["feeds"] if f.get("directory_collection_id")}
     review_episodes = {(f["url"], guid) for f in config["feeds"] for guid in f.get("participation_review_episode_guids", {})}
+    confirmed_episodes = {(f["url"], guid): review for f in config["feeds"] for guid, review in f.get("reviewed_episode_guids", {}).items()}
     feed_urls = {f["url"] for f in config["feeds"]}
     # Its complete publisher sitemap has a separate participation-aware harvester.
     handled = {"https://feeds.transistor.fm/thoughtforms-life"}
     known = {v["video_id"]: v for v in read_jsonl(root / "catalog/videos.jsonl")}
-    result = {"search_results": 0, "subject_confirmed": 0, "feeds_added": 0, "errors": 0}
+    previous = {r["directory_episode_id"]: r for r in read_jsonl(root / "catalog/podcast-directory.jsonl")}
+    covered_ids = {r["transcript_id"] for r in read_jsonl(root / "catalog/transcripts.jsonl") if r.get("status") == "stored" and (root / r.get("text_path", "MISSING")).is_file()}
+    result = {"search_results": 0, "candidate_records": 0, "subject_confirmed": 0, "feeds_added": 0, "errors": 0}
     for term in terms or ["Michael Levin", "Mike Levin"]:
         url = "https://itunes.apple.com/search?" + urlencode({"term": term, "entity": "podcastEpisode", "limit": 200})
         try:
@@ -52,15 +62,22 @@ def discover(root: Path, client: Fetcher, terms: list[str] | None = None, add_fe
             result["errors"] += 1
             continue
         for item in items:
+            result["search_results"] += 1
             if not item.get("trackId"):
                 continue
-            status, basis = classify(item, ids, known, review_episodes)
-            record = {"directory_episode_id": item["trackId"], "episode_guid": item.get("episodeGuid"), "title": item.get("trackName"), "show": item.get("collectionName"), "directory_collection_id": item.get("collectionId"), "source_url": safe_url(item.get("trackViewUrl") or url), "feed_url": safe_url(item.get("feedUrl", "")), "publication_date": item.get("releaseDate"), "duration_seconds": item.get("trackTimeMillis", 0) / 1000 or None, "status": status, "identity_basis": basis, "discovery_source": url, "retrieved_at": timestamp()}
+            item_key = (item.get("feedUrl"), item.get("episodeGuid"))
+            if not mentions_levin(item) and item_key not in confirmed_episodes and item_key not in review_episodes:
+                continue
+            status, basis = classify(item, ids, known, review_episodes, confirmed_episodes)
+            prior = previous.get(item["trackId"], {})
+            if prior.get("status") == "covered_by_primary_source" and prior.get("covered_by_transcript_id") in covered_ids:
+                status, basis = prior["status"], prior["identity_basis"]
+            record = {**prior, "directory_episode_id": item["trackId"], "episode_guid": item.get("episodeGuid"), "title": item.get("trackName"), "show": item.get("collectionName"), "directory_collection_id": item.get("collectionId"), "source_url": safe_url(item.get("trackViewUrl") or url), "feed_url": safe_url(item.get("feedUrl") or ""), "publication_date": item.get("releaseDate"), "duration_seconds": (item.get("trackTimeMillis") or 0) / 1000 or None, "status": status, "identity_basis": basis, "discovery_source": url, "retrieved_at": timestamp()}
             audio = item.get("episodeUrl", "")
             if audio and safe_url(audio) == audio:
                 record["public_audio_url"] = audio
             upsert(root / "catalog/podcast-directory.jsonl", [record], "directory_episode_id")
-            result["search_results"] += 1
+            result["candidate_records"] += 1
             result["subject_confirmed"] += status == "subject_confirmed"
             feed = record["feed_url"]
             if add_feeds and status == "subject_confirmed" and feed.startswith("https://") and feed not in feed_urls | handled:

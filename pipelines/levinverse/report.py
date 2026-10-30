@@ -107,6 +107,7 @@ def generate_report(root: Path) -> str:
         "local_whisper_source_records": sum(bool(r.get("model")) or r.get("source_kind") == "local_whisper" for r in stored_registry),
         "public_preview_transcript_files": len({r["text_path"] for r in stored_registry if r.get("recording_role") == "public_preview"}),
         "excerpt_transcript_files": len({r["text_path"] for r in stored_registry if r.get("recording_role") == "excerpt"}),
+        "compilation_transcript_files": len({r["text_path"] for r in stored_registry if r.get("recording_role") == "compilation"}),
         "stored_transcript_source_records": len(stored_registry),
         "publisher_duplicate_sources": sum(bool(r.get("duplicate_of")) for r in stored_registry),
         "video_ids_with_stored_transcripts": len(stored_video_ids),

@@ -2,7 +2,22 @@
   "feeds": [
     {
       "show": "Theories of Everything with Curt Jaimungal",
-      "url": "https://feeds.megaphone.fm/TOE4643226064"
+      "url": "https://feeds.megaphone.fm/TOE4643226064",
+      "reviewed_episode_guids": {
+        "7897c635-ef83-4fc4-83c7-3d889330107b": {
+          "source_url": "https://podcasts.apple.com/us/podcast/free-will-explained-by-worlds-top-intellectuals/id1521758802?i=1000637955077&uo=4",
+          "basis": "Publisher description identifies Michael Levin in a compilation and supplies chapter timestamps.",
+          "recording_role": "compilation",
+          "subject_time_ranges": [
+            {
+              "start_seconds": 178,
+              "end_seconds": 531,
+              "basis": "Publisher lists Michael Levin at 2:58 and the next chapter at 8:51; approximate, not diarized."
+            }
+          ],
+          "reviewed_at": "2026-10-30T05:23:40.909848+00:00"
+        }
+      }
     },
     {
       "show": "Machine Learning Street Talk (MLST)",

@@ -1,6 +1,6 @@
 # Corpus coverage report
 
-Generated: 2026-10-30T04:24:30.344031+00:00
+Generated: 2026-10-30T05:26:50.674131+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 

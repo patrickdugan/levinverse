@@ -504,10 +504,24 @@
     "sha256": "e20d66c0db720b9c2210ed6d7e9acf9b44b3435f4b941aa66088e3d3963205e6",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Adventures+in+Awareness+Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 287786,
+    "cache_hit": true,
+    "checked_at": "2026-10-30T05:21:07.995746+00:00",
+    "sha256": "0409cdfbb2df052db9a4006288d985a86e115ae7e54e72f2934e2b2e0f415cf9",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Artificiality+Dave+Helen+Edwards&entity=podcast&limit=3": {
     "bytes": 1765,
     "checked_at": "2026-10-29T11:27:40.300529+00:00",
     "sha256": "cf79b66e6243fd8400c3f957fbb139462794e38cbd49e955fdd1f95b12505186",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Bernardo+Kastrup+Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 142775,
+    "cache_hit": true,
+    "checked_at": "2026-10-30T05:21:07.604756+00:00",
+    "sha256": "7ee260fe33e953febc00c5f88678ea82820aea6bc218df635d83cbdb4c8372c1",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Bold+Conjectures+Paras+Chopra&entity=podcast&limit=3": {
@@ -520,6 +534,13 @@
     "bytes": 4746,
     "checked_at": "2026-10-29T11:22:46.190325+00:00",
     "sha256": "a679d4eefd0de65841437b7f41b5cac86f9508195bee4916e4083cac8a7a4ac3",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Carlos+Farias+Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 78532,
+    "cache_hit": true,
+    "checked_at": "2026-10-30T05:21:08.382634+00:00",
+    "sha256": "605e4298ac5caf5978d237f6f566b2cf36d98cad02dc20c3ae7bdd1e051af30c",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Cognitive+Revolution+Nathan+Labenz&entity=podcast&limit=3": {
@@ -736,6 +757,13 @@
     "bytes": 1587,
     "checked_at": "2026-10-29T11:22:37.525897+00:00",
     "sha256": "af821ac229887b08c102c7cad6547357f288774a30aa995917b83bfc48e0234d",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Sheekey+Science+Michael+Levin&entity=podcastEpisode&limit=200": {
+    "bytes": 42,
+    "cache_hit": true,
+    "checked_at": "2026-10-30T05:21:08.333834+00:00",
+    "sha256": "7f5ce663b726607eae2fde2a6dc438052ac0d1681e636de7cc3377c0bb77e047",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Soft+Robotics+Podcast&entity=podcast&limit=3": {

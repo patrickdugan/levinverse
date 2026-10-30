@@ -43,7 +43,10 @@ def primary_video_from_description(description: str) -> str | None:
         preceding = text[max(0, match.start() - 100):match.start()]
         if re.search(r"\b(?:previous|related|past|more|part\s*\d+)\b[^.;]{0,80}$", preceding, re.I):
             continue
-        ident = youtube_id(match.group(1).rstrip(".,;"))
+        url = match.group(1).rstrip(".,;")
+        if any(key.lower() in {"t", "start", "time_continue"} for key, _ in parse_qsl(urlparse(url).query)):
+            continue
+        ident = youtube_id(url)
         if ident:
             ids.append(ident)
     ids = list(dict.fromkeys(ids))
@@ -181,6 +184,8 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 video_id = primary_description_video
             if not refs:
                 video_id = publisher_title_match(title, feed["show"], known)
+            if reviewed_evidence and reviewed_evidence.get("recording_role") == "compilation":
+                video_id = youtube_id(item.findtext("link") or "")
             publication = item.findtext("pubDate")
             try:
                 publication_iso = parsedate_to_datetime(publication).isoformat() if publication else None
@@ -188,6 +193,9 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 publication_iso = None
             event = {"episode_id": ident, "source_url": source, "episode_guid": guid, "title": title, "show": feed["show"], "feed_url": feed["url"], "source_publication_date": publication, "source_publication_date_iso": publication_iso, "duration_seconds": episode_duration(item), "referenced_video_ids": refs, "confirmed_video_id": video_id, "retrieved_at": timestamp()}
             event["recording_role"] = "public_preview" if public_preview else "excerpt" if re.match(r"\s*clip\s*:", title, re.I) else "unknown"
+            if reviewed_evidence and reviewed_evidence.get("recording_role") == "compilation" and not public_preview:
+                event["recording_role"] = "compilation"
+                event["subject_time_ranges"] = reviewed_evidence.get("subject_time_ranges", [])
             if public_preview:
                 event["full_episode_access"] = "subscriber_required_per_publisher_description"
             if reviewed_evidence:
@@ -196,7 +204,9 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 event["status"] = "subject_identity_review_required"
                 upsert(root / "catalog/rss-episodes.jsonl", [event], "episode_id")
                 continue
-            direct_video = youtube_id(item.findtext("link") or "") or primary_description_video
+            direct_video = youtube_id(item.findtext("link") or "")
+            if event["recording_role"] != "compilation":
+                direct_video = direct_video or primary_description_video
             if direct_video:
                 video_id = direct_video
                 event["confirmed_video_id"] = video_id
@@ -226,7 +236,7 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                     (root / raw_path).parent.mkdir(parents=True, exist_ok=True)
                     (root / raw_path).write_bytes(raw)
                     relevance_evidence = reviewed_evidence.get("basis") if reviewed_evidence else ("configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin")
-                    payload = {"source_url": source, "transcript_track_url": track.get("url"), "raw_transcript_path": raw_path.as_posix(), "source_kind": "platform_caption", "title": title, "publication_date": None, "video_ids": [video_id] if video_id and not public_preview else [], "partial_video_id": video_id if public_preview else None, "recording_role": event["recording_role"], "full_episode_access": event.get("full_episode_access"), "segments": segments, "relevance_confirmed": True, "relevance_evidence": relevance_evidence, "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred" + ("; public preview only" if public_preview else ""), "host": feed["show"], "language": track.get("language") or document.findtext("./channel/language"), "episode_guid": guid, "publisher_feed_url": feed["url"]}
+                    payload = {"source_url": source, "transcript_track_url": track.get("url"), "raw_transcript_path": raw_path.as_posix(), "source_kind": "platform_caption", "title": title, "publication_date": None, "video_ids": [video_id] if video_id and not public_preview else [], "partial_video_id": video_id if public_preview else None, "recording_role": event["recording_role"], "subject_time_ranges": event.get("subject_time_ranges", []), "full_episode_access": event.get("full_episode_access"), "segments": segments, "relevance_confirmed": True, "relevance_evidence": relevance_evidence, "transcript_quality": "publisher RSS-supplied caption track; speaker identity not inferred" + ("; public preview only" if public_preview else ""), "host": feed["show"], "language": track.get("language") or document.findtext("./channel/language"), "episode_guid": guid, "publisher_feed_url": feed["url"]}
                     record = save_transcript(root, payload, authorization_basis(root))
                     stored = record["status"] == "stored"
                     event.update(status=record["status"], transcript_path=record.get("text_path"))
@@ -244,7 +254,7 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 else:
                     previous = existing_jobs.get(ident, {})
                     relevance_evidence = reviewed_evidence.get("basis") if reviewed_evidence else ("configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin")
-                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id if not public_preview else None, "partial_video_id": video_id if public_preview else None, "full_episode_access": event.get("full_episode_access"), "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "recording_role": event["recording_role"], "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": relevance_evidence, "publisher_feed_url": feed["url"], "episode_guid": guid}
+                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id if not public_preview else None, "partial_video_id": video_id if public_preview else None, "full_episode_access": event.get("full_episode_access"), "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "recording_role": event["recording_role"], "subject_time_ranges": event.get("subject_time_ranges", []), "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": relevance_evidence, "publisher_feed_url": feed["url"], "episode_guid": guid}
                     upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
                     event["status"] = "audio_queued"
                     result["audio_queued"] += int(not previous)
