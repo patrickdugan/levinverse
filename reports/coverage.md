@@ -1,6 +1,6 @@
 # Corpus coverage report
 
-Generated: 2026-10-30T06:25:33.660030+00:00
+Generated: 2026-10-30T10:29:56.498851+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
@@ -16,7 +16,7 @@ Generated: 2026-10-30T06:25:33.660030+00:00
 - External transcript links identified: **229**
 - Caption availability confirmed missing: **0**
 - Caption availability not checked: **388**
-- Caption retrieval failures: **2**
+- Caption retrieval failures: **3**
 - Metadata enrichment failures: **0**
 - Metadata checks blocked by missing local tooling: **0**
 - Source index fetch failures: **1**
