@@ -39,7 +39,7 @@ def match_video(title: str, references: list[str], known: dict, allow_single_ref
 def primary_video_from_description(description: str) -> str | None:
     text = soup(description.encode("utf-8")).get_text(" ", strip=True)
     ids = []
-    for match in re.finditer(r"\b(?:youtube\s+link|youtube)\s*:\s*(https?://[^\s<>]+)", text, re.I):
+    for match in re.finditer(r"\b(?:youtube\s+link|youtube|video\s+format)\s*:\s*(https?://[^\s<>]+)", text, re.I):
         preceding = text[max(0, match.start() - 100):match.start()]
         if re.search(r"\b(?:previous|related|past|more|part\s*\d+)\b[^.;]{0,80}$", preceding, re.I):
             continue
@@ -186,6 +186,7 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
             except (TypeError, ValueError):
                 publication_iso = None
             event = {"episode_id": ident, "source_url": source, "episode_guid": guid, "title": title, "show": feed["show"], "feed_url": feed["url"], "source_publication_date": publication, "source_publication_date_iso": publication_iso, "duration_seconds": episode_duration(item), "referenced_video_ids": refs, "confirmed_video_id": video_id, "retrieved_at": timestamp()}
+            event["recording_role"] = "excerpt" if re.match(r"\s*clip\s*:", title, re.I) else "unknown"
             if reviewed_evidence:
                 event["subject_review_evidence"] = reviewed_evidence
             if not video_id and not reviewed_evidence and not (verified_title and feed.get("participation_evidence_urls")) and not re.search(r"\b(Tufts|drmichaellevin|thoughtforms|bioelectric\w*|xenobot\w*|anthrobot\w*|morphogen\w*|regenerat\w*|cellular|biolog\w*)\b", title + " " + description, re.I):
@@ -240,7 +241,7 @@ def collect(root: Path, client: Fetcher, limit: int | None = None, feed_urls: li
                 else:
                     previous = existing_jobs.get(ident, {})
                     relevance_evidence = reviewed_evidence.get("basis") if reviewed_evidence else ("configured episode title verified against the official appearance index" if verified_title else "publisher RSS episode explicitly identifies Michael Levin")
-                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id, "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": relevance_evidence, "publisher_feed_url": feed["url"], "episode_guid": guid}
+                    job = {**previous, "job_id": ident, "media_id": ident, "video_id": video_id, "title": title, "source_url": source, "audio_url": audio_url, "duration_seconds": event["duration_seconds"], "source_publication_date": publication_iso, "recording_role": event["recording_role"], "authorization_basis": authorization_basis(root), "status": previous.get("status", "pending"), "queued_at": previous.get("queued_at", timestamp()), "relevance_evidence": relevance_evidence, "publisher_feed_url": feed["url"], "episode_guid": guid}
                     upsert(root / "catalog/audio-queue.jsonl", [job], "job_id")
                     event["status"] = "audio_queued"
                     result["audio_queued"] += int(not previous)

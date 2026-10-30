@@ -230,7 +230,39 @@
       "publisher_artist": "Marwa ElDiwiny",
       "directory_url": "https://podcasts.apple.com/us/podcast/soft-robotics-podcast/id1475793741?uo=4",
       "directory_collection_id": 1475793741,
-      "verified_at": "2026-10-29T11:28:49.164287+00:00"
+      "verified_at": "2026-10-29T11:28:49.164287+00:00",
+      "reviewed_episode_guids": {
+        "tag:soundcloud,2010:tracks/1229327212": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/josh-bongard-michael-levin-self-replicating-living-robots",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        },
+        "tag:soundcloud,2010:tracks/1053715588": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/michael-levin-josh-bongard-computationally-designed-organisms",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        },
+        "tag:soundcloud,2010:tracks/1106904307": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/clip-josh-bongard-michael-levin",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        },
+        "tag:soundcloud,2010:tracks/1229328484": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/clip-josh-bongard-michael-levin-self-replicating-living-robots",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        },
+        "tag:soundcloud,2010:tracks/1525264846": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/michael-levin-arguments-about-the-risk-of-ai",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        },
+        "tag:soundcloud,2010:tracks/1053747532": {
+          "source_url": "https://soundcloud.com/ieeeras-softrobotics/clip-michael-levin-josh-bongard-computationally-designed-organisms",
+          "basis": "Soft Robotics publisher names Michael Levin and identifies this interview or clip; the official Levin appearance index also links this interview series.",
+          "reviewed_at": "2026-10-30T03:20:50.036864+00:00"
+        }
+      }
     },
     {
       "show": "Soft robotics podcast",

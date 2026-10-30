@@ -1,13 +1,13 @@
 # Corpus coverage report
 
-Generated: 2026-10-30T02:27:02.871167+00:00
+Generated: 2026-10-30T03:21:16.654638+00:00
 
 > This is an expanded public-source catalog, not a completeness claim. Appearance counts are provisional until mirrors and duplicate recordings are reconciled.
 
 ## Coverage
 
-- Cataloged video uploads: **388**
-- Provisional appearance records (not deduplicated): **509**
+- Cataloged video uploads: **389**
+- Provisional appearance records (not deduplicated): **510**
 - Unique appearance count: **not verified**
 - Duplicate video-ID rows merged: **0**
 - Confirmed cross-upload duplicates: **0 (identity review pending)**
@@ -15,7 +15,7 @@ Generated: 2026-10-30T02:27:02.871167+00:00
 - Retained text files requiring participation review: **3**
 - External transcript links identified: **228**
 - Caption availability confirmed missing: **0**
-- Caption availability not checked: **387**
+- Caption availability not checked: **388**
 - Caption retrieval failures: **2**
 - Metadata enrichment failures: **0**
 - Metadata checks blocked by missing local tooling: **0**
@@ -32,13 +32,13 @@ Generated: 2026-10-30T02:27:02.871167+00:00
 - retrieval_failed: 1
 - third_party_transcript_stored: 1
 - unavailable: 27
-- unknown: 131
+- unknown: 132
 
 - Distinct transcript texts: **344**
 - Words in stored text files: **3,675,739**
 - Publisher transcript source records stored: **203**
 - Video IDs with stored text: **228**
-- Video IDs still awaiting text: **160**
+- Video IDs still awaiting text: **161**
 - Publisher entries requiring participation review: **14**
 - Publisher episode pages without transcript text: **25**
 
@@ -48,7 +48,7 @@ Missing transcript controls are access outcomes, not proof that captions do not 
 
 - dub: 1
 - excerpt: 3
-- unknown: 384
+- unknown: 385
 
 ## Backlog
 

@@ -173,6 +173,7 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             registry["media_sha256"] = job["media_sha256"]
             registry["publisher_feed_url"] = job.get("publisher_feed_url")
             registry["episode_guid"] = job.get("episode_guid")
+            registry["recording_role"] = job.get("recording_role", "unknown")
             if duplicate:
                 registry["duplicate_of"] = "whisper-" + duplicate["job_id"]
                 job["duplicate_of"] = duplicate["job_id"]

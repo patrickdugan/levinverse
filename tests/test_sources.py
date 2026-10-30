@@ -81,6 +81,7 @@ class SourceTests(unittest.TestCase):
 
     def test_description_only_links_explicit_primary_video(self):
         self.assertEqual("abcdefghijk", primary_video_from_description("Full episode. YouTube Link: https://youtu.be/abcdefghijk"))
+        self.assertEqual("abcdefghijk", primary_video_from_description("video format: https://youtu.be/abcdefghijk"))
         self.assertIsNone(primary_video_from_description("Watch Part 1 here: https://youtu.be/abcdefghijk"))
         self.assertIsNone(primary_video_from_description("Related episode on YouTube: https://youtu.be/abcdefghijk"))
 
