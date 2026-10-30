@@ -32,7 +32,7 @@ def reconcile(root: Path) -> dict:
                 result["ambiguous_sources_skipped"] += 1
             continue
         record = sources[0]
-        if record.get("video_ids"):
+        if record.get("video_ids") or record.get("recording_role") in {"excerpt", "public_preview"}:
             continue
         title, show = episode.get("title", ""), episode.get("show", "")
         ident = publisher_title_match(title, show, videos)

@@ -747,6 +747,27 @@
       "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/michael-levin-part-2/id1698130327?i=1000728396341&uo=4",
       "verification_basis": "Episode names Michael Levin and identifies his institution or distinctive research",
       "verified_at": "2026-10-30T00:15:28.614949+00:00"
+    },
+    {
+      "show": "Big Biology",
+      "url": "https://api.substack.com/feed/podcast/120946.rss",
+      "directory_collection_id": 1321630019,
+      "verification_basis": "The official Levin appearance index links the Bioelectric Computation and Mouse on a Hill episodes; publisher descriptions identify Levin as guest.",
+      "verified_at": "2026-10-30T04:19:15.510533+00:00",
+      "reviewed_episode_guids": {
+        "e4f27ed5-6ef2-4db2-ae58-622040c8b41d": {
+          "source_url": "https://bigbiology.substack.com/p/bioelectric-computation-ep-39-re-703",
+          "basis": "Publisher describes an interview with Tufts biologist Michael Levin; the official Levin index lists this episode."
+        },
+        "f00e50f6-2a26-4054-9559-6de4111f9ff6": {
+          "source_url": "https://bigbiology.substack.com/p/mouse-on-a-hill-the-structure-and-4a5",
+          "basis": "Publisher describes an interview with Tufts biologist Michael Levin; the official Levin index lists this episode."
+        },
+        "02f962b6-04bf-4d97-9f96-66ebd7860741": {
+          "source_url": "https://bigbiology.substack.com/p/ep-39-bioelectric-computation-fea",
+          "basis": "Publisher describes an interview with Tufts biologist Michael Levin; the official Levin index lists this episode."
+        }
+      }
     }
   ],
   "discovery_basis": "Public Apple Podcasts directory lookup verified these show names, artists and publisher feed URLs on 2026-10-29."

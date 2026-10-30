@@ -55,6 +55,8 @@ Use `python -m levinverse.validate` for checksums, source/authorization fields, 
 
 `python -m levinverse.reconcile` links an existing transcript to an uncovered video when the publisher and a distinctive full video title match an RSS episode. These links are marked inferred: edits and mirrors have not been compared. The coverage report counts them separately, and the underlying publisher and episode evidence is retained.
 
+When a publisher labels a public feed item as a preview of a paid episode, the collector records `public_preview` and the publisher's full-episode access restriction. Preview and excerpt text is retained and counted separately; a partial recording cannot establish full-video transcript coverage through reconciliation. No subscriber-only content is retrieved.
+
 Set `$env:LEVINVERSE_WHISPER_BATCH_SIZE='8'` to use the optional [faster-whisper batched inference path](https://github.com/SYSTRAN/faster-whisper#batched-transcription). The default is one; accepted values are 1 through 16. The chosen batch size is recorded in each ASR companion. Keep GPU job concurrency at one. Exact audio hashes reuse existing text, while distinct recordings referencing the same upload receive separate media filenames. Local batch manifests under `reports/*worker.json` are ignored runtime state; they do not configure a scheduler.
 
 `python -m levinverse.platforms` records configured external-platform IDs separately from YouTube uploads and stores public native caption tracks. The collector uses Windows' native certificate store through `truststore`; TLS certificate verification remains enabled. ASR boundary overlaps are preserved and reported separately from reversed timestamp order or duration errors.

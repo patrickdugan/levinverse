@@ -111,6 +111,18 @@ class SourceTests(unittest.TestCase):
             self.assertEqual(["abcdefghijk"], read_jsonl(root / "catalog/transcripts.jsonl")[0]["video_ids"])
             self.assertEqual("publisher_and_title_match", read_jsonl(root / "catalog/videos.jsonl")[0]["transcript_video_link_method"])
 
+    def test_reconciliation_does_not_link_a_preview_as_a_full_video(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            text = root / "transcripts/permitted/preview.txt"
+            text.parent.mkdir(parents=True)
+            text.write_text("Preview speech.", encoding="utf-8")
+            upsert(root / "catalog/videos.jsonl", [{"video_id": "abcdefghijk", "canonical_url": "https://www.youtube.com/watch?v=abcdefghijk", "title": "The New Era of Cognitive Biorobotics", "host": "Robinson's Podcast"}], "video_id")
+            upsert(root / "catalog/rss-episodes.jsonl", [{"episode_id": "preview", "source_url": "https://example.org/preview", "feed_url": "https://example.org/feed", "title": "187 - Michael Levin: The New Era of Cognitive Biorobotics", "show": "Robinson's Podcast"}], "episode_id")
+            upsert(root / "catalog/transcripts.jsonl", [{"transcript_id": "preview", "source_url": "https://example.org/preview", "status": "stored", "text_path": text.relative_to(root).as_posix(), "video_ids": [], "recording_role": "public_preview"}], "transcript_id")
+            self.assertEqual(0, reconcile(root)["inferred_video_links"])
+            self.assertFalse(read_jsonl(root / "catalog/videos.jsonl")[0].get("transcript_path"))
+
     def test_existing_episode_match_requires_publisher_or_identical_enclosure(self):
         record = {"transcript_id": "fixture", "source_url": "https://publisher.org/transcript", "title": "Michael Levin on Growth Form Information Cognition and Self", "audio_url": "https://media.example.org/one.mp3"}
         self.assertIs(record, stored_episode("Michael Levin on Growth Form Information Cognition and Self", "https://another.org/episode", "", {"transcript_publisher_domains": ["publisher.org"]}, [record]))
@@ -144,6 +156,25 @@ class SourceTests(unittest.TestCase):
             self.assertEqual(0, result["audio_queued"])
             self.assertEqual("covered_by_stored_transcript", read_jsonl(root / "catalog/audio-queue.jsonl")[0]["status"])
             self.assertEqual("Original title", read_jsonl(root / "catalog/videos.jsonl")[0]["title"])
+
+    def test_paid_episode_preview_never_marks_full_video_covered(self):
+        with tempfile.TemporaryDirectory(dir="tests") as folder:
+            root = Path(folder)
+            (root / "config").mkdir()
+            (root / "config/permissions.json").write_text(json.dumps({"transcript_storage_authorized": True, "audio_processing_authorized": True, "authorization_basis": "Fixture permission"}))
+            feed = "https://example.org/rss"
+            (root / "config/podcast-feeds.json").write_text(json.dumps({"feeds": [{"show": "Example", "url": feed}]}))
+            upsert(root / "catalog/videos.jsonl", [{"video_id": "abcdefghijk", "canonical_url": "https://www.youtube.com/watch?v=abcdefghijk", "title": "Michael Levin on bioelectricity"}], "video_id")
+            rss = b'<rss xmlns:p="https://podcastindex.org/namespace/1.0"><channel><item><title>Michael Levin on bioelectricity</title><guid>preview</guid><description>This is a free preview of a paid episode. Tufts biologist Michael Levin. YouTube Link: https://youtu.be/abcdefghijk</description><enclosure url="https://example.org/audio.mp3"/><p:transcript url="https://example.org/track.srt" type="application/x-subrip"/></item></channel></rss>'
+            class Client:
+                def get(self, url):
+                    return rss if url == feed else b"1\n00:00:00,000 --> 00:00:01,000\nFixture speech.\n\n"
+            self.assertEqual(1, collect(root, Client())["captions_stored"])
+            record = read_jsonl(root / "catalog/transcripts.jsonl")[0]
+            self.assertEqual("public_preview", record["recording_role"])
+            self.assertEqual("abcdefghijk", record["partial_video_id"])
+            self.assertEqual([], record["video_ids"])
+            self.assertFalse(read_jsonl(root / "catalog/videos.jsonl")[0].get("transcript_path"))
 
     def test_rss_commentary_is_kept_for_review_without_queueing_audio(self):
         with tempfile.TemporaryDirectory(dir="tests") as folder:

@@ -248,6 +248,12 @@
     "sha256": "2819b1715fc4efb83dbe5ee8f3938253485b0f9f747bfbdd935616d277af3273",
     "status": "fetched"
   },
+  "https://api.substack.com/feed/podcast/120946.rss": {
+    "bytes": 363294,
+    "checked_at": "2026-10-30T04:17:32.147728+00:00",
+    "sha256": "e2f83c59ba8ee577bfa4b52f3e099ba72ba94025b3359657e8f072f8ec1a73f9",
+    "status": "fetched"
+  },
   "https://api.substack.com/feed/podcast/2639694.rss": {
     "bytes": 1874096,
     "checked_at": "2026-10-29T22:16:33.094809+00:00",

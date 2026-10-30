@@ -174,6 +174,8 @@ def run_batch(root: Path, limit: int, model: str) -> dict:
             registry["publisher_feed_url"] = job.get("publisher_feed_url")
             registry["episode_guid"] = job.get("episode_guid")
             registry["recording_role"] = job.get("recording_role", "unknown")
+            registry["partial_video_id"] = job.get("partial_video_id")
+            registry["full_episode_access"] = job.get("full_episode_access")
             if duplicate:
                 registry["duplicate_of"] = "whisper-" + duplicate["job_id"]
                 job["duplicate_of"] = duplicate["job_id"]
