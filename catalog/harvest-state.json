@@ -425,6 +425,12 @@
     "sha256": "a64486248f734f00d25ae827d43efb76f4d96cab0c73334b2ba34e722eb1359f",
     "status": "fetched"
   },
+  "https://feeds.simplecast.com/4FF7CAnQ": {
+    "bytes": 1170494,
+    "checked_at": "2026-11-03T09:20:40.978453+00:00",
+    "sha256": "6cc8c8ca6f76216fb96c1808d937fb0f43c93b2c6bca6360afe6a37b275501da",
+    "status": "fetched"
+  },
   "https://feeds.simplecast.com/EWgdAOib": {
     "bytes": 2421083,
     "checked_at": "2026-10-30T00:19:47.271946+00:00",
@@ -639,6 +645,12 @@
     "sha256": "2855ce4a6dfb1ec88274ec3620de5bf17c56ff38a47ce0fec7f13af85017edb2",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+Tufts+morphogenesis&entity=podcastEpisode&limit=200": {
+    "bytes": 297195,
+    "checked_at": "2026-11-03T09:20:13.803265+00:00",
+    "sha256": "24e460ee561865c8f1d0c81cfcc2985fc042730f0bb372f065db879b9661c717",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+bioelectricity&entity=podcastEpisode&limit=200": {
     "bytes": 309509,
     "checked_at": "2026-11-03T08:02:46.793419+00:00",
@@ -663,6 +675,12 @@
     "sha256": "0797d2fe75cc81582d65e17536c3a237ab2df23ebaef57ef0766910d3e7b647e",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+cognition+bioelectric&entity=podcastEpisode&limit=200": {
+    "bytes": 327637,
+    "checked_at": "2026-11-03T09:20:18.639058+00:00",
+    "sha256": "e06c86901d000fba03767690eea968653b5054b4a11ae7043c0963f8673bb749",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+cognitive+biology&entity=podcastEpisode&limit=200": {
     "bytes": 340270,
     "checked_at": "2026-10-29T16:04:10.693324+00:00",
@@ -673,6 +691,12 @@
     "bytes": 274932,
     "checked_at": "2026-10-29T22:15:06.222556+00:00",
     "sha256": "60da9da9069fd8040d1dfcc5f73f4d1bd0fdd9596384255ec97103918c180cce",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+developmental+biologist+interview&entity=podcastEpisode&limit=200": {
+    "bytes": 290914,
+    "checked_at": "2026-11-03T09:20:09.763286+00:00",
+    "sha256": "471ba2bc1883fe45ebb6786cd4b1c77220a1e9b36f795fdfb05e4e0bbed80bd2",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+intelligence&entity=podcastEpisode&limit=200": {
@@ -873,6 +897,12 @@
     "bytes": 230132,
     "checked_at": "2026-10-29T11:41:24.763707+00:00",
     "sha256": "6944533ad995b55feea9837d4f69adc37510893eab5eee6e0081c3ffd1189183",
+    "status": "fetched"
+  },
+  "https://news.uchicago.edu/how-bioelectricity-could-regrow-limbs-and-organs": {
+    "bytes": 62270,
+    "checked_at": "2026-11-03T09:21:37.156380+00:00",
+    "sha256": "5b1f72aad870c3f23f9d795ff7203043e9f83aa18e035c0b264947e2b8642285",
     "status": "fetched"
   },
   "https://open.spotify.com/episode/2yxUKGXFvf3lKwm71j60bY": {
