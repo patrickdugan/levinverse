@@ -633,16 +633,28 @@
     "sha256": "36eba254a649aa6425b14c6acf9cd0f703348c93cf1251682b4dde943808e737",
     "status": "fetched"
   },
+  "https://itunes.apple.com/search?term=Michael+Levin+Tufts+conversation&entity=podcastEpisode&limit=200": {
+    "bytes": 267970,
+    "checked_at": "2026-11-03T08:03:37.953763+00:00",
+    "sha256": "2855ce4a6dfb1ec88274ec3620de5bf17c56ff38a47ce0fec7f13af85017edb2",
+    "status": "fetched"
+  },
   "https://itunes.apple.com/search?term=Michael+Levin+bioelectricity&entity=podcastEpisode&limit=200": {
-    "bytes": 307905,
-    "checked_at": "2026-10-29T16:04:03.238532+00:00",
-    "sha256": "fba516f3eb4674920415b7aebf37839fd9101b0eff5fd2b0aa410080edd0c0e1",
+    "bytes": 309509,
+    "checked_at": "2026-11-03T08:02:46.793419+00:00",
+    "sha256": "b4e53d411f30f1162dff32853dc0ca9fb451b7343aad28aa7aeb3b944a8d9f30",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+cell+intelligence&entity=podcastEpisode&limit=200": {
     "bytes": 241454,
     "checked_at": "2026-10-30T00:15:27.234792+00:00",
     "sha256": "324c1acb1421dc4c0803482b4b59a93f992388825ad350d56cca94ce7d3ea29f",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+cellular+intelligence+podcast&entity=podcastEpisode&limit=200": {
+    "bytes": 287680,
+    "checked_at": "2026-11-03T08:03:41.873840+00:00",
+    "sha256": "3afe294184c40bca6cfe63ad8cc11460620663fbe3fd00185e9c69351bd0ea31",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+cognition&entity=podcastEpisode&limit=200": {
@@ -676,9 +688,9 @@
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+morphogenesis&entity=podcastEpisode&limit=200": {
-    "bytes": 301825,
-    "checked_at": "2026-10-29T16:04:14.708976+00:00",
-    "sha256": "39d21f51f7d222a0d93e6fadad81f50f680c2900b5047e1c0e8c1899d33b9ee5",
+    "bytes": 299673,
+    "checked_at": "2026-11-03T08:02:52.925160+00:00",
+    "sha256": "af9ac9720fa3425e7711619f34a8913b6fbcd87cf8c1eeeaee385249019741dd",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+philosophy&entity=podcastEpisode&limit=200": {
@@ -694,15 +706,21 @@
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+regeneration&entity=podcastEpisode&limit=200": {
-    "bytes": 292109,
-    "checked_at": "2026-10-29T16:04:07.169440+00:00",
-    "sha256": "3174b2ccf8f7f04dc815ba5559ab80b25323f40bc2b23faa2df2d672f3844336",
+    "bytes": 292089,
+    "checked_at": "2026-11-03T08:02:59.123501+00:00",
+    "sha256": "d4be76c18d0e924f29ea44b9428695a5d35790cc575d3af6bebf1b7aa6da1188",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Michael+Levin+selfhood&entity=podcastEpisode&limit=200": {
     "bytes": 299654,
     "checked_at": "2026-10-30T00:15:14.265408+00:00",
     "sha256": "f8c688c4e5a30ff2317ae1aca740985a0c621e136c750f210f766765df71f481",
+    "status": "fetched"
+  },
+  "https://itunes.apple.com/search?term=Michael+Levin+xenobots+interview&entity=podcastEpisode&limit=200": {
+    "bytes": 250414,
+    "checked_at": "2026-11-03T08:03:34.070673+00:00",
+    "sha256": "40148d4ae6abe800cdd8257e3fe76971ae5d50f4aa7c64ba7bd70bbdbea56f39",
     "status": "fetched"
   },
   "https://itunes.apple.com/search?term=Mike+Levin&entity=podcastEpisode&limit=200": {
@@ -992,6 +1010,12 @@
     "sha256": "5bb9f47c58aa935aace87c43e284b353d4398e8b5d763767778011b0939769b9",
     "status": "fetched"
   },
+  "https://rss.libsyn.com/shows/98622/destinations/723040.xml": {
+    "bytes": 190725,
+    "checked_at": "2026-11-03T08:04:03.208241+00:00",
+    "sha256": "26bfb376dd1d7725494728a98c587e5df506b90313a8c1c8b7e93efdd52f5bb5",
+    "status": "fetched"
+  },
   "https://rss.pdrl.fm/a88a08/feeds.megaphone.fm/MASL6091580855/": {
     "bytes": 4929994,
     "checked_at": "2026-10-29T11:25:15.037215+00:00",
@@ -1046,6 +1070,12 @@
     "bytes": 86520,
     "checked_at": "2026-10-29T10:05:50.287597+00:00",
     "sha256": "ecd0e65ce80010d943d5b139ba781d4a3b31e9069920fe5e7915be69ee84b9af",
+    "status": "fetched"
+  },
+  "https://stemcellpodcast.com/feed/podcast": {
+    "bytes": 831621,
+    "checked_at": "2026-11-03T08:04:51.199188+00:00",
+    "sha256": "ddd1cd57f58f3735a5081dae52d8a52fb110f8f2beaf5c22d4b2788f1a0702c6",
     "status": "fetched"
   },
   "https://storiesofimpact.libsyn.com/diverse-intelligences-surprises-with-dr-franc-de-waal-dr-michael-levin": {

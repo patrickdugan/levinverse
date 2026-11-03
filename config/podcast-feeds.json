@@ -783,6 +783,20 @@
           "basis": "Publisher describes an interview with Tufts biologist Michael Levin; the official Levin index lists this episode."
         }
       }
+    },
+    {
+      "show": "Computing Up",
+      "url": "https://rss.libsyn.com/shows/98622/destinations/723040.xml",
+      "directory_collection_id": 1398575502,
+      "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/michael-levin-tames-life/id1398575502?i=1000602848654&uo=4",
+      "verification_basis": "Episode names Michael Levin and identifies his institution or distinctive research",
+      "verified_at": "2026-11-03T08:03:39.087833+00:00"
+    },
+    {
+      "show": "The Stem Cell Podcast",
+      "url": "https://stemcellpodcast.com/feed/podcast",
+      "directory_episode_evidence": "https://podcasts.apple.com/us/podcast/ep-220-developmental-and-synthetic-biology-featuring/id711463982?i=1000566431948",
+      "verification_basis": "Publisher identifies Tufts biologist Michael Levin as interviewed guest in episode 220."
     }
   ],
   "discovery_basis": "Public Apple Podcasts directory lookup verified these show names, artists and publisher feed URLs on 2026-10-29."
